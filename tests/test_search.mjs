@@ -109,6 +109,9 @@ async function searchAndReadDOM(page, query) {
       snippetHtml: el.querySelector(".result-snippet")?.innerHTML || "",
       link: el.querySelector(".result-snippet a")?.href || "",
       termCount: parseInt(el.dataset.termCount || "0"),
+      totalHits: parseInt(el.dataset.totalHits || "0"),
+      orderedPhrase: el.dataset.orderedPhrase === "1",
+      adjacentTerms: el.dataset.adjacentTerms === "1",
     }));
   });
 }
@@ -394,7 +397,7 @@ assert(
 
 console.log("\n== DOM test: quoted phrase search ==");
 
-// Unquoted search should find results containing both terms
+// Unquoted search should find results, with exact phrase matches ranked first
 const unquotedResults = await searchAndReadDOM(page, "fünf blockchains");
 console.log(`  Unquoted "fünf blockchains": ${unquotedResults.length} results`);
 assert(
@@ -402,7 +405,42 @@ assert(
   unquotedResults.length > 0,
 );
 
-// Quoted search must also return results (Pagefind supports quoted phrase search)
+// Show ranking fields for top results
+for (let i = 0; i < Math.min(5, unquotedResults.length); i++) {
+  const r = unquotedResults[i];
+  console.log(`  [${i}] ord=${r.orderedPhrase} adj=${r.adjacentTerms} tc=${r.termCount} th=${r.totalHits} ${r.title} | ${r.snippet.substring(0, 60).trim()}`);
+}
+
+// Ordered phrase matches must come before non-phrase matches
+const firstNonOrdered = unquotedResults.findIndex(r => !r.orderedPhrase);
+const lastOrdered = unquotedResults.map(r => r.orderedPhrase).lastIndexOf(true);
+assert(
+  "ordered phrase results ranked before non-phrase results",
+  lastOrdered < firstNonOrdered || lastOrdered === -1,
+  `last ordered at ${lastOrdered}, first non-ordered at ${firstNonOrdered}`,
+);
+
+// Top result should have ordered phrase match
+assert(
+  "top result has ordered phrase match",
+  unquotedResults[0]?.orderedPhrase === true,
+  `orderedPhrase=${unquotedResults[0]?.orderedPhrase}`,
+);
+
+// Verify umlaut normalization works for quoted phrase search at Pagefind level
+const pfQuotedCount = await page.evaluate(async () => {
+  const pf = await import("./pagefind/pagefind.js");
+  const r = await pf.search('"funf blockchains"');
+  return r.results.length;
+});
+console.log(`  Pagefind API '"funf blockchains"': ${pfQuotedCount} results`);
+assert(
+  "Pagefind finds quoted 'funf blockchains' (umlaut-normalized)",
+  pfQuotedCount > 0,
+  `got ${pfQuotedCount} results`,
+);
+
+// Quoted search via UI must also return results
 const quotedResults = await searchAndReadDOM(page, '"fünf blockchains"');
 console.log(`  Quoted '"fünf blockchains"': ${quotedResults.length} results`);
 assert(

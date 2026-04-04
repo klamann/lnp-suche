@@ -544,6 +544,16 @@
       debounceTimer = setTimeout(() => performSearch(input.value), 200);
     });
 
+    // Normalize umlauts to match Pagefind's German stemmer, which strips them
+    // during indexing but not during search (e.g. fünf→funf, über→uber).
+    const stripUmlauts = w => w
+      .replace(/[äÄ]/g, m => m === "ä" ? "a" : "A")
+      .replace(/[öÖ]/g, m => m === "ö" ? "o" : "O")
+      .replace(/[üÜ]/g, m => m === "ü" ? "u" : "U")
+      .replace(/ß/g, "ss");
+    // Normalize a word for matching: lowercase, strip punctuation and umlauts.
+    const norm = w => stripUmlauts(w.toLowerCase().replace(/[.,;:!?"'()]/g, ""));
+
     async function performSearch(query) {
       resultsContainer.innerHTML = "";
       resultCountEl.textContent = "";
@@ -558,11 +568,7 @@
       // (e.g. fünf→funf, über→uber) but doesn't apply the same normalization
       // to search queries, so "fünf" finds nothing while "funf" finds 489
       // results. Work around this by normalizing umlauts in the query.
-      const normalizedQuery = query
-        .replace(/ä/g, "a").replace(/Ä/g, "A")
-        .replace(/ö/g, "o").replace(/Ö/g, "O")
-        .replace(/ü/g, "u").replace(/Ü/g, "U")
-        .replace(/ß/g, "ss");
+      const normalizedQuery = stripUmlauts(query);
       const search = await pagefind.search(normalizedQuery);
 
       if (search.results.length === 0) {
@@ -576,9 +582,16 @@
         search.results.slice(0, 20).map(r => r.data())
       );
 
+      // Extract search terms from the query for proximity ranking.
+      // Handles quoted phrases as single units, e.g. '"foo bar" baz' → ["foo bar", "baz"]
+      const searchTerms = [];
+      const strippedQuery = normalizedQuery.replace(/"([^"]+)"/g, (_, p) => { searchTerms.push(p.toLowerCase()); return ""; });
+      for (const t of strippedQuery.split(/\s+/)) { if (t) searchTerms.push(t.toLowerCase()); }
+
       // Build paragraph-scoped hits using anchors and word locations
       const hits = [];
-      for (const page of pages) {
+      for (let pageIdx = 0; pageIdx < pages.length; pageIdx++) {
+        const page = pages[pageIdx];
         const title = page.meta?.title || "Unbekannte Episode";
         const episodeUrl = page.meta?.url || "#";
         const date = page.meta?.date || "";
@@ -587,14 +600,13 @@
         const rawLocations = page.locations || [];
 
         if (anchors.length === 0 || rawLocations.length === 0) {
-          hits.push({ title, episodeUrl, date, excerpt: page.excerpt || "" });
+          hits.push({ title, episodeUrl, date, pageRank: pageIdx, excerpt: page.excerpt || "" });
           continue;
         }
 
         // Pagefind's locations may only contain the best match for phrase
         // searches. Expand by finding all content positions where the same
         // sequence of normalized terms appears, so every paragraph is shown.
-        const norm = w => w.toLowerCase().replace(/[.,;:!?"'()]/g, "");
         const pattern = rawLocations.map(l => norm(words[l] || "")).filter(Boolean);
         const locations = [];
         if (pattern.length > 0) {
@@ -658,12 +670,40 @@
 
           const hitTerms = new Set(paraLocs.map(l => norm(words[l])));
           const termCount = [...uniqueTerms].filter(t => hitTerms.has(t)).length;
-          hits.push({ title, episodeUrl, date, speaker: para.speaker, excerpt, termCount });
+          const totalHits = paraLocs.length;
+
+          // Check if all search terms appear adjacent and in order
+          let hasOrderedPhrase = false;
+          let hasAdjacentTerms = false;
+          if (searchTerms.length > 1) {
+            const normed = paraWords.map(w => norm(w));
+            // Check ordered: all terms appear as consecutive sequence in order
+            for (let i = 0; i <= normed.length - searchTerms.length; i++) {
+              if (searchTerms.every((t, j) => normed[i + j] === t)) {
+                hasOrderedPhrase = true;
+                hasAdjacentTerms = true;
+                break;
+              }
+            }
+            // Check adjacent in any order: all terms within a window of searchTerms.length
+            if (!hasAdjacentTerms) {
+              for (let i = 0; i <= normed.length - searchTerms.length; i++) {
+                const window = normed.slice(i, i + searchTerms.length);
+                if (searchTerms.every(t => window.includes(t))) {
+                  hasAdjacentTerms = true;
+                  break;
+                }
+              }
+            }
+          }
+
+          hits.push({ title, episodeUrl, date, speaker: para.speaker, excerpt,
+            termCount, totalHits, hasOrderedPhrase, hasAdjacentTerms, pageRank: pageIdx });
         }
 
         // Fallback: page matched but no paragraph-level hits (e.g. title match)
         if (!seen.size) {
-          hits.push({ title, episodeUrl, date, excerpt: page.excerpt || "" });
+          hits.push({ title, episodeUrl, date, pageRank: pageIdx, excerpt: page.excerpt || "" });
         }
       }
 
@@ -709,6 +749,9 @@
         const item = document.createElement("div");
         item.className = "result-item";
         item.dataset.termCount = hit.termCount || 0;
+        item.dataset.totalHits = hit.totalHits || 0;
+        item.dataset.orderedPhrase = hit.hasOrderedPhrase ? "1" : "0";
+        item.dataset.adjacentTerms = hit.hasAdjacentTerms ? "1" : "0";
         item.innerHTML = `
           <div class="result-title">
             <a href="${escapeAttr(hit.episodeUrl)}">${escapeHtml(hit.title)}</a>
@@ -760,7 +803,15 @@
     function sortHits(hits) {
       const mode = sortSelect.value;
       if (mode === "relevance") {
-        hits.sort((a, b) => (b.termCount || 0) - (a.termCount || 0));
+        // Ranking: ordered phrase > adjacent terms > distinct term count
+        //        > Pagefind page rank > total hit count
+        hits.sort((a, b) =>
+          (b.hasOrderedPhrase ? 1 : 0) - (a.hasOrderedPhrase ? 1 : 0) ||
+          (b.hasAdjacentTerms ? 1 : 0) - (a.hasAdjacentTerms ? 1 : 0) ||
+          (b.termCount || 0) - (a.termCount || 0) ||
+          (a.pageRank ?? 999) - (b.pageRank ?? 999) ||
+          (b.totalHits || 0) - (a.totalHits || 0)
+        );
       } else if (mode === "date-desc") {
         hits.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
       } else if (mode === "date-asc") {

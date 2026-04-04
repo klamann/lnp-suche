@@ -327,6 +327,7 @@
     // Load Pagefind - wrap in try/catch for local dev without index
     let pagefind;
     try {
+      self.WebAssembly = self.WebAssembly || (await import("https://unpkg.com/polywasm@0.1.4/index.min.js")).WebAssembly;
       pagefind = await import("./pagefind/pagefind.js");
       await pagefind.init();
     } catch (e) {

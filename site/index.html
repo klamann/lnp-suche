@@ -142,12 +142,28 @@
         const date = page.meta?.date || "";
         const words = (page.content || "").split(/\s+/);
         const anchors = (page.anchors || []).filter(a => a.element === "h6");
-        const locations = page.locations || [];
+        const rawLocations = page.locations || [];
 
-        if (anchors.length === 0 || locations.length === 0) {
+        if (anchors.length === 0 || rawLocations.length === 0) {
           hits.push({ title, episodeUrl, date, excerpt: page.excerpt || "" });
           continue;
         }
+
+        // Pagefind's locations may only contain the best match for phrase
+        // searches. Expand by finding all content positions where the same
+        // sequence of normalized terms appears, so every paragraph is shown.
+        const norm = w => w.toLowerCase().replace(/[.,;:!?"'()]/g, "");
+        const pattern = rawLocations.map(l => norm(words[l] || "")).filter(Boolean);
+        const locations = [];
+        if (pattern.length > 0) {
+          for (let i = 0; i <= words.length - pattern.length; i++) {
+            if (pattern.every((t, j) => norm(words[i + j]) === t)) {
+              for (let j = 0; j < pattern.length; j++) locations.push(i + j);
+            }
+          }
+        }
+        // Fall back to rawLocations if expansion found nothing (e.g. stemmed matches)
+        if (locations.length === 0) locations.push(...rawLocations);
 
         // Each h6 anchor marks a speaker paragraph boundary.
         // Skip heading text words so excerpts contain only paragraph content.

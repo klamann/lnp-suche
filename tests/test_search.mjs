@@ -1,12 +1,12 @@
 /**
- * Headless browser test for search functionality.
- * Starts a local HTTP server, loads Pagefind, runs search queries,
- * and verifies hit-building logic produces expected results.
+ * End-to-end search test.
+ * Loads the actual search page in a headless browser, types queries,
+ * and inspects ONLY the rendered DOM — no separate Pagefind imports.
  *
  * Run: make test (from project root)
  */
 
-import http from "node:http";
+import { spawn } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 import puppeteer from "puppeteer";
@@ -15,34 +15,31 @@ const SCRIPT_DIR = path.dirname(new URL(import.meta.url).pathname).replace(/^\/(
 const DIST_DIR = path.resolve(SCRIPT_DIR, "..", "dist");
 const PORT = 9222;
 
-// ---- Serve dist/ over HTTP ----
+// ---- Serve dist/ using npx serve (same as make serve) ----
 
 function startServer() {
-  const mimeTypes = {
-    ".html": "text/html",
-    ".js": "application/javascript",
-    ".css": "text/css",
-    ".json": "application/json",
-    ".wasm": "application/wasm",
-  };
-  const server = http.createServer((req, res) => {
-    const urlPath = decodeURIComponent(new URL(req.url, `http://localhost:${PORT}`).pathname);
-    let filePath = path.join(DIST_DIR, urlPath);
-    if (fs.existsSync(filePath) && fs.statSync(filePath).isDirectory()) filePath = path.join(filePath, "index.html");
-
-    fs.readFile(filePath, (err, data) => {
-      if (err) {
-        res.writeHead(404);
-        res.end("Not found");
-        return;
-      }
-      const ext = path.extname(filePath).toLowerCase();
-      res.writeHead(200, { "Content-Type": mimeTypes[ext] || "application/octet-stream" });
-      res.end(data);
+  return new Promise((resolve, reject) => {
+    const proc = spawn("npx", ["serve", DIST_DIR, "-l", String(PORT), "--no-clipboard"], {
+      stdio: ["ignore", "pipe", "pipe"],
+      shell: true,
     });
-  });
-  return new Promise((resolve) => {
-    server.listen(PORT, () => resolve(server));
+    let started = false;
+    const onData = (chunk) => {
+      const text = chunk.toString();
+      if (!started && text.includes("Accepting connections")) {
+        started = true;
+        resolve(proc);
+      }
+    };
+    proc.stdout.on("data", onData);
+    proc.stderr.on("data", onData);
+    setTimeout(() => {
+      if (!started) {
+        // Give it a moment — serve might be slow to print
+        started = true;
+        resolve(proc);
+      }
+    }, 5000);
   });
 }
 
@@ -62,161 +59,149 @@ function assert(label, condition, detail) {
   }
 }
 
+// ---- Preflight: verify dist/ has the expected code ----
+
+const distIndex = fs.readFileSync(path.join(DIST_DIR, "index.html"), "utf-8");
+const hasManualApproach = distIndex.includes("headingWords");
+const hasSubResults = distIndex.includes("sub_results");
+if (!hasManualApproach) {
+  console.error("\x1b[31mERROR: dist/index.html is stale — missing manual hit-building code.\x1b[0m");
+  console.error("Run 'make build' first to rebuild dist/ from site/.");
+  process.exit(2);
+}
+if (hasSubResults) {
+  console.error("\x1b[31mERROR: dist/index.html still has sub_results code — stale build.\x1b[0m");
+  console.error("Run 'make build' first to rebuild dist/ from site/.");
+  process.exit(2);
+}
+console.log("  dist/index.html has expected code");
+
+// ---- Helper: search and read DOM results ----
+
+async function searchAndReadDOM(page, query) {
+  // Clear previous results and input
+  await page.evaluate(() => {
+    document.getElementById("search-input").value = "";
+    document.getElementById("results").innerHTML = "";
+  });
+
+  // Type the full query, then wait for debounce + render
+  await page.type("#search-input", query);
+  try {
+    await page.waitForFunction(
+      () => document.querySelectorAll(".result-item").length > 0,
+      { timeout: 10000 },
+    );
+  } catch {
+    console.log(`  [timeout] No results rendered for "${query}"`);
+    return [];
+  }
+
+  // Wait for search to fully settle (debounce is 200ms, give extra time)
+  await new Promise(r => setTimeout(r, 1000));
+
+  // Read final DOM state
+  return page.evaluate(() => {
+    return Array.from(document.querySelectorAll(".result-item")).map(el => ({
+      title: el.querySelector(".result-title a")?.textContent || "",
+      date: el.querySelector(".result-date")?.textContent || "",
+      snippet: el.querySelector(".result-snippet")?.textContent || "",
+      snippetHtml: el.querySelector(".result-snippet")?.innerHTML || "",
+      link: el.querySelector(".result-snippet a")?.href || "",
+    }));
+  });
+}
+
 // ---- Main ----
 
-const server = await startServer();
-console.log(`Server running on http://localhost:${PORT}`);
+const serverProc = await startServer();
+console.log(`npx serve running on http://localhost:${PORT}`);
+console.log(`Serving: ${DIST_DIR}`);
 
 const browser = await puppeteer.launch({ headless: true });
 const page = await browser.newPage();
 
-// Expose the Pagefind search API results to Node
+// Log ALL browser console messages for debugging
 page.on("console", (msg) => {
-  if (msg.type() === "error") console.log(`  [browser] ${msg.text()}`);
+  console.log(`  [browser:${msg.type()}] ${msg.text()}`);
 });
 
 await page.goto(`http://localhost:${PORT}/`, { waitUntil: "networkidle0" });
 
-// Run search and extract raw Pagefind data inside the browser
-const results = await page.evaluate(async () => {
-  const pagefind = await import("/pagefind/pagefind.js");
-  await pagefind.init();
+// Verify the page loaded correctly
+const pageTitle = await page.title();
+console.log(`  Page title: "${pageTitle}"`);
 
-  async function searchAndExtract(query) {
-    const search = await pagefind.search(query);
-    const pages = await Promise.all(search.results.map(r => r.data()));
-    return pages.map(p => ({
-      title: p.meta?.title || "",
-      url: p.meta?.url || "",
-      date: p.meta?.date || "",
-      content: p.content || "",
-      anchors: p.anchors || [],
-      locations: p.locations || [],
-      sub_results: (p.sub_results || []).map(s => ({
-        title: s.title,
-        excerpt: s.excerpt,
-        anchor: s.anchor,
-      })),
-      excerpt: p.excerpt || "",
-    }));
-  }
+// ---- Test: "kilo koks" — multiple results per episode ----
 
-  return {
-    kiloKoks: await searchAndExtract("kilo koks"),
-    chatkontrolle: await searchAndExtract("chatkontrolle"),
-  };
-});
+console.log("\n== DOM test: 'kilo koks' ==");
 
-await browser.close();
-server.close();
+const kiloResults = await searchAndReadDOM(page, '"kilo koks"');
+console.log(`  Total DOM results: ${kiloResults.length}`);
 
-// ---- Test: "kilo koks" raw Pagefind data for LNP410 ----
+// Show ALL results
+for (let i = 0; i < kiloResults.length; i++) {
+  const r = kiloResults[i];
+  const tag = r.title.includes("410") ? " <<<" : "";
+  console.log(`  [${i}] ${r.title} | ${r.snippet.substring(0, 80).trim()}${tag}`);
+}
 
-console.log("\n== kilo koks: raw Pagefind data for LNP410 ==");
+const lnp410Results = kiloResults.filter(r => r.title.includes("410"));
+console.log(`\n  LNP410 results in DOM: ${lnp410Results.length}`);
+for (const r of lnp410Results) {
+  console.log(`    snippet: ${r.snippet.trim()}`);
+  console.log(`    link: ${r.link}`);
+}
 
-const lnp410 = results.kiloKoks.find(p => p.title.includes("410"));
-assert("LNP410 found in results", !!lnp410);
+assert(
+  "at least 3 DOM results for LNP410",
+  lnp410Results.length >= 3,
+  `got ${lnp410Results.length}`,
+);
 
-if (lnp410) {
-  const words = lnp410.content.split(/\s+/);
-  const h6Anchors = lnp410.anchors.filter(a => a.element === "h6");
+// Quoted phrase search: every snippet must contain the exact phrase
+for (const r of kiloResults) {
+  const text = r.snippet.replace(/^[^:]+:\s*/, "").toLowerCase();
+  assert(
+    `snippet contains "kilo koks": ${r.title}`,
+    text.includes("kilo koks"),
+    `"${r.snippet.substring(0, 100).trim()}"`,
+  );
+}
 
-  // Find all word positions containing "kilo" or "koks"
-  const kiloKoksWordIndices = [];
-  words.forEach((w, i) => {
-    if (w.toLowerCase().replace(/[.,;:!?]/g, "").match(/^(kilo|koks)$/)) {
-      kiloKoksWordIndices.push(i);
-    }
-  });
-
-  console.log(`\n  content word count: ${words.length}`);
-  console.log(`  h6 anchors: ${h6Anchors.length}`);
-  console.log(`  locations (match positions): [${lnp410.locations.join(", ")}]`);
-  console.log(`  sub_results: ${lnp410.sub_results.length}`);
-  console.log(`  "kilo"/"koks" word indices in content: [${kiloKoksWordIndices.join(", ")}]`);
-
-  // Show context around each "kilo"/"koks" occurrence
-  for (const idx of kiloKoksWordIndices) {
-    const ctx = words.slice(Math.max(0, idx - 3), idx + 4).join(" ");
-    // Find which anchor section this falls in
-    const anchor = [...h6Anchors].reverse().find(a => a.location <= idx);
-    const inLocations = lnp410.locations.includes(idx);
-    console.log(`    word[${idx}] = "${words[idx]}" (speaker: ${anchor?.text || "?"}, in locations: ${inLocations})`);
-    console.log(`      context: ...${ctx}...`);
-  }
-
-  // ---- Test: hit-building algorithm ----
-
-  console.log("\n== kilo koks: hit-building algorithm ==");
-
-  const paragraphs = h6Anchors.map((a, i) => {
-    const headingWords = a.text ? a.text.split(/\s+/).length : 0;
-    return {
-      id: a.id,
-      speaker: a.text || "",
-      start: a.location + headingWords,
-      end: i + 1 < h6Anchors.length ? h6Anchors[i + 1].location : words.length,
-    };
-  });
-
-  const hits = [];
-  const seen = new Set();
-  for (const loc of lnp410.locations) {
-    const para = paragraphs.find(p => loc >= p.start && loc < p.end);
-    if (!para || seen.has(para.id)) continue;
-    seen.add(para.id);
-
-    const paraWords = words.slice(para.start, para.end);
-    const paraLocs = lnp410.locations.filter(l => l >= para.start && l < para.end);
-    const offsets = new Set(paraLocs.map(l => l - para.start));
-
-    let snippetWords, snippetOffsets, prefix = "", suffix = "";
-    if (paraWords.length > 40) {
-      const first = Math.min(...offsets);
-      const start = Math.max(0, first - 15);
-      const end = Math.min(paraWords.length, first + 25);
-      snippetWords = paraWords.slice(start, end);
-      snippetOffsets = new Set(paraLocs.map(l => l - para.start - start).filter(o => o >= 0 && o < snippetWords.length));
-      if (start > 0) prefix = "… ";
-      if (end < paraWords.length) suffix = " …";
-    } else {
-      snippetWords = paraWords;
-      snippetOffsets = offsets;
-    }
-
-    const excerpt = prefix + snippetWords.map((w, i) =>
-      snippetOffsets.has(i) ? `[${w}]` : w
-    ).join(" ") + suffix;
-
-    hits.push({ speaker: para.speaker, excerpt, paraId: para.id });
-  }
-
-  for (const hit of hits) {
-    console.log(`  ${hit.speaker}: ${hit.excerpt}`);
-  }
-
-  // 4 hits: 3 literal "Kilo Koks" + 1 stemmed "Kilogramm Kokain" match
-  assert("at least 3 hits for 'kilo koks' in LNP410", hits.length >= 3, `got ${hits.length}`);
-
-  // Check no excerpt starts with speaker name
-  for (const hit of hits) {
-    const plain = hit.excerpt.replace(/\[|\]/g, "");
+// Verify no speaker name duplication
+for (const r of lnp410Results) {
+  const parts = r.snippet.split(": ");
+  if (parts.length >= 2) {
+    const speaker = parts[0].trim();
+    const rest = parts.slice(1).join(": ").trim();
     assert(
-      `excerpt for ${hit.paraId} doesn't start with speaker "${hit.speaker}"`,
-      !plain.startsWith(hit.speaker),
-      `excerpt: "${plain.substring(0, 80)}"`,
+      `no duplicate speaker "${speaker}" in snippet`,
+      !rest.startsWith(speaker),
+      `"${r.snippet.substring(0, 100).trim()}"`,
     );
   }
 }
 
-// ---- Test: "chatkontrolle" returns multiple episodes ----
+// ---- Test: "chatkontrolle" — multiple episodes ----
 
-console.log("\n== chatkontrolle: multiple episodes ==");
+console.log("\n== DOM test: 'chatkontrolle' ==");
+
+const chatResults = await searchAndReadDOM(page, "chatkontrolle");
+const chatEpisodes = new Set(chatResults.map(r => r.title));
+console.log(`  Total DOM results: ${chatResults.length}`);
+console.log(`  Distinct episodes: ${chatEpisodes.size}`);
+
 assert(
-  "chatkontrolle returns multiple episodes",
-  results.chatkontrolle.length >= 3,
-  `got ${results.chatkontrolle.length}`,
+  "chatkontrolle returns results from multiple episodes",
+  chatEpisodes.size >= 3,
+  `got ${chatEpisodes.size} episodes`,
 );
+
+// ---- Cleanup ----
+
+await browser.close();
+serverProc.kill();
 
 // ---- Summary ----
 

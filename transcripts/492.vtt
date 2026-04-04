@@ -1,0 +1,2327 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP492 Ölverschmierte Hände
+Publishing Date: 2024-05-09T18:54:54+02:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp492-oelverschmierte-haende
+
+00:00:00.005 --> 00:00:01.085
+<v Tim Pritlove>Guten Morgen, Linus.
+
+00:00:01.145 --> 00:00:01.905
+<v Linus Neumann>Guten Morgen, Tim.
+
+00:00:02.245 --> 00:00:06.905
+<v Tim Pritlove>Du, ich würde mir gerne mal so eine schöne Herrenhandtasche von Gucci kaufen, aber es ist so teuer.
+
+00:00:07.625 --> 00:00:08.805
+<v Linus Neumann>Da habe ich was für dich.
+
+00:00:29.965 --> 00:00:36.945
+<v Tim Pritlove>Logbuch, Netzpolitik, Nummer 492 vom Vatertag.
+
+00:00:37.125 --> 00:00:39.265
+<v Tim Pritlove>Vom Tag der Heirenhandtasche.
+
+00:00:44.505 --> 00:00:47.345
+<v Tim Pritlove>Da möchte man doch gleich shoppen gehen, aber hat alles zu. So,
+
+00:00:47.345 --> 00:00:53.005
+<v Tim Pritlove>ja, kann ich nur noch online kaufen, weil die Läden dicht haben. Das ist das Problem.
+
+00:00:53.305 --> 00:00:58.225
+<v Tim Pritlove>Deutschland ist einfach umsatzfeindlich, da läuft nichts.
+
+00:00:58.445 --> 00:01:01.225
+<v Tim Pritlove>Kann ich nicht jetzt hier einfach so im freien Tag nutzen und einfach mal in
+
+00:01:01.225 --> 00:01:03.085
+<v Tim Pritlove>die Shopping-Mall latschen. Nix da.
+
+00:01:03.085 --> 00:01:08.265
+<v Linus Neumann>Ich habe in letzter Zeit, nicht nur ich, sondern auch unser Sendungsgast,
+
+00:01:08.285 --> 00:01:13.405
+<v Linus Neumann>den wir noch nicht vorgestellt haben, haben verwechselt in der Vorbereitung auf diesen Tag,
+
+00:01:13.645 --> 00:01:18.385
+<v Linus Neumann>dass heute Vatertag ist und nicht Frauentag.
+
+00:01:19.005 --> 00:01:22.405
+<v Linus Neumann>Und das ist ja ein total dummer Versprecher, wenn du sagst, ja,
+
+00:01:22.545 --> 00:01:29.585
+<v Linus Neumann>dann ist ja Frauentag, ach nee, Vatertag, was so die beiden,
+
+00:01:29.685 --> 00:01:33.305
+<v Linus Neumann>ich glaube, so die komplette kulturelle Gegensätze sind.
+
+00:01:34.425 --> 00:01:39.285
+<v Linus Neumann>Kampftag der Frau und Bollerwagen-Sauftag zu verwechseln ist halt einfach.
+
+00:01:40.225 --> 00:01:43.425
+<v Tim Pritlove>Ist das nicht eigentlich Christi Himmelfahrt?
+
+00:01:43.505 --> 00:01:45.145
+<v Linus Neumann>Christi Himmelfahrt, ja, das ist Christi Himmelfahrt.
+
+00:01:45.185 --> 00:01:46.305
+<v Tim Pritlove>Warum ist denn das Vatertag?
+
+00:01:46.305 --> 00:01:51.445
+<v Linus Neumann>Ach, ich weiß auch nicht. Also die meisten Väter sagen, seitdem ich Vater bin,
+
+00:01:52.005 --> 00:01:54.005
+<v Linus Neumann>war ich nicht mehr mit dem Bollerwagen saufen.
+
+00:01:57.080 --> 00:02:02.440
+<v Linus Neumann>Im Osten übrigens, also meine Potsdamer Freunde sagen eher Herrentag.
+
+00:02:02.620 --> 00:02:09.640
+<v Linus Neumann>Also die versuchen dem Ganzen noch irgendwie so eine gewisse Niveau drin zu halten.
+
+00:02:10.040 --> 00:02:11.800
+<v Tim Pritlove>Niveau? Herrentag?
+
+00:02:12.380 --> 00:02:16.880
+<v Linus Neumann>Das ist doch alles schon kolonial verbrämt. Oh, oh.
+
+00:02:20.160 --> 00:02:22.660
+<v Tim Pritlove>Ganz gefährliches Terrain. Auf jeden Fall.
+
+00:02:22.860 --> 00:02:26.520
+<v Linus Neumann>Es ist der Tag am Boller. Es ist Feiertag.
+
+00:02:26.520 --> 00:02:31.420
+<v Tim Pritlove>Also kann man glaube ich, die Läden haben zu. Und wenn ich jetzt meine Gucci-Herren-Tasche
+
+00:02:31.420 --> 00:02:33.760
+<v Tim Pritlove>kaufen würde, dann muss ich das online machen.
+
+00:02:34.020 --> 00:02:35.780
+<v Tim Pritlove>Da habe ich ganz viele tolle Sachen gesehen.
+
+00:02:35.800 --> 00:02:37.040
+<v Linus Neumann>Aber online ist auch billiger.
+
+00:02:37.240 --> 00:02:41.020
+<v Tim Pritlove>Ja, richtig mit Prozenten und so.
+
+00:02:42.220 --> 00:02:47.400
+<v Tim Pritlove>Ach ja. Ja, jetzt sagen wir erstmal Hallo. Hallo, Herr Torkel.
+
+00:02:47.880 --> 00:02:50.940
+<v Tim Pritlove>Herzlich Willkommen. Du warst ja schon mal da bei uns.
+
+00:02:52.340 --> 00:02:55.220
+<v Tim Pritlove>Das war, welches LNP war das noch gleich?
+
+00:02:55.520 --> 00:03:01.180
+<v Tim Pritlove>Das war 422 Bundesverdienstcoin, hieß es da.
+
+00:03:01.900 --> 00:03:06.200
+<v Tim Pritlove>Und da hast du schon über Hackereien berichtet. Kleiner Spoiler,
+
+00:03:06.220 --> 00:03:09.260
+<v Tim Pritlove>das machen wir heute auch wieder. Deswegen bist du hier.
+
+00:03:10.080 --> 00:03:12.340
+<v Linus Neumann>Wir berichten heute über Obtainereien.
+
+00:03:14.640 --> 00:03:15.280
+<v Linus Neumann>Erklären wir später.
+
+00:03:15.560 --> 00:03:17.920
+<v Tim Pritlove>Okay, Obtainereien, wie auch immer, auf jeden Fall.
+
+00:03:20.740 --> 00:03:22.220
+<v Tim Pritlove>Ich würde es mal als...
+
+00:03:24.488 --> 00:03:29.968
+<v Tim Pritlove>Data Harvesting bezeichnen. Gibt es den Begriff schon?
+
+00:03:30.208 --> 00:03:33.088
+<v Tim Pritlove>Oder können wir vielleicht auch mal selber einen Fachbegriff hier so freuen?
+
+00:03:43.028 --> 00:03:47.048
+<v Tim Pritlove>Insofern liege ich schon richtig. Alles klar, sehr gut.
+
+00:03:47.488 --> 00:03:53.288
+<v Linus Neumann>Die Bundesverdienst-Coin-Folge, wir haben über mehrere Hacks gesprochen,
+
+00:03:53.408 --> 00:03:56.828
+<v Linus Neumann>unter anderem, dass du diese Münze hast von der Bundeswehr,
+
+00:03:56.968 --> 00:04:02.348
+<v Linus Neumann>die mich immer wieder, das bringe ich in Gesprächen öfter an,
+
+00:04:02.448 --> 00:04:07.048
+<v Linus Neumann>aber dieser Bundesverdienst-Coin war ja die Münze von der Bundeswehr,
+
+00:04:07.108 --> 00:04:11.888
+<v Linus Neumann>weil du bei der Bundeswehr mehrere Schwachstellen gemeldet hast und dann hast du eine Münze gekriegt.
+
+00:04:11.888 --> 00:04:14.848
+<v Linus Neumann>Mit der man nicht bezahlen kann.
+
+00:04:16.048 --> 00:04:17.208
+<v Linus Neumann>Eine Ehrenmünze, ne?
+
+00:04:20.328 --> 00:04:20.948
+<v Linus Neumann>Am Band.
+
+00:04:21.868 --> 00:04:26.488
+<v Tim Pritlove>Bei der Bundeswehr brauchst du auch keine Münze, um irgendwo reinzukommen.
+
+00:04:26.528 --> 00:04:31.928
+<v Tim Pritlove>Da musst du die URL richtig raten. Dann bist du schon voll dabei im Inner Circle.
+
+00:04:34.548 --> 00:04:35.068
+<v Tim Pritlove>Genau.
+
+00:04:35.388 --> 00:04:43.308
+<v Linus Neumann>Nachdem du bei uns in der Sendung warst, war glaube ich eure Forschung zur Biometrie
+
+00:04:43.308 --> 00:04:45.668
+<v Linus Neumann>in Afghanistan, die war danach, oder?
+
+00:04:45.688 --> 00:04:48.488
+<v Linus Neumann>Die haben wir nur behandelt, aber warst du dazu nochmal in der Sendung?
+
+00:04:52.668 --> 00:04:55.868
+<v Linus Neumann>Da ging es um die Biometriegeräte, also wir haben es hier behandelt,
+
+00:04:55.928 --> 00:05:01.368
+<v Linus Neumann>die Biometriegeräte, die das US-Militär in Afghanistan zurückgelassen hat,
+
+00:05:01.468 --> 00:05:02.768
+<v Linus Neumann>die die Datenbank mit den,
+
+00:05:03.948 --> 00:05:08.788
+<v Linus Neumann>biometrischen Daten auf den Geräten hatten und die fand man dann auf Ebay.
+
+00:05:38.188 --> 00:05:41.548
+<v Linus Neumann>Aber das war ja auch geil. Der war sechs Monate später.
+
+00:05:42.788 --> 00:05:48.268
+<v Linus Neumann>Das war irgendwie sechs Monate nach eurem Vortrag, dass er euch gebeten hat,
+
+00:05:48.408 --> 00:05:50.868
+<v Linus Neumann>die doch mal zu schicken, weil sie es jetzt doch untersuchen.
+
+00:05:51.148 --> 00:05:54.768
+<v Linus Neumann>Da war es schon ungefähr ein Jahr her, dass ihr Bescheid gesagt habt oder dreiviertel Jahr.
+
+00:05:55.908 --> 00:05:59.468
+<v Linus Neumann>Und dann sind die Dinger ja zurückgekommen, weil die die nicht aus der Packstation abgeholt haben.
+
+00:06:01.248 --> 00:06:04.608
+<v Linus Neumann>Geil. Also US-Militär kann auch
+
+00:06:04.608 --> 00:06:07.668
+<v Linus Neumann>noch nicht mal irgendwie ein Paket sich zuschicken lassen und abholen.
+
+00:06:08.028 --> 00:06:12.088
+<v Linus Neumann>Also da sind die, zumindest in Deutschland, sehr deutsch.
+
+00:06:17.828 --> 00:06:20.388
+<v Linus Neumann>Nee, nee, ich krieg euch das mit der Post.
+
+00:06:22.609 --> 00:06:26.829
+<v Linus Neumann>Er hat uns gebeten, ob ich ihm das geben kann.
+
+00:06:26.909 --> 00:06:30.829
+<v Linus Neumann>Er würde mich auch zu Hause besuchen. Voll freundliche Bitte.
+
+00:06:33.409 --> 00:06:37.489
+<v Tim Pritlove>So, dann habt ihr zusammen aber auch noch auf dem Camp einen Vortrag gemacht, auf dem letzten.
+
+00:06:37.489 --> 00:06:48.289
+<v Linus Neumann>Genau das waren Dominik Kantorkel und ich über die Obtainerei bei unterschiedlichen
+
+00:06:48.289 --> 00:06:52.389
+<v Linus Neumann>Gruppierungen aus dem Ransomware-Umfeld.
+
+00:06:52.389 --> 00:06:59.709
+<v Linus Neumann>Da hatten wir ja auch einen Threat-Actor infiltriert, der offenbar Ransomware ausgerollt hat.
+
+00:07:00.189 --> 00:07:04.109
+<v Linus Neumann>Wir haben auch ein bisschen über die Disclosure-Sachen gesprochen, die du gemacht hattest.
+
+00:07:05.209 --> 00:07:08.129
+<v Linus Neumann>Disclosure, Hack und Back hieß der Vortrag.
+
+00:07:08.129 --> 00:07:11.809
+<v Tim Pritlove>Was ist denn Threat-Actor wieder für ein merkwürdiger Begriff?
+
+00:07:12.389 --> 00:07:14.349
+<v Tim Pritlove>Ein Bedrohungsschauspieler.
+
+00:07:14.349 --> 00:07:19.389
+<v Linus Neumann>Nee, also Actor ist nicht nur Schauspieler, sondern auch Ich weiß.
+
+00:07:19.609 --> 00:07:24.189
+<v Tim Pritlove>Ein Akteur, genau. Bedrohlicher Akteur.
+
+00:07:24.329 --> 00:07:31.569
+<v Linus Neumann>Also ein Threat Actor ist eine benennbare Gruppierung oder Person,
+
+00:07:32.689 --> 00:07:36.089
+<v Linus Neumann>die Häckereien, Obtainereien macht.
+
+00:07:36.289 --> 00:07:41.849
+<v Linus Neumann>Also beispielsweise was weiß ich, APT 28, den,
+
+00:07:43.149 --> 00:07:48.269
+<v Linus Neumann>dass er der City wieder unterstellt wird, sie hätten die SPD mit einem Outlook-O-Day
+
+00:07:48.269 --> 00:07:53.169
+<v Linus Neumann>aufgemacht und nichts Besseres zu tun gehabt, als die E-Mails von Kevin Kühner zu lesen.
+
+00:07:53.629 --> 00:08:03.969
+<v Linus Neumann>Aber in dem Fall, der war glaube ich für Bian Lian, die Ransomware-Gang, aktiv.
+
+00:08:07.900 --> 00:08:12.100
+<v Linus Neumann>Sorry, habe ich Threat-Actor gesagt. Über den haben wir ja Threat-Intelligence
+
+00:08:12.100 --> 00:08:13.640
+<v Linus Neumann>gesammelt. Threat-Intell.
+
+00:08:16.880 --> 00:08:21.040
+<v Tim Pritlove>Ich meine, jede Branche hat so ihre eigene Sprache. Das ist ja vollkommen klar.
+
+00:08:22.200 --> 00:08:26.520
+<v Tim Pritlove>Aber ich finde das dann teilweise ganz unterhaltsam, wie hier die einzelnen
+
+00:08:26.520 --> 00:08:27.640
+<v Tim Pritlove>Rollen so modelliert werden.
+
+00:08:27.900 --> 00:08:30.420
+<v Linus Neumann>Aber wenn wir in dem Kontext sind, dann würde ich vielleicht noch gerade ganz
+
+00:08:30.420 --> 00:08:34.400
+<v Linus Neumann>kurz was empfehlen, weil dieser Vortrag, ich habe das ja danach jetzt für eine Trilogie,
+
+00:08:37.520 --> 00:08:40.020
+<v Linus Neumann>postwendend, nee, danach, was sagt man dann? Nicht posthum?
+
+00:08:40.260 --> 00:08:44.300
+<v Tim Pritlove>Ich weiß nicht ganz genau, worum. Faktische Vortrag.
+
+00:08:44.320 --> 00:08:48.120
+<v Linus Neumann>Also ich habe ja den Hirnehacken 2.0 mit Kai Biermann gehalten,
+
+00:08:48.160 --> 00:08:54.220
+<v Linus Neumann>den Vortrag beim Kongress, beim aktuellen Kongress, wo wir über Ransomware-Verhandlungen
+
+00:08:54.220 --> 00:08:58.020
+<v Linus Neumann>und die Threat-Actor gesprochen haben, die unterschiedlichen.
+
+00:08:58.600 --> 00:09:06.420
+<v Linus Neumann>Außerdem hat der Tobias Müller den Vortrag gehalten über den Decryptor für Blackbuster.
+
+00:09:06.560 --> 00:09:09.500
+<v Linus Neumann>Blackbuster ist auch eine Ransomware-Gang.
+
+00:09:09.920 --> 00:09:14.580
+<v Linus Neumann>Und dann hatten wir diesen Disclosure Hack und Back und das war so eine Serie
+
+00:09:14.580 --> 00:09:20.900
+<v Linus Neumann>über man setzt sich mit den Threat-Actors auseinander, bereist,
+
+00:09:21.020 --> 00:09:23.240
+<v Linus Neumann>besucht mal deren Systeme,
+
+00:09:23.820 --> 00:09:27.200
+<v Linus Neumann>obtaint und geht wieder.
+
+00:09:27.960 --> 00:09:33.140
+<v Tim Pritlove>Man obtaint. Also ich stelle einfach fest, wenn irgendwo Daten raustropfen im
+
+00:09:33.140 --> 00:09:36.020
+<v Tim Pritlove>Netz, dann kommst du, also bist du so eine Art Datenkleppner.
+
+00:09:36.120 --> 00:09:38.340
+<v Linus Neumann>Die tropfen irgendwie immer dem Cantorkel in die Hand.
+
+00:09:38.380 --> 00:09:42.540
+<v Tim Pritlove>Ja, so ein Datenkleppner. Guck mal hier, da tropfen die Bits irgendwie raus.
+
+00:09:43.140 --> 00:09:46.240
+<v Tim Pritlove>Ruf mal den Cantorkel, der macht das wieder zu.
+
+00:09:46.500 --> 00:09:50.140
+<v Linus Neumann>Daten sind ja das neue Öl und Cantorkel hat ölverschwierte Hände.
+
+00:09:54.160 --> 00:10:00.860
+<v Tim Pritlove>Okay, bevor wir jetzt hier lost in Association sind, Machen wir vielleicht erstmal
+
+00:10:00.860 --> 00:10:04.440
+<v Tim Pritlove>eine kleine Feedback-Runde, bevor es hier ins Eingemachte geht.
+
+00:10:04.520 --> 00:10:05.080
+<v Tim Pritlove>Was hältst du denn davon?
+
+00:10:06.060 --> 00:10:09.220
+<v Linus Neumann>Ja, genau. Wir haben Feedback bekommen. Sehr viel Feedback.
+
+00:10:12.066 --> 00:10:16.906
+<v Linus Neumann>Unsere Einlassungen zu Humor haben zu einigen humorvollen Kommentaren geführt
+
+00:10:16.906 --> 00:10:18.466
+<v Linus Neumann>und einigen weniger humorvollen.
+
+00:10:19.686 --> 00:10:24.666
+<v Linus Neumann>Die könnt ihr gerne nachlesen. Ich denke, die demonstrieren in der Breite die
+
+00:10:24.666 --> 00:10:26.486
+<v Linus Neumann>Kommentare sehr gut, worüber wir gesprochen haben.
+
+00:10:27.686 --> 00:10:30.846
+<v Linus Neumann>Wir haben in der letzten Folge auch darüber gesprochen,
+
+00:10:31.066 --> 00:10:35.546
+<v Linus Neumann>dass unsere Freunde aus Österreich, die Organisation Neub,
+
+00:10:35.706 --> 00:10:43.986
+<v Linus Neumann>ja mit Datenschutzrecht Beschwerden über OpenAI macht, spezifisch,
+
+00:10:43.986 --> 00:10:47.846
+<v Linus Neumann>weil dort Geburtsdaten falsch wiedergegeben werden.
+
+00:10:47.846 --> 00:10:50.326
+<v Linus Neumann>Und dazu kommentiert Wiebke.
+
+00:11:17.846 --> 00:11:23.206
+<v Linus Neumann>Angriff nimmt. LLM speichern allerdings keine vollständigen Datensätze mit personenbezogenen Daten.
+
+00:11:23.886 --> 00:11:27.606
+<v Linus Neumann>Da steht also nicht, Tim Pridloff ist am so und sovielten geboren.
+
+00:11:28.266 --> 00:11:31.406
+<v Linus Neumann>Was ja sehr schön bei der letzten Folge, was tatsächlich falsch war.
+
+00:11:31.466 --> 00:11:33.166
+<v Linus Neumann>Hast du jetzt auch verklagt, oder?
+
+00:11:33.186 --> 00:11:37.066
+<v Tim Pritlove>Ich hab nochmal kurz nachgeschaut. Mittlerweile habe ich am 6. Dezember Geburtstag.
+
+00:11:37.246 --> 00:11:39.146
+<v Linus Neumann>Das ist eigentlich geil, so mehrmals im Jahr.
+
+00:11:39.746 --> 00:11:43.566
+<v Tim Pritlove>Ja, das ist eigentlich sehr gut. Dann kann man mir auch häufiger was schenken.
+
+00:11:44.666 --> 00:11:49.046
+<v Linus Neumann>Kann man online was für dich bestellen. Tim Prillaf ist am Sohn zu schicken geboren.
+
+00:11:49.186 --> 00:11:53.486
+<v Linus Neumann>Stattdessen werden einzelne Tokens gespeichert, die nicht zwangsläufig ganze Wörter sein müssen.
+
+00:11:53.706 --> 00:11:58.766
+<v Linus Neumann>Wie LLMs Sätze in Tokens runterbrechen, wissen meines Wissens selbst die Programmierer nicht.
+
+00:12:00.006 --> 00:12:06.266
+<v Linus Neumann>Zudem wird gewichtet, wie wahrscheinlich bestimmte Tokens in der Nähe voneinander auftreten.
+
+00:12:06.446 --> 00:12:10.506
+<v Linus Neumann>Diese Kombinationen aus Tokens und Wahrscheinlichkeiten sind an sich keine personenbezogene Daten.
+
+00:12:11.746 --> 00:12:15.366
+<v Linus Neumann>Aus ihnen lassen sich über personenbezogene Daten mit einer gewissen Genauigkeit
+
+00:12:15.366 --> 00:12:17.586
+<v Linus Neumann>oder Fehlerhaftigkeit rekonstruieren.
+
+00:12:17.766 --> 00:12:22.806
+<v Linus Neumann>Das wird eine Herausforderung für die Richterinnen, denn nun ist doch die Frage,
+
+00:12:22.866 --> 00:12:25.146
+<v Linus Neumann>ob die DSGVO überhaupt anwendbar ist.
+
+00:12:26.166 --> 00:12:30.126
+<v Linus Neumann>Eine weitere Herausforderung wird, dass bei der Verarbeitung von personenbezogenen
+
+00:12:30.126 --> 00:12:34.086
+<v Linus Neumann>Daten ihre Korrektheit sichergestellt werden muss. Auch das steht in der DSGVO.
+
+00:12:34.366 --> 00:12:37.486
+<v Linus Neumann>Ein halluzinierendes LLM ist da nicht vorgesehen.
+
+00:12:38.666 --> 00:12:42.526
+<v Linus Neumann>Das könnte man eigentlich grundsätzlich sagen, sondern einfach nicht vorgesehen.
+
+00:12:43.706 --> 00:12:47.106
+<v Linus Neumann>Hinsichtlich der DSGVO spielt übrigens keine Rolle, ob die genutzten Daten auf
+
+00:12:47.106 --> 00:12:50.806
+<v Linus Neumann>Webseiten öffentlich verfügbar sind oder nicht sobald sie gesammelt oder verarbeitet
+
+00:12:50.806 --> 00:12:52.786
+<v Linus Neumann>werden handelt es sich um eine Verarbeitung,
+
+00:12:53.914 --> 00:12:58.514
+<v Linus Neumann>für die ein Rechtsfertigungsgrund benötigt wird. Bei LLMs ist das das berechtigte
+
+00:12:58.514 --> 00:13:00.614
+<v Linus Neumann>Interesse der Anbieter, also OpenAI und Co.
+
+00:13:00.754 --> 00:13:04.794
+<v Linus Neumann>Wie bereits von anderen angemerkt, muss dafür eine Abwägung zwischen den Interessen
+
+00:13:04.794 --> 00:13:07.534
+<v Linus Neumann>der Betroffenen und den Verarbeitenden stattfinden.
+
+00:13:07.874 --> 00:13:13.194
+<v Linus Neumann>Ob die Daten in LLM in Binärcode oder menschenlesbarem Format gespeichert sind,
+
+00:13:13.314 --> 00:13:14.754
+<v Linus Neumann>ist ebenfalls unerheblich.
+
+00:13:14.854 --> 00:13:19.614
+<v Linus Neumann>Es ist möglich, menschenlesbare Daten hineinzugeben und auch wieder herauszuholen.
+
+00:13:19.614 --> 00:13:25.114
+<v Linus Neumann>Das Speicherformat wird bei den TUM, technischen und organisatorischen Maßnahmen, relevant.
+
+00:13:25.394 --> 00:13:29.374
+<v Linus Neumann>Es hat aber keinen Einfluss darauf, ob die Verarbeitung erlaubt ist.
+
+00:13:32.334 --> 00:13:37.874
+<v Linus Neumann>Wiebke, ich glaube, du bist juristisch gebildet Nein,
+
+00:13:38.494 --> 00:13:43.394
+<v Linus Neumann>aber es ist ja sehr gut wiedergegeben und bevor jetzt bevor wir jetzt wieder
+
+00:13:43.394 --> 00:13:47.374
+<v Linus Neumann>Kommentare bekommen weil in den drei Sätzen von Wiebke die,
+
+00:13:48.494 --> 00:13:54.734
+<v Linus Neumann>Funktionalität eines LLM nicht 100% in allen Details wiedergegeben wurde können
+
+00:13:54.734 --> 00:13:59.914
+<v Linus Neumann>wir nochmal es gab da so einen sehr guten Vortrag beim Kongress von einer,
+
+00:14:03.014 --> 00:14:06.794
+<v Linus Neumann>Forscherin in dem Bereich. Mir fällt gerade ihr Name nicht ein,
+
+00:14:06.954 --> 00:14:09.774
+<v Linus Neumann>aber den nehmen wir mit in die Shownotes auf.
+
+00:14:09.854 --> 00:14:11.254
+<v Tim Pritlove>Zu LLMs?
+
+00:14:11.534 --> 00:14:18.194
+<v Linus Neumann>Ja, wie neuronale Netzwerke funktionieren. Der hat das sehr schön gemacht.
+
+00:14:21.914 --> 00:14:26.354
+<v Linus Neumann>Da werden sich auch sicherlich Leute drüber aufregen, aber den verlinken wir nochmal.
+
+00:14:26.554 --> 00:14:32.234
+<v Tim Pritlove>Lass mal das Innere eines neuronalen Netzes ansehen von Annika Röll, meinst du, ne?
+
+00:14:32.294 --> 00:14:37.814
+<v Linus Neumann>Ja, der war super. Den verlinken wir nochmal für Leute, die sich darüber aufregen. Zum gleichen Thema.
+
+00:14:38.174 --> 00:14:43.514
+<v Linus Neumann>Stefan Tesing sagte zu eurer Diskussion über Datenschutz und LLMs.
+
+00:14:43.634 --> 00:14:47.514
+<v Linus Neumann>Ich meine, wie fast immer, wenn ihr euch nicht einig seid, mal wieder beobachtet
+
+00:14:47.514 --> 00:14:50.254
+<v Linus Neumann>zu haben, dass ihr auf zwei verschiedenen Ebenen argumentiert habt.
+
+00:14:52.294 --> 00:14:56.214
+<v Linus Neumann>Linus-Argumente bewegen sich im Wesentlichen auf der ersten Ebene.
+
+00:14:56.254 --> 00:14:57.694
+<v Linus Neumann>Ich würde sagen, auf der oberen Ebene.
+
+00:14:59.114 --> 00:15:03.414
+<v Linus Neumann>Auf der Meta-Ebene oder was? Nee, die Meta-Ebene gehört dir.
+
+00:15:03.514 --> 00:15:05.974
+<v Linus Neumann>Okay, ist in Ordnung. Ich bin auf der ersten Ebene, du bist auf der Meta-Ebene.
+
+00:15:06.334 --> 00:15:10.494
+<v Linus Neumann>Wenn Technologiebedingungen verändert, hören Gesetze selbstverständlich nicht auf zu gelten.
+
+00:15:10.754 --> 00:15:15.434
+<v Linus Neumann>Tim argumentiert eher auf der Meta-Ebene, auf welche Weise Gesetz und Verortungsgeber,
+
+00:15:15.934 --> 00:15:18.634
+<v Linus Neumann>rechtliche Regeln den neuen Gegebenheiten anpassen sollten.
+
+00:15:18.854 --> 00:15:20.954
+<v Linus Neumann>Auf dieser zweiten Ebene ist natürlich mehr los.
+
+00:15:21.394 --> 00:15:24.674
+<v Linus Neumann>Sinnvoll ist es hierbei, sich Gedanken darüber zu machen, welche Interessen
+
+00:15:24.674 --> 00:15:30.854
+<v Linus Neumann>der Allgemeinheit das ursprüngliche Gesetz schützen sollte, um es dann entsprechend zu reformieren.
+
+00:15:31.910 --> 00:15:35.290
+<v Linus Neumann>Das geht gerne mal schief, hatte Wiebke ja auch gesagt. Das Urheberinnenrecht
+
+00:15:35.290 --> 00:15:39.030
+<v Linus Neumann>wurde ursprünglich eingeführt, um Autorinnen vor der Ausbeutung durch jene zu
+
+00:15:39.030 --> 00:15:41.290
+<v Linus Neumann>schützen, die eine Druckerpresse besitzen.
+
+00:15:41.450 --> 00:15:45.450
+<v Linus Neumann>Das Interesse der Allgemeinheit war, wenn Autorinnen vor Ausbeutung geschützt
+
+00:15:45.450 --> 00:15:47.090
+<v Linus Neumann>sind, bekommen wir mehr Werke.
+
+00:15:47.170 --> 00:15:51.230
+<v Linus Neumann>Als das Internet um die Ecke kam, wurden die rechtlichen Regeln leider nicht so reformiert,
+
+00:15:51.290 --> 00:15:56.610
+<v Linus Neumann>dass Autorinnen und Allgemeinheit weiter vor der Ausbildung durch Verlagshäuser
+
+00:15:56.610 --> 00:16:00.250
+<v Linus Neumann>und andere Rechteverwerter geschützt wurden, sondern die Geschäftsmittel der
+
+00:16:00.250 --> 00:16:03.170
+<v Linus Neumann>Rechtsverwerter wurden vor den neuen Möglichkeiten geschützt,
+
+00:16:03.210 --> 00:16:07.530
+<v Linus Neumann>die Autorinnen und der Allgemeinheit nun zur Verfügung standen.
+
+00:16:07.630 --> 00:16:10.490
+<v Linus Neumann>Das ist, finde ich, eine sehr gute Zusammenfassung.
+
+00:16:11.990 --> 00:16:16.530
+<v Linus Neumann>Hat natürlich gerade mit dem Thema, zu dem Stefan sich hier äußern wollte,
+
+00:16:16.570 --> 00:16:20.950
+<v Linus Neumann>überhaupt nichts zu tun, weil wir ja eigentlich über Datenschutz sprechen. Aber gut, gut Stefan.
+
+00:16:21.450 --> 00:16:27.190
+<v Linus Neumann>Regelungen zum Datenschutz sowie einzelne Regelungen wie das Recht am eigenen
+
+00:16:27.190 --> 00:16:29.030
+<v Linus Neumann>Bild sind dazu ersonnen worden,
+
+00:16:29.150 --> 00:16:34.210
+<v Linus Neumann>die allgemeinen Persönlichkeitsrechte der Bürgerinnen vor unangemessenen staatlichen
+
+00:16:34.210 --> 00:16:36.930
+<v Linus Neumann>Maßnahmen sowie ökonomischer Ausbeutung zu schützen.
+
+00:16:37.370 --> 00:16:40.350
+<v Linus Neumann>Anpassungen der rechtlichen Regelungen sollten daran gemessen werden,
+
+00:16:40.510 --> 00:16:42.310
+<v Linus Neumann>inwiefern sie diesen Zielen dienen.
+
+00:16:43.090 --> 00:16:47.770
+<v Linus Neumann>Ihr kamt ja aber auf das Thema über die Frage, wie die Klage von Neub zu bewerten ist.
+
+00:16:47.850 --> 00:16:52.390
+<v Linus Neumann>Hier kann man meines Erachtens festhalten, dass sie auf der ersten Ebene klagen,
+
+00:16:52.490 --> 00:16:58.250
+<v Linus Neumann>um auf der zweiten Ebene sinnvolle Änderungen zu erzwingen, bevor Gesetz und
+
+00:16:58.250 --> 00:17:02.190
+<v Linus Neumann>Verordnungsgeber das geltende Recht so verschlimmbessern, wie es Anfang der
+
+00:17:02.190 --> 00:17:04.230
+<v Linus Neumann>2000er mit dem Urheberrecht geschehen ist.
+
+00:17:05.510 --> 00:17:08.910
+<v Linus Neumann>Ja, finde ich eine super Perspektive.
+
+00:17:10.990 --> 00:17:14.670
+<v Tim Pritlove>Ich kann dem folgen,
+
+00:17:15.771 --> 00:17:19.331
+<v Tim Pritlove>Ich glaube es war immer noch, dass man den LLMs nicht so vorwerfen kann,
+
+00:17:19.431 --> 00:17:25.491
+<v Tim Pritlove>dass sie konkret persönliche Daten speichern, weil sie das ja so konkret nicht
+
+00:17:25.491 --> 00:17:26.711
+<v Tim Pritlove>tun. Aber das sagt ja Wiebke.
+
+00:17:26.751 --> 00:17:29.411
+<v Linus Neumann>Verarbeiten, dann geben die ja wieder auf, die die jetzt speichern,
+
+00:17:29.471 --> 00:17:30.251
+<v Linus Neumann>dann ist das eigentlich unerheblich.
+
+00:17:30.291 --> 00:17:38.731
+<v Tim Pritlove>Ja gut, verarbeiten ist ja in dem Moment dann auch eine sehr allgemeine Bezeichnung
+
+00:17:38.731 --> 00:17:42.671
+<v Tim Pritlove>für, wir nehmen die Daten einmal und schmeißen sie irgendwo gegen die Wand.
+
+00:17:43.631 --> 00:17:47.531
+<v Tim Pritlove>So, das ist dann sozusagen schon Verarbeitung. Da kann man sich natürlich dann
+
+00:17:47.531 --> 00:17:52.431
+<v Tim Pritlove>jetzt auch über diesen Begriff etwas streiten, ob das schon ausreichend verarbeitend
+
+00:17:52.431 --> 00:17:54.291
+<v Tim Pritlove>ist, weil man könnte fast argumentieren,
+
+00:17:54.331 --> 00:17:56.291
+<v Tim Pritlove>dass sie sich die Daten ja noch nicht mal richtig anschauen.
+
+00:17:57.591 --> 00:18:02.291
+<v Tim Pritlove>Also sie reißen das ja irgendwie nur so aus Zeichenketten irgendwie,
+
+00:18:02.471 --> 00:18:05.571
+<v Tim Pritlove>also die Daten werden nicht als solche genommen,
+
+00:18:05.871 --> 00:18:11.691
+<v Tim Pritlove>also sie werden nicht als Datum genommen und dann irgendwie in das System gebracht,
+
+00:18:11.911 --> 00:18:15.131
+<v Tim Pritlove>sondern einfach nur so als Zeichenketten und dann wie gesagt einfach an die
+
+00:18:15.131 --> 00:18:19.971
+<v Tim Pritlove>Wand geschmissen und am Ende ist das Muster, was die ganzen Farbkleckse ergeben,
+
+00:18:20.071 --> 00:18:23.371
+<v Tim Pritlove>das ist dann sozusagen die Nahrung, von der sich dieses System ändert.
+
+00:18:23.371 --> 00:18:27.831
+<v Linus Neumann>Du freust dich ja nur, dass du jetzt mehrmals im Jahr random Geburtslust-Geschränke bekommst.
+
+00:18:28.191 --> 00:18:32.511
+<v Tim Pritlove>Deswegen verteidige ich das jetzt hier auch so massiv. Mal gucken, wie es funktioniert.
+
+00:18:33.731 --> 00:18:43.071
+<v Linus Neumann>Kein Talk, wie siehst du das? Diese Klage von, oder überhaupt den KI-Fluch oder Segen?
+
+00:19:45.056 --> 00:19:49.616
+<v Tim Pritlove>Also da würde ich dir auch voll zustimmen und das ist auch ein gutes Beispiel
+
+00:19:49.616 --> 00:19:55.116
+<v Tim Pritlove>für, wo die Daten ja explizit als solche in das System eingeführt werden.
+
+00:19:55.236 --> 00:20:02.016
+<v Tim Pritlove>Also es wird ja explizit ein Bild von einem Gesicht gesucht und als solches abgespeichert.
+
+00:20:02.116 --> 00:20:05.796
+<v Tim Pritlove>Es wird dann KI-Methoden für den Vergleich, für die Suche verwendet.
+
+00:20:05.816 --> 00:20:07.336
+<v Linus Neumann>Aber speichern die wirklich die Bilder alle?
+
+00:20:08.076 --> 00:20:11.196
+<v Tim Pritlove>Naja, sie werfen das dann halt in ihr Model, um darin zu suchen.
+
+00:20:11.256 --> 00:20:15.336
+<v Tim Pritlove>Aber in dem Moment, wo sie die Daten aus dem Netz extrahieren,
+
+00:20:15.336 --> 00:20:17.656
+<v Tim Pritlove>extrahieren sie ja explizit ein Gesicht.
+
+00:20:18.056 --> 00:20:22.716
+<v Tim Pritlove>Und auch in dem Moment, wo sie die Anfrage des Nutzers bedienen,
+
+00:20:23.596 --> 00:20:26.116
+<v Tim Pritlove>liefern sie auch explizit genau das.
+
+00:20:26.396 --> 00:20:31.216
+<v Tim Pritlove>Das ist mit diesem Geburtsdatum auf beiden Seiten nicht der Fall,
+
+00:20:31.636 --> 00:20:33.076
+<v Tim Pritlove>sondern es ist eher ein Zufall.
+
+00:20:33.256 --> 00:20:37.116
+<v Linus Neumann>Es ist eher so, ob du im Gesicht noch so einen herbeihalluzinierten Pickel hast oder nicht.
+
+00:20:37.336 --> 00:20:40.876
+<v Tim Pritlove>Ja, ich meine, es ist so, als ob du nach einem Gesicht suchst und dann kriegst
+
+00:20:40.876 --> 00:20:44.856
+<v Tim Pritlove>du irgendwie einen 3D-Modellplan vom Spielzeugauto oder sowas.
+
+00:20:45.316 --> 00:20:49.316
+<v Tim Pritlove>Also klar, es bleibt schwierig hier mit der Definition, aber das sind für mich
+
+00:20:49.316 --> 00:20:55.256
+<v Tim Pritlove>zwei Beispiele, wo ich eher sagen würde, daran kann man schon auch klar machen,
+
+00:20:55.436 --> 00:21:01.216
+<v Tim Pritlove>was das eine ist und wo die DSGVO auf jeden Fall greifen sollte.
+
+00:21:01.216 --> 00:21:08.436
+<v Tim Pritlove>Also bei Pim A ist ich voll dabei, aber halt bei diesen allgemeinen LLMs eher nicht. Naja.
+
+00:21:08.556 --> 00:21:13.596
+<v Linus Neumann>Okay, aber die Folge scheint mir die gleiche zu sein.
+
+00:21:13.656 --> 00:21:19.516
+<v Linus Neumann>Aber okay, man könnte argumentieren, dass ein falsches Geburtsdatum im Zweifelsfall zu Vorteilen führt.
+
+00:21:21.516 --> 00:21:24.796
+<v Linus Neumann>Rentnerrabatte, Geschenke.
+
+00:21:24.796 --> 00:21:28.096
+<v Tim Pritlove>Dann komme ich aber nicht in meinen Film mehr rein, weil sie sagen,
+
+00:21:28.236 --> 00:21:30.916
+<v Tim Pritlove>sorry, aber du bist ja noch Kinder 18.
+
+00:22:17.752 --> 00:22:22.112
+<v Linus Neumann>Also Löschung und Korrektur, die nehmen auf jeden Fall alle recht in Anspruch.
+
+00:22:44.492 --> 00:22:49.512
+<v Tim Pritlove>Ich meine, bei den LLMs ist es ja so, wenn du halbwegs zuverlässige Daten bekommst,
+
+00:22:49.572 --> 00:22:53.552
+<v Tim Pritlove>also die eine hohe Wahrscheinlichkeit haben, dass sie auch stimmen, dann,
+
+00:22:53.712 --> 00:22:58.632
+<v Tim Pritlove>weil mehr oder weniger das ganze Internet diese Informationen an sehr vielen
+
+00:22:58.632 --> 00:23:01.032
+<v Tim Pritlove>Orten ohnehin bereithält.
+
+00:23:01.032 --> 00:23:04.592
+<v Tim Pritlove>Und dann ist es halt immer schwierig.
+
+00:23:05.532 --> 00:23:11.452
+<v Tim Pritlove>Darf ich das Geburtsdatum von Thomas Gottschalk der Welt verkünden? Die Welt weiß das schon.
+
+00:23:11.932 --> 00:23:15.332
+<v Tim Pritlove>Das ist halt einfach kein Geheimnis mehr in dem Sinne.
+
+00:23:17.492 --> 00:23:20.392
+<v Linus Neumann>Wann hattest du jetzt laut ChatGPT Geburtstag?
+
+00:23:21.072 --> 00:23:23.352
+<v Tim Pritlove>Heute oder letztes Mal?
+
+00:23:23.612 --> 00:23:27.492
+<v Linus Neumann>Letztes Mal. Weil jetzt hast du am 18. November Geburtstag.
+
+00:23:27.852 --> 00:23:29.372
+<v Tim Pritlove>Das war jetzt 6. Dezember.
+
+00:23:29.552 --> 00:23:30.312
+<v Linus Neumann>6. Dezember.
+
+00:23:30.312 --> 00:23:34.692
+<v Tim Pritlove>Und letztes Mal war es glaube ich irgendwo im Oktober, ich schaue mal kurz, 2.
+
+00:23:34.932 --> 00:23:37.812
+<v Tim Pritlove>Oktober, aber immerhin, jetzt als ich das eben nochmal gefragt habe,
+
+00:23:37.932 --> 00:23:39.812
+<v Tim Pritlove>wurde ich auch explizit,
+
+00:23:40.718 --> 00:23:43.558
+<v Tim Pritlove>Nicht nur mit Tim Pridloff hat am 6. Dezember Geburtstag, sondern die Antwort
+
+00:23:43.558 --> 00:23:49.718
+<v Tim Pritlove>lautet Tim Pridloff, der deutsche Podcaster und Medienkünstler.
+
+00:23:49.778 --> 00:23:51.498
+<v Linus Neumann>Hat am 18. November Geburtstag gesagt.
+
+00:23:52.078 --> 00:23:52.658
+<v Tim Pritlove>Ja, am 6.
+
+00:23:55.078 --> 00:24:00.458
+<v Tim Pritlove>Aber ist schon mal klar, also ich bin der, der deutsche Podcaster.
+
+00:24:00.798 --> 00:24:02.818
+<v Linus Neumann>Hat Chat-GBT auch extra unterstrichen.
+
+00:24:02.898 --> 00:24:03.038
+<v Tim Pritlove>Bold.
+
+00:24:14.698 --> 00:24:18.898
+<v Tim Pritlove>Das habe ich nie mehr Geburtstag, das ist toll Das heißt, ich werde nicht mehr älter,
+
+00:24:21.798 --> 00:24:24.118
+<v Tim Pritlove>Wenn ich Geburtstag habe, kann man nie älter.
+
+00:24:24.118 --> 00:24:27.878
+<v Linus Neumann>Werden Du wirst jetzt einfach weiter vertröstet Ich gratuliere dir nie wieder Ich bleibe.
+
+00:24:27.878 --> 00:24:29.258
+<v Tim Pritlove>Einfach immer forever 23.
+
+00:24:32.498 --> 00:24:38.498
+<v Linus Neumann>Mein Lieblingskommentar war zur Bezahlkarte von Lipfi Ich versuche das mal auch
+
+00:24:38.498 --> 00:24:42.478
+<v Linus Neumann>so mit der richtigen Intonation zu behandeln.
+
+00:24:42.518 --> 00:24:47.238
+<v Linus Neumann>Wir hatten ja darüber gesprochen, dass die Bezahlkarte an Geflüchtete ausgegeben
+
+00:24:47.238 --> 00:24:51.618
+<v Linus Neumann>werden soll, mit dem erklärten Ziel zu verhindern, dass diese Bargeld haben.
+
+00:24:52.658 --> 00:24:56.598
+<v Linus Neumann>Wir haben den Sinn dieses Ziels ohnehin schon in Frage gestellt.
+
+00:24:57.178 --> 00:25:02.998
+<v Linus Neumann>Lipfi schreibt nun, Bezahlkarte ist super dumm, kaufst halt einfach Klamotten,
+
+00:25:03.018 --> 00:25:06.498
+<v Linus Neumann>gibst sie instants zurück, weil sie nicht passen, bam, Bargeld.
+
+00:25:06.678 --> 00:25:09.738
+<v Linus Neumann>Und jetzt, die glauben Wir glauben echt, dass Menschen, die durch die Hölle
+
+00:25:09.738 --> 00:25:10.978
+<v Linus Neumann>gegangen sind, sowas juckt.
+
+00:25:11.258 --> 00:25:14.278
+<v Linus Neumann>Ich glaube, damit ist das Thema auch abschließend erörtert.
+
+00:25:16.198 --> 00:25:19.998
+<v Linus Neumann>Bäm, Bargeld. Oder verkaufst du die Leute.
+
+00:25:20.138 --> 00:25:23.958
+<v Linus Neumann>Es ist wirklich relativ unwahrscheinlich, dass es Leuten gelingt,
+
+00:25:23.978 --> 00:25:27.618
+<v Linus Neumann>Leute von Bargeld fernzuhalten.
+
+00:25:29.128 --> 00:25:33.308
+<v Tim Pritlove>Also wenn sie das unbedingt haben wollen, dann wird das auch mit einer Bezahlkarte
+
+00:25:33.308 --> 00:25:35.188
+<v Tim Pritlove>funktionieren. Das kann man glaube ich so festhalten.
+
+00:26:14.988 --> 00:26:19.088
+<v Linus Neumann>Ja, vielleicht wird das noch Bezahlkartefluch oder Segen, ja Vielleicht können
+
+00:26:19.088 --> 00:26:21.848
+<v Linus Neumann>die sich damit dann doch mal eine Existenz aufbauen,
+
+00:26:23.968 --> 00:26:29.088
+<v Linus Neumann>Okay Dann, damit wären wir, glaube ich, bei unserem Hauptthema oder wollen wir
+
+00:26:29.088 --> 00:26:32.928
+<v Linus Neumann>noch über die Gamescom vorher sprechen Warst du schon mal bei der Gamescom?
+
+00:26:33.168 --> 00:26:36.328
+<v Linus Neumann>Bisher nicht Ich auch nicht. Tim, warst du mal bei der Gamescom?
+
+00:26:36.568 --> 00:26:36.708
+<v Tim Pritlove>Nee.
+
+00:26:37.268 --> 00:26:40.088
+<v Linus Neumann>Ist in Köln, ne? Ja Computerspielmesse.
+
+00:26:40.168 --> 00:26:43.768
+<v Tim Pritlove>Mittlerweile ist es in Köln. War das vorher? Leipzig war es glaube ich mal und
+
+00:26:43.768 --> 00:26:45.288
+<v Tim Pritlove>dann ist es in den Westen abgewandert.
+
+00:26:47.192 --> 00:26:51.952
+<v Linus Neumann>Da gibt es Diskussionen über ein Datenleck oder wie muss ich mir das vorstellen?
+
+00:27:23.052 --> 00:27:31.492
+<v Linus Neumann>Mit dem Vorwurf, sie hätte ein Datenleck obtained oder mit der Behauptung,
+
+00:27:31.532 --> 00:27:33.692
+<v Linus Neumann>sie hätte etwas Falsches gesagt?
+
+00:27:40.192 --> 00:27:42.492
+<v Linus Neumann>Und meinst du, die Daten sind noch im Internet?
+
+00:28:18.112 --> 00:28:18.632
+<v Tim Pritlove>Geburtsdaten?
+
+00:28:20.952 --> 00:28:22.152
+<v Linus Neumann>Gib die mal chat, GPT.
+
+00:28:34.212 --> 00:28:39.792
+<v Linus Neumann>Das ist natürlich schade für die Gamescom und ihre betroffenen Personen.
+
+00:28:45.018 --> 00:28:54.118
+<v Linus Neumann>Und somit wären wir beim nächsten Datenleak und zwar hast du seit längerer Zeit
+
+00:28:54.118 --> 00:28:57.138
+<v Linus Neumann>mit mehreren Leuten, die nicht alle genannt werden wollen,
+
+00:28:57.698 --> 00:29:05.278
+<v Linus Neumann>dich mit einer Online-Shop-Infrastruktur auseinandergesetzt.
+
+00:29:05.838 --> 00:29:10.858
+<v Linus Neumann>Und ich erinnere mich, dass wir nach unserem Camp-Vortrag, also irgendwie im
+
+00:29:10.858 --> 00:29:15.658
+<v Linus Neumann>August, haben wir mit Kai Biermann von Zeit Online gesprochen,
+
+00:29:16.098 --> 00:29:21.418
+<v Linus Neumann>also glaub du kurz, ich danach noch ein bisschen länger und danach irgendwie
+
+00:29:21.418 --> 00:29:25.798
+<v Linus Neumann>ein bisschen gesprochen und diese Daten, auf die du da Zugriff hattest,
+
+00:29:25.798 --> 00:29:30.238
+<v Linus Neumann>oder diese Systeme, die du da gesehen hattest, sorry,
+
+00:29:30.498 --> 00:29:34.018
+<v Linus Neumann>das hatten wir eigentlich schon wieder weggelegt.
+
+00:29:34.018 --> 00:29:39.678
+<v Linus Neumann>Und dann sagte Kai, weil irgendwie war unklar, was diese Online-Shop-Infrastruktur
+
+00:29:39.678 --> 00:29:40.918
+<v Linus Neumann>macht und wofür es die gibt.
+
+00:29:41.598 --> 00:29:48.038
+<v Linus Neumann>Und Kai sagte dann so, oh, das interessiert mich aber sehr, weil meine Tochter
+
+00:29:48.038 --> 00:29:51.658
+<v Linus Neumann>wollte Doc Martens bestellen im Internet, nur 40 Euro, Papa.
+
+00:29:52.898 --> 00:29:58.758
+<v Linus Neumann>Und hat dann für 40 Euro Doc Martens bestellt und hat auch genau so viel Doc
+
+00:29:58.758 --> 00:30:02.498
+<v Linus Neumann>Martens bekommen, wie man für 40 Euro kriegen kann, nämlich keine.
+
+00:30:04.938 --> 00:30:09.858
+<v Linus Neumann>Und es war so ein bisschen wie, dass irgendwie so langsam klar wurde,
+
+00:30:09.918 --> 00:30:10.678
+<v Linus Neumann>okay, krass, vielleicht,
+
+00:30:12.738 --> 00:30:15.518
+<v Linus Neumann>deswegen will jemand viele Online-Shops haben.
+
+00:31:45.838 --> 00:31:49.358
+<v Tim Pritlove>Aber dann würde sozusagen die Bezahlung abgelehnt werden, aber man weiß zumindest,
+
+00:31:49.578 --> 00:31:51.878
+<v Tim Pritlove>dass sie jetzt auch konkret benutzt wurde.
+
+00:31:52.878 --> 00:31:53.998
+<v Tim Pritlove>Wo kriegt man sowas her?
+
+00:31:57.078 --> 00:32:01.758
+<v Tim Pritlove>Also ich meine, das ist ein Produkt oder das bieten Banken an oder ist das jetzt
+
+00:32:01.758 --> 00:32:03.498
+<v Tim Pritlove>für Security-Forscher oder was?
+
+00:32:10.278 --> 00:32:14.698
+<v Linus Neumann>Und die ist dafür da, dass du, keine Ahnung, die in deine beispielsweise in
+
+00:32:14.698 --> 00:32:17.778
+<v Linus Neumann>deinen Daten hast und weißt, okay, wenn da jemand darauf zugreift,
+
+00:32:18.838 --> 00:32:23.658
+<v Linus Neumann>habe ich einen Daten- Data-Case oder in dem Fall mal gucken,
+
+00:32:23.698 --> 00:32:27.718
+<v Linus Neumann>was noch mit der Kreditkarte passiert, mal gucken, ob die wirklich von wem da
+
+00:32:27.718 --> 00:32:29.178
+<v Linus Neumann>zugegriffen wird oder sonst was.
+
+00:32:30.798 --> 00:32:31.958
+<v Linus Neumann>Ganz praktisches Ding.
+
+00:32:38.338 --> 00:32:41.158
+<v Linus Neumann>Aber die zahlt ja auch nicht, diese Kreditkarte dann, oder?
+
+00:32:51.498 --> 00:32:52.798
+<v Linus Neumann>Vergessen zu gucken, oder?
+
+00:34:10.429 --> 00:34:12.389
+<v Tim Pritlove>Das heißt die Preise liegen so bei
+
+00:34:12.389 --> 00:34:16.789
+<v Tim Pritlove>75 Prozent von dem, was man an anderen richtigen Shops erwarten könnte.
+
+00:34:18.929 --> 00:34:23.509
+<v Tim Pritlove>Okay, gut. Nur um so ein Gefühl dafür zu bekommen, was du meinst mit nicht zu billig.
+
+00:34:23.549 --> 00:34:27.129
+<v Linus Neumann>Also gerade noch glaubwürdig, aber auch irgendwie so ein Betrag, wo...
+
+00:34:27.129 --> 00:34:29.989
+<v Tim Pritlove>Wo man sagt, das lohnt sich. Genau.
+
+00:34:30.309 --> 00:34:38.369
+<v Linus Neumann>Und wo du im Zweifelsfall als geprellte Person sagst, wie viel Aufwand mache ich jetzt für 40 Euro?
+
+00:34:38.569 --> 00:34:41.489
+<v Linus Neumann>Wie viel Aufwand mache ich für 70?
+
+00:34:41.889 --> 00:34:42.789
+<v Linus Neumann>Für so ein bisschen...
+
+00:34:44.570 --> 00:34:50.230
+<v Linus Neumann>Also vermutlich wirst du nicht so viel Zeit investieren, weil du erkennst,
+
+00:34:50.270 --> 00:34:54.490
+<v Linus Neumann>dass du jetzt nur noch den Schaden erhöhst.
+
+00:35:42.890 --> 00:35:48.270
+<v Linus Neumann>Also vollständig anwendbar, vollständig nutzbar. Wie haben die die gesammelt?
+
+00:36:41.597 --> 00:36:48.457
+<v Tim Pritlove>Gab's da auch so Apple Pay oder sowas, so Online, so solche Bezahlungen,
+
+00:36:48.537 --> 00:36:50.297
+<v Tim Pritlove>das lief teilweise über Stripe.
+
+00:36:50.297 --> 00:36:50.457
+<v Linus Neumann>Ne?
+
+00:36:50.597 --> 00:36:50.977
+<v Tim Pritlove>Ich bin nicht ganz sicher.
+
+00:36:51.057 --> 00:36:53.217
+<v Linus Neumann>Ob es Apple, ist da auch Apple Pay betroffen?
+
+00:36:53.217 --> 00:36:58.137
+<v Tim Pritlove>Ich frage mich, ob du jetzt Kreditkartennummer erfassen und gib mir noch deinen
+
+00:36:58.137 --> 00:37:01.037
+<v Tim Pritlove>3-Nummern-Code und ich speichere das ab. Das ist ja das eine.
+
+00:37:01.257 --> 00:37:07.977
+<v Tim Pritlove>Das andere ist, ob du wirklich auch eine reale, von Third-Party geleitete Transaktion hast.
+
+00:37:08.097 --> 00:37:11.337
+<v Tim Pritlove>Aber ich glaube, da war auch Stripe teilweise mit im Spiel und Paypal.
+
+00:37:11.497 --> 00:37:15.197
+<v Tim Pritlove>Also da ist schon auch echtes Processing gelaufen. Genau.
+
+00:37:57.677 --> 00:38:02.257
+<v Tim Pritlove>Und warum, also was ist der Hintergrund, dass irgendwas abgelehnt wird?
+
+00:38:02.317 --> 00:38:06.077
+<v Tim Pritlove>Also wer lehnt das dann ab? Dieser Webshop selber oder irgendwelche Zahlungsdienstleister?
+
+00:38:06.077 --> 00:38:12.037
+<v Linus Neumann>Meine Vermutung ist, also du korrigierst mich, also normalerweise,
+
+00:38:12.037 --> 00:38:16.097
+<v Linus Neumann>wenn du jetzt in einem legitimen Online-Shop eine Order machst,
+
+00:38:16.257 --> 00:38:20.817
+<v Linus Neumann>der darf deine Kreditkartendaten gar nicht annehmen und erst recht nicht speichern.
+
+00:38:21.317 --> 00:38:26.417
+<v Linus Neumann>Deswegen werden die meisten dich, um die PCI-DSS-Pflichten zu umgehen,
+
+00:38:26.557 --> 00:38:30.617
+<v Linus Neumann>Payment Card Industry Data Security Standard, darfst du zum Beispiel den CVC
+
+00:38:30.617 --> 00:38:33.397
+<v Linus Neumann>speichern, ist schlecht. Aber,
+
+00:38:34.573 --> 00:38:39.773
+<v Linus Neumann>Damit sie diese ganzen Vorgaben umgehen, gibt es diese ganzen Payment-Anbieter.
+
+00:38:39.813 --> 00:38:43.593
+<v Linus Neumann>Also theoretisch könnte ja auch jeder einfach sagen, alles klar,
+
+00:38:43.653 --> 00:38:45.733
+<v Linus Neumann>ich werde Kreditkarten-Anbieter.
+
+00:38:45.753 --> 00:38:49.273
+<v Linus Neumann>Aber die nutzen halt dann Stripe, schicken dich da hin und Stripe regelt diesen Kram für dich.
+
+00:38:50.153 --> 00:38:53.893
+<v Linus Neumann>Die sehen also diese Kreditkarten gar nicht und können damit gar nicht in Kontakt
+
+00:38:53.893 --> 00:38:55.833
+<v Linus Neumann>kommen, weil du die direkt an Stripe sendest.
+
+00:38:56.373 --> 00:38:59.413
+<v Linus Neumann>So wie ich das hier verstanden habe, machen die ganz einfach etwas,
+
+00:38:59.513 --> 00:39:03.313
+<v Linus Neumann>was wie ein Payment-Interface aussieht, damit du deine Kreditkartendaten eingibst,
+
+00:39:03.393 --> 00:39:05.473
+<v Linus Neumann>speichern die und sagen, hat nicht geklappt, probier nochmal.
+
+00:39:06.153 --> 00:39:09.213
+<v Linus Neumann>Und fürs zweite Mal schicken sie dich zum richtigen Payment-Interface.
+
+00:39:09.653 --> 00:39:10.093
+<v Tim Pritlove>Korrekt?
+
+00:39:12.833 --> 00:39:13.273
+<v Tim Pritlove>Püffig.
+
+00:39:15.053 --> 00:39:16.613
+<v Linus Neumann>Ja. Ja.
+
+00:39:17.973 --> 00:39:24.093
+<v Tim Pritlove>PCI-DSS ist ja auch geil. So wie PCMCIA. Weißt du, was PCMCIA heißt?
+
+00:39:24.933 --> 00:39:25.433
+<v Linus Neumann>PC
+
+00:39:28.073 --> 00:39:30.793
+<v Linus Neumann>Micro Card Interface oder wie war das noch?
+
+00:39:30.853 --> 00:39:35.033
+<v Tim Pritlove>Nee, es heißt People Can't Memorize Computer Industry Acronyms.
+
+00:39:35.513 --> 00:39:36.013
+<v Linus Neumann>Okay.
+
+00:39:38.953 --> 00:39:41.493
+<v Linus Neumann>Aber ich glaube, es ist Card Adapter oder sowas.
+
+00:39:45.493 --> 00:39:51.553
+<v Linus Neumann>Ich gucke jetzt, was das heißt. Personal Computer Memory Card International Association.
+
+00:39:52.733 --> 00:39:53.153
+<v Tim Pritlove>Naja.
+
+00:39:54.273 --> 00:39:58.473
+<v Linus Neumann>Wenn die vor der Tür stehen, weißt du, keine Ahnung, wofür das Akronym steht.
+
+00:40:04.813 --> 00:40:06.533
+<v Linus Neumann>Paymentprozess. Okay, die sammeln die Kreditkarten.
+
+00:40:59.428 --> 00:41:04.888
+<v Linus Neumann>Ich glaube, der hat das Brudi, die ist des Ausmaßes des Problems noch nicht ganz klar.
+
+00:41:05.728 --> 00:41:10.868
+<v Tim Pritlove>Als du das selber, als ihr diesen Testkauf gemacht habt mit dieser Canary-Card,
+
+00:41:11.268 --> 00:41:18.068
+<v Tim Pritlove>wie ist da konkret, also seid ihr da auch zu Stripe noch weitergeleitet worden?
+
+00:41:18.068 --> 00:41:24.168
+<v Tim Pritlove>Also hast du dann sozusagen deine Karte bei Stripe angegeben oder nur so hinterlassen?
+
+00:41:41.928 --> 00:41:44.848
+<v Tim Pritlove>Ah, okay, also ihr habt letztlich gar nichts bezahlt.
+
+00:41:45.968 --> 00:41:46.708
+<v Linus Neumann>Ihr habt mich verarscht.
+
+00:41:46.708 --> 00:41:49.408
+<v Tim Pritlove>Also keinen echten Bezahlvorgang eingeleitet.
+
+00:42:02.008 --> 00:42:03.668
+<v Tim Pritlove>Und ist die dann getriggert worden irgendwann?
+
+00:42:33.755 --> 00:42:34.895
+<v Linus Neumann>Threat Actor.
+
+00:43:14.575 --> 00:43:16.675
+<v Tim Pritlove>Also angebliche Fresslieferdienste?
+
+00:43:18.775 --> 00:43:22.015
+<v Tim Pritlove>Also wo dann da was wiederum bestellt wurde und so, okay, verstehe.
+
+00:43:22.415 --> 00:43:26.275
+<v Tim Pritlove>Damit es nicht weiter auffällt. Ach ja, Rattchen.
+
+00:43:28.455 --> 00:43:31.295
+<v Linus Neumann>Wie sind denn die Leute auf den Online-Shop gekommen?
+
+00:44:00.580 --> 00:44:02.940
+<v Tim Pritlove>Klar, Suchmaschinen. Ich meine, du haust das einfach rein, sagst,
+
+00:44:03.020 --> 00:44:05.260
+<v Tim Pritlove>wo gibt es Herrenhandtasche günstig?
+
+00:44:06.560 --> 00:44:11.700
+<v Tim Pritlove>Und dann kommt halt herrenhandtasche24.de.
+
+00:44:12.540 --> 00:44:14.020
+<v Linus Neumann>Haben die da Werbung geschaltet?
+
+00:44:31.840 --> 00:44:34.860
+<v Tim Pritlove>Ja, oder irgendwelche TikTok-Shops oder so, da hast du ja dann mittlerweile
+
+00:44:34.860 --> 00:44:40.780
+<v Tim Pritlove>irgendwelche hampeligen Influencer, die dir das dann halt auch direkt in die Fresse werfen.
+
+00:44:40.780 --> 00:44:48.880
+<v Tim Pritlove>Wenn ich das richtig sehe, sind aber das jetzt keine oder mehrheitlich zumindest nicht jetzt neue,
+
+00:44:49.060 --> 00:44:53.980
+<v Tim Pritlove>wirre Domains, die irgendwie sind, genommen worden,
+
+00:44:54.140 --> 00:45:01.540
+<v Tim Pritlove>sondern die haben dann explizit auslaufende Domains abgewartet und aufgekauft
+
+00:45:01.540 --> 00:45:06.740
+<v Tim Pritlove>und dann quasi die Reputation, die diese Domains gerade noch hatten bei Google
+
+00:45:06.740 --> 00:45:08.160
+<v Tim Pritlove>quasi gleich mitgenutzt.
+
+00:45:38.500 --> 00:45:43.660
+<v Linus Neumann>Und dann deployen sie da auch relativ gut durch, automatisiert einfach einen Online-Shop.
+
+00:46:24.202 --> 00:46:26.722
+<v Tim Pritlove>Was meinst du mit, es wurde ein Quest angelegt?
+
+00:48:02.582 --> 00:48:03.202
+<v Linus Neumann>SSEO.
+
+00:48:15.202 --> 00:48:19.882
+<v Tim Pritlove>Aber allen Teilnehmern dieses Systems ist klar, es geht ausschließlich um Fake-Webshops.
+
+00:48:20.042 --> 00:48:24.042
+<v Tim Pritlove>Also wenn du jetzt sagst, jemand nimmt diese Dienstleistung in Anspruch,
+
+00:48:24.122 --> 00:48:28.542
+<v Tim Pritlove>dann nimmt er das wohl wissend in Anspruch, dass hier sozusagen nie irgendein
+
+00:48:28.542 --> 00:48:32.722
+<v Tim Pritlove>Produkt verkauft werden soll, sondern dass diese ganzen Shops nur Fake sind.
+
+00:48:39.150 --> 00:48:42.110
+<v Tim Pritlove>Okay, die dort arbeiten. Ich meine jetzt nicht, die dort arbeiten,
+
+00:48:42.230 --> 00:48:44.950
+<v Tim Pritlove>aber wenn du jetzt sagst, es gibt jetzt jemanden, der nimmt diese Infrastruktur
+
+00:48:44.950 --> 00:48:46.670
+<v Tim Pritlove>in Anspruch, könnte man denken,
+
+00:48:46.870 --> 00:48:49.350
+<v Tim Pritlove>das sind jetzt Leute, die wollen einfach einen normalen Webshop aufsetzen und
+
+00:48:49.350 --> 00:48:53.150
+<v Tim Pritlove>wissen gar nicht, dass da so eine Hintertür ist, verkaufen aber vielleicht tatsächlich
+
+00:48:53.150 --> 00:48:56.330
+<v Tim Pritlove>wirkliche Produkte, aber das ist nicht der Fall. Also niemand verkauft da wirkliche Produkte.
+
+00:48:56.330 --> 00:48:59.530
+<v Linus Neumann>Sie bieten das nicht irgendwo offiziell an, wenn du sagst, ich hätte gerne einen
+
+00:48:59.530 --> 00:49:04.890
+<v Linus Neumann>Webshop, sagen die nicht, geil das Offering hier, wir haben eine gute Domain, die ist...
+
+00:49:04.890 --> 00:49:07.970
+<v Tim Pritlove>Also es ist nur eine Rollenverteilung innerhalb Innerhalb dieses kriminellen Systems.
+
+00:49:11.370 --> 00:49:14.250
+<v Linus Neumann>Aber Zwischenfrage, ist das so, dass Sie wirklich nie was versendet haben?
+
+00:49:18.850 --> 00:49:19.930
+<v Linus Neumann>Auch eine ganz schöne E-Mail-Zone.
+
+00:49:58.890 --> 00:50:01.290
+<v Linus Neumann>Der hat ja noch ein zweites Mal bestellt, oder?
+
+00:50:18.371 --> 00:50:21.131
+<v Tim Pritlove>Ich frage mich, warum die überhaupt noch irgendwas liefern.
+
+00:50:34.191 --> 00:50:36.871
+<v Tim Pritlove>So Legitimität herzustellen.
+
+00:50:36.871 --> 00:50:44.111
+<v Linus Neumann>Eine andere Möglichkeit, also das ist jetzt wirklich reine Spekulation,
+
+00:50:44.331 --> 00:50:50.011
+<v Linus Neumann>aber es gibt teilweise auch das Interesse Fake-Bestellungen halt durchzuführen.
+
+00:50:50.011 --> 00:50:53.231
+<v Linus Neumann>Aber dann bestellst du quasi bei einem legitimen Händler, bestellst den Kram
+
+00:50:53.231 --> 00:50:58.211
+<v Linus Neumann>irgendwo hin, um dann nachher im Namen dieser Person ein Review zu schreiben
+
+00:50:58.211 --> 00:51:01.831
+<v Linus Neumann>und zu sagen, ja geiles Produkt oder so und hier ist auch wirklich angekommen,
+
+00:51:01.851 --> 00:51:03.971
+<v Linus Neumann>vertrauenswürdiger Händler, 5 Sterne.
+
+00:51:03.971 --> 00:51:09.551
+<v Linus Neumann>Aber dann würden sie das Produkt auf jeden Fall im Zweifelsfall von Amazon oder
+
+00:51:09.551 --> 00:51:12.531
+<v Linus Neumann>Temu oder AliExpress oder so bekommen.
+
+00:51:12.751 --> 00:51:18.791
+<v Linus Neumann>Das wäre jetzt eine andere Spekulation, warum auf einmal Leute Krempel kriegen.
+
+00:51:18.791 --> 00:51:21.671
+<v Linus Neumann>Das ist in den USA glaube ich ein relativ verbreitetes Phänomen,
+
+00:51:21.731 --> 00:51:25.851
+<v Linus Neumann>dass Leute irgendwie so Billigstartikel aus China bekommen, weil Leute ihre
+
+00:51:25.851 --> 00:51:31.291
+<v Linus Neumann>Reputation als Merchant auf einer Plattform hochtreiben wollen.
+
+00:51:31.411 --> 00:51:34.831
+<v Linus Neumann>Das könnte ein anderer Grund sein, was man mit einer tatsächlichen Lieferung
+
+00:51:34.831 --> 00:51:37.631
+<v Linus Neumann>in Anführungszeichen Gewinn machen kann.
+
+00:51:46.771 --> 00:51:51.931
+<v Tim Pritlove>Ich frage mich, ob gegen diese, das ist ja auch wieder so eine Lücke,
+
+00:51:51.931 --> 00:51:59.651
+<v Tim Pritlove>finde ich, in der Art und Weise, wie so Domain-Sales und Resales funktionieren.
+
+00:51:59.651 --> 00:52:06.551
+<v Tim Pritlove>Dass wenn jetzt eine Domain gekündigt wird und nicht weiter fortgeführt wird,
+
+00:52:06.671 --> 00:52:12.671
+<v Tim Pritlove>dass es dann quasi kein Meldesystem gibt, dass man sagt, diese Domain ist jetzt
+
+00:52:12.671 --> 00:52:19.051
+<v Tim Pritlove>nicht mehr in Benutzung, die Besuchmaschinen liefert jetzt auch bitte keine Ergebnisse mehr.
+
+00:52:19.051 --> 00:52:22.511
+<v Tim Pritlove>Vielleicht gibt es so einen Mechanismus, keine Ahnung, aber in dem Fall,
+
+00:52:22.571 --> 00:52:27.111
+<v Tim Pritlove>da gibt es noch ein gutes Rating, kann man weiter benutzen und klar,
+
+00:52:27.491 --> 00:52:30.391
+<v Tim Pritlove>du hast natürlich so Archive.org und so weiter, wenn Leute da nachschauen,
+
+00:52:30.411 --> 00:52:33.911
+<v Tim Pritlove>sehen sie halt irgendwie, okay, da gab es mal was, aber für so Suchmaschinen,
+
+00:52:33.971 --> 00:52:36.251
+<v Tim Pritlove>die wollen ja eigentlich relativ aktuell sein.
+
+00:52:36.251 --> 00:52:39.951
+<v Tim Pritlove>Nein, das müsste meiner Meinung nach einen Mechanismus geben,
+
+00:52:40.031 --> 00:52:45.231
+<v Tim Pritlove>dass in dem Moment, wo die Domain gekündigt wird, der Domain-Reseller mehr oder
+
+00:52:45.231 --> 00:52:47.571
+<v Tim Pritlove>weniger die Suchmaschinen triggert und sagt.
+
+00:52:47.711 --> 00:52:51.371
+<v Linus Neumann>Ist doch nicht doof, damit versaut er sich doch potenziell den Preis.
+
+00:52:54.526 --> 00:53:02.886
+<v Tim Pritlove>Ja, es sei denn, die Regeln schreiben das halt vor, dass man das zu tun hat.
+
+00:53:36.606 --> 00:53:42.566
+<v Linus Neumann>Genau, das ist nämlich, häufig werden Domains ja auch aus dem Grund aufgelöst,
+
+00:53:42.606 --> 00:53:45.546
+<v Linus Neumann>weil eine Domain kostet ja nicht viel.
+
+00:53:46.026 --> 00:53:50.486
+<v Linus Neumann>Und wenn du noch irgendein Interesse daran hättest, dann hältst du dir ja aufrecht.
+
+00:53:50.486 --> 00:53:56.106
+<v Linus Neumann>Ich meine, ich würde vermuten, mehrere Personen hier im Raum haben einen Batzen
+
+00:53:56.106 --> 00:54:00.646
+<v Linus Neumann>an Domains, die sie noch nicht mal nutzen und bis ans Ende ihres Lebens bezahlen werden.
+
+00:54:00.686 --> 00:54:03.266
+<v Linus Neumann>Einmal im Jahr versuche ich so ein paar zu reduzieren und das ist dann auch
+
+00:54:03.266 --> 00:54:08.906
+<v Linus Neumann>immer so, oh, ja gut, aber okay, vielleicht habe ich noch 40 Jahre Lebenserwartung,
+
+00:54:08.926 --> 00:54:12.346
+<v Linus Neumann>sechs Domains weniger vielleicht. Vielleicht. Und,
+
+00:54:15.246 --> 00:54:21.086
+<v Linus Neumann>aber wenn du wirklich sagst, du cancelst das Ding, du verkaufst sie auch nicht
+
+00:54:21.086 --> 00:54:26.506
+<v Linus Neumann>an jemand anders, dann hast du wahrscheinlich auch einfach so ein richtiges
+
+00:54:26.506 --> 00:54:28.586
+<v Linus Neumann>Scheißegal, die Domain ist jetzt weg. Fuck it.
+
+00:54:28.706 --> 00:54:32.686
+<v Linus Neumann>Und mir ist auch völlig egal, was da irgendjemand anderes als nächstes drauf macht. Das halt.
+
+00:54:59.846 --> 00:55:04.946
+<v Linus Neumann>Und wollten ihre Sonnenbrille. Genau. Und, war gut?
+
+00:55:20.446 --> 00:55:26.406
+<v Tim Pritlove>Aber auch da sollte es wahrscheinlich auf Registrar-DNS-Verwaltungsebene so
+
+00:55:26.406 --> 00:55:28.826
+<v Tim Pritlove>eine Art Lifetime-Record geben,
+
+00:55:28.946 --> 00:55:33.686
+<v Tim Pritlove>dass man also wirklich so eine offizielle Meldung macht, diese Domain war im
+
+00:55:33.686 --> 00:55:36.226
+<v Tim Pritlove>Besitz von dieser Firma von dann bis dann,
+
+00:55:36.386 --> 00:55:39.946
+<v Tim Pritlove>auch um sich rechtlich da abzusichern.
+
+00:55:40.995 --> 00:55:46.355
+<v Tim Pritlove>Aber auch um sozusagen eine Auskunft Teil zu sein für andere Entitäten im Internet,
+
+00:55:46.435 --> 00:55:49.135
+<v Tim Pritlove>die das dann halt explizit befragen können und sofort wissen, okay,
+
+00:55:49.555 --> 00:55:52.835
+<v Tim Pritlove>alles klar, diese Domain wurde da jetzt nicht mehr geführt, dann gibt es auch
+
+00:55:52.835 --> 00:55:57.995
+<v Tim Pritlove>automatisch eine Karenzzeit, was weiß ich, also wenn die jetzt nicht explizit
+
+00:55:57.995 --> 00:56:01.355
+<v Tim Pritlove>als im Betrieb befindlich an jemand anders weiterverkauft werden,
+
+00:56:01.395 --> 00:56:02.635
+<v Tim Pritlove>der es weiter betreiben soll.
+
+00:56:02.635 --> 00:56:09.175
+<v Tim Pritlove>Weil wenn man explizit sagt, wurde aufgegeben, es gibt keine Verwendung im Sinne
+
+00:56:09.175 --> 00:56:13.115
+<v Tim Pritlove>der ursprünglichen Nutzung mehr, zack bumm, hier ist jetzt Ende.
+
+00:56:13.395 --> 00:56:15.615
+<v Tim Pritlove>Und so ein Mechanismus existiert einfach nicht.
+
+00:56:15.615 --> 00:56:21.075
+<v Linus Neumann>Ja, aber auch das würde jetzt, also das ist ein grundsätzliches Problem,
+
+00:56:21.175 --> 00:56:24.675
+<v Linus Neumann>wahrscheinlich nicht nur für Fake-Shops, sondern eben auch für,
+
+00:56:24.775 --> 00:56:28.475
+<v Linus Neumann>oh ich habe eine Domain, die ist frei geworden, also das ist so ein grundsätzliches Problem.
+
+00:56:28.475 --> 00:56:32.955
+<v Linus Neumann>Die Fake Shops würde man damit jetzt nicht komplett eindämmen.
+
+00:56:33.735 --> 00:56:38.135
+<v Linus Neumann>Denn so wie es aussieht, du hast
+
+00:56:38.135 --> 00:56:46.095
+<v Linus Neumann>gesagt, insgesamt haben die über 75.000 Betrieben in einem Zeitraum von?
+
+00:57:00.955 --> 00:57:04.875
+<v Linus Neumann>Die haben ja dann schon auch nennenswert Infrastrukturkosten.
+
+00:57:05.935 --> 00:57:10.735
+<v Linus Neumann>Aber eben offenbar auch schon 50.000 Domains verloren.
+
+00:57:12.026 --> 00:57:13.026
+<v Linus Neumann>Oder aufgegeben.
+
+00:57:19.406 --> 00:57:24.046
+<v Linus Neumann>Genau, über die Zeit. Und diese Shops haben sie vermutlich offline genommen,
+
+00:57:24.206 --> 00:57:26.706
+<v Linus Neumann>weil sie irgendwann delistet wurden?
+
+00:57:26.906 --> 00:57:29.626
+<v Linus Neumann>Oder gibt es, das wäre die Vermutung?
+
+00:58:00.386 --> 00:58:06.166
+<v Linus Neumann>Die können sich an die wenden? Haben die eine Adresse? Oder wie passiert das?
+
+00:58:14.846 --> 00:58:16.946
+<v Linus Neumann>Und darauf antworten die dann?
+
+00:58:24.246 --> 00:58:32.006
+<v Linus Neumann>Und ihr habt aber auch festgestellt, dass sie bestimmte Produkte kann man da nicht listen.
+
+00:58:32.626 --> 00:58:34.906
+<v Linus Neumann>Ihr hattet quasi eine Blacklist an Marken.
+
+00:59:17.213 --> 00:59:19.053
+<v Tim Pritlove>Also wer muss sich an diese Blacklist halten?
+
+00:59:35.893 --> 00:59:37.453
+<v Linus Neumann>Kann man nicht bestellen oder nicht einstellen?
+
+01:00:13.953 --> 01:00:15.453
+<v Tim Pritlove>Warum sind die auf der Blacklist?
+
+01:00:25.153 --> 01:00:30.413
+<v Linus Neumann>Okay Ich will, also das ganz China auf der Blacklist ist, liegt wahrscheinlich
+
+01:00:30.413 --> 01:00:31.953
+<v Linus Neumann>daran, dass diese Gruppe in China sitzt.
+
+01:00:32.673 --> 01:00:38.913
+<v Linus Neumann>Das war glaube ich auch zu großen Teilen in Kais Artikel. Dass sie schon durchaus
+
+01:00:38.913 --> 01:00:40.233
+<v Linus Neumann>als Unternehmen funktioniert.
+
+01:00:47.373 --> 01:00:48.653
+<v Linus Neumann>Mit Sitz in?
+
+01:00:51.053 --> 01:00:54.233
+<v Tim Pritlove>Das ist so eine größere Stadt, so an der Küste.
+
+01:00:54.813 --> 01:00:56.673
+<v Linus Neumann>40 Millionen oder so.
+
+01:00:58.153 --> 01:01:03.613
+<v Tim Pritlove>Wie groß sie ist. Kann ich aber kurz nachschlagen. Ja, man hat ja von den meisten
+
+01:01:03.613 --> 01:01:05.853
+<v Tim Pritlove>großen Chinesenstädten nichts gehört.
+
+01:01:08.713 --> 01:01:11.153
+<v Linus Neumann>Aber die haben quasi dort eine,
+
+01:01:14.513 --> 01:01:17.553
+<v Linus Neumann>legale Entity. Die haben dort Angestellte.
+
+01:01:36.733 --> 01:01:41.073
+<v Linus Neumann>Die haben also ein richtiges Unternehmen.
+
+01:01:42.555 --> 01:01:47.595
+<v Linus Neumann>Nicht irgendwie eine Bande, die irgendwo sitzt, sondern einfach eine komplette
+
+01:01:47.595 --> 01:01:52.315
+<v Linus Neumann>legale Entity in China mit Angestellten und hast nicht gesehen,
+
+01:01:52.395 --> 01:01:57.435
+<v Linus Neumann>die zehntausende Fake Shops betreut und fertig.
+
+01:02:38.555 --> 01:02:42.515
+<v Linus Neumann>Ist ja auch super easy. Ich stelle mir das so vor, wenn du jetzt so eine Web-Developerin
+
+01:02:42.515 --> 01:02:45.075
+<v Linus Neumann>bei einem Online-Shop bist,
+
+01:02:45.195 --> 01:02:51.015
+<v Linus Neumann>hast du mit allem zu tun, aber sicherlich nicht mit dem Lager und sicherlich
+
+01:02:51.015 --> 01:02:54.275
+<v Linus Neumann>nicht mit dem First-Level-Support der Kundinnen, die sich dort beschweren.
+
+01:02:54.375 --> 01:02:57.535
+<v Linus Neumann>Das heißt, ich kann mir sehr gut vorstellen, dass du da die ganze Zeit so einen
+
+01:02:57.535 --> 01:03:02.575
+<v Linus Neumann>Online-Shop pflegst, Produkte rein und guck mal hier oben links noch ein Logo
+
+01:03:02.575 --> 01:03:07.895
+<v Linus Neumann>oder so und dann siehst du vielleicht auch, dass da Bestellungen eingehen und das ist alles super.
+
+01:03:23.455 --> 01:03:27.955
+<v Linus Neumann>Das würde ich ja zum Beispiel auch potenziell erwarten als Mitarbeiterin oder
+
+01:03:27.955 --> 01:03:31.235
+<v Linus Neumann>Zuarbeiterin in irgendeinem Online-Shop, dass ich da halt den Teil,
+
+01:03:31.315 --> 01:03:34.735
+<v Linus Neumann>der mich angeht, da kann ich dran und der, der mich nicht angeht, eben nicht.
+
+01:03:36.235 --> 01:03:40.955
+<v Linus Neumann>Aber, also okay, krass. Und gut, China zu dealisten ist einfach keine Beschwerde
+
+01:03:40.955 --> 01:03:42.235
+<v Linus Neumann>in unserer Jurisdiktion.
+
+01:04:19.095 --> 01:04:24.235
+<v Tim Pritlove>Ja, ich wollte nur kurz mal rausfinden, wie die Stadt ausgesprochen wird.
+
+01:04:26.518 --> 01:04:28.678
+<v Linus Neumann>Wie viele Leute wohnen da?
+
+01:04:28.798 --> 01:04:30.518
+<v Tim Pritlove>8,2 Millionen.
+
+01:04:31.178 --> 01:04:33.058
+<v Linus Neumann>Also ihr Kleinstauern-Dorf.
+
+01:04:33.138 --> 01:04:33.338
+<v Tim Pritlove>Genau.
+
+01:04:36.278 --> 01:04:39.158
+<v Linus Neumann>Also aus 80 Ländern dieses Planeten,
+
+01:04:39.238 --> 01:04:41.558
+<v Linus Neumann>also ungefähr die Hälfte der Länder haben das schon mal bestellt.
+
+01:04:43.498 --> 01:04:47.418
+<v Linus Neumann>Mehr als 100 Bestellungen. Ihr hattet auch eine Grafik angefertigt,
+
+01:04:47.438 --> 01:04:50.178
+<v Linus Neumann>die konzentrieren sich aber auf Europa, USA.
+
+01:05:15.838 --> 01:05:18.078
+<v Linus Neumann>So, jetzt sammeln, jetzt laufen
+
+01:05:18.078 --> 01:05:21.818
+<v Linus Neumann>da so diese Shops, irgendwo wird es dann wahrscheinlich ein Modell geben.
+
+01:05:23.298 --> 01:05:26.698
+<v Linus Neumann>Ich stelle mir jetzt vor, ich bin da Merchant. Also meine Aufgabe als Merchant
+
+01:05:26.698 --> 01:05:30.218
+<v Linus Neumann>ist dann im Prinzip dafür zu sorgen, dass ich da coole Produkte drin habe.
+
+01:05:30.218 --> 01:05:33.378
+<v Linus Neumann>Es gibt irgendwie so eine Standardbestückung des Stores, aber ich könnte mir
+
+01:05:33.378 --> 01:05:38.118
+<v Linus Neumann>vorstellen, weil es ja viel Kleidung und Schuhe, das ist ja mindestens so ein saisonales Geschäft.
+
+01:05:38.298 --> 01:05:44.718
+<v Linus Neumann>Das heißt, da müssen diese 25.000 zum gegebenen Zeitpunkt aktiven Stores ja
+
+01:05:44.718 --> 01:05:49.298
+<v Linus Neumann>schon irgendwie auch immer, nicht alles so gnädig wie Doc Martens,
+
+01:05:49.398 --> 01:05:53.138
+<v Linus Neumann>die seit vielen Jahrzehnten mit dem gleichen Schuh einfach antreten.
+
+01:06:17.958 --> 01:06:21.238
+<v Linus Neumann>Okay.
+
+01:06:23.707 --> 01:06:27.027
+<v Linus Neumann>Dann gab es, glaube ich, auch irgendwie so eine Art Business Analytics,
+
+01:06:27.387 --> 01:06:32.027
+<v Linus Neumann>die man darüber gemacht hat, um zu gucken, welcher Shop jetzt oder welches Land.
+
+01:06:32.847 --> 01:06:37.767
+<v Linus Neumann>Also wenn ich 25.000 Online-Shops habe, das ist ja wirklich… Ja.
+
+01:07:38.627 --> 01:07:42.127
+<v Linus Neumann>Und das Payment Gateway wird dann auch einfach ausgerollt.
+
+01:07:42.167 --> 01:07:45.447
+<v Linus Neumann>Wenn ich ein Payment Gateway habe auf das, was weiß ich, 20 Online-Shops laufen,
+
+01:07:45.747 --> 01:07:50.307
+<v Linus Neumann>dann ändere ich das und die 20 Online-Shops werden automatisch umkonfiguriert,
+
+01:07:50.307 --> 01:07:51.647
+<v Linus Neumann>jetzt auf das neue zu werfen?
+
+01:07:57.567 --> 01:08:01.427
+<v Linus Neumann>Also schon auch wirklich von Leuten, die ungefähr wissen, wie man sowas macht.
+
+01:08:08.527 --> 01:08:09.527
+<v Linus Neumann>So, jetzt...
+
+01:08:11.690 --> 01:08:16.570
+<v Linus Neumann>Kai schaut sich das an, teilt das mit Le Monde, teilt das mit Guardian.
+
+01:08:16.630 --> 01:08:19.870
+<v Linus Neumann>Guardian spricht mit Betroffenen.
+
+01:08:20.170 --> 01:08:25.450
+<v Linus Neumann>Kai schaut sich das Firmennetzwerk dahinter an.
+
+01:08:27.090 --> 01:08:28.450
+<v Linus Neumann>Was passiert denn jetzt?
+
+01:08:57.950 --> 01:08:58.970
+<v Linus Neumann>Ist der Server denn offline?
+
+01:09:36.050 --> 01:09:38.150
+<v Linus Neumann>Hat denn jemand Cloudflare Bescheid gesagt?
+
+01:10:05.370 --> 01:10:08.990
+<v Linus Neumann>Andere Wege auf Cloudflare? Behörden.
+
+01:11:13.991 --> 01:11:17.971
+<v Linus Neumann>Möchtest du sagen, in welchem Land diese Behörde? Das ist keine deutsche.
+
+01:11:25.831 --> 01:11:32.711
+<v Linus Neumann>Also erstmal muss man glaube ich dieses Geschäftsmodell dann doch echt mal mit
+
+01:11:32.711 --> 01:11:34.931
+<v Linus Neumann>Anerkennung auch irgendwie sehen,
+
+01:11:35.031 --> 01:11:42.271
+<v Linus Neumann>weil du machst halt so ein Kleinstverbrechen, für das am Ende niemand irgendwie,
+
+01:11:42.671 --> 01:11:48.111
+<v Linus Neumann>ja, also Kai Biermann ist natürlich irgendwie auch verärgert gewesen,
+
+01:11:48.111 --> 01:11:54.591
+<v Linus Neumann>Aber das hat jetzt die Familie nicht in Notstand versetzt, dass er 40 Euro für
+
+01:11:54.591 --> 01:11:55.651
+<v Linus Neumann>Doc Martens bezahlt hat.
+
+01:11:55.871 --> 01:11:59.871
+<v Linus Neumann>Ich meine sogar, das könnte noch ein zweites Mal passiert sein.
+
+01:12:01.611 --> 01:12:07.811
+<v Linus Neumann>Und aber, ne, das heißt, da gibt's dann irgendwie, ja, eine Medienkompetenzschulung
+
+01:12:07.811 --> 01:12:11.551
+<v Linus Neumann>für die gesamte Familie beim Kauf von Schuhen oder so, ja,
+
+01:12:12.331 --> 01:12:16.591
+<v Linus Neumann>aber der wird jetzt, der wird und in dem Fall, klar, ne, Kalbiermann,
+
+01:12:16.611 --> 01:12:18.591
+<v Linus Neumann>Investigativjournalist, der beißt sich fest und,
+
+01:12:20.051 --> 01:12:26.711
+<v Linus Neumann>legt diesen ganzen hängt diesen ganzen Laden draußen zum Trocknen auf, ja, aber ähm.
+
+01:12:28.656 --> 01:12:32.496
+<v Linus Neumann>Die meisten Leute werden sich vielleicht ärgern, sind aber in ihrer,
+
+01:12:32.696 --> 01:12:35.296
+<v Linus Neumann>werden nicht so viel Energie aufbringen.
+
+01:12:35.416 --> 01:12:38.816
+<v Linus Neumann>Und wenn du jetzt bei irgendwie bei der Dorfpolizei auftrittst und sagst,
+
+01:12:38.876 --> 01:12:41.536
+<v Linus Neumann>ich habe hier eine Regenjacke für 70 Euro bestellt, die ist nicht gekommen,
+
+01:12:41.756 --> 01:12:45.656
+<v Linus Neumann>dann sagen die im Zweifelsfall, ja, hatte ich auch schon mal, warte mal noch.
+
+01:12:45.656 --> 01:12:51.136
+<v Linus Neumann>Es gibt einfach überhaupt keinen Strafverfolgungsdruck irgendwo,
+
+01:12:51.436 --> 01:12:55.556
+<v Linus Neumann>der groß ist. Und dann kannst du das Ding auf Millionen skalieren.
+
+01:12:56.096 --> 01:12:59.736
+<v Linus Neumann>Du brauchst halt nur 25.000 Online-Shops.
+
+01:13:01.096 --> 01:13:09.236
+<v Linus Neumann>Ich muss schon sagen, dass ich da Anerkennung für habe, dass man das so hochzieht.
+
+01:13:58.076 --> 01:14:01.736
+<v Linus Neumann>Stripe wahrscheinlich nicht so bekannt oder vielleicht nicht allen Hörerinnen
+
+01:14:01.736 --> 01:14:06.776
+<v Linus Neumann>bekannt ist ein Payment Abwechslungsanbieter ich glaube einer der größten vielleicht
+
+01:14:06.776 --> 01:14:08.616
+<v Linus Neumann>sogar der größte vor allem.
+
+01:14:08.616 --> 01:14:13.096
+<v Tim Pritlove>Der beste also der wirklich funktioniert Funktioniert, so.
+
+01:14:14.276 --> 01:14:18.136
+<v Tim Pritlove>Ja, die dementsprechend auch eine große Bedeutung haben. Also wird die von sehr
+
+01:14:18.136 --> 01:14:21.716
+<v Tim Pritlove>vielen Webseiten benutzt. So Wirecard quasi.
+
+01:14:24.076 --> 01:14:25.176
+<v Linus Neumann>Wirecard in echt.
+
+01:14:27.116 --> 01:14:30.396
+<v Tim Pritlove>Schwieriger Vergleich. Dann auch die Meta-Ebene benutzen.
+
+01:14:31.830 --> 01:14:33.690
+<v Linus Neumann>Thrive ist in Ordnung, lass Thrive in Ruhe.
+
+01:14:34.930 --> 01:14:38.030
+<v Tim Pritlove>Ich wundere mich aber, dass die da nicht so empfänglich sind,
+
+01:14:38.130 --> 01:14:40.270
+<v Tim Pritlove>weil das sollte ja nun eigentlich sehr in ihrem Interesse sein,
+
+01:14:40.410 --> 01:14:42.830
+<v Tim Pritlove>aber keine Ahnung, was da so läuft.
+
+01:15:11.810 --> 01:15:16.830
+<v Linus Neumann>I am a proud holder of the German Bundesverdienstcoin. Vielleicht.
+
+01:15:21.270 --> 01:15:26.770
+<v Linus Neumann>Aber 5000 ist ja verhältnismäßig wenig, wenn man jetzt so übliche Datenlecks anschaut.
+
+01:15:26.870 --> 01:15:32.270
+<v Linus Neumann>Also ein Online-Shop wird oder ein Leak ist gerne mal größer.
+
+01:15:32.470 --> 01:15:39.530
+<v Linus Neumann>Aber okay, die glauben dir nicht. Es gibt dann noch also ich meine am Ende sollte
+
+01:15:39.530 --> 01:15:44.650
+<v Linus Neumann>doch eigentlich derjenige Interesse daran haben, der den wirklichen Schaden hat.
+
+01:15:44.790 --> 01:15:47.610
+<v Linus Neumann>Also neben der Person, deren Geld weg ist. Jetzt hast du aber gesagt,
+
+01:15:47.750 --> 01:15:50.330
+<v Linus Neumann>die kriegen das potenziell von ihrer Bank zurück.
+
+01:15:50.930 --> 01:15:53.750
+<v Linus Neumann>Wo ich auch überrascht wäre, dass die Banken das tun.
+
+01:15:53.910 --> 01:16:00.170
+<v Linus Neumann>Aber wo in der Kette, wo sind denn jetzt, wo entsteht der, also ich würde sagen,
+
+01:16:00.290 --> 01:16:03.910
+<v Linus Neumann>größtenteils bei den Opfern entsteht der finanzielle Schaden.
+
+01:16:03.910 --> 01:16:07.650
+<v Linus Neumann>Dann vielleicht bei den Leuten, die denen Kreditkarten geben,
+
+01:16:07.810 --> 01:16:10.430
+<v Linus Neumann>also die Banken, kartenausgebenden Institute.
+
+01:16:11.090 --> 01:16:14.790
+<v Linus Neumann>Aber da ist es wahrscheinlich einfach schon viel zu divers, weil die über so
+
+01:16:14.790 --> 01:16:19.950
+<v Linus Neumann>und so viele Länder so und so viele Opfer haben, sodass bei denen kein ausreichend
+
+01:16:19.950 --> 01:16:21.550
+<v Linus Neumann>großer Leidensdruck entsteht.
+
+01:17:05.070 --> 01:17:09.350
+<v Linus Neumann>Genial. Lass uns das auch machen. Bei dieser Gelegenheit wollte ich nochmal
+
+01:17:09.350 --> 01:17:11.410
+<v Linus Neumann>empfehlen, LMP-Shirts könnt ihr bestellen.
+
+01:17:13.030 --> 01:17:16.750
+<v Tim Pritlove>Es gibt da so einen schönen Begriff in der Bankenwelt, den fand ich schon immer
+
+01:17:16.750 --> 01:17:18.810
+<v Tim Pritlove>cool. Rentable Sicherheit.
+
+01:17:19.710 --> 01:17:21.310
+<v Tim Pritlove>Also man macht das halt so sicher.
+
+01:17:22.788 --> 01:17:29.548
+<v Tim Pritlove>Wie es sich rentiert. Also wenn halt irgendwie das Aussitzen von Credit Card
+
+01:17:29.548 --> 01:17:35.608
+<v Tim Pritlove>Fraud weniger Geld kostet, als irgendwas zu unternehmen, so,
+
+01:17:35.708 --> 01:17:36.848
+<v Tim Pritlove>dann wird halt ausgesessen.
+
+01:17:37.228 --> 01:17:40.748
+<v Tim Pritlove>Das ist eine reine Kosten-Nutzen-Analyse.
+
+01:17:40.888 --> 01:17:47.108
+<v Linus Neumann>Und es ist ja auch tatsächlich, du sagst das immer so, als wäre das zynisch oder falsch.
+
+01:17:47.248 --> 01:17:53.848
+<v Linus Neumann>Du kaufst doch auch nur ein Fahrradschloss, was auf jeden Fall weniger als das Fahrrad kostet.
+
+01:17:54.128 --> 01:17:55.848
+<v Tim Pritlove>Wann klang das jetzt so zynisch?
+
+01:17:56.108 --> 01:17:56.948
+<v Linus Neumann>Ich weiß es nicht.
+
+01:17:57.588 --> 01:18:01.888
+<v Tim Pritlove>Ich wollte nur diesen Begriff mal einfach in den Raum werfen,
+
+01:18:01.928 --> 01:18:03.308
+<v Tim Pritlove>dass der halt so existiert.
+
+01:18:03.448 --> 01:18:05.788
+<v Tim Pritlove>In gewisser Hinsicht ist er ja auch nachvollziehbar.
+
+01:18:06.068 --> 01:18:12.208
+<v Tim Pritlove>Nur der potenzielle Schaden hier ist ja, dass sozusagen solche kriminellen Aktivitäten
+
+01:18:12.208 --> 01:18:13.348
+<v Tim Pritlove>nicht runtergefahren werden.
+
+01:18:13.508 --> 01:18:15.908
+<v Tim Pritlove>Obwohl man ja im Prinzip das sehr gut belegen kann. Ich meine,
+
+01:18:15.908 --> 01:18:20.588
+<v Tim Pritlove>warum lehnen die dich mit 5000 Kreditkarten ab, weil sie dir nicht glauben?
+
+01:18:20.588 --> 01:18:23.168
+<v Tim Pritlove>Du kannst sie ja hochladen, dann können sie es ja selber überprüfen.
+
+01:18:23.208 --> 01:18:26.008
+<v Linus Neumann>Du kannst aber in das Beschwerdefeld nur 4000 Zeichen eingeben.
+
+01:18:26.068 --> 01:18:29.748
+<v Tim Pritlove>Ja gut, aber ich meine, da könnte man ja auch einen anderen Vorgang für vorsehen.
+
+01:18:29.748 --> 01:18:31.768
+<v Linus Neumann>Da haben die dann einen Captcha, wenn du jetzt da anfängst.
+
+01:18:33.388 --> 01:18:38.948
+<v Tim Pritlove>Aber du bist ja ein Roboter. Tja, naja, also auf jeden Fall ist hier noch einiges
+
+01:18:38.948 --> 01:18:43.088
+<v Tim Pritlove>zu optimieren in diesen ganzen Meldungsprozessen.
+
+01:18:43.708 --> 01:18:48.228
+<v Linus Neumann>Ich kann mir vielleicht ein bisschen außen vor gehalten.
+
+01:18:48.228 --> 01:18:52.668
+<v Linus Neumann>Ich glaube schon, dass ein größerer Teil der Leute, die halt irgendwie aktuelle
+
+01:18:52.668 --> 01:18:57.388
+<v Linus Neumann>Mode bestellen, potenziell auch jünger sind und nicht so hohe Einkommen haben
+
+01:18:57.388 --> 01:19:00.848
+<v Linus Neumann>und es für die dann vielleicht doch schon ein Treffer ist,
+
+01:19:00.948 --> 01:19:05.808
+<v Linus Neumann>wenn sie da mal um 40 Euro oder 70 Euro verarscht werden, oder?
+
+01:19:10.528 --> 01:19:11.448
+<v Linus Neumann>Oder genau umso nicht.
+
+01:19:50.328 --> 01:19:54.368
+<v Linus Neumann>So, jetzt also Google hat kein wirkliches Interesse, Cloudflare hat kein wirkliches
+
+01:19:54.368 --> 01:19:58.928
+<v Linus Neumann>Interesse, bei Stripe sind sie auch nicht aufgesprungen, PayPal nicht, die Banken nicht.
+
+01:20:02.550 --> 01:20:03.290
+<v Tim Pritlove>Jupp, keinen.
+
+01:20:05.390 --> 01:20:07.930
+<v Linus Neumann>Die Verbraucherzentrale hat einen Fake-Shop-Finder.
+
+01:20:23.430 --> 01:20:27.710
+<v Linus Neumann>Ich hätte halt jetzt gedacht, okay, haben die beispielsweise eine Blacklist,
+
+01:20:27.790 --> 01:20:34.670
+<v Linus Neumann>die ich dann in meinen DNS-Server einbauen kann, also in meinen, wie heißt das denn hier,
+
+01:20:35.330 --> 01:20:38.870
+<v Linus Neumann>der DNS-Server, den eigentlich alle haben, ich will jetzt RetroPie heißen,
+
+01:20:38.870 --> 01:20:40.230
+<v Linus Neumann>aber der heißt ja Piehole, genau. Genau.
+
+01:20:40.450 --> 01:20:46.410
+<v Linus Neumann>Pi holt den klassischen hier DNS-Server, den man sich zu Hause hinstellt,
+
+01:20:46.410 --> 01:20:51.170
+<v Linus Neumann>mit Werbeblocken. Dann könnte ich ja auch mal die ganzen Fake-Shops dazu packen.
+
+01:20:51.270 --> 01:20:54.910
+<v Linus Neumann>Vermutlich verkaufen die einfach auch keine Produkte, wo ich Gefahr laufe, dass ich sie kaufe.
+
+01:21:04.830 --> 01:21:07.710
+<v Linus Neumann>Okay, aber wir könnten auch einfach das Ding auf GitHub hauen,
+
+01:21:07.750 --> 01:21:13.110
+<v Linus Neumann>in dem Format, für eine Host-File und dann...
+
+01:21:25.090 --> 01:21:27.110
+<v Linus Neumann>Oder wo jetzt schon wieder jemand anders einen Fake-Shop hat,
+
+01:21:27.190 --> 01:21:30.350
+<v Linus Neumann>das sind dann gar nicht mehr die, sondern die Konkurrenz.
+
+01:21:34.450 --> 01:21:38.570
+<v Linus Neumann>Ja, was war der Moment, den du am beeindruckendsten fandest?
+
+01:21:38.570 --> 01:21:42.330
+<v Linus Neumann>Du hast jetzt sich viele Monate on and off damit auseinandergesetzt.
+
+01:22:21.390 --> 01:22:25.130
+<v Linus Neumann>Und dann dahinter die Orchestrierung, die dafür sorgt, dass diese Webshops sich
+
+01:22:25.130 --> 01:22:29.690
+<v Linus Neumann>alle gleich sind und zentral gesteuert werden.
+
+01:22:30.810 --> 01:22:35.510
+<v Linus Neumann>Auf einem Server hattest du glaube ich gesagt so 200 Webshops teilweise auf einem?
+
+01:22:43.690 --> 01:22:44.290
+<v Linus Neumann>Ui.
+
+01:22:46.250 --> 01:22:50.330
+<v Linus Neumann>Warum mache ich denn unterschiedliche IP-Adressen auf den Server?
+
+01:22:50.370 --> 01:22:51.730
+<v Linus Neumann>Brauche ich doch heutzutage gar nicht mehr.
+
+01:22:52.750 --> 01:22:54.550
+<v Linus Neumann>Also ich könnte ja entsprechend...
+
+01:22:57.697 --> 01:23:01.237
+<v Linus Neumann>Auch mit TLS problemlos alle auf der gleichen IP laufen lassen.
+
+01:23:14.557 --> 01:23:18.317
+<v Linus Neumann>Okay. Gut, die werden sicherlich kein Geld verschwendet haben.
+
+01:23:19.837 --> 01:23:22.977
+<v Linus Neumann>Und dann, als du gesehen hast, wie viel Kohle die damit machen?
+
+01:23:47.877 --> 01:23:49.117
+<v Linus Neumann>Dass du online so viel bestellst.
+
+01:23:50.117 --> 01:23:54.317
+<v Tim Pritlove>Nicht jeden Tag. Siehst du das auf deinem Konto? Wie viele Tage siehst du denn das auf deinem Konto?
+
+01:23:57.337 --> 01:23:59.437
+<v Tim Pritlove>Du überweist es immer schnell, woanders hin.
+
+01:24:50.356 --> 01:24:54.596
+<v Linus Neumann>Und hast du dir da mal irgendwie Gedanken drüber gemacht, dass du da jetzt die
+
+01:24:54.596 --> 01:24:58.176
+<v Linus Neumann>ganzen armen chinesischen Webdeveloper, die davon bezahlt werden,
+
+01:24:58.336 --> 01:25:01.736
+<v Linus Neumann>dass du denen jetzt Probleme machst? Hast du da gar kein Gewissen?
+
+01:25:22.096 --> 01:25:25.976
+<v Linus Neumann>Das legt sich. Also es gibt einfach viele schöne andere Länder.
+
+01:25:26.096 --> 01:25:29.256
+<v Linus Neumann>Seitdem ich nicht mehr in die USA reise, habe ich so viele tolle andere Länder
+
+01:25:29.256 --> 01:25:31.076
+<v Linus Neumann>kennengelernt. Das ist schon in Ordnung.
+
+01:25:31.776 --> 01:25:35.556
+<v Linus Neumann>Türkei bereise ich auch nicht mehr. Da gibt es tolle, Griechenland zum Beispiel.
+
+01:25:39.016 --> 01:25:45.176
+<v Linus Neumann>Okay. Ja, eine spannende Sache.
+
+01:25:45.236 --> 01:25:47.296
+<v Linus Neumann>Ich glaube, wir müssen noch eine Offenlegung machen.
+
+01:25:47.496 --> 01:25:51.176
+<v Linus Neumann>Man muss das an so einer Stelle, eine Offenlegung machen. Ja, das wäre ganz gut.
+
+01:25:51.876 --> 01:25:53.376
+<v Tim Pritlove>Ich habe nichts damit zu tun.
+
+01:25:53.576 --> 01:25:59.576
+<v Linus Neumann>Tim hat nichts damit zu tun, ich schon. Wir haben eigentlich seitdem Kantorkel
+
+01:25:59.576 --> 01:26:01.796
+<v Linus Neumann>da dran ist, ist natürlich sowieso drüber geredet.
+
+01:26:01.816 --> 01:26:06.716
+<v Linus Neumann>Ich habe aber jetzt keine nennenswerten Beiträge geleistet, außer klugen Rat.
+
+01:26:07.156 --> 01:26:08.956
+<v Linus Neumann>Besonders klugen Rat eigentlich. Immer.
+
+01:26:10.356 --> 01:26:16.956
+<v Linus Neumann>Und wir arbeiten zusammen. Das wurde auch von unserem Arbeitgeber oder von unserer
+
+01:26:16.956 --> 01:26:19.456
+<v Linus Neumann>Firma entsprechend veröffentlicht.
+
+01:26:21.436 --> 01:26:21.936
+<v Tim Pritlove>Genau.
+
+01:26:30.776 --> 01:26:34.396
+<v Linus Neumann>Das ist dein Problem, wenn du dir die Arbeitszeit nicht wiederholst.
+
+01:26:36.416 --> 01:26:40.696
+<v Linus Neumann>Ne, klar, sowas macht man natürlich nicht wirklich im 9-to-5-Ding und allein
+
+01:26:40.696 --> 01:26:42.996
+<v Linus Neumann>schon auf dem Camp hatten wir ja auch Urlaub.
+
+01:26:44.196 --> 01:26:51.656
+<v Linus Neumann>Aber solche Dinge macht man natürlich auch aus dem Antrieb, der über,
+
+01:26:51.816 --> 01:26:55.596
+<v Linus Neumann>was weiß ich, dass es mein Job hinausgeht.
+
+01:27:22.296 --> 01:27:24.496
+<v Tim Pritlove>Was ist denn so dein Antrieb?
+
+01:27:26.836 --> 01:27:31.896
+<v Tim Pritlove>Was reizt dich denn da dran? Was ist denn so dein inneres Belohnungssystem?
+
+01:27:31.916 --> 01:27:34.596
+<v Tim Pritlove>Weil bezahlt worden bist du dafür ja jetzt in dem Sinne nicht.
+
+01:28:36.771 --> 01:28:40.131
+<v Linus Neumann>Und das finde ich ja auch ganz spannend, dass du diese Informationen,
+
+01:28:40.231 --> 01:28:45.851
+<v Linus Neumann>die du jetzt mehr oder weniger chronologisch, so wie sie im Kontext sind,
+
+01:28:45.871 --> 01:28:52.311
+<v Linus Neumann>wiedergibst, die hast du ja zusammen mit deinem Team über die Zeit nach und nach entdeckt.
+
+01:28:52.371 --> 01:28:56.051
+<v Linus Neumann>Das war ja nicht am ersten Tag auf einmal klar, sondern ganz im Gegenteil.
+
+01:28:56.051 --> 01:28:58.671
+<v Linus Neumann>Am Anfang war nur, es gibt Online-Shops, ja okay.
+
+01:29:07.811 --> 01:29:14.431
+<v Tim Pritlove>Alright Dann sind wir eigentlich durch soweit, können wir jetzt den Bollerwagen
+
+01:29:14.431 --> 01:29:19.651
+<v Tim Pritlove>vollladen und endlich losziehen Jetzt.
+
+01:29:19.651 --> 01:29:21.851
+<v Linus Neumann>Geht's an den See.
+
+01:29:24.753 --> 01:29:26.453
+<v Tim Pritlove>Ein bisschen rumpaulen, wie
+
+01:29:26.453 --> 01:29:31.653
+<v Tim Pritlove>man das so macht heute. Naja, ich gehe jetzt erstmal ans Schneidegerät.
+
+01:29:37.153 --> 01:29:41.153
+<v Tim Pritlove>Man muss jetzt nachsitzen, weil du so viel Privatsport betrieben hast.
+
+01:29:41.433 --> 01:29:45.593
+<v Linus Neumann>Nee, es war, also tatsächlich, ich habe ja am Anfang schon gesagt,
+
+01:29:45.653 --> 01:29:48.193
+<v Linus Neumann>dass wir mit diesen Feiertagen durcheinander gekommen sind.
+
+01:29:48.673 --> 01:29:52.733
+<v Linus Neumann>Und es war bei dieser Veröffentlichung auch eines der Themen,
+
+01:29:52.733 --> 01:29:57.193
+<v Linus Neumann>dass Kai Biermann der festen Überzeugung war dass der 9.
+
+01:29:57.433 --> 01:30:02.173
+<v Linus Neumann>Mai in Berlin ja kein Feiertag ist oder nee, nur in Berlin ein Feiertag ist,
+
+01:30:02.273 --> 01:30:06.913
+<v Linus Neumann>weil das der Kampftag der Frauen ist und den anderen nicht machen und deswegen die Zeit am 9.
+
+01:30:07.093 --> 01:30:12.773
+<v Linus Neumann>Mai natürlich erscheint und dann kurzfristig so sagt er so was ich noch sagen
+
+01:30:12.773 --> 01:30:17.353
+<v Linus Neumann>wollte die erscheint doch am 8.
+
+01:30:17.693 --> 01:30:23.233
+<v Linus Neumann>Die Print, das ist ja ein Printzeit ganzseitig Artikel und dann durften Le Monde
+
+01:30:23.233 --> 01:30:25.913
+<v Linus Neumann>und Guardian sagen, ja okay, dann schreiben wir es schneller,
+
+01:30:27.453 --> 01:30:31.553
+<v Linus Neumann>um das früher zu machen und Matthias hat sich einen schönen Call auf heute 15
+
+01:30:31.553 --> 01:30:35.533
+<v Linus Neumann>Uhr gelegt, weil es ja kein Feiertag ist.
+
+01:30:35.773 --> 01:30:36.833
+<v Tim Pritlove>Oh Mann, ey.
+
+01:30:36.973 --> 01:30:39.273
+<v Linus Neumann>Zu spät gesehen. Ja.
+
+01:30:40.793 --> 01:30:46.173
+<v Tim Pritlove>So, vielen Dank, Kantorkel, für die Ausführung, für deinen dokumentierten Hacksport.
+
+01:30:46.653 --> 01:30:49.413
+<v Linus Neumann>Nein, Obtain. Achso, wir haben das gar nicht aufgeklärt.
+
+01:30:49.413 --> 01:30:49.953
+<v Tim Pritlove>Obtainerism.
+
+01:30:50.233 --> 01:30:52.913
+<v Linus Neumann>Warum wir die ganze Zeit Obtained sagen?
+
+01:30:53.213 --> 01:31:00.933
+<v Linus Neumann>Weil wir haben die ja nicht gehackt. Und in dem Zeitartikel steht dann zum Beispiel
+
+01:31:00.933 --> 01:31:04.913
+<v Linus Neumann>drin so ein größeres Datenleck, das Zeit einsehen konnte.
+
+01:31:05.273 --> 01:31:14.273
+<v Linus Neumann>Wir haben die Daten. Und im Guardian-Artikel steht, Security Research Labs and
+
+01:31:14.273 --> 01:31:18.953
+<v Linus Neumann>IT Security Consultancy, who obtained gigabytes of data.
+
+01:31:19.213 --> 01:31:24.393
+<v Linus Neumann>Und dieses obtained finde ich halt sehr schön, weil, ja, obtained.
+
+01:31:26.389 --> 01:31:29.649
+<v Tim Pritlove>Das würdest du wie übersetzen in dem Zusammenhang?
+
+01:31:30.149 --> 01:31:31.849
+<v Linus Neumann>In dem Besitz gekommen sind.
+
+01:31:34.989 --> 01:31:39.689
+<v Linus Neumann>Ja, zugefallen ist es. Obtained. Wo hast du das her? Obtained. Ja.
+
+01:31:42.489 --> 01:31:46.489
+<v Linus Neumann>Und das finde ich... Ja, ich hab den Obtained.
+
+01:31:47.449 --> 01:31:52.309
+<v Tim Pritlove>Jetzt muss ich mir doch noch mal anschauen, was so für Übersetzungsoptionen...
+
+01:31:52.309 --> 01:31:54.889
+<v Linus Neumann>Erhalten, Erlangen, Erlangen.
+
+01:31:57.209 --> 01:32:00.629
+<v Tim Pritlove>Besorgen, abrufen, erwirtschaften, bekommen, akquirieren.
+
+01:32:01.869 --> 01:32:03.009
+<v Linus Neumann>Bekommen. Obtänt.
+
+01:32:03.089 --> 01:32:06.229
+<v Tim Pritlove>Ich hab das nicht geklaut, ich hab das akquiriert.
+
+01:32:06.369 --> 01:32:07.449
+<v Linus Neumann>Wie kommt dieses Gras?
+
+01:32:08.729 --> 01:32:11.689
+<v Tim Pritlove>Ich bin kein Dieb, ich bin in der Akquise tätig.
+
+01:32:13.769 --> 01:32:19.149
+<v Linus Neumann>Woher haben Sie den Gras in Ihrer Tasche? Den hab ich obtained. Den hab ich obtained.
+
+01:32:21.809 --> 01:32:22.749
+<v Tim Pritlove>Oh Mann.
+
+01:32:24.409 --> 01:32:30.209
+<v Linus Neumann>Ja genau, aber deswegen ist für mich auf jeden Fall seit dem Release gestern
+
+01:32:30.209 --> 01:32:33.629
+<v Linus Neumann>von des Guardians Articles, ich freue mich, dass ich das Ding einfach nur obtain.
+
+01:32:34.229 --> 01:32:34.689
+<v Tim Pritlove>Okay.
+
+01:32:35.049 --> 01:32:39.569
+<v Linus Neumann>Can we obtain access to this box? I obtained data.
+
+01:32:40.649 --> 01:32:44.629
+<v Tim Pritlove>Gut, Schluss jetzt mit dem Wortwitz hier. Das wird das alles wieder zu albern.
+
+01:32:44.809 --> 01:32:49.489
+<v Tim Pritlove>Das ist ein ernstes Magazin hier, was wir hier produzieren.
+
+01:32:50.269 --> 01:32:51.089
+<v Tim Pritlove>Sagen wir tschüss?
+
+01:32:52.309 --> 01:32:53.649
+<v Linus Neumann>Vielen Dank, schönen Vatertag.
+
+01:32:57.109 --> 01:33:00.089
+<v Tim Pritlove>Genau. Oder was er sonst noch so feiert. Bis bald.
+
+01:33:00.269 --> 01:33:00.849
+<v Linus Neumann>Ciao, ciao.

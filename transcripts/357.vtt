@@ -1,0 +1,2006 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP357 Wie Autocorrect, nur schlimmer
+Publishing Date: 2020-08-29T11:11:05+02:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp357-wie-autocorrect-wie-schlimmer
+
+00:00:00.005 --> 00:00:01.754
+<v Tim Pritlove>Guten Morgen Linus.
+
+00:00:02.133 --> 00:00:03.641
+<v Linus Neumann>Guten Morgen Tim.
+
+00:00:03.990 --> 00:00:11.477
+<v Tim Pritlove>Sogar ein TikTok kaufen, dann denke ich mir, vielleicht sollten wir uns das einfach unter den Nagel reißen. Unser eigenes Sozial Network.
+
+00:00:12.192 --> 00:00:14.481
+<v Linus Neumann>Logbuch Netzpolitik Tok.
+
+00:00:36.048 --> 00:00:44.845
+<v Tim Pritlove>Politik Nummer dreihundertsiebenundfünfzig im äh Namen des Herrn ähm Jahre des Herrn. Zwanzig zwanzig, vielleicht auch im Name.
+
+00:00:44.545 --> 00:00:46.720
+<v Linus Neumann>Keine Sendung im Namen des Herren.
+
+00:00:46.420 --> 00:00:53.180
+<v Tim Pritlove>Nein? Aber im Jahre des Herren. Die alle Frau oder was ja okay, was.
+
+00:00:50.939 --> 00:00:57.476
+<v Linus Neumann>Nur unter Protest. Im Jahre des Herrn von mir aus, aber äh da kann ich ja noch entscheiden, welcher Herr das ist.
+
+00:00:57.176 --> 00:01:03.527
+<v Tim Pritlove>Ist doch bestimmt grade irgendwie ja von irgendwas, ja des Schweins oder ja das,
+
+00:01:03.720 --> 00:01:14.554
+<v Tim Pritlove>oder ja, da ist Bankkontos oder so, gibt auch immer solche, wieso machen wir das eigentlich nicht, so so Tage ausrufen so? Tag, äh Tag der Datenbankabfrage,
+
+00:01:14.765 --> 00:01:16.164
+<v Tim Pritlove>oder.
+
+00:01:16.299 --> 00:01:18.562
+<v Linus Neumann>Weißt du, was zwanzig zwanzig ist?
+
+00:01:18.292 --> 00:01:20.431
+<v Tim Pritlove>Eine Katastrophe.
+
+00:01:20.762 --> 00:01:23.465
+<v Linus Neumann>Zwanzig zwanzig ist das Jahr der Ratte.
+
+00:01:23.165 --> 00:01:28.681
+<v Tim Pritlove>Das hätte uns auch mal früher einer sagen können.
+
+00:01:28.381 --> 00:01:33.338
+<v Linus Neumann>Die Metallratte steht hier. Ja.
+
+00:01:31.452 --> 00:01:37.428
+<v Tim Pritlove>Metallrate? Was ist, was ist denn? Was ist denn das?
+
+00:01:37.178 --> 00:01:38.746
+<v Linus Neumann>Weiß ich nicht, also.
+
+00:01:38.496 --> 00:01:40.345
+<v Tim Pritlove>Wo steht denn das im Internet oder was?
+
+00:01:40.045 --> 00:01:53.583
+<v Linus Neumann>Ich habe einfach zwanzig zwanzig ja der gegoogelt und dann steht da Chinesisches, ja der Ratte. Ein gutes Jahr. Ein gutes Jahr. Prinzipiell ist für die Ratten das Jahr der Ratte sehr positiv. Ja, klar. Für die Ratten schon.
+
+00:01:53.842 --> 00:01:55.716
+<v Tim Pritlove>Wie kommst du jetzt auf Metallratte?
+
+00:01:56.588 --> 00:02:00.259
+<v Linus Neumann>Stand da auch irgendwo. Ich gucke einfach im Internet, was da so.
+
+00:01:59.099 --> 00:02:09.056
+<v Tim Pritlove>Einfach, einfach so. Ich ich klicke mir die Welt, wie sie mir gefällt. Ah. Hm.
+
+00:02:01.521 --> 00:02:11.592
+<v Linus Neumann>Ja, weißt du, was hier steht, Tim, Corona ist eine Lüge, die haben uns verarscht. Die haben uns verarscht, Stimmen und von den Masken kriegt man einen Herpes.
+
+00:02:12.806 --> 00:02:19.776
+<v Tim Pritlove>Steht auch das andere Podcast äh häufiger abgerufen werden als unserer. Lüge! Lüge!
+
+00:02:20.197 --> 00:02:29.253
+<v Linus Neumann>Na ja, also das das äh halte ich ja wirklich für Unsinn. Also ich weiß ja nicht, suchst du bei suchst du bei Bing oder was?
+
+00:02:31.098 --> 00:02:34.877
+<v Linus Neumann>Okay, wir haben wir haben äh wir haben Feedback bekommen.
+
+00:02:34.649 --> 00:02:35.941
+<v Tim Pritlove>Das stimmt.
+
+00:02:36.139 --> 00:02:41.613
+<v Linus Neumann>Ähm relativ äh ausführlich ähm.
+
+00:02:42.172 --> 00:02:53.800
+<v Linus Neumann>Ähm ich fange mal an. Er hat uns jemand geschrieben, den äh ich jetzt einfach mal Frank nenne. Ähm und zwar zu dem Thema der Übernahme, das jetzt äh ich gesagt habe, alle
+
+00:02:53.644 --> 00:02:59.580
+<v Linus Neumann>Wahlauswertungssysteme digitaler Natur sind jetzt bei IT.
+
+00:03:00.680 --> 00:03:12.121
+<v Linus Neumann>Und dazu schreibt uns Frank, ich stimme euch zu, dass die fehlende Transparenz beim Code der Wahlabwicklung und ich würde auch die wirtschaftlichen Verhältnisse und Organisationsstruktur des Unternehmens hinzuziehen, zu beklagen ist.
+
+00:03:12.795 --> 00:03:19.975
+<v Linus Neumann>Was aber die Abhängigkeit der Wahl oder der Verwaltung von einem wirtschaftlich arbeitenden Privatunternehmen angeht.
+
+00:03:20.510 --> 00:03:26.898
+<v Linus Neumann>Das ist etwas, was ich äh in der letzten Sendung gesagt habe. Also ich Linus, rege ich einen tieferen äh Blick.
+
+00:03:27.547 --> 00:03:40.069
+<v Linus Neumann>In die Strukturen, in der IT der öffentlichen Verwaltung an. Die Vote IT ist Tochter diverser öffentlich-rechtlicher oder öffentlich-rechtlich kontrollierter IT-Unternehmen. Es handelt sich dabei bei diesen Strukturen oftmals,
+
+00:03:40.479 --> 00:03:45.712
+<v Linus Neumann>um die Wahrnehmung öffentlicher Aufgaben oder Interessen in der Form des Privatrechts
+
+00:03:45.574 --> 00:03:52.430
+<v Linus Neumann>um die Anforderungen der IT der staatlichen Verwaltung bedienen zu können. So ist beispielsweise der Gesellschafter der Wort IT,
+
+00:03:52.479 --> 00:04:04.917
+<v Linus Neumann>AKD eine Anstalt des öffentlichen Rechts und die kommunalen Datenverarbeitung Oldenburg Services GmbH als weiterer Gesellschafter eine Tochter des Zweckverbands kommunale Datenverarbeitung KDO, Körperschaft des öffentlichen Rechts.
+
+00:04:05.464 --> 00:04:12.224
+<v Linus Neumann>Ziel ist dabei häufig flexibler am Markt operieren und beschaffen zu können, nicht aber Gewinnerzielung. Außerdem,
+
+00:04:12.423 --> 00:04:27.199
+<v Linus Neumann>lassen sich auch so die räumlichen Beschränkungen der Gepizkörperschaften, also Kommunen, Länder und Bund, umgehen. Es kommt ferner in Betracht diese Unternehmen unter Beteiligung und Geschäftsausrichtung in hausfähig auszurichten, sodass sie ohne Ausschreibungen.
+
+00:04:27.728 --> 00:04:37.071
+<v Linus Neumann>Von den Beteiligten öffentlichen Stellen beauftragt werden können. Wahrscheinlich daher die Beteiligung des Wortmanager Anwendervereins, um den Kommunen Zugang zu ermöglichen.
+
+00:04:37.607 --> 00:04:45.076
+<v Linus Neumann>Struktur sichert daher wahrscheinlich die Unabhängigkeit der Verwaltung von der Privatwirtschaft und nicht umgekehrt.
+
+00:04:45.292 --> 00:04:49.282
+<v Linus Neumann>Ja, wichtiger Hinweis, ne, also ich meine, diese Geflechte,
+
+00:04:49.691 --> 00:04:55.814
+<v Linus Neumann>Nicht darauf hin, dass das äh besonders äh sagen wir mal Unternehmen sind, die ähm.
+
+00:04:56.499 --> 00:05:07.441
+<v Linus Neumann>Besonderen wirtschaftlichen ähm Druck äh durch Konkurrenz ausgesetzt sind. Was allerdings, was ja auch das war, was ich beklage, aber es sind nicht irgendwelche äh Gammler
+
+00:05:07.268 --> 00:05:16.521
+<v Linus Neumann>die da die da privatwirtschaftlich gefüttert werden und sich die Taschen vollmachen, sondern öffentlich-rechtliche Gammler.
+
+00:05:16.558 --> 00:05:20.108
+<v Tim Pritlove>Oh Mann, das Wort habe ich auch schon lange nicht mehr gehört.
+
+00:05:20.259 --> 00:05:28.731
+<v Linus Neumann>Ich kenne das Wort aus diesem äh schönen Lied von äh Freddy Quinn. Äh ihr, da kommt, glaube ich, auch Gamla drin vor, dass.
+
+00:05:28.431 --> 00:05:34.867
+<v Tim Pritlove>Ja, weil es halt so in den siebziger Jahren war das so ein bisschen äh der der.
+
+00:05:34.567 --> 00:05:37.300
+<v Linus Neumann>Da da galt das noch als Herabwürdigung.
+
+00:05:37.385 --> 00:05:47.408
+<v Tim Pritlove>Ja, ja, also Gamler war sozusagen wirklich so der der Kampfbegriff so gegen gegen so junge Leute, die so sich anders kleiden und so auf,
+
+00:05:47.570 --> 00:05:49.763
+<v Tim Pritlove>Straße auch mal sitzen und,
+
+00:05:49.884 --> 00:06:01.871
+<v Tim Pritlove>auch vielleicht mal nichts tun und nicht äh dem dem Wirtschaftsaufschwung ihre Arbeitskraft entgegentragen wollen so und die so ein bisschen Zweifel haben am Status quo und das waren dann so die Gammler.
+
+00:06:01.577 --> 00:06:02.773
+<v Linus Neumann>Feinggeister.
+
+00:06:02.497 --> 00:06:12.015
+<v Tim Pritlove>Da ist dann Freddy Quinn auch gleich an die Front gegangen und hat gesagt, so, so geht's nicht, Jungs. Und Mädels, ja. Später waren's dann die Punks.
+
+00:06:11.715 --> 00:06:19.592
+<v Linus Neumann>Getrieben. Bild-Zeitung hat so lange gehetzt, bis äh Rudi Dutschkow äh auf offener Straße erschossen wurde. Hm.
+
+00:06:18.120 --> 00:06:22.753
+<v Tim Pritlove>Hm. Ciao. Mal gucken, wie weit wir jetzt kommen.
+
+00:06:23.198 --> 00:06:25.776
+<v Linus Neumann>Inzwischen eigne ich mir den Begriff an.
+
+00:06:26.401 --> 00:06:31.837
+<v Tim Pritlove>Gammler, schreibst es in deine Twitter-Bio auch rein dann. Was?
+
+00:06:30.445 --> 00:06:32.680
+<v Linus Neumann>Nein.
+
+00:06:32.634 --> 00:06:36.454
+<v Tim Pritlove>IT-Experte in Klammern renommiert.
+
+00:06:36.154 --> 00:06:45.575
+<v Linus Neumann>Renovierter Gangler. Ich gammle in ihrer IT. Nein, okay, also, weiter geht's hier. Ähm
+
+00:06:45.468 --> 00:06:59.156
+<v Linus Neumann>Dann gab es noch äh haben wir uns äh beklagt über die immer noch nicht so wirklich vorangeschrittene Laboranbindung der äh Corona-Warnapp, die ja äh so unsere Meldung in der letzten Woche bei fünfundsiebzig Prozent,
+
+00:06:59.283 --> 00:07:04.210
+<v Linus Neumann>ungefähr Sicherheit nun angelangt ist und haben
+
+00:07:04.114 --> 00:07:14.780
+<v Linus Neumann>gesagt, dass es doch für ein, dass wir es für einen überschaubaren Aufwand halten, dass auf der Probe oder dem Begleitschein irgendwie ein QR-Code ist, über den nachher ein,
+
+00:07:14.792 --> 00:07:24.634
+<v Linus Neumann>Ergebnis mitgeteilt wird. Ich halte das äh nach wie vor für eine der simpelsten Aufgaben, die man jemandem stellen kann, aber.
+
+00:07:25.735 --> 00:07:31.653
+<v Linus Neumann>Uns wurde ähm kommentiert äh von Julian,
+
+00:07:32.014 --> 00:07:44.999
+<v Linus Neumann>So und er sagt, damit das System auf Laborseite funktioniert, muss eben nicht nur die Anbindung an die Telekom Cloud stattfinden, die neue Yu-You-ID, also der Unique Identifiere, das, was da eben der QR-Code auf dem äh Probending ist,
+
+00:07:45.222 --> 00:07:55.882
+<v Linus Neumann>vorher nicht. Es müssen also auch mindestens die Scansysteme und die Datenbanksysteme des Laborinformationssystems selbst angepasst werden. Die Scan-Systeme müssen die UID aus dem,
+
+00:07:56.002 --> 00:08:00.863
+<v Linus Neumann>neuen, schönen Muster CC Schrägstrich OEGD auch auslesen können,
+
+00:08:00.996 --> 00:08:10.676
+<v Linus Neumann>auch die Datenbanken müssen die entgegennehmen können und dann mit Ergebnis an die Software der Telekom übergeben können. In einem späteren Schritt werden auch die,
+
+00:08:11.103 --> 00:08:15.225
+<v Linus Neumann>Elektronischen Order Entry Systeme angepasst. Es geht also.
+
+00:08:16.109 --> 00:08:23.589
+<v Linus Neumann>Darum, dass mehrere Softwarekomponenten angepasst werden müssen, die selbstverständlich oft von verschiedenen Herstellern, Dienstleistern stammen,
+
+00:08:23.860 --> 00:08:35.169
+<v Linus Neumann>Das muss nebenbei so funktionieren, dass der Produktivbetrieb nicht in Gefahr gerät durch Software Feder lahmgelegt zu werden oder ähnliches. So etwas wäre weitaus schlimmer als eine langsame Umsetzung. Daher dürfen,
+
+00:08:35.235 --> 00:08:43.311
+<v Linus Neumann>dürfte die Begeisterung irgendwelche wilden für irgendwelche wilden Hacks eher gering sein. Das alles ist natürlich kein Hexenwerk, es muss aber schon,
+
+00:08:43.408 --> 00:08:49.404
+<v Linus Neumann>es müssen aber schon Veränderungen am Kernsystem vorgenommen werden. Ja, aber ganz ehrlich.
+
+00:08:50.631 --> 00:08:57.306
+<v Linus Neumann>Äh ich kenne trotzdem kaum eine einfachere äh Veränderung am Kernsystem, äh die äh möglich wäre,
+
+00:08:57.493 --> 00:09:05.833
+<v Linus Neumann>und ähm man kann diesen Prozess ja auch äh unter Umständen parallel gestalten, statt linear, also ich bin da ähm.
+
+00:09:07.114 --> 00:09:12.119
+<v Linus Neumann>Jede andere Änderung an dem System äh wäre ähm.
+
+00:09:12.852 --> 00:09:24.419
+<v Linus Neumann>Komplexer, ja? Aber natürlich ist hier eine gemeinsame Arbeit notwendig und ich hätte eben dann doch erwartet, dass die in der Lage sind, die innerhalb eines Vierteljahres vielleicht doch hinzubekommen.
+
+00:09:24.468 --> 00:09:38.096
+<v Tim Pritlove>Also aus der Perspektive der Labore kann ich diese Darstellung vollkommen nachvollziehen, weil die gehen natürlich zu ihren IT-Dienstleistern und sagen so, ja hier, wir brauchen nochmal eine Ju-Your-ID in unserer Datenbankstruktur, da sagen die, oh, ganz schwierig. Also.
+
+00:09:38.000 --> 00:09:40.391
+<v Linus Neumann>Dann sagen die, legt euch doch einfach eine an.
+
+00:09:40.272 --> 00:09:45.012
+<v Tim Pritlove>Der Programmierer ist im Urlaub und also und dann überhaupt und im laufenden Betrieb.
+
+00:09:44.814 --> 00:09:52.602
+<v Linus Neumann>Natürlich gibt es tausend Probleme. Ich habe ich kann, wenn ich hier bei mir auf meinem Computer zwanzig zahlen schreibe, habe ich fünfzig Probleme,
+
+00:09:52.915 --> 00:10:01.850
+<v Linus Neumann>Ja, aber das äh also ne das wir haben auch, wir haben ein Internet gebaut, ne? Wir also natürlich nichts ist einfach.
+
+00:10:02.277 --> 00:10:07.907
+<v Linus Neumann>Aber ähm das ist dann doch schon überschaubar. Aber ich finde, ich finde noch einen wichtigen Punkt,
+
+00:10:08.208 --> 00:10:17.395
+<v Linus Neumann>ähm den den äh Julian hier noch sagt. Ähm ob derjenige, der die Probe beim Patienten abnimmt,
+
+00:10:17.636 --> 00:10:28.692
+<v Linus Neumann>Das Muster verwendet, also den QR-Code, hat nichts damit zu tun, ob das Labor, das die Probe bekommt, auch was damit anfangen kann, beziehungsweise an die Telekom angebunden,
+
+00:10:28.891 --> 00:10:40.548
+<v Linus Neumann>ist. Wenn der Patient also einen schönen Zettel mit QR-Code bekommt und diesen brav scannt, heißt das noch lange nicht, dass da auf der Laborseite auch irgendetwas mit der Yo-Yo-ID passiert.
+
+00:10:40.687 --> 00:10:49.027
+<v Linus Neumann>Das erklärt äh warum einige Leute sich wundern, dass ihr Ergebnis in der App nie erscheint. In einigen Fällen wird das Labor den QR-Code schlicht
+
+00:10:48.985 --> 00:11:01.285
+<v Linus Neumann>ignoriert haben, weil die Komponenten noch nicht laufen. Und das ist natürlich also das erklärt es sehr gut, ja? So genau stelle ich mir das vor und das ist es, was man vermeiden möchte. Und mir ist völlig egal
+
+00:11:01.700 --> 00:11:11.369
+<v Linus Neumann>da kann man immer im Einzelfall erklären, aber hier hat die Bundesregierung viele Millionen Euro drauf geworfen äh auf die Corona-App und diese Anbindung
+
+00:11:11.189 --> 00:11:18.009
+<v Linus Neumann>auch die Labore kriegen ihre Tätigkeit, so wie ich, habe ich mir versichern lassen, bezahlt. Da müssen dann eben Lösungen
+
+00:11:17.871 --> 00:11:23.212
+<v Linus Neumann>gefunden werden und das sind alles Probleme, die ganz klar existieren, aber die.
+
+00:11:23.826 --> 00:11:33.716
+<v Linus Neumann>Ähm auch alle nicht so erscheinen, dass man sagt, hm Himmel, äh Herr im Himmel, wo wir jetzt schon bei ähm biblischen Metaphern sind, das kriegen wir nicht geklärt.
+
+00:11:33.717 --> 00:11:48.024
+<v Tim Pritlove>Und vor allem, ich meine, hallo, wir haben eine Pandemie, Leute. Reißt euch mal ein bisschen am Riemen. Ich sage ja nicht, ihr sollt euch jetzt in Grund und Boden arbeiten, aber dieses permanente Finger point the pointing, mit ja, aber die haben ja nicht und die haben ja nicht,
+
+00:11:48.355 --> 00:11:59.273
+<v Tim Pritlove>Ist mir egal, arbeitet einfach zusammen, lasst euch was einfallen. Ich war jetzt grade mal wieder vor einer Woche äh im äh Osten Berlins so hinter Erkner,
+
+00:11:59.724 --> 00:12:02.422
+<v Tim Pritlove>Gibt's ja da so einen Ort, weißt du, wovon ich spreche?
+
+00:12:03.053 --> 00:12:04.609
+<v Linus Neumann>Gibt's ja, kenne ich.
+
+00:12:04.387 --> 00:12:08.972
+<v Tim Pritlove>Ja, dahinter, was, was fängt, was, was findet da gerade statt? Wenn er so rausfährst.
+
+00:12:08.726 --> 00:12:11.411
+<v Linus Neumann>Ähm Brandenburg, da bauen sie Tesla Werk.
+
+00:12:11.135 --> 00:12:18.021
+<v Tim Pritlove>Und da kannst du irgendwie einen Tag später hinkommen und es sieht schon wieder alles anders.
+
+00:12:17.721 --> 00:12:18.989
+<v Linus Neumann>Auto abholt.
+
+00:12:18.689 --> 00:12:27.023
+<v Tim Pritlove>Äh soweit sind wir noch nicht so, aber die Geschwindigkeit und die Intensität, mit der da irgendwie grade was aus dem Boden gestampft wird,
+
+00:12:27.065 --> 00:12:37.641
+<v Tim Pritlove>ja? Während wir uns dann monatelang darüber unterhalten, dass irgendwie ein QR-Code auf dem Zettel stehen muss und eine Yu-ID irgendwie noch als weiteres Feld in der Datenbanktabelle eingefügt werden muss.
+
+00:12:37.780 --> 00:12:45.603
+<v Tim Pritlove>Da gehe ich einfach nicht mit. Also sorry, aber das das ist mir einfach zu einfach. Das ähm das das geht so nicht.
+
+00:12:45.892 --> 00:12:52.790
+<v Linus Neumann>Also es ist natürlich also deswegen, weil es all diese Probleme gibt,
+
+00:12:53.031 --> 00:12:57.290
+<v Linus Neumann>werden Programmiererinnen, Programmierer, IT-Fachkräfte,
+
+00:12:57.573 --> 00:13:09.068
+<v Linus Neumann>teuer bezahlt, weil die sich eben mit solchen Dingen auseinandersetzen müssen und niemand sagte, es wird leicht. Aber ähm deswegen haben wir Geld draufgeworfen. Ähm.
+
+00:13:10.325 --> 00:13:11.899
+<v Linus Neumann>Was auch nicht so leicht wird.
+
+00:13:12.686 --> 00:13:26.687
+<v Linus Neumann>Ist die Kontaktverfolgung in der Gastronomie. Wir haben ja hier auch in der letzten Sendung schon bisschen darüber äh gesprochen. Ich habe da die Zettellösung propagiert äh kommentiert Nils.
+
+00:13:26.952 --> 00:13:36.404
+<v Linus Neumann>Äh ihr sprach bezüglich der Kontaktverfolgung in der Gastronomie von der Alternative, diese über die Corona-Warnapp zu realisieren, damit man seine Daten nicht,
+
+00:13:36.584 --> 00:13:47.112
+<v Linus Neumann>von allen einsehbaren Zetteln hinterlassen muss. Hier muss ich vielleicht doch nochmal kurz wiederholen aus der letzten Sendung, wo wir im Prinzip gesagt haben, es wäre ja super, wenn man.
+
+00:13:47.611 --> 00:13:56.786
+<v Linus Neumann>Der gastronomische Betrieb ebenfalls Biekens senden und als ähm krank,
+
+00:13:56.997 --> 00:14:09.483
+<v Linus Neumann>melden könnte, weil ähm einfacher Sachverhalt, ne? Die Corona-Warn-App ist Abstandsbasiert, Restaurants können groß sein und vielleicht wäre es gut, diesen ganzen Prozess der äh Corona,
+
+00:14:09.676 --> 00:14:15.751
+<v Linus Neumann>Nachverfolgung über äh gastronomische Betriebe in der Meldung zu beschleunigen, indem man da auch,
+
+00:14:15.938 --> 00:14:25.642
+<v Linus Neumann>Eine Corona-Warnapp Möglichkeit schafft. Natürlich geht das, haben wir, glaube ich, auch in der letzten Sendung schon besprochen. Natürlich kann das nicht die einzige Methode sein, weil ja eben.
+
+00:14:26.430 --> 00:14:35.641
+<v Linus Neumann>Nicht alle Menschen diese App haben, aber man könnte das flankieren. Nils kommentiert, ich frage mich, mit welchem Anspruch die Gesundheitsämter an die Kontakt äh welchen Anspruch die,
+
+00:14:35.906 --> 00:14:44.354
+<v Linus Neumann>Gesundheitsämter in die Kontaktverfolgung haben. Ginge es über die Corona-Warnapp? Wäre der Nutzer komplett anonym und müsste sich freiwillig melden,
+
+00:14:44.475 --> 00:14:50.754
+<v Linus Neumann>was bei der Zettellösung nicht unbedingt der Fall wäre. Eine von ihrer App benachrichtigte Person,
+
+00:14:50.790 --> 00:15:00.410
+<v Linus Neumann>ist durch Scham oder ähnliches eventuell weniger gewillt, sich zu melden und könnte so einer Quarantäne entgehen. Natürlich kann man auch falsche Daten auf dem Zettel angeben,
+
+00:15:00.465 --> 00:15:06.564
+<v Linus Neumann>Ich denke aber, dass die meisten ihre tatsächlichen Daten eintragen, der die Ausnahmesituation potenzielle Infektion.
+
+00:15:07.441 --> 00:15:14.718
+<v Linus Neumann>Äh noch nicht besteht. Äh wäre interessant zu wissen, wie da die Vorgaben der Gesundheitsämter sind, freiwillige Meldungen oder Pflicht,
+
+00:15:14.760 --> 00:15:22.956
+<v Linus Neumann>zum Test viele Grüße Nils. PS, ich höre euch seit Folge eins, was mir jetzt im Masterstudium Informatik in IT Security viel geholfen hat
+
+00:15:22.951 --> 00:15:35.071
+<v Linus Neumann>Der Prof zeigte eine PowerPoint-Folie über Max, Shrimps und Facebook, wo ich ihn korrigieren konnte. Auf die Frage, woher ich das alles äh wüsste, konnte hier der Vorlesung direkt Werbung für euren Podcast machen,
+
+00:15:35.546 --> 00:15:40.046
+<v Linus Neumann>Vielen Dank für eure Arbeit und bleibt gesund. Ja, viel Spaß in der mündlichen Prüfung bei dem Prof.
+
+00:15:41.885 --> 00:15:55.195
+<v Linus Neumann>Aber ähm ja, vielen Dank. Ja, genau. Also, tragt uns in die Universitäten. Ähm wobei ich äh sowieso den Eindruck habe, dass unser äh Publikum sich ohnehin aus der.
+
+00:15:56.463 --> 00:16:00.171
+<v Linus Neumann>Aus der Arogat der Gesellschaft zusammensetzt.
+
+00:16:00.532 --> 00:16:09.575
+<v Tim Pritlove>So sieht's aus. Tschau. Also ist äh ist ein Problem. Ich muss auch zugeben, dass ich in der letzten Sendung ein bisschen vorgeprescht äh äh bin,
+
+00:16:09.750 --> 00:16:26.082
+<v Tim Pritlove>diesem Vorschlag. Es war auch, sagen wir mal, eher eine Anregung, darüber nachzudenken. Es ist nicht so, dass ich jetzt schon eine konkrete Idee hätte. Mir ist schon klar, dass also sowohl diese Bluetooth zusätzliche Bluetooth-Beakin-Geschichte technischer Herausforderungen, Schwierigkeiten äh hat, als natürlich jetzt auch konkret diese
+
+00:16:25.860 --> 00:16:30.324
+<v Tim Pritlove>Corona-Warn-App oder was Vergleichbares äh da zum Einsatz zu bringen. Nur.
+
+00:16:30.895 --> 00:16:38.797
+<v Tim Pritlove>Es muss einfach mal über alles auch nachgedacht äh werden durchgespielt werden. Man kann ja dann am Ende der Diskussion immer noch zu anderen Ergebnissen.
+
+00:16:38.821 --> 00:16:47.456
+<v Linus Neumann>Also wenn man, ich denke, man darf nicht vergessen, man muss dabei immer bedenken, dass die Corona-Warn-App eine Beschleunigung,
+
+00:16:47.811 --> 00:16:55.382
+<v Linus Neumann>sein kann, sein soll, sein muss, aber nicht der einzige, exklusive Weg sein kann,
+
+00:16:55.827 --> 00:17:00.105
+<v Linus Neumann>Ja, dass, ich denke, das ist der Teil, den man hier, ich denke, dieses,
+
+00:17:00.214 --> 00:17:11.841
+<v Linus Neumann>vorgeschlagene System für eine Schnellalarmierung durch die Restaurants wäre sinnvoll, zu schnelleren Benachrichtigungen, könnte aber nicht, dass äh contact racing,
+
+00:17:12.046 --> 00:17:20.061
+<v Linus Neumann>in Restaurants ersetzen. Gerade aufgrund der unterschiedlichen vielen Limitationen und Risiken der App.
+
+00:17:21.582 --> 00:17:29.513
+<v Linus Neumann>Und damit werden wir auch schon äh direkt beim ersten Thema nach dem Feedback Contact in der Gastronomie. Ähm,
+
+00:17:29.724 --> 00:17:35.529
+<v Linus Neumann>der ja nicht nur die Zettellösung und die jetzt von Nils vorgeschlagene,
+
+00:17:35.697 --> 00:17:48.953
+<v Linus Neumann>Corona-App-Lösung, die es nicht gibt, sondern es gibt auch einen bunten Zoo an digitalen Lösungen dafür. Ähm ich glaube, wir haben hier in der vorletzten oder vorverletzten Sendung auch schon,
+
+00:17:49.128 --> 00:17:58.453
+<v Linus Neumann>davon erzählt, dass äh ein Kollege von Motziro in der Schweiz sich da mal so ein System angeschaut hat und alle Daten rausgeholt hat.
+
+00:17:59.235 --> 00:18:06.884
+<v Linus Neumann>Und heute haben wir als Chaos-Computer-Club denn auch eine Pressemitteilung veröffentlicht, weil das zerrt,
+
+00:18:07.167 --> 00:18:10.261
+<v Linus Neumann>ein solches System aufgemacht hat. Das zehrt ist,
+
+00:18:10.418 --> 00:18:20.861
+<v Linus Neumann>für diejenigen, die vielleicht nicht die Veranstaltung des CCC besuchen, das KOS emergency Response Team, also der Sanitäts,
+
+00:18:21.012 --> 00:18:34.417
+<v Linus Neumann>Sicherheit so brandschutz und sanitätsdienst äh bei uns auf den Veranstaltungen ähm ehrenamtlich aber bestückt mit hochkarätigem Personal, mit allen möglichen Ausbildungen, Dekorationen, von der,
+
+00:18:34.562 --> 00:18:43.948
+<v Linus Neumann>der Medizin bis zur Sanitäterin über Fachassistentinnen und äh wattet da nicht alles gibt. Ähm alles vertreten.
+
+00:18:44.429 --> 00:18:51.363
+<v Linus Neumann>Die bei uns auf den Veranstaltungen ähm eben sich um die äh Besucherinnen kümmern und,
+
+00:18:51.718 --> 00:18:59.421
+<v Linus Neumann>in der Veranstaltungsfreien Zeit muss das ZERT sich ja trotzdem äh zumindest treffen und äh mal was essen,
+
+00:18:59.692 --> 00:19:06.422
+<v Linus Neumann>Und bei genau so einem äh Gastronomiebesuch sind eben einige Leute aus dem,
+
+00:19:06.753 --> 00:19:17.286
+<v Linus Neumann>auf so ein digitales äh Corona-Datensystem gestoßen, was natürlich mit allen äh in der Full Service Cloud äh sich befindet, das heißt,
+
+00:19:17.407 --> 00:19:21.835
+<v Linus Neumann>Daten von allen möglichen Restaurants äh zentral auf irgendeinem Server,
+
+00:19:22.046 --> 00:19:29.689
+<v Linus Neumann>im Internet speichert. Aber ich würde sagen, darüber sprechen wir einfach direkt mal mit Sophie, denn Sophie,
+
+00:19:29.870 --> 00:19:39.640
+<v Linus Neumann>mit dabei und hat so ein bisschen die Untersuchung der Patientin oder des Patienten dort koordiniert dazu gekommen.
+
+00:19:40.139 --> 00:19:42.584
+<v Sophie Bertsch>Wie du schon gesagt hast, das sollten wir einfach mal essen,
+
+00:19:42.939 --> 00:19:57.938
+<v Sophie Bertsch>Und an unseren Tisch wurden ein paar Dinge geliefert, die wir nicht bestellt hatten. Hm, drei Bier und einen Flammkuchen waren das, glaube ich. Und das hat so ein bisschen ans Interesse geweckt, weil das sollte ja eigentlich nicht vorkommen, wenn ich wohl mein eigenes Handy was bestelle an meinem Tisch.
+
+00:19:58.028 --> 00:20:07.089
+<v Linus Neumann>Also man konnte da, man hatte quasi eine digitale Speisekarte und konnte dann sagen, jo, hier einmal an an Tisch dreiundzwanzig oder so.
+
+00:20:07.246 --> 00:20:18.477
+<v Sophie Bertsch>Genau, da lagen QR-Codes aus, so in diesem QR-Code hast du mit deinem Handy eingescannt und daraufhin kam dann eben eine Webseite mit der Speisekarte. Da konntest du dann dein Essen ein Klick, wie du's haben wolltest und absenden.
+
+00:20:18.417 --> 00:20:22.298
+<v Sophie Bertsch>Und wir haben das alles zentral über eine Person gemacht an dem Tisch.
+
+00:20:22.816 --> 00:20:31.462
+<v Sophie Bertsch>Und dann kam halt immer wieder Lieferung, wie man Bier zu viel und ein Flammkuchen und andere Getränke, die wir einfach alle nie bestellt hatten.
+
+00:20:32.712 --> 00:20:38.613
+<v Sophie Bertsch>Das soll ja nicht, das kann ja nichts sein, wenn wenn wir es dann bestellen und dann haben wir einfach angefangen.
+
+00:20:39.298 --> 00:20:47.705
+<v Sophie Bertsch>Mal bisschen zu gucken, wie funktioniert das System, was kann das System überhaupt? Und haben dann recht schnell gemerkt, okay, so wie das aufgebaut ist, da muss irgendwas kaputt sein und,
+
+00:20:48.192 --> 00:20:49.585
+<v Sophie Bertsch>So war's dann auch.
+
+00:20:49.442 --> 00:20:57.740
+<v Tim Pritlove>Das heißt, das war jetzt, ihr wart quasi mit euren eigenen Geräten einfach mit dem äh Internet verbunden und habt äh auf so einer Webseite rumgeklickt oder wie stelle ich mir das jetzt vor?
+
+00:20:58.581 --> 00:21:05.954
+<v Sophie Bertsch>Genau, also ähm wir hatten unsere Handys und haben darüber einfach auf uns selber Essen bestellt und das kam dann aus dem Restaurant, in dem wir saßen.
+
+00:21:05.750 --> 00:21:14.325
+<v Tim Pritlove>Okay, also wir waren jetzt keine äh Tablets, die auslagen oder irgendwie sowas nennt man das heutzutage, glaube ich.
+
+00:21:14.025 --> 00:21:20.947
+<v Linus Neumann>Und dann habt ihr äh glaube ich auch relativ schnell feststellen können, okay äh da wie man,
+
+00:21:21.133 --> 00:21:33.157
+<v Linus Neumann>Also in der URL oder in dem Befehl, wie man äh eine Bestellung tätigt, da wird eine Tischnummer übergeben und wenn ich da eine andere Tischnummer übergebe, mhm dann kann ich eben auch für einen anderen Tisch bestellen,
+
+00:21:33.518 --> 00:21:38.631
+<v Linus Neumann>Und dann habt ihr als nächstes gemerkt, wenn ich ein anderes Restaurant übergebe, kann ich auch in einem anderen Restaurant bestellen.
+
+00:21:39.287 --> 00:21:41.624
+<v Sophie Bertsch>Genau, also angefangen hat's damit, dass wir,
+
+00:21:42.099 --> 00:21:49.532
+<v Sophie Bertsch>entdeckt haben, dass wir eigentlich auf eine Reservierung Bestellungen ausführen, was wir relativ lustig fanden,
+
+00:21:49.839 --> 00:21:57.494
+<v Sophie Bertsch>ähm diese Fischcodes zahlen zumindest für einen aus, wahnsinnig, sie wurden einfach nur hoch und runter iteriert. Ähm.
+
+00:21:58.390 --> 00:22:08.839
+<v Sophie Bertsch>Und dann haben wir einfach einen Tag darauf angefangen mit der Abi so ein bisschen zu spielen oder haben mal geguckt, was sie so kann und dann hat sie uns freundlicherweise alle Restaurants zurückgeliefert, sonst Speisekarte.
+
+00:22:09.398 --> 00:22:15.287
+<v Sophie Bertsch>Ähm damit wussten wir schon mal okay, wer ist das, dass es ihm überhaupt einen, der gehört zu ihren Kunden.
+
+00:22:16.417 --> 00:22:27.924
+<v Sophie Bertsch>Zeitgleich wurde dann auch von einem Mitglied von uns die Datenbank gefunden und geöffnet. Da haben wir einfach gesagt, hey wir sind das Administrator und dann hat das System gesagt, okay, dann bist du jetzt Administrator und dann machen wir das auch.
+
+00:22:29.240 --> 00:22:40.597
+<v Sophie Bertsch>Daraufhin hatten wir schon mal einen Weg zu den ganzen Daten und so ging das dann eben weiter. Wir haben uns dann durch die durchgespielt, haben dann nach und nach verstanden, wie das System gewachsen ist und ließ sich auch.
+
+00:22:41.264 --> 00:22:42.983
+<v Sophie Bertsch>Die Komponenten interagieren.
+
+00:22:43.764 --> 00:22:58.582
+<v Sophie Bertsch>Das Vorteil ist, wir hatten kein Ratelimit, zumindest nicht von der API. Das Feldlimit war eher vom Datenbankserver, der etwas langsam war, wenn wir dann gespielt haben. Ja, und so hatten wir dann, ich meine, es war Sonntags, mehr oder minder das ganze System offen vor uns liegen.
+
+00:22:59.262 --> 00:23:06.772
+<v Linus Neumann>Vielleicht noch so ein bisschen für für Leute, die nicht ganz in der Sache drin sind, ein paar Sachen erklären, also wenn man jetzt so eine Webseite vor sich hat,
+
+00:23:06.911 --> 00:23:17.931
+<v Linus Neumann>denn äh kann man Teile der Funktionalität, ne, also zum Beispiel die ganzen Daten, die da gespeichert werden, die sind eben in einer Datenbank und die der Teil, den ihr im Browser seht,
+
+00:23:18.226 --> 00:23:20.641
+<v Linus Neumann>interagiert mit dieser Datenbank,
+
+00:23:20.756 --> 00:23:32.966
+<v Linus Neumann>häufig irgendwie eben einfach durch durch Requests. Und ähm das, was die Datenbank quasi dir was du aus der Datenbank bekommen kannst mit verschiedenen Anfragen, das definiert die,
+
+00:23:33.075 --> 00:23:37.317
+<v Linus Neumann>API. Und jetzt ist es eigentlich so, dass man sagen würde, ne, so,
+
+00:23:37.762 --> 00:23:47.424
+<v Linus Neumann>ganz naiv, wenn es da jetzt unterschiedliche Restaurants gibt, dann wäre es natürlich ziemlich gut, wenn Restaurant A nicht auf die Daten von Restaurant B zugreifen kann.
+
+00:23:48.097 --> 00:23:56.341
+<v Linus Neumann>Und wenn du das verhindern möchtest, dann musst du den Check dafür natürlich an der API machen, also vor der Datenbank,
+
+00:23:56.576 --> 00:24:06.292
+<v Linus Neumann>und nicht etwa deine API so gestalten, dass die sowieso einfach alle Daten zurückgibt, nach denen irgendjemand fragt und nur im Frontend also auf deinem,
+
+00:24:06.383 --> 00:24:09.856
+<v Linus Neumann>Browser entschieden wird, ob du das jetzt sehen sollst oder nicht
+
+00:24:09.820 --> 00:24:18.232
+<v Linus Neumann>Und das war hier der der entscheidende Fehler, dass eigentlich der der die wichtigen Teile der Zugangsbeschränkungen ähm,
+
+00:24:18.455 --> 00:24:21.255
+<v Linus Neumann>von von deinem Browser gemacht.
+
+00:24:20.955 --> 00:24:22.054
+<v Tim Pritlove>Oh Mann e.
+
+00:24:21.754 --> 00:24:28.430
+<v Linus Neumann>Wenn der entschieden hat, ah ja, nö, also ich habe geprüft, ich habe mal geguckt, ich bin hier auf jeden Fall Administrator,
+
+00:24:28.683 --> 00:24:32.528
+<v Linus Neumann>dann hat die API eben gesagt, naja super, alles, alles klar, ne, dann.
+
+00:24:32.264 --> 00:24:36.933
+<v Sophie Bertsch>So so was nicht. Das müssen wir jetzt zweiteilen,
+
+00:24:37.246 --> 00:24:47.635
+<v Sophie Bertsch>Also zum einen hatten wir diese diese Logik im Frontend im Prinzip zum Beispiel ähm kann ein Gastronom vorgeben, dass sich nur bis dreißig Euro auf einmal bestellen kann,
+
+00:24:47.990 --> 00:24:57.604
+<v Sophie Bertsch>Das hat das Frontend geprüft. Ähm wenn ich für zehntausend Euro über die API direkt bestellt habe, dann ging das sauber durch. Das mit dem Administrator war ein bisschen anders. Ähm.
+
+00:24:58.217 --> 00:25:04.376
+<v Sophie Bertsch>Man kann zum Beispiel in einem Frontland sein, seine E-Mail-Adresse ändern. Und dann wird ähm auch so eine Anfrage gestellt an das Backend.
+
+00:25:04.887 --> 00:25:18.606
+<v Sophie Bertsch>Das steht dann halt drin Änderung, E-Mail ist jetzt neu so. Und man konnte aber einfach auch sagen, ich bin es in der Gruppe drei, in Gruppe drei waren bei diesem System die Administratoren und dann hat das System gesagt, okay, dann bist du jetzt Gruppe drei. Ähm.
+
+00:25:19.501 --> 00:25:34.187
+<v Linus Neumann>Aber das ist, Entschuldigung, das ist die gleiche Form von Schwachstelle, dass du der da in die Datenbank reinschreibst in ein Feld, in das du nicht schreiben darfst. Oder Daten abfragst. Ja, also halte ich ehrlich gesagt für die gleiche Klasse von Schwachstellen.
+
+00:25:33.887 --> 00:25:43.627
+<v Tim Pritlove>Also ein bisschen so, als ob der Bankautomat einem irgendwie erst mal alle Geldscheine äh äh gibt und dann sagt, ja such dir such dir die richtigen aus, die zu dir gehört.
+
+00:25:43.538 --> 00:25:51.079
+<v Linus Neumann>Das ist das ist das ist ein ziemlich guter Vergleich, ja. Er gibt dir erstmal alles und sagt, äh nimm dir mal,
+
+00:25:51.451 --> 00:25:54.714
+<v Linus Neumann>Und dann bestätige mir bitte, wie viel du dir da rausgenommen hast.
+
+00:25:55.832 --> 00:26:02.532
+<v Linus Neumann>Ja, also natürlich, ne, ist da die die Rollenzuweisung, ob du jetzt Administratorin bist oder nicht,
+
+00:26:02.712 --> 00:26:10.812
+<v Linus Neumann>darf natürlich allenfalls irgendeine Superadministratorin vornehmen. Das heißt, es gibt es muss ein Rechtekonzept dafür geben,
+
+00:26:11.035 --> 00:26:16.953
+<v Linus Neumann>dass dass wer dieses Feld ändern darf und wer nicht, ne? Wer es sehen darf und wer nicht und wer es ändern darf und wer nicht.
+
+00:26:17.302 --> 00:26:27.493
+<v Sophie Bertsch>Wichtig oder witzig bei der Sache aber auch noch, wenn ich mich angemeldet hab, dann hat mir die API gleich mein Passwort geschickt oder auch wenn ich mich gar nicht angemeldet hab, ich.
+
+00:26:28.371 --> 00:26:34.110
+<v Sophie Bertsch>Ich konnte einfach auch äh die Benutzer durchaterieren und habe immer die Passwort zurückbekommen. Was auch sehr freundlich ist.
+
+00:26:35.708 --> 00:26:43.430
+<v Linus Neumann>Sollte das System natürlich überhaupt nicht ausgeben, ne? Also die äh Passwort sind ja die, ja, sagen wir mal,
+
+00:26:43.706 --> 00:26:54.660
+<v Linus Neumann>Prüfsummen der Passwörter anhand derer geprüft wird, äh wenn sich eine Nutzerin einloggt und wenn du die zurückbekommst, kannst du die natürlich auch zurückrechnen. War aber, glaube ich, bei einigen auch nicht nötig, oder?
+
+00:26:55.610 --> 00:27:09.257
+<v Sophie Bertsch>Nein, nicht wirklich. Ähm wir hatten viele Passworte im Klartext. Wenn man beim System einen neuen Benutzer generiert und einen neuen Account, dann wird das Passwort erstmal im Klartext abgespeichert. Wann bekommt's die Empfehlung, das Passwort zu ändern,
+
+00:27:09.545 --> 00:27:21.034
+<v Sophie Bertsch>es wird aber nicht in Forst. Das bedeutet, ich werde nicht gezwungen, das Passwort zu ändern. Ähm das ist die eine Seite der Medaille, die andere Seite der Medaille ist, dass wir ganz viele Passwörter hatten, wie zum Beispiel eins, zwei, drei, vier,
+
+00:27:21.353 --> 00:27:24.117
+<v Sophie Bertsch>was bekanntermaßen jetzt nicht katastrophalste Passwort ist.
+
+00:27:24.526 --> 00:27:36.411
+<v Linus Neumann>Jetzt müssen wir natürlich noch einen anderen Aspekt dazu benennen. Bisher haben wir irgendwie okay, Nutzer von Nutzerinnen gesprochen von Administratorrechten, aber hauptsächlich erstmal nur von Bestellungen,
+
+00:27:36.682 --> 00:27:47.702
+<v Linus Neumann>Das System hat aber ein eigentlich ein ganz besonderen, sehr ärgerlichen sehr ärgerliche Funktionalität gehabt und das ist,
+
+00:27:47.931 --> 00:27:52.942
+<v Linus Neumann>ähm erstens Reservierungen und zweitens an diese,
+
+00:27:53.358 --> 00:28:01.391
+<v Linus Neumann>ähnlich aufgebaut, aber anders umgesetzt, diese Corona-Kontaktdatenerfassung. Erklär uns doch mal da, was ihr so gefunden habt.
+
+00:28:01.602 --> 00:28:04.492
+<v Sophie Bertsch>Die Corona Kontaktdatenerfassung waren,
+
+00:28:04.661 --> 00:28:17.339
+<v Sophie Bertsch>Einfach nur Umfragen, wie man umfunktioniert hat. Man muss sich das so vorstellen, ein Gastronom kann einfach nur eine Umfrage stellen, zum Beispiel wie zufrieden waren Sie heute mit unserem Service? Und genau so eine Art von Umfrage war auch diese Corona-Kontaktdatenerfassung.
+
+00:28:17.892 --> 00:28:30.181
+<v Sophie Bertsch>Dementsprechend hat man natürlich diese Umfragen jetzt nicht diesen Schutzstatus zuerkannt, diese hätten benötigt. Und so konnte ich einfach sagen, ähm hey liebe Api, ich bin das Restaurant XY, ähm ich hätte gern die Umfrage,
+
+00:28:30.620 --> 00:28:35.829
+<v Sophie Bertsch>und Z muss nicht mal aus meinem Restaurant entstanden sein, das kann jedes Restaurant sein. Solange ich quasi,
+
+00:28:36.094 --> 00:28:42.415
+<v Sophie Bertsch>mich authentifiziert habe auf der äh auf der Api und gesagt habe, ich bin ein Nutzer deines Systems, habe ich alle Umfragen einsehen können.
+
+00:28:42.470 --> 00:28:52.769
+<v Linus Neumann>Also restaurant a könnte die Corona-Listen von Restaurant B anschauen. Das glaube ich, wie nennt man das? Äh äh opposition Research glaube ich oder sowas.
+
+00:28:53.959 --> 00:28:59.180
+<v Sophie Bertsch>Ähm man hat natürlich auch da versucht das Ganze zu verschleiern, die ähm,
+
+00:28:59.355 --> 00:29:11.481
+<v Sophie Bertsch>jede, jede Umfrage wurde eine ID zugewiesen. Die IDs waren leider mit dem äh Zieler sieben inkrementiert, sodass man einfach minus sieben rechnen konnte. Man hat die äh nächste Umfrage bekommen.
+
+00:29:12.293 --> 00:29:16.913
+<v Linus Neumann>Und wie viele Corona-Umfragen gab's da?
+
+00:29:17.527 --> 00:29:19.629
+<v Sophie Bertsch>Das waren sechsundachtzigtausend ungefähr.
+
+00:29:19.534 --> 00:29:22.844
+<v Tim Pritlove>Sechsundachtzigtausend.
+
+00:29:22.544 --> 00:29:28.144
+<v Linus Neumann>Moment, da müssen wir, da müssen wir kurz unterscheiden, um also sechsundachtzigtausend Umfrageergebnisse.
+
+00:29:28.721 --> 00:29:41.088
+<v Linus Neumann>Also Person, dass die über das übersetzt in Person, die sich eingetragen haben. Die Anzahl der Umfragen, je nachdem, wie man das jetzt sieht, waren äh ich glaube, die einfachste Antwort ist, äh hundertachtzig,
+
+00:29:41.232 --> 00:29:46.532
+<v Linus Neumann>betroffene Restaurants hat dann, glaube ich, der Betreiber uns auch in der Disclosure dann bestätigt.
+
+00:29:47.818 --> 00:29:53.106
+<v Sophie Bertsch>Wann Reservierung war's ähnlich? Hm, die konnte man,
+
+00:29:53.215 --> 00:30:03.153
+<v Sophie Bertsch>auch mehr oder minder einfach durchscrappen. Spannend war halt hierbei, dass man sehen konnte, wer man mit wem essen war. Und das Präkiere an der Situation, dass,
+
+00:30:03.436 --> 00:30:05.599
+<v Sophie Bertsch>dass die Daten teilweise zehn Jahre alt sind,
+
+00:30:05.863 --> 00:30:14.324
+<v Sophie Bertsch>Somit konnte man, wenn man das wollte, Belegungsprofile von Menschen erstellen, inklusive ihrer Vorlieben und mit dem sie sich gerne treffen.
+
+00:30:14.691 --> 00:30:18.921
+<v Tim Pritlove>Vier Jahre, zehn, oh Mann.
+
+00:30:19.558 --> 00:30:23.488
+<v Linus Neumann>Das ist das Alter des Systems. Nein, ist es.
+
+00:30:21.427 --> 00:30:26.414
+<v Tim Pritlove>Wahrscheinlich. Mit anderen Worten, die haben noch nie was gelöscht sozusagen. Toll.
+
+00:30:26.114 --> 00:30:30.657
+<v Linus Neumann>Nee. Also und bei den Coronadaten muss man natürlich auch sagen, ähm,
+
+00:30:31.126 --> 00:30:40.103
+<v Linus Neumann>wir haben uns da ein bisschen eingelesen. Da gibt es, wie ich dann auch gelernt habe, von Bundesland zu Bundesland unterschiedliche Aufbewahrungsfristen,
+
+00:30:40.500 --> 00:30:51.153
+<v Linus Neumann>ich ohne das jetzt ohne Anspruch auf Vollständigkeit oder Korrektheit, habe ich den Eindruck, das ist bei vielen vier Wochen ist, bei einigen zwei, aber diese äh das hat da auch nicht stattgefunden.
+
+00:30:51.935 --> 00:30:58.509
+<v Linus Neumann>Das heißt, diese Daten aus den Corona-Umfragen waren da auch nicht nach den jeweils in dem,
+
+00:30:58.653 --> 00:31:09.337
+<v Linus Neumann>Bundesland äh oder in in der Bundesrepublik Deutschland gilt gültigen Löschfristen wieder gelöscht worden. Und das war eigentlich bärenstark, was uns der Anbieter darauf geantwortet hat, Sophie, erzähl das doch mal.
+
+00:31:09.446 --> 00:31:18.459
+<v Sophie Bertsch>Der Anbieter hat sich mehr oder minder auf seine äh Schutzrolle des Auftragsdaten verarbeitenden zurückgezogen hat im Prinzip gesagt,
+
+00:31:18.784 --> 00:31:28.908
+<v Sophie Bertsch>na ja, meine Kunden, die Gastronomen, denen ich eine Full Service dort verkaufe, die sind eigentlich dafür verantwortlich, alle Einträge nach vierzehn Tagen händisch zu löschen im System.
+
+00:31:29.570 --> 00:31:39.124
+<v Sophie Bertsch>Das ist etwas spannend ähm, wenn man bedenkt, dass man ihm im Marketing betreibt, dass sagt, hey, wir liefern dir alles, du musst dich um nichts kümmern.
+
+00:31:40.044 --> 00:31:52.692
+<v Linus Neumann>Ja, es ist ne, ich finde das äh Hammer, ne, dass äh du bist äh irgendwie mit der Gastronomie ja genug beschäftigt mit einem äh und da kann ich auch die Gastronominnen gut verstehen, dass die sagen,
+
+00:31:52.819 --> 00:31:54.189
+<v Linus Neumann>okay, wenn mein
+
+00:31:54.153 --> 00:32:07.961
+<v Linus Neumann>Mindful Serviceanbieter, wenn der mir die Reservierungen macht äh mit diesem ganzen IT, das macht bei uns sonst der Kevin. Äh der ist aber jetzt auch der ist jetzt irgendwie nächste Woche kann der nicht, dann kaufe ich mir lieber irgendeinen Dienstanbieter, der der mir eine,
+
+00:32:08.160 --> 00:32:14.181
+<v Linus Neumann>Ende zu Ende für alles geklärt Lösung verspricht. Und wenn der dann auf einmal, wenn der äh,
+
+00:32:14.542 --> 00:32:20.767
+<v Linus Neumann>Wenn das Essen dann im Ventilator gelandet ist, ja, sagt, na ja, Entschuldigung, das hättest du löschen müssen, nicht ich.
+
+00:32:20.978 --> 00:32:26.968
+<v Linus Neumann>Das finde ich natürlich schon bärenstark. Aber tatsächlich scheint es so leidenhaft, dass dass dieses,
+
+00:32:27.155 --> 00:32:36.613
+<v Linus Neumann>rechtliche Modell des der Auftragsdatenverarbeitung wohl tatsächlich erstmals so existiert. Ich bin mir aber nicht sicher, ob sich der Betreiber hier darauf,
+
+00:32:36.817 --> 00:32:44.899
+<v Linus Neumann>ernsthaft beziehen kann, vor allem wenn der Reservierung von vor zehn Jahren drin sind, da sind ja Restaurants mit Sicherheit dabei, die längst äh platt sind, die es gar nicht mehr gibt.
+
+00:32:44.779 --> 00:32:58.570
+<v Sophie Bertsch>Wäre ja interessant war halt auch noch, dass wir auch sehr viele Nutzer hatten, die vermutlich inaktiv waren. Das waren alles das ist auch um die zweieinhalbtausend Benutzer. Spannend war hierbei, dass deren Pass und auch mit MD fünf geherrscht wurde und leider ohne Salz.
+
+00:32:59.093 --> 00:33:02.566
+<v Sophie Bertsch>Das Aufbrechen auch noch deutlich erleichtert hat.
+
+00:33:04.651 --> 00:33:11.261
+<v Linus Neumann>Also es gab eigentlich wenig, was da was da nicht äh rausgepurzelt wäre und die ähm die,
+
+00:33:11.664 --> 00:33:19.986
+<v Linus Neumann>Hürden auf dem Weg dorthin waren, äh so, dass man sie jetzt auch nach dem Essen noch gut äh bewältigen konnte.
+
+00:33:19.932 --> 00:33:25.544
+<v Sophie Bertsch>Ja, also ich ich finde, ich finde die Analogie, dass äh der offenen Scheune ohne Tore sehr passend für dieses.
+
+00:33:25.641 --> 00:33:38.993
+<v Linus Neumann>Ja, das war äh wirklich ein bisschen äh bisschen äh schockierend, ne. Ähm wir haben ja dann einen äh Bericht geschrieben und dem der Betreiber, den betreibenden Unternehmen gesendet.
+
+00:33:39.799 --> 00:33:44.004
+<v Linus Neumann>Wie würdest du da unsere Erfahrungen bewerten, Sophie?
+
+00:33:43.921 --> 00:33:53.643
+<v Sophie Bertsch>Wir hatten am Anfang ähm sehr engagierten und partnerschaftlichen Austausch mit der Firma, haben aber dann auch relativ schnell feststellen müssen, dass eben.
+
+00:33:54.923 --> 00:34:02.819
+<v Sophie Bertsch>Sich dann Muster in der Kommunikation einsteigt, dass darauf sich bezieht. Man ist nur Auftragsdatenverarbeitende. Wir.
+
+00:34:03.336 --> 00:34:15.263
+<v Sophie Bertsch>Sehen das nicht so das Problem. Es sind ja nur ein paar tausend Benutzerdaten. Also man hat relativ schnell versucht, das Problem kleinzureden. Aber man muss fairerweise auch sagen, sie haben die Lücken, die wir gemeldet haben, sehr, sehr zeitnah geschlossen.
+
+00:34:15.144 --> 00:34:21.555
+<v Linus Neumann>Ja, das war also ich war schon bei unserem ersten gemeinsamen Telefonat dann schon sehr,
+
+00:34:21.826 --> 00:34:29.619
+<v Linus Neumann>positiv angetan, als dann gesagt wurde, ja okay, wir hatten ja irgendwie so vierzehn Seiten oder sowas zusammengeschrieben äh und das so übermittelt,
+
+00:34:29.692 --> 00:34:35.556
+<v Linus Neumann>und äh das Gesprächsanstieg von Seiten Gastronomie, so heißt das Unternehmen, war dann ähm.
+
+00:34:36.386 --> 00:34:47.021
+<v Linus Neumann>Ja, also vielen Dank. Wir konnten alle Schwachstellen bestätigen und teilen ihre Einschätzung der Kritikalität. Und wir haben die diese fünf,
+
+00:34:47.322 --> 00:35:01.335
+<v Linus Neumann>jetzt schon behoben bei der sechsten sind wir uns eigentlich relativ sicher, müssen aber nochmal testen. So ungefähr war der Gesprächseinstieg, da muss man, glaube ich, schon äh das das hört man natürlich gerne, dass da jetzt nicht erst mal diskutiert wird über ähm.
+
+00:35:01.822 --> 00:35:11.448
+<v Linus Neumann>Dieser Schwachstellen oder über die Validität. Den Teil mit dem na ja äh wen muss man denn jetzt eigentlich informieren.
+
+00:35:12.200 --> 00:35:16.550
+<v Linus Neumann>Da waren wir ja so ein bisschen geteilter Meinung. Erzähl doch mal.
+
+00:35:16.502 --> 00:35:23.352
+<v Sophie Bertsch>Ja, es hat dann eben auch sehr schnell angefangen, nach dieser initialen positiven Reaktion,
+
+00:35:23.497 --> 00:35:29.584
+<v Sophie Bertsch>Glaube ich im zweiten und dritten Gespräch hat das dann angefangen, dass man unsere Lücken wieder anders,
+
+00:35:29.710 --> 00:35:38.862
+<v Sophie Bertsch>in in der Kritikalität eingestuft hat und eben versucht hat, das alles auf eine einzige Lücke runterzubrechen, sodass die anderen eigentlich gar nicht existiert hätten. Ähm.
+
+00:35:39.842 --> 00:35:42.515
+<v Sophie Bertsch>Das ist halt aus unserer Sicht ein Trugschlussbild,
+
+00:35:42.936 --> 00:35:54.798
+<v Sophie Bertsch>das System an sich brennt mehr oder minder und man möchte es halt ein paar Feuer. Sie haben das zum Glück eingesehen und haben jetzt einen professionellen Pantastar engagiert, fragen sie.
+
+00:35:55.435 --> 00:36:02.423
+<v Sophie Bertsch>Mögen wir hoffen, dass der die restlichen Schwachpunkte findet und diese dann auch im Sinne des Datenschutz sehr schnell geschlossen werden.
+
+00:36:02.243 --> 00:36:10.541
+<v Linus Neumann>Ja, ich denke, wir hatten, das haben wir auch vermittelt in unserem Bericht so ein bisschen, weißt du, wenn du diese Klassen von Fehlern hast,
+
+00:36:10.975 --> 00:36:17.019
+<v Linus Neumann>dann lässt das nicht hoffen, dass es irgendwie, dass der Rest sehr viel besser aussieht, ne. Ähm
+
+00:36:16.996 --> 00:36:28.941
+<v Linus Neumann>Die Gastronovi haben aber gesagt, sie haben mehrere wohl auch schon hinter sich und äh da wäre nie niemanden jemals irgendwas aufgefallen oder zumindest diese Sachen nicht,
+
+00:36:29.044 --> 00:36:39.121
+<v Linus Neumann>das ist natürlich bedauerlich um die in Auftrag gegebenen Pentests. Was ich dann noch so ein bisschen aber da bin ich auch muss ich sagen da geht's ja so in den juristischen Bereich, da kann ich,
+
+00:36:39.271 --> 00:36:48.891
+<v Linus Neumann>gar nicht urteilen. Also ein bisschen die Frage, wem musste jetzt Bescheid sagen? Und die haben gesagt, sie konnten in ihrem System,
+
+00:36:49.102 --> 00:36:57.286
+<v Linus Neumann>alle Zugriffe genau sehen, die von die quasi unberechtigter Weise vom CCC ausgegangen seien.
+
+00:36:57.881 --> 00:37:06.943
+<v Linus Neumann>Und würden deshalb diejenigen informieren, auf die jetzt eben das zehrt und der CCC äh zugegriffen haben.
+
+00:37:06.817 --> 00:37:15.674
+<v Sophie Bertsch>Leider teilen wir diese Einschätzung nicht. Das Problem ist, sie sagen immer, sie haben alle Zugriffe ab dem zehnten gesehen. Das Problem ist, wir haben am achten schon zugegriffen.
+
+00:37:16.275 --> 00:37:23.269
+<v Sophie Bertsch>Und das zeugt eben davon, dass sich Ziele unserer Aktion nicht gesehen haben und da muss gegangen werden,
+
+00:37:23.630 --> 00:37:27.296
+<v Sophie Bertsch>dass auch andere Leute vor uns schon da waren, das hat vielleicht nicht gemeldet haben.
+
+00:37:28.041 --> 00:37:36.471
+<v Linus Neumann>Und wir reden hier eben insgesamt bei den Reservierungen über die zehn Jahre von fünf Komma fünf Millionen Reservierungen.
+
+00:37:37.019 --> 00:37:41.555
+<v Linus Neumann>Von vier Komma vier Millionen ähm,
+
+00:37:41.826 --> 00:37:51.230
+<v Linus Neumann>Individuen, also über die zehn Jahre gibt es oft gibt es eben vier Komma vier Millionen Menschen, die über dieses System,
+
+00:37:51.392 --> 00:38:00.117
+<v Linus Neumann>eine oder mehrere Reservierungen abgesetzt haben. Und jetzt ist natürlich klar, dass es einen Unterschied macht, ob die sagen, wir informieren ein paar tausend.
+
+00:38:00.676 --> 00:38:09.768
+<v Linus Neumann>Stichprobenartig im Rahmen der Untersuchung an den CCC gegangen sind, an das zehrt äh oder.
+
+00:38:10.291 --> 00:38:20.338
+<v Linus Neumann>Wir haben halt hier das Problem, dass wir im Prinzip zugeben müssen, dass potenziell für einen Zeitraum von zehn Jahren insgesamt,
+
+00:38:20.512 --> 00:38:30.144
+<v Linus Neumann>diese über fünfeinhalb Millionen oder annähernd fünfeinhalb Millionen Datensätze betroffen waren. Und da äh sind wir jetzt eben geteilter Meinung.
+
+00:38:31.431 --> 00:38:34.134
+<v Linus Neumann>Um das jetzt mal so ganz diplomatisch auszudrücken.
+
+00:38:34.561 --> 00:38:41.621
+<v Sophie Bertsch>Genau. Da haben wir vermutlich als Hackerinnen eine andere Sichtweise als die Systembetreiberin.
+
+00:38:41.466 --> 00:38:51.308
+<v Linus Neumann>Sophie, wie würdest du es denn wie hättest du es denn am liebsten, wenn du in ein Restaurant gehst? Du hast ja auch hier mit dem ähm NDR ähm Mittagsmagazinbeitrag konnte man,
+
+00:38:51.489 --> 00:38:53.724
+<v Linus Neumann>dich und das Team ja auch heute sehen,
+
+00:38:53.869 --> 00:39:04.270
+<v Linus Neumann>ihr saßt hauptsächlich mit Maske im Biergarten wie hättest du denn gerne die Kontakterfassung, wenn du dich in ein gastronomischen Betrieb begibst?
+
+00:39:04.589 --> 00:39:14.690
+<v Sophie Bertsch>Ich würde mir eine Kontakterfassung mit Stift und Papier wünschen und ähm Tagesende kommen alle Zettel von diesem Park in einen Umschlag, werden mit dem Datum beschriftet, kommen auf den Stapel.
+
+00:39:15.381 --> 00:39:22.435
+<v Sophie Bertsch>Und jeden Tag kommt einer dazu, ein Umschlag und dann hat der Umschlag kommt weg und wird eben datenschutzkonform verliefert.
+
+00:39:23.643 --> 00:39:27.056
+<v Sophie Bertsch>Das wäre so die einfachste Lösung und die kann man dann auch relativ schwer hacken.
+
+00:39:28.090 --> 00:39:36.773
+<v Linus Neumann>Ich glaube, einen Aspekt müsste man noch dazu sagen, möglichst natürlich unter äh getrennte Zettel für jeden Tisch mindestens oder jede Person. Aber man hat ja wirklich.
+
+00:39:37.344 --> 00:39:39.820
+<v Linus Neumann>Also wir diskutieren ja hier auch im Lok
+
+00:39:39.682 --> 00:39:53.460
+<v Linus Neumann>buch regelmäßig diese unterschiedlichen Probleme, dann will die Polizei dadrauf gucken, dann äh gibt's Sorge, dass irgendjemand sich da die Telefonnummer von dem süßen Typ am Nachbartisch abschreibt und äh und so weiter und so fort, ne, dann
+
+00:39:53.449 --> 00:40:00.196
+<v Linus Neumann>gibt's ja auch schon von der Opposition die Forderung hier ähm Begleitgesetze zu verfassen.
+
+00:40:00.972 --> 00:40:15.357
+<v Linus Neumann>Und da sagt die Regierung dann wieder nein, das läuft schon alles gut so. Und auf der anderen Seite äh höre ich auch regelmäßig, ich weiß nicht, ob du das auch so kennst, äh von gastronomischen Einrichtungen, die überhaupt gar nicht so eine Erfassung machen, wo ich jetzt,
+
+00:40:15.712 --> 00:40:27.285
+<v Linus Neumann>Einerseits denke, Entschuldigung, nach meinem Verständnis müssen die das machen und das ist illegal, wenn sie's nicht tun. Andererseits bei dem ganzen Theater, was da drum gemacht wird, kann ich zumindest deren,
+
+00:40:27.688 --> 00:40:35.115
+<v Linus Neumann>Inklination verstehen äh sich den Ärger mit den Kundinnen zu sparen. Na ja.
+
+00:40:35.494 --> 00:40:50.432
+<v Sophie Bertsch>Also ich finde, diese ganze Corona-Kontaktdatenerfassung liegt vor allem von allen. Und das ist Vertrauen. Vertrauen darin, dass die Daten, die ich freiwillig angebe, zur Verhinderung einer Pandemie oder zur Eindämmung einer Pandemie sicher gespeichert werden und nicht missbraucht werden.
+
+00:40:51.190 --> 00:40:58.406
+<v Sophie Bertsch>Und wenn wir eben lesen in den Medien, dass die Polizei sich diesen Datensatz einfach nimmt, weil sie gerade Lust drauf hat.
+
+00:40:59.013 --> 00:41:09.277
+<v Sophie Bertsch>Ähm dann leidet darunter sehr stark das Vertrauen. Und das ist eben etwas, was es nicht geben darf. Wir reden hier davon, dass wir eine Krankheit versuchen einzudämmen, die uns alle betrifft.
+
+00:41:10.208 --> 00:41:22.190
+<v Sophie Bertsch>Da muss man eben auch als Polizei sagen, okay, diese Maßnahme ist, dass du da die Krankheit einzudämmen, aber es ist nicht da, um unsere Ermittlungen zu unterstützen und schon gar nicht das Vertrauen in die Leute ähm.
+
+00:41:23.200 --> 00:41:24.696
+<v Sophie Bertsch>Das Vertrauen der Leute zu untergraben.
+
+00:41:24.654 --> 00:41:28.007
+<v Linus Neumann>Oder dafür, dass der CCC am Ende die Daten hat, ne?
+
+00:41:28.278 --> 00:41:40.235
+<v Sophie Bertsch>Genau und dann kann ich natürlich auch Gastronomen verstehen, die sagen, okay, so ein Risiko mit ähm Hax oder mit der Polizei möchte ich mir nicht antun, dann nehme ich lieber das Bußgeld in Kauf, dass ich keine Kontaktdaten in Erfassung mache,
+
+00:41:40.584 --> 00:41:48.492
+<v Sophie Bertsch>am Ende gibt's da einen Verlierer und das ist die gesamte Bevölkerung, die sich wachsenden Infektionszahlen gegenüber sieht und damit leben muss.
+
+00:41:50.012 --> 00:41:50.913
+<v Tim Pritlove>Amen
+
+00:41:50.878 --> 00:42:00.311
+<v Tim Pritlove>Also Sophie, ich find's ja super, äh dass das zerrt, dass sich ja eigentlich mehr so aus Witz herauszerrt, genannt hat, weil sich das ja normalerweise
+
+00:42:00.138 --> 00:42:07.931
+<v Tim Pritlove>Ist das ja die Bezeichnung für so Gruppen, die Sicherheitsprobleme in äh Angriff nehmen oder melden und äh
+
+00:42:07.871 --> 00:42:13.405
+<v Tim Pritlove>Jetzt belegt ihr diesen Platz auch noch. Was, was wollt ihr noch alles machen?
+
+00:42:13.105 --> 00:42:16.740
+<v Sophie Bertsch>Also wir hatten den Namen ja schon vorher. Die anderen haben einfach nur von uns abgeguckt.
+
+00:42:18.513 --> 00:42:29.396
+<v Sophie Bertsch>Wir machen ja Sanitäts-und Brandschutz und letztendlich, das System hat gebrannt und war verletzt. Wir haben uns, wir haben die erste Hilfe geleistet, von dem her war das im im Bestandteil unserer normalen Arbeit.
+
+00:42:32.532 --> 00:42:43.968
+<v Sophie Bertsch>Wir sagen ja immer, uns ist egal, ob die Person männlich, weiblich oder ein Rache ist, wir versorgen alle und das System war jetzt eben ein System und kein Mensch. Wir haben's trotzdem versorgt. Das ist die Gleichbehandlung von Lebewesen.
+
+00:42:44.593 --> 00:42:51.232
+<v Linus Neumann>Lebensrettende Sofortmaßnahmen am äh Unfallort. Sehr schön.
+
+00:42:52.002 --> 00:42:54.465
+<v Tim Pritlove>Ja, so viel, dann sagen wir einfach mal vielen Dank.
+
+00:42:54.796 --> 00:42:56.478
+<v Sophie Bertsch>Ich danke euch für die Zeit.
+
+00:42:57.332 --> 00:43:00.228
+<v Linus Neumann>Und äh seid vorsichtig beim Essen, bitte.
+
+00:43:00.042 --> 00:43:03.719
+<v Tim Pritlove>Genau. Bis dann.
+
+00:43:03.425 --> 00:43:06.363
+<v Linus Neumann>Danke dir, viel Erfolg weiterhin. Tschau, tschau.
+
+00:43:07.085 --> 00:43:08.118
+<v Tim Pritlove>Ähm,
+
+00:43:08.299 --> 00:43:18.538
+<v Tim Pritlove>Hat vielleicht noch äh anmerken, ich hatte mit Sophie auf UKW schon mal ein äh Gespräch geführt am Anfang der Coronakrise. Wer also noch ein bisschen mehr Einblick,
+
+00:43:18.779 --> 00:43:20.112
+<v Tim Pritlove>darin erhalten
+
+00:43:19.932 --> 00:43:29.679
+<v Tim Pritlove>möchte, was das Pferd eigentlich so ist und tut und so generell so aufgestellt ist, wenn sie nicht gerade irgendwelche Server aufhacken. Ähm da verlinken wir dann,
+
+00:43:29.781 --> 00:43:30.874
+<v Tim Pritlove>auch noch mal drauf.
+
+00:43:31.199 --> 00:43:42.063
+<v Linus Neumann>Ich würde übrigens eine Sache auch noch kurz nachholen, Tim, ähm weil wir haben die ganze Zeit nur mit äh Sophie gesprochen, aber das war ja wirklich ein größeres Team. Deswegen äh,
+
+00:43:42.286 --> 00:43:52.062
+<v Linus Neumann>Asche auf mein Haupt, um wieder bei den biblischen äh Bezügen zu bleiben. Äh das waren Sophie, Martin. Oh je,
+
+00:43:52.345 --> 00:44:02.788
+<v Linus Neumann>oder? Oh man, das gibt Ärger. Na ja, dein Koks, Lady Raven, Metal Warrior Wellenformer, Global und,
+
+00:44:02.885 --> 00:44:08.046
+<v Linus Neumann>Zebro, Zebro, die äh hier zu dieser Forschung.
+
+00:44:09.008 --> 00:44:22.066
+<v Linus Neumann>Beigetragen haben und jetzt kriege ich natürlich Ärger mit. Jetzt habe ich mehrere Varianten durch. Wahrscheinlich hat's am Ende dreimal falsch ausgesprochen. Die also äh diese Arbeit und diese Forschung da gemacht haben an den,
+
+00:44:22.397 --> 00:44:26.722
+<v Linus Neumann>Corona-Restaurants. Äh an dem Corona-Restaurant und Listenbetreiber, meine Güte.
+
+00:44:28.508 --> 00:44:36.890
+<v Linus Neumann>So, dann hätten wir als nächstes Thema, da wollte ich mal mit dir drüber sprechen, Tim, das hat äh nur so es hat eine ganz leichte netzpolitische
+
+00:44:36.710 --> 00:44:44.431
+<v Linus Neumann>Komponente, aber äh irgendwie auch so eine freiheitsrechtliche freiheitsfreiheitsrechtliche Komponente. Und zwar geht das hier.
+
+00:44:45.387 --> 00:44:52.387
+<v Linus Neumann>Um die die Schiefdenker, die Schiefdenker aus Stuttgart äh oder wo die herkommen, kennst du, oder?
+
+00:44:53.073 --> 00:45:01.521
+<v Linus Neumann>Wollen ja morgen die wollen wollten lange Geschichte, lange Geschichte wollen morgen in Berlin eine Großdemonstration machen.
+
+00:45:02.321 --> 00:45:10.012
+<v Linus Neumann>Angemeldet, dann wurde ihnen die äh Versammlung untersagt, ja,
+
+00:45:10.313 --> 00:45:18.695
+<v Linus Neumann>wo ich schon dachte, oh nein, weißt du, das wäre so gut gewesen, da hätte man die wenigstens alle schön konzentriert, feinsäuberlich auf einem Haufen gehabt,
+
+00:45:19.098 --> 00:45:33.531
+<v Linus Neumann>die Nazis, die Esoteriker, die Impfgegner, einmal alles schön gesammelt, dann können die da irgendwie Ringepilz mit anfassen am am an der Siegessäule machen. Nach zwanzig Minuten wird die ganze Sache aufgelöst, äh kann die Kohle kassiert werden, wegen der äh,
+
+00:45:33.550 --> 00:45:44.035
+<v Linus Neumann>gegen die Maskenpflicht und gegen die Auflagen und dann können die wieder nach Hause, ne? Aber nein, aber nein, es wird ihnen die äh Versammlung nicht genehmigt und untersagt,
+
+00:45:44.150 --> 00:45:44.786
+<v Linus Neumann>ähm.
+
+00:45:45.328 --> 00:45:54.563
+<v Linus Neumann>Und damit ähm hatten sie dann einen Grund und konnten zur Verwaltungsgericht ziehen, in Berlin und natürlich,
+
+00:45:54.744 --> 00:46:08.060
+<v Linus Neumann>hat das äh Verwaltungsgericht dann gesagt, ja nur weil die das letzte Mal nicht wussten, wie man sich äh gerade in Zeiten der Pandemie schützt, kann man ja nicht einfach darauf schließen, dass es dieses Mal nicht wissen. Jetzt wurde also gerade das Urteil gefällt.
+
+00:46:09.118 --> 00:46:16.682
+<v Linus Neumann>Dass sie es wieder dürfen. Das Spannende ist aber, was sie in der Zwischenzeit getan haben, ja? Also zwischen dem Verbot
+
+00:46:16.647 --> 00:46:24.416
+<v Linus Neumann>glaube vorgestern und der Wiedergenehmigung heute haben die Online einfach irgendwie fünftausend neue Demonstrationen angemeldet,
+
+00:46:24.531 --> 00:46:35.503
+<v Linus Neumann>weil eine also eine eine Versammlung anmelden, kannst du relativ einfach machen. Das geht tatsächlich online, ja. Da ruft dich dann nochmal jemand zurück im Zweifelsfall, aber ähm
+
+00:46:35.443 --> 00:46:42.780
+<v Linus Neumann>entgegen der häufigen Annahme sind ja auch zum Beispiel Versammlungen nicht äh genehmigungspflichtig. Du kannst sie versammeln wo du willst,
+
+00:46:42.979 --> 00:46:47.755
+<v Linus Neumann>ja? Du kannst natürlich ab einer gewissen Größe kann dir ähm,
+
+00:46:48.200 --> 00:47:00.266
+<v Linus Neumann>zum Beispiel der Ort der Versammlungen und hinsichtlich einer Route und ähnlicher Dinge äh können die Auflagen gemacht werden, aber so grundsätzlich kann sich versammeln, wer will. Und deswegen.
+
+00:47:01.066 --> 00:47:05.091
+<v Linus Neumann>Fand ich das auch jetzt hier so dieses ganze Thema habe ich so mit zwei,
+
+00:47:05.387 --> 00:47:17.560
+<v Linus Neumann>zwei schmerzenden Herzen in der Brust verfolgt, weil ich einerseits es natürlich mich jeder für jeden Menschen wirklich leid tut, der dahin geht, weil die brauchen ja eigentlich ganz andere Hilfe. Ähm,
+
+00:47:17.777 --> 00:47:25.312
+<v Linus Neumann>Andererseits ist mir aber richtig, richtig weh tut, wenn den Leuten die Versammlungsfreiheit beschnitten wird. Und das war wirklich ähm,
+
+00:47:25.523 --> 00:47:33.857
+<v Linus Neumann>sehr schmerzhaft zu sehen. Und ich konnte nicht, ich konnte mich nicht darüber freuen, dass diese Versammlung äh verboten wurde. Ganz im Gegenteil.
+
+00:47:34.386 --> 00:47:36.315
+<v Tim Pritlove>Was ist jetzt deine Frage an mich?
+
+00:47:36.844 --> 00:47:38.087
+<v Linus Neumann>Gehst du dahin oder nicht?
+
+00:47:38.064 --> 00:47:45.388
+<v Tim Pritlove>Ich glaube, ich habe das besseres zu tun.
+
+00:47:46.278 --> 00:47:47.880
+<v Linus Neumann>Ich habe Besseres zu tun.
+
+00:47:47.630 --> 00:47:55.736
+<v Tim Pritlove>Ja, deutlich. Ja. Ja, ich meine, ähm
+
+00:47:55.652 --> 00:48:09.605
+<v Tim Pritlove>ich finde die ganze Entwicklung insofern natürlich nochmal extra absurd. Du erinnerst dich sicherlich ganz zu Beginn der Coronakrise gab's ja diverse Demonstrationen, Kleinstproteste in Berlin zumindest, von,
+
+00:48:09.623 --> 00:48:16.065
+<v Tim Pritlove>Gruppen von vielleicht zehn, zwanzig, dreißig Leuten, die damals vor allem auf die äh Situation Mittelmeer,
+
+00:48:16.113 --> 00:48:21.707
+<v Tim Pritlove>von Flüchtlingen hingewiesen haben, ja wo die Leute mit Abstand, mit Masken.
+
+00:48:22.501 --> 00:48:30.366
+<v Tim Pritlove>Stumm herumstanden, nichts weiter taten als Schilder hochzuhalten und die wurden dann sofort von der Polizei äh weggeräumt.
+
+00:48:30.199 --> 00:48:32.325
+<v Linus Neumann>Wat wurden die weggeknüppelt, ne.
+
+00:48:32.266 --> 00:48:39.560
+<v Tim Pritlove>Geknüppelt würde ich jetzt gerade äh habe ich jetzt keinen Beleg für, das mag auch vorgekommen sein, weiß ich jetzt nicht. Auf jeden Fall ähm
+
+00:48:39.507 --> 00:48:48.886
+<v Tim Pritlove>sozusagen sofort klar, ja, dass auch wenn Leute sich äh hier an alle nur erdenklichen Maßnahmen halten,
+
+00:48:49.319 --> 00:48:51.452
+<v Tim Pritlove>Dass das dann trotzdem nicht zu sein hat,
+
+00:48:51.903 --> 00:49:03.236
+<v Tim Pritlove>und äh jetzt unter diesen relativ klar formulierten Bedingungen äh so eine Veranstaltung dann ähm durchzuführen, ist natürlich äh sowieso absurd, aber.
+
+00:49:03.795 --> 00:49:17.111
+<v Tim Pritlove>Am Ende wird dann wieder gegen die Gegendemonstrationen vorgegangen und das finde ich einfach. Wenn's ganze Jahr dreht sich auch viel um ich sage mal falsche Einschätzungen der Polizei.
+
+00:49:17.646 --> 00:49:19.935
+<v Tim Pritlove>Weltweit und ähm.
+
+00:49:21.300 --> 00:49:28.654
+<v Tim Pritlove>Befürchte einfach, wir werden auch an diesem Wochenende wieder dasselbe Spiel sehen und das ist etwas, mit dem ich noch weniger leben kann.
+
+00:49:29.136 --> 00:49:43.785
+<v Linus Neumann>Du kannst dir, äh das ist übrigens äh eine sehr beeindruckende Sache. Es tut sehr weh, sich das anzuschauen. Ähm bei der letzten Corona-Demo, ich glaube, die waren ja am sechsten August oder fünften oder vierten, wann auch immer, die war.
+
+00:49:43.641 --> 00:49:51.801
+<v Linus Neumann>Nee, erster achter, sehe ich gerade am ersten achten war die. Da ist Dunja Hayali da mal durchgegangen,
+
+00:49:52.072 --> 00:49:58.321
+<v Linus Neumann>und die hat im Prinzip die ganze Zeit ihren ihr Handy da so vor sich gehalten,
+
+00:49:58.574 --> 00:50:07.797
+<v Linus Neumann>und hat das auf ähm Instagram oder äh sowas live äh gestreamt. Kann man sie, kann man sich angucken? So, ich glaube, so ein dreiviertel Stunde oder so.
+
+00:50:08.483 --> 00:50:10.844
+<v Linus Neumann>Wie die von diesen ganzen,
+
+00:50:11.127 --> 00:50:25.608
+<v Linus Neumann>freiheitsliebenden Meinungsfreiheit und Versammlungsfreiheitsfanatikern, die hier sich die Diktatur abschaffen wollen, durch den Sturm auf den Reichstag, ja? Äh beschimpft,
+
+00:50:25.993 --> 00:50:40.529
+<v Linus Neumann>Äh ne, also an jeder Ecke brüllen die diese Frau an. Ähm äh kommen dann immer diejenigen, die mit ihr reden, kommen also so väterlich, sie müsste jetzt endlich mit den Lügen aufhören. Das führt doch nirgendwo hin weiter. Und du fragst dich
+
+00:50:40.451 --> 00:50:46.316
+<v Linus Neumann>sie fragt sich ernsthaft so Herrje, also.
+
+00:50:47.145 --> 00:50:55.774
+<v Linus Neumann>Herr je. Und da gibt es eine wurde glaube ich auch heute veröffentlicht eine äh Recherche von äh Kollektiv.
+
+00:50:56.279 --> 00:51:01.224
+<v Linus Neumann>Ich muss nochmal ganz kurz schauen, wer da die drei Autorinnen waren. Das waren,
+
+00:51:01.555 --> 00:51:13.020
+<v Linus Neumann>Till Eckardt, Matthias Bau und Alice Echtermann, die sich da mal genau diese Netzwerke angeschaut haben. Von hier so, so ähm,
+
+00:51:13.242 --> 00:51:24.095
+<v Linus Neumann>koniphierend wie dem Wolfgang Wodak und irgendwelchen Heilpraktikerinnen, die meinen, sie könnten den Leuten jetzt irgendwelche äh muss keine,
+
+00:51:24.197 --> 00:51:33.337
+<v Linus Neumann>Maske tragen, Atteste ausstellen, ja, so ungefähr äh so ein bisschen was wie die äh wie die Führerscheine aus dem deutschen
+
+00:51:33.235 --> 00:51:43.233
+<v Linus Neumann>Reich und soweit, ne, so also ein eine riesige Versammlung von Vereinen und, und, und Gruppierungen und sonstigen
+
+00:51:43.083 --> 00:51:48.990
+<v Linus Neumann>Spinnern, die da irgendwie Verschwörungstheorien verbreiten, Verschwörungstypen verbreiten.
+
+00:51:49.724 --> 00:51:54.897
+<v Linus Neumann>Ähm der der läuft einem auch echt kalt den Rücken runter, was äh,
+
+00:51:55.144 --> 00:52:05.190
+<v Linus Neumann>die das Team von Korrektiv da äh zusammengetragen hat über die Leute, die sich da versammeln. Und doch muss ich jetzt hier in dieser Sendung sitzen und sagen, dass ich das,
+
+00:52:05.570 --> 00:52:09.751
+<v Linus Neumann>schon richtig finde, dass die da Versammlungsfreiheit genießen.
+
+00:52:09.992 --> 00:52:16.386
+<v Tim Pritlove>Ja klar, aber wenn sie halt die Regeln nicht einhalten, dann kann man sie auch mal gerne äh freundlich abräumen, ne?
+
+00:52:16.146 --> 00:52:29.743
+<v Linus Neumann>Aber sicher und und gerade in Berlin, äh man sieht ja gerade, wenn man jetzt hier aus anderen Bundesländern kommt, man sieht ja, wie das hier aussieht, ja. Ähm unter welchen Verhältnissen wir hier leben, ne. Ich denke schon, dass wir da ähm,
+
+00:52:30.032 --> 00:52:35.620
+<v Linus Neumann>durchaus äh kassieren sollten. Ja, also eine Gelegenheit kriegst du selten wieder.
+
+00:52:36.053 --> 00:52:38.763
+<v Tim Pritlove>Meinst ja so finanziell oder die Leute.
+
+00:52:38.746 --> 00:52:50.920
+<v Linus Neumann>Klar, also ich denke äh Berlin kann da so, wenn jetzt ein paar paar Schwaben ohne Maske kommen, da geht doch was. Also, ich denke, ne, wir wollen.
+
+00:52:50.620 --> 00:52:53.738
+<v Tim Pritlove>Hau doch nicht immer auf den Schwaben rum. Wir sind schon längst.
+
+00:52:53.744 --> 00:52:56.837
+<v Linus Neumann>Denker sind Schwaben, diese Schiefdenker sind Schwaben.
+
+00:52:57.934 --> 00:53:00.937
+<v Linus Neumann>Ist so, das ist ein äh Verein aus Stuttgart.
+
+00:53:01.376 --> 00:53:15.587
+<v Tim Pritlove>Ach so, na gut, also ja, meinetwegen, ich wollte nur den Zahl der Kommentare überschaubar halten. Oh Gott.
+
+00:53:15.293 --> 00:53:26.698
+<v Linus Neumann>Ja und die Nazis kommen, die Nazis kommen natürlich hier aus Brandenburg, ne? Die reisen mit der die reisen auf auf Schusters Rappen an. Äh das ist für die kein großes Thema, ne.
+
+00:53:26.398 --> 00:53:41.095
+<v Tim Pritlove>Ja, wenn die Berliner Polizei äh ja, der hat doch jetzt Probleme, äh Verstärkung aus anderen Bundesländern zu holen, weil sie doch jetzt hier irgendwie alle unterschreiben müssen, dass sie, dass sie keine äh Gesetze vertreten dürfen oder so. Wie war das noch gleich?
+
+00:53:41.011 --> 00:53:41.624
+<v Tim Pritlove>Werde ich einen.
+
+00:53:41.559 --> 00:53:46.533
+<v Linus Neumann>Ey, wenn wir hier unterschreiben müssen, wir müssen als Recht und Gesetz halten. Das äh machen wir so nicht mit.
+
+00:53:46.233 --> 00:53:53.264
+<v Tim Pritlove>Genau, da hätte ich einen Tipp für die Berliner Polizei. Lassen sie sich doch einfach eine eine Verstärkung aus Luxemburg kommen lassen.
+
+00:53:59.958 --> 00:54:04.212
+<v Linus Neumann>Kommen wir zu unserem nächsten Thema, wo es hier um Freiheiten,
+
+00:54:04.297 --> 00:54:16.963
+<v Linus Neumann>die Menschen für sich in Anspruch nehmen dürfen oder nicht. Und zwar gibt es äh ist ja vielen äh Hörerinnen sicherlich bekannt, dass Pen-Kollektiv ähm ein Aktions Guerilla,
+
+00:54:17.024 --> 00:54:31.457
+<v Linus Neumann>oder eins, ein Aktionskünstlerkollektiv, Kommunikationsgerät, Kollektiv aus äh Berlin und äh inzwischen auch anderen Städten. Die haben gerade eine eine sehr gelungene Aktion, wie ich finde, und zwar eine.
+
+00:54:32.149 --> 00:54:37.989
+<v Linus Neumann>Die Ausstellung, Mythos und Wahrheit äh über die Antifa in Chemnitz,
+
+00:54:38.266 --> 00:54:46.258
+<v Linus Neumann>Chemnitz, ja, historisch belasteter Ort und die haben gesagt, okay, äh Sachsen braucht die Antifa und die Antifa braucht Geld,
+
+00:54:46.504 --> 00:55:01.082
+<v Linus Neumann>so haben wir die Sache selbst in die Hand genommen, wir haben zehntausend Euro aus staatlichen Mitteln an die Antifa weitergeleitet, also haben ne, quasi für diese Ausstellung äh dieses Geld bekommen, haben das dann antifaschistischen Gruppen gegeben und äh machen nun in den,
+
+00:55:01.227 --> 00:55:07.578
+<v Linus Neumann>wie heißen die technischen Sammlungen, sondern künstlerischen Sammlungen Chemnitz ähm.
+
+00:55:08.251 --> 00:55:17.619
+<v Linus Neumann>Eine Ausstellung mit äh unterschiedlichen Exponaten, darunter äh ein ähm ein die Anklageschrift,
+
+00:55:18.797 --> 00:55:30.610
+<v Linus Neumann>Von den Künstlerinnen NSU Komplex auflösen, eine Spraydose von Mensa Schramm. Das ist eine fünfundsiebzigjährige ähm.
+
+00:55:31.212 --> 00:55:36.043
+<v Linus Neumann>Frau, die immer so eine Sprühdose dabei hat, wenn sie irgendwo
+
+00:55:35.947 --> 00:55:48.764
+<v Linus Neumann>rechte Graffitis sieht und die Hakenkreuze übersprüht und inzwischen aber mehrmals wegen Sachverständigung vor Gericht stand, weil die das natürlich einfach macht, wenn sie da halt ihren Einkauf macht und sie irgendwo ein Hakenkreuz äh sprüht, die das halt weg,
+
+00:55:48.764 --> 00:55:54.695
+<v Linus Neumann>und wenn ihr das irgendwo im Osten machst, wird's natürlich angezeigt. Ähm dann,
+
+00:55:54.773 --> 00:56:04.316
+<v Linus Neumann>Einen Anstecker, den ich besonders, also der hat's mir auch echt angetan, ist der lackiertes Aluminium. Äh der Anstecker von Martina Renner, mit dem sie,
+
+00:56:04.388 --> 00:56:13.762
+<v Linus Neumann>ähm im Ordner im im äh Bundestag dann ein ein Ordnungsruf wegen Verletzung der Würde des Hauses äh bekommen hat,
+
+00:56:13.930 --> 00:56:16.772
+<v Linus Neumann>weil sie sich gegen den.
+
+00:56:16.773 --> 00:56:17.792
+<v Tim Pritlove>Faschismus.
+
+00:56:17.542 --> 00:56:19.458
+<v Linus Neumann>Den Faschismus ausgesprochen hat.
+
+00:56:18.680 --> 00:56:25.449
+<v Tim Pritlove>Nee, das ist jetzt auch einfach, nee, das geht nicht.
+
+00:56:25.251 --> 00:56:35.256
+<v Linus Neumann>Jetzt ist es ja so, dass es auch wirklich bei Leuten, die ich jetzt noch lange nicht verdächtige, die Farce in Antifa zu sein, ähm.
+
+00:56:35.791 --> 00:56:46.523
+<v Linus Neumann>Der die antifaschistische Aktion äh mitunterschlechten Ruf genießt. Ähm wie ich finde, zu unrecht. Aber genau dem soll eben auch diese ähm,
+
+00:56:46.974 --> 00:56:52.352
+<v Linus Neumann>begegnen. Sie haben auch ein Kantholz ausgestellt.
+
+00:56:53.176 --> 00:57:02.826
+<v Linus Neumann>Weil es vor ein paar Jahren mal einen AfD-Bundestagsabgeordneten gab, namens Frank Marknitz, der angegriffen wurde, ähm,
+
+00:57:03.084 --> 00:57:08.276
+<v Linus Neumann>Der hat tatsächlich, da gab's, gab es, glaube ich, auch ein Video von, der hat äh im relativ,
+
+00:57:08.607 --> 00:57:19.790
+<v Linus Neumann>mal kurz einen abgekriegt, also er wurde gewalttätig überfallen. Das, denke ich, kann man sagen. Ähm er hat das, äh also es war sicherlich schwere Körperverletzung, war auch ein Krankenhaus, hatte dann auch irgendwie,
+
+00:57:20.030 --> 00:57:27.992
+<v Linus Neumann>ähm ein äh blaues Gesicht, wenn ich das, wenn ich mich da richtig erinnere, sprach aber dann von einem Mordanschlag mit einem Kantholz, äh,
+
+00:57:28.076 --> 00:57:36.741
+<v Linus Neumann>Das war allerdings dann frei erfunden und dieses frei erfundene Kantholz äh haben sie jetzt auch dort ausgestellt und äh noch weitere Exponate.
+
+00:57:37.727 --> 00:57:46.872
+<v Linus Neumann>Und ähm jetzt haben sie die auf eBay versteigert und eBay hat nun diese,
+
+00:57:47.173 --> 00:57:56.931
+<v Linus Neumann>zunächst das Kantholz und dann auch die anderen Exponate inklusive des Ansteckers und eines Einkaufswagens äh wegen,
+
+00:57:57.287 --> 00:58:00.026
+<v Linus Neumann>Gewaltverherrlichung entfernt.
+
+00:58:01.000 --> 00:58:11.660
+<v Linus Neumann>Und das ist schon relativ krass, wenn du dir mal anschaust, was so für nennen wir es mal äh wertfrei, Memorabilia,
+
+00:58:12.039 --> 00:58:20.535
+<v Linus Neumann>von neunzehnhundertdreiunddreißig bis neunzehnhundertfünfundvierzig aus der Bundesrepublik Deutschland verkauft werden auf eBay
+
+00:58:20.397 --> 00:58:22.686
+<v Linus Neumann>dann ist das natürlich schon ein starkes Stück
+
+00:58:22.597 --> 00:58:37.469
+<v Linus Neumann>was da seelenruhig gehandelt werden kann und tatsächlich Ideologien verherrlicht die menschenverachtend sind. Während hier ein Sticker und ein, ich meine, ich kann doch von zu viel Geld bezahlen, wie ich möchte. Ähm,
+
+00:58:37.511 --> 00:58:44.758
+<v Linus Neumann>Programm genommen wird, ne? Vor allem, wenn's ein Kantholz ist, was sich ein AfD-Bundestagsabgeordneter ausgedacht hat.
+
+00:58:45.425 --> 00:58:54.246
+<v Tim Pritlove>Ich zitiere mal kurz die Webseite, weil ich kannte diesen Fall mit dem Magnet nur so habe ich nur so nebenbei wahrgenommen, aber hier steht
+
+00:58:54.036 --> 00:59:00.339
+<v Tim Pritlove>Wurde in Wahrheit, also äh doch als Überwachungsvideos auftauchten, kamen die Lügen der AfD heraus.
+
+00:59:00.226 --> 00:59:07.580
+<v Tim Pritlove>In Wahrheit von hinten gestoßen, ist beim Sturz mit dem Kopf aufgeschlagen, dann flohen die Angreifenden. Also kann man jetzt auch als,
+
+00:59:07.743 --> 00:59:13.763
+<v Tim Pritlove>Verletzungen, vielleicht werten so, aber er ist jetzt nicht irgendwie verprügelt worden im eigentlichen Sinne.
+
+00:59:14.202 --> 00:59:16.882
+<v Linus Neumann>Nee, nee, das war ein kurzer Übergriff. Ähm.
+
+00:59:17.676 --> 00:59:27.146
+<v Linus Neumann>Der äh der Anstecker äh den hätte ich eigentlich am liebsten gehabt. Der steht jetzt schon bei siebenhundertfünf Euro,
+
+00:59:27.326 --> 00:59:35.630
+<v Linus Neumann>am äh höchsten steht der Entwurf äh des Antifalogus und was ich sehr schön finde ähm,
+
+00:59:35.853 --> 00:59:44.151
+<v Linus Neumann>Das ist natürlich die antifaschistische Auktion, die da stattfindet. Äh unter dem Motto eins drei
+
+00:59:44.061 --> 00:59:58.459
+<v Linus Neumann>eins, zwei, meins und den werden jetzt nicht alle verstehen und äh diejenigen, die ihn verstehen, werden sich freuen und diejenigen, die ihn nicht verstehen, werden jetzt googeln, wofür denn dieses eins drei eins zwei steht
+
+00:59:58.369 --> 01:00:03.567
+<v Linus Neumann>und äh wissen dann, warum das an jeder Wand äh gesprüht wurde.
+
+01:00:04.619 --> 01:00:09.786
+<v Linus Neumann>Ja, aber ich finde natürlich diesen äh also diese,
+
+01:00:09.937 --> 01:00:22.002
+<v Linus Neumann>Aufregereikultur und äh dieses wir klicken die Leute jetzt aus den Netzwerken raus und so weiter. Das äh nimmt hier irgendwie beknackte Züge an. Ich finde tatsächlich
+
+01:00:21.817 --> 01:00:30.866
+<v Linus Neumann>genau so und da werde ich äh werden sicherlich viele nicht mit äh Dakord gehen, mit der ein oder anderen Position. Ich finde genauso diese Kunstausstellung,
+
+01:00:30.962 --> 01:00:35.991
+<v Linus Neumann>und äh Versteigerung der des Painkollektivs äh,
+
+01:00:36.275 --> 01:00:50.570
+<v Linus Neumann>schützenswert, wie ich es äh sinnvoll finde, die Nazis und so äh Coronaleugner und so, alle schön fein säuberlich auf einem Haufen äh versammeln zu lassen. Es gibt übrigens noch, habe ich gerade vergessen, zu erwähnen
+
+01:00:50.492 --> 01:00:57.005
+<v Linus Neumann>durch die Anmeldung der durch die fünftausend Anmeldungen, die ja jeweils eine Person machen muss, ne.
+
+01:00:58.015 --> 01:01:07.900
+<v Linus Neumann>Die dir vorgenommen haben, ne, haben wir jetzt wenigstens schon mal die Daten von fünftausend von denen. Das war auch nicht verkehrt. Also das äh am Ende ist alles eins. Das.
+
+01:01:07.600 --> 01:01:12.142
+<v Tim Pritlove>Ja, aber Datenschutz. Na ja, funktioniert ja nicht, wissen wir ja.
+
+01:01:09.649 --> 01:01:18.343
+<v Linus Neumann>Ja. Mal gucken, was wo Sophie sich nächstes Mal eine API anschaut mit mit dem CH zusammen, ne.
+
+01:01:18.043 --> 01:01:24.419
+<v Tim Pritlove>Die jetzt auch so überlastet, dass sie bei Gastronovo sich da irgendwie eine noch eine noch eine App klingen.
+
+01:01:25.940 --> 01:01:35.205
+<v Tim Pritlove>Müssen wir, glaube ich, mal zur Corona-Warn-App vorstoßen. Da gab's da nämlich zurückstoßen. Nochmal drauf kommen.
+
+01:01:36.233 --> 01:01:40.613
+<v Tim Pritlove>Ein paar interessante Meldungen und äh Entwicklungen.
+
+01:01:41.304 --> 01:01:50.390
+<v Tim Pritlove>Zunächst einmal äh hat die Telekom wohl auch Netzpolitik gehört oder UKW, ich weiß nicht so ganz genau und äh unser Flehen erhört und dann endlich
+
+01:01:50.330 --> 01:01:58.724
+<v Tim Pritlove>genau das gemacht, was wir letzte Woche gefordert haben, nämlich mal einfach mal auf den Server geguckt und mal geschaut, wie viel äh Apps
+
+01:01:58.671 --> 01:02:10.953
+<v Tim Pritlove>fragen denn da eigentlich nach Daten? Und da es ja durch diese Exposur Notification UP, also diesen Teil, den Apple und Google jeweils auf ihren Smartphonebetriebssystem bereitstellen.
+
+01:02:11.452 --> 01:02:24.792
+<v Tim Pritlove>Ohnehin so ein äh Limit gibt, dass die nur einmal am Tag solche Kontaktvergleiche äh durchführen dürfen, macht's auch keinen Sinn, häufiger nachzufragen und deswegen tun sie das dann eben auch nur einmal innerhalb von vierundzwanzig Stunden
+
+01:02:24.678 --> 01:02:30.086
+<v Tim Pritlove>Also konnte die Telekom, die ja diese Infrastruktur betreibt, für die App,
+
+01:02:30.399 --> 01:02:36.666
+<v Tim Pritlove>tatsächlich mal gucken, wie viel Requests gibt's denn da? Und kam auf die Zahl vierzehn Millionen.
+
+01:02:36.570 --> 01:02:41.155
+<v Linus Neumann>Halte ich für total realistisch. Hätte ich auch geschätzt, ist ein normaler Schwund.
+
+01:02:41.389 --> 01:02:49.796
+<v Tim Pritlove>Genau, klingt plausibel, also natürlich, wir haben jetzt äh dem stehen dann gegenüber diese offizielle Download Zahl, die ist jetzt derzeit bei siebzehn Komma fünf Millionen
+
+01:02:49.622 --> 01:02:56.868
+<v Tim Pritlove>taxiert und es war schon immer klar, nicht jede App, die runtergeladen wird, wird dann am Ende auch aktiviert sein und dauerhaft laufen. Also es gibt
+
+01:02:56.827 --> 01:03:02.319
+<v Tim Pritlove>da schon mal einen gewissen Vorlaut von Leuten, die sich's vielleicht runterladen und dann vergessen oder irgendwie ihre,
+
+01:03:02.559 --> 01:03:12.594
+<v Tim Pritlove>weiß ich hier äh ihre Meinung dazu äh ändern in dem Moment und das dann halt einfach nicht betreiben oder aus irgendwelchen anderen Gründen, die installiert haben, vielleicht auch durch Fehlbedienung
+
+01:03:12.510 --> 01:03:20.333
+<v Tim Pritlove>gibt's natürlich auch noch so die geringe Zahl von Leuten, die sich dann vielleicht genau in diesem Zeitraum auch ein neues Telefon kaufen, ne? Und dann alte,
+
+01:03:20.719 --> 01:03:29.455
+<v Tim Pritlove>neu installieren, Backup rüberspielen, Pipapo, nochmal ein neuer äh Download, sowas, ne? Und dann gab's ja auch die verschiedenen Berichte über.
+
+01:03:30.069 --> 01:03:40.037
+<v Tim Pritlove>Fehlerhafte äh Apps oder fehlerhafte Frameworks, also teilweise ist es ja das Betriebssystem gewesen, was verhindert hat, dass die App im Hintergrund aufwacht und dann diese Abfrage zu machen
+
+01:03:39.996 --> 01:03:49.772
+<v Tim Pritlove>Gab's auch Bugs in der App, also das äh summiert sich alles. Sprich, wir kommen bei vierzehn Millionen die weißes raus. Wie du schon sagst, klingt äh sehr,
+
+01:03:49.995 --> 01:03:59.495
+<v Tim Pritlove>plausibel das eigentliche Ziel war mal so fünfundzwanzig Millionen wenn man da noch hinkommen will, muss man aber schon nochmal ein bisschen,
+
+01:03:59.790 --> 01:04:02.235
+<v Tim Pritlove>an der Marketingschraube äh drehen.
+
+01:04:02.536 --> 01:04:16.669
+<v Linus Neumann>Ja und ich ich denke, ohne da jetzt Einblicke zu haben, jetzt jetzt ist es an der Zeit, vielleicht mal auch äh wir hatten ja über die Kinderkrankheiten uns jetzt hier auch nochmal ausführlich unterhalten und auch beschwert. Jetzt ist es ähm.
+
+01:04:17.384 --> 01:04:23.873
+<v Linus Neumann>Vielleicht an der Zeit über andere ähm erweiterte Funktionalitäten, vielleicht ähm.
+
+01:04:24.361 --> 01:04:32.641
+<v Linus Neumann>Sich Gedanken zu machen, um das um das Ding irgendwie attraktiver zu gestalten ähm Gamification,
+
+01:04:33.038 --> 01:04:47.646
+<v Linus Neumann>Profilbildung, Planbildung, ja? Vielleicht auch ein Streit mit Apple anfangen, wegen der dreißig Prozent App Store Gebühr, irgendwas, um das Ding wieder ins Gespräch zu bringen, äh würde ich jetzt äh äh empfehlen, ja.
+
+01:04:47.370 --> 01:04:55.577
+<v Tim Pritlove>Ja, also ich würde ja vorschlagen, was ich schon von Anfang an gesagt habe, äh macht einfach so einen Standardaushang für Läden,
+
+01:04:55.884 --> 01:05:09.410
+<v Tim Pritlove>Schreibt den Läden vor, dass sie genau den Aushang genau so in ihre Tür zu hängen haben, wo drauf steht, hier Maskenpflicht, Pipapo, das ist die aktuelle Verordnung und dann halt dadrunter hier QR-Code, übrigens Corona-Warn-App installier mal. Fertig.
+
+01:05:09.170 --> 01:05:16.579
+<v Tim Pritlove>So, dann hat das jeder Laden in seiner Tür und das wird dann auch noch nicht zur Revolution führen, aber dann,
+
+01:05:16.898 --> 01:05:21.969
+<v Tim Pritlove>haben's einfach mal täglich Millionen Leute vor der Nase.
+
+01:05:22.715 --> 01:05:25.166
+<v Linus Neumann>Ich habe übrigens jetzt die, also ähm.
+
+01:05:25.659 --> 01:05:35.279
+<v Linus Neumann>Die Sorge der äh der der Impfbesorgten, ja, hat sich ja auch tatsächlich bewahrheitet, ja. Ich weiß jetzt schon von zwei.
+
+01:05:36.139 --> 01:05:39.882
+<v Linus Neumann>Etablissements in der Bundesrepublik Deutschland,
+
+01:05:40.249 --> 01:05:47.261
+<v Linus Neumann>die von ihren Besucherinnen, die Nutzung der Corona-Warn-App verlanget,
+
+01:05:47.742 --> 01:05:54.292
+<v Linus Neumann>verlangen, ja? Die wollen uns zwingend hin wollen die uns. Und ähm das ist irgendwie ein Campingplatz.
+
+01:05:55.248 --> 01:06:05.517
+<v Linus Neumann>Der seine äh Aussage oder seine Verpflichtung ganz einfach damit begründet, fand ich auch ein interessantes Argument. Da wurde also der Betreiber dieses Campingplatzes gefragt, da hat er gesagt, na ja, warum,
+
+01:06:05.740 --> 01:06:14.056
+<v Linus Neumann>ne, warum machen die das ausgerechnet auf dem Campingplatz verpflichtend, weil der gesagt hat, passt mal auf, äh wir haben hier, Zeiten sind schlecht genug, wir haben viele alte Leute hier,
+
+01:06:14.272 --> 01:06:18.563
+<v Linus Neumann>und wir nutzen diese Corona-Warn-App einfach nur als Marker.
+
+01:06:19.236 --> 01:06:28.910
+<v Linus Neumann>Dafür, dass wir es mit Leuten zu tun haben, die die ganze Angelegenheit halbwegs ernst nehmen. Und äh sagen dann, weißt du, wenn jemand hier hinkommt und sagt, er installiert sich noch nicht mal die App,
+
+01:06:29.355 --> 01:06:43.710
+<v Linus Neumann>Dann äh wischt er sich auch nach dem äh Toilettengang nicht die Finger ab und äh äh und äh bricht auch nicht in die Armbeuge, wenn ihm schlecht ist. Also, wollen wir den lieber hier vielleicht gar nicht haben? Das war so die Argumentation dieses Campingplatzes, ja? Und,
+
+01:06:43.897 --> 01:06:53.643
+<v Linus Neumann>sen, ähm wem das nicht schmeckt, die können ja auch woanders campen, so, ne? Äh hat jetzt dieser Campingplatz so äh Position.
+
+01:06:53.560 --> 01:06:55.158
+<v Tim Pritlove>So ein Covidioten-Filter.
+
+01:06:55.855 --> 01:07:02.465
+<v Linus Neumann>Gar nicht so, gar nicht so schlecht. Ich habe ja zum Beispiel, man hat ja bestimmte Hinweismarker, ne. Ich habe ja auch ähm,
+
+01:07:02.598 --> 01:07:13.858
+<v Linus Neumann>an einem äh ungenannten Anlass mit einer Person zu tun gehabt, äh die im äh Lehrberuf tätig war und dann im weiteren Verlauf des Gesprächs auf einmal
+
+01:07:13.744 --> 01:07:24.230
+<v Linus Neumann>ja von ihrem Mitleid mit den Kindern sprach, die würden jetzt alle ersticken und äh außerdem, weil die ja den ganzen Tag in die in die Masken atmen, haben die jetzt irgendwelche,
+
+01:07:24.489 --> 01:07:33.268
+<v Linus Neumann>Streptokokkeninfektion oder irgend so ein Stußbakterien immer im Rachen und wer im Notfall behandelt ist. Also ein Unsinn, ja, also so ein Unsinn,
+
+01:07:33.532 --> 01:07:41.313
+<v Linus Neumann>Und das jetzt zum Beispiel dann auch so ein äh da hat man ja so seine Marke und sagt so boah, weißt du, vielleicht.
+
+01:07:41.813 --> 01:07:50.477
+<v Linus Neumann>Redest du einfach mit anderen Leuten und und ich mit anderen Leuten, ne? Dann vielleicht ist das einfach auch besser für uns beide. Na ja,
+
+01:07:50.922 --> 01:07:56.973
+<v Linus Neumann>achso und das andere Etablissement ist die Tele Disco. Diskothem.
+
+01:07:57.382 --> 01:08:00.723
+<v Tim Pritlove>Tele-Disco. Das ist.
+
+01:08:00.447 --> 01:08:13.997
+<v Linus Neumann>Sieht man, hast du garantiert auch schon gesehen, ich weiß auch, wo du schon mal gesehen hast, aber ich äh beschreib's einfach nochmal. Das sind äh umgebaute Telefonzellen ähm in den Telefonzellen ist eine Musikanlage mit äh wünsch dir ein Lied,
+
+01:08:14.298 --> 01:08:20.276
+<v Linus Neumann>und einer kleinen äh so einer kleinen Discokugel und ein bisschen Beleuchtung und Blitz und Nebel und hast du alles nicht gesehen?
+
+01:08:20.553 --> 01:08:28.437
+<v Linus Neumann>Und draußen muss sie, weil sie sich zwei Euro reinwerfen. Und dann kannst du, das ist so für die kleine Party zwischendurch. Da kannst du ähm.
+
+01:08:29.164 --> 01:08:39.638
+<v Linus Neumann>Kannst du dir Musik wünschen, gehst rein, dann ist da zwei Minuten äh Halligalli drin und dann geht dein geht Licht wieder aus, kannst du weitergehen, ne? Also so ähnlich wie man sich hier, ne, in Berlin,
+
+01:08:39.987 --> 01:08:46.560
+<v Linus Neumann>Bier kannst du kurz in die gehen, ne? Wenn der,
+
+01:08:46.927 --> 01:08:56.703
+<v Linus Neumann>Und da steht auch dran, äh man man möge aber bitte man müsse die Corona-App nutzen. Jetzt weiß ich nicht genau, das habe ich leider dann auch nicht mehr ähm.
+
+01:08:57.227 --> 01:09:01.913
+<v Linus Neumann>Also sage ich mal, mein mein Risikoapetit war nicht so groß, dass ich in in diesen,
+
+01:09:02.124 --> 01:09:12.369
+<v Linus Neumann>Raum gehe, in den Menschen, den Menschen dann voll hecheln. Ähm ich bin mir nicht sicher, ob das Ding ob das Ding tatsächlich über Bluetooth guckt, dass es Beekens bekommt.
+
+01:09:13.000 --> 01:09:19.910
+<v Linus Neumann>Wenn Menschen drin sind und sonst vielleicht die Musik verweigert oder ob das einfach nur ein freundliches Schild ist, das,
+
+01:09:20.055 --> 01:09:29.297
+<v Linus Neumann>Könnte man mal noch mal irgendwann in Erfahrung bringen. Vielleicht möchten sich auch die Betreiberinnen bei uns dazu äußern. Aber auf jeden Fall finde ich es gut, dass sie sich damit hier diese ähm.
+
+01:09:30.319 --> 01:09:34.044
+<v Linus Neumann>Coronaleugner auf jeden Fall äh aus ihrer Tele-Disco raushalten.
+
+01:09:34.284 --> 01:09:40.660
+<v Tim Pritlove>Die Abpflicht ist real. Nochmal.
+
+01:09:38.671 --> 01:09:42.991
+<v Linus Neumann>Und nach der App kommt der Chip-Tipp, Tim, weißte, ne?
+
+01:09:42.841 --> 01:09:51.884
+<v Tim Pritlove>Klar, der Corona-Chip. Oh Mann. Seufz.
+
+01:09:52.666 --> 01:09:59.312
+<v Tim Pritlove>Das ist so lustig. Ich würde jetzt ganz gerne noch äh noch einen kleinen, trockenen Anhang
+
+01:09:59.084 --> 01:10:10.880
+<v Tim Pritlove>zu der Situation der Corona-Warn-App äh geben, weil es war ja auch nun lange eben die Frage mit na ja, was ist denn jetzt mit äh der Kompatibilität in Europa und jetzt wo die Reisezeit.
+
+01:10:10.628 --> 01:10:15.849
+<v Tim Pritlove>Beginnt und da war ich ja ganz optimistisch und dachte mir so, ah, kann ja nicht so schwer sein,
+
+01:10:16.161 --> 01:10:23.949
+<v Tim Pritlove>kriegen wir bestimmt noch hin, bevor Sommerferien äh los sind, haben alle irgendwie Corona-Warn-App äh in der Tasche und dann funktioniert das auch mit den anderen Apps.
+
+01:10:23.866 --> 01:10:31.400
+<v Tim Pritlove>Potentiell gibt es ja jetzt schon relativ viel Kompatibilität. Ich habe jetzt die Liste nicht vollständig, aber ich glaube, so die allermeisten
+
+01:10:31.310 --> 01:10:36.058
+<v Tim Pritlove>europäischen Länder haben ja mehr oder weniger jetzt klein beigegeben einschließlich okay
+
+01:10:35.938 --> 01:10:47.522
+<v Tim Pritlove>haben eine entsprechende kompatible App, also zu diesem Exposur Notification rausgebracht äh mit unterschiedlichen Verbreitungsmengen,
+
+01:10:47.931 --> 01:11:02.606
+<v Tim Pritlove>Also Österreich, Schweiz hatten wir ja hier äh in bayerischen Ländern mindestens zwei, wenn nicht sogar äh alle drei Länder, Dänemark, äh wie schon gesagt, Frankreich wehrt sich, glaube ich, irgendwie immer noch. Warum auch immer. Auf jeden Fall.
+
+01:11:03.099 --> 01:11:12.292
+<v Tim Pritlove>Das war die Frage. Und immerhin hat sich da jetzt was getan, auch wenn wir's noch nicht haben, nämlich zweierlei. Einerseits hat die EU,
+
+01:11:12.773 --> 01:11:18.199
+<v Tim Pritlove>der SAP und der Telekom, weil das ja so schön gelaufen ist, hier mit der Corona-Warn-App,
+
+01:11:18.536 --> 01:11:24.490
+<v Tim Pritlove>den Auftrag gegeben, doch bitte ihre Infrastruktur auch auszudehnen für ein EU-weiten Server.
+
+01:11:25.242 --> 01:11:39.032
+<v Tim Pritlove>Und da gab's ja lange Diskussionen dadrüber, wie denn das jetzt gebaut werden soll und wenn ich das richtig mitbekommen habe, hat sich jetzt der Vorschlag von Apple da durchgesetzt und äh wir werden jetzt demnächst,
+
+01:11:39.309 --> 01:11:49.921
+<v Tim Pritlove>den nächsten Betriebssystem Updates bei Google und Apple, also auf Eiweiß ist dann dreizehn sieben, keine Ahnung, wie das bei äh Google Play äh gerade mit Versionsnummern und so weiter ist.
+
+01:11:50.372 --> 01:11:59.277
+<v Tim Pritlove>Es wird also ein ein Update geben und abgesehen davon, dass man dann auf dem Telefon wohl auch,
+
+01:11:59.686 --> 01:12:06.674
+<v Tim Pritlove>diese das Sinn und Empfangen der Beacons einschalten kann, selbst wenn man noch gar keine App installiert hat, auch schon mal nicht schlecht ist,
+
+01:12:07.095 --> 01:12:15.369
+<v Tim Pritlove>gibt es einen sogenannten Reisestatus, den das Telefon jetzt selber feststellt. Denn es ist ja nun so,
+
+01:12:15.754 --> 01:12:18.386
+<v Tim Pritlove>man befindet sich ja in der Regel dann doch zu Hause,
+
+01:12:18.759 --> 01:12:26.660
+<v Tim Pritlove>Klar, es gibt ein paar Leute, die äh reisen rum wie nichts Gutes, aber das dürfte ja dann auch etwas abgenommen haben und Pendler und so weiter, alles klar.
+
+01:12:26.660 --> 01:12:35.902
+<v Tim Pritlove>Eben die allermeisten Leute sind halt meistens dann doch in ihrem eigenen Land. Und wenn man sich dann halt doch mal äh bewegt, können Telefone das natürlich wunderbar feststellen.
+
+01:12:36.179 --> 01:12:37.284
+<v Tim Pritlove>Auf einmal hast du,
+
+01:12:37.615 --> 01:12:49.711
+<v Tim Pritlove>was ich italienisches Mobilfunknetz um dich herum, du hast natürlich die GPS-Daten et cetera, also ein Telefon weiß schon, wo es ist. So, passt ja auch die Zeitzone an, wenn man aus dem Flugzeug äh steigt,
+
+01:12:49.916 --> 01:12:59.356
+<v Tim Pritlove>die wissen das. Jetzt kann also diese dieses Framework, also die Api quasi,
+
+01:12:59.458 --> 01:13:08.291
+<v Tim Pritlove>sagen in dem Moment, wo jetzt jemand sich positiv meldet und dann ja für die letzten vierzehn Tage die entsprechenden Diagnosekies veröffentlicht werden sollen.
+
+01:13:08.742 --> 01:13:17.941
+<v Tim Pritlove>Dann hängt quasi diese Information war im Ausland an den Kies mit dran. Das heißt, wenn in dem Moment, wo die Keys veröffentlicht werden,
+
+01:13:18.381 --> 01:13:28.007
+<v Tim Pritlove>weiß dieser Corona-Warn-App-Server in dem Fall so A hier ist ein Key, der äh wurde auch in anderen Ländern verteilt.
+
+01:13:28.789 --> 01:13:31.799
+<v Tim Pritlove>Sagt nicht, in welchem Land, sondern sagt nur nicht at home,
+
+01:13:31.956 --> 01:13:43.498
+<v Tim Pritlove>quasi die einzige Information, die die da dranklebt. Und dann ist der Plan diesen Kiedern zu nehmen und dann quasi auch noch auf so einen EU-weiten,
+
+01:13:43.643 --> 01:13:50.757
+<v Tim Pritlove>Zusatzserver mit drauf zu packen, aber eben nur diese Keys. Sprich, es gibt,
+
+01:13:50.811 --> 01:14:02.818
+<v Tim Pritlove>weiterhin diesen nationalen Server in Deutschland, Österreich, Schweiz et cetera überall sonst und für alles, was quasi Auslandskies sind, also Reisekies, die werden dann auf
+
+01:14:02.740 --> 01:14:05.996
+<v Tim Pritlove>einen gemeinsamen EU-Server gepackt.
+
+01:14:06.225 --> 01:14:10.810
+<v Linus Neumann>Aber da musst du trotzdem immer auch müssen ja alle trotzdem auf den EU-Server zugreifen.
+
+01:14:10.816 --> 01:14:24.744
+<v Tim Pritlove>Genau, das heißt, die Apps werden dahingehend geändert werden, dass sie dann halt zusätzlich zu dem dem deutschen Server sich auch noch Kies von diesem anderen Server holen, aber das sind natürlich dann quasi nur die Reisetage, die du dann da abgreifst.
+
+01:14:25.286 --> 01:14:28.338
+<v Tim Pritlove>Wo jemand irgendwie potenziell symptomatisch war.
+
+01:14:29.108 --> 01:14:35.825
+<v Linus Neumann>Ach so, ja, ja, genau, klar. Du willst du greifst nur die Reisetage ab, nicht nicht die pro Person, die,
+
+01:14:35.976 --> 01:14:44.334
+<v Linus Neumann>meldet, nicht alle vierzehn Tage, sondern pro Person von mir aus auch nur einen Tag, den sie im Ausland war, den aber dafür das gesamte EU-Ausland,
+
+01:14:44.479 --> 01:14:55.697
+<v Linus Neumann>Verstehe. Elegante Lösung, das heißt, du hast dort, wenn du Glück hast, äh wahrscheinlich insgesamt so viel wie nochmal bei einem ganzen Land oder sowas.
+
+01:14:55.397 --> 01:14:56.407
+<v Tim Pritlove>Ja, wenn überhaupt.
+
+01:14:56.107 --> 01:14:57.698
+<v Linus Neumann>Auf das Land an, ne?
+
+01:14:57.704 --> 01:15:06.964
+<v Tim Pritlove>Also ich denke, das dürfte deutlich weniger sein, aber das wird man dann sehen. Aber das ist auf jeden Fall eine zu bewältigende Größe. Wie gesagt, EU hat's beauftragt, SAP, Telekom
+
+01:15:06.857 --> 01:15:18.099
+<v Tim Pritlove>muss das halt äh einerseits müssen sie halt die App anpassen, andererseits müssen sie äh ihre Serverinfrastruktur quasi nochmal replizieren und dann natürlich mit all den Ländern irgendwie äh,
+
+01:15:18.268 --> 01:15:24.817
+<v Tim Pritlove>quasi testen und den Austausch organisieren und was weiß ich, vielleicht noch irgendwelche Verträge unterschreiben. Ja,
+
+01:15:25.082 --> 01:15:39.918
+<v Tim Pritlove>keine Ahnung, wann das jetzt kommen soll. Ähm die Betriebssystem-Updates sind natürlich jetzt erst mal die Voraussetzung, das macht gerade so den Eindruck, als ob das so in den nächsten zwei Wochen stattfinden könnte und dann könnte man vielleicht auch schon eine App sehen und ob dann auch schon die Infrastruktur läuft
+
+01:15:39.900 --> 01:15:42.490
+<v Tim Pritlove>Kann ich nicht beantworten, weiß ich nicht, habe ich keine Informationen zu.
+
+01:15:43.001 --> 01:15:49.424
+<v Linus Neumann>Dann können wir uns jetzt demnächst auch wieder äh im Ausland infizieren.
+
+01:15:46.649 --> 01:15:51.022
+<v Tim Pritlove>Endlich.
+
+01:15:51.378 --> 01:16:05.968
+<v Linus Neumann>Ähm ich glaube, eine kleine Meldung müssen wir noch mit reinnehmen. Die haben wir, weil wir äh Geschichten ja im Lokbuch Netzpolitik auch zu Ende erzählen. Ähm du hattest das hier vor einigen Wochen oder ist vielleicht auch schon Monaten.
+
+01:16:07.091 --> 01:16:12.217
+<v Linus Neumann>Angesprochen, dass es in vielen wissenschaftlichen Studien,
+
+01:16:12.608 --> 01:16:23.045
+<v Linus Neumann>Probleme gibt in der, in den Grafiken und in den Tabellen, weil die Tabellen mit Excel gemacht werden.
+
+01:16:24.187 --> 01:16:28.910
+<v Linus Neumann>Und bestimmte Gene waren das, ne?
+
+01:16:28.742 --> 01:16:32.852
+<v Tim Pritlove>Es waren die Namen von Genen, ganz konkret, weil die halt genau
+
+01:16:32.666 --> 01:16:47.502
+<v Tim Pritlove>so blöde Namen haben, dass Excel halt sagt so, ah, da hatte bestimmt jemand gerade ein Datum eingegeben, so dass sie und äh Sept, sieben und so. Und äh ja, ja, genau. Und jetzt äh gab's jetzt gab's die Lösung. Ein Update,
+
+01:16:47.664 --> 01:16:51.053
+<v Tim Pritlove>Microsoft. Nein, doch nicht. So, es gab.
+
+01:16:50.753 --> 01:16:52.085
+<v Linus Neumann>Gene werden umbenannt.
+
+01:16:51.943 --> 01:16:55.043
+<v Tim Pritlove>Genau, die Gene werden umbenannt. Sind auch nicht so viele, aber.
+
+01:16:53.711 --> 01:17:00.836
+<v Linus Neumann>Und jetzt also ich meine, jetzt frage dich mal ernsthaft, ne, wer war denn zuerst da?
+
+01:17:01.101 --> 01:17:04.147
+<v Tim Pritlove>Die Gene oder Hexe.
+
+01:17:03.847 --> 01:17:06.275
+<v Linus Neumann>So, die Gene oder Echse?
+
+01:17:05.975 --> 01:17:08.071
+<v Tim Pritlove>Tja.
+
+01:17:08.949 --> 01:17:13.317
+<v Linus Neumann>Das ist die Exilisierung äh des des Genlandes ist das nämlich.
+
+01:17:13.684 --> 01:17:21.393
+<v Tim Pritlove>Also ich kann diesen Move nachvollziehen. Der wird natürlich auch noch für Probleme sorgen, weil.
+
+01:17:21.712 --> 01:17:23.887
+<v Linus Neumann>Schämen sollte sich Microsoft.
+
+01:17:24.164 --> 01:17:33.874
+<v Tim Pritlove>Ja, ja gut, aber ich meine, über den Punkt sind sie schon lange hinaus. Das das wenn nicht das ist halt einfach so.
+
+01:17:32.018 --> 01:17:40.544
+<v Linus Neumann>Du, ich sage dir das, Tim, als erst benennt er Bill Gates unsere Gene um, ja und dann.
+
+01:17:38.231 --> 01:17:47.617
+<v Tim Pritlove>Oh
+
+01:17:47.731 --> 01:17:50.640
+<v Linus Neumann>Das geht schleichend. Wacht auf! Wacht auf.
+
+01:17:49.456 --> 01:17:56.120
+<v Tim Pritlove>Ja, ja, der, der mit uns alle, alle, alle vergiften, damit er uns retten kann. Hm.
+
+01:17:54.161 --> 01:17:58.487
+<v Linus Neumann>Oh je.
+
+01:17:58.596 --> 01:18:03.607
+<v Tim Pritlove>Ja, es ist, es ist wirklich, es ist wirklich krass, ne? Aber ich muss, aber das ist,
+
+01:18:03.608 --> 01:18:14.706
+<v Tim Pritlove>Ich meine, wir wir hatten jetzt, wir hatten dieser Sendung jetzt schon schon so oft dieses Thema Softwarequalität auf die ein oder andere Art und Weise, ne? Und und ich leide ja auch immer besonders äh
+
+01:18:14.646 --> 01:18:25.750
+<v Tim Pritlove>unter der Situation in Deutschland, ne, weil halt alle immer irgendwie erstmal die Schuld woanders abladen oder zumindest suchen wollen und ähm irgendwie verstehe ich auch nicht so richtig
+
+01:18:25.589 --> 01:18:34.157
+<v Tim Pritlove>was aus diesem Land geworden ist, da ist man so stolz auf seine ganzen Ingenieure, da ist man so stolz auf seine Technik, da ist man so stolz auf sein Handwerk,
+
+01:18:34.163 --> 01:18:39.992
+<v Tim Pritlove>ja? Aber dann beim Programmieren gilt das irgendwie alles nicht,
+
+01:18:40.292 --> 01:18:45.502
+<v Tim Pritlove>Also da gibt's irgendwie überhaupt kein kein Anstand und, und, und, und keine Ehre,
+
+01:18:45.671 --> 01:18:52.088
+<v Tim Pritlove>ja, kein, keine innere Motivation, da einfach mal die besten sein zu wollen. Was was kaputt?
+
+01:18:52.323 --> 01:18:59.449
+<v Tim Pritlove>Mit Deutschland. Was was erlaube Deutschland? Warum warum sollen wir nicht die die besten Informatiker sein wollen?
+
+01:18:59.756 --> 01:19:08.848
+<v Tim Pritlove>Sind wir aber nicht. Ist halt so. Und äh es ist aber dann halt bei Microsoft ich will jetzt auch gar nicht so auf Microsoft rumhauen, aber es ist halt so,
+
+01:19:09.034 --> 01:19:15.710
+<v Tim Pritlove>Software macht auch manchmal irgendwie lazy und natürlich kann man auch andersrum argumentieren,
+
+01:19:15.722 --> 01:19:25.102
+<v Tim Pritlove>Naja, wir wollen's ja den Leuten auch einfach machen, nur weil sie sich da jetzt vertippt haben mit ihrem Datum, erkennen wir das dann halt trotzdem an. Aber die Implikation davon.
+
+01:19:25.499 --> 01:19:37.264
+<v Tim Pritlove>In so vorauszunehmen ist nicht immer einfach. Ja, dann hast du da irgend so einen Chef, der sagt so, ja, ich muss jetzt hier einfacher werden, die Leute kriegen ihre Daten nicht eingegeben, dann bauen sie halt so ein Feature ein und dann war's das.
+
+01:19:37.264 --> 01:19:46.272
+<v Linus Neumann>Ich arbeite äh dann doch schon äh seit äh seit einigen Versionen mit Excel, ne? Und eines der am häufigsten verwendeten,
+
+01:19:46.410 --> 01:19:48.706
+<v Linus Neumann>Fell äh Funktion ist,
+
+01:19:48.808 --> 01:19:56.902
+<v Linus Neumann>Definition des Typs des Feldes, ja? Und der Excel eine Datenverarbeitung ist und auch skriptfähig ist das jetzt für,
+
+01:19:56.992 --> 01:20:07.779
+<v Linus Neumann>viele Menschen relativ normal, dass man eine Variable oder einen Wert eben einen bestimmten Typ zuordnet, ja? Häufig, je nachdem, was man in Excel rechnet, ne. Bei mir ist es halt äh.
+
+01:20:08.494 --> 01:20:22.194
+<v Linus Neumann>Und dann äh Millionen Euro oder sowas stelle ich dann ein, ne. Aber ähm und äh da wäre es doch problemlos, problemlos möglich gewesen zu sagen, okay, es gibt jetzt den Datenfeld,
+
+01:20:22.405 --> 01:20:24.766
+<v Linus Neumann>des Datenfeld gehen,
+
+01:20:25.187 --> 01:20:38.058
+<v Linus Neumann>oder dass äh den Modus, ne, hier diese Strings, wenn man man kann es ausschalten, dass die automatisiert umgebaut werden oder echt einfach nur den Datentyp gehen, dann hättest du immer noch in fünfzig Prozent
+
+01:20:37.896 --> 01:20:44.151
+<v Linus Neumann>der Studien das falsch, aber dann könnte man wenigstens sagen, die Person weiß nicht, dass man ein Excel ein Häkchen setzen muss, ne.
+
+01:20:44.242 --> 01:20:45.882
+<v Tim Pritlove>Hm ja.
+
+01:20:45.582 --> 01:20:52.396
+<v Linus Neumann>Auszusetzen, genetische Änderungen durch durch äh durch durch Faulheit.
+
+01:20:52.607 --> 01:20:59.589
+<v Tim Pritlove>Ist jetzt wirklich die die Frage, wie man, wie man da jetzt die Schuld gibt. Da hat ein Typ gehen alle schön und gut, aber ich glaube, der,
+
+01:20:59.685 --> 01:21:13.097
+<v Tim Pritlove>Äh das Problem entsteht halt schon viel früher. Ja, das sind halt alles so solche äh Textladungen. Ja, da hast du da eine Komma separierten Tabellen als Text, dann lädst du das irgendwie rein und bevor du überhaupt nur die Gelegenheit hast,
+
+01:21:13.434 --> 01:21:21.954
+<v Tim Pritlove>irgendwas auf irgendwas einzustellen, ist da schon ein Datum drin, weil Excel einfach schon sagt, so, och, da steht March One drin. Das kann, kann so nicht gewesen.
+
+01:21:21.704 --> 01:21:33.263
+<v Linus Neumann>Mit mir keinen Streit über Excel ein an, wenn du Komma separierte Daten in Excel reinmachen möchtest, dann machst das über den CSV Importer und da kannst du sehr wohl für jede Spalte den Datentyp angeben.
+
+01:21:33.889 --> 01:21:43.695
+<v Tim Pritlove>Auto Conversion ist einfach evil. Das kannst du drehen und finden, wie du willst, das ist einfach also zumindest ohne Warnung, ist es Evil.
+
+01:21:43.786 --> 01:21:46.117
+<v Linus Neumann>Wir Autokorrekt, nur schlimm.
+
+01:21:45.817 --> 01:21:50.119
+<v Tim Pritlove>Ja, genau, das ist genau, genau das.
+
+01:21:49.819 --> 01:21:51.260
+<v Linus Neumann>Okay.
+
+01:21:51.027 --> 01:21:55.876
+<v Tim Pritlove>Also wirklich das das.
+
+01:21:56.963 --> 01:22:11.343
+<v Tim Pritlove>Das ist einfach immer der Tod. So und du kannst nichts dagegen machen und es ersetzt dein harmloses Wort immer in die peinlichste Phrase, in dem Moment, wo es wirklich mal wichtig gewesen wäre, richtig.
+
+01:22:11.337 --> 01:22:14.792
+<v Linus Neumann>In dem Moment, ne, wo du, na ja, okay. Ich glaube, wir.
+
+01:22:14.492 --> 01:22:18.155
+<v Tim Pritlove>Desaster, alles wird dadurch ausgelöst werden, ne.
+
+01:22:17.905 --> 01:22:19.630
+<v Linus Neumann>Trennung äh.
+
+01:22:19.379 --> 01:22:22.838
+<v Tim Pritlove>Fünfte Weltkrieg wird durch Autokorrekt ausgelöst. Ich sag's dir.
+
+01:22:23.271 --> 01:22:34.418
+<v Linus Neumann>Wobei also eine Trennung, sag mal, wenn du wenn du für deine Trennung Excel brauchst, dann hast du hier noch ganz andere Probleme.
+
+01:22:37.555 --> 01:22:44.242
+<v Linus Neumann>OK Männer.
+
+01:22:43.942 --> 01:22:45.354
+<v Tim Pritlove>Habe ich eh schon die halbe Welt.
+
+01:22:45.054 --> 01:22:50.150
+<v Linus Neumann>In den Kommentaren. Okay, ähm lassen wir das. Äh,
+
+01:22:50.595 --> 01:22:56.189
+<v Linus Neumann>und ledige Frauen, natürlich. Äh kommen wir äh zur Stellenausschreibung.
+
+01:22:57.469 --> 01:23:09.721
+<v Linus Neumann>Es gibt äh mal wieder ein Jobangebot für die engagierte Kommunikatorin und Campain Managerin. Ähm und zwar hat EpiCenter Works,
+
+01:23:10.010 --> 01:23:17.827
+<v Linus Neumann>einen, den die Position einer Communication, boah, das ist ein englisch hier, also eine Kommunikations- und
+
+01:23:17.756 --> 01:23:27.178
+<v Linus Neumann>Managerin, Kommunikations- und Kampagnenmanagerin oder Communication Pain Manager. Maenjoy in ähm Viena, äh Wien,
+
+01:23:27.436 --> 01:23:35.416
+<v Linus Neumann>Wer kennt äh es nicht? Die Stadt der was ist was ist was ist wie in die Stadt? Der Österreicher, ne? Wie in ist.
+
+01:23:35.116 --> 01:23:41.449
+<v Tim Pritlove>Konferenzen. Führende Konferenzstadt in Europa. Aber ist eigentlich der Musik.
+
+01:23:41.581 --> 01:23:45.665
+<v Linus Neumann>Musik, der Kaffeehäuser, ähm.
+
+01:23:45.415 --> 01:23:46.437
+<v Tim Pritlove>Des Schnee.
+
+01:23:47.238 --> 01:23:50.841
+<v Linus Neumann>Also die Hauptstadt von Ibiza. So und ähm.
+
+01:23:55.703 --> 01:23:58.064
+<v Linus Neumann>So, Hauptsache Hauptsache.
+
+01:23:58.126 --> 01:24:00.570
+<v Tim Pritlove>Läufst auf dem Ruder hier.
+
+01:24:00.660 --> 01:24:04.403
+<v Linus Neumann>Ähm da kann man mit einem,
+
+01:24:04.602 --> 01:24:12.246
+<v Linus Neumann>besonderen Team arbeiten, nämlich mit ist ja die die Fortführung des AK
+
+01:24:12.143 --> 01:24:23.512
+<v Linus Neumann>Vorrat Österreich mit anderen Mitteln gegründet äh und ich glaube auch geleitet von Thomas Lohninger, den unsere Hörerinnen hier ja sicherlich aus vielen Auftritten im Lokbuch kennen und schätzen.
+
+01:24:24.348 --> 01:24:34.599
+<v Linus Neumann>Und äh wem Netzpolitik äh eine Herzensangelegenheit ist und wer was in Europa und der Welt bewegen will, äh möge sich gerne dort bewegen, äh äh bewerben.
+
+01:24:34.461 --> 01:24:42.657
+<v Linus Neumann>Für Menschen außerhalb von Wien gibt es die Möglichkeit einen eines Umzugsbonus oder auch äh teilweise das äh
+
+01:24:42.520 --> 01:24:49.898
+<v Linus Neumann>zu Zeiten von Corona, aber es wäre natürlich dann schon das Ziel, äh früher oder später dann auch vor Ort mit dem Team
+
+01:24:49.784 --> 01:24:59.309
+<v Linus Neumann>zu arbeiten. Die Bewerbungsfrist ist bis zum fünfzehnten September. Das sind ab jetzt also noch etwas über zwei Wochen. Könnt ihr euch auf jeden Fall mal anschauen. Ähm.
+
+01:24:59.928 --> 01:25:14.115
+<v Linus Neumann>Hat's ja auch ohne Kommunikations- und Campaign-Managerin äh oder zumindest mit der alten äh schon weit gebracht. Äh das heißt, hier äh hat man auf jeden Fall ein kräftiges, kräftiges Team,
+
+01:25:14.398 --> 01:25:15.317
+<v Linus Neumann>ähm,
+
+01:25:15.786 --> 01:25:26.553
+<v Linus Neumann>Seite und gerade von Thomas Lohninger äh denke ich, kann man da auch noch eine Menge lernen über über dieses über den politischen Bereich in Österreich und äh in Europa.
+
+01:25:27.576 --> 01:25:32.677
+<v Linus Neumann>Das ist schon, denke ich, eine Premiumstelle, die da zur Verfügung steht.
+
+01:25:32.888 --> 01:25:37.502
+<v Tim Pritlove>Genau. Das bringt uns ans Ende der Sendung.
+
+01:25:37.467 --> 01:25:47.597
+<v Linus Neumann>Das bringt uns ans Ende der Sendung, gibt es Zellgerasche los, ich werde gerne nochmal danken und äh zwar.
+
+01:25:48.204 --> 01:25:54.592
+<v Linus Neumann>Ähm Lena und Thomas würde ich gerne danken.
+
+01:25:55.278 --> 01:26:04.230
+<v Linus Neumann>Und dem kann ich auch erzählen, dem äh kann ich ja freundlich grüßen, dem Mitarbeiter bei der äh Apple-Hotline.
+
+01:26:05.012 --> 01:26:12.432
+<v Linus Neumann>Der dann so am Ende meines äh Falles, der da behandelt wurde, sagte, ja ich dürfte ich noch eine Frage stellen, sind sie der Linus Neumann?
+
+01:26:12.415 --> 01:26:22.336
+<v Linus Neumann>Ich habe mich gefragt, welcher denn? Woraufhin dann so eine Beschreibung kam, die eventuell auf mich passen könnte, von der ich mich auch etwas gebrauchpinselt fühlte? Und dann habe ich gesagt, ja,
+
+01:26:22.727 --> 01:26:29.492
+<v Linus Neumann>würde ich auch gerne grüßen, weil das fand ich sehr äh war eine angenehme Überraschung so freundlich, gelobt zu werden.
+
+01:26:29.721 --> 01:26:36.673
+<v Tim Pritlove>Genau, wir bedanken uns auch noch für äh die Verleihung der goldenen Schallplatte. Und ähm genau.
+
+01:26:38.092 --> 01:26:48.631
+<v Tim Pritlove>Euch dazu leider nicht äh preisgeben, aber offensichtlich wollen wir äh würdig genug dafür.
+
+01:26:48.962 --> 01:26:54.003
+<v Linus Neumann>Namentlich haben wir dafür schon letzte Sendung gedankt, aber äh genau.
+
+01:26:54.923 --> 01:27:03.119
+<v Tim Pritlove>Und das war's eigentlich. Insofern müsst ihr, müsst ihr jetzt einen anderen Podcast hören, wenn der jetzt vorbei ist.
+
+01:27:01.528 --> 01:27:11.554
+<v Linus Neumann>Na ja, kann ja auch mal was anderes machen. Kommt Kinder, geht raus, äh ne, bevor ich da die ganze Werbung wieder anhören müsst.
+
+01:27:09.778 --> 01:27:14.849
+<v Tim Pritlove>Viel Spaß dabei. Ciao.
+
+01:27:12.844 --> 01:27:15.787
+<v Linus Neumann>Auf Wiederhören. Tschau, tschau.

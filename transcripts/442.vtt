@@ -1,0 +1,1949 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP442 Bundeskanzleramt e.V.
+Publishing Date: 2022-10-11T02:41:05+02:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp422-bundeskanzleramt-e-v
+
+00:00:00.005 --> 00:00:01.572
+<v Tim Pritlove>Guten Morgen Linus.
+
+00:00:00.006 --> 00:00:02.799
+<v Linus Neumann>Guten Morgen Tim.
+
+00:00:03.078 --> 00:00:05.966
+<v Tim Pritlove>Weißt du was? Ampeln gibt's auch ohne Gelb.
+
+00:00:06.351 --> 00:00:08.785
+<v Linus Neumann>Ich kenne nur Ampeln ohne Gelb, ich bin Radfahrer.
+
+00:00:29.955 --> 00:00:44.514
+<v Tim Pritlove>Logbuchnetzpolitik Nummer vierhundertundzweiundvierzig vom zehnten zehnten zweiundzwanzig. Schöne Zahlen sind das. Ja und äh die Welt ist in Bewegung weiterhin,
+
+00:00:44.575 --> 00:00:50.145
+<v Tim Pritlove>Rollen schnurstracks auf die goldenen Zwanziger zu übrigens. Falls dir das noch nicht aufgefallen ist.
+
+00:00:50.404 --> 00:00:52.500
+<v Linus Neumann>Also dat Ding ist echt langsam durch.
+
+00:00:52.200 --> 00:00:56.825
+<v Tim Pritlove>Na wieso kommt man muss ja auch ein bisschen einen Spannungsbogen aufbauen, ne,
+
+00:00:57.635 --> 00:01:04.290
+<v Tim Pritlove>Sonst hast du, hast du am Schluss einfach nicht den Comic Relief, so das ähm gehört einfach dazu.
+
+00:01:04.615 --> 00:01:06.496
+<v Linus Neumann>Okay, ja, bin ich sehr gespannt.
+
+00:01:06.196 --> 00:01:09.242
+<v Tim Pritlove>Ist ein bisschen dramatisch, aber na ja.
+
+00:01:08.942 --> 00:01:13.466
+<v Linus Neumann>Jeden Fall irre goldene Zwanziger, die sich da jetzt langsam ankündigen Tim. Also ich.
+
+00:01:13.166 --> 00:01:20.701
+<v Tim Pritlove>Crazy. Crazy. Crazy auf jeden Fall. So ist das.
+
+00:01:21.639 --> 00:01:27.942
+<v Linus Neumann>So, was haben wir erlebt? Wir machen, wir machen wir können ja jetzt schon sagen, wir werden sehr bald wieder eine Sendung machen, aber wir dachten uns, wir machen heute auch schon mal eine.
+
+00:01:28.225 --> 00:01:41.817
+<v Tim Pritlove>Genau mal abräumen, was noch so äh rumliegt damit ihr auch äh unterhalten seid so. Wir hatten ja auch ein paar mal mehr als eine Woche gebraucht. Jetzt äh kriegt ihr es halt extra.
+
+00:01:41.926 --> 00:01:49.244
+<v Linus Neumann>Ist wieder Winter, jetzt ist es jetzt führen wir uns wieder einsam. Jetzt zieht es uns wieder zueinander und.
+
+00:01:47.316 --> 00:01:55.433
+<v Tim Pritlove>Ja und ich muss mir ja bald einen dicken Pulli im Studio anziehen irgendwie oder äh ich drücke dir doch nochmal auf.
+
+00:01:55.500 --> 00:01:58.642
+<v Linus Neumann>Für Podcasts ja nur damit die Rechner warm werden.
+
+00:01:58.342 --> 00:02:03.850
+<v Tim Pritlove>Funktioniert ja bei diesen modernen Geräten auch nicht mehr so richtig.
+
+00:02:03.600 --> 00:02:05.469
+<v Linus Neumann>Ja, das stimmt.
+
+00:02:05.219 --> 00:02:09.621
+<v Tim Pritlove>Bei dir? Also ich habe jetzt hier siebzehn ,5 Grad. Das geht grad noch so.
+
+00:02:10.042 --> 00:02:20.708
+<v Linus Neumann>Also ich weiß nicht, wie warm ist, ähm weil die Heizhermostate, was also äh nicht realistische Werte anzeigen, aber äh ich heize nicht.
+
+00:02:21.207 --> 00:02:24.680
+<v Tim Pritlove>Gedöns bringt einen auch nicht weiter in der Krise.
+
+00:02:25.443 --> 00:02:29.727
+<v Linus Neumann>Doch heizt, heizt genauso. Ich finde ein analoges Thermostat, also.
+
+00:02:31.386 --> 00:02:36.944
+<v Linus Neumann>Schon, also ich ich bin mal gespannt, wie lange das wirklich ohne Heizen funktioniert, aber ähm,
+
+00:02:37.630 --> 00:02:47.640
+<v Linus Neumann>Was ich jetzt mal gebastelt habe, ist tatsächlich so konsequente Umsetzung von presence, also dass halt auch so andere Spielereien, die,
+
+00:02:48.103 --> 00:03:01.852
+<v Linus Neumann>notwendig sind, ausgehen oder auch kleinere Lichter, die halt normalerweise einfach um angehen, wenn's dunkel wird, dass die halt auch äh nur an sind, wenn ich da bin.
+
+00:03:02.002 --> 00:03:04.201
+<v Tim Pritlove>Dekofrei durch Weihnachten durch.
+
+00:03:05.518 --> 00:03:12.288
+<v Linus Neumann>Wenn ich da bin, will ich die Deko schon haben. Ich muss ja was sehen. Also ich muss ja schon was sehen. Jetzt komm.
+
+00:03:12.038 --> 00:03:15.300
+<v Tim Pritlove>Dann macht man Putzlicht an.
+
+00:03:13.980 --> 00:03:19.044
+<v Linus Neumann>Ja, nee, ich mache halt ein kleines bisschen hier. LED so.
+
+00:03:18.924 --> 00:03:21.333
+<v Tim Pritlove>Na ja.
+
+00:03:21.622 --> 00:03:25.017
+<v Linus Neumann>Ist wirklich sehr schön alles.
+
+00:03:25.858 --> 00:03:32.841
+<v Tim Pritlove>Frieren für den Weltfrieden auf jeden Fall. So was haben wir denn auf der Uhr heute? Gar nicht so viel.
+
+00:03:32.889 --> 00:03:38.880
+<v Linus Neumann>Wir haben natürlich natürlich das äh Böhmermann Thema.
+
+00:03:39.956 --> 00:03:52.893
+<v Linus Neumann>Hat äh eine Sendung gemacht, haben wahrscheinlich die meisten auch gesehen ähm einige Leute darauf auf Twitter sich gefreut, dass wir uns damit auseinandersetzen werden und
+
+00:03:52.845 --> 00:04:01.197
+<v Linus Neumann>ja ich sage mal so, ich glaube, ich äh komme da zum leicht differenzierteren Schluss zu, aber,
+
+00:04:02.015 --> 00:04:03.403
+<v Linus Neumann>Die Kurzgeschichte.
+
+00:04:03.153 --> 00:04:04.394
+<v Tim Pritlove>Hm.
+
+00:04:04.154 --> 00:04:10.493
+<v Linus Neumann>Die Kurzgeschichte äh oder die kurze Zusammenfassung. Ich will jetzt gleich gleich gehe ich da im Detail drauf ein. Ähm.
+
+00:04:11.624 --> 00:04:24.092
+<v Linus Neumann>Der Präsident des Bundesamtes für Sicherheit in der Informationstechnik pflegt Kontakte zu einem Verein, den er selber gegründet hat, welcher wiederum gute Kontakte zu russischen,
+
+00:04:24.639 --> 00:04:36.489
+<v Linus Neumann>ja Institutionen im weitesten Sinne pflegt und äh das hat jetzt dazu geführt, dass in zum jetzigen Zeitpunkt, heute ist ja Montag ähm,
+
+00:04:37.084 --> 00:04:41.735
+<v Linus Neumann>eigentlich in fast allen großen Medien kolportiert wird, dass man sich,
+
+00:04:41.915 --> 00:04:51.800
+<v Linus Neumann>Bundesinnenministerium darüber Gedanken macht, wie man den BSI-Präsidenten absetzen kann. Was nicht so ohne Weiteres geht, denn dieser Posten ist ein,
+
+00:04:52.347 --> 00:04:54.594
+<v Linus Neumann>Karrierebeamter,
+
+00:04:55.015 --> 00:05:05.434
+<v Linus Neumann>Ja? Wenn man den loswerden möchte, wenn sie sagen jetzt nicht irgendwie massive Verfehlungen hatte äh wirst du die nicht los, ist beamtet. Das heißt, du musst dem jetzt eben, du musst jetzt eine andere Verwendung für den finden.
+
+00:05:05.549 --> 00:05:09.989
+<v Linus Neumann>Ähm kannst ihn also nicht irgendwie so in einstweiligen Ruhestand schicken oder so
+
+00:05:09.978 --> 00:05:16.635
+<v Linus Neumann>Also es wird gar nicht so einfach, wenn wenn man das denn durchziehen möchte, aber ich würde sagen, nach dieser Sendung
+
+00:05:16.509 --> 00:05:27.043
+<v Linus Neumann>halte ich die Wahrscheinlichkeit jetzt schon für sehr groß, dass das passieren wird, weil er sich weil sag mal, es wird schwer, sich nach von dieser Sendung zu erholen. Also ähm.
+
+00:05:28.275 --> 00:05:30.943
+<v Linus Neumann>Von den für alle Schönbrunnen.
+
+00:05:31.244 --> 00:05:32.451
+<v Tim Pritlove>Von unserer Sendung.
+
+00:05:33.233 --> 00:05:41.531
+<v Linus Neumann>Von der Böhmermannssendung. Wir wir erholen uns ja von innerhalb von 48 Stunden von so einer Sendung, aber,
+
+00:05:41.675 --> 00:05:51.163
+<v Linus Neumann>ne also genau, worum geht es? Also es gibt mehrere äh Dinge, die da zusammenkommen und die auch bei Böhmermann, ich sage mal so ein bisschen
+
+00:05:51.843 --> 00:06:05.062
+<v Linus Neumann>vielleicht äh also du musst ich habe die Sendung auch zweimal geschaut, weil ich beim ersten Mal irgendwie dachte so nicht mitbekommen, da ist doch irgendwie überhaupt nix. Als ich das zweite Mal geguckt habe, habe ich mir gedacht, so na ja der ist ja jetzt ja wirklich überhaupt nix, aber okay, fangen wir mal an. Es,
+
+00:06:05.111 --> 00:06:13.962
+<v Linus Neumann>um den Cybersicherheitsrat EV. Ein Verein, ja der heißt,
+
+00:06:14.383 --> 00:06:17.213
+<v Linus Neumann>Also ist der Cybersicherheitsrat Deutschland EV,
+
+00:06:17.946 --> 00:06:30.372
+<v Linus Neumann>Und der heißt genauso, es gibt auch einen Cybersicherheitsrat, nämlich den nationalen Cybersicherheitsrat. Der wurde am 23. Februar 2011 von der deutschen Bundesregierung gegründet.
+
+00:06:31.533 --> 00:06:37.403
+<v Linus Neumann>Der etwas über ein Jahr später, nämlich im August zwanzig12,
+
+00:06:37.620 --> 00:06:42.264
+<v Linus Neumann>wird der Cybersicherheitsrat EV gegründet. Was in meinen Augen schon,
+
+00:06:42.788 --> 00:06:55.298
+<v Linus Neumann>Also du kannst doch nicht einfach Vereine gründen, die so heißen wie Gremien der deutschen Bundesregierung, oder? Weil sonst können wir ja auch einfach jetzt hier den Bundesamt für Sicherheit in der Informationstechnik EV gründen.
+
+00:06:55.587 --> 00:06:59.535
+<v Tim Pritlove>Oder Bundesregierung EV ja.
+
+00:06:57.474 --> 00:07:04.564
+<v Linus Neumann>Ja, Bundeskanzleramt EV. So, Vorsitzende des Bundeskanzleramt EV. Also das ist ja schon mal.
+
+00:07:04.324 --> 00:07:18.559
+<v Tim Pritlove>Das wäre der einfachste Weg, sozusagen Kanzler zu werden. Also das ist jetzt ah da kommen wir dann doch Ideen. Na gut.
+
+00:07:18.349 --> 00:07:22.531
+<v Linus Neumann>Also das ist schon wirklich ein bisschen schwach, ja und das ist halt ein,
+
+00:07:23.054 --> 00:07:32.837
+<v Linus Neumann>Es ist ein Lobbyverein durch und durch, ja? Nie irgendwas Vernünftiges gemacht, ganz klar. Gegründet von also Gründungspräsident ist Arne Schönbohm.
+
+00:07:33.787 --> 00:07:42.722
+<v Linus Neumann>2012 gründet der also diesen Lobbyverein. Das ist vier Jahre vor seiner äh vor seiner.
+
+00:07:43.191 --> 00:07:54.223
+<v Linus Neumann>Aufnahme als Präsident des äh Bundesamtes versichert in der Informationstechnik und da hat er dann auch den Vorsitz in diesem Verein, der absoluter äh Quatschverein ist
+
+00:07:54.169 --> 00:08:05.809
+<v Linus Neumann>und der so nie hätte existieren dürfen, weil der hätte hätte hätte die Bundesregierung verklagen sollen, statt den den Gründungspräsidenten dieses Vereines äh zum BSI-Präsidenten zu machen, aber,
+
+00:08:06.939 --> 00:08:18.067
+<v Linus Neumann>Das Gegenteil war der Fall, ja und er legt dann seinen Vorsitz nieder. Das heißt, er hat seit äh irgendwie Februar zwanzig16 oder wann ist er BSI-Präsident geworden auf Vorschlag von,
+
+00:08:18.284 --> 00:08:28.234
+<v Linus Neumann>Thomas de Maizire, dem damaligen Bundesinnenminister und Schönmum legt dann den Vorsitz in diesem Verein nieder, aber der Verein,
+
+00:08:28.517 --> 00:08:32.735
+<v Linus Neumann>hat es tatsächlich hat einen sehr großen Erfolg gehabt,
+
+00:08:32.784 --> 00:08:42.572
+<v Linus Neumann>viele Unternehmen, die dort Mitglied sind, irgendwie Automobilzulieferer, PWC, EY, Kommerzbank, ähm
+
+00:08:42.470 --> 00:08:52.649
+<v Linus Neumann>Das Bundesgesundheitsministerium. Alle wollten irgendwie im Cybersicherheitsrat sein, weil sie irgendwie meinten, ja hier, dann haben wir, ne, dann das da damit kann man sich ja auch schmücken, ne,
+
+00:08:52.692 --> 00:08:53.773
+<v Linus Neumann>also ist ja schon,
+
+00:08:53.864 --> 00:09:03.393
+<v Linus Neumann>relativ geschickt angelegt so ein Verein, der irgendwie heißt wie ein wie ein wie eigentlich wie so ein nationales Gremium, was aber eigentlich nicht ist, ne und dann,
+
+00:09:03.586 --> 00:09:10.935
+<v Linus Neumann>schmücken sich ja auch Unternehmen gerne damit in Cybersicherheitsrat Deutschland. Das das ist doch mal was.
+
+00:09:11.903 --> 00:09:15.225
+<v Linus Neumann>Ne? Da hat man was eigenes so und.
+
+00:09:13.820 --> 00:09:18.350
+<v Tim Pritlove>Kann man seine Zukunft mit planen.
+
+00:09:18.729 --> 00:09:21.787
+<v Linus Neumann>So was was passiert danach? Also schön mitm Tritt zurück,
+
+00:09:22.509 --> 00:09:33.992
+<v Linus Neumann>oder gibt den Posten da auf und es übernimmt Hans Wilhelm Dünn der war schon unter schönen Boom Vize und nach seinem Rücktritt dann eben Präsident dieses Vereins und,
+
+00:09:34.250 --> 00:09:41.425
+<v Linus Neumann>der äh geboren in Köln hat irgendwie Verwaltungswissenschaften in Potsdam studiert, war dann
+
+00:09:41.305 --> 00:09:51.400
+<v Linus Neumann>Referent im Wirtschaftsministerium von Brandenburg und dann auch irgendwie in der Potsdamer Stadtverordnetenversammlung, also ebenso Lokalpolitiker ebenso, ne?
+
+00:09:51.394 --> 00:10:00.396
+<v Linus Neumann>Außerdem, jetzt kommt's der Gag, Geschäftspartner von Arne Schönbum, nämlich in der BSS-Booke oder,
+
+00:10:00.558 --> 00:10:08.892
+<v Linus Neumann>Share Services AG. Ja? Die haben nämlich zusammen 2008 ein Unternehmen gegründet,
+
+00:10:09.253 --> 00:10:14.883
+<v Linus Neumann>Ja, also und genau dieses Unternehmen, ja? So und.
+
+00:10:15.851 --> 00:10:25.393
+<v Linus Neumann>Der dünn war bis 20019 Vorstand in diesem Unternehmen was er zusammen mit Schönbum 2008 gegründet hat. BSS-Booket
+
+00:10:25.376 --> 00:10:34.371
+<v Linus Neumann>Share Services. So, kannst dir bei North Data alles anschauen, ja und jetzt ist also so ne, schön bum verlässt diesen Verein, weil
+
+00:10:34.341 --> 00:10:42.892
+<v Linus Neumann>Lobbyvereinsmitgliedschaft lässt sich natürlich jetzt nicht unbedingt mit seinem neuen Posten da verbinden und übergibt den an seinen Geschäftspartner, nein
+
+00:10:42.862 --> 00:10:50.908
+<v Linus Neumann>ehemaligen Geschäftspartner, denn Schönbum verkauft auch seine Anteile an diesem Unternehmen und ist dann auch nicht mehr im,
+
+00:10:51.100 --> 00:11:01.610
+<v Linus Neumann>Vorstand dieses dieses Unternehmens, ja? Also der musste natürlich für seinen neuen Job äh ein paar Sachen äh aufgeben und äh die hat die hat der,
+
+00:11:01.821 --> 00:11:05.828
+<v Linus Neumann>Hans Wilhelm dünn dann eigentlich so ein bisschen schön weitergeführt.
+
+00:11:07.175 --> 00:11:13.772
+<v Linus Neumann>Also schon sehr klar, was das für ein Verein ist, weil wenn du jetzt nämlich daran denkst, dass die die beiden den quasi gegründet haben
+
+00:11:13.671 --> 00:11:22.263
+<v Linus Neumann>ja und damit ihr wirtschaftliches Interesse verfolgt haben, solche Vereine gibt es und ich sage mal so, die gibt es zuhauf.
+
+00:11:22.113 --> 00:11:31.018
+<v Linus Neumann>Ja, das ist etwas, was in Deutschland, ich glaube auch, in vielen anderen Ländern üblich ist, dass man sich irgendwie, ja, im weitesten Sinne Interessenverbände,
+
+00:11:31.409 --> 00:11:37.328
+<v Linus Neumann>äh Vereine und so weiter gründet, die dann irgendwie ne,
+
+00:11:37.370 --> 00:11:45.500
+<v Linus Neumann>zum Schnittchen äh ähm Essen da sind oder dass man da mal Businessnetworking macht und so weiter und das ist,
+
+00:11:45.777 --> 00:11:55.980
+<v Linus Neumann>muss man auch einfach sagen, ein bisschen auch der Grund gewesen, warum Arne Schönbumm überhaupt in in das BSI behoben wurde, ja.
+
+00:11:55.680 --> 00:11:57.699
+<v Tim Pritlove>Weil er ja Cyber-Präsident war.
+
+00:11:57.597 --> 00:12:04.729
+<v Linus Neumann>Na ja, jemand, der wirtschaftsnah ist, netzwerken kann, ähm,
+
+00:12:04.814 --> 00:12:11.670
+<v Linus Neumann>so ein freundliches Gesicht. Ja, ich meine, die der vorherige BSI-Präsident war jetzt nicht
+
+00:12:11.556 --> 00:12:26.037
+<v Linus Neumann>ein Posterboy, ja also das war eher ich glaube der äh Physiker, wenn ich mich nicht täusche und ähm so den BSI BSI für Bürger, ne, einen umtriebigen Menschen da mal hinkriegen, keinerlei Ahnung von äh von der Materie,
+
+00:12:26.368 --> 00:12:31.458
+<v Linus Neumann>was ihm zu Beginn seiner äh ähm seiner Karriere da,
+
+00:12:31.524 --> 00:12:44.804
+<v Linus Neumann>auch oft vorgeworfen wurde, dieser Begriff Cyberclown stammt ja aus der Zeit, ja, dass man also sagte, komm, das ist irgendwie der Rentner mit so einem Lobbyverband rum, der hat keine Ahnung, wovon er redet und jetzt soll der ausgerechnet das BSI leiten, schwierig.
+
+00:12:46.000 --> 00:12:54.731
+<v Linus Neumann>Allerdings ähm na ja komm mal komm mal nachher zu. Jetzt gucken wir uns erstmal weiter diesen Verein an. Ähm,
+
+00:12:54.953 --> 00:13:06.532
+<v Linus Neumann>Also dünn übernimmt diesen Verein, weil der ja jetzt also wie gesagt diesen Witzverein und hält 20019 bei einer Tagung in Garmisch-Partenkirchen,
+
+00:13:06.948 --> 00:13:13.287
+<v Linus Neumann>einen Vortrag und setzt sich in diesem Vortrag darauf dafür ein, dass Deutschland mehr Nähe zu Russland suchen soll,
+
+00:13:13.467 --> 00:13:24.716
+<v Linus Neumann>man sollte, er zitiert irgendwelche Leute, die sagen, man würde Russland zu oft zu schnell verdächtigen, dass sie das gehackt haben, nur weil man mal ein Schriftzeichen irgendwo findet.
+
+00:13:25.077 --> 00:13:35.731
+<v Linus Neumann>Irgendwie schon schon komisch genug ist, ja für ein Cybersicherheitsrat Deutschland, aber wie gesagt, der kann ja reden, was er will, aber damit nicht genug. Am zweiten Tag unterzeichnet dieser,
+
+00:13:35.923 --> 00:13:42.839
+<v Linus Neumann>Hans Wilhelm dünn eine irgendwie so einen Vertrag, so eine Absichtserklärung.
+
+00:13:43.711 --> 00:13:51.348
+<v Linus Neumann>Mit Wladislaff Scherz, der diese Tagung in Garmisch-Partenkirchen äh organisiert hat,
+
+00:13:51.913 --> 00:14:00.890
+<v Linus Neumann>da geht es um die Umsetzung von Beschlüssen des UN-Sicherheitsrates bezüglich der friedlichen Nutzung der Informationstechnologie.
+
+00:14:01.576 --> 00:14:08.865
+<v Linus Neumann>Und jetzt fühlt sich dieser dünnen Berufen mit diesem Vladislaff Scherz.
+
+00:14:09.766 --> 00:14:17.428
+<v Linus Neumann>Eine Absichtserklärung zu unterschreiben und zwar unterschreibt er die auf Englisch als Council und Cyber Security of Germany.
+
+00:14:17.782 --> 00:14:27.204
+<v Linus Neumann>Macht also jetzt hier Verträge. Mit mit einem Russen und der unterschreibt das äh im Namen der russischen Organisation
+
+00:14:27.109 --> 00:14:35.623
+<v Linus Neumann>NAIS, dem nationalen Verband für internationale Cybersicherheit. Das ist auch so eine ähnliche Organisation in diesem Fall gegründet von der,
+
+00:14:36.248 --> 00:14:43.615
+<v Linus Neumann>äh staatlichen Universität in Moskau und ein paar anderen staatlichen Stellen.
+
+00:14:43.730 --> 00:14:45.904
+<v Tim Pritlove>Ist jetzt dieser.
+
+00:14:46.392 --> 00:15:00.975
+<v Linus Neumann>Jahrzehnte lang KGB-Kader, Generaloperst AD und ähm war Generaldirektor des auf äh elektronische Überwachung spezialisierten Fabsi.
+
+00:15:01.348 --> 00:15:06.516
+<v Linus Neumann>FAPSI ein Nachrichtendienst, der dann später in den FSB integriert wurde.
+
+00:15:07.435 --> 00:15:18.660
+<v Linus Neumann>Der war also für die ab Abhöraktivitäten Russlands jahrzehntelang verantwortlich und ist natürlich mit staatlichen Stellen weiterhin sehr gut vernetzt. Äh,
+
+00:15:19.195 --> 00:15:23.473
+<v Linus Neumann>So, also ich meine, was reitet also dieser Dünn scheint wirklich.
+
+00:15:23.173 --> 00:15:37.805
+<v Tim Pritlove>Vor allem was ich meine dieser Verein hat ja erstmal jetzt meine, der tut jetzt zwar in seinem Namen sehr staatstragend, aber ist ja erstmal nur ein scheiß Verein was was bringt das, dass er jetzt eine Absichtserklärung.
+
+00:15:39.187 --> 00:15:42.492
+<v Tim Pritlove>Vogel äh macht, also wozu?
+
+00:15:42.811 --> 00:15:49.823
+<v Linus Neumann>Also es ist natürlich es waren damals und es war auch 20019 schon Thema, dass halt,
+
+00:15:50.220 --> 00:15:58.536
+<v Linus Neumann>Also viel die deutschen Sicherheitsbehörden waren sich ziemlich sicher, dass diese Tagung eben einen nachrichtendienstlichen Hintergrund hatte, ja. Also,
+
+00:15:58.645 --> 00:16:09.286
+<v Linus Neumann>dass es russische Stellen wahrscheinlich gemacht haben, um ihre Netzwerke auszubauen, ihren Einfluss auszuwerten mal zu gucken, was es da so für Unternehmen gibt, mal nachher einen Bericht zu schreiben, wie,
+
+00:16:09.551 --> 00:16:17.230
+<v Linus Neumann>völlig bekloppt die alle sind oder nach wie viel nach wie viel Glas Wodka die anfangen noch mehr Unsinn zu reden, ne.
+
+00:16:17.171 --> 00:16:18.366
+<v Tim Pritlove>Oder auszupacken.
+
+00:16:18.961 --> 00:16:33.767
+<v Linus Neumann>Oder so läuft das halt, ja? Also so läuft das ja auf solchen äh Verbandssitzungen oder so, ja? Aber ich meine, die sind dünn, dass der sich also dass der sich anschickt da irgendwas als Fedral
+
+00:16:33.696 --> 00:16:40.407
+<v Linus Neumann>republik of Germany oder also nicht Federal Republik, aber Germany Cyber Accounts sind irgendwas zu unterschreiben, vor allem,
+
+00:16:40.810 --> 00:16:50.136
+<v Linus Neumann>Was erwartet er denn jetzt, ja? Also ich meine, kommt dann kommen die Russen nach Hause und sagen, wir haben einen Friedensvertrag mit dem Cybersicherheitsrat oder was? Totaler Quatsch, ja.
+
+00:16:48.604 --> 00:16:54.757
+<v Tim Pritlove>Ja vor allem was versprechen sich die Russen davon? Also ich meine sie wissen doch zumindest mit wem sie's zu tun haben.
+
+00:16:55.034 --> 00:17:01.764
+<v Linus Neumann>Totaler, also der der scheint da wirklich äh also relativ der Name ist Programm.
+
+00:17:01.806 --> 00:17:09.377
+<v Tim Pritlove>Ich frage mich nur, ob der sich jetzt sozusagen damit selber aufwerten möchte, also was was für einen Zweck hat denn so eine Erklärung.
+
+00:17:10.585 --> 00:17:22.573
+<v Linus Neumann>Fragt also ich glaube wenn du den heute fragen würdest, falls der das selber nicht er wurde ja zwanzig19 damit auch konfrontiert ähm und hat dann so ungefähr dazu gesagt, dass äh,
+
+00:17:23.066 --> 00:17:31.076
+<v Linus Neumann>Ja, eher mit mit allen relevanten Akteuren spricht in seiner Rolle äh als äh Präsident des Cybersicherheitsrates.
+
+00:17:31.599 --> 00:17:35.589
+<v Linus Neumann>Und total lustig, wie so ein.
+
+00:17:35.289 --> 00:17:36.935
+<v Tim Pritlove>Mhm.
+
+00:17:36.635 --> 00:17:45.359
+<v Linus Neumann>Na ja und er hat Russland schmiert ihm dann auch noch weiter so ein bisschen Honig um ums Maul. Er war nicht zum Beispiel Wahlbeobachter in Russland.
+
+00:17:45.648 --> 00:17:48.033
+<v Tim Pritlove>Wirklich hat er was.
+
+00:17:46.790 --> 00:17:52.348
+<v Linus Neumann>Ja, auf Einladung, auf Einladung des russischen Parlaments, war der da, ja?
+
+00:17:52.769 --> 00:18:03.669
+<v Linus Neumann>Der Duma ähm nicht etwa als Mitglied der OSZE Delegation. Ja also es gibt Wahlbeobachter in Russland, ja, die werden aber dann von der OSZE dahin geschickt und es gibt halt,
+
+00:18:04.234 --> 00:18:10.087
+<v Linus Neumann>Die Wahlbeobachter in Russland EV. So und da sind halt.
+
+00:18:10.195 --> 00:18:17.664
+<v Tim Pritlove>Man gründet jetzt einfach zu allem den passenden Verein.
+
+00:18:17.851 --> 00:18:24.611
+<v Linus Neumann>Nee, aber ich habe das ja so die waren da waren Leute von der FPÖ von der AF
+
+00:18:24.467 --> 00:18:39.207
+<v Linus Neumann>D, also FPÖ sind die Faschisten in Österreich. AFD sind die Faschisten in Deutschland. Frau National sind die Faschisten in Frankreich, Lega Nord und Forza sind die Faschisten in äh Italien und das ist doch die äh UK Independence Party, ne? Also,
+
+00:18:39.880 --> 00:18:41.418
+<v Linus Neumann>Vollidioten in in.
+
+00:18:41.168 --> 00:18:43.425
+<v Tim Pritlove>Das sind die Faschisten in Großbritannien.
+
+00:18:43.155 --> 00:18:50.101
+<v Linus Neumann>So ja äh und alle EU-kritisch und Russland positiv,
+
+00:18:50.306 --> 00:19:02.053
+<v Linus Neumann>Mit denen war der dann da, ne? Die wurden halt dann war außerdem noch 2018rühmte äh also im äh später im gleichen Jahr, ne also ähm Wahlbeobachter in Simbabwe,
+
+00:19:02.462 --> 00:19:12.088
+<v Linus Neumann>für für die Associaion for free Research and International Corporation, Afrik, äh die eben auch als mit russischen,
+
+00:19:12.539 --> 00:19:19.365
+<v Linus Neumann>Propagandaspezialisten äh eng verwoben gilt. So, jetzt passiert zwanzig neunzehn.
+
+00:19:20.387 --> 00:19:26.252
+<v Linus Neumann>Deckkontraste diesen ganzen Kram auf, ja? Das ist alles Wasser unter der Brücke von zwanzig neunzehn.
+
+00:19:26.042 --> 00:19:35.047
+<v Tim Pritlove>Also Russland, Russland positiv klingt ja so ein bisschen wie ne? Ich freue mich, ob's da auch eine passende App gibt. Äh nicht so die die Russland-Warn-App.
+
+00:19:35.428 --> 00:19:36.467
+<v Linus Neumann>Das kommt gleich,
+
+00:19:39.484 --> 00:19:52.770
+<v Linus Neumann>Jetzt gibt's zwanzig neunzehn, also schon Kontraste Zeit setzt sich damit auseinandersagen, da da rennt irgendwie so ein Vogel rum, der unterschreibt irgendwie Verträge mit mit Russen, was ist das für einer?
+
+00:19:52.638 --> 00:19:56.628
+<v Linus Neumann>Ja? Konfrontieren den. Er sagt hier nein, ich mache hier
+
+00:19:56.520 --> 00:20:02.811
+<v Linus Neumann>äh mit allen relevanten Akteuren und so weiter. Was ja auch von mir aus also kann ja erstmal so machen
+
+00:20:02.727 --> 00:20:09.090
+<v Linus Neumann>ja als Wirtschafts äh Interessenvertreter ist das ja durchaus auch ähm.
+
+00:20:10.341 --> 00:20:15.376
+<v Linus Neumann>Osus, ja, dass man mit allen relevanten Akteuren versucht, Geschäfte.
+
+00:20:15.130 --> 00:20:20.063
+<v Tim Pritlove>Er hat sich nicht mit dem Bundeskanzleramt EV abgesprochen.
+
+00:20:19.823 --> 00:20:27.917
+<v Linus Neumann>Der Feinstaub war schon weg. Also es äh wirklich absolute Witzfigur ne, aber nochmal ne, diese
+
+00:20:27.773 --> 00:20:37.718
+<v Linus Neumann>dieser Verein, der ist ein Witz seit seiner Gründung und das war ja nun mal schon bekannt als Schönbum äh BSI-Präsident war, war wahrscheinlich sogar seine also sein Ticket, ja.
+
+00:20:38.451 --> 00:20:41.143
+<v Linus Neumann>So jetzt äh Konsequenz
+
+00:20:41.089 --> 00:20:50.757
+<v Linus Neumann>über diesen von diesem Bericht zwanzig neunzehn. Ich weiß nicht, wann genau das äh passiert ist, aber Schönwumm hat dann seinen Mitarbeitern im BSI die Weisung erteilt
+
+00:20:50.728 --> 00:21:01.297
+<v Linus Neumann>dass sie mit dem Cybersicherheitsrat Deutschland EV keine öffentlichen Auftritte abliefern sollen. Also distanziert sich schon davon, ja? Ähm,
+
+00:21:01.466 --> 00:21:09.746
+<v Linus Neumann>gewissermaßen, also nachdem er eben sieht, dass sein ehemaliger Geschäftspartner ähm ein bisschen,
+
+00:21:09.945 --> 00:21:13.201
+<v Linus Neumann>ja zu viel Vodka getrunken hat. So,
+
+00:21:13.316 --> 00:21:22.004
+<v Linus Neumann>Aber da ist wie gesagt aus diesem Verein schon längst raus, hä? So, jetzt tritt in diesen Verein, was ein Lobbyverein ist, ja, wo die natürlich auch über jedes Mitglied,
+
+00:21:22.059 --> 00:21:29.047
+<v Linus Neumann>wahrscheinlich zufrieden sind, weil jedes Mitglied musste wahrscheinlich irgendeine Form von Mitgliedsbeitrag zahlen und,
+
+00:21:29.762 --> 00:21:39.455
+<v Linus Neumann>stärkt natürlich durch die Anzahl der Mitglieder den den den Wert dieses Vereines, ja oder auch diese Bedeutung dieses Vereines und da tritt ein,
+
+00:21:39.792 --> 00:21:43.246
+<v Linus Neumann>die Protheon GmbH.
+
+00:21:44.196 --> 00:21:55.259
+<v Linus Neumann>Und zwar im Juni zwanzig 20. Ja, Juni 2020 vor also etwas mehr als zwei Jahren tritt die Protheon GmbH in diesem Verein ein,
+
+00:21:55.433 --> 00:22:04.368
+<v Linus Neumann>weiß leider jetzt gar nicht ganz genau, wie viele Mitglieder dieser Verein hat, aber es werden wahrscheinlich nicht wenige sein. Äh das haben wir Sicherheitsrat,
+
+00:22:04.994 --> 00:22:06.460
+<v Linus Neumann>DE oder was?
+
+00:22:08.137 --> 00:22:10.744
+<v Linus Neumann>Da kommt eine HTDP oh.
+
+00:22:10.444 --> 00:22:13.670
+<v Tim Pritlove>Mitgliederliste haben die, glaube ich, so gar nicht, oder?
+
+00:22:14.236 --> 00:22:16.561
+<v Linus Neumann>Über uns Mitgliedschaft.
+
+00:22:18.580 --> 00:22:32.395
+<v Linus Neumann>Vorteile Mitgliedschaft. Ne also guck mal hier, das sieht man. Vorteile an Mitgliedschaft. Erster Vorteil, Zugang zum Vereinsnetzwerk inklusive Entscheidungsträgern aus Politik, Wirtschaft, Wissenschaft und Gesellschaft, ne? Also ganz,
+
+00:22:32.617 --> 00:22:39.527
+<v Linus Neumann>Ganz klar, Einbindung in das internationale Netzwerk bestehend aus Köpfen der Cyber-Community.
+
+00:22:39.456 --> 00:22:48.271
+<v Linus Neumann>Siehst schon Bescheid, ne? Und dann wird's den Leiter des Präsidialbüros, das also die haben sich da, glaube ich, irgendwie echt,
+
+00:22:48.319 --> 00:22:54.712
+<v Linus Neumann>Total Quatsch irgendwie aufgezogen, können sich aber offenbar sogar ein,
+
+00:22:55.356 --> 00:23:02.446
+<v Linus Neumann>eine Adresse in äh Columbia in den USA leisten. Ja in Moskau haben sie keine.
+
+00:23:02.146 --> 00:23:12.295
+<v Tim Pritlove>Es gibt übrigens eine äh Mitgliederübersicht des Cybersicherheitsrats Deutschland. Komischerweise aber nicht mehr auf der aktuellen Webseite, wohl aber noch im Google cash?
+
+00:23:12.746 --> 00:23:13.965
+<v Linus Neumann>Aha.
+
+00:23:14.158 --> 00:23:23.977
+<v Tim Pritlove>Ich zähle mal so grob durch. Das sind immer so hier vier brutale, drei, vier, fünf, sechs, sieben,
+
+00:23:24.217 --> 00:23:27.588
+<v Tim Pritlove>achten,
+
+00:23:28.093 --> 00:23:40.465
+<v Tim Pritlove>Neunzehn, elf, zwölf. Das ist gar nicht so uninteressant. Ich lese mal vor, einfach die Namen hier, die meisten kenne ich nicht, Abartis Akronis AIG an Kura, Assikor, Aurasec, also so diverse Buden.
+
+00:23:40.652 --> 00:23:50.158
+<v Tim Pritlove>Avira Avenga, solche Start-Up Namen. Bayer AG, BDO, Bernsteingruppe und Bird Black Net.
+
+00:23:50.681 --> 00:23:53.042
+<v Linus Neumann>Bis jetzt erst bei Betim, ne? Das geht noch ein.
+
+00:23:52.742 --> 00:23:56.960
+<v Tim Pritlove>Ja äh wo du's sagst, aber jetzt wird's schon interessant hier.
+
+00:23:56.660 --> 00:23:58.841
+<v Linus Neumann>Irgendwann kommt ja C, dann kommen die ganzen Cyber.
+
+00:23:58.541 --> 00:24:06.358
+<v Tim Pritlove>Jetzt kommt doch erstmal Botschaft von Spanien, dann kommt, ich springe mal ein paar Bundesministerium für Gesundheit.
+
+00:24:06.942 --> 00:24:20.203
+<v Tim Pritlove>Äh Kobalt, habe ich doch auch schon mal gehört. Commerzbank Kontinental, ich lese jetzt mal nur die vor, die ich so ein bisschen kenne, aber jetzt ähm liefert leider der Cash äh nicht mehr. Sorry, also das geht hier wie.
+
+00:24:19.903 --> 00:24:22.799
+<v Linus Neumann>Okay, also doch schon relativ viele, ne?
+
+00:24:21.826 --> 00:24:26.609
+<v Tim Pritlove>Ja, also wenn das bis D schon 16 sind, dann ist die Liste lang. Mhm.
+
+00:24:26.447 --> 00:24:37.095
+<v Linus Neumann>Aufnahmebeitrag 1000 Euro Jahresbeitrag zweieinhalb, wenn ihr jetzt die Liste ist lang, dann weiß ja der Film hat äh der der Verein hat äh relativ viel,
+
+00:24:38.417 --> 00:24:52.568
+<v Linus Neumann>relativ viel Möglichkeiten, ja. Aber okay, jetzt jetzt und zu diesen Mitgliedern des Vereines, die also zweieinhalbtausend äh oder dreieinhalb im ersten Jahr und äh zweieinhalb für jedes Folgejahr zahlen, ist jetzt die Protheon GmbH,
+
+00:24:53.151 --> 00:25:02.549
+<v Linus Neumann>und die ist Tochterunternehmen des russischen Cyber-Security-Unternehmens AOA Infotext.
+
+00:25:03.217 --> 00:25:08.360
+<v Linus Neumann>Und die hieß auch vorher, Infotext GmbH hat sich nur umbenannt.
+
+00:25:10.391 --> 00:25:16.821
+<v Linus Neumann>Und dieses Infotext wurde 1991 von Andre Cha Cha F gegründet.
+
+00:25:17.873 --> 00:25:25.107
+<v Linus Neumann>Der hat zuvor ein Jahrzehnt in der Forschungsabteilung des KGB gearbeitet äh und hat äh dann,
+
+00:25:25.174 --> 00:25:38.916
+<v Linus Neumann>äh irgendwie vor Kurzem vom Putin per Dekret, von Putin persönlich, den russischen Verdienstorden für das Vaterland verliehen bekommen, weil er eben 30 Jahren,
+
+00:25:39.079 --> 00:25:46.367
+<v Linus Neumann>oder weil er zu 30 Jahren Tätigkeit von Infotext ja also das heißt irgendwie
+
+00:25:46.332 --> 00:25:53.242
+<v Linus Neumann>ja vor vor kurzem ne, also wenn er 91 gegründet hat, hat er also irgendwie im Juni 221 für 30 Jahre Infotex
+
+00:25:53.236 --> 00:26:03.439
+<v Linus Neumann>den Verdienstort für das Vaterland bekommen, nachdem er bevor er dieses Unternehmen gegründet hat beim KGB war. Kannst du jetzt auch ungefähr vorstellen
+
+00:26:03.301 --> 00:26:13.198
+<v Linus Neumann>warum der diesen Orden bekommen hat, ne? Das ist jetzt selten, dass ein Präsident jemanden zum 30-jährigen Firmenjubiläum Verdienstorden
+
+00:26:13.138 --> 00:26:15.121
+<v Linus Neumann>ähm kippt, ja,
+
+00:26:15.890 --> 00:26:23.281
+<v Linus Neumann>und dieser äh KGB ehemalige KGB Offizier Andre Chapchie war,
+
+00:26:23.486 --> 00:26:32.289
+<v Linus Neumann>auch in Deutschland der Chef von Infotext, bevor das Unternehmen dann 20022 in Protheon GmbH umbenannt wurde.
+
+00:26:33.996 --> 00:26:43.369
+<v Linus Neumann>Dann gibt's natürlich Berichte äh der also muss man also jetzt nicht so viel Mühe für geben, der also Infotext beziehungsweise Proteine und enge Beziehungen zum russischen Geheimdienst unterstellt.
+
+00:26:44.295 --> 00:26:57.779
+<v Linus Neumann>Und auf dem auf ihre russischen Webseite werben sie auch damit, dass sie Lizenzen von SFB, also dem russischen Geheimdienst und FST einer äh eher technischen Behörde nutzen,
+
+00:26:58.014 --> 00:27:10.356
+<v Linus Neumann>So, also es ist relativ naheliegend, dass dieses Unternehmen ähm mit den Sicherheitsprodukten, die es ja vermarktet, irgendwie sehr eng mit Russland zusammenarbeitet.
+
+00:27:10.321 --> 00:27:18.024
+<v Linus Neumann>Das steht uns deshalb auch unter Beobachtung des FBI. So jetzt.
+
+00:27:17.724 --> 00:27:19.280
+<v Tim Pritlove>Wann sind die dazu gekommen?
+
+00:27:19.731 --> 00:27:23.300
+<v Linus Neumann>220 sind die da.
+
+00:27:22.014 --> 00:27:23.612
+<v Tim Pritlove>Mhm, jüngst.
+
+00:27:24.436 --> 00:27:27.308
+<v Linus Neumann>Ja und jetzt sagt der dünn,
+
+00:27:27.338 --> 00:27:41.898
+<v Linus Neumann>Ja, die haben sich in dem Verein nie nennenswert eingebracht. Kann mir auch vorstellen. Ich glaube nicht, dass das scheint mir jetzt nicht irgendwie so ein basisdemokratischer Verein zu sein, ehrlich gesagt. Ich glaube, das ist eher so ein Verein äh wo du,
+
+00:27:42.553 --> 00:27:46.783
+<v Linus Neumann>ähm bezahlst und äh.
+
+00:27:47.817 --> 00:27:50.983
+<v Tim Pritlove>Wirst du auch informiert und eingeladen, genau.
+
+00:27:48.869 --> 00:27:54.787
+<v Linus Neumann>Den Veranstaltung gehst, ja? Nur noch auf zwei Veranstaltungen waren die ähm.
+
+00:27:55.755 --> 00:28:01.764
+<v Linus Neumann>Und auch das ist jetzt nix Neues, ja? So und jetzt kommt das einzige Neue,
+
+00:28:02.329 --> 00:28:16.143
+<v Linus Neumann>Was man jetzt, was Böhmermann jetzt bringt. Jetzt hat der Schönwurm ja eigentlich schon 20019 oder wann gesagt, Leute, im eigenen Haus, ne, haltet euch bitte von diesem Cybersicherheitsrat Deutschland EV fern.
+
+00:28:17.514 --> 00:28:22.699
+<v Linus Neumann>Nachdem der im Öffentlichen der Kritik war, weil der dünnen irgendwelche Sachen unterschreibt,
+
+00:28:22.970 --> 00:28:30.758
+<v Linus Neumann>So und jetzt wird er aber wird dieser Verein 10 Jahre alt, den SchönoMair selber gegründet hat und,
+
+00:28:31.191 --> 00:28:40.234
+<v Linus Neumann>Er wird dann angefragt, ob er denn nicht vielleicht eine Festrede äh halten könnte und jetzt ist das so, der ist da gar nicht unbedingt frei
+
+00:28:40.090 --> 00:28:51.585
+<v Linus Neumann>in der Wahl oder ne, dass ob er das macht oder nicht, weil er ja auch eben von seiner Position schwer zu trennen ist und insbesondere es ist ja hier ein Lobbyverband, ne, also muss er sich das genehmigen lassen.
+
+00:28:52.679 --> 00:29:00.406
+<v Linus Neumann>Und stellt also eine Anfrage an das Innenministerium, ob er denn da eine Festrede zum zehnjährigen Bestehen dieses Vereines halten darf.
+
+00:29:01.308 --> 00:29:12.569
+<v Linus Neumann>Und diese äh dieser Antrag wird geprüft oder was auch immer und wird am Ende genehmigt von Staatssekretär Markus Richter, dem sogenannten Bundes-CIO.
+
+00:29:14.336 --> 00:29:18.974
+<v Linus Neumann>So und jetzt geht er zu dieser Veranstaltung, hält wahrscheinlich einen freundlichen,
+
+00:29:19.155 --> 00:29:27.008
+<v Linus Neumann>Vortrag und twittert dann äh so was wie herzlichen Glückwunsch zum Zehnjährigen lieber Cybersicherheitsrat Deutschland EV,
+
+00:29:27.165 --> 00:29:33.132
+<v Linus Neumann>Ihr erfüllt eine wichtige Funktion als Impulsgeber und Austauschplattform, um Awareness und Management Attention,
+
+00:29:33.192 --> 00:29:38.630
+<v Linus Neumann>für das Thema Cybersicherheit zu schaffen. Habe mich gefreut die Kino zum zehnjährigen Jubiläum,
+
+00:29:38.649 --> 00:29:50.390
+<v Linus Neumann>mit etwa 300 Teilnehmenden in Berlin halten zu dürfen. Ich wünsche dem Präsidium und den vielen Mitgliedern gutes Gelingen für die kommenden zehn Jahre und taggt außerdem noch Manuel Höferlin von der FDP, der auch
+
+00:29:50.348 --> 00:29:56.964
+<v Linus Neumann>da ist. So und,
+
+00:29:57.283 --> 00:30:01.891
+<v Linus Neumann>Das ist das Einzige, was was der Stimmung um sich hat zu Schulden kommen lassen seit,
+
+00:30:02.252 --> 00:30:08.453
+<v Linus Neumann>2019 beziehungsweise seit Gründung dieses Vereines die was ich denke absolut nicht in Ordnung ist,
+
+00:30:08.478 --> 00:30:16.679
+<v Linus Neumann>Nur genau dafür hat er ja also der Vater sich ja offenbar die Genehmigung von Markus Richter geben lassen. Jetzt wird,
+
+00:30:16.938 --> 00:30:27.033
+<v Linus Neumann>Die Sendung macht natürlich äh also Böhmermann Style macht natürlich sehr viel Wind und sagt dann hier der Cyber-Clown ist ein Risiko für die deutschen kritischen Infrastrukturen und so weiter,
+
+00:30:27.797 --> 00:30:34.142
+<v Linus Neumann>und also ich ich meine.
+
+00:30:35.272 --> 00:30:46.148
+<v Linus Neumann>Also da ist nichts bei, was man nicht vorher wusste, ne, dass dieser Verein irgendwie fischig ist, war allen klar. Übrigens nach äh Medienbericht die einzigen, die damals 20019 ausgetreten sind,
+
+00:30:46.455 --> 00:30:52.181
+<v Linus Neumann>oder von denen ich es weiß, es sind vielleicht noch andere ausgetreten, wann der Bund der deutschen Kriminalbeamten
+
+00:30:52.145 --> 00:31:06.194
+<v Linus Neumann>ein bisschen zu heiß. Die haben sich überlegt, was? Nee. Äh wir treten aus in Reaktion auf diese Enthüllung von Kontraste und Zeit, die übrigens auch nicht ohne sind, ne. Nur jetzt ist halt die und natürlich hat Stimmung damit echt einfach mal ein sehr schlechtes
+
+00:31:06.189 --> 00:31:14.985
+<v Linus Neumann>bewiesen, dass er überhaupt bei seinem ehemaligen Geschäftspartner und Gründungskumpel von diesem Verein zu zehnjährigen spricht, nachdem er weiß, dass dieser Laden,
+
+00:31:15.286 --> 00:31:22.377
+<v Linus Neumann>problematisch ist, aber sag mal,
+
+00:31:22.960 --> 00:31:27.604
+<v Linus Neumann>Also der ja ist Netzwerker, also net,
+
+00:31:27.635 --> 00:31:36.654
+<v Linus Neumann>Netzwerker, kein Techniker, muss er für den Job aber auch nicht notwendigerweise sein, ja. Er hat sich aus den hat sein Haus machen lassen, aus den
+
+00:31:36.444 --> 00:31:53.029
+<v Linus Neumann>aus den Entscheidungen da eher rausgehalten. Das ist ein klassischer Führungsstil. In der Regel sogar ein ziemlich guter, ja, weil wenn man sich da raushält, was die Leute machen, kommt vielleicht doch was Vernünftiges bei raus. Er sollte die äh Beziehung zur Industrie verbessern, hat er gemacht.
+
+00:31:52.837 --> 00:31:59.380
+<v Linus Neumann>Kreis der Hoflieferanten der Bundesregierung ein bisschen erweitern, ansonsten das BSI nicht aussehen lassen, ist ihm alles ganz gut gelungen.
+
+00:32:00.132 --> 00:32:14.319
+<v Linus Neumann>Ähm ich glaube, dass eins der einzige Fehltritt, der mir irgendwann mal aufgefallen ist, ist, dass er sich für Hackback ausgesprochen hatte, sonst fällt mir jetzt gerade nichts ein ja und jetzt stellt sich natürlich die Frage.
+
+00:32:15.720 --> 00:32:17.288
+<v Linus Neumann>Was ist denn.
+
+00:32:18.346 --> 00:32:26.511
+<v Linus Neumann>Wenn der jetzt weggeht, wer wird ihn dann da hingesetzt? Ja, ich würde mir ja ähm ich meine, er war jetzt nicht bekannt dafür, die,
+
+00:32:26.872 --> 00:32:30.429
+<v Linus Neumann>größte Widerborstigkeit gegenüber dem BMI zu zeigen,
+
+00:32:30.430 --> 00:32:44.040
+<v Linus Neumann>Aber er hat immerhin äh schon so gezeigt, dass er für den Prozess nicht zu haben ist, weil Nobilis Equities ist das äh die die der Prozess, den die USA haben, wo sie sagen
+
+00:32:43.908 --> 00:32:53.071
+<v Linus Neumann>dass sie von Fall zu Fall entscheiden ob ein Zero Day von dem sie Kenntnis erhalten ähm öffentlich,
+
+00:32:53.565 --> 00:32:59.501
+<v Linus Neumann>also ne, einer zugefügt wird, zugefügt wird oder.
+
+00:33:00.481 --> 00:33:06.538
+<v Linus Neumann>Ob man das geheim hält, um es selber offensiv zu nutzen. Und das ist,
+
+00:33:06.689 --> 00:33:19.830
+<v Linus Neumann>nach unserer Erkenntnis mit dem BSI nicht zu machen, was übrigens wahrscheinlich auch der Grund ist, dass man diese Citis gegründet hat, ne, die äh Behörde, äh die die die illegale Behörde, die erstens illegales tut und zweitens,
+
+00:33:19.932 --> 00:33:27.443
+<v Linus Neumann>also einfach die wurde ja einfach gegründet ohne dass es ein Gesetz dafür gibt, was diese Behörde tun soll,
+
+00:33:28.261 --> 00:33:35.556
+<v Linus Neumann>Und die Frage ist halt jetzt, jetzt feiern alle, ne, so ha ha ha äh der Cyber-Clown ist weg und so.
+
+00:33:36.373 --> 00:33:41.252
+<v Linus Neumann>Aber machen Sie nicht darüber Gedanken, wer als nächstes kommt. Wir haben gerade eine Innenministerin, die,
+
+00:33:41.595 --> 00:33:49.851
+<v Linus Neumann>Ähm ähnlich fachfremd ist, sagen wir mal wie der wie der Arne Schönwurm und die,
+
+00:33:50.200 --> 00:33:54.082
+<v Linus Neumann>Sich gerade insbesondere in Bereichen der IT-Sicherheit,
+
+00:33:54.461 --> 00:34:04.610
+<v Linus Neumann>von den dort dafür Verantwortlichen echt auf der Nase herumtanzen lässt, insbesondere von Andreas Köhnen, der da sehr viel länger sitzt als Sie,
+
+00:34:05.223 --> 00:34:09.315
+<v Linus Neumann>der damals übrigens als äh BSI-Chef äh ähm,
+
+00:34:09.952 --> 00:34:17.637
+<v Linus Neumann>ja den Kürzeren gezogen hat, ja, äh hat glaube ich das falsche Parteibuch. Ähm und der,
+
+00:34:17.818 --> 00:34:30.521
+<v Linus Neumann>oder die ich weiß gar nicht ob den Parteibuch hat aber auf jeden Fall die falsche Parteisympathie den haben sie damals nicht dahin gesetzt. Der wäre von der technischen Kompetenz her sicherlich keine äh schlechte Besetzung gewesen hatte, aber so ein bisschen blöde Vergangenheit beim BND
+
+00:34:30.485 --> 00:34:35.244
+<v Linus Neumann>Und ähm sitze jetzt im Innenministerium und mache da,
+
+00:34:35.647 --> 00:34:43.789
+<v Linus Neumann>ja, dem ist glaube ich inzwischen oder dem scheint im Moment relativ egal zu sein, wer unter ihm äh Innenministerin ist, ja und,
+
+00:34:43.891 --> 00:34:46.258
+<v Linus Neumann>Ich denke mir, dass der relativ,
+
+00:34:46.499 --> 00:35:01.215
+<v Linus Neumann>klar für so ein ist und dass der sich sicherlich auch schon eine Liste hat an Leuten, die er gerne lieber an der BSI Stelle hätte äh oder an der BSI-Spitze hätte, als den Anne Schönbum.
+
+00:35:02.285 --> 00:35:09.117
+<v Linus Neumann>Insofern ähm bin ich gerade nicht so unbedingt an dem Punkt, dass ich jetzt sage,
+
+00:35:09.424 --> 00:35:20.047
+<v Linus Neumann>Ich freue mich jetzt dadrüber, was da gerade passiert. Hört klar, das BSI hätte sicherlich einen noch kompetenteren Präsidenten haben können. Das BSI hätte sicherlich einen,
+
+00:35:20.450 --> 00:35:23.593
+<v Linus Neumann>ja noch mutigeren Präsidenten haben können,
+
+00:35:23.761 --> 00:35:34.583
+<v Linus Neumann>diese ganze Clowns-Vereine und so, das hätte halt damals schon bestraft werden müssen, als man diesen Posten vergeben hat. Ja, aber jetzt irgendwie zehn Jahre existiert dieser Verein,
+
+00:35:34.776 --> 00:35:42.623
+<v Linus Neumann>mit einem ehemaligen Geschäftspartner vom dann BSI-Präsidenten und all diesen komischen ähm diesen komischen Verbindungen,
+
+00:35:43.020 --> 00:35:52.713
+<v Linus Neumann>dann jetzt nur für diese Rede, die man ihm genehmigt hat, ihn jetzt feuern zu wollen. Finde ich ein bisschen schwierig. Da müsste man mindestens den Markus Richter noch direkt mitfeuern.
+
+00:35:53.230 --> 00:36:00.687
+<v Linus Neumann>Und da würden sich glaube ich mehr Leute freuen. Muss ich ganz ehrlich sagen ähm insofern tja.
+
+00:36:00.405 --> 00:36:08.174
+<v Tim Pritlove>Kannst du noch mal sagen, welche Rolle dieser Andreas Köhnen spielt? Also der ist Abteilungsleiter.
+
+00:36:07.874 --> 00:36:20.030
+<v Linus Neumann>Der spielt aktuell gar keine Rolle. Ja, also der spielt in der in der offiziellen in diesem Fall keine Rolle. Aber wenn ähm ein neuer BSI-Chef bestellt wird,
+
+00:36:20.343 --> 00:36:27.932
+<v Linus Neumann>dann kann ich mir sehr gut vorstellen, äh dass der Andreas Köhn da äh durchaus mitspricht.
+
+00:36:27.842 --> 00:36:30.083
+<v Tim Pritlove>Also welche Abteilung leitet er denn.
+
+00:36:31.411 --> 00:36:33.592
+<v Linus Neumann>Dass wir kurz schauen.
+
+00:36:34.560 --> 00:36:47.299
+<v Linus Neumann>Also Andreas Köhn ist Abteilungsleiter im Bundesministerium des Innern für Bau und Heimat. Der vor war ja ministeriaal Dirigent im Innenministerium. Davor war er Vizepräsident des BSI.
+
+00:36:48.087 --> 00:36:53.555
+<v Linus Neumann>Und ähm ich will den jetzt auch gar nicht hier persönlich so
+
+00:36:53.435 --> 00:37:06.738
+<v Linus Neumann>hervorzerren, ja? Ich weiß nur, dass Azubi sowas wie das IT-Sicherheitsgesetz 1 und zwei, das waren so seine Gesetze. Hatte ich, glaube ich, auch damals erzählt, dass ähm,
+
+00:37:06.913 --> 00:37:13.348
+<v Linus Neumann>er damals bei der Anhörung zum IT-Sicherheitsgesetz zwei war er da, obwohl es sein Geburtstag war,
+
+00:37:13.505 --> 00:37:28.293
+<v Linus Neumann>Ja, er hatte da äh quasi noch so was wollte sich dann da an seinem Geburtstag noch die Anhörung im Bundestag anschauen von seinem Gesetz. Ja und äh das ist technisch äh durchaus ein kompetenter äh Mensch.
+
+00:37:28.155 --> 00:37:37.252
+<v Linus Neumann>Politisch äh stimme ich mit ihm jetzt nicht bei allem überein. Aber wie gesagt, ich finde ja jetzt gar nicht am Ende benennt den nächsten BSI-Chef, also erstens.
+
+00:37:36.995 --> 00:37:43.802
+<v Tim Pritlove>Ich hab's gefunden. Er ist Abteilungsleiter CI für Cyber- und IT-Sicherheit.
+
+00:37:44.422 --> 00:37:52.209
+<v Linus Neumann>Ah, ja, ja, ja, genau. Der ist das ist also er ist wenn ich das richtig im Kopf habe, ist er eigentlich dem ähm.
+
+00:37:53.399 --> 00:37:55.839
+<v Linus Neumann>Dem äh Schönbum vorgesetzt.
+
+00:37:55.809 --> 00:38:04.071
+<v Linus Neumann>Das war die einzige Möglichkeit, wie man ihm das damals äh wie man damals mit ihm umgehen könnte. Er war ja BSI-Fize war quasi,
+
+00:38:04.264 --> 00:38:13.607
+<v Linus Neumann>ja in einer guten da jetzt dann auch der Präsident zu werden und man musste ihm dann nachher irgendwie so einen Trostpreis geben und dann hat man gesagt, Kollege ist halt der Vorgesetzte von dem.
+
+00:38:14.581 --> 00:38:20.356
+<v Linus Neumann>Insofern also nach meinem Verständnis sitzt er könnt,
+
+00:38:20.843 --> 00:38:26.497
+<v Linus Neumann>quasi höher als der ähm als der.
+
+00:38:26.197 --> 00:38:28.895
+<v Tim Pritlove>Weil das BSI halt nach wie vor den BMI.
+
+00:38:29.748 --> 00:38:42.745
+<v Tim Pritlove>Unterstellt ist, genau. Außerdem war Herr Köhn von 88 bis 2006 beim Bundesnachrichtendienst beschäftigt. Und äh unter anderem hatte er dort den Posten des Sachgebietsleiters im Leitungsstab des BND-Präsidenten in Berlin.
+
+00:38:44.416 --> 00:38:48.039
+<v Linus Neumann>Aber wie gesagt, ich will jetzt gar nicht so viel auf äh Andreas Köhn rumreiten.
+
+00:38:47.992 --> 00:38:50.689
+<v Tim Pritlove>Den Namen mal klarstellen, ne.
+
+00:38:48.725 --> 00:38:59.210
+<v Linus Neumann>Ein neuer BSI-Chef, wenn ein neuer BSI-Chef bestellt werden sollte, ja, wenn Sie einen Weg finden, den Schönbomben loszuwerden und ich habe ich habe das auch schon getwittert, ich glaube,
+
+00:38:59.355 --> 00:39:07.335
+<v Linus Neumann>ähm rechtssicher wirst du den dafür nicht los. Also da müsste den musst du den Markus Richter mitgehen lassen, ja? Weil der,
+
+00:39:07.912 --> 00:39:19.184
+<v Linus Neumann>sicherlich wird der wird der äh gerade mit einem Zeltchen oder einer E-Mail wo ihm der Vortrag genehmigt wurde äh sitzen und sagen Leute was wollt ihr? Ja?
+
+00:39:19.810 --> 00:39:34.069
+<v Linus Neumann>Und das in irgendein Lobbyverein äh alle möglichen komischen Unternehmen sind und netzwerken wollen, ist auch klar. Also ich denke, da echt so leid es mir tut, aber ich glaube, daraus kann man sehr schwer eine äh Versetzung,
+
+00:39:36.322 --> 00:39:46.399
+<v Linus Neumann>Versetzung weiß ich nicht, aber irgendeine Form von Bestrafung ableiten, ja und wie gesagt mal ich habe eher Sorge, wenn hm.
+
+00:39:47.181 --> 00:39:52.174
+<v Linus Neumann>Das also Nancy Phaser wird da keine informierte Entscheidung treffen,
+
+00:39:52.830 --> 00:40:03.700
+<v Linus Neumann>und der Zuständige diese Position derjenige, der wahrscheinlich die Shortlist sich dann da zusammenstellt, ist auf jeden Fall Köhnen.
+
+00:40:04.193 --> 00:40:18.980
+<v Linus Neumann>Und was der würde sich jetzt wahrscheinlich da jemand anders hinsetzen, ja? Politisch ein bisschen flexibler. Wie gesagt, der der Schönwurm war da jetzt auch nicht der harte Typ, der für das BSI gekämpft hat, ne, aber der hat eben schon sich vorm eigenen Haus grob sagen lassen, weil,
+
+00:40:19.504 --> 00:40:22.454
+<v Linus Neumann>wie wie weit er wie weit er sich weich kochen lassen kann.
+
+00:40:26.751 --> 00:40:28.577
+<v Tim Pritlove>Also ich meine, das ist,
+
+00:40:28.932 --> 00:40:39.754
+<v Tim Pritlove>Also um's noch mal so zusammenzufassen, es gibt halt da irgendwie diesen Verein, der irgendwie eine Lobbygruppe ist, die irgendwie auf Cyber machen, sich genauso nennen wie so eine Bundesbehörde,
+
+00:40:40.325 --> 00:40:46.190
+<v Tim Pritlove>und äh der Typ, der den Laden gründet, wird dann irgendwann Chef vom BSI,
+
+00:40:46.250 --> 00:40:58.274
+<v Tim Pritlove>aber im Prinzip alle seine Verbindungen nach äh in diese Vergangenheit so und äh ist nicht mehr in irgendetwas beteiligt und ist auch kein mehr, weil sie aber dann auch Mitglied war, wahrscheinlich.
+
+00:40:58.190 --> 00:40:59.794
+<v Linus Neumann>Das weiß ich auch nicht genau.
+
+00:41:00.311 --> 00:41:09.859
+<v Tim Pritlove>Es kann sein, dass da sozusagen wirklich nur nur Organisationen Mitglied sind, nicht einzelne Personen, aber das weiß ich natürlich nicht. Gehen wir mal davon aus.
+
+00:41:09.980 --> 00:41:17.016
+<v Linus Neumann>Machen wir uns aber nix vor. Das ist sein ehemaliger Geschäftspartner, mit dem er diesen Verein jetzt zusammen gegründet hat, der vorher der Vize war, na ja.
+
+00:41:14.523 --> 00:41:28.746
+<v Tim Pritlove>Ja klar, das ist natürlich schon irgendwie fischig, aber ich meine, so sind halt irgendwie viele dann auch äh miteinander verbunden und sicherlich ist das jetzt irgendwie auch nix Neues. Nur jetzt, wo halt Böhmermann irgendwie mit dieser Story rauskommt und ihnen im Prinzip,
+
+00:41:29.059 --> 00:41:34.184
+<v Tim Pritlove>vorwirft, dass er einen Vortrag gehalten hat zu einer Zehn-Jahres-Feier,
+
+00:41:34.455 --> 00:41:41.485
+<v Tim Pritlove>Und das Schlimme da dran ist sozusagen, die Mitgliedschaft eines russischen Unternehmens, die aber erst eingetreten sind, nachdem er da weg war.
+
+00:41:42.597 --> 00:41:52.013
+<v Linus Neumann>Ja, das Schlimme sind ja zwei Dinge: erstens, dass der dünn offenbar äh ne also der scheint wirklich nicht ganz,
+
+00:41:52.770 --> 00:42:02.619
+<v Linus Neumann>knusper zu sein mit dem, was er da macht so, ne hm und das aber schon seit 20019 und da sehen wir auch seit 20019 bekannt und deswegen hat sie ja Schönbum selber,
+
+00:42:02.878 --> 00:42:06.976
+<v Linus Neumann>die ähm die Order damals rausgegeben, mit denen lieber nix mehr zu
+
+00:42:06.934 --> 00:42:15.154
+<v Linus Neumann>zuzusehen, dass man sich von denen distanziert. Und gegen diese eigene Order verstößt er jetzt eben ein paar Jahre später zu dem Zehnjährigen,
+
+00:42:15.840 --> 00:42:22.046
+<v Linus Neumann>dieses Vereins mit der Rede, mit dem Keynote zum zum Jubiläum.
+
+00:42:22.521 --> 00:42:29.533
+<v Tim Pritlove>Was er sich aber hat genehmigen lassen und was ja jetzt sagen wir mal irgendwie auch na ja okay also ich meine,
+
+00:42:30.381 --> 00:42:34.293
+<v Tim Pritlove>So eine Rede da, fünf Minuten. Also.
+
+00:42:35.627 --> 00:42:44.142
+<v Tim Pritlove>Ich also ich finde jetzt nur sozusagen diese Reaktion auf diesen Burgermann-Bericht von vom BMI finde ich halt irgendwie so oh hoppala.
+
+00:42:45.194 --> 00:42:53.450
+<v Tim Pritlove>Mit Russland ähm obwohl es die ganze Story irgendwie so richtig keinen kein Fleisch hat.
+
+00:42:53.516 --> 00:43:06.621
+<v Linus Neumann>Ja, das ist wirklich und wenn ich jetzt mal, ich meine, keine Ahnung, weißt du, kannst du dir ungefähr vorstellen, was ich so was für Nachrichten kriegt, ne? Und also ich denke, der Stimmung ist jetzt ruiniert.
+
+00:43:07.794 --> 00:43:11.435
+<v Linus Neumann>Und es ist schon ziemlich also.
+
+00:43:11.453 --> 00:43:13.947
+<v Tim Pritlove>Politisch demontiert, sagen wir es mal.
+
+00:43:13.671 --> 00:43:20.869
+<v Linus Neumann>Ja politisch demontiert, so der von dem Rufschaden wird er sich nicht erholen und ich bin mir nicht sicher,
+
+00:43:21.416 --> 00:43:24.409
+<v Linus Neumann>ne, also ja so,
+
+00:43:25.166 --> 00:43:36.042
+<v Linus Neumann>Nochmal, der Verein ist ein absoluter Clownsverein, den überhaupt gegründet zu haben, ist in meinen Augen schon ein eine schwerer Fehler, der ihn auch für die BSI-Präsidentschaft vollständig disqualifiziert hat.
+
+00:43:35.880 --> 00:43:43.944
+<v Linus Neumann>Die haben ja genau jemanden gesucht, der wirtschaftliche Netzwerke hat. Ja, sie wollten ja so jemanden haben, also haben sie den auch bekommen und ähm,
+
+00:43:44.756 --> 00:43:58.822
+<v Linus Neumann>Tja, also ich äh ich denke, wie gesagt, das Einzige, was Sie eben theoretisch vorwerfen könnten, wäre dieser Vortrag und den haben Sie ihm selber genehmigt, also weiß ich nicht, äh mit welcher Begründung man denen jetzt äh rauswerfen will.
+
+00:43:59.712 --> 00:44:01.935
+<v Linus Neumann>Kann ich mir keinen mehr beim besten Willen nicht vorstellen.
+
+00:44:03.198 --> 00:44:06.730
+<v Tim Pritlove>Das ist ja der Sohn von dem Jörg Schönbogen.
+
+00:44:06.430 --> 00:44:14.596
+<v Linus Neumann>Ja, das ist auch noch ein Grund, den loszuwerden, aber der war der auch schon immer.
+
+00:44:14.424 --> 00:44:16.547
+<v Tim Pritlove>Dieser CDU äh Hardliner da.
+
+00:44:17.747 --> 00:44:20.323
+<v Tim Pritlove>Tja.
+
+00:44:20.588 --> 00:44:31.848
+<v Linus Neumann>Also ich find's wirklich es ist ja ich glaube äh nicht das ist nix ja also wie gesagt ich werde mich jetzt hier nicht ähm.
+
+00:44:34.222 --> 00:44:34.889
+<v Linus Neumann>So
+
+00:44:35.719 --> 00:44:49.635
+<v Linus Neumann>Ich es gibt auf jeden Fall bessere Besetzungen für dieses Amt, ja, aber ich bin mir nicht unbedingt sicher, dass jetzt unter Nancy Phaser und ähm Andreas Köhn eine bessere Besetzung gefunden wird.
+
+00:44:51.607 --> 00:44:53.162
+<v Tim Pritlove>Warten wir's mal ab.
+
+00:44:53.499 --> 00:44:54.905
+<v Linus Neumann>Und,
+
+00:44:55.356 --> 00:45:03.558
+<v Linus Neumann>bin auch mal gespannt, ob sie nicht am Ende hingehen müssen, wohl oder übel und sagen müssen, na ja, der hat sich nix zu Schulden kommen lassen.
+
+00:45:04.213 --> 00:45:17.049
+<v Linus Neumann>Dann können sie halt nochmal den den können sie vielleicht nochmal den den Shitsonstrahl auf diesen Cybersicherheitsrad lenken, wo er auch hingehört. Wie gesagt absoluter Witz der Laden.
+
+00:45:17.794 --> 00:45:25.756
+<v Linus Neumann>Aber ich also ich glaube, wenn ich da jetzt an seiner Stelle irgendwie in unehrenhaft entlassen würde oder so was oder in irgendeine,
+
+00:45:26.201 --> 00:45:34.216
+<v Linus Neumann>in irgendeine ins Archiv versetzt würde oder so was, ja, dann würde ich äh mich rechtlich dagegen zur Wehr setzen.
+
+00:45:36.284 --> 00:45:49.756
+<v Tim Pritlove>Also ich meine, ist ja auch sehr ungewöhnlich, dass jetzt sozusagen dann auch so in die Nachrichten zu kolportieren, ohne jetzt auch gleich einen klaren Plan zu haben. Also ich meine, normalerweise, wenn man irgendwie so eine Versetzung ähm durchsetzen möchte, dann weiß man auch schon.
+
+00:45:50.802 --> 00:45:59.641
+<v Tim Pritlove>Wer dann diese Rolle übernimmt. Also da da fehlt mir so ein bisschen auch die klare Kommunikation von Anfang,
+
+00:45:59.810 --> 00:46:00.891
+<v Tim Pritlove>bis Ende,
+
+00:46:01.432 --> 00:46:13.900
+<v Tim Pritlove>Hier es gab diesen Bericht, wir haben uns das mal angeschaut. Dieser Aspekt gefällt uns nicht, deswegen denken wir, diese Person ist nicht mehr tragbar. Deswegen haben wir jetzt folgende Maßnahme konkret,
+
+00:46:14.514 --> 00:46:17.987
+<v Tim Pritlove>auch eingeleitet und führen die jetzt auch bereits durch.
+
+00:46:17.687 --> 00:46:22.830
+<v Linus Neumann>Also aktueller Stand ist ja, wir prüfen das und werden dann die notwendigen Konsequenzen ziehen.
+
+00:46:23.010 --> 00:46:26.195
+<v Tim Pritlove>Aber warum äußert man sich dann zu diesem Zeitpunkt denn überhaupt.
+
+00:46:25.955 --> 00:46:32.264
+<v Linus Neumann>Äh äh ja weil man gefragt wird, ne? Aber äh ich glaube für warte mal,
+
+00:46:32.583 --> 00:46:41.746
+<v Linus Neumann>Für diese Woche müsst ihr doch gewesen sein, war ähm BSI-Lagebericht. Das ist ja das große Ding. Einmal im Jahr,
+
+00:46:41.777 --> 00:46:52.893
+<v Linus Neumann>bis ihr Lagebericht, ne? Da wird die Lage des Cybersicherheit in Deutschland berichtet. Das ist äh was weiß ich, 50 bis 80 Seiten oder sowas, ja.
+
+00:46:52.768 --> 00:47:05.020
+<v Linus Neumann>Und dann äh fassen so ein paar Fälle zusammen und dann wird immer gesagt, yes unverändert Scheiße oder so was, ne und dann meistens äh äh werde ich dann auch noch in die Tagesschau oder Tagesthemen bestellt und muss da was zu sagen.
+
+00:47:04.870 --> 00:47:14.598
+<v Linus Neumann>Und das äh war auf jeden Fall für diese Woche angekündigt und dieser Termin wurde, wenn ich das jetzt richtig verstanden habe,
+
+00:47:14.803 --> 00:47:15.890
+<v Linus Neumann>abgesagt.
+
+00:47:17.735 --> 00:47:29.206
+<v Tim Pritlove>Wurde er. Äh lässt man sich echt, ja, das ist echt interessant. Bömmermann übernimmt jetzt hier die Rolle des Spiegel.
+
+00:47:29.946 --> 00:47:37.036
+<v Linus Neumann>Ja also ich ich sage ich,
+
+00:47:37.108 --> 00:47:45.136
+<v Linus Neumann>Eher Sorge, wer da als nächstes kommt, weil da muss, da müssen jetzt, ja, muss man auch mal ganz klar sagen. Da müssen jetzt,
+
+00:47:45.305 --> 00:47:52.713
+<v Linus Neumann>äh Digitalpolitikerin bei Grüne, FDP ähm,
+
+00:47:52.996 --> 00:48:02.779
+<v Linus Neumann>die ja an der Regierung beteiligt sind, echt aufpassen das nennt sie Phaser da jetzt nicht irgendeinen aus der ne von der Liste holt,
+
+00:48:03.248 --> 00:48:12.315
+<v Linus Neumann>der äh super aussieht und ähm dann aber am Ende eben nicht für einen unabhängigeres BSI eintritt,
+
+00:48:12.496 --> 00:48:20.043
+<v Linus Neumann>eben auch das Ziel war, ja und wir dürfen nicht vergessen, wir leben hier in einer äh wir leben hier gerade in einer Zeit,
+
+00:48:20.361 --> 00:48:28.437
+<v Linus Neumann>wo wir über Chatkontrolle und Vorratsdatenspeicherung diskutieren, ne? Wir leben hier in einer Zeit, wo grade das BSI-Defit auch natürlich,
+
+00:48:28.564 --> 00:48:39.434
+<v Linus Neumann>niemanden gefreut haben, ne? Diesem Gematikvorschlag äh die Zustimmung versagt hat, genau oder versagen wird genauso wie der äh äh Bundes äh Beauftragte für.
+
+00:48:40.330 --> 00:48:43.454
+<v Linus Neumann>Datenschutz und Informationsfreiheit. So,
+
+00:48:44.272 --> 00:48:51.747
+<v Linus Neumann>der ist jetzt weit davon entfernt ein großartig unbequemer Typ zu sein, ne? Aber am Ende muss man einfach sagen, hat er hier was,
+
+00:48:51.999 --> 00:49:01.247
+<v Linus Neumann>richtig übel falsch gemacht und da ist äh kann man muss man sagen ja hat er, aber das halt schon vor vor mehr als zehn Jahren oder vor vor zehn Jahren.
+
+00:49:02.095 --> 00:49:07.172
+<v Linus Neumann>Und äh wenn man ihn da wenn man ihm das damals nicht zur Last gelegt hat, dann kann man's auch heute nicht machen.
+
+00:49:09.450 --> 00:49:10.423
+<v Tim Pritlove>Aus,
+
+00:49:10.952 --> 00:49:24.646
+<v Tim Pritlove>Na ja, gucken wir mal, wer da demnächst äh auserkoren wird und wie äh die Busse noch weitergeht. Ich habe so den Eindruck, da kommt noch irgendwie noch mehr Fleisch für uns zum Kichern.
+
+00:49:23.042 --> 00:49:36.850
+<v Linus Neumann>Ich bin mal sehr gespannt, ja? Und die sind also dann sollte man natürlich wirklich auf zusehen, dass man die also dass man diesen Cybersicherheitsrat Deutschland EV jetzt echt mal abwickelt. Das ist ja das war schon immer wirklich ein absoluter Scherz.
+
+00:49:37.260 --> 00:49:39.464
+<v Tim Pritlove>Aber BSI Chef wäre das nicht was für dich?
+
+00:49:40.487 --> 00:49:49.992
+<v Linus Neumann>Ja äh würde ich drüber nachdenken, ja, aber da müsste ich mir auch äh anschauen ich meine.
+
+00:49:50.450 --> 00:49:56.602
+<v Tim Pritlove>So beim Innenministerium beschäftigt zu werden. Also es wäre was für dich. Ich glaube, da wäre noch.
+
+00:49:55.275 --> 00:50:00.743
+<v Linus Neumann>Würden mich ja jeden jeden Morgen untersuchen, was ich können wir mal in ihren Rucksack gucken?
+
+00:49:59.854 --> 00:50:05.692
+<v Tim Pritlove>Da also äh mir fällt auf jeden Fall ein Posten ein, den wärst du wahrscheinlich los.
+
+00:50:06.832 --> 00:50:10.814
+<v Tim Pritlove>Da solltest du dir gut überlegen.
+
+00:50:09.360 --> 00:50:15.357
+<v Linus Neumann>Gut, aber wegen der Russlands Connections wär's halt ein bisschen haarig, ne?
+
+00:50:19.636 --> 00:50:33.288
+<v Linus Neumann>Nee, ich denke nicht, dass also das halte ich auch für unwahrscheinlich, dass die äh dass sie, dass sie anrufen. Also ich habe jetzt hier bisher äh habe ich noch keinen Anruf bekommen, ja.
+
+00:50:34.538 --> 00:50:48.563
+<v Tim Pritlove>Sehr unwahrscheinlich. Da wird äh Union ja noch ein Meister. So dann gab's Knallbum ganz viel. Na ja, so laut wird's nicht gewesen sein, eher Schnipp Schnapp.
+
+00:50:49.260 --> 00:50:49.921
+<v Tim Pritlove>Ne
+
+00:50:50.258 --> 00:50:57.811
+<v Linus Neumann>Also da da das ist jetzt auch wieder so ein Ding, ja? Also was? Äh drei Stunden lang Zugausfälle in.
+
+00:50:58.725 --> 00:51:10.736
+<v Linus Neumann>Norddeutschland an Bahnhöfen, Hannover, Hamburg, Berlin haben die Leute rumgehangen, weil es halt irgendwie in dieser Ecke da oben dann da nicht mehr weiterging und der Grund war, dass,
+
+00:51:10.791 --> 00:51:16.229
+<v Linus Neumann>erst in Herne, in NRW und dann am Kreuz in Berlin,
+
+00:51:16.944 --> 00:51:24.425
+<v Linus Neumann>vorsätzlich zwei Glasfasern durchgeschnitten wurden. Ja, zunächst gegen zwei Uhr morgens bei Herne.
+
+00:51:25.441 --> 00:51:33.811
+<v Linus Neumann>Da wurde ein Kabelschacht geöffnet, der mit einem schweren Betondeckel gesichert war und da sind sie dann runter und haben die,
+
+00:51:34.154 --> 00:51:41.881
+<v Linus Neumann>Glasfaser durchgeschnitten. Wichtige Leitung für die interne Bahnkommunikation und am frühen Samstagmorgen,
+
+00:51:42.284 --> 00:51:55.276
+<v Linus Neumann>dann bei Berlin Karo, die Backup-Glasfaser. Ja, weil diese Warnredundant, weil sie hatten also quasi für für den Fall, dass eine von denen kaputt geht, ging der Traffic dann durch die andere,
+
+00:51:56.027 --> 00:52:00.323
+<v Linus Neumann>Und da wusste also jemand sehr genau,
+
+00:52:00.810 --> 00:52:08.832
+<v Linus Neumann>Welche Kabel, welche Licht Lichtwellenleiter Sie durchschneiden müssen und wie Sie da dran kommen. Ähm,
+
+00:52:09.229 --> 00:52:15.983
+<v Linus Neumann>dass diese beiden äh Glasfasern waren für das GSMR, das.
+
+00:52:18.808 --> 00:52:22.058
+<v Linus Neumann>Äh Global System of Mobile Communication Rales,
+
+00:52:22.149 --> 00:52:30.339
+<v Linus Neumann>sorry, ich wusste hier gerade ganz kurz neben mir, was GSM ist. Hey. Da muss ich aber kurz Sekunde nachdenken. Ähm GSMR, also ein.
+
+00:52:31.204 --> 00:52:34.966
+<v Linus Neumann>GSM artiges System, also zellenbasiertes äh
+
+00:52:34.876 --> 00:52:46.515
+<v Linus Neumann>nicht GSM-Art. Es ist einfach GSM, ja, ist also zellbasiertes Funknetz, wo dann so die Züge durchfahren können und die Kommunikation zwischen Zug und Infrastruktur findet darüber statt. Also irgendwie
+
+00:52:46.407 --> 00:52:53.894
+<v Linus Neumann>erlaubte Geschwindigkeit, Signalzustände, Weichenzustände, so die ganze Telemetrie, die bei so einem bei so einer
+
+00:52:53.864 --> 00:53:03.532
+<v Linus Neumann>Zugfahrt ähm im Rahmen der Sicherheit und Ordnung des Zugverkehrs anfällt. Ich weiß nicht, du hast doch auch mal so ein äh CRE-Überzug,
+
+00:53:03.677 --> 00:53:07.643
+<v Linus Neumann>Sicherheit gemacht. Ich weiß nicht, ob der GSMR auch eine Rolle gespielt hat.
+
+00:53:07.361 --> 00:53:11.429
+<v Tim Pritlove>Kann sein, aber die Sendung war eigentlich nicht besonders gut. Die muss ich irgendwann nochmal neu machen,
+
+00:53:11.495 --> 00:53:19.186
+<v Tim Pritlove>aber äh auf jeden Fall ist GSMR halt eine ganz wichtige, grundlegende Infrastruktur
+
+00:53:19.000 --> 00:53:29.059
+<v Tim Pritlove>die halt jetzt sozusagen in den nächsten Jahren hin auf diesen europäischen Standard äh äh ETCS hin sozusagen auch äh abgelöst werden
+
+00:53:28.885 --> 00:53:36.018
+<v Tim Pritlove>wird. Insgesamt ist das Teil des sogenannten Rail-Traffic Management Systems,
+
+00:53:36.186 --> 00:53:47.339
+<v Tim Pritlove>tolle Abkürzung. Auf jeden Fall, wenn diese Glasfasern weg sind, dann funktioniert die Kommunikation oder in dem Fall mit diesen beiden Glasfasern, äh als die äh
+
+00:53:47.327 --> 00:53:55.463
+<v Tim Pritlove>wurden und da wusste wohl jemand auch gut Bescheid äh fiel eben einfach dieses System aus, weil einfach,
+
+00:53:55.722 --> 00:54:02.788
+<v Tim Pritlove>relevante Komponenten nicht mehr miteinander kommunizieren konnten, so dass eben die Betriebssicherheit nicht mehr garantiert werden konnte, woraufhin eben der.
+
+00:54:02.488 --> 00:54:04.470
+<v Linus Neumann>Wahrscheinlich sehr viel mehr Menschen gebraucht.
+
+00:54:04.225 --> 00:54:15.095
+<v Tim Pritlove>Fernverkehr, genau, da muss einfach der komplette da muss also so wirklich alles stehen bleiben und das das blieb es dann auch und dann war eben äh das Geschrei äh groß, ne, aber ähm,
+
+00:54:15.107 --> 00:54:21.680
+<v Tim Pritlove>Ja, das konnte dann auch wieder behoben werden und das sogar relativ fix.
+
+00:54:21.705 --> 00:54:23.525
+<v Linus Neumann>In drei Stunden, also.
+
+00:54:24.650 --> 00:54:39.131
+<v Linus Neumann>In drei Stunden hätte ich wahrscheinlich nicht eine von den beiden Fasern spleißen können, bin ich ganz ehrlich. Ich kann das nicht so gut und äh also äh jetzt ist natürlich auch jetzt ist das Geschrei natürlich wieder groß, ne? Also.
+
+00:54:40.195 --> 00:54:44.942
+<v Linus Neumann>Es war ein Anschlag auf eine kritische Infrastruktur Bundesrepublik Deutschland. Korrekt,
+
+00:54:45.375 --> 00:54:57.615
+<v Linus Neumann>Es ist der Zweite in kurzer Folge, ja? Die haben uns äh oder irgendjemand äh hat ja einen Schaden an Nordstream eins und zwei herbeigeführt, so. Ähm,
+
+00:54:58.372 --> 00:55:02.188
+<v Linus Neumann>großes also großes Hin und Her erstmal.
+
+00:55:03.120 --> 00:55:10.120
+<v Linus Neumann>Also der Ausfall verhältnismäßig kurz, muss man einfach mal sagen, drei Stunden ist ziemlich kurz und.
+
+00:55:11.466 --> 00:55:21.212
+<v Linus Neumann>Wenn man jetzt sagt, man soll die sollen bitte ihre Glasfasern besser schützen, ne? Die Deutsche Bahn hat so was wie 20.000 Kilometer Glasfaser.
+
+00:55:21.832 --> 00:55:30.527
+<v Linus Neumann>Und klar, nicht alle davon sind so neuralgisch und zentral, dass ne, dass du, wenn du sie äh zerstörst,
+
+00:55:30.791 --> 00:55:41.175
+<v Linus Neumann>eben das ganze GSMR ausfällt in einem großen Bereich der Bundesrepublik, aber zum Beispiel ne, mal die mal die Positiv-Aspekte. Es ist nicht in ganz Deutschland ausgefallen,
+
+00:55:41.463 --> 00:55:51.336
+<v Linus Neumann>Es ist nur drei Stunden ausgefallen und die äh ich glaube Herne ist wahrscheinlich 5 600 Kilometer von Berlin, oder? Fünfhundert?
+
+00:55:51.240 --> 00:55:55.182
+<v Tim Pritlove>Ich gucke mal.
+
+00:55:54.882 --> 00:55:59.080
+<v Linus Neumann>Müsste so fünf fünfhundert Kilometer sein, würde ich jetzt mal schätzen, ja.
+
+00:55:59.991 --> 00:56:03.126
+<v Linus Neumann>Mitm ICE Herne hat keinen ICE-Bahnhof, aber.
+
+00:56:02.826 --> 00:56:05.145
+<v Tim Pritlove>Gut geschätzt, fünfhundert Kilometer, mhm.
+
+00:56:05.043 --> 00:56:06.990
+<v Linus Neumann>So, ne, denn äh.
+
+00:56:08.426 --> 00:56:19.254
+<v Linus Neumann>Also was willst du jetzt machen? Also ja, ist klar, musste machst du ein Schloss drauf, aber ich wüsste jetzt auch, also ich mir mir fällt es jetzt schwer,
+
+00:56:20.006 --> 00:56:31.741
+<v Linus Neumann>Du könntest natürlich jetzt ein großes äh Überwachungs-Über besser äh mit Videos überwachen oder so, ne, dass da keiner drangeht, äh derartiges kann's natürlich tun.
+
+00:56:33.201 --> 00:56:35.629
+<v Linus Neumann>Aber so.
+
+00:56:37.053 --> 00:56:46.265
+<v Linus Neumann>Also jetzt hier nicht doof klingen, ne? Aber muss ja mal irgendwie sagen, okay, dann überwachen wir jetzt mal über, weiß ich nicht, wie viele ähm,
+
+00:56:46.944 --> 00:56:49.876
+<v Linus Neumann>Wenn ihr einmal quer durch Deutschland, was ist das? Wahrscheinlich so.
+
+00:56:50.844 --> 00:57:01.353
+<v Linus Neumann>Achthundert Kilometer oder sowas oder 900 Kilometer von Süden nach Norden dann quer durch, also müsstest du so ein paar hundert Kilometer oder ein paar tausend.
+
+00:57:02.280 --> 00:57:12.188
+<v Linus Neumann>Kilometer musst du einfach kritische Fasern haben. Davon hast du zwei, die sie's ja hier haben. Ist ja, ist ja eigentlich schon mal sehr gut, ja und dann ähm.
+
+00:57:13.312 --> 00:57:20.559
+<v Linus Neumann>Müsstest du die halt alle überwachen, ne, beziehungsweise da, wo sie aus der Erde kommen. Klar, kannst du jetzt Kameras hinstellen, aber an die
+
+00:57:20.511 --> 00:57:29.650
+<v Linus Neumann>vielen Stellen kommen, die hilft dann auch nix, wenn die ganze Zeit die machen die Graffiti-Sprüher schon weg die Kameras, ja? Da müssen die müssen die äh äh.
+
+00:57:29.489 --> 00:57:40.773
+<v Tim Pritlove>Also um um festzustellen, dass ein Problem ist und das äh wo dieses Problem ist, kann man ja die Glasfasern auch selber benutzen. Man merkt das ja im Prinzip auch sofort, wenn diese durchtrennt wird.
+
+00:57:40.473 --> 00:57:41.740
+<v Linus Neumann>Sind, ist ein.
+
+00:57:41.735 --> 00:57:48.771
+<v Tim Pritlove>Und man kann halt auch auf einer Glasfaser relativ schnell herausfinden, wo das Problem ist, indem man halt einfach einen längen äh Test
+
+00:57:48.748 --> 00:57:56.042
+<v Tim Pritlove>inwiefern so was existiert und äh also in automatisierter Form existiert entzieht sich meiner Kenntnis, aber das ist sozusagen schon,
+
+00:57:56.072 --> 00:58:10.260
+<v Tim Pritlove>machbar. Man kann jetzt schon, das heißt ja im Prinzip auch schon gesagt, aber man kann durchaus jetzt mal applaudieren, dass das sozusagen nur drei Stunden äh den gesamten Verkehr durcheinander gebracht hat und die eigentliche Frage ist ja, lässt sich das in irgendeiner Form
+
+00:58:10.128 --> 00:58:12.976
+<v Tim Pritlove>noch besser mittegieren, ja,
+
+00:58:13.102 --> 00:58:21.677
+<v Tim Pritlove>Sinne von äh entweder verhindern verhindern kann ja nur bedeuten, dass du den physikalischen Zugriff,
+
+00:58:21.677 --> 00:58:28.233
+<v Tim Pritlove>auf diese Infrastruktur noch weiter absicherst. Das ist natürlich jetzt bei diesen Mengen,
+
+00:58:28.438 --> 00:58:42.516
+<v Tim Pritlove>schwierig, also wie tief in die Erde sollen die denn jetzt gebuddelt äh werden, ja? Das macht ja dann auch die die Wartung äh schwieriger. Die mag auch teilweise unterirdisch liegen, das weiß ich gar nicht, ne? Aber ich vermute mal der
+
+00:58:42.402 --> 00:58:50.010
+<v Tim Pritlove>physische Zugriff jetzt auf diese Orte, wo dieser Angriff stattgefunden hat, war jetzt nicht total.
+
+00:58:49.914 --> 00:58:59.672
+<v Tim Pritlove>So, ne und wäre er äh es gewesen, hätte es vielleicht auch noch andere Orte gegeben, wo man im Prinzip denselben Schaden hätte,
+
+00:58:59.943 --> 00:59:09.930
+<v Tim Pritlove>ähm herstellen könnt. Was ja auch interessant, es ging ja auch gar nicht um eine totale Zerstörung, weil dann wäre ja, sagen wir mal.
+
+00:59:10.315 --> 00:59:11.486
+<v Tim Pritlove>Eine Bombe.
+
+00:59:12.316 --> 00:59:24.550
+<v Tim Pritlove>Zum Beispiel sehr viel nachhaltiger gewesen, weil ich glaube nicht, dass ich das dann so ohne Weiteres in drei Stunden hätte fixen lassen können, weil wenn es tatsächlich nur das neue Spleißen einer Glasfaser ist, wie du das vorhin gesagt hast, na ja, dann ist das,
+
+00:59:24.634 --> 00:59:30.493
+<v Tim Pritlove>Das ist ja auch komplexer, also in der Regel fallen ja dann eben auch Systeme aus. Wir haben das ja oft
+
+00:59:30.337 --> 00:59:47.841
+<v Tim Pritlove>besprochen, wenn's um diese ganze ne Absicherung von deinen äh Daten, deinen deinen Firmennetzen, dass du irgendwie nach einem Angriff hier äh von irgendwelchen äh deinen Betrieb wieder hochfahren kannst. Das sind ja alles Prozesse, die sollten eben vorher auch schon mal,
+
+00:59:48.040 --> 00:59:55.737
+<v Tim Pritlove>worden sein und äh geübt worden sein und äh gerade bei der Bahn entstehen ja auch,
+
+00:59:55.858 --> 01:00:03.609
+<v Tim Pritlove>eine Menge Folgeverluste, ne, weil du ja dann sozusagen diese ganzen Ausfälle, die daraus entstehen, ja dann auch wieder die die Sachen durcheinander,
+
+01:00:03.826 --> 01:00:10.561
+<v Tim Pritlove>Na ja, also insofern ähm sehen wir nur jetzt natürlich,
+
+01:00:10.796 --> 01:00:16.841
+<v Tim Pritlove>grundsätzlich die Verwundbarkeit solcher Systeme. Ne, wir haben hochkomplexe Systeme,
+
+01:00:17.051 --> 01:00:24.406
+<v Tim Pritlove>um unsere hochkomplexe Infrastruktur auch effizient betreiben zu können und überall da, wo es hochkomplex wird.
+
+01:00:25.380 --> 01:00:30.403
+<v Tim Pritlove>Äh entsteht natürlich auch also vergrößert sich die Angriffsfläche ganz automatisch.
+
+01:00:31.960 --> 01:00:45.101
+<v Linus Neumann>Ja und ich also ich meine ich habe ich sehe das jetzt du hast wahrscheinlich noch sehr viele andere Punkte. Was worüber will man sich natürlich mal Gedanken machen sollte ist.
+
+01:00:45.979 --> 01:00:55.425
+<v Linus Neumann>Muss man ja doch erstmal wissen. Und die größere Sorge, die ich mir eigentlich mache, ist, hm woher weiß das jemand, ja,
+
+01:00:55.774 --> 01:01:03.471
+<v Linus Neumann>Sie sich also eine Gruppierung, sei sie jetzt politisch oder also vielleicht sogar militärisch motiviert, ja.
+
+01:01:04.595 --> 01:01:05.820
+<v Linus Neumann>Woher wissen Sie das?
+
+01:01:06.620 --> 01:01:19.437
+<v Linus Neumann>Also ne und woher woher wissen sie es vor allem auch so genau, dass sie wirklich sagen, okay pass auf da und da müssen wir hin, ja und diese Zeit irgendwie äh Samstag also zwei Uhr nachts in Herne, Samstagmorgen in Berlin,
+
+01:01:19.438 --> 01:01:27.447
+<v Linus Neumann>ja sogar auch so ein bisschen darauf hin, dass dazwischen eine Autofahrt lag, ja sonst hättest du das an an beiden Stellen gleichzeitig gemacht,
+
+01:01:28.271 --> 01:01:30.530
+<v Linus Neumann>Also das ist alles schon so ein bisschen,
+
+01:01:31.185 --> 01:01:40.709
+<v Linus Neumann>Größere macht mir eher größere Sorge wie wie verbreitet dieses Wissen ist. Gleichzeitig hat die Bahn wahrscheinlich eine riesige IT-Abteilung mit äh,
+
+01:01:41.046 --> 01:01:49.717
+<v Linus Neumann>Unmengen an Menschen, die der Mike gearbeitet haben, weiter gearbeitet haben und so weiter ähm sodass wahrscheinlich dieses Wissen
+
+01:01:49.603 --> 01:01:57.997
+<v Linus Neumann>auch in den äh wenn du dann noch irgendwelche externen Mitarbeiter und Consultans nimmst, dieses Wissen wahrscheinlich bei ein paar tausend Leuten ist, ja.
+
+01:01:59.626 --> 01:02:02.727
+<v Tim Pritlove>Also geheim halten kannst du das nicht.
+
+01:02:04.097 --> 01:02:13.703
+<v Tim Pritlove>Das würde auch keinen Sinn ergeben. Weil du dann im Zeitfall ja dann im Schadensfall noch weniger Leute hast, die irgendwie wissen, wie man das fixen soll.
+
+01:02:15.971 --> 01:02:22.418
+<v Linus Neumann>Jetzt diskutieren sie, ja, äh wir müssen wir müssen unsere Unterseekabel besser schützen
+
+01:02:22.299 --> 01:02:33.247
+<v Linus Neumann>Ja, viel Spaß. Die liegen tief im Wasser. Und die sind tausende Kilometer lang und wir müssen äh wir müssen unsere äh Gaspipeline besser schützen. Ich also,
+
+01:02:33.355 --> 01:02:41.990
+<v Linus Neumann>tatsächlich, ich wüsste nicht wie. Ne? Also das ist ähm vielleicht haben da andere Leute bessere Ideen,
+
+01:02:42.387 --> 01:02:48.473
+<v Linus Neumann>aber mir scheinen solche Dinge de facto ein bisschen,
+
+01:02:48.925 --> 01:02:54.332
+<v Linus Neumann>ja unbeschützbar zu sein, ne? Vor allem jetzt kann man natürlich kritisieren, okay,
+
+01:02:54.693 --> 01:03:09.223
+<v Linus Neumann>wenn das da wirklich reicht, dass man schwer ein Betonklotz beiseite hebt und dann mit der Zange die die Faser durchschneidet, ja oder mit der Flex. Ähm ja, das da könnte man sagen, da soll die soll die äh sollte die,
+
+01:03:09.518 --> 01:03:16.103
+<v Linus Neumann>vielleicht ein bisschen höher liegen bei einer bei einer wirklich kritischen aber so.
+
+01:03:17.191 --> 01:03:21.854
+<v Linus Neumann>Ja, das ist jetzt, dass ich, dass dass sich die Investition dann lohnt. Bin ich mal gespannt.
+
+01:03:22.702 --> 01:03:32.832
+<v Tim Pritlove>Ja, also was halt wirklich absurd ist, ist so, dass es hier sozusagen keinen Bekennerschreiben gibt. Bahninfrastruktur war ja schon immer äh Ziel,
+
+01:03:33.248 --> 01:03:43.216
+<v Tim Pritlove>einer wie soll ich das nennen es gab so Gruppen, die meinten Bahninfrastruktur wäre ja böse weil.
+
+01:03:43.643 --> 01:03:44.700
+<v Linus Neumann>Warum eigentlich?
+
+01:03:44.935 --> 01:03:48.174
+<v Tim Pritlove>Wegen Militärtransporten oder so.
+
+01:03:49.574 --> 01:03:56.857
+<v Tim Pritlove>Keine Ahnung, ich kann dem auch nur begrenzt folgen, aber das ist ja jetzt nichts Neues oder Castor Transporte, die baden transportiert irgendwie,
+
+01:03:57.086 --> 01:04:04.584
+<v Tim Pritlove>Castoren und deswegen ist sie jetzt auch böse oder oder man will dem Staat schaden. Ich meine, schaden tut man hier einfach nur allen,
+
+01:04:04.825 --> 01:04:12.535
+<v Tim Pritlove>weil ich meine Bahninfrastruktur ist vielleicht mit, dass ja eine der,
+
+01:04:12.811 --> 01:04:20.977
+<v Tim Pritlove>wichtigsten gesamtgesellschaftlichen und auch der gesamten Gesellschaft äh nutzenden Infrastrukturen,
+
+01:04:21.032 --> 01:04:32.629
+<v Tim Pritlove>und äh wer dieser Infrastruktur schadet, schadet dieser Gesellschaft. Das heißt, es könnte eigentlich nur jemand ein Interesse haben, der entweder mit dieser Gesellschaft abgeschlossen hat oder ihr nicht angehört und ihr schaden möchte.
+
+01:04:33.542 --> 01:04:45.440
+<v Tim Pritlove>Nicht der Russe war's, aber ich meine das sind ja halt alles so Sachen nur wenn er sozusagen also auch kein politisches Bekenntnis entweder unmittelbar direkt verbunden ist,
+
+01:04:45.759 --> 01:04:59.117
+<v Tim Pritlove>kommuniziert wird oder sich daraus ablesen lässt, dann steht man ja danach auch irgendwie so ein bisschen da und dann ist es halt irgendwie so Kategorie Vandalismus, nur dass eben jetzt so ein gezielte Attacke an zwei Orten zeitversetzt,
+
+01:04:59.291 --> 01:05:05.709
+<v Tim Pritlove>genau die richtigen Kabel durchtrennen. Das ist halt auch nicht wirklich im eigentlichen Sinne Vandalismus.
+
+01:05:06.629 --> 01:05:23.538
+<v Linus Neumann>Ja also okay du darfst natürlich nicht unbedingt nicht nicht alle Motivation des Terrorismus vergessen, ne? Dass man dass man äh einfach mal Ungewissheit, Angst und Diskussion schürt ist durchaus auch schon ein Ziel für sich
+
+01:05:23.352 --> 01:05:26.512
+<v Linus Neumann>ja? Also dafür brauchst du keinen Bekennerschreiben.
+
+01:05:26.537 --> 01:05:30.767
+<v Tim Pritlove>Ja, das stimmt. Einfach eine allgemeine Unsicherheit, also doch.
+
+01:05:30.497 --> 01:05:35.327
+<v Linus Neumann>Allgemeine Unsicherheit, ne. Also ich glaube der von ähm.
+
+01:05:36.548 --> 01:05:48.896
+<v Linus Neumann>Davon leitet sich das auch sogar ab, ne? Terror von Furcht und Schrecken. Ja und dafür brauchst du nicht notwendigerweise eine ähm ja, nicht unbedingt ein Bekennerschreiben.
+
+01:05:49.569 --> 01:05:57.970
+<v Tim Pritlove>Bevor äh die Bahnnerds in die Kommentare einfallen, muss ich noch kurz sagen. Ich habe gerade gesagt, äh ECTS äh löst so.
+
+01:05:58.096 --> 01:06:04.772
+<v Linus Neumann>Ich hab's gemerkt, du. Ich wollte dich nicht unterbrechen. Ich wollte nicht wieder alles besser wissen, aber es das Train Management System gesagt hat, das ist aber Traink Control System.
+
+01:06:05.475 --> 01:06:18.527
+<v Tim Pritlove>Es gibt sowohl also das Managementsystem sozusagen der Überbegriff, da gehört das ECTS dazu, da gehört GSMR dazu und GSMR wird auch einen Nachfolger haben, aber das ist nicht ECTS, sondern das ist das Railway Mobile Communication System.
+
+01:06:18.768 --> 01:06:20.738
+<v Tim Pritlove>Franz.
+
+01:06:20.438 --> 01:06:23.634
+<v Linus Neumann>Äh das haben die auch schon in auf ein paar hundert Kilometern, glaube.
+
+01:06:21.742 --> 01:06:30.677
+<v Tim Pritlove>Weiß da auch nicht viel drüber. Ich wollte jetzt nur bevor äh ne bevor jetzt wieder die weil ich meine man man,
+
+01:06:30.978 --> 01:06:45.621
+<v Tim Pritlove>Man kann schon mit dem Thema VPN eine ganze Menge Feedback auslösen, aber wenn's um Bahnen geht, weißt du, machen wir nochmal ein komplett neues Tor in eine andere Dimension auf. Deswegen beuge ich hier die ein bisschen vor, aber ist wahrscheinlich ohnehin schon zu spät.
+
+01:06:45.856 --> 01:06:55.476
+<v Linus Neumann>Okay, da hast du recht. Also ich äh habe mich jetzt extra ein bisschen zurückgehalten zu einem möglichen GSM-Kram. Äh habe da ja beruflich ein bisschen mit zu tun. Aber ich,
+
+01:06:55.717 --> 01:07:09.135
+<v Linus Neumann>Ich glaube, dass es auch relativ unerheblich, ja, dass es jetzt da irgendwie am Ende ein zellbasiertes Funksystem ist oder nicht. Ähm entscheidend ist es, war für die es war für die Sicherheit äh so entscheidend, dass,
+
+01:07:09.328 --> 01:07:17.584
+<v Linus Neumann>Muss man auch sagen, die Züge werden ja gefahren. Nur die Bahn wollte den äh wollte quasi das Risiko nicht auf sich nehmen, die Dinger,
+
+01:07:17.800 --> 01:07:21.700
+<v Linus Neumann>ohne dieses Sicherheitssystem befahren zu lassen. Das ist wahrscheinlich auch richtig so.
+
+01:07:22.211 --> 01:07:26.285
+<v Tim Pritlove>Ja, das ist halt einfach, da geht halt einfach nix mehr ohne GSMR.
+
+01:07:28.046 --> 01:07:31.537
+<v Linus Neumann>Fährt der Zug nicht trotzdem? Also das weiß.
+
+01:07:31.237 --> 01:07:35.344
+<v Tim Pritlove>Kann er schon. Die Frage ist, ob er dann nicht zu nah anderen.
+
+01:07:36.080 --> 01:07:37.281
+<v Linus Neumann>Einen anderen kommt,
+
+01:07:37.486 --> 01:07:47.599
+<v Linus Neumann>Ja genau, also das äh diese ganzen Scherze mit, dass man eigentlich ja zwei Züge nicht entgegengesetzter äh Fahrtrichtung auf eine
+
+01:07:47.570 --> 01:07:56.552
+<v Linus Neumann>auf ein Gleis setzen kann und so weiter, ne? Diese ganzen Sicherheitsmechanismen, die werden sicherlich zu großen Teilen darüber abgebildet, würde ich jetzt mal vermuten.
+
+01:07:57.869 --> 01:08:02.345
+<v Tim Pritlove>Vermuten wir jetzt mal so ganz grob ohne Bahnnerds zu sein.
+
+01:08:02.496 --> 01:08:17.013
+<v Linus Neumann>Ja, okay. Bahn-Nerds können das in den Kommentaren machen. Äh könnte auch sein, dass wir in der nächsten Sendung einen Bahnnerd dabei haben. Wer weiß? Ja, gibt ja die verrücktesten Dinge und ähm damit äh.
+
+01:08:16.713 --> 01:08:19.273
+<v Tim Pritlove>Ich war sogar auf einer Bahnmesse und habe keine Ahnung.
+
+01:08:19.363 --> 01:08:21.136
+<v Linus Neumann>Ich bin schon mal mit der Bahn gefahren.
+
+01:08:21.034 --> 01:08:28.905
+<v Tim Pritlove>Ja. Wie hieß diese Messe trans? Gott, jetzt hast du wieder vergessen. Der war doch vor Kurzem erst.
+
+01:08:28.876 --> 01:08:30.852
+<v Linus Neumann>Transrapidanz.
+
+01:08:30.552 --> 01:08:31.730
+<v Tim Pritlove>Nee, äh.
+
+01:08:32.608 --> 01:08:41.434
+<v Tim Pritlove>Diese wo ganz viele Trans heißt sie genau. Inno Trans 20022 aber hat mich nicht so umgehauen.
+
+01:08:41.350 --> 01:08:52.323
+<v Linus Neumann>Ich muss sagen, ich meine, ich äh ich habe also auf auf auf die Gefahr, dass ich mich unbeliebt mache, ne. Ich fahre ja relativ viel Bahn.
+
+01:08:53.207 --> 01:08:57.953
+<v Linus Neumann>Ähm aber ich kann nicht behaupten, dass mich.
+
+01:08:59.456 --> 01:09:08.703
+<v Linus Neumann>Bahn in meinem Leben als Kind oder als Jugendlicher oder auch heute noch besonders fasziniert hätte. Also fast es fasziniert mich,
+
+01:09:09.323 --> 01:09:22.170
+<v Linus Neumann>teilweise, wie scheiße die ist, aber so nee ähm ich also kann jetzt nicht sagen, dass ich diese ganzen Schienenverkehrsnerds so äh kann ich nicht ganz nachvollziehen.
+
+01:09:22.062 --> 01:09:24.165
+<v Tim Pritlove>Ich kann das nachvollziehen. Also.
+
+01:09:23.913 --> 01:09:24.988
+<v Linus Neumann>Warum, erklär's.
+
+01:09:24.820 --> 01:09:33.172
+<v Tim Pritlove>Na ja, ich meine zunächst einmal handelt es sich einfach bei der Bahn um ein hochkomplexes System, was einerseits schon sehr alt ist
+
+01:09:33.083 --> 01:09:37.247
+<v Tim Pritlove>ja, aber auch in gewisser Hinsicht Unglaubliches leistet.
+
+01:09:37.211 --> 01:09:52.029
+<v Tim Pritlove>Ne, sich einfach mal vorstellt, wie viele Züge in Deutschland oder überhaupt in der Welt, aber weil man mal vielleicht mit dem Fokus auf Deutschland. Wie viele Züge hier rumfahren. Und was die alle für Anforderungen erfüllen müssen, um täglich im Idealfall auf die Minute genau,
+
+01:09:52.035 --> 01:09:52.630
+<v Tim Pritlove>irgendein.
+
+01:09:52.931 --> 01:10:04.576
+<v Tim Pritlove>Zu stehen, das ist schon wirklich krass. Und allein schon so ähm mit Leute zu tun, das ist schon eine Weile her, die auch nur so diesen Aspekt-Fahrplan,
+
+01:10:04.702 --> 01:10:13.277
+<v Tim Pritlove>äh sozusagen als Thema hatten. Ja, also wie macht man überhaupt einen Fahrplan, das alles aufeinander abgestimmt ist? Das
+
+01:10:13.145 --> 01:10:18.126
+<v Tim Pritlove>das sozusagen für jeden immer ein Gleis frei ist, dass alles rechtzeitig kommt, dass da noch genug Luft,
+
+01:10:18.144 --> 01:10:34.970
+<v Tim Pritlove>drin ist, wenn irgendwas passiert und es passiert dir die ganze Zeit irgendwas. Heute ist mal das Wetter, dann sind wieder zwanzig Selbstmörder unterwegs. Also du musst ja mit mit allem Möglichen rechnen, aber dann eben auch noch diese ganze Generation an an Technologie, die ja dann langfristig eine Auswirkungen hat.
+
+01:10:34.772 --> 01:10:37.776
+<v Tim Pritlove>Das ist schon einfach extremer
+
+01:10:37.770 --> 01:10:48.136
+<v Tim Pritlove>Spaß und äh ich kann total verstehen, weil da da ist halt einfach sehr viel Komplexität zu beherrschen und sie wird ja auch recht,
+
+01:10:48.256 --> 01:10:53.748
+<v Tim Pritlove>beherrscht. So, das muss man ja mal sagen und ähm insofern habe ich da,
+
+01:10:53.784 --> 01:11:07.870
+<v Tim Pritlove>höchstes ähm höchsten Respekt auch davor und auch als auf dieser Innotrans rumgelaufen bin, auch wenn jetzt sagen wir mal für mich selbst nicht so viel dabei war, weil ich da nicht so äh drin war und alles worüber hätte ich mal ein bisschen schimpfen wollen, gab's irgendwie nicht die richtigen,
+
+01:11:08.387 --> 01:11:17.100
+<v Tim Pritlove>aber dann läufst du so durch so Hallen, die einfach voll sind mit einfach so Kram.
+
+01:11:17.707 --> 01:11:19.202
+<v Tim Pritlove>Ja, nee, aber auch so mit,
+
+01:11:19.299 --> 01:11:28.751
+<v Tim Pritlove>Teiltechnologie, ne? So, wir sind eine Firma für um, oh Gott, jetzt fahren wir keine guten Beispiele ein, aber so ganze halten die sich einfach mit äh
+
+01:11:28.715 --> 01:11:34.856
+<v Tim Pritlove>Prüfung und der technischen Sicherstellung, dass dieses und jenes und die Kabel und die
+
+01:11:34.634 --> 01:11:41.664
+<v Tim Pritlove>Puffer und die die Schienen, dass das alles richtig vermessen wird, dass das alles überwacht wird, ne,
+
+01:11:41.712 --> 01:11:54.927
+<v Tim Pritlove>ach ja genau und an einer Stelle hatte ich auch so einen richtig äh äh Nerd Gazm. Als ich irgendwie so ein auf so eine irische äh Firma gestoßen bin, die so mit Hochgeschwindigkeitskameras, vorbeifahrende Züge mit bis zu 300 Stundenkilometer
+
+01:11:54.740 --> 01:12:01.837
+<v Tim Pritlove>äh fotografiert und dabei in diesem Moment durch zwei Fotos äh diesen
+
+01:12:01.819 --> 01:12:13.459
+<v Tim Pritlove>Pantographen, also diesen Stromabnehmer des Zuges, dreidimensional vermisst und dann innerhalb von äh kürzester Zeit herausfindet, ob mit dem, was nicht in Ordnung ist.
+
+01:12:14.041 --> 01:12:18.980
+<v Tim Pritlove>Irgendwie abgenutzt ist, weißt du und solche Irre.
+
+01:12:18.717 --> 01:12:30.614
+<v Linus Neumann>Ja das ist ja alles cool. Ich will ja jetzt auch nicht sagen, dass das nicht stimmt, aber äh das ist nicht dass da dass das nicht spannend ist, aber was oder dass es dass es jetzt langweilig wäre bei der Bahn zu arbeiten oder so, ne?
+
+01:12:30.392 --> 01:12:35.361
+<v Linus Neumann>Ich verstehe nicht, warum ich mich in meiner Freizeit jetzt noch damit auseinandersetzen soll.
+
+01:12:35.314 --> 01:12:42.494
+<v Tim Pritlove>Weil weil du nicht so viel Freizeit hast, du musst dich ja die ganze Zeit mit Netzpolitik rumschlagen. Man kann ja auch nicht alles machen, aber.
+
+01:12:39.556 --> 01:12:51.261
+<v Linus Neumann>Und IT-Sicherheit kann man ist ja tragisch scheiß genug. Also die Einzige, die einzige Bahn, die mich die die tatsächlich also ich bin ja schon welche Bahnen haben mich fasziniert. Ähm.
+
+01:12:52.331 --> 01:13:01.309
+<v Linus Neumann>Also Schinkansen, pünktliche Bahn, faszinierend, äh das fand ich spitze. Ähm.
+
+01:13:03.280 --> 01:13:06.985
+<v Tim Pritlove>Das war's, Japan.
+
+01:13:07.464 --> 01:13:09.781
+<v Tim Pritlove>Du in der Schweiz kann man ja auch irgendwie aus.
+
+01:13:09.481 --> 01:13:13.447
+<v Linus Neumann>In der Schweiz kann man ja in der Schweiz kann man auch seine Kosten kommen, ist aber zu voll,
+
+01:13:13.460 --> 01:13:27.160
+<v Linus Neumann>weil die ihr GA, das ist ja nicht teuer genug, die ganzen da sind ja also alles voller Schweizer in der Bahn und äh das ist immer sehr voll in der Bahn in der Schweiz kann ich kann ich nicht anders sagen. Und äh ne USA
+
+01:13:27.130 --> 01:13:32.868
+<v Linus Neumann>Also mit dem ähm mit dem ja die haben sehr bequeme Züge.
+
+01:13:33.085 --> 01:13:34.509
+<v Tim Pritlove>Und langsamer auch.
+
+01:13:34.816 --> 01:13:47.434
+<v Linus Neumann>Langsam bequem, aber riesige Sessel drin. Also da kannst du dich mit diesen Melkscheemeln, die in der Deutschen Bahn stehen echt nicht nicht blicken lassen, ne, wenn ihr jetzt mal mit so einem schönen US-amerikanischen Zug,
+
+01:13:48.222 --> 01:13:49.748
+<v Linus Neumann>Da sitzt sie schon bequem.
+
+01:13:49.503 --> 01:13:51.406
+<v Tim Pritlove>Okay, na gut.
+
+01:13:51.370 --> 01:13:55.198
+<v Linus Neumann>Richtig schöne gepolsterte Sessel. Ähm,
+
+01:13:55.920 --> 01:14:04.789
+<v Linus Neumann>Prager, Pragerbahn. Kannst ja manchmal Euro City fahren und so hier. Ähm gibt's ordentliches Essen, ist auch faszinierend.
+
+01:14:03.695 --> 01:14:06.585
+<v Tim Pritlove>Ja. Ja.
+
+01:14:05.540 --> 01:14:16.110
+<v Linus Neumann>Schöne Farbe. Äh nee, aber so in Deutschland hält sich der Bahngenuss ja dann doch in Grenzen.
+
+01:14:17.528 --> 01:14:23.320
+<v Linus Neumann>Schon okay, Pferd, ja Pferd. Pferd meistens.
+
+01:14:24.048 --> 01:14:29.521
+<v Tim Pritlove>Da gehen die persönlichen Meinungen dann sehr auseinander. Ich mag die Bahn und äh ich verstehe auch alle Baden Nerds.
+
+01:14:29.221 --> 01:14:35.886
+<v Linus Neumann>Ich mag's ja auch. Ich wollte dir nur aber guck mal, jetzt das Flugzeug ist doch auch faszinierend.
+
+01:14:36.859 --> 01:14:39.629
+<v Tim Pritlove>Ja, aber das ist natürlich.
+
+01:14:38.584 --> 01:14:48.408
+<v Linus Neumann>Kann gar nicht, ist schwerer als Luft. So, aber das da da verstehe ich, dass Leute sich damit auseinandersetzen, aber Leute ein ein Leben der Bahn widmen.
+
+01:14:48.150 --> 01:14:56.604
+<v Tim Pritlove>Das ist einfach man versteht nicht die Kings äh von allen, aber die haben meistens eine Berechtigung. Ich
+
+01:14:56.491 --> 01:15:05.408
+<v Tim Pritlove>aus meinem langen äh Podcaster Interview leben, kann ich dir äh eins äh sagen, es gibt eigentlich gar nichts, was uninteressant ist.
+
+01:15:05.733 --> 01:15:20.539
+<v Linus Neumann>Absolut richtig. Ich wollte auch nicht sagen, dass Bahn uninteressant ist, ne. Ich ich verstehe also völlig klar. Ich kann mir auch zum Beispiel gut vorstellen äh da zu arbeiten oder so, ne? Das ist irgendwie faszinierend ist, weil man ja man hat eigentlich so ein perfektes System,
+
+01:15:20.954 --> 01:15:29.991
+<v Linus Neumann>Jeden Tag kommt wat Neues, ne? Wirft sich einer auf die Schienen, dann äh ne schneidet einer ein Kabel durch
+
+01:15:29.883 --> 01:15:38.061
+<v Linus Neumann>äh dann geht die Klimaanlage im IC nicht, weil 22 Grad ist, sodass da jeden Tag was, also da ist immer was los. Da ist auf jeden Fall spannend.
+
+01:15:38.188 --> 01:15:46.468
+<v Tim Pritlove>Das ist wie ein wie ich meine also ehrlich gesagt verstehe ich gar nicht, warum du da gar keine Begeisterung für ausbringen kannst, weil wenn man sozusagen auch
+
+01:15:46.360 --> 01:16:00.901
+<v Tim Pritlove>im Bereich des Netzwerk Traffics unterwegs ist und sieht, was da immer alles möglich ist, ja, auch aus Sicherheitsaspekten, das ist dann halt mit der Bahn auch so, ne, nur mit richtigen Stahl und Ross und und Wetter und äh all diesen Dingen.
+
+01:16:01.761 --> 01:16:13.544
+<v Linus Neumann>Nee, also ist ist super. Vielleicht habe ich dafür einfach nicht genug äh nicht genug Zeit mehr im im oder nicht mehr genug Platz im Leben. Nicht.
+
+01:16:13.244 --> 01:16:16.748
+<v Tim Pritlove>Gespoilter digitaler.
+
+01:16:16.448 --> 01:16:24.680
+<v Linus Neumann>Konsumiere das einfach. Ich konsumiere das einfach. Ich gehe da rein, setze mich hin, na ja komm an und mache mir überhaupt nichts überhaupt nichts Gedanken.
+
+01:16:24.488 --> 01:16:31.188
+<v Tim Pritlove>Gut, dann äh kommen wir doch vielleicht zu äh der Veranstaltung für die Leute, die jetzt sozusagen.
+
+01:16:30.948 --> 01:16:33.038
+<v Linus Neumann>Stimmt, wir müssen ja noch was wir haben ja noch.
+
+01:16:33.087 --> 01:16:42.208
+<v Tim Pritlove>Teil im Digitalen mehr was anfangen können wobei auch Bahnnerds dort zu finden sind mit Sicherheit.
+
+01:16:42.262 --> 01:16:49.798
+<v Linus Neumann>Da auf jeden Fall. Da haben wir doch auch schon, da wird geil. Ich bin mir auch sicher, dass ich auf Tim Congress den einen oder anderen Bahnvortrag äh schon gehört habe, ja.
+
+01:16:49.798 --> 01:17:04.501
+<v Tim Pritlove>Nicht nur zu Fahrplänen. Genau, es wird nämlich es wird es soll geben einen 37 Chaos Communication Kongress und es fühlt sich merkwürdig an, das zu sagen, wenn ich das mal so sagen darf.
+
+01:17:04.322 --> 01:17:15.540
+<v Linus Neumann>Ja, es äh hört sich merkwürdig an, aber irgendwann muss man ja mit der Planung beginnen, also machen wir das jetzt und äh wir haben jetzt einen CFP veröffentlicht.
+
+01:17:16.382 --> 01:17:18.395
+<v Tim Pritlove>Partizipation heißt das.
+
+01:17:18.095 --> 01:17:27.114
+<v Linus Neumann>Genau. Und da kann man also einreichen in den Tracks Politics Effics Society.
+
+01:17:27.848 --> 01:17:34.300
+<v Linus Neumann>Security, Science, Hardware und Art and Beauty.
+
+01:17:34.620 --> 01:17:42.244
+<v Linus Neumann>Ähm der CF ist jetzt geöffnet. Die Deadline für Einreichungen ist der 6. November,
+
+01:17:42.486 --> 01:17:54.239
+<v Linus Neumann>Die Notifications of Exceptans kommen am 27. November und das ist dann eben ein Monat vor der Veranstaltung vom siebenundzwanzigsten,
+
+01:17:55.417 --> 01:18:08.011
+<v Linus Neumann>30. Dezember. So, ich die Deadlines sind natürlich alle ein bisschen spät, ja? Ich glaube, das haben wir sonst äh früher hingekriegt oder hoffe ich zumindest. Hm,
+
+01:18:08.510 --> 01:18:17.902
+<v Linus Neumann>Ich hoffe, das ist vielleicht für die Einreichenden verständlich, dass die Planung einer solchen Veranstaltung zum jetzigen Zeitpunkt noch mit marginalen Unwegbarkeiten verbunden ist
+
+01:18:17.782 --> 01:18:23.016
+<v Linus Neumann>äh so dass wir eben das so spät machen. Ähm
+
+01:18:22.824 --> 01:18:34.752
+<v Linus Neumann>aber da färbt ihr jetzt fast einen Monat Zeit euch über eine Einreichung Gedanken zu machen, natürlich euch auch potenziell darüber Gedanken zu machen, auch da gab es ja schon Fragen äh
+
+01:18:34.590 --> 01:18:42.900
+<v Linus Neumann>dass es Leute gab, die vielleicht gerne etwas einreichen würden, aber sich nicht so sicher sind ob sie denn an Ort und Stelle sein können.
+
+01:18:43.207 --> 01:18:50.670
+<v Linus Neumann>Aus verschiedensten Gründen. So was kann man natürlich bei einer Einreichung mit angeben, ne, spricht ja nichts gegen.
+
+01:18:51.601 --> 01:18:55.291
+<v Linus Neumann>Da mal ein äh Häkchen zu setzen.
+
+01:18:55.448 --> 01:19:04.304
+<v Tim Pritlove>Der Kongress soll, das wurde ja auch schon mal kommuniziert, aber das kann man an dieser Stelle auch nochmal betonen. In Hamburg stattfinden,
+
+01:19:04.485 --> 01:19:12.170
+<v Tim Pritlove>er ja auch schon fünf Mal stattgefunden hat. Wenn ich mich jetzt nicht äh verzählt habe
+
+01:19:12.027 --> 01:19:25.547
+<v Tim Pritlove>und äh zwar vom 29 bis zum 33 C drei. Danach gab's ja den Umzug nach Leipzig. Jetzt soll der Kongress wieder zurückkehren nach Hamburg an denselben
+
+01:19:25.421 --> 01:19:35.149
+<v Tim Pritlove>Ort oder das Faszienselben Ort, der ist äh umgebaut worden, das CCH ist ja renoviert worden. Das war ja auch der Grund, warum wir da überhaupt weggegangen sind.
+
+01:19:35.840 --> 01:19:38.261
+<v Tim Pritlove>Ja und ähm,
+
+01:19:38.575 --> 01:19:51.193
+<v Tim Pritlove>Da sind wir alle sehr gespannt, weil das bedeutet natürlich auch, dass sich der Kongress nochmal in seiner ganzen Gestalt und Ausprägung ein weiteres Mal deutlich verändern wird. Abgesehen davon, dass er sich,
+
+01:19:51.223 --> 01:19:57.052
+<v Tim Pritlove>von Jahr zu Jahr immer weiter entwickelt hat, aber jetzt ist so eine Art big to the roots,
+
+01:19:57.160 --> 01:20:09.635
+<v Tim Pritlove>äh Effekt an der Stelle äh natürlich da. Es wird also nicht diese ausufernden Megaflächen wieder geben, wie man sie in Leipzig gesehen hat und wir sind da alle glaube ich sehr gespannt,
+
+01:20:09.726 --> 01:20:21.244
+<v Tim Pritlove>was daraus dann äh resultieren wird. Ich finde die Entscheidung trotzdem richtig. Das ist ein guter Ort. Hamburg Leipzig hatte seine Vorteile, aber auch seine,
+
+01:20:21.365 --> 01:20:30.018
+<v Tim Pritlove>Probleme und ähm in gewisser Hinsicht denke ich hatte auch der.
+
+01:20:30.433 --> 01:20:39.422
+<v Tim Pritlove>Dort in Hamburg seine bisher beste Zeit gehabt. So, ich denke, da hat irgendwie alles äh gepasst. Und jetzt müssen wir mal schauen,
+
+01:20:39.290 --> 01:20:53.405
+<v Tim Pritlove>wie sich der Kongress da zurechtgeruckelt bekommt mit den leichten Änderungen, die dort vorgenommen wurden. Also es gab da ein paar äh räumliche Veränderungen. Eintracht ist komplett neu aufgebaut worden. Gab,
+
+01:20:53.538 --> 01:21:06.871
+<v Tim Pritlove>paar zusätzliche äh Gänge, damit dort halt die Veranstaltungsflächen besser voneinander getrennt werden können, wenn da mehrere Veranstaltungen gleichzeitig stattfinden würden, nehmen natürlich das gesamte Gebäude ein und ja, müssen wir gucken.
+
+01:21:07.412 --> 01:21:16.775
+<v Tim Pritlove>Wie das so sein wird, aber bin da eigentlich ganz optimistisch, dass der alte Drive auch wieder kommt.
+
+01:21:16.504 --> 01:21:22.831
+<v Linus Neumann>Ja, wird auf jeden Fall äh spannend.
+
+01:21:24.562 --> 01:21:31.665
+<v Linus Neumann>Und genau, wer einreichen möchte, kann sich jetzt darüber Gedanken machen. Zum Beispiel den Vortrag über Bahnen.
+
+01:21:31.918 --> 01:21:41.021
+<v Tim Pritlove>Warum es alle Nerds interessieren muss? Genau, die Komplexität des Bahnsystems sind heute hätte ich gern. Den würde ich mir.
+
+01:21:41.346 --> 01:21:44.464
+<v Linus Neumann>Will ja nicht sagen, dass nicht komplex wäre.
+
+01:21:45.642 --> 01:21:49.271
+<v Tim Pritlove>Nur nicht fasziniert. Nee, wir brauchen halt einen Vortrag, den du dir dann anguckst, wo.
+
+01:21:49.284 --> 01:21:57.005
+<v Linus Neumann>Als Kind keine Modelleisenbahn gebaut. Ich hatte eine Benjamin Blümchenkassette mit Eisenbahn. Die fand ich ganz gut.
+
+01:22:00.352 --> 01:22:05.093
+<v Linus Neumann>Schnuff, schnuff, schnuff die Eisenbahn. Wer will, wer will mit nach Glück.
+
+01:22:04.843 --> 01:22:07.110
+<v Tim Pritlove>Bildungsauftrag nicht erfüllt.
+
+01:22:07.113 --> 01:22:08.632
+<v Linus Neumann>Der wollte.
+
+01:22:08.382 --> 01:22:10.453
+<v Tim Pritlove>Aber der konnte dich ja nicht mitreißen.
+
+01:22:10.586 --> 01:22:21.113
+<v Linus Neumann>Benjamin Blümchen als Lokomotivführer hatte ich. War so. Mal gucken, ob's das noch gibt. Loco.
+
+01:22:20.863 --> 01:22:27.072
+<v Tim Pritlove>Du warst so so was stirbt aus und dann ist es nie wieder irgendwo zu finden, weiß doch wie die Welt ist.
+
+01:22:26.822 --> 01:22:28.384
+<v Linus Neumann>Benjamin Blümchen DE,
+
+01:22:29.202 --> 01:22:36.659
+<v Linus Neumann>Als Lokomotivführer Nummer vierunddreißig, dein 11 hat mit Viertüre gibt's auf gibt's auf CD.
+
+01:22:37.729 --> 01:22:47.541
+<v Linus Neumann>Sechs Euro neunundvierzig, MC. Man geht man kann das noch auf Kassette kaufen. Geil. Oder als MP3, ich kaufe das jetzt als MP3, so.
+
+01:22:47.596 --> 01:22:54.717
+<v Tim Pritlove>An und dann gucken wir noch mal, wie sie so zum Bahnsystem stehst. Vielleicht.
+
+01:22:54.417 --> 01:23:09.030
+<v Linus Neumann>Auf dem Bahnhof in Neudorf ist eine Dampflokausstellung. Die wollen sich Benjamin und Otto auch ans Haus schauen. Sie sind begeistert von dem wunderschönen alten Loks und steigen ein. Es ist jedoch ziemlich eng und da passiert es. Benjamin verhakt sich mit dem Rüssel in den Hebeln
+
+01:23:08.892 --> 01:23:18.170
+<v Linus Neumann>und die Dampflokdampf mit ihnen davon. So sieht's aus. Wie das wohl ausgeht.
+
+01:23:19.624 --> 01:23:33.450
+<v Linus Neumann>Ein Elefant im ja das höre ich mir jetzt an, das graue ich. Ich gucke mal nur schnell weiter. Ich habe das ja schon mal gekauft. Nee, ich ich habe das ja.
+
+01:23:34.130 --> 01:23:38.709
+<v Linus Neumann>Also ich hatte die Kassette. Die habe ich.
+
+01:23:38.721 --> 01:23:43.702
+<v Tim Pritlove>Du forderst sozusagen nur deine dir zustehende Sicherheitskopie an.
+
+01:23:44.100 --> 01:23:49.700
+<v Linus Neumann>Nee, das ist ein wie Spiel. Nee, muss ich kaufen.
+
+01:23:49.400 --> 01:23:55.829
+<v Tim Pritlove>Das heute nicht mehr. Man muss dann immer wieder bezahlen. Nach zehn Jahren ist alles vergessen.
+
+01:23:56.610 --> 01:24:02.661
+<v Linus Neumann>Echt? Neben mir also Moment, wenn ich wenn ich die Kassette habe, meinst du nicht, dass ich das recht habe? Die.
+
+01:24:02.595 --> 01:24:07.582
+<v Tim Pritlove>Ich meine ist jetzt vollkommen unerheblich. Ich sage ja nur kennst doch die Welt.
+
+01:24:08.382 --> 01:24:12.017
+<v Linus Neumann>Oh jetzt muss ich mich hier registrieren.
+
+01:24:11.116 --> 01:24:15.316
+<v Tim Pritlove>Mach das mal. Äh wir können ja in der Zwischenzeit schon mal tschüss sagen. Äh,
+
+01:24:15.377 --> 01:24:30.255
+<v Tim Pritlove>du weiter äh recherchierst. Das war hier eure Kurzausgabe vom Anfang der Woche und wie gesagt, wir äh werden demnächst noch was nachlegen. Deswegen heute mal sehr übersichtliche Themenvielfalt und äh wir erwarten eure Bahnkommentare und freuen uns schon drauf
+
+01:24:30.243 --> 01:24:32.652
+<v Tim Pritlove>äh dann hören wir uns in ein paar Tagen wieder.
+
+01:24:33.200 --> 01:24:36.198
+<v Linus Neumann>Bis dahin, tschau, tschau.

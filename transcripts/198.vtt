@@ -1,0 +1,1391 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP198 Freiwillige Cyberwehr
+Publishing Date: 2016-10-08T20:11:46+02:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp198-freiwillige-cyberwehr
+
+00:00:00.005 --> 00:00:02.305
+<v Tim Pritlove>Guten Morgen Ninus.
+
+00:00:02.055 --> 00:00:03.605
+<v Linus Neumann>Guten Morgen Tim.
+
+00:00:05.762 --> 00:00:08.550
+<v Linus Neumann>Cyber, wer ist da?
+
+00:00:28.783 --> 00:00:40.434
+<v Tim Pritlove>Lokbuch, Netzpolitik, Nummer eins neun achthundertachtundneunzig und äh nie war das Wünschen eines guten Morgens so angemessen wie heute,
+
+00:00:40.771 --> 00:00:47.110
+<v Tim Pritlove>Äh wir sind beide etwas angeschlagen, tut aber noch ein bisschen mehr.
+
+00:00:47.489 --> 00:00:53.378
+<v Linus Neumann>Ja ich ich hab es also ich war ja Geburtstag, es war Geburtstag.
+
+00:00:53.348 --> 00:00:55.361
+<v Tim Pritlove>Politik org wieder mal.
+
+00:00:55.157 --> 00:00:57.524
+<v Linus Neumann>Zwölf, zwölfter Geburtstag.
+
+00:00:58.270 --> 00:01:11.898
+<v Tim Pritlove>Halt, wie wir das ja hier auch schon angekündigt haben zur Folge hatte, dass es wieder eine weitere äh Ausgabe der Netzpolitik Ork Konferenz mit dem wo man immer nicht genau weiß, wie die heißt, wahrscheinlich heißt sie, das ist Netzpolitik.
+
+00:01:11.976 --> 00:01:13.394
+<v Linus Neumann>Ja oder du so heißt sie?
+
+00:01:13.094 --> 00:01:20.467
+<v Tim Pritlove>Ja, man könnte sie ja auch die Dienveranstaltung nennen. Das ist Netzpolitik.
+
+00:01:20.461 --> 00:01:22.342
+<v Linus Neumann>Dienen, das ist.
+
+00:01:22.042 --> 00:01:35.592
+<v Tim Pritlove>Ist auf jeden Fall gut durchgeplant. Soweit kann man das schon mal äh festhalten, fand auch wieder am selben Ort statt, wo es schon zweimal war, äh in der Kulturbrauerei in Berlin, sehr angemessene Location für diese Veranstaltung,
+
+00:01:36.181 --> 00:01:40.225
+<v Tim Pritlove>War gut besucht, ich weiß jetzt nicht, wie viele Leute da waren, ähm,
+
+00:01:40.285 --> 00:01:53.036
+<v Tim Pritlove>keine Teilnehmerverdreifachung oder so, aber zumindest äh eine eine solide Nachfrage nach nach dieser Veranstaltung etwas internationaler als bisher, also es gab,
+
+00:01:53.132 --> 00:01:58.570
+<v Tim Pritlove>Mehrere auf englisch gehaltene Vorträge von internationalen Gästen,
+
+00:01:58.967 --> 00:02:08.341
+<v Tim Pritlove>Und natürlich würden wir euch jetzt gerne auch schon einen ganz berühmten Eindruck äh davon vermitteln, wie denn das da alles so gewesen ist. Aber,
+
+00:02:08.540 --> 00:02:21.495
+<v Tim Pritlove>warst gar nicht da und ich äh bin leider vorzeitig abgerufen worden und konnte von daher nur einen kurzen Vormittag das Ganze geschehen selbst begleiten und,
+
+00:02:21.802 --> 00:02:30.797
+<v Tim Pritlove>dann waren wir halt erst zur äh Party wieder dabei, die wie wir auch feststellen dürfen. Eine solide Veranstaltung war.
+
+00:02:31.038 --> 00:02:34.480
+<v Linus Neumann>Das war solide, ja. Das konnte man, das konnte man so machen.
+
+00:02:34.180 --> 00:02:46.985
+<v Tim Pritlove>Das hatte, das hatte alles, alles, was man sich von einer Party so wünscht. Äh und jetzt hast du ja auch das, was man sich von so einer Party so wünscht, so einen richtig schönen digitalen Hangover.
+
+00:02:46.793 --> 00:02:48.205
+<v Linus Neumann>Das stimmt überhaupt nicht.
+
+00:02:47.905 --> 00:02:51.126
+<v Tim Pritlove>Sicher?
+
+00:02:50.856 --> 00:02:57.982
+<v Linus Neumann>Nur weil ich mich lauthals beschwert habe, dass äh technische Aufklärung nicht diesen komischen Goethepreis bekommen hat.
+
+00:03:00.428 --> 00:03:06.329
+<v Linus Neumann>Gemeint bei der Grimma Online Award. Äh war doch alles in Ordnung.
+
+00:03:06.251 --> 00:03:10.030
+<v Tim Pritlove>Ja. Naja, also war äh auf jeden Fall ein tolles Fest,
+
+00:03:10.103 --> 00:03:23.418
+<v Tim Pritlove>Zum aktuellen Zeitpunkt jetzt einen Tag nach dieser Veranstaltung ähm können wir euch jetzt noch nicht mit sehr viel Details äh beliefern. Wie gesagt, ähm es sind auch die Aufzeichnungen noch nicht im Netz, wenn das dann vermutlich nächste Woche dann soweit ist
+
+00:03:23.317 --> 00:03:32.324
+<v Tim Pritlove>euch ein paar Tipps geben, was man sich auf jeden Fall anschauen sollte. Das Einzige, was ich jetzt schon aus dem Stand heraus ähm.
+
+00:03:33.159 --> 00:03:37.437
+<v Tim Pritlove>Empfehlen kann ist zum Beispiel der Vortrag von Julia Reder,
+
+00:03:37.732 --> 00:03:49.359
+<v Tim Pritlove>die sich ja auch schon mal hier zu Gast war in der hundertfünfzig und die sich gerade sehr intensiv mit der ganzen Frage europäisches Leistungsschutzrecht auseinandersetzt und da äh,
+
+00:03:49.871 --> 00:03:55.074
+<v Tim Pritlove>auch schon viele Alarmglocken in der Hand hält und heftig äh schwenkt,
+
+00:03:55.117 --> 00:04:04.959
+<v Tim Pritlove>rund um das Thema gab's auch noch so einiges andere, aber es war mal wieder ein sehr breites Bouquet, in gewisser Hinsicht auch eine ähm eine ja eine Statusbeschreibung.
+
+00:04:05.855 --> 00:04:17.236
+<v Tim Pritlove>Aber ähm auch vor allem vor allem natürlich auch einfach auch eine sehr fokussierte Veranstaltung für die ganzen Aktivisten aus dem Netzpolitischen Umfeld,
+
+00:04:17.392 --> 00:04:18.011
+<v Tim Pritlove>Sprich,
+
+00:04:18.185 --> 00:04:28.563
+<v Tim Pritlove>da trifft man sich dann halt mal und das eben nicht nur so mal so nebenbei wie bei Kongress oder Republika dann eben ganz dezidiert,
+
+00:04:28.858 --> 00:04:36.795
+<v Tim Pritlove>nur zu diesem Thema. Ja, sehr viel mehr können wir dazu jetzt erstmal noch nicht sagen, aber.
+
+00:04:37.985 --> 00:04:45.316
+<v Tim Pritlove>Stay tuned, da werden dann demnächst sicherlich die äh entsprechenden Audiovisuellen Veröffentlichungen nachfolgen.
+
+00:04:46.819 --> 00:04:52.533
+<v Linus Neumann>Die sind dann hiermit schon mal vor vor Veröffentlichung schon empfohlen.
+
+00:04:52.233 --> 00:04:53.650
+<v Tim Pritlove>Angekündigt, genau.
+
+00:04:53.441 --> 00:04:57.280
+<v Linus Neumann>Hm, wir wollten ja auch eine Veranstaltung machen.
+
+00:04:58.440 --> 00:05:05.272
+<v Linus Neumann>Waren da in oder wir wollen eine Veranstaltung machen, normalerweise eine kleine
+
+00:05:05.134 --> 00:05:18.732
+<v Linus Neumann>Fehler gemacht in dieser Planung und zwar haben wir längere Zeit mit einer potenziellen Location geplant und verhandelt und alles geklärt und Technik geklärt und Räume und,
+
+00:05:18.931 --> 00:05:24.116
+<v Linus Neumann>dann irgendwann in einem der vielen Gespräche festgestellt
+
+00:05:24.069 --> 00:05:37.913
+<v Linus Neumann>dass wir irgendwann einmal es wohl ein Verwirrung gab über welches Datum wir genau sprechen. Das heißt wir haben alles geklärt mit der Location, alles super, ähm nur leider an einem anderen Tag,
+
+00:05:37.968 --> 00:05:45.359
+<v Linus Neumann>Was ich bin eigentlich froh, dass äh wir das so früh noch gemerkt haben, weil das wäre echt blöd gewesen,
+
+00:05:45.467 --> 00:05:53.549
+<v Linus Neumann>am Donnerstag den sechsundzwanzigsten einen Anruf oder Mittwoch oder was das dann gewesen wären, ein Anruf auf dem Handy, so wolltet ihr nicht heute kommen,
+
+00:05:53.874 --> 00:05:55.712
+<v Linus Neumann>Insofern.
+
+00:05:56.674 --> 00:06:10.585
+<v Linus Neumann>Zeigt, dass da unsere Kompetenz äh auf voller Breite äh dass wir da jetzt also gerade uns das Problemchen eingetreten haben für den äh Oktober, äh den,
+
+00:06:10.693 --> 00:06:15.019
+<v Linus Neumann>neunundzwanzigsten Oktober, den wir ja hier so vollmundig angekündigt haben,
+
+00:06:15.020 --> 00:06:25.980
+<v Linus Neumann>eine neue Location suchen zu müssen. Wir sind damit sehr bemüht. Wir sind da, wir waren stets bemüht und kämpfen gerade darum, aber äh,
+
+00:06:26.161 --> 00:06:37.079
+<v Linus Neumann>Es könnte steht natürlich nun das Risiko im Raume, dass wir ähm gezwungen sein wer würden ähm,
+
+00:06:37.848 --> 00:06:40.960
+<v Linus Neumann>diesen Termin nochmal äh zur Disposition zu stellen.
+
+00:06:41.135 --> 00:06:55.971
+<v Tim Pritlove>Wir werden euch natürlich auf dem Laufenden halten, wie es sich da äh entwickelt. Sprich, ihr solltet ein gepflegtes Auge auf äh zum Beispiel unseren Twitter Cont haben, wo wir das dann etwas kurzfristiger kommentieren können, auch wie es vorangeht
+
+00:06:55.857 --> 00:07:03.182
+<v Tim Pritlove>tut uns leid soweit ähm wir sind noch dran und noch ist nicht alles verloren.
+
+00:07:05.796 --> 00:07:10.339
+<v Tim Pritlove>So und dann war da noch die Welt.
+
+00:07:10.069 --> 00:07:13.193
+<v Linus Neumann>Die Welt da draußen hat sich auch weiter gedreht.
+
+00:07:14.029 --> 00:07:23.835
+<v Linus Neumann>Ähm ein interessanter Vorschlag äh der diese Woche aufkam äh war die Idee oder es ist geil, ist glaube ich schon, wenn ich das verstehe, gibt wird es das geben. Und zwar.
+
+00:07:24.611 --> 00:07:36.917
+<v Linus Neumann>Die freiwillige Cyberwehr. Die freiwillige Halberwehr ist eine Idee des äh des Bundesamtes für Sicherheit in der Informationstechnik und wie wir ja hier schon öfter mal,
+
+00:07:37.482 --> 00:07:41.640
+<v Linus Neumann>Erwähnt haben, ist das BSI ja.
+
+00:07:42.890 --> 00:07:46.225
+<v Tim Pritlove>Also das Bundesamt für Sicherheit und Informationstechnik.
+
+00:07:45.925 --> 00:07:54.998
+<v Linus Neumann>Genau, das BSI ist ähm ja so das ist eben eine Behörde, ne, ein Bundesamt und entsprechende ähm,
+
+00:07:55.215 --> 00:08:08.621
+<v Linus Neumann>Abläufe und Strukturen finden sich dort und entsprechend äh entsprechende Gehaltsstrukturen bilden sich da drin ab und äh für entsprechende Menschen.
+
+00:08:09.457 --> 00:08:16.379
+<v Linus Neumann>Ist die dortige die Arbeit dort attraktiv und vielleicht bestimmte andere Menschen eben nicht,
+
+00:08:16.992 --> 00:08:21.588
+<v Linus Neumann>Insofern findet sich beim BSI äh durchaus äh,
+
+00:08:21.889 --> 00:08:31.870
+<v Linus Neumann>Sachkompetenz, aber wenn es wirklich mal um Expertise geht, äh sind die regelmäßig auf ähm.
+
+00:08:32.898 --> 00:08:37.951
+<v Linus Neumann>Experten aus der deutschen Wirtschaft angewiesen. Was auch nicht schlecht ist,
+
+00:08:37.952 --> 00:08:52.259
+<v Linus Neumann>was auch nicht verkehrt ist, ne? Das ist das, du hast jetzt hier so einen BSI. Und wenn du dann irgendeinen Standard machen willst oder irgendwo sagst, okay, folgendes soll jetzt gemacht werden, dann holst du dir natürlich Leute, die nicht irgendwie äh die die Sachen nicht am Schreibtisch machen, sondern die vielleicht
+
+00:08:52.175 --> 00:08:58.184
+<v Linus Neumann>äh professionelle Erfahrung in in diesen Bereichen haben. Da gibt's, geht's um alles Mögliche, da kannst du mit irgendwelchen
+
+00:08:58.040 --> 00:09:10.376
+<v Linus Neumann>Industrieherstellern über über einen Standard zur Verschrottung von Festplatten diskutieren, da kannst du über Sicherheitsstandards für Unternehmen, für kritische Infrastrukturen und so alles Mögliche
+
+00:09:10.286 --> 00:09:17.875
+<v Linus Neumann>reden. Ich hab das jetzt zum Beispiel auch erwähnt, dass es bei dem IT-Sicherheitsgesetz im Prinzip ja darum gehen soll,
+
+00:09:18.170 --> 00:09:24.900
+<v Linus Neumann>Das Unternehmen eigentlich ihre Sicherheitsstandards selber schreiben, das habe ich ja ausführlich äh damals beschrieben und auch kritisiert,
+
+00:09:25.513 --> 00:09:32.718
+<v Linus Neumann>Entscheidend ist, dass BSI hat also nicht für alles die Sachkompetenz an Ort und Stelle und ist natürlich auch mit seinen Gehaltsstrukturen nicht in der Lage.
+
+00:09:33.313 --> 00:09:34.452
+<v Tim Pritlove>Die Leute anz.
+
+00:09:34.202 --> 00:09:39.232
+<v Linus Neumann>Leute anzuziehen. Und das ist auch nicht unbedingt schlecht.
+
+00:09:40.494 --> 00:09:51.574
+<v Linus Neumann>Dass es so ist. Interessant war jetzt die Idee, wir, dass das BSI sagt, ja, für die insident, also ein Unternehmen wurde gecybert und muss jetzt ähm,
+
+00:09:51.893 --> 00:09:58.533
+<v Linus Neumann>darauf eine Reaktion finden. Da gibt es ist natürlich ein sehr lukratives Geschäftsfeld für,
+
+00:09:58.713 --> 00:10:09.331
+<v Linus Neumann>IT-Sicherheitsleute, ne? Also wenn dein, wenn dein Kunde äh das Scheuentor offen hat, frisch gecybert, ja, ähm dann muss,
+
+00:10:09.956 --> 00:10:23.542
+<v Linus Neumann>dann verhandelt er nicht mehr so viel über Preis. Ne, das und das ist natürlich dann ist wirklich ein Notfall, dann kannst du dann hast du eine interessante Aufgabe, ähm eine schnelle Forensik zu machen, eine schnelle Reaktion zu zeigen ähm,
+
+00:10:23.958 --> 00:10:31.450
+<v Linus Neumann>und das ist, das ist natürlich der mit der spannendste Teil äh wenn man im im Cyber arbeitet. Ähm,
+
+00:10:31.523 --> 00:10:44.015
+<v Linus Neumann>dass das BSI sagt jetzt wir wollen für diese Aufgabe, für diese Tätigkeit ähm im Bereich der kritischen Infrastrukturen, also Energieversorger, Krankenhäuser, Telekommunikationsnetze und so weiter. Ähm.
+
+00:10:46.101 --> 00:10:55.409
+<v Linus Neumann>Unternehmen dazu bringen einem Mobile Instant Response Team äh beizutreten und dort ähm.
+
+00:10:56.521 --> 00:11:11.272
+<v Linus Neumann>Arbeitskraft zu spenden. Und da machst du einen Kooperationsvertrag, in dem du dich als Unternehmen verpflichtest. Irgendwie zwanzig Personentage im Jahr, unentgeltlich ähm dem BSI zu spenden.
+
+00:11:12.120 --> 00:11:18.994
+<v Linus Neumann>Was schon etwas crazy ist,
+
+00:11:19.013 --> 00:11:29.143
+<v Linus Neumann>Also erstens, diese, was kritische Infrastrukturen unterhält, wenn's jetzt nicht gerade ein Stadtwerk ist, aber wenn man jetzt mal äh von Krankenhäusern Telekom,
+
+00:11:29.156 --> 00:11:43.241
+<v Linus Neumann>Telekommunikationsnetzbetreibern und so weiterreden. Die sind ja auch durchaus in der Lage, so ein Mobile äh so ein Instagram Respont Steam zu bezahlen, ja. Ähm wie kommen die jetzt auf die Idee, dass diese Leute diese hochqualifizierten Personen,
+
+00:11:43.776 --> 00:11:53.252
+<v Linus Neumann>Ihre Arbeitskraft kostenlos den BSI spenden sollten, ja? Und dann auch noch in den in den lukrativsten und interessantesten Bereichen,
+
+00:11:53.769 --> 00:12:06.989
+<v Linus Neumann>Ähm ich glaube, was da passieren wird, ist das, das wird ein, das wird erfolgreich sein, außer aus zwei Gründen. Erstens, wenn du das als Unternehmen machst, wirst du damit natürlich auch gegenüber deinen deinen Kunden angeben, ja?
+
+00:12:06.845 --> 00:12:10.630
+<v Tim Pritlove>Dass man sozusagen Teil der Suverbays. Ich bin in der freiwilligen Feuerwehr. Mhm.
+
+00:12:08.413 --> 00:12:18.027
+<v Linus Neumann>Ich bin in der freiwilligen Cyberwehr. So, wir machen die ganz dicken Dinger. Da dürfen wir nicht drüber reden, aber wir sind da mit dabei, ne. Ähm zweitens.
+
+00:12:19.242 --> 00:12:24.307
+<v Linus Neumann>Wenn du in diesem Bereich tätig sein möchtest, dann wäre natürlich, wär's natürlich optimal,
+
+00:12:24.890 --> 00:12:35.159
+<v Linus Neumann>Wenn du die dicken Kunden haben möchtest in so 'ner freiwilligen Cyberwert zu sein, ne? Also das heißt das ist für dich interessant, einerseits damit zu werben, auch wenn du vielleicht niemals,
+
+00:12:35.550 --> 00:12:42.166
+<v Linus Neumann>Wenn dein Pieper niemals geht und wird zum zum zum Cyber muss. Ähm aber,
+
+00:12:42.587 --> 00:12:49.202
+<v Linus Neumann>Und andererseits also damit zu werben und andererseits eben auch, um mit diesem äh Unternehmen in Kontakt zu geraten.
+
+00:12:51.252 --> 00:12:54.428
+<v Linus Neumann>Ja, also kritische Infrastrukturbetreiber, wie gesagt, ich habe halt nur.
+
+00:12:54.178 --> 00:12:55.860
+<v Tim Pritlove>Also die betroffenen Unternehmen meinst du?
+
+00:12:55.616 --> 00:12:59.280
+<v Linus Neumann>Dem betroffenen Unternehmen, das sind ja dann nicht irgendwelche, ne? Also hier wird ja.
+
+00:12:58.980 --> 00:13:08.606
+<v Tim Pritlove>Sind auch nicht nur Unternehmen, sondern es sind auch äh Bundesländerverwaltungen oder sogenannte Institutionen im staatlichen Interesse, wofür es nicht alles Abkürzungen gibt in sie
+
+00:13:08.558 --> 00:13:19.362
+<v Tim Pritlove>ja? Also alles was in irgendeiner Form zu einer Großgefahrenlage äh führen könnte, wenn da halt der Cyber kommt und dann äh irgendwie die Fälle davonschwimmen.
+
+00:13:19.308 --> 00:13:28.610
+<v Linus Neumann>Aber jetzt überlege ich mir, wenn ich jetzt ein großes, erfolgreiches Unternehmen bin, was in diesem Bereich tätig ist, da spende ich dann,
+
+00:13:29.097 --> 00:13:34.943
+<v Linus Neumann>Die lukrativsten und spannendsten Aufträge ausgerechnet an das BSI und mich ja nach.
+
+00:13:33.766 --> 00:13:38.789
+<v Tim Pritlove>Na, was war das? Zwanzig, zwanzig, was hast du gesagt? Zwanzig Personentage pro Jahr ist ja Pipifax.
+
+00:13:40.322 --> 00:13:41.433
+<v Linus Neumann>Nee.
+
+00:13:42.059 --> 00:13:46.607
+<v Tim Pritlove>Zwanzig Personen, Tage pro Jahr.
+
+00:13:44.763 --> 00:13:52.670
+<v Linus Neumann>Du hast ja nur so du sind zehn Prozent ungefähr auf der Faktorisierbaren Tage, die du hast. Bis ungefä.
+
+00:13:52.370 --> 00:13:53.782
+<v Tim Pritlove>Mitarbeiter oder was?
+
+00:13:54.768 --> 00:13:59.154
+<v Linus Neumann>Ich glaube insgesamt aber jetzt also ich weiß es.
+
+00:13:58.854 --> 00:14:04.887
+<v Tim Pritlove>Wenn du hundert Leute hast, irgendwie in deinem Stab, dann jetzt zwanzig Personentage, es ist wieder weiter.
+
+00:14:04.587 --> 00:14:09.189
+<v Linus Neumann>Nee, nee, das ist ja, es ist finanziell, ist das jetzt kein großes Commitment, ne,
+
+00:14:09.256 --> 00:14:16.202
+<v Linus Neumann>für ein größeres Unternehmen. Aber genau die größeren Unternehmen werden das im Zweifelsfall, wenn dann nur machen, um damit anzugehen,
+
+00:14:16.436 --> 00:14:26.026
+<v Linus Neumann>Aber interessant ist es eigentlich nur für kleinere Unternehmen, also für Leute, die denen es an Erfahrungen machen hält, ne, die also vielleicht sagen
+
+00:14:26.021 --> 00:14:29.698
+<v Linus Neumann>Oh, das wäre ja spannend mal äh mit der deutschen
+
+00:14:29.572 --> 00:14:41.025
+<v Linus Neumann>Telekom oder so äh zusammenzuarbeiten. Das wäre doch toll, wenn ich da mal meinen Namen äh ins Gespräch bringe und äh dann äh dann melde ich mich halt jetzt hier für den Freiwilligen Cyberdienst.
+
+00:14:41.302 --> 00:14:46.596
+<v Tim Pritlove>Ich freue mich wie diese Serverwehr dann sozusagen auch also erstmal was sie konkret tun soll,
+
+00:14:46.812 --> 00:14:55.603
+<v Tim Pritlove>Also ich meine, wenn wenn das sozusagen für mich hat das gerade so ein bisschen den Anschein, als wäre das so eine Art Krisenstab. Ja, also man hat halt jetzt äh so ein Insident
+
+00:14:55.477 --> 00:15:04.196
+<v Tim Pritlove>Uns geht jetzt eigentlich sehr viel mehr äh darum, aus Sicht des BSI die Situation im Blick zu behalten und gut bewerten zu können. Nicht,
+
+00:15:04.707 --> 00:15:06.131
+<v Tim Pritlove>Unbedingt primär,
+
+00:15:06.318 --> 00:15:18.804
+<v Tim Pritlove>Den Fall zu lösen, weil das kann ja nun durchaus sein, dass dann, was weiß ich, dann stehen die da sagen, ja, zwanzig Personentage sind durch, ich gehe dann mal wieder nach Hause. Ähm der Job muss ja dann sozusagen auch getan werden und das ist,
+
+00:15:19.177 --> 00:15:23.774
+<v Tim Pritlove>Wie du schon richtig sagst, sicherlich dann nicht im Interesse der Unternehmen, dass sie dann im Ruhe überhaupt nicht mehr dabei sind.
+
+00:15:24.231 --> 00:15:26.243
+<v Linus Neumann>Also du kriegst dann irgendwie so eine.
+
+00:15:27.554 --> 00:15:41.825
+<v Linus Neumann>Dieser Vertrag ist ja geliegt so und du musst natürlich dann auch ein ähm so ein Alarmierungskontakt bereitstellen, ne? Also ist irgendeiner hat dann so, also gibt dann die muss eine Handynummer der Cyber schläft hier schlägt ja nachts zu.
+
+00:15:39.782 --> 00:15:43.958
+<v Tim Pritlove>Paja. Ja, free Am kommt der Anruf.
+
+00:15:42.486 --> 00:15:49.522
+<v Linus Neumann>Kommt dann Pajet muss immer einer auf Pager Duty sein. Ähm aber dann also hier.
+
+00:15:50.983 --> 00:16:03.307
+<v Linus Neumann>Das BSI leitet, das und hat äh äh die folgenden Aufgaben, Geschäftsstelle, Leitstelle vor Kommando, Ausführungsorgan, Institut Händler und Institut Manager.
+
+00:16:03.638 --> 00:16:08.980
+<v Linus Neumann>Und du bist dann da irgendwie äh an der Cyberfront äh mit deinen Leuten,
+
+00:16:09.377 --> 00:16:21.719
+<v Linus Neumann>Ähm der Kooperationsbenenner benennen die in ihrem Unternehmen zum Zwecke der Alarmierung äh der jeweiligen Cyberteam Cyberwehrteammitglieder äh eine Kontaktstelle, die jederzeit vierundzwanzig sieben erreichbar ist.
+
+00:16:24.964 --> 00:16:33.010
+<v Linus Neumann>Ich finde das prinzipiell erstmal ein Armutszeugnis, dass sie das wirklich so machen müssen. Dass dieser, also.
+
+00:16:33.822 --> 00:16:46.681
+<v Linus Neumann>Dass sie sagen, wir wir suchen wir haben diese Kompetenz bei uns nicht. Wir wollen jetzt, dass die Unternehmen hier für fürs Vaterland einstehen und dann das Ganze auch wirklich Cyberwert zu nennen
+
+00:16:46.525 --> 00:16:53.555
+<v Linus Neumann>Und so, das ist schon irgendwie, es hat alles irgendwie so ein, so ein so viel Lächerlichkeit, die da drin ist, weißt du?
+
+00:16:53.610 --> 00:17:08.295
+<v Tim Pritlove>Ich würde sagen, es drückt eine gewisse Hilflosigkeit aus, aber man könnte es natürlich auch positiv äh interpretieren und sagen, na ja, immerhin äh bemühen sie sich überhaupt, irgendeine Lösung zu finden, weil äh lieber sowas als gar nix.
+
+00:17:09.275 --> 00:17:10.387
+<v Tim Pritlove>Könnte man so sehen.
+
+00:17:10.904 --> 00:17:17.706
+<v Linus Neumann>Ja natürlich aber ich finde es ist schon irgendwie traurig, wenn du sowas nicht hast.
+
+00:17:18.547 --> 00:17:23.739
+<v Linus Neumann>Also wenn du schön wäre es ja natürlich brauchst du sowas, ne? Du musst also so.
+
+00:17:24.562 --> 00:17:37.319
+<v Linus Neumann>Und es wäre auch nicht doof, wenn das BSI es ist auch kein, keine keine dumme Idee, dass das BSI eine solche ähm Dienstleistung erbringen kann für die kritischen Infrastrukturen im äh,
+
+00:17:37.476 --> 00:17:42.349
+<v Linus Neumann>die im Interesse des Staates sind, ne? Natürlich möchtest du sagen, ey,
+
+00:17:42.716 --> 00:17:52.732
+<v Linus Neumann>hier Brunsbüttel. Äh wir wurden gecybert, kann mal bitte einer kommen. So, dass äh möchtest du schon, dass es da jemanden gibt, an den die sich wenden können, ne?
+
+00:17:52.841 --> 00:17:57.215
+<v Linus Neumann>Traurig ist ja dann, wenn das, wenn die irgendwie aus der Wirtschaft dann, also dieses dieses
+
+00:17:57.078 --> 00:18:06.601
+<v Linus Neumann>Das Unternehmen meldet seinem Mitarbeiter, spendet seine Mitarbeiter zum Freiwilligendienst an der Cyberwaffe. Das ist irgendwie das ich finde das irgendwie so ein bisschen.
+
+00:18:07.401 --> 00:18:12.664
+<v Linus Neumann>Ja diese Hilflosighilflosigkeit die erweckt da schon ein bisschen Mitleid auch bei mir.
+
+00:18:12.377 --> 00:18:14.822
+<v Tim Pritlove>Was würdest du denn meinen, was man tun sollte.
+
+00:18:16.060 --> 00:18:25.380
+<v Linus Neumann>Interessant ist, äh da gab's also was man sich ja wirklich überlegen muss ist, ähm das BSI wäre ja dafür ein da.
+
+00:18:27.526 --> 00:18:29.238
+<v Linus Neumann>Dinge sicher zu machen.
+
+00:18:30.290 --> 00:18:44.014
+<v Linus Neumann>Und diese Aufgabe verfolgt das BSI auf eine Art und Weise, die in vielen, an vielen Stellen eben einfach nicht zielführend und kritikwürdig ist. Ne? Also ich habe beim IT-Sicherheitsgesetz kritisiert, dass sie sagen, ja,
+
+00:18:44.219 --> 00:18:51.057
+<v Linus Neumann>Die Idee des IT Sicherheitsgesetzes ist, das Unternehmen wird zu einem bestimmten Sicherheitsstand verdonnert und wenn es den nicht einhält,
+
+00:18:51.712 --> 00:18:59.169
+<v Linus Neumann>dann drohen dem Unternehmen Strafen. Diesen Sicherheitsstandard sticht das Unternehmen aber selber vor. Das heißt, es wird nichts vorschlagen,
+
+00:18:59.896 --> 00:19:05.130
+<v Linus Neumann>Was es nicht ohnehin schon umgesetzt hat. Ähm das BSI.
+
+00:19:06.627 --> 00:19:15.616
+<v Linus Neumann>Wir sehen wenig Wirkung des BSI dahingehend, dass irgendwo wirklich Dinge sicherer gemacht werden. Ähm.
+
+00:19:16.301 --> 00:19:29.322
+<v Tim Pritlove>Und siehst du, das versäumnisst sozusagen in der äh in der Priorisierung, also in der eiligen Aufgabensetzung oder in der Durchführung? Also links ist die Strategie generell falsch ist oder dass sie nur schlecht verfolgt wird.
+
+00:19:29.966 --> 00:19:35.758
+<v Linus Neumann>Ähm ich glaube, ja, es wird schlecht verfolgt.
+
+00:19:36.618 --> 00:19:38.174
+<v Tim Pritlove>Also die Strategie ist an sich.
+
+00:19:37.958 --> 00:19:40.649
+<v Linus Neumann>Die Strategie Dinge sicherer zu machen ist gut.
+
+00:19:41.479 --> 00:19:48.569
+<v Linus Neumann>Die die Möglichkeiten wie das BSI das versucht zu erreichen sind dann im Detail immer so ein bisschen schlecht,
+
+00:19:49.015 --> 00:19:55.486
+<v Linus Neumann>Also ich glaube glaube tatsächlich dieses Cyber-Wehr äh ist vor allem für diejenigen interessant, die,
+
+00:19:55.823 --> 00:20:06.404
+<v Linus Neumann>Bei denen nicht ohnehin das Telefon klingeln würde, wenn sowas passiert. Du meinst doch nicht, wenn irgendwie ein großer deutscher äh Telefonanbieter ein Cyberproblem hat, erstens hat er genug Leute, die da arbeiten,
+
+00:20:06.651 --> 00:20:11.440
+<v Linus Neumann>Zweitens, wenn, dann wissen die Leute doch ganz genau, wen sie anrufen,
+
+00:20:12.095 --> 00:20:20.922
+<v Linus Neumann>Nämlich Leute, mit denen sie schon vorher zusammengearbeitet haben, mit denen sie ein Vertrauensverhältnis haben. Und Herr da weiß man auch, welche Leute das in Deutschland wehren.
+
+00:20:20.736 --> 00:20:29.731
+<v Tim Pritlove>Und vor allem auch entsprechende NDAs, äh, vielleicht auch schon zu dem Zeitpunkt unterschrieben haben. Und wenn da jetzt so ein Konsortium von irgendwelchen.
+
+00:20:29.431 --> 00:20:32.291
+<v Linus Neumann>Mal eben zusammengetrommelten Leuten.
+
+00:20:33.139 --> 00:20:34.665
+<v Tim Pritlove>Gar nix.
+
+00:20:34.984 --> 00:20:46.689
+<v Linus Neumann>Eben. Die können auch mit deiner ganzen Infrastruktur ja gar nichts anfangen. Was meinst du, wie komplexe Dinger sind? Kommt dann einer, wird einer nachts um drei rausgeklingelt und fährt mit einem Taxi äh.
+
+00:20:47.471 --> 00:20:53.413
+<v Linus Neumann>Zu dir sagt, ich mache jetzt hier, ich ich gucke jetzt, was hier gecybert wurde. Nein, das geht das.
+
+00:20:52.194 --> 00:21:06.675
+<v Tim Pritlove>Musste jetzt erstmal zwei Wochen lang Handbücher studieren, bis du überhaupt verstehst, was eigentlich das angegriffene Objekt überhaupt tut, wie es sich normal verhält und wie man Abweichungen vom Normalverhalten überhaupt messen und dann entsprechende Maßnahmen auch einleiten kann.
+
+00:21:06.417 --> 00:21:07.126
+<v Linus Neumann>Genau.
+
+00:21:08.124 --> 00:21:17.299
+<v Linus Neumann>Also holen die sich natürlich dann diejenigen, würden, die sich diejenigen holen, die Erfahrung haben. Ne, also wenn jetzt ich nehme jetzt als Beispiel äh eine,
+
+00:21:17.702 --> 00:21:24.630
+<v Linus Neumann>Teletelekommunikationsunternehmen. Die haben ihre Sicherheitsberater, die wissen ihre Leute, die werden diese nach diesen Leuten fragen,
+
+00:21:25.106 --> 00:21:37.147
+<v Linus Neumann>oder diese Leute einfach anrufen. Und jetzt ist irgendwie die Überlegung jetzt sollen die, jetzt ruft ihr das BSI an und dann kommt die freiwillige Cyberwehr. Wen ruft denn das BSI an? Die haben doch auch auf der Liste stehen und wissen, wer das kann.
+
+00:21:38.524 --> 00:21:39.953
+<v Tim Pritlove>Wir rufen die gleichen Leute an.
+
+00:21:39.660 --> 00:21:51.088
+<v Linus Neumann>Die rufen die gleichen Leute an und sagen, könnt ihr mal hier zur Cyberwehr kommen? Wir wissen hier was. Die letzte, ihr seid doch, ihr kennt euch da mit diesem mit diesem Thema aus. Also ich, ich sehe nicht, dass das tatsächlich.
+
+00:21:51.966 --> 00:22:03.341
+<v Linus Neumann>Dass da was passt, weißt du, dass da was anderes passieren würde, was nicht ohnehin vorher auch passiert wäre. Außer, dass du jetzt irgendwie als Unternehmen ein freiwilliges Kontingent von zwanzig Personentagen ähm,
+
+00:22:03.888 --> 00:22:06.832
+<v Linus Neumann>dem Staat spendest, ne? Da also mehr passiert da nicht.
+
+00:22:06.935 --> 00:22:16.338
+<v Tim Pritlove>Man könnte natürlich noch argumentieren, dass dann quasi in der Betreuung dieses äh für das BSI mehr Transparenz in dem eigentlichen Vorfall kommt. Insbesondere
+
+00:22:16.152 --> 00:22:23.267
+<v Tim Pritlove>was potentielle Rückmeldung und Erkenntnisse betrifft, die dann eben auch für eine höhere politische Ebene Auswirkung haben.
+
+00:22:23.484 --> 00:22:25.256
+<v Linus Neumann>Das ist, das ist tatsächlich richt.
+
+00:22:25.292 --> 00:22:26.884
+<v Tim Pritlove>Werke et cetera.
+
+00:22:26.626 --> 00:22:38.470
+<v Linus Neumann>Ist eben in der Regel nicht der erste Ansprechpartner. Wenn es darum geht, mal Dinge zu wirklich, ne, wenn's darum geht, mal die Finger äh schmutzig zu machen. Und ähm,
+
+00:22:38.747 --> 00:22:52.771
+<v Linus Neumann>Das ist jetzt nicht der Trusted Advisor, an den die sich als erstes wenden. Und genauso könnte man das sehen als ein Hilf, ein, als ein Ausdruck der Hilfslosigkeit zu sagen, wir wollen in diesen Themen informiert werden, wir wollen in diesen Themen,
+
+00:22:52.892 --> 00:23:00.337
+<v Linus Neumann>mit an vorderster Cyberfront sein und ähm wir schaffen das einfach dadurch, dass wir die,
+
+00:23:01.046 --> 00:23:10.648
+<v Linus Neumann>Die freiwilligen Kooperationsverträge haben und dass man weiß, ey, wenn du gesagt wirst und nicht ans BSI wendest, dann kommen die Leute erstmal kostenlos. Wahrscheinlich sind's die Leute, die ohnehin kommen
+
+00:23:10.480 --> 00:23:18.767
+<v Linus Neumann>Aber die finden dir den ersten ab dem ersten Tag alles in Rechnung stellen, wenn du die übers BSI holst und wir die Leitung übernehmen, dann haben wir mehr Kenntnisse,
+
+00:23:19.512 --> 00:23:22.132
+<v Linus Neumann>Und dafür kriegst du diese Leute kostenlos,
+
+00:23:22.523 --> 00:23:36.085
+<v Linus Neumann>Also das das scheint ja so ein bisschen tatsächlich die Strategie zu sein, ne, zu sehen, wir haben diese Leute nicht, wir wollen in diesen Vorfällen informiert sein, wir wir erreichen das dadurch, dass dass wir in der Lage sind, Leute kostenlos bereitzustellen.
+
+00:23:36.338 --> 00:23:47.460
+<v Tim Pritlove>Weil wenn wir jetzt mal kurz zurückblicken, wir hatten ja letztes Jahr diesen Hack der Bundestags äh Mail Systeme vor allem, ne.
+
+00:23:47.659 --> 00:23:53.066
+<v Linus Neumann>Nee, der wurde über Mail geschickt. Das war dann Trojaner, der zwar ein Trojanerbefall auf Bundestags.
+
+00:23:51.931 --> 00:24:02.362
+<v Tim Pritlove>Genau, der okay, der dann quasi da äh Zugriff auf die auf die internen Systeme und das Netzwerk ähm das heißt, halt halt auch oder ziemlich sicher sogar äh hergestellt hat.
+
+00:24:03.240 --> 00:24:09.567
+<v Tim Pritlove>Was ist deine Vorstellung davon, wie da quasi diese Rispons gelaufen ist? Also wer wurde denn da angerufen als erstes?
+
+00:24:10.968 --> 00:24:15.336
+<v Linus Neumann>Das Unternehmen, was da nachher auch drüber berichtet hat, ich hab's gerade nicht mehr im Kopf.
+
+00:24:15.126 --> 00:24:22.270
+<v Tim Pritlove>Aber es war sozusagen auch da ein Unternehmen und nicht das BSI, was in irgendeiner Form federführend.
+
+00:24:21.970 --> 00:24:35.052
+<v Linus Neumann>Ja, der Wasser, das war ja sowieso dieses Problem mit dem mit dem BSI als Regierungsorgan und dem Parlament als ein anderes Verfassungsorgan, dass die auch sagten, nee, wir wollen dieses BSI hier nicht haben,
+
+00:24:35.208 --> 00:24:44.450
+<v Linus Neumann>Ähm aber in dem Falle, das wäre jetzt ein klassisches Beispiel, da würdest du natürlich die Experten für diesen Themenbereich holen,
+
+00:24:44.571 --> 00:24:54.016
+<v Linus Neumann>Diese Auswahl lässt du auch nicht vom BSI treffen und wenn, dann trifft das BSI am Ende, wenn sie, wenn sie glücklich, wenn sie nicht völlig doof sind, die gleiche Auswahl, die du auch getroffen hättest,
+
+00:24:54.197 --> 00:25:01.918
+<v Linus Neumann>Nur dass es halt kostenlos wäre, also genau, es es scheint für alle so eine Art so wie kriegen wir den Fuß in die Tür zu sein, ne?
+
+00:25:02.910 --> 00:25:12.194
+<v Linus Neumann>Das BSI will den Fuß in die Tür kriegen, bietet das anderen an. Damit kann man werben. Hey, meine Güte, vielleicht melde ich mich auch für die freiwillige Cyberwehr. Kann ja nur interessant sein.
+
+00:25:15.631 --> 00:25:17.043
+<v Linus Neumann>Es ist halt so ein bisschen tra.
+
+00:25:16.793 --> 00:25:18.347
+<v Tim Pritlove>Äh
+
+00:25:18.323 --> 00:25:21.862
+<v Linus Neumann>Schön wäre es, wenn der Staat sich dann äh.
+
+00:25:23.191 --> 00:25:30.419
+<v Linus Neumann>Einfach eine eigene kompetente Truppe ähm mit entsprechenden Gehältern und entsprechender Kompetenz aufbauen würde,
+
+00:25:31.117 --> 00:25:40.106
+<v Linus Neumann>Aber das BSI ist einfach strukturell dazu als Bundesbehörde nicht in der Lage und man sieht eben auch immer diese diese Wirtschaftsnähe, die
+
+00:25:40.034 --> 00:25:49.630
+<v Linus Neumann>Die da ist. Ich habe das BSI häufig eben als eine Wirtschaftsförderungsinstitution in diesem Bereich kritisiert. Und auch das riecht jetzt nach so einer ne
+
+00:25:49.583 --> 00:25:53.951
+<v Linus Neumann>eher wirtschaftlich motivierten äh Sache,
+
+00:25:54.408 --> 00:26:00.717
+<v Linus Neumann>Und eben wieder diese Angebote des BSI in diesem Bereich werden immer nur sehr zögerlich angenommen.
+
+00:26:02.346 --> 00:26:12.657
+<v Tim Pritlove>Tja, aber das jetzt so Cyber während man und Frau irgendwie zum neuen Lieblingsberufsbild der Kinder äh wird. Ist wahrscheinlich noch nicht absehbar.
+
+00:26:10.140 --> 00:26:17.789
+<v Linus Neumann>Wie heißt dieser dieser Drache, der hm? Der will Feuerwehrmann.
+
+00:26:14.208 --> 00:26:20.968
+<v Tim Pritlove>Griso, Grizzo der kleine Drache. Der wollte immer Feuerwehrmann werden, der vielleicht will.
+
+00:26:21.184 --> 00:26:23.315
+<v Linus Neumann>Fiber Rio, der Kleine.
+
+00:26:23.065 --> 00:26:24.086
+<v Tim Pritlove>Ja
+
+00:26:24.119 --> 00:26:30.366
+<v Linus Neumann>Einer Hacker. Ich will's halber feiern. Ich glaube, wir haben dem Thema mehr Aufmerksamkeit geschenkt als notwendig ist.
+
+00:26:30.066 --> 00:26:38.358
+<v Tim Pritlove>Als es verdient, genau. Sehr viel mehr Aufmerksamkeit äh hält natürlich regelmäßig der NSA-Untersuchungsausschuss,
+
+00:26:38.611 --> 00:26:45.527
+<v Tim Pritlove>Dort hat dann der Chaos-Computerclub ein Gutachten äh bereitgestellt. Hat so da deine Finger mit drin.
+
+00:26:45.527 --> 00:26:53.026
+<v Linus Neumann>Ein ganz, ganz äh wenig. Also ein bisschen an der Pressemitteilung und so. Der ähm,
+
+00:26:53.585 --> 00:27:05.867
+<v Linus Neumann>Es handelt sich um ein Sachverständigengutachten gemäß dem Beweisbeschluss SV dreizehn äh in dem der NSR-Untersuchungsausschuss ähm,
+
+00:27:06.222 --> 00:27:13.271
+<v Linus Neumann>sich mit der, mit dem Abhören von ähm Cables, äh mit dem ja doch von von äh.
+
+00:27:14.239 --> 00:27:22.807
+<v Linus Neumann>Also mit dem Abhören an einem Internetexchange und am Lichtwellenleiter auseinandersetzt und das Gutachten hat äh formuliert.
+
+00:27:23.787 --> 00:27:38.238
+<v Linus Neumann>Der Kai Rechtin aus dem Chaos-Computerclub. Ähm der sehr viel ein ein Experte auf diesem Bereich ist und dort mal sich vor allem der Frage gewidmet hat, wie denn der BND.
+
+00:27:39.422 --> 00:27:44.067
+<v Linus Neumann>Gemäß seiner Aufgabenstellung, seiner Verpflichtungen.
+
+00:27:45.161 --> 00:27:53.489
+<v Linus Neumann>Ähm das Abhören von deutschen Grundrechtsträgern vermeiden möchte. Und,
+
+00:27:54.055 --> 00:28:06.102
+<v Linus Neumann>Das Gutachten ist um die vierzehn Seiten lang, also ist relativ äh von von Anfang an mal, also wirklich sauber, sauber, erklärt auch, ich denke in einer Sprache, die ähm auch,
+
+00:28:06.517 --> 00:28:14.497
+<v Linus Neumann>weniger bewanderten in diesen Fachbereich zugänglich sein sollte wo es einfach darum geht wie viel,
+
+00:28:14.540 --> 00:28:26.930
+<v Linus Neumann>Bandbreite hast du eigentlich auf so einem Kabel und was ist da äh auf so einer auf so einer auf so einem Lichtwellenleiter? Und was ist da so alles drin? Und dann schließe ich zu dem zu dem Punkt kommt, da fliegen jetzt IP-Pakete hin und her
+
+00:28:26.786 --> 00:28:32.224
+<v Linus Neumann>Das IP-Paket selber kann aber irgendwo du weißt ja überhaupt nicht woher es kommt und wohin es geht,
+
+00:28:32.242 --> 00:28:38.942
+<v Linus Neumann>kann's natürlich jetzt sagen, diese IP-Adresse ist ungefähr da und da verordnet. Aber ähm.
+
+00:28:39.868 --> 00:28:45.918
+<v Linus Neumann>Zum Beispiel würde ja alle Kommunikation von Deutschen mit Facebook eben,
+
+00:28:46.328 --> 00:28:53.322
+<v Linus Neumann>Zu Facebook-Servern gehen und von diesen Facebook-Servern auch zurück. Ähm das heißt schlussendlich kannst du,
+
+00:28:54.007 --> 00:29:03.952
+<v Linus Neumann>nicht bestimmen, ob es sich um einen deutschen Verkehr oder den Verkehr von deutschen handelt oder nicht ohne den Inhalt anzuschauen.
+
+00:29:04.860 --> 00:29:13.981
+<v Linus Neumann>Das ist das Entscheidende, das heißt, du darfst eigentlich, du darfst nur bei Ausländern du darfst nur Ausländer abhören, aber du musst,
+
+00:29:14.498 --> 00:29:27.585
+<v Linus Neumann>Deutsche mitabhören, um zu differenzieren, ob sie nicht, ob es sich um Deutsche oder Ausländer handelt. Das heißt, wenn die ganze Zeit sagen, ja wir wir unser, unser Ziel ist ja nur das Abhören von von Nichtdeutschen,
+
+00:29:27.856 --> 00:29:37.146
+<v Linus Neumann>Weil wir nun mal der Auslandsgeheimdienst sind. Ähm dann können sie das quasi nicht gewährleisten. Und du hättest.
+
+00:29:36.846 --> 00:29:39.429
+<v Tim Pritlove>Einfach technisch auszuschließen ist, dass das.
+
+00:29:39.129 --> 00:29:48.611
+<v Linus Neumann>Auszuschließen, dass du diese Trennung hinkriegst. Und das liegt daran, dass es sich eben um das liegt daran, dass es sich um ein Paket vermitteltes Netz handelt, wo,
+
+00:29:48.756 --> 00:29:57.198
+<v Linus Neumann>Daten auch gerne mal auf verschiedenen Wegen gehen, wo das Roting sehr, sehr dynamisch ist und du nicht in der Lage bist, zu Eck,
+
+00:29:57.240 --> 00:30:00.533
+<v Linus Neumann>zu sagen, wenn Linus Neumann,
+
+00:30:00.612 --> 00:30:14.841
+<v Linus Neumann>ein Feedup sendet, dann geht das Datenpaket da und da lang und deswegen hören wir Star Up oder da nicht ab, weil Linus Neumann ein Deutscher ist und der Pridlaf ist ja ein Brite. Äh den können wir abhören und deswegen ähm,
+
+00:30:15.111 --> 00:30:21.487
+<v Linus Neumann>machen wir das anders. Dieses Zucken, der Prittlerf ist Britte.
+
+00:30:21.187 --> 00:30:28.149
+<v Tim Pritlove>Dann müssen sie diesen diesen Moment, äh, wenn sich dieser Status aber immer ändert, aber auch wirklich sehr trendschaf.
+
+00:30:25.651 --> 00:30:29.389
+<v Linus Neumann>Genau. Ähm es ist sehr trendscharf auch.
+
+00:30:31.690 --> 00:30:43.258
+<v Linus Neumann>Wollen wir mal schauen, ob du die ein, also wir haben die Einbürgerung hier in in Deutschland, Tim, die gestalten wir gezielt ähm schwierig. Und ich wünsche dir sehr, sehr viel Glück.
+
+00:30:44.159 --> 00:30:50.378
+<v Linus Neumann>Wie viele Bundesländer haben wir? Ich weiß es nicht, deswegen frage ich.
+
+00:30:50.078 --> 00:31:00.275
+<v Tim Pritlove>Ja, ich weiß, ich kenne sogar die Hauptstädte aller Bundesländer. Außerdem lebe ich schon länger hier als du. Stimmt. Ja. Aber du bist ja keiner. Tja.
+
+00:30:57.229 --> 00:31:04.542
+<v Linus Neumann>Stimmt, aber du bist halt kein Deutscher. Hm? Deswegen hören wir dich die ganze Zeit ab und mich nicht. Also.
+
+00:31:04.242 --> 00:31:13.808
+<v Tim Pritlove>Warte nur ab, ich freue mich schon auf den Tag, wo ich zurückschlagen kann. Es wird lustig.
+
+00:31:13.508 --> 00:31:16.896
+<v Linus Neumann>Dann kann ich auf jeden Fall sagen, ich bin länger Deutscher als du.
+
+00:31:17.756 --> 00:31:19.011
+<v Linus Neumann>Also ein äh die.
+
+00:31:18.761 --> 00:31:20.171
+<v Tim Pritlove>Sonst nichts hat, ne?
+
+00:31:19.943 --> 00:31:26.511
+<v Linus Neumann>Die Lekteure des Gutachtens ist äh allen ans Herz gelegt, eine ähm eine nicht.
+
+00:31:27.503 --> 00:31:32.532
+<v Linus Neumann>Ein nicht trivialer Aspekt bei dieser gesamten Gesetzgebung um den,
+
+00:31:32.659 --> 00:31:37.880
+<v Linus Neumann>BND, der da in der Debatte bisher immer unterbeleuchtet war,
+
+00:31:38.169 --> 00:31:52.782
+<v Linus Neumann>wenn BND Leute da irgendwie die ganze Zeit einen erzählen von ja wir filtern äh wir filtern die Deutschen raus und hören nur die die Ausländer ab. Äh das ist also technisch äh mehr als in Zweifel zu ziehen, was da
+
+00:31:52.609 --> 00:31:55.180
+<v Linus Neumann>so regelmäßig Lapidar behauptet wird.
+
+00:31:58.221 --> 00:32:06.874
+<v Tim Pritlove>Ja dann ähm sieht's gerade nicht so gut aus, um potenzielle Verkaufspreise von der Firma Jaho,
+
+00:32:06.880 --> 00:32:19.006
+<v Tim Pritlove>steht ja schon so länger so ein bisschen im äh in der Vermutung, dass da mal irgendein anderer Branchenriese vielleicht mal äh zugreift, um sich all dieser ganzen Benutzer äh und ähm
+
+00:32:18.880 --> 00:32:28.915
+<v Tim Pritlove>der wenigen Orte, an der das Unternehmen ja noch populär populär ist, äh, zu bemächtigen, das ist glaube ich nur noch ein einziges Land, wo Yahu übrigens wirklich die Nummer eins ist, ne? Weißt du's.
+
+00:32:30.568 --> 00:32:32.322
+<v Linus Neumann>In Asien irgendwo oder.
+
+00:32:32.022 --> 00:32:35.950
+<v Tim Pritlove>Mhm. Japan. Aus irgendwelchen Gründen.
+
+00:32:34.216 --> 00:32:37.544
+<v Linus Neumann>Ja. So sieht die Seite von Jahu auch aus.
+
+00:32:37.294 --> 00:32:41.702
+<v Tim Pritlove>Ja. Es kam ja auch mal schon etwas kryptisch vor. Ja.
+
+00:32:40.008 --> 00:32:44.220
+<v Linus Neumann>Also ne, also.
+
+00:32:45.921 --> 00:32:51.587
+<v Linus Neumann>Wie aus einer anderen Kultur eben sieht diese Seite aus. Ähm.
+
+00:32:52.062 --> 00:33:05.354
+<v Tim Pritlove>Ja, ja, wo ist ohnehin so ein bisschen das fortgesetzte Trauerspiel des des Vebs, ne? Bevor es Google gab, hatten sie mal wirklich so eine hochfliegende Phase, wo sie irgendwie die geile Suchmaschine beziehungsweise damals gab's ja noch Verzeichnisse, ja, so quasi so Telefonbuch mit
+
+00:33:05.228 --> 00:33:12.487
+<v Tim Pritlove>mal so für die Seitenweise sich einzelne Webseitenlistings anschauen konnte, damit diese Webseite gibt es auch diese Webseite gibt's auch,
+
+00:33:12.746 --> 00:33:27.059
+<v Tim Pritlove>so richtig groß geworden sind sie dann eigentlich im Nachgang nur durch ihren E-Mail, äh durch ihr E-Mail-Angebot und da haben sie auch noch viele, viele, viele, viele, viele User, die bis heute ihre Jaho-E-Mail-Adressen ähm beibehalten haben, weil,
+
+00:33:27.492 --> 00:33:30.839
+<v Tim Pritlove>seine E-Mail-Adresse.
+
+00:33:30.665 --> 00:33:34.438
+<v Linus Neumann>Es ist auch ein Problem, eine E-Mail-Adresse ähm.
+
+00:33:36.355 --> 00:33:44.323
+<v Linus Neumann>Loszuwerden, weil wenn du die wirklich löscht, dann kann jemand anders registrieren. Und das möchtest du halt auch nicht.
+
+00:33:44.245 --> 00:33:53.925
+<v Tim Pritlove>Weil da müsstest du ja sicherstellen, dass in all den ganzen Accounts, wo deine E-Mail-Adresse, deine Alte hinterlegt ist, die dann auch schon wieder geändert ist und das erstmal rauszufinden, ist auch nicht so einfach.
+
+00:33:53.673 --> 00:34:06.220
+<v Linus Neumann>Also es ist es ist tatsächlich ein Problem, wenn eine E-Mail-Adresse, die solltest du jedes Mal, wenn du dir eine neue Zulegst solltest, dir bewusst sein, dass du dir im Zweifelsfall äh lebenslang irgendwie an der Backe hast.
+
+00:34:06.929 --> 00:34:19.169
+<v Tim Pritlove>Mindestens sollten solche Unternehmen auch dafür sorgen, dass sorgsam mit diesen E-Mail-Accounts umgegangen wird, nicht nur während ihrer Lebenszeit, sondern dass man, wenn man sich schon irgendwie beendet, dass sie dann vielleicht auch eben nicht weiter vergeben wird.
+
+00:34:20.041 --> 00:34:34.264
+<v Tim Pritlove>Das für einen Nennwerten Zeitraum, das wäre ja schon mal zu verwenden. Aber man kann so Zweifel haben, dass äh es bei Jahu so mit rechten Dingen zugeht, was so die Pflege ihrer äh E-Mail, ähm Einheit betrifft
+
+00:34:34.132 --> 00:34:40.249
+<v Tim Pritlove>denn tja, was ist passiert? Es gab mal wieder ein,
+
+00:34:40.911 --> 00:34:47.400
+<v Tim Pritlove>Einblick in äh in die Vorgänge.
+
+00:34:47.935 --> 00:34:53.571
+<v Linus Neumann>Ja und zwar hat hier Ruhe vor einem Jahr ähm.
+
+00:34:55.038 --> 00:35:07.236
+<v Linus Neumann>Auf Anfrage einer Regierungsinstitution hier stehen äh entweder NSA oder FBI im Verdacht, wer genau ist von beiden äh ist nicht genannt? Einen,
+
+00:35:07.891 --> 00:35:16.736
+<v Linus Neumann>Filter oder eine Suche auf alle E-Mails gestaltet, die sie, die bei ihnen abgefertigt werden,
+
+00:35:17.223 --> 00:35:21.778
+<v Linus Neumann>ging um die Suche nach bestimmten Inhalten oder einem bestimmten Inhalt,
+
+00:35:22.181 --> 00:35:34.872
+<v Linus Neumann>also mit anderen Worten kommt, was weiß ich, kommt dieses oder jenes Wort in der E-Mail vor oder ist dieser oder jener Anhang dran, eine genaue Definition dessen gibt es nicht, aber es gibt die Schilderung, dass dieser.
+
+00:35:35.786 --> 00:35:42.107
+<v Linus Neumann>Die Software, um das umzusetzen von Jahu-Mitarbeitern gebaut wurde,
+
+00:35:42.413 --> 00:35:54.714
+<v Linus Neumann>Nicht von jemand anderem, ähm sondern Jahu selber hat diese Scan-Software geschrieben. Jaguar hat sich nicht gegen diese Anfrage gewehrt. Also es äh man,
+
+00:35:55.333 --> 00:35:59.220
+<v Linus Neumann>Sie hätten ja sagen können, nein, das wollen wir nicht, nein, das machen wir nicht.
+
+00:36:00.260 --> 00:36:13.029
+<v Linus Neumann>Sondern sie haben es haben keine rechtlichen Mittel dagegen zum Einsatz gebracht, sondern haben gesagt, alles klar, wenn ihr das so haben wollt, dann machen wir das. Und zwar für alle unsere Kunden,
+
+00:36:13.487 --> 00:36:24.975
+<v Linus Neumann>die Rede war da glaube ich von, dass es weltweit hunderte Millionen sind, die bei Jahu ihre E-Mail-Adressen haben, die alle ausnahmslos diesen Filter,
+
+00:36:25.444 --> 00:36:29.981
+<v Linus Neumann>der auf bitte der US-Regierung eingerichtet wurde.
+
+00:36:30.901 --> 00:36:38.430
+<v Linus Neumann>Unterlegen haben. Und das ist sehr spannend, weil Yahoo wirklich jetzt eines der Unternehmen ist, der bei denen das Vertrauen.
+
+00:36:39.722 --> 00:36:42.924
+<v Linus Neumann>Der Kunden wirklich immer wieder strapaziert wird.
+
+00:36:44.103 --> 00:36:58.410
+<v Linus Neumann>Ähm ich glaube, sie waren so mit die letzten, die überhaupt mal irgendwie HTTPS eingeführt haben, vier äh Webmail Killerfitter und das auch erst nach den Snowden Enthüllungen. Ähm sie hatten erst kürzlich waren sie irgendwie,
+
+00:36:58.951 --> 00:37:07.652
+<v Linus Neumann>Hatten Sie das größte Datenleck? Wir waren mal wieder eines der größten Daten Leks, der äh der Geschichte der Menschheit oder so mit fünfhundert Millionen Accounts,
+
+00:37:07.652 --> 00:37:16.305
+<v Linus Neumann>Account Credentials, die da irgendwie rausgeflattert sind in die Freiheit, ähm in den Datenreichtums Bestand aufgenommen wurden und.
+
+00:37:17.363 --> 00:37:18.955
+<v Linus Neumann>Jetzt auch noch das.
+
+00:37:19.935 --> 00:37:28.233
+<v Linus Neumann>Gab natürlich eine ganze Menge schlechte Presse und das eben, wie gesagt, vor einem Jahr, also wo du wo du wirklich dieses Snowden-Ding, das ist ja noch äh da ist ja noch brühwarm,
+
+00:37:28.648 --> 00:37:37.679
+<v Linus Neumann>Und da gehst du hin und machst irgendwie so ein, so ein E-Mail äh über Überwachungsdingen für alle Mails, die es irgendwie gibt, die du abfertigst und
+
+00:37:37.583 --> 00:37:46.086
+<v Linus Neumann>wehrst dich noch nicht mal dagegen, ja? Sie hätten ja wenigstens sagen können, oh ähm dieser Antrag äh klingt
+
+00:37:46.008 --> 00:37:52.702
+<v Linus Neumann>komisch. Ähm wir wir würden gerne nochmal kurz Rechtssicherheit herstellen, indem wir ihnen wenigstens mal kurz performer anfechten,
+
+00:37:52.997 --> 00:37:59.840
+<v Linus Neumann>Ja, wenigstens das und wenn sie dann äh von einem Richter nochmal gezwungen worden wären, dann könnte man wenigstens sagen, ja gut
+
+00:37:59.817 --> 00:38:03.121
+<v Linus Neumann>Sie wurden gezwungen, aber sie haben sich noch nicht mal dagegen gewehrt.
+
+00:38:02.996 --> 00:38:09.641
+<v Tim Pritlove>Ist das so klar, dass sie das nicht getan haben, also am Ende haben sie es zumindest nicht getan.
+
+00:38:09.672 --> 00:38:18.367
+<v Linus Neumann>Es hat dazu geführt, dass der damalige Sicherheitschef ähm gewechselt hat von Jahu zu Facebook.
+
+00:38:18.998 --> 00:38:20.776
+<v Tim Pritlove>Alex Starmuss.
+
+00:38:20.590 --> 00:38:31.652
+<v Linus Neumann>Ja, der hat also gesagt so, ne liebe liebe Marissa, das kannst du mal gepflegt äh sein lassen, nicht mit mir, ich bin hier für Sicherheit und nicht für Unsicherheit, ich gehe mal weg.
+
+00:38:33.408 --> 00:38:38.395
+<v Tim Pritlove>Tja, also sieht nicht so gut aus für einen potenziellen Verkaufspreis äh,
+
+00:38:38.563 --> 00:38:50.485
+<v Tim Pritlove>höheren Regionen, Jahu ist ja ohnehin schon am Kämpfen seit vielen, vielen Jahren überhaupt am Markt Geld zu machen in nennenswerter Art und Weise. Das wird natürlich durch solche Sachen jetzt nicht einfacher.
+
+00:38:50.498 --> 00:38:54.998
+<v Linus Neumann>The Risen wollte die glaube ich kaufen, ne? Die haben gesagt, wir zahlen jetzt eine Milliarde weniger für euch,
+
+00:38:55.473 --> 00:39:02.653
+<v Linus Neumann>Ich hoffe, dass das, dass es auch wirklich, ich meine, wir brauchen auch mal ein dokumentierten Fall,
+
+00:39:03.261 --> 00:39:12.484
+<v Linus Neumann>tatsächlich von Mama sieht hier so, wenn du das Vertrauen der Kunden verletzt und missachtest, dann geht das hier auf dein,
+
+00:39:12.743 --> 00:39:27.813
+<v Linus Neumann>Marktwert. Und das äh also Shareholder Varieu ist immer eine sehr schöne Begründung. Ähm ein sehr mächtiges Werkzeug äh um äh Entscheidungen äh herbeizuführen. Ähm ein sehr gutes Argument, was man in einer Diskussion
+
+00:39:27.610 --> 00:39:37.446
+<v Linus Neumann>einbringen kann, aber Sharehoder oder Value, ja? Sharehoder Value, Value ist so das Nine Eleven äh Argument der Unternehmensführung und das wäre schon ähm
+
+00:39:37.254 --> 00:39:38.095
+<v Linus Neumann>Schön.
+
+00:39:38.083 --> 00:39:47.655
+<v Tim Pritlove>So, dann äh gab's Bewegung auf höchster Internetebene,
+
+00:39:48.130 --> 00:39:57.041
+<v Tim Pritlove>nämlich was die eigentliche Struktur der äh Innerworkings des Internets betrifft. Ähm,
+
+00:39:57.595 --> 00:40:11.691
+<v Tim Pritlove>Leute, die das Internet schon ein bisschen länger ähm verfolgen, wissen, dass es so für bestimmte Bereiche, spezielle Organisationen gibt. Eine der bekannteren, denke ich, ist die sogenannte ICAN.
+
+00:40:12.563 --> 00:40:14.053
+<v Tim Pritlove>Die,
+
+00:40:14.210 --> 00:40:26.822
+<v Tim Pritlove>Er ist so schön, Internet Cooperation for Scient Names and Numbers, sich, nur aber vor allem im Bereich der Domains, Top, also der Toplevel Domains ähm etabliert hat und und,
+
+00:40:26.961 --> 00:40:33.937
+<v Tim Pritlove>Ja, schon immer so ein bisschen witzelnd als äh heimliche Regierung des Internets gehandelt wurde. Das ist natürlich Quatsch,
+
+00:40:34.094 --> 00:40:38.787
+<v Tim Pritlove>Ähm eine andere äh Organisation,
+
+00:40:38.931 --> 00:40:47.391
+<v Tim Pritlove>war die Iana, Internet ist Numbers of Hority, die konkret mit der Vergabe von IP-Adressen,
+
+00:40:47.777 --> 00:40:51.351
+<v Tim Pritlove>und der Aufteilung von ähm,
+
+00:40:51.610 --> 00:40:58.514
+<v Tim Pritlove>Netzwerkbereichen auf die einzelnen Länder und letzten Endes natürlich auch Provider beschäftigt war,
+
+00:40:58.725 --> 00:41:12.317
+<v Tim Pritlove>Darüber gab's eine ganze Menge Diskussionen in den letzten Jahren, wie denn das so in Zukunft gestaltet werden sollte und äh ich glaube, das haben wir auch irgendwann mal angesprochen, dass es hier im Rahmen dieser Debatte, dass äh,
+
+00:41:12.426 --> 00:41:16.145
+<v Tim Pritlove>Iana, die mich formal quasi der.
+
+00:41:16.920 --> 00:41:23.554
+<v Tim Pritlove>Jetzt weiß nicht ganz genau, welchem äh US äh Regierungsteil unterstellt war, aber quasi in der Hand.
+
+00:41:24.732 --> 00:41:32.531
+<v Tim Pritlove>Teil der Verwaltung der Vereinigten Staaten von Amerika war. Ähm wie, wie man sozusagen diese Bindung, diese,
+
+00:41:32.748 --> 00:41:39.394
+<v Tim Pritlove>Fachlich letzte oder formell letzte Bindung der der USA als Staat an das Internet, wie man das denn nun
+
+00:41:39.364 --> 00:41:54.297
+<v Tim Pritlove>geschickt auflösen könnt und da gab's dann halt diverseste Begehrlichkeiten, insbesondere von der beleidigten Leberwurst ITU, der nun wirklich äh über Jahrzehnte seit es Telekommunikation gibt, eigentlich,
+
+00:41:54.303 --> 00:42:02.613
+<v Tim Pritlove>Immer so ein bisschen der Big Player war so lange. Die Kommunikation halt im Wesentlichen aus Telefonanrufen und Faxnachrichten bestand.
+
+00:42:03.335 --> 00:42:15.442
+<v Tim Pritlove>International Telekomunications Union ist halt ein großer Klotz und ist im Prinzip nichts anderes als der Sammelverband. Aller großen Telekommonopolisten,
+
+00:42:15.653 --> 00:42:23.681
+<v Tim Pritlove>sprich da war dann halt die deutsche Telekom oder damals halt noch die deutsche Bundespost und eben viele andere nationale Organisationen, also,
+
+00:42:23.880 --> 00:42:31.847
+<v Tim Pritlove>ist ja jetzt auch nicht so lange her, aber so in den achtziger Jahren kann man ja sagen, war eigentlich weltweit überall äh die Telefon
+
+00:42:31.793 --> 00:42:46.275
+<v Tim Pritlove>Kommunikation im Wesentlichen im in der Hand einer großen staatlichen Behörde und das hat sich dann eben so ab den achtziger Jahren langsam gewandelt. In einigen Staaten ist es natürlich auch heute noch so, insbesondere in den als etwas repressiver bekannten Staaten.
+
+00:42:47.237 --> 00:42:56.743
+<v Tim Pritlove>Und ja, die ITU hätte diese Rolle sehr gerne übernommen, aber dazu kam's jetzt nicht, sondern diese Iana,
+
+00:42:57.104 --> 00:43:05.390
+<v Tim Pritlove>Internetsign, Numbers Asority wurde jetzt in die Hände der IKAN gelegt.
+
+00:43:05.721 --> 00:43:10.107
+<v Tim Pritlove>Da war wohl auch im Gespräch,
+
+00:43:10.281 --> 00:43:24.522
+<v Tim Pritlove>vielleicht auch eine andere Organisation dafür zu äh gründen, das sozusagen der UNO zu unterstellen und da so eine weitere Gruppe der äh UNO oder eine neue Gruppe der UNO zu äh gründen, die sich äh mit diesen Sachen beschäftigen soll, aber,
+
+00:43:24.673 --> 00:43:30.327
+<v Tim Pritlove>Dazu ist es jetzt nicht gekommen. Und ihr diese.
+
+00:43:30.664 --> 00:43:32.965
+<v Linus Neumann>Und irgendwie ist die Aufregung.
+
+00:43:34.041 --> 00:43:42.526
+<v Linus Neumann>Groß, aber so wirklich, weiß auch keiner wieso, ne? Also es gibt dann irgendwie, ist das jetzt gut, dass der jetzt ist da die ist die die,
+
+00:43:43.175 --> 00:43:46.997
+<v Linus Neumann>Der Staat der USA daraus, dann gibt's irgendwie Leute, die sagen,
+
+00:43:47.532 --> 00:43:56.341
+<v Linus Neumann>Das ist aber schlecht, weil nur der Staat hat da die Meinungsfreiheit hochgehalten, wo du dir denkst, ja, ich meine, wir reden hier über den
+
+00:43:56.191 --> 00:44:06.574
+<v Linus Neumann>Betrieb der zentralen DNS Rootsone. Das ist ja jetzt noch nicht irgendwie Internetinhalte, ne? Das ist irgendwie dann wir reden über die Vergabe von IP-Adressblocken,
+
+00:44:06.592 --> 00:44:10.059
+<v Linus Neumann>Blöcken an die regionalen Verwalter, wir reden über,
+
+00:44:10.492 --> 00:44:25.424
+<v Linus Neumann>eine Datenbank mit den Nummern für Internetprotokolle, wo es zum Beispiel die Port-Zuordnung irgendwie geklärt ist, wo man dann sagt, so, dieser Port ist jetzt offiziell der und der, aber trotzdem kann natürlich jeder machen, was er möchte. Es sind also so ein bisschen Standards, die da äh,
+
+00:44:25.773 --> 00:44:33.104
+<v Linus Neumann>Empfehlungen, die da ein bisschen gehalten werden. Also da ist jetzt wenig wenig Anhaltspunkt, Ansätzpunkt für.
+
+00:44:34.613 --> 00:44:38.296
+<v Linus Neumann>Für Zensur oder so, ne. Aber ähm.
+
+00:44:38.104 --> 00:44:48.842
+<v Tim Pritlove>Na gut, ich meine, würde man sich zum Beispiel vorstellen, dass die DNS-Rou-Zone jetzt von einer privaten Firma verwaltet werden würde, dann sehe das schon ganz anders aus.
+
+00:44:48.800 --> 00:45:02.861
+<v Linus Neumann>Genau und die also klar natürlich möchtest du nicht, dass es irgendwie was weiß ich Internet Punkt Ink, äh Internet Incoperated äh oder in dem Fall eben Facebook, die ähm das gesamte Internet verwaltet, das möchtest du nicht.
+
+00:45:06.545 --> 00:45:07.692
+<v Linus Neumann>Die ICAN unterliegt
+
+00:45:07.567 --> 00:45:19.927
+<v Linus Neumann>dem Multisteakholder-Modell. Und es ist irgendwie auch nicht so ganz klar, wie du jetzt in diese Icon kommst oder nicht, so, du musst halt einfach irgendwie äh dich mit langwierigen Verfahren auseinandersetzen und da,
+
+00:45:20.041 --> 00:45:26.705
+<v Linus Neumann>sind natürlich die entscheidenden Unternehmen, sind da natürlich vertreten, die großen Registries oder so ähm,
+
+00:45:27.198 --> 00:45:38.898
+<v Linus Neumann>Als normaler Nutzer kannst du dann natürlich auch rein, ja? Aber äh wird schon ein bisschen komplexer, ne? Also äh also du kannst nicht als normaler Bürger rein, aber du musst halt, kannst als Verein da rein. Ne, also musst einen Verein,
+
+00:45:39.312 --> 00:45:48.902
+<v Linus Neumann>Ähm beitreten der äh eine der Regional at Large Organisation, ähm die dann in dem
+
+00:45:48.783 --> 00:45:58.992
+<v Linus Neumann>Large Advisory Comity ist und dann kriegst du irgendwann da einen Einfluss, ne? Und das tun eben äh Regierungen auch, die sind da Steakholder wie alle anderen,
+
+00:46:00.777 --> 00:46:11.941
+<v Linus Neumann>Und wir reklamieren aber für sich irgendwie das öffentliche Interesse, während die anderen Stakeholder natürlich eher mit äh privatwirtschaftlichem Interesse da drin sind und so etwas verfolgen. Ähm.
+
+00:46:13.161 --> 00:46:23.250
+<v Linus Neumann>Ich weiß, also ich glaube, dass es wirklich ähm vielleicht unterschätze ich dieses Thema, aber es ist eben eine Verwaltungsaufgabe, die da stattfindet, die jetzt einem sehr,
+
+00:46:23.798 --> 00:46:35.876
+<v Linus Neumann>Undurchsichtigen, komplexen Selbstverwaltungsmodell äh folgeleistet, äh wo wo irgendwie von Steakholdern die Rede ist, die da irgendwie drin sind,
+
+00:46:36.363 --> 00:46:40.286
+<v Linus Neumann>Vorher haben's ein paar Beamte in Washington gemacht. Ähm,
+
+00:46:40.659 --> 00:46:50.399
+<v Linus Neumann>Ich hoffe mal, dass da keiner äh von denen wirklich Mist baut. Und ich glaube aber auch auf dieser Ebene Mist zu bauen ist dann auch wirklich schwierig.
+
+00:46:51.235 --> 00:46:56.427
+<v Linus Neumann>Weil du eben immer noch dieses Admins gegen dich hättest, wenn du da irgendwie zu wild wirst.
+
+00:46:56.307 --> 00:47:10.470
+<v Tim Pritlove>Ja, na ja gut, ich meine früher war das ja mal so mit der Icon gab's ja tatsächlich den Versuch, da äh die Bürger oder die Netzgemeinde, wie auch immer äh dort zu beteiligen. Wir nennen uns das noch gar nicht so ähm sehr lange her
+
+00:47:10.398 --> 00:47:19.027
+<v Tim Pritlove>aber zehn Jahre vielleicht, da ist ja dann zum Beispiel auch mal Andi Müller Magun vom Carscopter Club äh Indiken als,
+
+00:47:19.454 --> 00:47:30.558
+<v Tim Pritlove>als einer der Direktoren gewählt worden vom Netz, ja, also eine Computerwahl sozusagen im Netz, eine Abstimmung, die ja dann äh gewonnen hat,
+
+00:47:30.847 --> 00:47:40.671
+<v Tim Pritlove>und dann äh hat er da eine Amtszeit bekleidet. Ich weiß jetzt gar nicht genau, wie lange die lief ein Jahr oder so. Ähm aber diese Strukturen gibt's in dem Sinne nicht mehr. Das heißt, so der,
+
+00:47:40.990 --> 00:47:48.104
+<v Tim Pritlove>Die die ist immer so ein furchtbares Wort Netz gemeinsam mal ein anderes Wort. Die,
+
+00:47:48.538 --> 00:47:58.831
+<v Tim Pritlove>Bürger, die Nutzer selber, die sozusagen Interessen haben, unabhängig von Interessen von bestimmten Unternehmen oder Staaten sind halt wirklich relativ schwach vertreten,
+
+00:47:59.354 --> 00:48:08.770
+<v Tim Pritlove>relativ schwach. Aber wie gesagt muss nicht unbedingt der Untergang äh des Abendlandes oder irgendeines anderen Landes oder eines Morgenlandes bedeuten.
+
+00:48:09.449 --> 00:48:14.587
+<v Tim Pritlove>Interessant ist, wieso die ICAN sich äh entwickelt hat ähm,
+
+00:48:14.665 --> 00:48:22.296
+<v Tim Pritlove>Am Anfang gab's ja zum Beispiel noch sehr viel Diskussion dadrüber, welche Top-Level Domains, äh, wenn jetzt äh zulassen, so, gab ja nur
+
+00:48:22.260 --> 00:48:25.355
+<v Tim Pritlove>vier fünf sechs plus die ganzen
+
+00:48:25.337 --> 00:48:34.789
+<v Tim Pritlove>Top Level Domains der Länder heutzutage kommen ja die Toplevel Domains schon in einer Geschwindigkeit rausgeschossen wie neue Webseiten, ist schon wirklich absurd,
+
+00:48:34.982 --> 00:48:44.890
+<v Tim Pritlove>Das heißt, man kann sich jetzt im Prinzip heutzutage schon fast alles äh registrieren, so denn die IKAN zustimmt. Und mittlerweile ist aber der Strom von Top Ledomance einfach äh hört überhaupt nicht auf.
+
+00:48:45.834 --> 00:48:47.750
+<v Tim Pritlove>Also nicht nur alle amerikanischen.
+
+00:48:48.141 --> 00:48:51.987
+<v Linus Neumann>Glaube, dass wir auch ein bisschen unklug.
+
+00:48:52.582 --> 00:49:04.924
+<v Tim Pritlove>Ja, das ist das ist eben die Frage, weil das war das jetzt klug oder war das nicht klug? Auf der einen Seite haben wir natürlich jetzt geilere Domains, auf der anderen Seite äh brechen täglich wahrscheinlich neue Domainstring-Parzer,
+
+00:49:05.129 --> 00:49:14.755
+<v Tim Pritlove>durcheinander, die noch vor einiger Zeit gemeint haben, na ja, das gibt da nur eine endliche Zahl und die können wir dann hier mal in unserem String ablegen, das halt mittlerweile nicht mehr so,
+
+00:49:14.924 --> 00:49:15.627
+<v Tim Pritlove>aber.
+
+00:49:15.886 --> 00:49:20.338
+<v Linus Neumann>Ich hätte ja gerne Punkt local. Punkt lokal. Hm?
+
+00:49:18.031 --> 00:49:24.550
+<v Tim Pritlove>Punkt Local. Hm, tja, ich glaube, das wird dann mal nicht freigegeben. Ja.
+
+00:49:22.946 --> 00:49:26.034
+<v Linus Neumann>Punkt Nocal hätte ich gerne.
+
+00:49:25.734 --> 00:49:28.911
+<v Tim Pritlove>Wie wär's mit Punkt Netzpolitik?
+
+00:49:28.691 --> 00:49:30.329
+<v Linus Neumann>Ja äh.
+
+00:49:31.343 --> 00:49:35.232
+<v Linus Neumann>Ja irgendwie so, ne? Oder Punkt eins.
+
+00:49:35.150 --> 00:49:38.413
+<v Tim Pritlove>Logbuch Punkt Netzpolitik.
+
+00:49:36.036 --> 00:49:40.372
+<v Linus Neumann>Also ich hätte ich hätte gerne Punkt eins oder Punktlokal.
+
+00:49:40.469 --> 00:49:45.774
+<v Tim Pritlove>Punkt eins oder Punktlocal. Also falls jemand so eine Domain noch rumliegen hat, einfach mal eine Mail an die Nuss schicken.
+
+00:49:45.498 --> 00:49:49.169
+<v Linus Neumann>Falls jemand die wie viel kostet das hundert, fünfundzwanzigtausend Dollar oder sowas.
+
+00:49:48.869 --> 00:49:51.422
+<v Tim Pritlove>Da muss man schon eins ordentlich in die Tasche greifen.
+
+00:49:51.435 --> 00:49:55.491
+<v Linus Neumann>Ja
+
+00:49:55.383 --> 00:50:01.260
+<v Tim Pritlove>So, dann gibt's Neubegehrlichkeiten, die wahrscheinlich gar keine neuen Begehrlichkeiten sind.
+
+00:50:00.990 --> 00:50:05.087
+<v Linus Neumann>Das ist diese Begehrlichkeit gibt, hatten wir, glaube ich, schon erwähnt. Ähm.
+
+00:50:05.923 --> 00:50:07.172
+<v Tim Pritlove>Zumindest abgesehen.
+
+00:50:07.239 --> 00:50:13.969
+<v Linus Neumann>Das BKA möchte natürlich den Bundestrojaner, den es ja jetzt schon hat,
+
+00:50:14.047 --> 00:50:21.564
+<v Linus Neumann>Wir wissen, dass WKA hat einmal diese Eigenentwicklung Bundestrojaner, dann hat es irgendwie noch so ein sowas von Gamma in der, in der Hinterhand
+
+00:50:21.360 --> 00:50:26.582
+<v Linus Neumann>falls falls wir den den ersten Bundestrojaner wiederfinden und veröffentlichen
+
+00:50:26.384 --> 00:50:34.255
+<v Linus Neumann>und dann gab es aber bei ihrer Eigenentwicklung ja schon in dem Moment, wo wo sie denn stolz sagten, wir haben hier geilen Bundestrojaner, ähm.
+
+00:50:35.049 --> 00:50:43.930
+<v Linus Neumann>Meldeten sich ja schon die Kritiker und sagten ja und äh damit können wir doch trotzdem keine iPhones hacken und äh und WhatsApp abhören oder so.
+
+00:50:44.916 --> 00:50:54.343
+<v Linus Neumann>Und deswegen sagt das Bundeskriminalamt, wir möchten oder sagt das Bundeskriminalamt jetzt auch offiziell. Wir möchten gerne,
+
+00:50:55.095 --> 00:51:08.164
+<v Linus Neumann>ähm Staatstroaner to go. Äh wir hätten den gerne auch äh als App im Appestore oder so und möchten dafür sorgen, dass wir in der Lage sind, Handys,
+
+00:51:08.844 --> 00:51:21.703
+<v Linus Neumann>Smartphone zu infizieren und das geht aus den Haushaltsunterlagen für zwanzig siebzehn hervor, äh die der Rechercheverband von NDR, WDR und Süddeutsche Zeitung eingesehen hat,
+
+00:51:22.358 --> 00:51:33.228
+<v Linus Neumann>Ne, da gibt's also eine behördeneigene Software, die da geplant wird, um die Quellen-TKÜ-Maßnahmen auf mobilen, internetbasierten Endgeräten durchzuführen.
+
+00:51:33.523 --> 00:51:36.377
+<v Tim Pritlove>Womit die da wohl anfangen, welcher Plattform.
+
+00:51:37.279 --> 00:51:49.585
+<v Linus Neumann>Na wahrscheinlich fangen sie mit Android an, weil sie für Arbeitsvereins ein bisschen schwieriger wird. Aber vielleicht machen sie es auch parallel oder oder sie haben das Memo nicht bekommen und setzen auf Windows Phone oder Blackberry.
+
+00:51:48.137 --> 00:52:00.966
+<v Tim Pritlove>Das könnte wiederum einfach werden, nur Nutzer zu kriegen, die das dann auch wirklich benutzen, das wirft so schwierig werden. Tja, da laufen wir äh wieder auf so eine auf so ein duales System leider zu,
+
+00:52:01.556 --> 00:52:05.353
+<v Tim Pritlove>oder vielleicht ist es auch ganz gut so, ich bin mir nicht ganz so sicher. Tatsache ist,
+
+00:52:05.756 --> 00:52:14.186
+<v Tim Pritlove>Das könnte schwierig werden. Wir hatten ja hier auch schon äh in ziemlicher Ausführlichkeit den Fall FBI gegen Apple,
+
+00:52:14.271 --> 00:52:24.401
+<v Tim Pritlove>angesprochen als Apple mal da wirklich in die Vollen gegangen ist und sich einfach kräftig nach allen Möglichkeiten gewährt hat, dem FBI,
+
+00:52:24.492 --> 00:52:30.513
+<v Tim Pritlove>speziellen Zugriff auf die Telefone zu gewähren und natürlich ist deren Security-Abteilung, also,
+
+00:52:30.796 --> 00:52:37.898
+<v Tim Pritlove>wie es auch bei allen anderen Security-Abteilungen großer Betriebssystemhersteller sein sollte ähm,
+
+00:52:38.042 --> 00:52:41.083
+<v Tim Pritlove>tun die natürlich alles dafür, um ihre Plattform sicher zu halten,
+
+00:52:41.197 --> 00:52:50.679
+<v Tim Pritlove>Ist ja klar, weil das das will man ja verhindern. Also auch Google hat natürlich kein besonderes Interesse dadran, dass die Plattform als unsicher gilt oder eben auch unsicher ist.
+
+00:52:51.671 --> 00:53:00.240
+<v Tim Pritlove>Ob ihre Strategie und ihr die Art und Weise, wie ihr sie äh Rollert auf dem Markt machen, da sehr hilfreich ist, das ist nochmal eine ganz andere Frage
+
+00:53:00.186 --> 00:53:12.138
+<v Tim Pritlove>aber so oder so wird halt alles probiert das irgendwie so dicht zu machen, wie es nur irgendwie geht und solche Trojaner sind halt im Prinzip nichts anderes als angewandte Ausnutzungen von existierenden Sicherheitslücken,
+
+00:53:12.150 --> 00:53:25.472
+<v Tim Pritlove>vor allem dann gut funktionieren und das ist natürlich hier auch wieder das Problem, wenn äh das BKA solche Software haben will, haben sie ja sozusagen ein Interesse daran, dass solche Sicherheitslücken auch aufrecht erhalten werden,
+
+00:53:25.550 --> 00:53:30.050
+<v Tim Pritlove>Während es zum Beispiel im Interesse des BSIs immerhin auch Teil des selben Staates
+
+00:53:29.985 --> 00:53:40.885
+<v Tim Pritlove>ein großes Interesse geben sollte, dass eben solche Sicherheitslücken so schnell wie möglich geschlossen werden. Und dann hat man so einen Interessenkonflikt, der einfach nicht gut ist und bei den Smartphones,
+
+00:53:40.981 --> 00:53:45.494
+<v Tim Pritlove>Multipliziert sich jetzt die Dramatik äh in dem Zusammenhang nochmal extrem.
+
+00:53:45.867 --> 00:53:54.460
+<v Linus Neumann>Genau, sie könnten also eine mögliche Lösung wäre natürlich, dass das äh dass es eine Kooperation äh zwischen den.
+
+00:53:55.511 --> 00:54:03.611
+<v Linus Neumann>Zwischen den Herstellern dieser Geräte oder den Betreibern der Software äh gibt und den,
+
+00:54:03.930 --> 00:54:18.778
+<v Linus Neumann>Staaten, die ihre Bürger hacken möchten und dann machst du halt, du wirst, findest du keine Sicherheitslücke zum installieren deiner, deiner Schadsoftware, sondern äh lässt die von von Apple oder Google direkt die Pläne, ne? Das wäre so die.
+
+00:54:18.629 --> 00:54:21.116
+<v Tim Pritlove>Interception ist da, glaube ich, so ein bissch.
+
+00:54:20.816 --> 00:54:33.086
+<v Linus Neumann>Das wäre so der, das wäre ja das, wo sie hinwollen. Äh wir wissen, dass Apple sich dagegen sperrt, zumindest öffentlich und wir werden sehen, wohin das führt. Also entweder früher oder später werden sie,
+
+00:54:33.399 --> 00:54:39.654
+<v Linus Neumann>entweder ähm Sicherheitslücken gezielt aufrechterhalten,
+
+00:54:40.375 --> 00:54:49.214
+<v Linus Neumann>Oder verschweigen, um dieses selber auszunutzen, was das ist, was wir die ganze Zeit sehen, wir haben's erst in der letzten Sendung wieder besprochen mit der NSA.
+
+00:54:48.914 --> 00:54:50.260
+<v Tim Pritlove>Und so. Mhm.
+
+00:54:50.152 --> 00:54:55.181
+<v Linus Neumann>Oder sie werden eine Koppe werden, die äh vorhandenen,
+
+00:54:55.716 --> 00:55:00.781
+<v Linus Neumann>Softwaredistributoren und der großen Plattformen zu einer Kooperation bewegen,
+
+00:55:01.509 --> 00:55:08.605
+<v Linus Neumann>Das sind die beiden Möglichkeiten für Infektionswege, was anderes gibt's nicht. Was da am Ende bei rauskommen wird, werden wir sehen,
+
+00:55:09.002 --> 00:55:19.350
+<v Linus Neumann>die Schadsoftware selber ist immer das geringere Problem, die zu schreiben, kriegst du hin, ja? Ähm die zum Ausführen zu bringen, ist zum Beispiel auf so einem äh,
+
+00:55:19.650 --> 00:55:31.079
+<v Linus Neumann>iPhone eben nicht unbedingt trivial, ne? Du müsstest es entweder ein vertrauenswürdiges Signier, also vertrauenswürdige signierte App haben, dann kommst du aber nicht unbedingt an die anderen Daten,
+
+00:55:31.164 --> 00:55:38.915
+<v Linus Neumann>Äh die andere Apps haben, das heißt, du müsstest eigentlich auf Rout-Level dich irgendwo einnisten. Das heißt, du bräuchtest einen Jellbreak,
+
+00:55:39.564 --> 00:55:46.066
+<v Linus Neumann>Also alles nicht ganz so einfach. Ich vermute aber, dass die, dass sie sich dieser ähm.
+
+00:55:47.617 --> 00:55:55.374
+<v Linus Neumann>Dieser Situation sehr sehr bewusst sind und dass die Staaten generell wahrscheinlich eher darauf hinarbeiten werden ähm.
+
+00:55:56.210 --> 00:55:58.150
+<v Linus Neumann>Eine dauerhafte,
+
+00:55:58.589 --> 00:56:10.349
+<v Linus Neumann>sichere, feste Möglichkeit zur Trojanisierung von Geräten zu bekommen, die sie in Rücksprache mit den Herstellern haben. Weil das wird dauerhaft einfach die für sie die sicherere.
+
+00:56:11.509 --> 00:56:17.145
+<v Linus Neumann>Ähm Methode immer äh Geräte kompromittieren zu können.
+
+00:56:18.365 --> 00:56:21.748
+<v Linus Neumann>Und vor allem offen auf dem saubersten Wege.
+
+00:56:23.593 --> 00:56:27.817
+<v Tim Pritlove>Sauber. Also im technischen Sinne sauber.
+
+00:56:24.813 --> 00:56:31.495
+<v Linus Neumann>Da werden sie, ja, da werden sie vermutlich versuchen, drauf hinzuarbeiten.
+
+00:56:32.763 --> 00:56:45.051
+<v Tim Pritlove>Na ja, wir beobachten das natürlich, was was sich da noch äh alles ausgedacht wird. Bisher sind das alles nur Ankündigungen. Ich glaube nicht, dass da irgendwas Nennswertes exi.
+
+00:56:44.751 --> 00:56:56.053
+<v Linus Neumann>Na ja, die haben das Geld im Budget, ne? Also die haben das Geld im Haushaltsplan, das wird jetzt halt sind, kannst wahrscheinlich jetzt wieder gucken, wen die, wenn die suchen, ist mir gerade immer so schöne Stellenanzeigen auch.
+
+00:56:55.838 --> 00:57:06.882
+<v Linus Neumann>In diesem Bereich. Nein, die werden die sich von jemandem schreiben lassen oder von jemandem kaufen, ne? Also so ein Unternehmen wie Gamma. Ich weiß nicht, ob die aktuell noch einen Trojaner für äh für iOS haben
+
+00:57:06.702 --> 00:57:11.310
+<v Linus Neumann>ähm aber die hatten auf jeden Fall welche, ne? Im Angebot,
+
+00:57:11.653 --> 00:57:18.924
+<v Linus Neumann>Aber wie gesagt, der Trojaner ist immer ist nur die halbe Miete der Infektionsweg ist immer ormal eine Herausforderung.
+
+00:57:20.871 --> 00:57:24.459
+<v Tim Pritlove>So, einen Termin haben wir noch.
+
+00:57:24.693 --> 00:57:29.037
+<v Linus Neumann>Ein Termin haben wir noch, vom zwanzigsten bis dreiundzwanzigsten Oktober
+
+00:57:28.870 --> 00:57:41.843
+<v Linus Neumann>gibt es in Graz das Festival, das sich rund um Musik, Kunst und den politischen Diskurs dreht zum zwölften Mal stattfindet. Nachts wird gefeiert, tagsüber werden
+
+00:57:41.717 --> 00:57:44.625
+<v Linus Neumann>auch netzpolitische Themen diskutiert, deswegen
+
+00:57:44.511 --> 00:57:59.010
+<v Linus Neumann>bewerben wir das hier dort wird unter anderem zu sehen sein Thomas Lohninger, der schon bei uns zu Gast war, Katharina Nokun, die schon bei uns zu Gast war und Sarah Harrison, die als äh Vertreterin von Wiki Leaks ja auch
+
+00:57:58.861 --> 00:58:07.550
+<v Linus Neumann>allgemein sehr bekannt ist. Also in Graz das ist in Österreich vom zwanzigsten bis dreiundzwanzigsten Oktober,
+
+00:58:07.562 --> 00:58:14.700
+<v Linus Neumann>Link gibt's bei uns auf der Seite kann man hingehen, wenn man in Österreich ist.
+
+00:58:14.881 --> 00:58:26.123
+<v Tim Pritlove>Oder sein möchte. Wer Steiermark, da muss das gute Kürbis kennen Öl gibt, unter anderem. Kürbiskernöl. Da ist die Steiermark ganz bekannt war.
+
+00:58:29.345 --> 00:58:34.518
+<v Tim Pritlove>Ist so. Dann ist das Restaurant und dann gießen dir das über alles.
+
+00:58:35.348 --> 00:58:46.861
+<v Tim Pritlove>Bei drei nicht auf den Bäumen ist. Weil geht auch, also ist lecker. Und eine nette Stadt. Also, ich war mal da, schön alles geschmeckt. Gerne wieder.
+
+00:58:46.561 --> 00:58:49.581
+<v Linus Neumann>Alles gleich geschmeckt?
+
+00:58:47.769 --> 00:58:50.815
+<v Tim Pritlove>Gerne wieder Nöl war einfach toll da, also.
+
+00:58:50.805 --> 00:58:52.600
+<v Linus Neumann>Ja, Österreich hat schon schöne Städte.
+
+00:58:52.300 --> 00:59:00.375
+<v Tim Pritlove>Hat schon schöne Städte gehört, Graz definitiv äh dazu. Da wird auch äh auch Podcast treffen, all solche Sachen.
+
+00:59:05.892 --> 00:59:08.674
+<v Tim Pritlove>Bleibt uns nur wieder danke zu sagen.
+
+00:59:08.374 --> 00:59:15.747
+<v Linus Neumann>Ja, ich danke äh Christian, Daniel und T-Systems, dieses.
+
+00:59:13.836 --> 00:59:16.804
+<v Tim Pritlove>Nicht dein Ernst? Wie.
+
+00:59:16.714 --> 00:59:25.974
+<v Linus Neumann>Es kam ein Paket an im Chaos-Computerclub, da hab Sender T-Systems. An mich, es hat ein große Aufregung gegeben.
+
+00:59:25.674 --> 00:59:30.607
+<v Tim Pritlove>Das kann ich mir gut vorstellen. Aha.
+
+00:59:30.668 --> 00:59:34.044
+<v Linus Neumann>Ich hab's aber leider noch nicht abgeholt, weil ich unterwegs war, ich.
+
+00:59:33.744 --> 00:59:35.679
+<v Tim Pritlove>Ach so, aber du bedankst dich schon mal trotzdem.
+
+00:59:35.379 --> 00:59:48.286
+<v Linus Neumann>Ja äh weil natürlich sofort die Recherchen losgehen äh und irgendwie die Tracking-Nummer geguckt, wo das abgeschickt wurde, scheint es also nicht unbedingt äh von dem Absender wirklich zu sein. Wenn doch äh.
+
+00:59:48.424 --> 00:59:57.546
+<v Tim Pritlove>Vielleicht haben sie die ganzen, die ganzen WLAN-Rauter, die sie jetzt aus den Zügen ausbauen müssen irgendwie zugeschickt, so ist kleine Datenspinde. Na ja,
+
+00:59:57.732 --> 01:00:10.243
+<v Tim Pritlove>Ja und danke natürlich auch wieder alle anderen, die uns hier regelmäßig unterstützen und vor allem auch zuhören und die Hoffnung nicht aufgeben, dass wir unseren zweihundertsten äh Geburtstag hier noch ordentlich über die Bühne bekommen
+
+01:00:10.129 --> 01:00:14.780
+<v Tim Pritlove>und dann auch Lust haben daran teilzunehmen. Bis dahin äh sagen wir erstmal tschüss und bis bald.
+
+01:00:14.726 --> 01:00:16.102
+<v Linus Neumann>Tschau tschau.

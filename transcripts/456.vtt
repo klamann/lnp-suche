@@ -1,0 +1,3596 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP456 Raumbildendes Packmittel
+Publishing Date: 2023-03-14T17:31:10+01:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp456-raumbildendes-packmittel
+
+00:00:00.456 --> 00:00:01.476
+<v Tim Pritlove>Guten Morgen Linus.
+
+00:00:02.057 --> 00:00:02.877
+<v Linus Neumann>Guten Morgen Tim.
+
+00:00:03.877 --> 00:00:07.199
+<v Tim Pritlove>Was bringt uns eigentlich diese Digitalisierung? 1,67 Euro.
+
+00:00:30.630 --> 00:00:37.472
+<v Tim Pritlove>Musik Logbuch Netzpolitik Nummer 456 ihr merkt schon es geht aufwärts vom 14.
+
+00:00:40.054 --> 00:00:40.464
+<v Tim Pritlove>März 2023.
+
+00:00:43.915 --> 00:00:48.518
+<v Tim Pritlove>Ja genau es fröhlingt ein wenig an in Berlin gerade, leicht.
+
+00:00:51.439 --> 00:00:54.000
+<v Tim Pritlove>Ich hab schon Krokus habe ich schon gesehen. Bienen, Bienen.
+
+00:00:55.541 --> 00:00:57.682
+<v Tim Pritlove>Das sind ja so early adopter sind das ja.
+
+00:00:58.883 --> 00:01:03.184
+<v Linus Neumann>Das sind die ersten immer. Die machen Fooding bevor es cool ist.
+
+00:01:03.184 --> 00:01:05.396
+<v Tim Pritlove>Genau das ist so wie Lichtgestaltung Pionier.
+
+00:01:07.647 --> 00:01:12.469
+<v Tim Pritlove>Der Krokus sozusagen, der sich immer zuerst reindringen, sagt hier geht doch was.
+
+00:01:15.450 --> 00:01:17.111
+<v Tim Pritlove>Der hat doch kein Winter hier.
+
+00:01:20.353 --> 00:01:21.333
+<v Linus Neumann>Scheint doch die Sonne.
+
+00:01:21.333 --> 00:01:24.514
+<v Tim Pritlove>Schlechtes Wetter ist nur wenn man das denkt, dass das schlecht ist.
+
+00:01:24.514 --> 00:01:28.021
+<v Tim Pritlove>Das ist eine Frage der Kleidung. Guck mal was ich habe.
+
+00:01:28.021 --> 00:01:29.305
+<v Linus Neumann>Alles eine Frage des Krokus.
+
+00:01:29.305 --> 00:01:29.905
+<v Tim Pritlove>Seid GroKo-so!
+
+00:01:35.410 --> 00:01:36.650
+<v Tim Pritlove>Mehr kann man dazu nicht sagen.
+
+00:01:38.351 --> 00:01:39.812
+<v Linus Neumann>Was kostet ein Krokus? 1,67 Euro.
+
+00:01:41.633 --> 00:01:45.314
+<v Tim Pritlove>Das ist ja kein Anreiz. Da kommen wir gleich zu.
+
+00:01:45.715 --> 00:01:46.935
+<v Linus Neumann>Da kommen wir gleich zu.
+
+00:01:46.935 --> 00:01:53.679
+<v Tim Pritlove>Wir haben Kommentare zu den Kommentaren, die werden immer mehr zu Freude.
+
+00:01:54.980 --> 00:02:00.322
+<v Linus Neumann>Inzwischen, wir haben teilweise sogar Kommentare, die keines der aktuell zirkulierenden Memes berühren.
+
+00:02:03.724 --> 00:02:05.204
+<v Linus Neumann>Das würden wir gerne abschaffen.
+
+00:02:05.204 --> 00:02:08.136
+<v Tim Pritlove>Memes?
+
+00:02:08.136 --> 00:02:15.110
+<v Linus Neumann>Oder? Zumindest eine Primzahlreferenz oder eine, wie heißen die Dinger?
+
+00:02:15.110 --> 00:02:16.370
+<v Tim Pritlove>Da sind schon ein paar Sachen dabei.
+
+00:02:16.370 --> 00:02:19.192
+<v Linus Neumann>Ja aber ne, es dürfen keine mehr, keine Kommentare.
+
+00:02:19.192 --> 00:02:22.754
+<v Tim Pritlove>Achso keine anderen dürfen mehr, ohne Referenz läuft einfach mal gar nichts.
+
+00:02:23.114 --> 00:02:26.176
+<v Linus Neumann>Ohne Loop Muffe oder Primzahl, die drei Kommentare hier nicht verlesen.
+
+00:02:29.498 --> 00:02:35.841
+<v Tim Pritlove>Genau, fangen wir doch an mit Packstut, der schreibt, in den vergangenen Folgen
+
+00:02:35.841 --> 00:02:39.663
+<v Tim Pritlove>sind die Begriffe Beutel, Tüte und Sack etwas durcheinander gegangen.
+
+00:02:40.064 --> 00:02:41.925
+<v Tim Pritlove>Sie wurden teils gar kombiniert.
+
+00:02:42.986 --> 00:02:47.168
+<v Tim Pritlove>Da in der aktuellen Folge ja schon die Frage nach dem Packstoff geklärt wurde,
+
+00:02:47.168 --> 00:02:49.929
+<v Tim Pritlove>was ist Jute und warum sind es doch Baumwollbeutel?
+
+00:02:51.230 --> 00:02:56.785
+<v Tim Pritlove>Hier einmal die Definition zu den Packmitteln. Ein Beutel ist ein flexibles,
+
+00:02:56.785 --> 00:03:01.075
+<v Tim Pritlove>vollflächiges, raumbildendes Packmittel bis 2700 cm² Zuschnitt.
+
+00:03:06.178 --> 00:03:10.880
+<v Tim Pritlove>Tüten sind aus einem zuschnittgefertigten dreieckigen Beutel mit Längsnaht.
+
+00:03:13.201 --> 00:03:18.084
+<v Tim Pritlove>Von einem Sack spricht man bei einem flexiblen, vollflächigen,
+
+00:03:18.084 --> 00:03:23.847
+<v Tim Pritlove>beim Befüllen raumbildenden Packmittel, welches einen Umfang von mindestens
+
+00:03:23.847 --> 00:03:24.487
+<v Tim Pritlove>36 Zentimetern aufweist.
+
+00:03:27.829 --> 00:03:31.552
+<v Tim Pritlove>Wer hätte gedacht, dass diese Verpackungsthemen mit eurer Podcast mal relevant würden.
+
+00:03:33.915 --> 00:03:37.118
+<v Tim Pritlove>Ansonsten besten Dank für eure Arbeit, auch für Interessierte aus der Verpackung,
+
+00:03:37.118 --> 00:03:41.823
+<v Tim Pritlove>immer top aufbereitet. Ja, wir bemühen uns die Themen auch richtig einzupacken für euch.
+
+00:03:43.185 --> 00:03:46.809
+<v Tim Pritlove>Egal ob jetzt in Beutel, Tüte oder Sack. Aber das mit der Tüte habe nicht verstanden.
+
+00:03:47.730 --> 00:03:48.871
+<v Tim Pritlove>Dreieckige Beutel? Tüte?
+
+00:03:50.247 --> 00:03:53.049
+<v Tim Pritlove>Ist das dann sozusagen wo man so seine gebrannten Mandeln mitkriegt,
+
+00:03:53.049 --> 00:03:54.229
+<v Tim Pritlove>das ist eine Tüte oder was?
+
+00:03:55.330 --> 00:03:58.292
+<v Tim Pritlove>Ach, das heißt die Plastiktüte im Supermarkt ist gar keine Tüte,
+
+00:03:58.292 --> 00:03:59.412
+<v Tim Pritlove>das ist ein Plastikbeutel.
+
+00:04:01.013 --> 00:04:06.816
+<v Linus Neumann>Viel spinnender finde ich, wenn es keinen Umfang von mindestens 36 Zentimeter hat, ist es kein Sack.
+
+00:04:10.939 --> 00:04:12.739
+<v Tim Pritlove>Kann ja nicht herkommen weißt du.
+
+00:04:15.441 --> 00:04:19.643
+<v Tim Pritlove>Ja mit den Säcken und so den Beutel das ist wirklich ein Thema.
+
+00:04:22.545 --> 00:04:26.727
+<v Tim Pritlove>Nicht dass jetzt einer das überprüft und dann die Kängurus gar keinen Beutel haben.
+
+00:04:29.349 --> 00:04:33.330
+<v Linus Neumann>Aber das ist schon klar wir sind hier in Deutschland da wird sowas klar durchdefiniert.
+
+00:04:33.711 --> 00:04:37.893
+<v Tim Pritlove>Ich finde das ist auch wichtig also das ist eine gute Definition da habe ich wirklich was für übrig.
+
+00:04:37.893 --> 00:04:41.575
+<v Linus Neumann>Stell dir mal vor, es käme jetzt irgendwie jeder Sack des Weges daher und definiert
+
+00:04:41.575 --> 00:04:43.436
+<v Linus Neumann>das anders. Das ist doch völlig klar.
+
+00:04:47.519 --> 00:04:48.419
+<v Tim Pritlove>Windbeutel sind das doch.
+
+00:04:50.521 --> 00:04:56.343
+<v Tim Pritlove>Das ist eine Definitionsfrage. Elmayyachi schreibt, es gab leider nie einen
+
+00:04:56.343 --> 00:05:01.986
+<v Tim Pritlove>Opel Omega 1,6 Liter. Der kleinste Omega A hatte 1,8 Liter Hubraum.
+
+00:05:03.368 --> 00:05:08.410
+<v Tim Pritlove>Der Omega B ging bei zwei Litern los. Keine dieser Zahlen ist eine Primzahl.
+
+00:05:10.391 --> 00:05:11.852
+<v Linus Neumann>Zwei ist eine Primzahl.
+
+00:05:14.513 --> 00:05:18.716
+<v Tim Pritlove>Ja, also man muss schon, also wenn schon, wenn schon kritisiert,
+
+00:05:18.716 --> 00:05:22.277
+<v Tim Pritlove>ne? Und das auch noch in den Kommentar fassen, mein Freund.
+
+00:05:23.358 --> 00:05:24.779
+<v Tim Pritlove>Mein lieber Freund Elmar.
+
+00:05:27.841 --> 00:05:29.081
+<v Tim Pritlove>Dann, dann auch richtig, ne?
+
+00:05:31.803 --> 00:05:35.624
+<v Tim Pritlove>Das wird, wird dann später nochmal bestraft. bestraft. Kostet Bier.
+
+00:05:37.826 --> 00:05:42.207
+<v Tim Pritlove>Aber offensichtlich gibt es keine Opel Omega 1,6 Liter. Wer hätte es gedacht? Hab ich mich vertan.
+
+00:05:42.207 --> 00:05:42.807
+<v Linus Neumann>Ja. Kadett.
+
+00:05:44.816 --> 00:05:50.279
+<v Tim Pritlove>Das kann gut sein, weil das war so damals war das so, Omega war ja so Oberklasse,
+
+00:05:50.279 --> 00:05:54.341
+<v Tim Pritlove>also der Versuch einer Oberklasse, so ein bisschen so größeres Fahrzeug und
+
+00:05:54.341 --> 00:05:57.063
+<v Tim Pritlove>das wurde nie unter 1,8 Liter verkauft so was.
+
+00:05:57.063 --> 00:06:03.866
+<v Tim Pritlove>1,6 Liter das ist ja so, ja das war ja schon so ein, wie soll ich sagen, Kleinwagen.
+
+00:06:06.088 --> 00:06:07.309
+<v Linus Neumann>Am Astra vielleicht.
+
+00:06:07.309 --> 00:06:11.351
+<v Tim Pritlove>Wer sich da heute wundert, Motoren hatten damals nicht so viel Power aus dem
+
+00:06:11.351 --> 00:06:14.012
+<v Tim Pritlove>selben Hubraum, deswegen war alles noch sehr Hubraum definiert.
+
+00:06:14.933 --> 00:06:17.514
+<v Tim Pritlove>Heutzutage spielt das nicht mehr so eine große Rolle, jetzt geht es sowieso
+
+00:06:17.514 --> 00:06:19.395
+<v Tim Pritlove>demnächst nur noch um Kilowatt.
+
+00:06:21.036 --> 00:06:25.558
+<v Linus Neumann>Jetzt geht es nur noch um Windungen. Wie viele Windungen da.
+
+00:06:26.659 --> 00:06:30.321
+<v Tim Pritlove>Genau, hier geht es ja auch in der Politik geht es ja dann auch meistens um
+
+00:06:30.321 --> 00:06:34.043
+<v Tim Pritlove>Windungen, da muss man immer gucken wie sehr sie sich wieder gewinnen um irgendwie
+
+00:06:34.043 --> 00:06:36.444
+<v Tim Pritlove>eine sinnvolle Lösung zu vermeiden.
+
+00:06:38.835 --> 00:06:45.748
+<v Tim Pritlove>Naja, dann noch zum elektronischen Personalausweis bzw. zur anonymen Altersverifikation schreibt Simon.
+
+00:06:47.170 --> 00:06:50.911
+<v Tim Pritlove>Anonyme Altersverifikation ist tatsächlich ein Feature, das der NPA mit E-ID
+
+00:06:50.911 --> 00:06:53.853
+<v Tim Pritlove>seit Beginn unterstützt, aber den Leuten glaubhaft zu machen,
+
+00:06:53.853 --> 00:06:58.095
+<v Tim Pritlove>dass sie ihren Ausweis an den Leser halten sollen, aber trotzdem anonym bleiben,
+
+00:06:58.095 --> 00:06:59.625
+<v Tim Pritlove>halte ich für eine größere Herausforderung.
+
+00:07:01.957 --> 00:07:05.559
+<v Linus Neumann>Das ist genau der richtige Punkt. Ich hab das, also das bezieht sich ja darauf,
+
+00:07:05.559 --> 00:07:11.492
+<v Linus Neumann>dass ich in der letzten Sendung argumentiert habe, du kannst einen Altersnachweis
+
+00:07:11.492 --> 00:07:16.585
+<v Linus Neumann>irgendwie nur an eine Identität binden und dabei habe ich falsch dargestellt,
+
+00:07:16.585 --> 00:07:22.068
+<v Linus Neumann>dass es diese Funktion oder quasi unterstellt, dass es diese Funktion nicht gäbe.
+
+00:07:22.068 --> 00:07:24.509
+<v Linus Neumann>Wo Simon mich jetzt hier korrigiert.
+
+00:07:28.352 --> 00:07:34.135
+<v Linus Neumann>Das geht, aber das glaubt dir halt auch keiner. Das ist das Hype an deinen Ausweis
+
+00:07:34.135 --> 00:07:35.836
+<v Linus Neumann>hin. Wir lesen den jetzt aus.
+
+00:07:38.341 --> 00:07:41.245
+<v Linus Neumann>Wir lesen nicht aus, wer du bist. Wir gucken nur, ob du alt genug bist.
+
+00:07:42.287 --> 00:07:45.352
+<v Linus Neumann>Ich glaube, wenn ich das richtig erinnere, haben die das dann...
+
+00:07:47.654 --> 00:07:54.517
+<v Linus Neumann>Gab's das nicht auch an Zigarettenautomaten irgendwann? Ja. Dass die geguckt haben, dass man 18 ist?
+
+00:07:54.958 --> 00:07:58.659
+<v Tim Pritlove>Ich bin mir nicht so sicher, dass das wirklich diese Funktion benutzt wurde.
+
+00:07:59.280 --> 00:08:00.520
+<v Tim Pritlove>Sondern ich glaube es wurde einfach nur...
+
+00:08:00.520 --> 00:08:02.642
+<v Linus Neumann>Nee, nee, die haben das mit Geldkarte oder sowas gemacht, ne?
+
+00:08:03.762 --> 00:08:07.004
+<v Tim Pritlove>Ich glaube es war sagen wir mal nur so dieses, du hast so ein Dokument,
+
+00:08:07.004 --> 00:08:08.885
+<v Tim Pritlove>dann musst du so und so alt mindestens sein.
+
+00:08:10.726 --> 00:08:11.586
+<v Linus Neumann>Jaja, irgendwie so.
+
+00:08:11.586 --> 00:08:14.648
+<v Tim Pritlove>So war das glaube ich, ne? Stefan erläutert das auch nochmal ein bisschen genauer.
+
+00:08:15.148 --> 00:08:19.240
+<v Tim Pritlove>Der neue Personalausweis kann genau das, Altersprüfung ohne weitere Daten zu
+
+00:08:19.240 --> 00:08:23.693
+<v Tim Pritlove>offenbaren und zwar nicht nur für 18, sondern für jedes Alter ohne das Geburtsdatum
+
+00:08:23.693 --> 00:08:25.133
+<v Tim Pritlove>zu verraten. Wie das geht?
+
+00:08:25.854 --> 00:08:31.317
+<v Tim Pritlove>Erstens, der Service fragt den Ausweis, ob die Person vor dem Tag X geboren wurde.
+
+00:08:32.117 --> 00:08:35.689
+<v Tim Pritlove>Zweitens, der Ausweis zeigt diese Frage an und fragt nach der PIN.
+
+00:08:36.600 --> 00:08:39.661
+<v Tim Pritlove>Drittens, bei richtiger PIN antwortet der Ausweis ja oder nein.
+
+00:08:39.661 --> 00:08:42.283
+<v Tim Pritlove>Also es ist natürlich nicht, dass der Ausweis eine PIN anzeigt,
+
+00:08:42.283 --> 00:08:44.544
+<v Tim Pritlove>weil das kann er natürlich nicht, sondern ein entsprechendes Lesegerät.
+
+00:08:47.345 --> 00:08:51.147
+<v Tim Pritlove>Beachte a. Um das Geburtsdatum zu ermitteln müsste der Service häufig fragen.
+
+00:08:51.147 --> 00:08:54.829
+<v Tim Pritlove>B. Die PIN bindet den Altersnachweis an die Person. c.
+
+00:08:55.390 --> 00:08:59.032
+<v Tim Pritlove>Jeder Service kriegt vom Ausweis eine andere zufällige ID zu sehen,
+
+00:08:59.032 --> 00:09:02.573
+<v Tim Pritlove>die aus Servicezertifikat und Ausweiszertifikat generiert wird.
+
+00:09:02.754 --> 00:09:05.635
+<v Tim Pritlove>Mehrere Services können untereinander die Daten nicht korrelieren.
+
+00:09:06.836 --> 00:09:09.998
+<v Tim Pritlove>Bonus die Echtheit der Antwort ist durch den Ablauf des Protokolls garantiert
+
+00:09:09.998 --> 00:09:13.800
+<v Tim Pritlove>sie ist aber trotzdem nicht signiert deshalb kann sie nicht weitergegeben oder
+
+00:09:13.800 --> 00:09:14.820
+<v Tim Pritlove>weiterverkauft werden.
+
+00:09:17.222 --> 00:09:22.124
+<v Linus Neumann>Super, also es ist erstens mal richtig schön erklärt wie man es macht oder machen
+
+00:09:22.124 --> 00:09:32.460
+<v Linus Neumann>kann aber ich weise kurz darauf hin ja am Ende ist der Anker für diesen Nachweis der Ausweis.
+
+00:09:35.172 --> 00:09:39.173
+<v Linus Neumann>Und dass ich nachweise, dass ich auch die berechtigte Person bin,
+
+00:09:39.314 --> 00:09:43.921
+<v Linus Neumann>in dem hier, in dem von Stefan vorgetragenen Ablauf.
+
+00:09:44.764 --> 00:09:51.508
+<v Linus Neumann>Auch die PIN eingebe. Das heißt, es funktioniert nicht, den Ausweis einer anderen
+
+00:09:51.508 --> 00:09:55.710
+<v Linus Neumann>Person zu nehmen, weil ich im Zweifelsfall die PIN nicht habe.
+
+00:09:58.171 --> 00:10:05.815
+<v Linus Neumann>Jetzt das Ganze also in irgendeiner Form loszulösen davon, dass einmal eine
+
+00:10:05.815 --> 00:10:09.077
+<v Linus Neumann>hoheitliche Stelle dir ausgestellt hat, Das ist ein Dokument mit dem du einen
+
+00:10:09.077 --> 00:10:12.079
+<v Linus Neumann>Altersnachweis gegenüber dritten und nicht gefälscht und so weiter.
+
+00:10:12.079 --> 00:10:16.261
+<v Linus Neumann>Das ist eben auch nur mit einem Ausweis nach meinem Verständnis möglich.
+
+00:10:17.642 --> 00:10:22.904
+<v Linus Neumann>Ja, also irgendeine Blockchain-Lösung oder sonstiges muss immer daran gebunden
+
+00:10:22.904 --> 00:10:26.846
+<v Linus Neumann>sein, dass es noch diesen Nachweis gibt, dass ich auch die Person bin,
+
+00:10:26.846 --> 00:10:28.207
+<v Linus Neumann>der das ausgestellt wurde.
+
+00:10:29.247 --> 00:10:35.450
+<v Linus Neumann>Und dieser Nachweis ist am Ende darin verankert, dass irgendjemand mal festgestellt
+
+00:10:35.450 --> 00:10:37.251
+<v Linus Neumann>hat, dass ich auch wirklich diese Person bin.
+
+00:10:38.952 --> 00:10:45.055
+<v Linus Neumann>Insofern sehe ich nicht die technische Möglichkeit, das Gleiche,
+
+00:10:45.055 --> 00:10:48.356
+<v Linus Neumann>was Stefan jetzt hier zeigt, am Ende ohne Ausweis zu machen.
+
+00:10:53.459 --> 00:11:00.282
+<v Linus Neumann>Und wo man jetzt auch nochmal schauen müsste, Da bin ich etwas unsicher,
+
+00:11:00.282 --> 00:11:04.204
+<v Linus Neumann>weil er hat jetzt den Ablauf geschildert.
+
+00:11:06.125 --> 00:11:10.407
+<v Linus Neumann>Der Ausweis antwortet ja oder nein. Der Ausweis wird von dem Leser,
+
+00:11:10.407 --> 00:11:12.567
+<v Linus Neumann>weiß er auf jeden Fall das abfragende Zertifikat.
+
+00:11:13.908 --> 00:11:18.340
+<v Linus Neumann>Und wahrscheinlich gibt es hier irgendeine Möglichkeit, dass der Service die
+
+00:11:18.340 --> 00:11:21.311
+<v Linus Neumann>zufällige ID von diesem Ausweis kriegt.
+
+00:11:21.752 --> 00:11:27.014
+<v Linus Neumann>Der Service Zertifikat und Ausweis Zertifikat. Okay, also du kriegst eine ID, die zu dir gehört.
+
+00:11:30.375 --> 00:11:35.717
+<v Linus Neumann>Jetzt stellt sich die Frage, wo, an welcher Stelle da jetzt am Ende verhindert wird,
+
+00:11:35.717 --> 00:11:39.759
+<v Linus Neumann>dass wenn dieser Service jetzt sagt,
+
+00:11:39.759 --> 00:11:43.681
+<v Linus Neumann>ich prüfe mal diese Signatur, ne doch, mit der öffentlichen Signatur kann er
+
+00:11:43.681 --> 00:11:48.083
+<v Linus Neumann>die Prüfung vornehmen, ohne dass die andere Stelle tatsächlich weiß,
+
+00:11:48.083 --> 00:11:51.564
+<v Linus Neumann>dass ich es war, also die ausgebende Stelle weiß, dass ich es war.
+
+00:11:51.984 --> 00:11:58.826
+<v Linus Neumann>Aber das ganze Ding ohne Ausweis kann man auch wieder bauen,
+
+00:11:58.826 --> 00:12:01.127
+<v Linus Neumann>es muss aber am Ende an den Ausweis gebunden sein.
+
+00:12:01.127 --> 00:12:09.268
+<v Linus Neumann>Also ich sehe da irgendwie, ehrlich gesagt, keinen sinnvollen Weg nach vorne,
+
+00:12:09.268 --> 00:12:14.090
+<v Linus Neumann>das vollständig von einer Identifikation und damit am Ende dem Ausweis zu lösen.
+
+00:12:18.398 --> 00:12:21.819
+<v Tim Pritlove>Ja beziehungsweise so richtig, ich meine das Ding ist, jetzt haben wir so eine,
+
+00:12:21.819 --> 00:12:27.442
+<v Tim Pritlove>also was heißt wir, deutsche Staatsbürger haben das, ich verstehe ja immer noch
+
+00:12:27.442 --> 00:12:32.665
+<v Tim Pritlove>nicht warum eigentlich ausländische, also Leute die in Deutschland wohnen aber
+
+00:12:32.665 --> 00:12:34.746
+<v Tim Pritlove>nicht Deutsche sind, warum die keinen Personalausweis haben.
+
+00:12:34.907 --> 00:12:39.369
+<v Linus Neumann>Hast du schon mal das Feedback bekommen, die Europakarte oder sowas, Deutschland.
+
+00:12:39.849 --> 00:12:47.813
+<v Tim Pritlove>Ja genau also okay wenn das genauso funktioniert, also bloß niemand weiß wie
+
+00:12:47.813 --> 00:12:52.076
+<v Tim Pritlove>man damit umgeht, niemand versteht warum es eine Ausweis App 2 gibt.
+
+00:12:52.417 --> 00:12:53.797
+<v Linus Neumann>Weil es eine 1 gibt.
+
+00:12:53.797 --> 00:12:56.938
+<v Tim Pritlove>Gab.
+
+00:12:56.938 --> 00:13:02.500
+<v Linus Neumann>Ja gut, aber wenn der, wenn Elmar Yatschi sagt es gab ein Omega A und ein Omega
+
+00:13:02.500 --> 00:13:04.861
+<v Linus Neumann>B, dann kannst du doch auch nicht sagen wieso heißt der B jetzt,
+
+00:13:04.861 --> 00:13:07.062
+<v Linus Neumann>B, den A gibt er nicht mehr.
+
+00:13:07.462 --> 00:13:11.437
+<v Tim Pritlove>Ja, also kurz gesagt, ich glaube das wird sich alles erst in dem Moment durchsetzen,
+
+00:13:11.437 --> 00:13:12.944
+<v Tim Pritlove>wo es aufs Telefon kommt.
+
+00:13:13.765 --> 00:13:14.905
+<v Linus Neumann>Ja, alles richtig.
+
+00:13:17.506 --> 00:13:21.268
+<v Linus Neumann>Aber da haben wir ja auch in der letzten Saison darüber gesprochen,
+
+00:13:21.268 --> 00:13:27.317
+<v Linus Neumann>wenn die ID auf dem Telefon ist, dann machst du damit den Schritt in allgegenwärtige
+
+00:13:27.317 --> 00:13:33.003
+<v Linus Neumann>Identifikation und den Identifikationsvorgang oder auch den Altersnachweisvorgang
+
+00:13:33.003 --> 00:13:36.674
+<v Linus Neumann>in einem gewissen Maß kompliziert zu halten,
+
+00:13:36.674 --> 00:13:40.636
+<v Linus Neumann>trägt eben auch dazu bei, dass er nicht allzu oft angewendet wird.
+
+00:13:42.017 --> 00:13:46.839
+<v Tim Pritlove>Ja, aber ich meine leider dann eben auch nicht dann, wenn es mal wirklich angemessen wäre.
+
+00:13:46.839 --> 00:13:52.261
+<v Linus Neumann>Ja, du kannst gerne bei Pornhub mal vorschlagen, dass sie diesen Prozess mit
+
+00:13:52.261 --> 00:13:56.723
+<v Linus Neumann>dir durchlaufen, jedes Mal, wenn du da abends noch ein Filmchen gucken möchtest.
+
+00:13:59.545 --> 00:14:03.647
+<v Tim Pritlove>Ja klar, also über die Gefahren müssen wir uns gar nicht groß unterhalten,
+
+00:14:03.647 --> 00:14:07.769
+<v Tim Pritlove>aber das ist halt, Chancen und Risiken muss man immer so ein bisschen abwägen
+
+00:14:07.769 --> 00:14:13.751
+<v Tim Pritlove>und bei dem beklagenswerten Zustand der Digitalisierung in unseren Breiten,
+
+00:14:13.751 --> 00:14:19.794
+<v Tim Pritlove>muss schon jetzt nochmal ein bisschen was passieren und Identity gehört nun
+
+00:14:19.794 --> 00:14:23.036
+<v Tim Pritlove>mal leider zu den Enablern schlechthin für Digitalisierung.
+
+00:14:24.837 --> 00:14:29.539
+<v Linus Neumann>Ja aber Tim, ganz kurz, wenn ich dich daran erinnern darf, wir haben über diesen
+
+00:14:29.539 --> 00:14:34.161
+<v Linus Neumann>Kontext gesprochen, im Thema Chat-Kontrolle und Altersnachweis,
+
+00:14:34.161 --> 00:14:38.163
+<v Linus Neumann>um überhaupt irgendwo ein Internet-Chat-Zugang zu bekommen.
+
+00:14:38.163 --> 00:14:40.975
+<v Linus Neumann>Also wir reden ja hier von harten
+
+00:14:40.975 --> 00:14:45.027
+<v Linus Neumann>Einschränkungen und vollumfassendem Altersnachweis und Identifikation.
+
+00:14:46.908 --> 00:14:51.063
+<v Linus Neumann>Ich würde jetzt ungerne in dem Kontext die Diskussion aufmachen,
+
+00:14:51.063 --> 00:14:54.671
+<v Linus Neumann>okay, wie hebt man jetzt ID in eine zeitgemäße, ähm,
+
+00:15:00.154 --> 00:15:00.254
+<v Linus Neumann>...
+
+00:15:01.382 --> 00:15:08.285
+<v Linus Neumann>Auf eine zeitgemäße Ebene, sicherlich nicht indem man da Privatanbieter rein
+
+00:15:08.285 --> 00:15:12.106
+<v Linus Neumann>holt und sicherlich nicht indem man irgendwelche Blockchain Technologien macht
+
+00:15:12.106 --> 00:15:17.408
+<v Linus Neumann>oder was sonst Udo und seine Kollegen sich als nächstes ausdenken.
+
+00:15:18.249 --> 00:15:22.370
+<v Tim Pritlove>Vollkommen klar. Das ist eine hoheitliche Geschichte und muss auch genau dort
+
+00:15:22.370 --> 00:15:25.811
+<v Tim Pritlove>bleiben und ordentlich gelöst werden. Tatsächlich ist sie technisch bereits
+
+00:15:25.811 --> 00:15:30.593
+<v Tim Pritlove>ansatzweise richtig gelöst. Die Basis dafür ist da. Es ist bloß noch keinem
+
+00:15:30.593 --> 00:15:33.234
+<v Tim Pritlove>gelungen das letzte Glied in der Kette zu schließen.
+
+00:15:33.594 --> 00:15:35.495
+<v Tim Pritlove>Sodass es auch jeder nutzen kann.
+
+00:15:35.495 --> 00:15:39.256
+<v Linus Neumann>Und das ist glaube ich die Falle,
+
+00:15:39.256 --> 00:15:43.878
+<v Linus Neumann>in der wir uns gerade befinden, dass wir nämlich eine Technologie vor vielen
+
+00:15:43.878 --> 00:15:48.400
+<v Linus Neumann>Jahren hier eingeführt haben mit dem NPA, dem neuen Personalausweis,
+
+00:15:48.400 --> 00:15:54.042
+<v Linus Neumann>der ja nicht mehr EPA heißt, weil der die elektronische Patientenakte, mit dem NPA.
+
+00:15:56.303 --> 00:16:00.104
+<v Linus Neumann>Wo wir feststellen, junge, junge, da haben sich Leute vor 10,
+
+00:16:00.104 --> 00:16:04.246
+<v Linus Neumann>15 Jahren echt schon mal Gedanken gemacht, wie man sowas alles ordentlich löst.
+
+00:16:06.987 --> 00:16:15.930
+<v Linus Neumann>Ungünstigerweise, ja damals noch nicht absehbar, der Siegeszug des Smartphones, ja, in diesem Ausmaß.
+
+00:16:17.171 --> 00:16:20.642
+<v Linus Neumann>Aber zumindest können wir sagen, ja pass auf, diese bestimmte Lösung,
+
+00:16:20.642 --> 00:16:25.773
+<v Linus Neumann>die ihr versucht von hinten durch die Brust ins Auge zu bauen, die gibt es schon.
+
+00:16:26.474 --> 00:16:31.075
+<v Linus Neumann>Das ist durchaus technisch möglich und deswegen finde ich die Hinweise hier
+
+00:16:31.075 --> 00:16:37.698
+<v Linus Neumann>von Stefan und Simon auch so wichtig zu sagen, ein paar Dinge sind auch schon
+
+00:16:37.698 --> 00:16:39.739
+<v Linus Neumann>gelöst, muss man vielleicht gar nicht neu erfinden.
+
+00:16:42.767 --> 00:16:46.709
+<v Tim Pritlove>Was auch schon gelöst ist, ist die Frage, was denn die beste Primzahl ist.
+
+00:16:48.370 --> 00:16:52.211
+<v Tim Pritlove>Sicherlich eine Frage, die euch jetzt seit mehreren Folgen schon einfach Tag und Nacht beschäftigt.
+
+00:16:52.952 --> 00:16:58.955
+<v Tim Pritlove>Dazu äußert sich Daniel und berichtet, Sheldon aus Big Bang Theory hat mal erklärt,
+
+00:16:58.955 --> 00:17:00.756
+<v Tim Pritlove>was die beste Zahl ist, nämlich die 73.
+
+00:17:01.657 --> 00:17:06.489
+<v Tim Pritlove>Die 73 ist die 21. Primzahl, ihre Spiegelzahl, die 37, ist die 12.
+
+00:17:06.489 --> 00:17:12.082
+<v Tim Pritlove>Primzahl. Deren Spiegelzahl wiederum, die 21, ist das Produkt von 7 und 3.
+
+00:17:12.683 --> 00:17:17.445
+<v Tim Pritlove>Es konnte sogar mathematisch gezeigt werden, dass 73 tatsächlich die einzige
+
+00:17:17.445 --> 00:17:20.226
+<v Tim Pritlove>Zahl mit diesen Eigenschaften ist. Die sogenannte Sheldon-Primzahl.
+
+00:17:23.468 --> 00:17:24.619
+<v Tim Pritlove>Binär ausgedrückt ist die 73
+
+00:17:24.619 --> 00:17:30.491
+<v Tim Pritlove>ein Palindrom, da sie vorwärts wie rückwärts geschrieben 1001001 lautet.
+
+00:17:30.912 --> 00:17:35.134
+<v Tim Pritlove>Der Morse-Code, lang, lang, Punkt, Punkt, Punkt, Punkt, Punkt,
+
+00:17:35.134 --> 00:17:37.275
+<v Tim Pritlove>Punkt, Strich, Strich, ist ebenfalls symmetrisch.
+
+00:17:38.256 --> 00:17:40.657
+<v Tim Pritlove>Nachzusehen natürlich in der 73 folge der Serie.
+
+00:17:43.198 --> 00:17:49.201
+<v Linus Neumann>Es ist wirklich irre was sie bei Big Bang Theory an Nerd Kram unterbringen das
+
+00:17:49.201 --> 00:17:50.101
+<v Linus Neumann>ist wirklich erfreulich.
+
+00:17:53.443 --> 00:17:57.905
+<v Tim Pritlove>Da kann dann endlich mal alles berichtet werden was sich Nerds so ausgedacht haben.
+
+00:18:00.307 --> 00:18:04.809
+<v Tim Pritlove>Dann gibt es noch einen Hinweis zum Thema Glasfaserkabelreparatur,
+
+00:18:04.809 --> 00:18:09.201
+<v Tim Pritlove>gab es tatsächlich mehrere Kommentare, aber wir zitieren mal Smolpp,
+
+00:18:09.201 --> 00:18:13.094
+<v Tim Pritlove>der das mal ganz ausführlich berichtet hat, wie denn das eigentlich funktioniert.
+
+00:18:14.835 --> 00:18:19.537
+<v Tim Pritlove>Bezüglich eurer Ungereimtheiten bei dem Glasfaserschaden. Schön formuliert, eure Ungereimtheiten.
+
+00:18:20.958 --> 00:18:23.359
+<v Tim Pritlove>Man hat nicht gesagt, dass wir scheiße erzählen.
+
+00:18:24.961 --> 00:18:28.122
+<v Tim Pritlove>Ja, das hat sich nicht gereimt. Wir sollten mehr darauf achten,
+
+00:18:28.122 --> 00:18:29.823
+<v Tim Pritlove>dass sich die Sachen, die wir sagen, reimen.
+
+00:18:33.645 --> 00:18:37.893
+<v Tim Pritlove>Ja, wie in dem berühmten Gedicht, Der Schüttelreim, der Schüttelreim,
+
+00:18:37.893 --> 00:18:40.220
+<v Tim Pritlove>der reimt sich nicht, der reimt sich nicht.
+
+00:18:42.535 --> 00:18:46.337
+<v Tim Pritlove>Also, er schreibt, um den Schaden relativ einfach zu beheben,
+
+00:18:46.337 --> 00:18:50.609
+<v Tim Pritlove>wird an der Schadstelle an beiden Enden so weit zurückgegangen,
+
+00:18:50.609 --> 00:18:53.641
+<v Tim Pritlove>dass man wieder genug Kabel zum Spleißen hat.
+
+00:18:54.041 --> 00:18:56.983
+<v Tim Pritlove>Man braucht in der Regel zwei bis drei Meter.
+
+00:18:58.524 --> 00:19:01.205
+<v Tim Pritlove>Dort werden dann Muffen gesetzt und die Fasern eingelegt.
+
+00:19:02.906 --> 00:19:08.929
+<v Tim Pritlove>Also für mich ist eine Muffe jetzt etwas, was so quasi so für jede Faser so einen Slot hat, ne?
+
+00:19:09.330 --> 00:19:14.312
+<v Tim Pritlove>Dass die sozusagen in so einem geordneten Raum sind. So verstehe ich das.
+
+00:19:14.733 --> 00:19:17.574
+<v Tim Pritlove>Nun verbindet man die beiden, oder was ist für dich eine Muffe?
+
+00:19:17.574 --> 00:19:23.657
+<v Tim Pritlove>Linus. Ich gucke mal kurz.
+
+00:19:25.298 --> 00:19:26.519
+<v Tim Pritlove>Also Muffe ist so ein Wort.
+
+00:19:26.519 --> 00:19:27.419
+<v Linus Neumann>Muffe ist ein Beutel.
+
+00:19:29.100 --> 00:19:31.922
+<v Tim Pritlove>Das steckt man auf was anderes drauf. Ja, ne?
+
+00:19:32.702 --> 00:19:37.785
+<v Linus Neumann>Genau, also eine Muffe ist in der Installationstechnik ein Bauelement zur unterbrechungsfreien
+
+00:19:37.785 --> 00:19:42.527
+<v Linus Neumann>Verbindung zweier Rohre oder Kabel und das Gegenstück zum Nippel.
+
+00:19:45.689 --> 00:19:46.489
+<v Linus Neumann>Bewästigungsbauteile mit Innengewinde.
+
+00:19:48.991 --> 00:19:53.053
+<v Linus Neumann>Moment Tim, das ist ja nicht so einfach. Bewästigungsbauteile mit Innengewinde,
+
+00:19:53.053 --> 00:19:57.114
+<v Linus Neumann>die mehr als zweimal so lang wie der Innendurchmesser sind, werden auch als
+
+00:19:57.114 --> 00:20:00.114
+<v Linus Neumann>Gewindemuffen bezeichnet. Untertitel im Auftrag des ZDF für funk, 2017,
+
+00:20:01.121 --> 00:20:07.103
+<v Linus Neumann>Jetzt ist die Frage, gibt es auch Gewinde Nippel oder heißen die dann schon Schraube?
+
+00:20:10.665 --> 00:20:12.426
+<v Tim Pritlove>Alles ist Nippel außer der Muffe.
+
+00:20:15.067 --> 00:20:19.149
+<v Linus Neumann>Das ist also eine Muffe. So hätte ich es jetzt auch so.
+
+00:20:21.170 --> 00:20:23.471
+<v Tim Pritlove>Okay, also Muffe ist was, was man so rüber steckt.
+
+00:20:23.891 --> 00:20:26.592
+<v Linus Neumann>Ja, ein größeres Rohr um zwei dünnere zu verbinden.
+
+00:20:26.592 --> 00:20:29.454
+<v Tim Pritlove>Genau, aber ich hab mich jetzt nur gefragt, was bedeutet das für diese Glasfasern,
+
+00:20:29.454 --> 00:20:33.155
+<v Tim Pritlove>wenn die eingelegt werden? Also sind dann sozusagen in dieser Muffe nochmal so Slots?
+
+00:20:34.076 --> 00:20:35.816
+<v Tim Pritlove>Egal, ich fahre mal fort.
+
+00:20:37.117 --> 00:20:40.859
+<v Tim Pritlove>Nun verbindet man die beiden Muffen noch mit einem neuen Kabel,
+
+00:20:40.859 --> 00:20:44.140
+<v Tim Pritlove>spleißt alle Fasern eins zu eins durch.
+
+00:20:44.140 --> 00:20:51.984
+<v Tim Pritlove>Fertig. Fertig. Man hat also am Ende zwei Muffen in denen die beiden Kabelenden
+
+00:20:51.984 --> 00:20:56.207
+<v Tim Pritlove>des defekten Kabels eingelegt sind. Von Muffe A zum Muffe B wird ein neues Kabel
+
+00:20:56.207 --> 00:20:59.088
+<v Tim Pritlove>gelegt und an beiden Muffen werden die Fasern eins zu eins durchgespleißt.
+
+00:21:00.930 --> 00:21:05.072
+<v Tim Pritlove>An jeder Muffe sind dann zwei Personen. Einer setzt die Kabel ab und legt die
+
+00:21:05.072 --> 00:21:08.674
+<v Tim Pritlove>Fasern ein, der andere spleißt. Eventuell werden noch die wichtigsten Fasern
+
+00:21:08.674 --> 00:21:11.035
+<v Tim Pritlove>priorisiert um den Stress zu minimieren.
+
+00:21:11.475 --> 00:21:16.398
+<v Tim Pritlove>Und um die Fasern zu identifizieren, gibt es einen Farbcode mit zwölf Farben.
+
+00:21:16.398 --> 00:21:20.320
+<v Tim Pritlove>Es sind im Normalfall immer zwölf Fasern zu einem Bündel zusammengefasst.
+
+00:21:21.121 --> 00:21:24.242
+<v Tim Pritlove>Sowohl die Bündeladern als auch die Fasern sind farblich markiert.
+
+00:21:24.683 --> 00:21:28.765
+<v Tim Pritlove>Falls die zwölf Farben nicht mehr ausreichen sollten, wird mit Strichen weitergearbeitet.
+
+00:21:29.265 --> 00:21:34.968
+<v Tim Pritlove>Oder es werden zwölf Bündeladern à zwölf Fasern, also insgesamt 144 Fasern in
+
+00:21:34.968 --> 00:21:36.289
+<v Tim Pritlove>einer größeren Ader zusammengefasst.
+
+00:21:36.769 --> 00:21:43.813
+<v Tim Pritlove>Bei 576 Fasern wären das also 5 große Adern mit jeweils 12 Bündeladern mit jeweils 12 Fasern.
+
+00:21:45.134 --> 00:21:47.635
+<v Tim Pritlove>Ich hoffe das war jetzt nicht zu verwirrend. Liebe Grüße Franz.
+
+00:21:47.635 --> 00:21:49.416
+<v Linus Neumann>Und das kommt dann in einen Beutel.
+
+00:21:49.416 --> 00:21:51.897
+<v Tim Pritlove>Oder in den Sack.
+
+00:21:52.698 --> 00:21:55.279
+<v Linus Neumann>Ich habe, glaube ich, auf Wikipedia ein Bild gefunden.
+
+00:21:58.108 --> 00:22:01.430
+<v Linus Neumann>Wo jemand relativ viel zu splicen hat,
+
+00:22:01.430 --> 00:22:11.089
+<v Linus Neumann>wenn ich das so, scheint mir das zu sein, das ist eine Glasfaserkabelmuffe mit
+
+00:22:11.089 --> 00:22:13.315
+<v Linus Neumann>einem Splicegerät daneben.
+
+00:22:16.376 --> 00:22:22.919
+<v Linus Neumann>Und da kann der sich das in der Muffe schön sortieren und dann wird das gespliced.
+
+00:22:26.581 --> 00:22:30.002
+<v Tim Pritlove>Ja, das sieht ganz sinnvoll aus. Also man macht die Zuordnung mit Farben.
+
+00:22:30.002 --> 00:22:34.834
+<v Linus Neumann>Jetzt ist halt die Frage, ob der ein Fusionssplice, ein Klebesplice oder ein
+
+00:22:34.834 --> 00:22:39.646
+<v Linus Neumann>Krimsplice oder ein No Epoxy, No Polish mechanischer Splice.
+
+00:22:39.646 --> 00:22:43.928
+<v Linus Neumann>Das erklären wir euch aber beim nächsten Mal.
+
+00:22:48.550 --> 00:22:52.572
+<v Tim Pritlove>Irgendwo anders wurde auch noch kommentiert, so meiner wilden Idee,
+
+00:22:52.572 --> 00:22:56.854
+<v Tim Pritlove>man löst das alles in Software, dass es sich leider nicht unbedingt immer so
+
+00:22:56.854 --> 00:23:01.416
+<v Tim Pritlove>ohne weiteres mit Switches realisieren lässt und teilweise auch einzelne Fasern
+
+00:23:01.416 --> 00:23:03.177
+<v Tim Pritlove>dann untervermietet sind,
+
+00:23:03.177 --> 00:23:05.939
+<v Tim Pritlove>sodass sie also auch physikalisch irgendwo anders aufschlagen,
+
+00:23:05.939 --> 00:23:09.460
+<v Tim Pritlove>sodass man da nicht unbedingt immer elektronisch upmappen kann.
+
+00:23:10.841 --> 00:23:16.524
+<v Tim Pritlove>Offensichtlich haben aber hier die Glasfaser Reparateure die Sache voll im Griff mit Farben.
+
+00:23:20.046 --> 00:23:23.187
+<v Tim Pritlove>Ist doch wirklich ein farbenfroher Job den die haben.
+
+00:23:24.828 --> 00:23:26.698
+<v Linus Neumann>Ja und die haben schon Fusion.
+
+00:23:33.520 --> 00:23:35.930
+<v Tim Pritlove>Kalte Fusion draußen im November im Kramer.
+
+00:23:35.930 --> 00:23:39.431
+<v Linus Neumann>Bin mir nicht so sicher, ob die so kann. Okay, das muss jetzt auch einer da haben.
+
+00:23:39.431 --> 00:23:41.011
+<v Tim Pritlove>Ja, das sind da auf jeden Fall.
+
+00:23:42.252 --> 00:23:42.972
+<v Linus Neumann>Merken wir uns.
+
+00:23:45.453 --> 00:23:47.633
+<v Linus Neumann>Lieber nicht mit dem Bagger in die Glasfaser.
+
+00:23:49.753 --> 00:23:50.334
+<v Tim Pritlove>Ja.
+
+00:23:53.094 --> 00:23:54.224
+<v Linus Neumann>So, jetzt hat ...
+
+00:23:57.615 --> 00:23:59.055
+<v Linus Neumann>Lauterbach endlich ein anderes Thema.
+
+00:24:04.739 --> 00:24:08.641
+<v Linus Neumann>Pandemie zu Ende, jetzt muss der sich ein neues Thema suchen.
+
+00:24:09.901 --> 00:24:11.662
+<v Linus Neumann>Und er hat jetzt vorgestellt die Digitalstrategie.
+
+00:24:17.185 --> 00:24:22.258
+<v Linus Neumann>Und vielleicht dazu einleitend ein paar kleine Bemerkungen. Also eine Strategie
+
+00:24:22.258 --> 00:24:27.230
+<v Linus Neumann>gibt ja sehr große politische Ziele vor,
+
+00:24:27.230 --> 00:24:34.794
+<v Linus Neumann>die man nicht notwendigerweise dann in konkreten Details münden.
+
+00:24:34.794 --> 00:24:40.918
+<v Linus Neumann>Das heißt, wenn wir heute diskutieren, können wir nur relativ wenig über die
+
+00:24:40.918 --> 00:24:43.419
+<v Linus Neumann>tatsächliche Implementierung und Umsetzung sprechen.
+
+00:24:43.419 --> 00:24:49.022
+<v Linus Neumann>Das wäre dann eher so Taktik und Implementierung, aber eben die große Zielvorgabe
+
+00:24:49.022 --> 00:24:50.303
+<v Linus Neumann>für die Gesundheitspolitik.
+
+00:24:53.265 --> 00:25:00.329
+<v Linus Neumann>Des Weiteren, wenn ich das richtig in Erinnerung halte, ist der Karl Lauterbach ja Epidemiologe.
+
+00:25:02.270 --> 00:25:06.272
+<v Linus Neumann>Vor allem, weil man sich wundert, dass der nicht jetzt in den letzten Jahren
+
+00:25:06.272 --> 00:25:08.433
+<v Linus Neumann>mal eine Fortbildung zum Pandemiologen gemacht hat.
+
+00:25:10.295 --> 00:25:11.455
+<v Linus Neumann>Das ist das Gleiche.
+
+00:25:15.418 --> 00:25:16.959
+<v Linus Neumann>Das große Pandemie-Plom hat er jetzt.
+
+00:25:18.660 --> 00:25:19.510
+<v Tim Pritlove>Pandi-Plom sozusagen.
+
+00:25:19.510 --> 00:25:20.110
+<v Linus Neumann>Pandiplomierter Epidemiologe.
+
+00:25:24.961 --> 00:25:28.083
+<v Linus Neumann>Und natürlich kann man jetzt,
+
+00:25:28.083 --> 00:25:31.805
+<v Linus Neumann>wenn ein solcher Mensch jetzt Gesundheitsminister ist und eine Digitalstrategie macht,
+
+00:25:31.805 --> 00:25:34.846
+<v Linus Neumann>dann kann man sich die Gedanken machen,
+
+00:25:34.846 --> 00:25:40.989
+<v Linus Neumann>dass er natürlich, oder kann man sich ausmalen, dass er die Datenbasis verbessern
+
+00:25:40.989 --> 00:25:49.834
+<v Linus Neumann>möchte, unter der seine Wissenschaft natürlich die letzten Jahrhunderte oder Tausende gelitten hat.
+
+00:25:49.834 --> 00:25:53.736
+<v Linus Neumann>Dass es eben viele Daten dezentral irgendwo gibt,
+
+00:25:53.736 --> 00:25:58.311
+<v Linus Neumann>die, stünden sie der Forschung zur Verfügung,
+
+00:25:58.311 --> 00:26:05.231
+<v Linus Neumann>vielleicht sehr viele Studiendesigns vereinfachen würden, sehr viele medizinische
+
+00:26:05.231 --> 00:26:09.203
+<v Linus Neumann>Kenntnisse einfacher herbeiführen würden.
+
+00:26:10.824 --> 00:26:15.707
+<v Linus Neumann>Und das ist jetzt so ein bisschen der Hintergrund oder scheint mir einer der
+
+00:26:15.707 --> 00:26:19.449
+<v Linus Neumann>Schwerpunkte von Karl Lauterbach zu sein.
+
+00:26:19.449 --> 00:26:23.291
+<v Linus Neumann>Und zunächst einmal, wenn man jetzt alles andere aus dem Vorlest,
+
+00:26:23.291 --> 00:26:31.575
+<v Linus Neumann>denke ich, dass da sicherlich ein sehr großer Datenschatz zu heben ist,
+
+00:26:31.575 --> 00:26:38.269
+<v Linus Neumann>weil wir, glaube ich, relativ wenig noch über die Korrelationen,
+
+00:26:38.269 --> 00:26:42.701
+<v Linus Neumann>Risikofaktoren von unterschiedlichen Krankheiten so kennen.
+
+00:26:42.781 --> 00:26:49.744
+<v Linus Neumann>Man weiß, bestimmte Lebensmittel oder Genussmittel führen zu bestimmten Krankheiten.
+
+00:26:49.744 --> 00:26:51.905
+<v Linus Neumann>Aber da gibt es wahrscheinlich noch eine ganze Menge mehr.
+
+00:26:53.426 --> 00:26:55.827
+<v Linus Neumann>Wer sich mit Karl Lauterbach so ein bisschen auseinandersetzt,
+
+00:26:55.827 --> 00:26:58.568
+<v Linus Neumann>weiß ja, dass der Mann mehr oder weniger kein Salz zu sich nimmt,
+
+00:26:58.568 --> 00:27:04.230
+<v Linus Neumann>weil übermäßiger Salzkonsum mit großen Krankheiten verbunden ist und so weiter
+
+00:27:04.230 --> 00:27:06.111
+<v Linus Neumann>und so fort. noch sehr viel mehr.
+
+00:27:08.656 --> 00:27:11.337
+<v Linus Neumann>Wissen zu heben, wenn wir jetzt die Gesundheit verdaten.
+
+00:27:13.959 --> 00:27:20.328
+<v Linus Neumann>Und wenn man sich mal anschaut, wie jetzt einzelne Arztpraxen Datenhaltung betreiben,
+
+00:27:20.328 --> 00:27:24.303
+<v Linus Neumann>dann denke ich, würde ich eingangs
+
+00:27:24.303 --> 00:27:27.985
+<v Linus Neumann>schon mal sagen, das ganz große Problem scheint nämlich dort zu sein.
+
+00:27:27.985 --> 00:27:32.907
+<v Linus Neumann>Also in, wie schaffe ich denn jetzt mal eine Datenvereinheitlichung überhaupt dafür?
+
+00:27:33.668 --> 00:27:38.550
+<v Linus Neumann>Wenn die eine Zahnärztin, was weiß ich, das so festhält und die andere so,
+
+00:27:38.550 --> 00:27:42.692
+<v Linus Neumann>dann kann ich noch so viele Daten an zentraler Stelle sammeln.
+
+00:27:42.692 --> 00:27:46.994
+<v Linus Neumann>Wenn ich kein Datenmodell habe, in dem sich das abbilden lässt,
+
+00:27:46.994 --> 00:27:49.665
+<v Linus Neumann>dann habe ich auch nicht die Erkenntnisse.
+
+00:27:50.296 --> 00:27:55.899
+<v Linus Neumann>Das große Problem der medizinischen Studie oder der medizinischen Meta-Analyse
+
+00:27:55.899 --> 00:27:58.600
+<v Linus Neumann>oder was auch immer ist natürlich wie in jedem anderen Bereich auch,
+
+00:27:58.600 --> 00:28:03.823
+<v Linus Neumann>überhaupt erstmal ein Datenmodell zu finden, was alle relevanten Faktoren,
+
+00:28:03.823 --> 00:28:06.905
+<v Linus Neumann>die du untersuchen möchtest, auch abbildet. Und dieses Problem ist ungewiss.
+
+00:28:06.905 --> 00:28:09.726
+<v Tim Pritlove>Also es ist nicht so, dass es keine gibt, ne? Ja, aber es ist auch nicht so,
+
+00:28:09.726 --> 00:28:13.068
+<v Tim Pritlove>dass es keine Datenmodelle gibt für Krankheiten und so was.
+
+00:28:13.068 --> 00:28:19.191
+<v Linus Neumann>Ja, ja, richtig, aber du gehst ja genau davon aus, wenn du sagst,
+
+00:28:19.191 --> 00:28:21.613
+<v Linus Neumann>wir wollen hier Dinge untersuchen, von denen wir noch nicht wissen,
+
+00:28:21.613 --> 00:28:25.335
+<v Linus Neumann>dass sie Zusammenhänge haben, dann muss ich ja erst mal irgendwie andere dazu
+
+00:28:25.335 --> 00:28:26.435
+<v Linus Neumann>bringen, dass sie die erfassen.
+
+00:28:27.796 --> 00:28:30.577
+<v Linus Neumann>Also beispielsweise, klar kann ich jetzt von allen Menschen alle Diagnosen in
+
+00:28:30.577 --> 00:28:34.259
+<v Linus Neumann>irgendeine Datenbank packen und da habe ich immer noch keine Korrelationen zu
+
+00:28:34.259 --> 00:28:39.442
+<v Linus Neumann>Risikofaktoren wie Salzkonsum oder so etwas.
+
+00:28:39.442 --> 00:28:44.104
+<v Linus Neumann>Sondern nur Korrelationen zu anderen Krankheiten, die wiederum jetzt nicht allzu
+
+00:28:44.104 --> 00:28:46.625
+<v Linus Neumann>schwer zu erforschen sind.
+
+00:28:46.625 --> 00:28:53.088
+<v Linus Neumann>Also ich will nur sagen, die vollständige oder die große Arbeit,
+
+00:28:53.088 --> 00:28:58.271
+<v Linus Neumann>eine derartige zentrale Datenfassung irgendwie überhaupt einem Gewinn hinzuzuführen,
+
+00:28:58.271 --> 00:29:04.274
+<v Linus Neumann>die würde auf jeden Fall noch vor uns stehen und die geht natürlich auch mit
+
+00:29:04.274 --> 00:29:06.115
+<v Linus Neumann>enormen Ineffizienzen einher.
+
+00:29:07.396 --> 00:29:10.957
+<v Linus Neumann>Wer sich erinnert, ich glaube das hatte Flipke auch bei uns in der Sendung natürlich
+
+00:29:10.957 --> 00:29:15.799
+<v Linus Neumann>dargestellt, als wir über die Konnektoren gesprochen haben, im Moment ist die
+
+00:29:15.799 --> 00:29:21.601
+<v Linus Neumann>EPA mehr oder weniger sowas wie so ein Cloud-Speicher, wo PDFs hochgeladen werden.
+
+00:29:23.482 --> 00:29:30.825
+<v Linus Neumann>Und das ist natürlich nicht das, was irgendwie jetzt die Forschungsideen eines
+
+00:29:30.825 --> 00:29:34.286
+<v Linus Neumann>Epidemiologen auch nur im Entferntesten ermöglicht.
+
+00:29:36.067 --> 00:29:40.469
+<v Linus Neumann>Ja, also das meine ich mit, dass es der ungelöste Teil des Problems ist.
+
+00:29:42.580 --> 00:29:49.823
+<v Tim Pritlove>Also eine reale Datenarchitektur, die quasi deutschlandweit oder im Idealfall
+
+00:29:49.823 --> 00:29:55.766
+<v Tim Pritlove>natürlich Europa und weltweit definiert ist und in Betrieb genommen werden kann
+
+00:29:55.766 --> 00:29:58.588
+<v Tim Pritlove>und die halt die Anforderungen an Security,
+
+00:29:58.588 --> 00:30:03.650
+<v Tim Pritlove>an Privatsphäre aber eben auch an Forschung und Nützlichkeit und den Workflow
+
+00:30:03.650 --> 00:30:10.454
+<v Tim Pritlove>des Gesundheitssystems das entsprechend alles berücksichtigt und im Idealfall optimal bedient.
+
+00:30:10.454 --> 00:30:13.355
+<v Linus Neumann>Das wäre jetzt so die Idealvorstellung, die wird man nie erreichen.
+
+00:30:15.916 --> 00:30:19.418
+<v Tim Pritlove>Die sollte natürlich eine Idealvorstellung sein. Was denn sonst?
+
+00:30:19.418 --> 00:30:21.619
+<v Tim Pritlove>Sonst brauchst du ja gar nicht erst auf die Bühne zu kommen.
+
+00:30:21.759 --> 00:30:24.381
+<v Linus Neumann>Die setze ich jetzt ein bisschen niedriger an und sage, naja,
+
+00:30:24.381 --> 00:30:27.563
+<v Linus Neumann>vielleicht haben wir schon mal einen Vorteil,
+
+00:30:27.563 --> 00:30:34.427
+<v Linus Neumann>wenn wir es schaffen, dass ein Mensch seine Diagnosen nicht bei jedem neuen
+
+00:30:34.427 --> 00:30:40.110
+<v Linus Neumann>Kontakt mit einer Ärztin aus dem Gedächtnis zitieren muss.
+
+00:30:40.110 --> 00:30:45.033
+<v Linus Neumann>Ja, also ist, keine Ahnung, kommst zum Beispiel, sagen wir mal der Rettungsdienst kommt, ja?
+
+00:30:45.814 --> 00:30:49.736
+<v Linus Neumann>Du bist bewusstlos geworden, Rettungsdienst kommt, ja? Und der weiß jetzt zum
+
+00:30:49.736 --> 00:30:55.140
+<v Linus Neumann>Beispiel nicht, dass du Diabetikerin bist oder schon den dritten Herzinfarkt
+
+00:30:55.140 --> 00:30:59.242
+<v Linus Neumann>hattest oder solche Dinge, ne? Also die medizinische Vorgeschichte im Notfall.
+
+00:31:00.718 --> 00:31:05.140
+<v Linus Neumann>Kann durchaus natürlich von Interesse sein. Ist immer so ein Beispiel,
+
+00:31:05.140 --> 00:31:06.481
+<v Linus Neumann>was da jetzt auch angeführt wird.
+
+00:31:06.481 --> 00:31:11.663
+<v Linus Neumann>Wo jetzt zum Beispiel auch Apple hat dem ja, glaube ich so, du kannst Medical
+
+00:31:11.663 --> 00:31:12.823
+<v Linus Neumann>Information hinterlegen.
+
+00:31:12.823 --> 00:31:20.246
+<v Linus Neumann>Zum Beispiel sagen hier übrigens ich bin Epileptikerin, ich nehme regelmäßig
+
+00:31:20.246 --> 00:31:22.227
+<v Linus Neumann>Nitro oder sowas, das gibt's glaube ich.
+
+00:31:23.467 --> 00:31:24.348
+<v Tim Pritlove>Notfallpass und sowas.
+
+00:31:27.429 --> 00:31:30.510
+<v Linus Neumann>Dann hatten wir ja auch schon mal das Feedback eines Hörers,
+
+00:31:30.510 --> 00:31:36.062
+<v Linus Neumann>der sagt, ja, wenn man jetzt so chronisch krank ist und dann zu vielen unterschiedlichen
+
+00:31:36.062 --> 00:31:39.213
+<v Linus Neumann>Expertinnen gehen muss die ganze Zeit und dann,
+
+00:31:39.213 --> 00:31:44.195
+<v Linus Neumann>boah, kann der Arzt sich nochmal bemühen, dass er jetzt jetzt scheiß Röntgenbild
+
+00:31:44.195 --> 00:31:47.156
+<v Linus Neumann>nochmal der Ärztin schickt von der anderen Praxis und da hat der jetzt keinen
+
+00:31:47.156 --> 00:31:51.478
+<v Linus Neumann>Bock, da kriegt der aber nicht 1,67 Euro für, deswegen macht der das jetzt nicht.
+
+00:31:54.200 --> 00:31:59.242
+<v Linus Neumann>Solche Probleme, die gibt es auf jeden Fall. Alle und da gibt es sicherlich
+
+00:31:59.242 --> 00:32:07.287
+<v Linus Neumann>auch Potenziale, die man optimieren könnte. Oder auch Voruntersuchungen und so weiter.
+
+00:32:08.868 --> 00:32:10.148
+<v Linus Neumann>Impfungen, irgend so ein Kram.
+
+00:32:12.510 --> 00:32:16.512
+<v Linus Neumann>Aber all das würde ja nur funktionieren, wenn diese Daten auch in irgendeinem
+
+00:32:16.512 --> 00:32:20.114
+<v Linus Neumann>sinnvoll strukturierten Format vorliegen. Also wenn ich jetzt sage,
+
+00:32:20.114 --> 00:32:27.158
+<v Linus Neumann>hier ist der Patient, der Tim kippt um und sagt, mir ist ganz schummerig.
+
+00:32:27.558 --> 00:32:29.940
+<v Linus Neumann>Jetzt kommt der Notarzt und sagt, jetzt müssen wir mal gucken,
+
+00:32:29.940 --> 00:32:31.141
+<v Linus Neumann>ja, gucken wir mal die Patientenakte.
+
+00:32:31.141 --> 00:32:34.844
+<v Linus Neumann>Und dann gibt es halt so eine lose Blättersammlung von irgendwelchen Scans,
+
+00:32:34.844 --> 00:32:38.047
+<v Linus Neumann>die irgendwelche Leute zu irgendwelchen Zeitpunkten mal da hochgeladen haben.
+
+00:32:38.047 --> 00:32:41.350
+<v Linus Neumann>Und vielleicht dann noch strukturiert so ein paar ICD-Diagnosen,
+
+00:32:41.350 --> 00:32:42.991
+<v Linus Neumann>wie der Tim über die Zeit gesammelt hat.
+
+00:32:43.492 --> 00:32:45.693
+<v Linus Neumann>Das hilft natürlich auch nicht wirklich jemandem weiter.
+
+00:32:48.016 --> 00:32:55.492
+<v Linus Neumann>Nur um mal so zu sagen, was hier die Aufgabe ist, die man angehen möchte.
+
+00:32:57.733 --> 00:33:02.735
+<v Linus Neumann>Und dass jetzt zu all dem natürlich noch gehören müsste,
+
+00:33:02.735 --> 00:33:08.497
+<v Linus Neumann>dass wir anerkennen, dass es hier um hochprivate Daten handelt,
+
+00:33:08.497 --> 00:33:17.761
+<v Linus Neumann>von höchstem Schutzbedarf und Schutzanspruch, mit unter katastrophalen Konsequenzen,
+
+00:33:17.761 --> 00:33:20.782
+<v Linus Neumann>wenn sie in falsche Hände gelangen.
+
+00:33:22.203 --> 00:33:23.543
+<v Linus Neumann>Das muss man ja einfach mal festhalten.
+
+00:33:26.685 --> 00:33:31.467
+<v Linus Neumann>Und diesen beiden Ansprüchen, ich glaube, den beiden gerecht zu werden,
+
+00:33:31.467 --> 00:33:35.508
+<v Linus Neumann>und da sage ich jetzt spezifisch beiden gerecht zu werden, ist der Anspruch
+
+00:33:35.508 --> 00:33:40.931
+<v Linus Neumann>nicht, die gegeneinander abzuwägen und vielleicht zu sagen, der Datenschutz
+
+00:33:40.931 --> 00:33:46.333
+<v Linus Neumann>tötet uns alle, wir müssen die Daten jetzt alle auf einen Haufen werfen und gucken können.
+
+00:33:46.733 --> 00:33:56.098
+<v Linus Neumann>Das sind ja beides keine, würde man das sagen, verantwortungsbewussten Positionen in diesem Kontext.
+
+00:33:56.439 --> 00:34:00.551
+<v Linus Neumann>Und man könnte hier sicherlich eine sinnvolle Lösung bauen, die überzeugt.
+
+00:34:01.242 --> 00:34:06.054
+<v Linus Neumann>Jetzt können wir uns mal gucken, was kommt denn jetzt aus dem Gesundheitsministerium
+
+00:34:06.054 --> 00:34:13.358
+<v Linus Neumann>für Ideen? Ja, zum Beispiel, wir möchten gerne die EPA für alle ermöglichen.
+
+00:34:14.809 --> 00:34:17.871
+<v Linus Neumann>Okay, als ich letztes Mal geguckt habe, war das bereits der Fall.
+
+00:34:17.871 --> 00:34:21.032
+<v Linus Neumann>Kann ich bekommen. Ist für alle erhältlich bei Bedarf.
+
+00:34:21.673 --> 00:34:25.315
+<v Linus Neumann>Aber deswegen führen sie ein Opt-out Prinzip ein.
+
+00:34:26.055 --> 00:34:29.736
+<v Linus Neumann>Das bedeutet, wenn du nicht aktiv widersprichst, hast du eine EPA.
+
+00:34:32.618 --> 00:34:38.220
+<v Linus Neumann>Gut, kann man jetzt sagen, das war, glaube ich, auch diese Änderung war die,
+
+00:34:38.220 --> 00:34:42.362
+<v Linus Neumann>die dann auch dem Personalausweis irgendwann mal zur Verbreitung verholfen hat.
+
+00:34:43.002 --> 00:34:48.484
+<v Linus Neumann>Weil so ne, was der Bauer nicht kennt, der Fred-Denich-Mentalität sich durchgesetzt hatte.
+
+00:34:51.466 --> 00:34:54.507
+<v Linus Neumann>Kann man, ich weiß gar nicht, ob das so ohne weiteres geht, ne?
+
+00:34:57.348 --> 00:35:02.817
+<v Linus Neumann>Also, ehrlich gesagt, weiß ich wirklich nicht, ob man so einfach bei so krassen
+
+00:35:02.817 --> 00:35:08.573
+<v Linus Neumann>Datenhaltungen jetzt einfach ein Opt-Out-Verfahren machen kann.
+
+00:35:10.284 --> 00:35:15.715
+<v Linus Neumann>Kommt wahrscheinlich darauf an, wie nachher die tatsächliche Nutzung ist.
+
+00:35:15.715 --> 00:35:20.217
+<v Linus Neumann>Dass man sagt, ok, jede versicherte Karte bringt die Funktion jetzt erstmal
+
+00:35:20.217 --> 00:35:24.138
+<v Linus Neumann>mit. Du kannst erstens, du könntest sagen, du willst noch nicht mal die Funktion haben.
+
+00:35:24.598 --> 00:35:27.299
+<v Linus Neumann>Und du kannst aber auch im weiteren Verlauf immer sagen, du möchtest nicht,
+
+00:35:27.299 --> 00:35:30.080
+<v Linus Neumann>dass da irgendwas reingetan wird. Ist vielleicht möglich.
+
+00:35:32.511 --> 00:35:37.302
+<v Linus Neumann>Dann sollen 100% aller Behandlungsfälle im Videokontakt stattfinden dürfen.
+
+00:35:41.284 --> 00:35:44.004
+<v Linus Neumann>Also reine Video-Arztpraxen könnte man jetzt hier offenbar bauen.
+
+00:35:48.953 --> 00:35:53.375
+<v Linus Neumann>Das positive Nutzererlebnis von Telematikinfrastrukturanwendung wird zum Zulassungskriterium.
+
+00:35:55.736 --> 00:35:59.938
+<v Linus Neumann>Damit ist das Ding eigentlich gestorben würde ich sagen. Kannst du das nochmal
+
+00:35:59.938 --> 00:36:05.561
+<v Linus Neumann>sagen? Das positive Nutzererlebnis von TI, also Telematikinfrastrukturanwendung
+
+00:36:05.561 --> 00:36:06.262
+<v Linus Neumann>wird zum Zulassungskriterium.
+
+00:36:06.882 --> 00:36:12.245
+<v Linus Neumann>Also wenn das kein positives Nutzererlebnis ist, dann wird es nicht zugelassen.
+
+00:36:12.245 --> 00:36:13.966
+<v Linus Neumann>Ich würde sagen wir könnten jetzt einpacken.
+
+00:36:14.016 --> 00:36:16.907
+<v Tim Pritlove>Ja okay dann fang ich mich, was sind die Kriterien dafür?
+
+00:36:19.789 --> 00:36:24.271
+<v Tim Pritlove>Also geht es darum, dass Herr Lautermacher ein positives Nutzererlebnis hat oder ich?
+
+00:36:25.272 --> 00:36:27.693
+<v Linus Neumann>Ich denke mal was sie damit zum Ausdruck bringen wollen ist,
+
+00:36:27.693 --> 00:36:35.636
+<v Linus Neumann>dass es mal erprobt wird, ob man das benutzen kann und wenn die Nutzer sagen,
+
+00:36:35.636 --> 00:36:38.818
+<v Linus Neumann>ist scheiße, dann bietet das ein App Store.
+
+00:36:39.878 --> 00:36:44.720
+<v Tim Pritlove>Ja das finde ich ja grundsätzlich schon mal ganz gut, dass man sowas berücksichtigt,
+
+00:36:44.720 --> 00:36:46.601
+<v Tim Pritlove>auch wenn es mit den Kriterien dann so eine Sache ist.
+
+00:36:47.462 --> 00:36:50.203
+<v Linus Neumann>Nicht so gut ist, ich erinnere hier an die Sendung mit Flüppke,
+
+00:36:50.203 --> 00:36:53.044
+<v Linus Neumann>sie wollen die Position der Gematik stärken.
+
+00:36:54.125 --> 00:37:02.248
+<v Linus Neumann>Und die Gematik ist ja dieser Wirtschaftsverbands nähere Zusammenschluss,
+
+00:37:02.248 --> 00:37:09.271
+<v Linus Neumann>wo also relevante Teile des Gesundheitswesens sich auch ihre Regeln selber machen können.
+
+00:37:10.012 --> 00:37:19.996
+<v Linus Neumann>Also ein instransparentes Privatunternehmen, das jetzt hier mehr Stärke bekommen
+
+00:37:19.996 --> 00:37:20.876
+<v Linus Neumann>soll bei dieser Entscheidungsfindung.
+
+00:37:21.576 --> 00:37:26.198
+<v Linus Neumann>Das heißt, die Politik gibt hier unnötigerweise die Hoheit aus der Hand.
+
+00:37:27.959 --> 00:37:30.760
+<v Linus Neumann>Verstehe ich nicht unbedingt, warum er das machen wollen würde.
+
+00:37:32.821 --> 00:37:36.633
+<v Linus Neumann>Und dann kommt, was ja natürlich sehr viel besprochen wurde und was hier eine
+
+00:37:36.633 --> 00:37:39.384
+<v Linus Neumann>Entscheidung mit sehr weitreichenden Konsequenzen ist,
+
+00:37:39.384 --> 00:37:49.128
+<v Linus Neumann>die Datensilos werden für die Wissenschaft geöffnet und dann kriegt man die
+
+00:37:49.128 --> 00:37:50.929
+<v Linus Neumann>unter Forschungspseudonym,
+
+00:37:50.929 --> 00:37:55.711
+<v Linus Neumann>das heißt, da steht jetzt nicht dein Name dran, sondern eine ID.
+
+00:37:55.711 --> 00:37:58.692
+<v Linus Neumann>Ja und.
+
+00:37:58.692 --> 00:38:01.733
+<v Tim Pritlove>Kurze Anmerkung noch, weil ich glaube so kann man das nicht stehen lassen,
+
+00:38:01.733 --> 00:38:06.014
+<v Tim Pritlove>dass die Gematik jetzt allein ein Verbund aus privaten Unternehmen ist.
+
+00:38:06.344 --> 00:38:08.055
+<v Tim Pritlove>Das ist so ja nicht richtig.
+
+00:38:08.055 --> 00:38:10.516
+<v Linus Neumann>Hält zu 51 Prozent dem Staat oder wie war das?
+
+00:38:10.516 --> 00:38:14.757
+<v Tim Pritlove>Genau das Bundesministerium für Gesundheit hält 51 Prozent der Geschäftsanteile,
+
+00:38:14.757 --> 00:38:20.878
+<v Tim Pritlove>allerdings die GKV Spitzenverband finanziert das irgendwie zu 100 Prozent. Also.
+
+00:38:25.113 --> 00:38:29.655
+<v Linus Neumann>Klar, irgendjemand muss den ganzen Krempel am Ende spezifizieren und ich würde
+
+00:38:29.655 --> 00:38:35.819
+<v Linus Neumann>mal zustimmen, dass das eine Herausforderung ist, die jetzt idealerweise nicht
+
+00:38:35.819 --> 00:38:39.681
+<v Linus Neumann>im Bundestag bewältigt und auch nicht im Gesundheitsministerium.
+
+00:38:41.462 --> 00:38:45.084
+<v Tim Pritlove>Es ist vielleicht nicht unbedingt, also ich würde jetzt nicht generell sagen,
+
+00:38:45.084 --> 00:38:48.646
+<v Tim Pritlove>dass diese Struktur, die sie sich mit der Gematik hier gewählt haben,
+
+00:38:48.646 --> 00:38:53.148
+<v Tim Pritlove>der falsche Ansatz ist, das heißt nicht automatisch, dass die gute Arbeit leisten
+
+00:38:53.148 --> 00:38:58.311
+<v Tim Pritlove>oder immer richtig liegen, das ist sozusagen immer noch sehr geprägt von dem
+
+00:38:58.311 --> 00:39:01.913
+<v Tim Pritlove>deutschen Digitalansatz, den es zu kritisieren gilt generell.
+
+00:39:03.534 --> 00:39:06.855
+<v Tim Pritlove>Aber du könntest jetzt auch nicht so ohne weiteres irgendeine andere Struktur
+
+00:39:06.855 --> 00:39:10.923
+<v Tim Pritlove>aus dem Ärmel ziehen, wo nicht am Ende mehr oder weniger dieselben Personen
+
+00:39:10.923 --> 00:39:13.537
+<v Tim Pritlove>die Zielvorgabe wählen würden.
+
+00:39:13.537 --> 00:39:17.359
+<v Tim Pritlove>Also ich glaube jetzt nicht, dass der politische Rahmen hier generell so gewählt
+
+00:39:17.359 --> 00:39:20.326
+<v Tim Pritlove>ist, dass es zwangsläufig zu schlechten Ergebnissen kommen muss,
+
+00:39:20.326 --> 00:39:24.821
+<v Tim Pritlove>sondern ich sehe das halt hier dann doch eher noch so digital kulturell verankert,
+
+00:39:24.821 --> 00:39:27.042
+<v Tim Pritlove>dass es manchmal ein bisschen ruppig vorangeht.
+
+00:39:27.782 --> 00:39:31.584
+<v Linus Neumann>Ich würde kurz noch eingreifen, die Zielvorgabe wäre ganz gut,
+
+00:39:31.584 --> 00:39:36.005
+<v Linus Neumann>wenn die von der Politik kommt und die technische Realisierung gerne von der
+
+00:39:36.005 --> 00:39:39.046
+<v Linus Neumann>Gematik, wo eben die Leute sitzen, die es auch am Ende umsetzen müssen.
+
+00:39:39.607 --> 00:39:41.887
+<v Linus Neumann>Aber wenn wir uns an diesen Connectorspaß
+
+00:39:41.887 --> 00:39:46.769
+<v Linus Neumann>erinnern, wenn dann da Sicherheitsentscheidungen getroffen werden,
+
+00:39:46.769 --> 00:39:52.411
+<v Linus Neumann>Geräte nicht zu updaten und lieber neue zu verkaufen, das erschüttert natürlich
+
+00:39:52.411 --> 00:39:55.232
+<v Linus Neumann>das Vertrauen in dieses Gremium enorm.
+
+00:39:57.193 --> 00:39:59.554
+<v Tim Pritlove>Also ich sag auch nicht, die sollen sich nicht anders verhalten,
+
+00:39:59.554 --> 00:40:03.116
+<v Tim Pritlove>ich sag nur, man müsste eigentlich aus der Struktur mehr machen können,
+
+00:40:03.116 --> 00:40:05.457
+<v Tim Pritlove>aber da enttäuschen sie leider noch ein wenig.
+
+00:40:06.718 --> 00:40:10.040
+<v Linus Neumann>So jetzt ganz kurz hier mit den, so jetzt, das ist ja der entscheide Punkt,
+
+00:40:10.040 --> 00:40:13.902
+<v Linus Neumann>jetzt sagt der, jetzt kommt der Epidemiologe und sagt, hier,
+
+00:40:13.902 --> 00:40:19.224
+<v Linus Neumann>die Wissenschaft darf darauf zugreifen, aber das machen wir dann mit so einem Forschungspseudonym.
+
+00:40:21.346 --> 00:40:26.088
+<v Linus Neumann>Also statt deinem Namen steht dann deine ID dran und jetzt dürfen die Leute,
+
+00:40:26.088 --> 00:40:29.209
+<v Linus Neumann>darf die Wissenschaft zur Forschung diese Daten heranziehen.
+
+00:40:32.792 --> 00:40:36.474
+<v Linus Neumann>Da wird es sicherlich tausende Details und so weiter geben, aber überhaupt das
+
+00:40:36.474 --> 00:40:39.055
+<v Linus Neumann>zu ermöglichen hat eine Konsequenz und das ist.
+
+00:40:40.970 --> 00:40:45.592
+<v Linus Neumann>Da ich ja nicht weiß, was die Wissenschaft morgen erforschen will und vor allem,
+
+00:40:45.592 --> 00:40:49.954
+<v Linus Neumann>weil ich nicht weiß, welche Daten morgen in diese Akte kommen,
+
+00:40:49.954 --> 00:40:55.517
+<v Linus Neumann>dass ich eine Struktur baue, die es letztendlich der Wissenschaft ermöglicht,
+
+00:40:55.517 --> 00:40:56.538
+<v Linus Neumann>auf diese Daten zuzugreifen.
+
+00:40:57.358 --> 00:41:03.741
+<v Linus Neumann>Und das heißt fundamental, die Datenhoheit ist nicht bei mir als Eignerin dieser Patientenakte.
+
+00:41:05.442 --> 00:41:10.445
+<v Linus Neumann>In dem alten, ebenfalls nicht besonders guten System,
+
+00:41:10.445 --> 00:41:14.287
+<v Linus Neumann>sagen wir jetzt halt eine ganze Menge Nachteile, liegt halt bei allen möglichen
+
+00:41:14.287 --> 00:41:18.989
+<v Linus Neumann>Ärztinnen und Ärzten irgendwelche Daten, ich muss die im Zweifelsfall rübertragen
+
+00:41:18.989 --> 00:41:21.430
+<v Linus Neumann>und so. Also auf jeden Fall fehlende Effizienz.
+
+00:41:22.431 --> 00:41:27.493
+<v Linus Neumann>Auch da habe ich nicht so wirklich die Datenhoheit, aber ich weiß zumindest,
+
+00:41:27.493 --> 00:41:31.295
+<v Linus Neumann>meine Daten, die bei der einen Zahnärztin liegen, die finden nicht ihren Weg
+
+00:41:31.295 --> 00:41:34.967
+<v Linus Neumann>irgendwo anders hin, ohne dass ich die persönlich darüber trage.
+
+00:41:34.967 --> 00:41:42.660
+<v Linus Neumann>Und die finden erst recht nicht irgendwie sich in Forschungen wieder,
+
+00:41:42.660 --> 00:41:45.922
+<v Linus Neumann>wo dann auch noch von mehreren Ärztinnen, bei denen ich war,
+
+00:41:45.922 --> 00:41:47.402
+<v Linus Neumann>die Daten zusammengetragen werden.
+
+00:41:49.244 --> 00:41:54.686
+<v Linus Neumann>Und da bin ich jetzt irgendwie skeptisch, wenn das nämlich ermöglicht wird,
+
+00:41:54.686 --> 00:41:58.788
+<v Linus Neumann>dann heißt es, der einst, das heißt es ist technisch möglich,
+
+00:41:58.788 --> 00:42:01.669
+<v Linus Neumann>diese Daten zusammenzuführen und dann zu pseudonymisieren.
+
+00:42:04.691 --> 00:42:08.853
+<v Linus Neumann>Dann, in dem Moment, wo es technisch möglich wird, ist alles,
+
+00:42:08.853 --> 00:42:14.296
+<v Linus Neumann>was mich davor schützt, dass das irgendwelche anderen tun, ja nur noch das Gesetz.
+
+00:42:14.756 --> 00:42:19.038
+<v Linus Neumann>Und das wird ja regelmäßig gerne geändert. Das heißt erweiterter Zugriff oder
+
+00:42:19.038 --> 00:42:22.500
+<v Linus Neumann>weitere Stellen, das ist dann halt so ein Pharmakonzern, macht dann jetzt Forschung
+
+00:42:22.500 --> 00:42:25.702
+<v Linus Neumann>und so. Das ist alles dann nur noch wenige Schritte entfernt.
+
+00:42:27.383 --> 00:42:31.965
+<v Linus Neumann>Was ich vor allem sehe ist, wenn da jetzt statt deinem Namen eine ID ist,
+
+00:42:31.965 --> 00:42:39.649
+<v Linus Neumann>schön und gut, aber mit dem Aggregationsniveau wird Anonymisierung eigentlich unmöglich.
+
+00:42:40.730 --> 00:42:42.331
+<v Linus Neumann>Was heißt das? Was meine ich damit?
+
+00:42:44.072 --> 00:42:50.235
+<v Linus Neumann>Nehmen wir als Beispiel männlich, Geburtsdatum Berlin.
+
+00:42:51.456 --> 00:42:56.618
+<v Linus Neumann>Da werden in Berlin für jede oder weiblich Geburtsdatum Berlin jeweils nur noch
+
+00:42:56.618 --> 00:43:00.881
+<v Linus Neumann>relativ wenige Personen zur Verfügung stehen.
+
+00:43:01.481 --> 00:43:06.724
+<v Linus Neumann>Wenn du jetzt dann auch noch siehst, aha, das war die Hausärztin in Charlottenburg,
+
+00:43:06.724 --> 00:43:12.727
+<v Linus Neumann>diese Daten hier beigetragen hat in die Akte, dann hast du im Zweifelsfall schon
+
+00:43:12.727 --> 00:43:16.769
+<v Linus Neumann>die Möglichkeit zu einer eineindeutigen Identifikation der Person.
+
+00:43:21.532 --> 00:43:24.112
+<v Linus Neumann>Also bei unstrukturierten Datenmengen, die da irgendwie reingeworfen werden
+
+00:43:24.112 --> 00:43:25.873
+<v Linus Neumann>und irgendwelchen PDFs und hast du nicht gesehen,
+
+00:43:25.873 --> 00:43:34.166
+<v Linus Neumann>wird so eine ID mit Sicherheit nicht dem Anonymisierungs- oder auch nur Pseudonymisierungsversprechen,
+
+00:43:34.166 --> 00:43:37.977
+<v Linus Neumann>was da gemacht werden soll, gerecht werden können.
+
+00:43:43.945 --> 00:43:44.245
+<v Tim Pritlove>Ja.
+
+00:43:44.245 --> 00:43:45.066
+<v Linus Neumann>Bist du noch da?
+
+00:43:45.066 --> 00:43:48.688
+<v Tim Pritlove>Ich bin noch da. Ich höre dir einfach zu.
+
+00:43:48.688 --> 00:43:50.969
+<v Linus Neumann>Ja.
+
+00:43:50.969 --> 00:43:52.330
+<v Tim Pritlove>Musste ich auch mal ausreden lassen.
+
+00:43:53.791 --> 00:43:58.613
+<v Linus Neumann>Und dann wird gesagt, okay, und da bin ich halt sehr,
+
+00:43:58.613 --> 00:44:02.195
+<v Linus Neumann>wie soll man das sagen, wenn ich mir anschaue,
+
+00:44:02.195 --> 00:44:05.737
+<v Linus Neumann>was die Gematik bisher so geliefert hat,
+
+00:44:05.737 --> 00:44:10.079
+<v Linus Neumann>und wenn ich mir anschaue, wie es generell um dieses Land bestellt ist,
+
+00:44:10.079 --> 00:44:13.609
+<v Linus Neumann>und wenn ich dann überlege, dass es hier ein Und wenn ich dann überlege,
+
+00:44:13.609 --> 00:44:17.953
+<v Linus Neumann>dass es hier einen Gesundheitsminister gibt, der starken Schwerpunkt auf diese
+
+00:44:17.953 --> 00:44:20.205
+<v Linus Neumann>Zugänglichmachung der Daten legt,
+
+00:44:20.205 --> 00:44:25.067
+<v Linus Neumann>der im Zweifelsfall jede Maßnahme, die einen Zugriff auf die Daten irgendwie
+
+00:44:25.067 --> 00:44:28.549
+<v Linus Neumann>wirklich mal unmöglich macht, sich der in den Weg stellen wird,
+
+00:44:28.549 --> 00:44:34.052
+<v Linus Neumann>dann habe ich Sorge, dass das hier schief geht.
+
+00:44:42.757 --> 00:44:45.578
+<v Linus Neumann>Ja. Ich meine, dann kommen sie noch mit und sagen, ja hier gibt ihr,
+
+00:44:45.578 --> 00:44:48.640
+<v Linus Neumann>also, was ich, habe ich gar nicht erwähnt, dann sagen natürlich alle,
+
+00:44:48.640 --> 00:44:52.002
+<v Linus Neumann>das wird auch von allen gefordert, Informed Consent, na klar,
+
+00:44:52.002 --> 00:44:53.342
+<v Linus Neumann>für Datennutzung, DSGVO, informierte Einwilligung.
+
+00:44:56.605 --> 00:44:59.546
+<v Linus Neumann>Jetzt muss man ja mal tatsächlich sagen, dass das Informed Consent,
+
+00:44:59.546 --> 00:45:01.847
+<v Linus Neumann>das hat uns ja bisher echt weit getragen.
+
+00:45:02.347 --> 00:45:06.389
+<v Linus Neumann>Also wo wären wir ohne Informed Consent? Wir haben irgendwie überall wo wir
+
+00:45:06.389 --> 00:45:13.812
+<v Linus Neumann>hingehen müssen wir erstmal tausend Dinge wegklicken, um informiert zugestimmt
+
+00:45:13.812 --> 00:45:17.174
+<v Linus Neumann>zu haben. Jetzt stellt ihr euch mal vor, das ist jetzt im medizinischen Bereich so.
+
+00:45:18.985 --> 00:45:21.856
+<v Tim Pritlove>Ist ja eigentlich auch jetzt schon so, ich meine, wenn du irgendwo beim Arzt
+
+00:45:21.856 --> 00:45:25.197
+<v Tim Pritlove>aufläufst, dann kriegst du auch als erstes mal so einen DSGVO Zettel,
+
+00:45:25.197 --> 00:45:27.738
+<v Tim Pritlove>ja klar. Und am Ende machst du es eh immer.
+
+00:45:29.359 --> 00:45:32.120
+<v Linus Neumann>Also informt consent ist so dieses, jo machen wir, ist fertig.
+
+00:45:33.101 --> 00:45:37.322
+<v Linus Neumann>Aber weißt du, was ich, das hat sich alles so angehört, ne?
+
+00:45:37.703 --> 00:45:42.864
+<v Linus Neumann>Und weißt du aber, Tim, woran es am Ende scheitern wird? Dieses ganze System. AN.
+
+00:45:46.119 --> 00:45:52.642
+<v Linus Neumann>An den Ärzten. Und da habe ich einen wunderschönen Mitschnitt für dich,
+
+00:45:52.642 --> 00:45:59.885
+<v Linus Neumann>ich glaube aus der heute Nachrichten, nicht heute Show, wo ein Arzt mal so sagt,
+
+00:45:59.885 --> 00:46:01.826
+<v Linus Neumann>was er von der Digitalstrategie hält.
+
+00:46:20.535 --> 00:46:27.518
+<v Linus Neumann>Wir machen uns hier immer über ein Datenmodell und Forschung und Digitalisierung
+
+00:46:27.518 --> 00:46:28.258
+<v Linus Neumann>des Gesundheitswesens Gedanken.
+
+00:46:29.259 --> 00:46:32.801
+<v Linus Neumann>Und dann kommt da so einer und sagt, 1,760 ist doch kein Anreiz,
+
+00:46:32.801 --> 00:46:35.662
+<v Linus Neumann>lass mal was sehen, dann digitalisier ich euch auch das Gesundheitssystem.
+
+00:46:39.344 --> 00:46:43.707
+<v Linus Neumann>Insofern müssen wir uns erstmal keine Gedanken machen, dass das hier allzu viel
+
+00:46:43.707 --> 00:46:45.868
+<v Linus Neumann>schief geht, weil die haben keinen Anreiz.
+
+00:46:47.469 --> 00:46:52.591
+<v Linus Neumann>Da hab ich mich mal ein bisschen eingelesen, da kann ich aber jetzt Fehler machen,
+
+00:46:52.591 --> 00:46:56.373
+<v Linus Neumann>die Medizinerinnen unter unseren Hörern sagen Bescheid.
+
+00:46:56.813 --> 00:47:02.736
+<v Linus Neumann>Also wenn ich das richtig verstanden habe, ist diese 1,67 tatsächlich pro Quartal
+
+00:47:02.736 --> 00:47:06.918
+<v Linus Neumann>pro Patientin überhaupt in dieses Ding Daten einzufüllen.
+
+00:47:07.379 --> 00:47:12.420
+<v Linus Neumann>Was mitunter heißen könnte, jetzt hast du irgendwie einen schweren Fall,
+
+00:47:12.420 --> 00:47:16.442
+<v Linus Neumann>musst ganz viel in die EPA packen, dann kriegst du am Ende tatsächlich nur 1,67
+
+00:47:16.442 --> 00:47:18.122
+<v Linus Neumann>für das gesamte Quartal.
+
+00:47:19.743 --> 00:47:27.465
+<v Linus Neumann>Könnte man meinen, hui, tatsächlich relativ wenig Geld. Wenn du dir aber überlegst,
+
+00:47:27.465 --> 00:47:28.946
+<v Linus Neumann>wie viele Patienten hast du denn so?
+
+00:47:30.328 --> 00:47:34.280
+<v Linus Neumann>Und dann stellt sich natürlich auch die Frage, da wird jetzt davon ausgegangen,
+
+00:47:34.280 --> 00:47:40.713
+<v Linus Neumann>dass das mit irgendeinem Aufwand verbunden wäre, Daten in der EPA zu hinterlegen.
+
+00:47:41.033 --> 00:47:48.277
+<v Linus Neumann>Die Realität wird doch hoffentlich so sein, dass die Praxis bereits ein PMS,
+
+00:47:48.277 --> 00:47:50.298
+<v Linus Neumann>ein Patientenmanagement-System hat.
+
+00:47:51.278 --> 00:47:57.962
+<v Linus Neumann>Das ist das System, auf das die Ärzte zugreifen, wenn sie ins Behandlungszimmer
+
+00:47:57.962 --> 00:48:03.524
+<v Linus Neumann>kommen und gucken und sagen, ah Herr Neumann, Sie waren ja vor zwei Jahren und
+
+00:48:03.524 --> 00:48:04.585
+<v Linus Neumann>drei Monaten schon mal hier.
+
+00:48:04.965 --> 00:48:08.046
+<v Linus Neumann>Und so tun, als hätten sie das aus ihrem Kopf. Und wissen, da haben wir uns
+
+00:48:08.046 --> 00:48:10.448
+<v Linus Neumann>hinten den linken Backenzahn angeschaut.
+
+00:48:11.149 --> 00:48:14.430
+<v Linus Neumann>Das haben wir ja ohnehin. Und jetzt würde ich eigentlich erwarten,
+
+00:48:14.430 --> 00:48:20.312
+<v Linus Neumann>dass eine Realisierung am Ende ist, naja, okay, dieses Ding jetzt hier,
+
+00:48:20.312 --> 00:48:24.174
+<v Linus Neumann>haben wir mal wieder ein Röntgenbild in das Patientenmanagementsystem gelegt.
+
+00:48:25.315 --> 00:48:33.118
+<v Linus Neumann>Das ist ein, was weiß ich, ein Dokument von Schaffenshöhe oder ausreichender
+
+00:48:33.118 --> 00:48:36.240
+<v Linus Neumann>Relevanz, dass wir das in die EPA legen und dann wird ein Häkchen dran gemacht
+
+00:48:36.240 --> 00:48:38.341
+<v Linus Neumann>und der Rest passiert automatisch, oder?
+
+00:48:40.562 --> 00:48:45.184
+<v Tim Pritlove>Würde meinen wollen, ich vermute allerdings, dass es derzeit nun mal so ist,
+
+00:48:45.184 --> 00:48:49.466
+<v Tim Pritlove>dass es in dieser Arztsoftware einfach nochmal einen zusätzlichen Arbeitsschritt
+
+00:48:49.466 --> 00:48:53.148
+<v Tim Pritlove>darstellt diese EPA zu befüllen.
+
+00:48:53.388 --> 00:48:59.952
+<v Tim Pritlove>Und ich schließe ein wenig die Augen bei dem Gedanken daran wie das Userinterface
+
+00:48:59.952 --> 00:49:01.413
+<v Tim Pritlove>dafür wohl aussehen mag.
+
+00:49:02.234 --> 00:49:06.377
+<v Linus Neumann>Du aber ein positives Nutzungserlebnis ist doch Zulassungsvorgabe.
+
+00:49:10.260 --> 00:49:12.601
+<v Tim Pritlove>Bisher aber nicht. Das liegt ja jetzt in der Digitalstrategie.
+
+00:49:13.402 --> 00:49:15.623
+<v Tim Pritlove>Und vielleicht ist das so einer dieser Argumente.
+
+00:49:17.645 --> 00:49:21.267
+<v Tim Pritlove>Ja natürlich, selbstverständlich müsste das eigentlich nur ein Fleck sein, Synchto EPA.
+
+00:49:22.008 --> 00:49:25.720
+<v Tim Pritlove>Ganz klar. Verstehst du? Alle Änderungen werden da einfach ...
+
+00:49:27.156 --> 00:49:31.418
+<v Tim Pritlove>Reingesynkt nur dann müsste natürlich dieser EPA auch ein entsprechendes Target
+
+00:49:31.418 --> 00:49:35.260
+<v Tim Pritlove>sein wo Reinsynken auch ein technisch leicht zu lösen das Problem ist,
+
+00:49:35.260 --> 00:49:41.863
+<v Tim Pritlove>wenn es sich dabei aber um so ein Uploadstore handelt ja wie so ein FTP Server,
+
+00:49:41.863 --> 00:49:47.345
+<v Tim Pritlove>immer noch nachdem der ganze Bearbeitungsvorgang mit dem Patienten abgeschlossen ist,
+
+00:49:47.345 --> 00:49:52.648
+<v Tim Pritlove>Du dann so die Dokumente einzeln nochmal in irgendeiner Untermaske markieren
+
+00:49:52.648 --> 00:49:58.690
+<v Tim Pritlove>musst und dann hochladen und dann nochmal DSGVO und nochmal irgendeine Seite abklicken.
+
+00:50:00.291 --> 00:50:04.293
+<v Tim Pritlove>Ja und dann kommt noch eine Fehlermeldung und wenn's nicht, dann funktioniert's
+
+00:50:04.293 --> 00:50:07.895
+<v Tim Pritlove>nicht und dann musst du es manuell aber nochmal probieren und dann sitzt du
+
+00:50:07.895 --> 00:50:09.275
+<v Tim Pritlove>da auch wirklich fünf Minuten davor.
+
+00:50:09.376 --> 00:50:14.658
+<v Tim Pritlove>Dann würde ich halt auch schreien, wenn ich dafür 1,67 Euro im Quartal bekomme,
+
+00:50:14.658 --> 00:50:20.962
+<v Tim Pritlove>weil das ist ja dann auch einfach wirklich geleistete Arbeitszeit für eine wirklich dumme Sache.
+
+00:50:22.763 --> 00:50:27.345
+<v Tim Pritlove>Und für das Software Update, die dieses in Anführungsstrichen Feature eingebracht
+
+00:50:27.345 --> 00:50:30.087
+<v Tim Pritlove>hat, hast du wahrscheinlich auch noch duddelig viel Geld für bezahlt.
+
+00:50:30.427 --> 00:50:38.071
+<v Linus Neumann>Und das ist aber ehrlich gesagt glaube ich, also so würde ich erwarten, ist das.
+
+00:50:38.071 --> 00:50:41.293
+<v Linus Neumann>Ja, natürlich musst du für diese Software irgendwie bezahlen,
+
+00:50:41.293 --> 00:50:45.675
+<v Linus Neumann>du musst auch für diese TI Geschichte bezahlen, alles richtig, ja.
+
+00:50:47.677 --> 00:50:52.340
+<v Linus Neumann>Und refinanziert wird das halt durch diese 1,67 Euro. Und wenn ich jetzt überlege,
+
+00:50:52.340 --> 00:50:56.583
+<v Linus Neumann>wenn ich mir diese Connector Preise anschaue, ne, TI Connector,
+
+00:50:56.583 --> 00:51:01.767
+<v Linus Neumann>also ich habe keine genaue Ahnung, wie viel jetzt Gematik-Anbindung eine Arztpraxis
+
+00:51:01.767 --> 00:51:05.189
+<v Linus Neumann>im Jahr kostet, ne. Es werden ein paar tausend Euro sein.
+
+00:51:06.831 --> 00:51:11.454
+<v Linus Neumann>Und wenn ich mir, wenn ich diese paar tausend Euro nehme und auf die Patienten
+
+00:51:11.454 --> 00:51:16.237
+<v Linus Neumann>verlege, dann rechne ich damit, dass wir irgendwie so bei 1,67 Euro pro Patient landen.
+
+00:51:20.132 --> 00:51:24.234
+<v Tim Pritlove>Okay, hab ich jetzt nicht nachgerechnet, aber das ist ganz schön genau.
+
+00:51:25.395 --> 00:51:28.717
+<v Linus Neumann>Also wäre jetzt mal so meine vorsichtige Schätzung, ja,
+
+00:51:28.717 --> 00:51:30.017
+<v Linus Neumann>dass man, also natürlich klar,
+
+00:51:30.017 --> 00:51:37.071
+<v Linus Neumann>da muss auf der anderen Seite wird Geld ausgegeben für diese Anbindung,
+
+00:51:37.071 --> 00:51:42.114
+<v Linus Neumann>auf der anderen Seite wird abgerechnet und so und das ist alles super kompliziert,
+
+00:51:42.114 --> 00:51:46.446
+<v Linus Neumann>aber ich stell mir gerade, also was wahrscheinlich nicht passieren wird,
+
+00:51:46.446 --> 00:51:52.709
+<v Linus Neumann>ist das da ein Arzt sitzt und sagt, die Arbeit machen wir jetzt aber nicht mehr für 1,67€.
+
+00:51:53.870 --> 00:51:55.811
+<v Linus Neumann>Also doch einer schon, das ist der dann da.
+
+00:51:58.392 --> 00:52:05.095
+<v Linus Neumann>Also ich, keine Ahnung, vielleicht bin ich da auch selber so ein bisschen,
+
+00:52:05.095 --> 00:52:08.516
+<v Linus Neumann>also das ist kein Anreiz, diesen Satz finde ich.
+
+00:52:09.357 --> 00:52:14.119
+<v Tim Pritlove>Ja gut, ich versuche das zu interpretieren aus der Erfahrungswelt von Ärzten.
+
+00:52:14.119 --> 00:52:18.421
+<v Tim Pritlove>Wir haben ja auch schon Kommentare dazu bekommen im Blog,
+
+00:52:18.421 --> 00:52:23.683
+<v Tim Pritlove>aber auch so hinten rum, immer mal wieder so Berichte aus der Arztpraxiswelt,
+
+00:52:23.683 --> 00:52:29.586
+<v Tim Pritlove>die dann einfach von ihren Phobien berichten, die sie entwickelt haben über
+
+00:52:29.586 --> 00:52:31.346
+<v Tim Pritlove>die Zeit im Umgang mit ihrer Praxissoftware.
+
+00:52:31.947 --> 00:52:37.049
+<v Tim Pritlove>Weil die einfach nicht up to date ist und ihnen einfache Dinge nicht leicht
+
+00:52:37.049 --> 00:52:40.770
+<v Tim Pritlove>macht und wenn das dann halt so ist, dass es ihnen das nicht leicht macht,
+
+00:52:40.770 --> 00:52:42.911
+<v Tim Pritlove>dann kann ich auch so eine Klage verstehen.
+
+00:52:43.031 --> 00:52:49.916
+<v Tim Pritlove>Würde ich ja auch beklagen beklage ich auch wenn software scheiße ist und einfache
+
+00:52:49.916 --> 00:52:54.618
+<v Tim Pritlove>dinge schwierig sind und wenn man sie oft machen muss hast du die ganze zeit das gefühlt.
+
+00:52:58.020 --> 00:53:00.361
+<v Linus Neumann>Weißt du was ich mache, wenn ich so eine Software habe?
+
+00:53:00.361 --> 00:53:03.943
+<v Tim Pritlove>Das ist so ein bisschen wie Diesel vorglühen im Auto, weißt du?
+
+00:53:03.943 --> 00:53:05.424
+<v Tim Pritlove>Das willst du auch nicht mehr machen.
+
+00:53:06.264 --> 00:53:09.286
+<v Linus Neumann>Ja genau deswegen, aber weißt du was ich mache, wenn ich so eine Software habe?
+
+00:53:09.286 --> 00:53:11.987
+<v Linus Neumann>Wegschmeißen. Ich kaufe eine andere.
+
+00:53:11.987 --> 00:53:16.389
+<v Tim Pritlove>Ja aber das Problem ist, du kannst nicht mal eben die Praxissoftware in deiner
+
+00:53:16.389 --> 00:53:21.912
+<v Tim Pritlove>Arztpraxis von heute auf morgen austauschen und zweitens die andere ist ja auch scheiße.
+
+00:53:21.912 --> 00:53:28.856
+<v Tim Pritlove>Also ich glaube nicht, dass sich das viel gegenseitig nimmt und dass es da irgendein
+
+00:53:28.856 --> 00:53:33.879
+<v Tim Pritlove>Produkt gibt, was total überzeugend den Markt abräumt, weil alle Ärzte sich
+
+00:53:33.879 --> 00:53:34.939
+<v Tim Pritlove>die Finger danach lecken.
+
+00:53:34.939 --> 00:53:40.402
+<v Tim Pritlove>Es ist halt einfach so eine Branche und ich will das jetzt auch gar nicht so abwertend sagen,
+
+00:53:40.402 --> 00:53:47.344
+<v Tim Pritlove>ich bin mir relativ sicher, dass die Softwarehersteller da auch am Kämpfen sind,
+
+00:53:47.344 --> 00:53:51.546
+<v Tim Pritlove>weil sie sich natürlich auch in einem Bereich befinden,
+
+00:53:51.546 --> 00:53:59.049
+<v Tim Pritlove>der eben durch diese gesamte Gesetzeslage und durch diesen schwerfälligen Standardisierungsprozess
+
+00:53:59.049 --> 00:54:02.391
+<v Tim Pritlove>auch unter Anforderungsdruck stehen.
+
+00:54:04.132 --> 00:54:08.373
+<v Tim Pritlove>Ja und vielleicht teilweise einfach auch durch die Spezifikationen zu vollkommen
+
+00:54:08.373 --> 00:54:12.335
+<v Tim Pritlove>bekloppten Benutzerführungen gezwungen werden und es gar nicht einfacher machen können,
+
+00:54:12.335 --> 00:54:16.437
+<v Tim Pritlove>also da weiß ich jetzt auch wirklich zu wenig, das ist jetzt einfach alles von
+
+00:54:16.437 --> 00:54:19.078
+<v Tim Pritlove>mir so ein bisschen in die Welt gerendert,
+
+00:54:19.078 --> 00:54:22.389
+<v Tim Pritlove>was ich mir so, was ich schon woanders gesehen habe,
+
+00:54:22.389 --> 00:54:27.402
+<v Tim Pritlove>Und teilweise auch im medizinischen Bereich aber so generell aus der Software,
+
+00:54:27.402 --> 00:54:31.045
+<v Tim Pritlove>die sich in einer Domäne abspielt,
+
+00:54:31.045 --> 00:54:34.507
+<v Tim Pritlove>wo einfach die Anforderungen stark sind und du wirst es ja selber auch kennen,
+
+00:54:34.507 --> 00:54:37.709
+<v Tim Pritlove>allein schon Anforderungen von Unternehmen, was sie meinen,
+
+00:54:37.709 --> 00:54:40.111
+<v Tim Pritlove>was sie selber brauchen, die dann von Leuten gemacht werden,
+
+00:54:40.111 --> 00:54:43.453
+<v Tim Pritlove>die diese Prozesse gar nicht so richtig verstehen, bringt dann Dienstleister
+
+00:54:43.453 --> 00:54:47.976
+<v Tim Pritlove>auch in Rage, die es einfach mal, eben mal so richtig ordentlich machen würden,
+
+00:54:47.976 --> 00:54:50.298
+<v Tim Pritlove>aber steht ja im Pflichtenheft steht ja was anderes drin.
+
+00:54:51.160 --> 00:54:54.761
+<v Tim Pritlove>Und so dreht sich das halt alles im Kreis. Das ist einfach jetzt nicht so ein Bereich,
+
+00:54:54.761 --> 00:54:58.923
+<v Tim Pritlove>der sich mal so eben entwickeln kann und der eben dadurch,
+
+00:54:58.923 --> 00:55:03.546
+<v Tim Pritlove>dass er auch so ein super vertikaler Markt ist, also damit meine ich extrem
+
+00:55:03.546 --> 00:55:06.607
+<v Tim Pritlove>auf eine Branche und ihre Bedürfnisse zugeschnitten,
+
+00:55:06.607 --> 00:55:11.630
+<v Tim Pritlove>gibt's da jetzt auch nicht so viele Anbieter plus eben den begrenzten Spielraum,
+
+00:55:11.630 --> 00:55:15.292
+<v Tim Pritlove>den du einfach durch regulatorische Vorgaben hast und das macht es natürlich
+
+00:55:15.292 --> 00:55:19.794
+<v Tim Pritlove>dann auch schwierig dort kreativ modern am Start zu sein.
+
+00:55:19.794 --> 00:55:25.717
+<v Tim Pritlove>Dann haben alle PCs das kommt noch dazu also wie willst du da was erreichen?
+
+00:55:30.440 --> 00:55:32.040
+<v Tim Pritlove>Das ist doch alles Windows Software.
+
+00:55:33.601 --> 00:55:40.624
+<v Linus Neumann>Ich find aber sehr gut das du da so klassische robotische Philosophie mit reinbringst
+
+00:55:40.624 --> 00:55:42.465
+<v Linus Neumann>woanders ist auch scheiße.
+
+00:55:47.748 --> 00:55:51.049
+<v Tim Pritlove>So ist es doch, sag mal wie es ist.
+
+00:55:58.113 --> 00:56:01.234
+<v Linus Neumann>Das geht übrigens, ich glaub woanders geht auch scheiße, ich mein,
+
+00:56:01.234 --> 00:56:06.637
+<v Linus Neumann>einfach Straßenweisheit, aber geht so ein bisschen auf Frank Gose zurück,
+
+00:56:06.637 --> 00:56:10.859
+<v Linus Neumann>der mit Jochen Malmsheimer vielleicht heute in der Sendung noch vorkommen könnte.
+
+00:56:19.587 --> 00:56:23.410
+<v Linus Neumann>Ich würde sagen, von dem was wir bisher gesehen haben,
+
+00:56:23.410 --> 00:56:30.176
+<v Linus Neumann>von der Thematik und in diesem Land mit Digitalisierung und so,
+
+00:56:30.176 --> 00:56:35.581
+<v Linus Neumann>habe ich den Eindruck, dass wir vielleicht noch nicht so reif sind,
+
+00:56:35.581 --> 00:56:38.503
+<v Linus Neumann>diese Entscheidung jetzt zu treffen.
+
+00:56:41.270 --> 00:56:42.150
+<v Linus Neumann>Weißt, was ich meine?
+
+00:56:44.491 --> 00:56:52.275
+<v Linus Neumann>Ich könnte mir sogar vorstellen, dass es einen verantwortungsvollen Weg gibt,
+
+00:56:52.275 --> 00:56:58.417
+<v Linus Neumann>diese Ziele zu erreichen, technisch.
+
+00:56:59.878 --> 00:57:03.120
+<v Linus Neumann>Und ich glaube auch, dass das sogar Menschen möglich wäre, ja,
+
+00:57:03.120 --> 00:57:08.142
+<v Linus Neumann>so eine elektronische Patientenakte mit, die Patientin hat die Hoheit über diese
+
+00:57:08.142 --> 00:57:13.425
+<v Linus Neumann>Daten, es kommt nicht ohne ihre explizite Einwilligung dazu,
+
+00:57:13.425 --> 00:57:15.245
+<v Linus Neumann>dass Forschung stattfindet.
+
+00:57:15.245 --> 00:57:18.647
+<v Linus Neumann>Und dann wird der vielleicht auch mit so skurrilen Dingern, wie das dann zum
+
+00:57:18.647 --> 00:57:22.889
+<v Linus Neumann>Beispiel in der U-Bahn steht, so, nehmen Sie an unserer Studie teil.
+
+00:57:23.149 --> 00:57:29.213
+<v Linus Neumann>Scannen Sie diesen QR-Code mit Ihrer ePAR-App und klicken Sie, ja, ich will.
+
+00:57:30.273 --> 00:57:35.936
+<v Linus Neumann>Und Sie kriegen 20 Euro auf Ihr ePAR-Konto. Da können Sie beim nächsten Mal
+
+00:57:35.936 --> 00:57:37.937
+<v Linus Neumann>beim Arztbesuch in Igelleistungen sparen.
+
+00:57:39.898 --> 00:57:43.820
+<v Linus Neumann>Kriegen Sie Herzchen an der Theke. Könnte ich mir, kann man ja alles machen.
+
+00:57:43.820 --> 00:57:48.583
+<v Linus Neumann>Ich glaube, dass das so eine, dass es technisch sogar möglich wäre,
+
+00:57:48.583 --> 00:57:54.926
+<v Linus Neumann>so etwas zu bauen und in ordentlich und gut.
+
+00:57:57.308 --> 00:57:59.969
+<v Linus Neumann>Ich traue das nur irgendwie diesem Land nicht zu.
+
+00:57:59.969 --> 00:58:01.790
+<v Tim Pritlove>Ja?
+
+00:58:01.790 --> 00:58:05.130
+<v Linus Neumann>Und erst recht nicht unter einer, ähm,
+
+00:58:05.130 --> 00:58:08.815
+<v Linus Neumann>unter einem, ja,
+
+00:58:08.815 --> 00:58:13.471
+<v Linus Neumann>dieser Hauruck-Mentalität, die in diesem
+
+00:58:13.471 --> 00:58:20.212
+<v Linus Neumann>Sektor notwendigerweise und auch berechtigterweise natürlich herrscht,
+
+00:58:20.212 --> 00:58:24.513
+<v Linus Neumann>dass man jetzt sagt so, nein, keinen Tag mehr weiter so.
+
+00:58:26.633 --> 00:58:31.474
+<v Linus Neumann>Jetzt digitalisieren, gib ihm. Das wird ja eh schon alles die ganze Zeit von
+
+00:58:31.474 --> 00:58:35.695
+<v Linus Neumann>DrLibs und was nicht alles überholt. Diese ganze Branche ist sturmreif,
+
+00:58:35.695 --> 00:58:38.635
+<v Linus Neumann>da kommt jetzt irgendwann mal jemand und macht was.
+
+00:58:40.686 --> 00:58:45.188
+<v Linus Neumann>Und das wird dann im Zweifel, da sehe ich die Gefahr, dass jetzt wie bei den
+
+00:58:45.188 --> 00:58:53.631
+<v Linus Neumann>bisherigen Leuchtturmprodukten an Health-Apps und so, dass da halt totaler Murksball rauskommt.
+
+00:58:55.172 --> 00:59:00.214
+<v Linus Neumann>Denk an die Digas, diese digitalen Apps da, das ist auch wieder ein Kapes,
+
+00:59:00.214 --> 00:59:04.916
+<v Linus Neumann>was sich die Zerforschung vor ein paar Monaten angeschaut hat.
+
+00:59:05.476 --> 00:59:11.099
+<v Linus Neumann>Und jetzt kommen die und sagen jawoll, ähm, krempeln wir mal die Ärmel hoch
+
+00:59:11.099 --> 00:59:13.480
+<v Linus Neumann>und klimpern was schönes auf der Tastatur zusammen.
+
+00:59:16.981 --> 00:59:20.823
+<v Linus Neumann>Entweder landet das in irgendeiner nicht funktionierenden Versenkung oder das
+
+00:59:20.823 --> 00:59:23.403
+<v Linus Neumann>wird jetzt alles von irgend so einem Studenten in PHP geschrieben.
+
+00:59:26.886 --> 00:59:30.427
+<v Linus Neumann>Und irgendwo dazwischen sehe ich halt nichts, weißt du? Das heißt ich gucke
+
+00:59:30.427 --> 00:59:32.508
+<v Linus Neumann>da drauf und denke mir so, oh Junge, Junge.
+
+00:59:33.209 --> 00:59:38.751
+<v Linus Neumann>Wir können auf diesem Sand diese Sandburg noch nicht bauen.
+
+00:59:39.791 --> 00:59:44.093
+<v Tim Pritlove>Also es ist, mir hat gerade jemand irgendwie, der aus Deutschland kommt,
+
+00:59:44.093 --> 00:59:49.576
+<v Tim Pritlove>in Holland lebt, irgendwie von seinem Arzt Realitäten dort berichtet und da
+
+00:59:49.576 --> 00:59:51.197
+<v Tim Pritlove>ist das genauso, wie man das haben will.
+
+00:59:51.197 --> 00:59:54.678
+<v Tim Pritlove>Weißt du da hast du da einfach elektronisch alles zentral gespeichert,
+
+00:59:54.678 --> 00:59:56.059
+<v Tim Pritlove>wechselst DNA's, sie wissen schon
+
+00:59:56.059 --> 01:00:00.501
+<v Tim Pritlove>irgendwie Bescheid, du brauchst dein Medikament irgendwie verlängert,
+
+01:00:00.501 --> 01:00:06.653
+<v Tim Pritlove>da klickst du dir irgendwie online und dann kriegst du das an einem Medikamentenautomaten
+
+01:00:06.653 --> 01:00:10.845
+<v Tim Pritlove>an der Apotheke ausgegeben, wenn du da mit deiner Karte rangehst.
+
+01:00:10.946 --> 01:00:14.869
+<v Tim Pritlove>Das sind ja einfach Vorstellungen, da denkst du ja da sind wir in zehn Jahren noch nicht.
+
+01:00:15.850 --> 01:00:21.175
+<v Tim Pritlove>So das ist das eine. Also erstens gibt es schon in Europa. Ich weiß jetzt nicht
+
+01:00:21.175 --> 01:00:24.978
+<v Tim Pritlove>überall und so weiter manche Länder sicherlich auch anders oder genauso schlimm
+
+01:00:24.978 --> 01:00:28.581
+<v Tim Pritlove>wie Deutschland aber es definitiv gibt es bessere Vorbilder die das irgendwie
+
+01:00:28.581 --> 01:00:30.623
+<v Tim Pritlove>gelöst bekommen und das halt auch in einem europäischen Datenschutzrahmen.
+
+01:00:31.944 --> 01:00:34.106
+<v Tim Pritlove>Ja, das kommt ja noch dazu. Und außerdem...
+
+01:00:38.325 --> 01:00:43.847
+<v Tim Pritlove>Sollte mal jeder sich mal kurz über sein smartphone neigen was dort schon alles
+
+01:00:43.847 --> 01:00:48.769
+<v Tim Pritlove>an health standards implementiert worden ist in den letzten jahren also gerade
+
+01:00:48.769 --> 01:00:53.031
+<v Tim Pritlove>hier so die ganze health implementierung von apple auf dem iphone wo ja auch
+
+01:00:53.031 --> 01:00:55.932
+<v Tim Pritlove>tonnenweise daten schon gespeichert werden können.
+
+01:00:55.932 --> 01:01:00.775
+<v Tim Pritlove>Das folgt selbstverständlich allen, also internationalen Standards.
+
+01:01:00.775 --> 01:01:04.336
+<v Tim Pritlove>Also das ist sozusagen jetzt nicht nur so wie Apple das macht,
+
+01:01:04.336 --> 01:01:10.559
+<v Tim Pritlove>sondern das basiert tatsächlich auf akzeptierten internationalen Austausch und
+
+01:01:10.559 --> 01:01:10.859
+<v Tim Pritlove>Datenspeicherstandards.
+
+01:01:11.719 --> 01:01:16.562
+<v Tim Pritlove>Und das ist natürlich ohnehin die Infrastruktur, die wir letzten Endes integrieren
+
+01:01:16.562 --> 01:01:19.883
+<v Tim Pritlove>müssen. Sprich ich denke, dass die ganze Digitalisierung über kurz oder lang
+
+01:01:19.883 --> 01:01:22.324
+<v Tim Pritlove>ohnehin von diesen Geräten definiert werden wird.
+
+01:01:22.444 --> 01:01:25.986
+<v Tim Pritlove>Das ist die zeigen ganz klar das
+
+01:01:25.986 --> 01:01:29.808
+<v Tim Pritlove>gilt im übrigen auch für diese Diskussion mit dem Personalausweis also das ist
+
+01:01:29.808 --> 01:01:34.390
+<v Tim Pritlove>ja gar nicht anders mehr vorstellbar als dass diese Universal Digital Geräte
+
+01:01:34.390 --> 01:01:41.393
+<v Tim Pritlove>das Interface sind wie sie es im Gesundheitsbereich werden so wie sie es heute
+
+01:01:41.393 --> 01:01:42.994
+<v Tim Pritlove>im Finanzbereich schon sind.
+
+01:01:43.594 --> 01:01:48.317
+<v Tim Pritlove>Ich kann halt mit meiner scheiß Uhr irgendwie mal kurz am Terminal wedeln und
+
+01:01:48.317 --> 01:01:51.218
+<v Tim Pritlove>dann habe ich mir irgendwie eine Currywurst im Stadion gekauft.
+
+01:01:51.799 --> 01:01:55.920
+<v Tim Pritlove>Das geht, muss ich nicht unbedingt machen wollen, aber es funktioniert und es
+
+01:01:55.920 --> 01:02:01.723
+<v Tim Pritlove>ist auch sicher und arbeitet mit biometrischen Merkmalen und pipapo die aber
+
+01:02:01.723 --> 01:02:03.144
+<v Tim Pritlove>privat auf dem Telefon sind.
+
+01:02:03.684 --> 01:02:09.787
+<v Tim Pritlove>Die technischen Lösungen an sich sind schon da und müssen es müsste ich eigentlich
+
+01:02:09.787 --> 01:02:13.489
+<v Tim Pritlove>mehr das Gesundheitssystem an diese Standards anpassen und ich glaube,
+
+01:02:13.489 --> 01:02:17.290
+<v Tim Pritlove>dass wir uns hier immer noch in so einem Rennen befinden, den Old Way,
+
+01:02:17.290 --> 01:02:21.552
+<v Tim Pritlove>wie wir das hier schon immer gemacht haben in irgendeiner Form digital abzubilden,
+
+01:02:21.552 --> 01:02:26.914
+<v Tim Pritlove>während sich der Rest der Welt eigentlich schon pragmatisch auf neues sinnvolles
+
+01:02:26.914 --> 01:02:32.077
+<v Tim Pritlove>Modell geeinigt hat und zusieht, dass das eigene System sich an diese Standards anpasst.
+
+01:02:33.398 --> 01:02:37.192
+<v Tim Pritlove>Also ich stecke nicht wirklich tief drin aber ich finde es einfach beklagenswert
+
+01:02:37.192 --> 01:02:40.981
+<v Tim Pritlove>wie wenig da vorangeht und ich mache mir auch ehrlich gesagt jetzt von so einer
+
+01:02:40.981 --> 01:02:44.642
+<v Tim Pritlove>neuen Digitalstrategie mache mir jetzt erstmal wenig Hoffnung,
+
+01:02:44.642 --> 01:02:47.804
+<v Tim Pritlove>ich sage nur wake me up wenn es so weit ist so,
+
+01:02:48.884 --> 01:02:53.267
+<v Tim Pritlove>dann nehme ich das gerne zur Kenntnis aber bis dahin bleibe ich bei meiner generellen
+
+01:02:53.267 --> 01:02:55.989
+<v Tim Pritlove>Einschätzung Deutschland digital wird nichts mehr.
+
+01:02:57.350 --> 01:03:01.512
+<v Linus Neumann>Okay, dem würde ich zustimmen. Jetzt gibt es noch einen Phänomenbereich,
+
+01:03:01.512 --> 01:03:04.954
+<v Linus Neumann>der natürlich auch nochmal berücksichtigt werden muss. So eine Patientenakte,
+
+01:03:04.954 --> 01:03:07.095
+<v Linus Neumann>die wird mit der Zeit ganz schön lang.
+
+01:03:08.337 --> 01:03:10.858
+<v Linus Neumann>Die soll dich ja idealerweise dein Leben lang begleiten.
+
+01:03:13.480 --> 01:03:18.803
+<v Linus Neumann>Und dann gibt es so bestimmte Diagnoschen, die man vielleicht nicht so gerne mit allen teilt.
+
+01:03:23.820 --> 01:03:26.941
+<v Linus Neumann>Bestimmte stigmatisierte Diagnosen sagen wir jetzt gar keine spezifischen zu nennen.
+
+01:03:27.942 --> 01:03:31.844
+<v Linus Neumann>Jetzt sagen die Grünen, ja, das wollen wir aber, dass das maskiert werden kann.
+
+01:03:31.844 --> 01:03:39.547
+<v Linus Neumann>Beispiel HIV. So jetzt ist andererseits ist das natürlich, das ist eine Information,
+
+01:03:39.547 --> 01:03:44.470
+<v Linus Neumann>dass du HIV-positiv bist, die potenziell vielleicht jeden Arzt interessieren
+
+01:03:44.470 --> 01:03:45.791
+<v Linus Neumann>sollte, der mit dir hantiert.
+
+01:03:51.174 --> 01:03:54.375
+<v Linus Neumann>Zu Blutkontakt oder sonst dem käme. Das heißt,
+
+01:03:54.375 --> 01:03:58.817
+<v Linus Neumann>diese Idee, wir lassen jetzt hier Sachen drin maskieren,
+
+01:03:58.817 --> 01:04:06.621
+<v Linus Neumann>die klingt für den Einzelfall, also für den einzelnen Fall immer total naheliegend und sinnvoll,
+
+01:04:06.621 --> 01:04:14.986
+<v Linus Neumann>bis dann der Moment ist, in dem du das vielleicht nicht, wo es dann nicht wünschenswert
+
+01:04:14.986 --> 01:04:16.746
+<v Linus Neumann>ist, dass es maskiert ist, Psychische Erkrankung.
+
+01:04:16.746 --> 01:04:21.809
+<v Linus Neumann>Riesending. Stell dir mal vor,
+
+01:04:21.809 --> 01:04:29.633
+<v Linus Neumann>jeder Arzt, den du besuchst, weiß sofort, keine Ahnung, vor 27 Jahren bist du
+
+01:04:29.633 --> 01:04:33.655
+<v Linus Neumann>schon mal mit einer manischen Phase aufgefallen.
+
+01:04:34.075 --> 01:04:39.018
+<v Linus Neumann>Oder vor drei Jahren hattest du längere Zeit Depressionen oder du nimmst jetzt noch Antidepressiva.
+
+01:04:42.200 --> 01:04:48.973
+<v Linus Neumann>Was du dem erzählst über deinen Zustand, wird ja potenziell automatisch gefärbt
+
+01:04:48.973 --> 01:04:52.505
+<v Linus Neumann>sein von dem Eindruck, den er jetzt durch diese andere Diagnose von dir hat.
+
+01:04:54.406 --> 01:05:01.830
+<v Linus Neumann>Und auch da entstehen wieder so, also über die Jahre stigmatisierende Dinge in dieser Akte sammeln.
+
+01:05:03.831 --> 01:05:10.454
+<v Linus Neumann>Da entstehen auch wirklich, glaube ich, Herausforderungen, die noch nicht ganz klar sind.
+
+01:05:10.914 --> 01:05:14.216
+<v Tim Pritlove>Ja gut, aber das ist natürlich auch eine Unterstellung, dass solche Informationen
+
+01:05:14.216 --> 01:05:17.737
+<v Tim Pritlove>bei Ärzten dazu führen, dass du dann automatisch in einer Stigmatisierung landest.
+
+01:05:18.218 --> 01:05:22.662
+<v Tim Pritlove>Also ich würde mal meinen … Das ist keine Unterstellung, das ist eine Realität.
+
+01:05:23.704 --> 01:05:29.332
+<v Tim Pritlove>Ja, aber das ist die Bedrohung durch eine... also ist die Möglichkeit einer
+
+01:05:29.332 --> 01:05:31.095
+<v Tim Pritlove>solchen Stigmatisierung, die ja nicht...
+
+01:05:31.894 --> 01:05:35.977
+<v Tim Pritlove>Das kannst du jetzt für wahrscheinlich halten, aber es ist nicht auf jeden Fall so.
+
+01:05:39.999 --> 01:05:42.610
+<v Tim Pritlove>Besser als ein Unwissen über deinen kranken Vergangenheit.
+
+01:05:44.902 --> 01:05:48.323
+<v Linus Neumann>Ich wollte gerade nicht sagen, dass das einer von beiden, das ist genau die
+
+01:05:48.323 --> 01:05:52.225
+<v Linus Neumann>Abwägung. Das kommt halt drauf an, wem ich da jetzt gerade gegenüber dritte.
+
+01:05:52.225 --> 01:05:54.426
+<v Tim Pritlove>Ich hab zum Beispiel das Problem, ich weiß nicht, ob dir das auch so geht,
+
+01:05:54.426 --> 01:05:57.808
+<v Tim Pritlove>aber ich hab ja keine elektronische Patientenakte mein Leben lang geführt.
+
+01:05:57.808 --> 01:05:59.309
+<v Tim Pritlove>Ich hab gar keine Patientenakte.
+
+01:06:00.389 --> 01:06:04.311
+<v Tim Pritlove>Und ganz ehrlich, ich geh zum Arzt und die fragen mich irgendwie,
+
+01:06:04.311 --> 01:06:09.894
+<v Tim Pritlove>haben sie in den letzten drei Jahren eine Operation gehabt oder so.
+
+01:06:10.234 --> 01:06:12.895
+<v Tim Pritlove>Ich so, äh, muss mal nachdenken.
+
+01:06:14.216 --> 01:06:17.717
+<v Tim Pritlove>Oder haben sie in den letzten fünf Jahren Beschwerden in diesem Bereich.
+
+01:06:19.479 --> 01:06:20.939
+<v Tim Pritlove>Welche Medikamente haben sie eingenommen?
+
+01:06:22.240 --> 01:06:24.080
+<v Linus Neumann>Zack, zack, diagnostizieren wir dir eine Demenz.
+
+01:06:24.080 --> 01:06:27.962
+<v Tim Pritlove>Ja ich weiß nichts davon, ich merke mir das einfach nicht,
+
+01:06:27.962 --> 01:06:31.083
+<v Tim Pritlove>ich schreibe mir das auch nicht auf, was eigentlich ein Fehler ist,
+
+01:06:31.083 --> 01:06:33.944
+<v Tim Pritlove>also ich kann euch das auch allen nur raten, irgendwie macht das,
+
+01:06:33.944 --> 01:06:40.357
+<v Tim Pritlove>führt ein medizinisches Logbuch, führt eure eigene elektronische Patientenbank,
+
+01:06:40.357 --> 01:06:44.799
+<v Tim Pritlove>weil der Staat kriegt's ja eh nicht hin und sowas ist schon ganz praktisch.
+
+01:06:44.799 --> 01:06:49.390
+<v Tim Pritlove>Also ganz ehrlich, hätte ich da mehr Awareness gehabt, hätte ich mir von Anfang
+
+01:06:49.390 --> 01:06:50.731
+<v Tim Pritlove>an eine Datenbank für gemacht.
+
+01:06:50.921 --> 01:06:54.212
+<v Tim Pritlove>Das wär's wirklich gewesen. Weil das kann schon hilfreich sein.
+
+01:06:54.212 --> 01:06:55.053
+<v Tim Pritlove>Auch so bei der Eigendiagnostizierung.
+
+01:06:56.814 --> 01:07:00.795
+<v Tim Pritlove>Ich vergesse auch manchmal bestimmte Malesen. So, die ich hab.
+
+01:07:01.596 --> 01:07:03.076
+<v Tim Pritlove>Dann bin ich beim Arzt und so.
+
+01:07:03.076 --> 01:07:05.097
+<v Linus Neumann>Ist doch gut, wenn du die vergisst, ist doch in Ordnung.
+
+01:07:05.097 --> 01:07:08.968
+<v Tim Pritlove>Ja, ne, so Sachen die nur ab und zu auftreten und so und dann hast du mal deinen
+
+01:07:08.968 --> 01:07:13.220
+<v Tim Pritlove>Arzttermin und dann so ja ist noch irgendwas, ne sonst ist eigentlich alles in Ordnung.
+
+01:07:13.220 --> 01:07:16.311
+<v Tim Pritlove>Und in dem Moment wo ich zur Tür rausgehe, denk ich mir so, ah war ja noch dit
+
+01:07:16.311 --> 01:07:18.702
+<v Tim Pritlove>und dit und dit, das wolltest du nochmal ansprechen und so weiter,
+
+01:07:18.702 --> 01:07:21.503
+<v Tim Pritlove>alles so Sachen wo du nicht weißt und so, weißt du?
+
+01:07:21.764 --> 01:07:24.305
+<v Tim Pritlove>Und am Ende stellt sich das dann vielleicht als irgendwas raus,
+
+01:07:24.305 --> 01:07:26.846
+<v Tim Pritlove>ja werden sie mal vor zwei Jahren angekommen, ja das hatte ich seit drei Jahren
+
+01:07:26.846 --> 01:07:29.176
+<v Tim Pritlove>auf dem Zettel, aber halt nicht auf dem einen elektronischen Patientenachtenzettel.
+
+01:07:31.488 --> 01:07:33.889
+<v Tim Pritlove>Es wäre ja auch ganz gut, wenn man das selber trimmen könnte,
+
+01:07:33.889 --> 01:07:39.491
+<v Tim Pritlove>wenn man sozusagen auch selber sozusagen seinen eigenen Beobachtungsbefund,
+
+01:07:39.491 --> 01:07:44.173
+<v Tim Pritlove>so eine Selbstbeobachtung auch einfach in so ein Logfile reinschreiben kann,
+
+01:07:44.173 --> 01:07:46.814
+<v Tim Pritlove>damit das dann auch einfach schon da und reproduzierbar ist.
+
+01:07:46.814 --> 01:07:48.534
+<v Tim Pritlove>Ich denke damit wäre allen geholfen.
+
+01:07:50.997 --> 01:07:54.660
+<v Tim Pritlove>Not to self. Ja, no to self. Das sind schon so alles Aspekte und ehrlich gesagt,
+
+01:07:54.660 --> 01:08:00.464
+<v Tim Pritlove>ja okay gut, da geh ich irgendwie ein Stück weit mit und man kann da überall so Risiken sehen.
+
+01:08:00.464 --> 01:08:06.089
+<v Tim Pritlove>Aber ganz ehrlich, in unserem Feld und das müssen wir uns auch immer wieder mal klar machen.
+
+01:08:07.355 --> 01:08:14.279
+<v Tim Pritlove>Ich bin großer Freund dieser Balance zwischen Chancen und Risiken.
+
+01:08:14.279 --> 01:08:19.442
+<v Tim Pritlove>Also wir diskutieren hier oft Sachen, wo man sagen kann, oh das kann aber,
+
+01:08:19.442 --> 01:08:22.183
+<v Tim Pritlove>weißt du, das kann ja folgende negative Auswirkungen haben.
+
+01:08:22.183 --> 01:08:25.485
+<v Tim Pritlove>Und ich glaube, dass wir so ein bisschen auch als Szene, so ein bisschen so
+
+01:08:25.485 --> 01:08:29.767
+<v Tim Pritlove>als Kenner der Details immer so ein bisschen dazu tendieren,
+
+01:08:29.767 --> 01:08:31.207
+<v Tim Pritlove>die negativen Aspekte überzubetonten.
+
+01:08:32.929 --> 01:08:35.590
+<v Tim Pritlove>Ich sag nicht die gibt's nicht und ich sag auch nicht die muss man nicht thematisieren.
+
+01:08:35.950 --> 01:08:40.372
+<v Tim Pritlove>Die Frage ist halt immer nur was ist die Balance aus allem. Und das ist natürlich
+
+01:08:40.372 --> 01:08:45.415
+<v Tim Pritlove>auch eine Kritik die oft an uns so herangetragen wird.
+
+01:08:45.515 --> 01:08:49.077
+<v Tim Pritlove>Oft bildet sich das über diese Datenschutzdebatten aber ich würde das mal davon
+
+01:08:49.077 --> 01:08:51.078
+<v Tim Pritlove>losgelöst generell sagen.
+
+01:08:51.078 --> 01:08:55.581
+<v Tim Pritlove>Du hast ja immer so dieses Problem in dem Moment wo du irgendwas besonders gut
+
+01:08:55.581 --> 01:08:57.482
+<v Tim Pritlove>kennst und das ist so deine Domäne,
+
+01:08:57.482 --> 01:09:01.724
+<v Tim Pritlove>Dann kommt man schnell so mit ja aber habt ihr das bedacht und ihr kennt euch
+
+01:09:01.724 --> 01:09:06.666
+<v Tim Pritlove>ja da nicht aus und so weiter und so ist das wahrscheinlich überall in der Pferdezucht oder im,
+
+01:09:06.666 --> 01:09:10.128
+<v Tim Pritlove>keine Ahnung also egal in welches Feld du reingehst,
+
+01:09:10.128 --> 01:09:13.550
+<v Tim Pritlove>wenn du zu den Experten kommst und denen irgendeinen Plan vorstellst,
+
+01:09:13.550 --> 01:09:15.711
+<v Tim Pritlove>wie du in einem bestimmten Bereich Verbesserung einführen willst,
+
+01:09:15.711 --> 01:09:19.673
+<v Tim Pritlove>dann kommen sie alle mit ihrem Bedenkenträgertum und sagen so ja aber,
+
+01:09:19.673 --> 01:09:23.355
+<v Tim Pritlove>das könnte ich mir aber tausend Szenarien vorstellen wo das in die Hose gehen kann.
+
+01:09:23.475 --> 01:09:26.937
+<v Tim Pritlove>So ja okay gut kannst du vielleicht so aber ich könnte mir auch hunderttausend
+
+01:09:26.937 --> 01:09:30.919
+<v Tim Pritlove>Szenarien vorstellen wo das echt sinnvoll sein könnte das mal so zu machen.
+
+01:09:30.919 --> 01:09:38.223
+<v Tim Pritlove>Und das ist schon eine Balance und generell bin ich einfach ein großer Freund
+
+01:09:38.223 --> 01:09:40.484
+<v Tim Pritlove>von der Betonung auch der Chancen
+
+01:09:40.484 --> 01:09:43.345
+<v Tim Pritlove>und dass man das halt auch sehen muss weil das ist ja eben auch so,
+
+01:09:43.345 --> 01:09:48.268
+<v Tim Pritlove>wir verpassen hier glaube ich mehr als wir zu befürchten haben.
+
+01:09:50.949 --> 01:09:55.511
+<v Linus Neumann>Okay, also ich würde allem zustimmen und ich finde auch, dass wir wahrscheinlich
+
+01:09:55.511 --> 01:09:58.893
+<v Linus Neumann>heute in der Sendung eine ganz gute Kurve gekriegt haben, zu sagen,
+
+01:09:58.893 --> 01:10:03.075
+<v Linus Neumann>ja klar, natürlich willst du ein digitalisiertes Gesundheitssystem haben, ja.
+
+01:10:04.863 --> 01:10:07.442
+<v Linus Neumann>Wir werden das nicht ...
+
+01:10:10.172 --> 01:10:13.353
+<v Linus Neumann>Ja, oder es wird noch viel schlimmer, wenn wir es nicht machen.
+
+01:10:19.546 --> 01:10:23.037
+<v Linus Neumann>Gleichzeitig, und ich hoffe es ist auch klar geworden,
+
+01:10:23.037 --> 01:10:29.240
+<v Linus Neumann>dass wir uns dem nicht vollständig dagegen stellen, aber gleichzeitig an dieser
+
+01:10:29.240 --> 01:10:35.623
+<v Linus Neumann>Stelle von diesen Leuten fundamentale Entscheidungen treffen zu lassen,
+
+01:10:35.623 --> 01:10:38.704
+<v Linus Neumann>Er scheint mir gefährlich, er scheint mir waghalsig.
+
+01:10:38.704 --> 01:10:44.126
+<v Linus Neumann>Ich glaube es gibt eine ganze Menge, die zum Beispiel Ärztinnen und Ärzte und
+
+01:10:44.126 --> 01:10:48.648
+<v Linus Neumann>das ganze Personal, was da noch in so einem Gesundheitssystem drum herum tanzt
+
+01:10:48.648 --> 01:10:53.430
+<v Linus Neumann>und die eigentliche Arbeit macht, besser wissen als wir.
+
+01:10:54.972 --> 01:11:01.615
+<v Linus Neumann>Die können zum Beispiel sagen, pass mal auf, folgendes wäre eine Anforderung,
+
+01:11:01.615 --> 01:11:07.138
+<v Linus Neumann>die ich habe. Zum Beispiel, wenn jetzt hier dieses Notfallmedizinerinnen möchten,
+
+01:11:07.138 --> 01:11:09.740
+<v Linus Neumann>brauchen Einblick in die Patientenakte.
+
+01:11:10.100 --> 01:11:13.502
+<v Linus Neumann>Wenn man jetzt einfach nur zu denen hingeht und sagt, sag mal welche Punkte,
+
+01:11:13.502 --> 01:11:19.915
+<v Linus Neumann>dann werden die nämlich sagen, ja pass auf, die lebensbedrohlichen Krankheiten,
+
+01:11:19.915 --> 01:11:25.509
+<v Linus Neumann>Herz-Lunge, Infektionsschutz, wenn der notwendig ist und dat und dat und dat und dat.
+
+01:11:27.070 --> 01:11:32.853
+<v Linus Neumann>Vielleicht irgendwelche Stents oder sonst was. Das was in der einen Situation
+
+01:11:32.853 --> 01:11:38.776
+<v Linus Neumann>medizinischer Notfall nicht ansprechbare Personen oder von mir aus ist die Person auch ansprechbar,
+
+01:11:38.776 --> 01:11:42.558
+<v Linus Neumann>aber gerade nicht in der Lage ihre Krankengeschichte kurz mal eben zu erörtern.
+
+01:11:44.559 --> 01:11:47.581
+<v Linus Neumann>Diese Informationen, die wären gut die zu haben. dann könnte man sich nämlich
+
+01:11:47.581 --> 01:11:48.781
+<v Linus Neumann>von der technischen Seite sagen,
+
+01:11:48.781 --> 01:11:54.304
+<v Linus Neumann>okay, pass auf, um das zu ermöglichen, führen wir folgende Funktionalität ein,
+
+01:11:54.304 --> 01:11:59.687
+<v Linus Neumann>ja, und die bildet sich folgendermaßen ab in unserem Datenraum,
+
+01:11:59.687 --> 01:12:02.689
+<v Linus Neumann>den wir hier haben, und die wird folgendermaßen realisiert, und die ist von
+
+01:12:02.689 --> 01:12:06.031
+<v Linus Neumann>mir aus auch kompatibel mit dem, was Apple eh schon macht, und so weiter und so fort.
+
+01:12:07.853 --> 01:12:11.296
+<v Linus Neumann>Ich habe aber die Befürchtung, dass hier, wie so oft,
+
+01:12:11.296 --> 01:12:15.521
+<v Linus Neumann>gesagt wird, ach, das ist irgendwie alles viel zu kompliziert,
+
+01:12:15.521 --> 01:12:23.009
+<v Linus Neumann>Lass mal lieber irgendwelche Schutzmaßnahmen bauen, die alle total nerven.
+
+01:12:24.183 --> 01:12:27.125
+<v Linus Neumann>Zum Beispiel diese ganze Connector Nummer, habe ich nie ganz verstanden,
+
+01:12:27.125 --> 01:12:29.806
+<v Linus Neumann>warum ich ein Gematik-Connector haben soll.
+
+01:12:33.689 --> 01:12:38.451
+<v Linus Neumann>Also der Zweck dieses Connectors in der Architektur leuchtet mir nicht ein,
+
+01:12:38.451 --> 01:12:41.512
+<v Linus Neumann>wenn auf dem gleichen Rechner, der hinter dem Connector hängt,
+
+01:12:41.512 --> 01:12:47.515
+<v Linus Neumann>den ganzen Tag, übrigens ohne Altersverifikation, im Internet gesurft wird.
+
+01:12:47.515 --> 01:12:48.796
+<v Linus Neumann>Und wer weiß, was die sich da anschauen.
+
+01:12:49.176 --> 01:12:51.938
+<v Linus Neumann>Das heißt, da ist das Thread-Model auch irgendwie völlig daneben.
+
+01:12:53.559 --> 01:12:55.740
+<v Linus Neumann>Und die Operationen gucken sie sich natürlich an.
+
+01:13:06.586 --> 01:13:08.806
+<v Tim Pritlove>Und diese Live-Übertragung im Internet. Doktor-Spiele im Internet.
+
+01:13:12.507 --> 01:13:18.750
+<v Linus Neumann>Und das heißt so ein informiertes Grüppchen, dass man sagt, so kann man das ordentlich machen.
+
+01:13:18.750 --> 01:13:23.351
+<v Linus Neumann>Und das ist doch eigentlich der Grund, warum jetzt der Aufschrei, in Anführungszeichen,
+
+01:13:23.351 --> 01:13:29.414
+<v Linus Neumann>der leih-, der stille Aufschrei bei den Datenschützerinnen, bei den IT-Security-Leuten
+
+01:13:29.414 --> 01:13:32.355
+<v Linus Neumann>kommt, bei insbesondere denen, wie jetzt sagen wir mal hier,
+
+01:13:32.355 --> 01:13:36.477
+<v Linus Neumann>Flüppke, ähm, Martin Schier, die sich den Krempe ja auch schon seit Jahren angucken.
+
+01:13:36.977 --> 01:13:41.859
+<v Linus Neumann>Und sagen so, oh, äh, Leute,
+
+01:13:41.859 --> 01:13:47.041
+<v Linus Neumann>ganz ehrlich, ihr habt ja schon ein paar ganz gute Ideen gehabt,
+
+01:13:47.041 --> 01:13:52.063
+<v Linus Neumann>aber vielleicht überschätzt ihr da gerade euer Brusthaar.
+
+01:13:52.363 --> 01:13:55.304
+<v Linus Neumann>Ja, vielleicht, so was.
+
+01:13:57.645 --> 01:13:59.165
+<v Tim Pritlove>Davon hängt das ab, ja.
+
+01:14:00.346 --> 01:14:04.327
+<v Linus Neumann>Jetzt machen wir hier alles digital, okay. Okay, vielleicht hört er nochmal
+
+01:14:04.327 --> 01:14:08.809
+<v Linus Neumann>ein bisschen auf Leute, die, ne, das ist mein Unbehagen.
+
+01:14:10.050 --> 01:14:13.811
+<v Linus Neumann>Und dieses Unbehagen lässt sich, muss man auch sagen, eben anhand einer Digitalstrategie,
+
+01:14:17.358 --> 01:14:21.640
+<v Linus Neumann>noch nicht festmachen. Oder also das lässt sich nicht konkret sagen,
+
+01:14:21.640 --> 01:14:24.481
+<v Linus Neumann>so dieser Teil der Digitalstrategie, den finde ich nicht in Ordnung.
+
+01:14:24.481 --> 01:14:29.704
+<v Linus Neumann>Ich kann mir nur vorstellen, dieses mit dem Daten werden der Wissenschaft zugänglich gemacht,
+
+01:14:29.704 --> 01:14:36.847
+<v Linus Neumann>da sehe ich ein großes Risiko, dass da halt das Kind mit dem Bade ausgeschüttet wird,
+
+01:14:36.847 --> 01:14:41.749
+<v Linus Neumann>statt vielleicht moderne Technologien zur Anwendung zu bringen,
+
+01:14:41.749 --> 01:14:46.191
+<v Linus Neumann>die es wirklich vielleicht ordentlich ermöglichen würden, aber davon höre ich hier wenig.
+
+01:14:49.873 --> 01:14:56.596
+<v Linus Neumann>Das wäre meine diplomatische Positionierung zu diesem Sachverhalt.
+
+01:15:00.538 --> 01:15:03.019
+<v Tim Pritlove>Wollen wir dann mal weiterkommen in unserer Thesis?
+
+01:15:03.980 --> 01:15:08.242
+<v Linus Neumann>Also wir haben, es gibt die gleiche Diskussion, das ist ja auch das Schöne,
+
+01:15:08.242 --> 01:15:12.084
+<v Linus Neumann>gibt es auch nochmal auf EU-Ebene, deswegen bricht Deutschland jetzt hier schnell
+
+01:15:12.084 --> 01:15:14.505
+<v Linus Neumann>vor, um noch schnell irgendwie eine Strategie zu haben.
+
+01:15:16.126 --> 01:15:21.469
+<v Linus Neumann>Zum European Health Data Space soll das ja dann auf europäischer Ebene irgendwie
+
+01:15:21.469 --> 01:15:22.069
+<v Linus Neumann>zusammengepresst werden.
+
+01:15:23.811 --> 01:15:29.600
+<v Linus Neumann>Dazu positioniert sich Edri. Edri hat da ein Forderungspapier,
+
+01:15:29.600 --> 01:15:37.697
+<v Linus Neumann>und zwar die Make the European Health Data Space Serve Patients and Research.
+
+01:15:37.697 --> 01:15:40.600
+<v Tim Pritlove>Great again.
+
+01:15:40.600 --> 01:15:44.413
+<v Linus Neumann>Ja, Great Again ist natürlich... So was sagen sie?
+
+01:15:46.364 --> 01:15:51.248
+<v Linus Neumann>Erstens, für die Weitergabe von Daten muss auf jeden Fall Konsent gegeben werden,
+
+01:15:51.248 --> 01:15:52.929
+<v Linus Neumann>also der informt Konsent, gut.
+
+01:15:55.648 --> 01:16:00.710
+<v Linus Neumann>Ich begrenze die Definition, was Gesundheitsdaten sind.
+
+01:16:02.712 --> 01:16:08.374
+<v Linus Neumann>Sie kritisieren, dass sie zu breit diese Definition ist und sagen,
+
+01:16:08.374 --> 01:16:13.716
+<v Linus Neumann>die Definition von Gesundheitsdaten soll eingeschränkt werden auf das,
+
+01:16:13.716 --> 01:16:17.558
+<v Linus Neumann>was tatsächlich direkten Bezug zur Gesundheit und medizinischer Pflege hat.
+
+01:16:18.979 --> 01:16:23.461
+<v Linus Neumann>Ökonomischer Status, sozialer Status, professionelles Leben dürfen nicht mit
+
+01:16:23.461 --> 01:16:25.462
+<v Linus Neumann>da rein definiert werden.
+
+01:16:34.487 --> 01:16:38.468
+<v Linus Neumann>Die erlaubten Nutzungsarten sollen präzise und legitim definiert sein.
+
+01:16:38.468 --> 01:16:42.790
+<v Linus Neumann>Dass man eben sagt, nicht so zu Forschungszwecken darf darauf zugegriffen werden,
+
+01:16:42.790 --> 01:16:50.353
+<v Linus Neumann>sondern zu In diesem Fall, ja, das Ergebnis muss sein, dass es klar ist,
+
+01:16:56.256 --> 01:16:58.656
+<v Linus Neumann>nicht kommerzielle akademische Forschung mit nicht proprietären Forschungsergebnissen
+
+01:16:58.656 --> 01:16:59.837
+<v Linus Neumann>wäre so ein Mindestpunkt.
+
+01:17:03.478 --> 01:17:06.620
+<v Linus Neumann>Dann natürlich muss die Datensicherheit eine Top Priorität sein,
+
+01:17:06.620 --> 01:17:08.040
+<v Linus Neumann>tut mir leid, natürlich.
+
+01:17:09.121 --> 01:17:18.244
+<v Linus Neumann>Also wenn da jetzt irgendwas gebaut werden soll, wo von 80 Millionen Arztbesuchenden
+
+01:17:18.244 --> 01:17:24.967
+<v Linus Neumann>in Deutschland und weiß ich wie viel in Europa Daten auf einen Haufen geworfen
+
+01:17:24.967 --> 01:17:26.748
+<v Linus Neumann>werden und einem Datenregime unterzogen werden,
+
+01:17:26.828 --> 01:17:30.970
+<v Linus Neumann>Da wäre das schon nicht schlecht, wenn man auch die Leute mitreden lässt,
+
+01:17:30.970 --> 01:17:32.931
+<v Linus Neumann>die von der IT-Sicherheit ein bisschen Ahnung haben.
+
+01:17:32.931 --> 01:17:38.294
+<v Linus Neumann>Und vielleicht diese Leute auch der Gestalt mit einbringen, dass sie nicht einen
+
+01:17:38.294 --> 01:17:42.756
+<v Linus Neumann>inhärenten Interessenskonflikt durch ihre Arbeitgeberin haben.
+
+01:17:44.638 --> 01:17:48.159
+<v Linus Neumann>Okay, also auf EU-Ebene haben wir das auch. Khaleesi wird uns da sicherlich
+
+01:17:48.159 --> 01:17:50.520
+<v Linus Neumann>in den nächsten Folgen nochmal darüber informieren.
+
+01:17:51.221 --> 01:17:53.202
+<v Linus Neumann>Kommen wir zu den noch schlechteren Nachrichten.
+
+01:17:54.403 --> 01:17:54.923
+<v Tim Pritlove>Was denn?
+
+01:18:02.228 --> 01:18:04.348
+<v Linus Neumann>Ja, der in Ravensburg, kennst du das?
+
+01:18:04.348 --> 01:18:06.029
+<v Tim Pritlove>Ravensburg?
+
+01:18:06.029 --> 01:18:10.392
+<v Linus Neumann>Kennst du das? Ravensburg? Das ist im Ländle, glaube ich.
+
+01:18:11.112 --> 01:18:12.113
+<v Tim Pritlove>Da wo die Puzzle herkommen.
+
+01:18:12.113 --> 01:18:13.613
+<v Linus Neumann>Da kommt die Puzzle her, ja.
+
+01:18:17.196 --> 01:18:26.241
+<v Linus Neumann>Da ist es also passiert, dass das Handy eines Beschuldigten mit einem vorher
+
+01:18:26.241 --> 01:18:26.841
+<v Linus Neumann>erzwungenen Fingerabdruck,
+
+01:18:30.532 --> 01:18:33.574
+<v Linus Neumann>Entsperrt wurde Und zwar
+
+01:18:33.574 --> 01:18:37.195
+<v Linus Neumann>haben sie einen Verdächtigen gehabt und haben gesagt okay im
+
+01:18:37.195 --> 01:18:40.117
+<v Linus Neumann>rahmen einer erkennungsdienstlichen maßnahme Nehmen wir
+
+01:18:40.117 --> 01:18:45.680
+<v Linus Neumann>jetzt mal einen fingerabdruck von dem Und aber das haben sie begründet mit der
+
+01:18:45.680 --> 01:18:48.611
+<v Linus Neumann>erkennungsdienstlichen maßnahme jetzt hatten sie aber nun mal den fingerabdruck
+
+01:18:48.611 --> 01:18:54.684
+<v Linus Neumann>Dann haben sie eine biometrische kopie also sehr einfach dann eben den fingerabdruck
+
+01:18:54.684 --> 01:18:58.086
+<v Linus Neumann>so umgebaut dass der oder so produziert,
+
+01:18:58.086 --> 01:19:01.127
+<v Linus Neumann>dass sie damit das Mobiltelefon entsperren konnten.
+
+01:19:01.127 --> 01:19:04.149
+<v Tim Pritlove>Sagst du mal so ein Video vom CCC, wie das geht?
+
+01:19:05.029 --> 01:19:09.631
+<v Linus Neumann>Da gibt es mehrere Videos, ja. Es gibt die Videos von Starbuck,
+
+01:19:09.631 --> 01:19:11.732
+<v Linus Neumann>wir haben nachher auch nochmal im Labor.
+
+01:19:18.416 --> 01:19:23.940
+<v Linus Neumann>Klar, ne? Aber, und jetzt, das findet ja den juristischen Aspekt eher Das war
+
+01:19:23.940 --> 01:19:27.922
+<v Linus Neumann>sehr lustig. Also, dass das technisch möglich ist, wurde gezeigt.
+
+01:19:27.922 --> 01:19:30.043
+<v Linus Neumann>Das hat hier die Polizei gemacht.
+
+01:19:33.565 --> 01:19:35.286
+<v Linus Neumann>Und dann wurde dagegen geklagt.
+
+01:19:37.507 --> 01:19:40.649
+<v Linus Neumann>Und dann sagte erst, dass wahrscheinlich, was ist das denn dann?
+
+01:19:43.631 --> 01:19:47.272
+<v Linus Neumann>Erste Instanz hat gesagt, ja ne kann man machen, ja. Und dann jetzt die zweite
+
+01:19:47.272 --> 01:19:50.553
+<v Linus Neumann>Instanz hat das wieder bestätigt. Das Amtsgericht, also das Landgericht hat
+
+01:19:50.553 --> 01:19:52.594
+<v Linus Neumann>gesagt, ja ne war in Ordnung was das Amtsgericht da gemacht hat.
+
+01:19:53.114 --> 01:20:01.877
+<v Linus Neumann>Jetzt stellt sich aber die Frage, Wie kommt das Gericht denn zu der Idee,
+
+01:20:01.877 --> 01:20:06.218
+<v Linus Neumann>dass es dafür jetzt schon eine rechtliche Grundlage gäbe?
+
+01:20:07.884 --> 01:20:14.308
+<v Linus Neumann>Und das finde ich halt relativ schwierig, weil das Handy hat eine biometrische Sperre.
+
+01:20:15.168 --> 01:20:22.232
+<v Linus Neumann>Und den Fingerabdruck erlangen sie ja zu Identifizierungszwecken und Zwecken
+
+01:20:22.232 --> 01:20:24.313
+<v Linus Neumann>der Nachweisung einer Tat.
+
+01:20:25.254 --> 01:20:32.297
+<v Linus Neumann>Und dann sagen sie, da sie in diesem Tatzusammenhang, wie der Beschuldigte war,
+
+01:20:32.297 --> 01:20:37.500
+<v Linus Neumann>Da ging es um den Handel mit Substanzen, mit denen er nicht hätte handeln dürfen.
+
+01:20:38.881 --> 01:20:45.184
+<v Linus Neumann>Und da haben sie gesagt, in dem Sinne nehmen wir diesen festgestellten Fingerabdruck,
+
+01:20:45.184 --> 01:20:48.406
+<v Linus Neumann>den wir jetzt haben und von dem wir eine Kopie anfertigen und damit das Mobiltelefon
+
+01:20:48.406 --> 01:20:53.329
+<v Linus Neumann>entsperren, kommt dem eine Identifizierungsfunktion zu.
+
+01:20:54.990 --> 01:20:58.191
+<v Linus Neumann>Die Identifizierungsfunktion wird hier im Unterschied zum klassischen Fall allerdings
+
+01:20:58.191 --> 01:21:03.064
+<v Linus Neumann>nicht unmittelbar zum Führen des Tatnachweises verwendet, sondern als Zwischenziel
+
+01:21:03.064 --> 01:21:07.016
+<v Linus Neumann>zur Erlangung der für den Nachweis erforderlichen gespeicherten Daten.
+
+01:21:07.897 --> 01:21:10.518
+<v Linus Neumann>Inwieweit die Maßnahme notwendig für das Strafverfahren ist,
+
+01:21:10.518 --> 01:21:12.939
+<v Linus Neumann>ist eine Frage nach der zu thematisierenden Verhältnismäßigkeit.
+
+01:21:15.281 --> 01:21:19.163
+<v Linus Neumann>Die Verwendung von biometrischen Körpermerkmalen zur Entschlüsselung von Daten
+
+01:21:19.163 --> 01:21:23.786
+<v Linus Neumann>durch einen Abgleich mit dem im Endgerät hintergelegten Schlüsselmerkmal ist
+
+01:21:23.786 --> 01:21:28.589
+<v Linus Neumann>deshalb auch vom Wortleut umfasst." Also das Das Gericht meint,
+
+01:21:28.589 --> 01:21:38.254
+<v Linus Neumann>dass es quasi in der jetzigen Rechtslage bereits eine Grundlage dazu gebe.
+
+01:21:39.735 --> 01:21:44.458
+<v Linus Neumann>Und das halte ich für nicht wirklich den Fall.
+
+01:21:47.019 --> 01:21:49.420
+<v Tim Pritlove>Ja, I'm not a lawyer. Das ist interessant.
+
+01:21:51.062 --> 01:21:56.384
+<v Linus Neumann>Sie beziehen sich auf welche Gesetzlage? das Entsperren des Speichermediums
+
+01:21:56.384 --> 01:21:57.785
+<v Linus Neumann>ist ein notwendiges Zwischenziel.
+
+01:22:05.290 --> 01:22:12.593
+<v Tim Pritlove>Naja, also nachvollziehbarerweise ist das für die Polizei ein Zwischenziel, gar keine Frage.
+
+01:22:15.074 --> 01:22:20.356
+<v Tim Pritlove>Und ich meine, hättest du jetzt irgendwie dein Passwort irgendwo auf den Zettel
+
+01:22:20.356 --> 01:22:22.727
+<v Tim Pritlove>geschrieben, dann würden sie es ja auch verwenden wollen, würden.
+
+01:22:23.158 --> 01:22:26.639
+<v Tim Pritlove>So könnte man das ja quasi mal deuten.
+
+01:22:29.441 --> 01:22:33.903
+<v Tim Pritlove>Also das zeigt generell natürlich jetzt so ein bisschen natürlich auch das Risikofeld
+
+01:22:33.903 --> 01:22:37.004
+<v Tim Pritlove>auf was halt biometrische Erkennungsmerkmale machen.
+
+01:22:37.004 --> 01:22:45.128
+<v Tim Pritlove>Die sind alleine jetzt erstmal nicht unbedingt etwas was die Sachen sicherer
+
+01:22:45.128 --> 01:22:46.249
+<v Tim Pritlove>macht, sondern erstmal praktischer.
+
+01:22:51.011 --> 01:22:57.233
+<v Tim Pritlove>Dein Telefon mit dem Fingerabdruck zu entsperren oder mit dem Gesicht ist ja
+
+01:22:57.233 --> 01:23:01.235
+<v Tim Pritlove>eher eine Funktion, die dich dazu bringen soll überhaupt Passwörter zu benutzen.
+
+01:23:01.635 --> 01:23:06.457
+<v Tim Pritlove>Weil wenn du jetzt so einen langen 20 buchstabigen String da jedes mal eintippen
+
+01:23:06.457 --> 01:23:10.638
+<v Tim Pritlove>musst um mal kurz zu schauen ob du eine Nachricht bekommen hast,
+
+01:23:10.638 --> 01:23:15.740
+<v Tim Pritlove>das führt eben dazu, dass weniger Leute überhaupt so einen Schutz haben.
+
+01:23:15.740 --> 01:23:20.702
+<v Tim Pritlove>Also es ist ja immer mit Security so eine Frage, eine Abwägung auch mit Convenience
+
+01:23:20.702 --> 01:23:26.464
+<v Tim Pritlove>und je nach Gerät hast du ja auch nicht nur so eine biometrische Funktion.
+
+01:23:26.464 --> 01:23:31.206
+<v Tim Pritlove>Also ich wundere mich in solchen Fällen halt immer, wie ist es denen denn überhaupt
+
+01:23:31.206 --> 01:23:35.948
+<v Tim Pritlove>gelungen das Telefon in einem Zustand zu bekommen, wo ein Einloggen mit einem
+
+01:23:35.948 --> 01:23:37.969
+<v Tim Pritlove>Fingerabdruck überhaupt noch möglich ist.
+
+01:23:38.530 --> 01:23:39.630
+<v Linus Neumann>Wahrscheinlich ein Android.
+
+01:23:40.751 --> 01:23:46.195
+<v Tim Pritlove>Kann gut sein, aber so ein iPhone drückst du halt zweimal an die Seite und nach
+
+01:23:46.195 --> 01:23:48.277
+<v Tim Pritlove>einer bestimmten Zeit geht es dann halt auch nicht mehr.
+
+01:23:48.818 --> 01:23:52.400
+<v Linus Neumann>Das musst du allerdings auch wissen und ja genau diese ablaufende Zeit.
+
+01:23:52.400 --> 01:23:57.304
+<v Linus Neumann>Ich finde, also ich muss tatsächlich, du hast einen wichtigen Aspekt benannt
+
+01:23:57.304 --> 01:24:00.046
+<v Linus Neumann>und das kann ich hier auch verraten, glaube ich.
+
+01:24:00.487 --> 01:24:06.031
+<v Linus Neumann>Der der Starbuck, der ja dieses ganze Biometrie Research macht und der auch bei dem,
+
+01:24:08.368 --> 01:24:13.110
+<v Linus Neumann>Bei dem iPhone 4 war das ja glaube ich den Touch ID Sensor umgangen hat und so.
+
+01:24:13.970 --> 01:24:17.172
+<v Linus Neumann>Der nutzt diese Funktionalität aus genau dem Grund auch.
+
+01:24:17.892 --> 01:24:23.174
+<v Linus Neumann>Also er nutzt die biometrische Identifikation, weil er dadurch einen längeren
+
+01:24:23.174 --> 01:24:24.795
+<v Linus Neumann>Pincode auf seinem Telefon haben kann.
+
+01:24:24.795 --> 01:24:28.717
+<v Linus Neumann>Was ich aber gerne hätte wären Techniken und ich hoffe,
+
+01:24:28.717 --> 01:24:32.438
+<v Linus Neumann>dass die jetzt endlich in Reaktion auf dieses Urteil mal kommen, wo man sagt,
+
+01:24:32.438 --> 01:24:36.900
+<v Linus Neumann>okay pass auf, entweder du entsperrst dieses Telefon mit dem ganz langen Passwort,
+
+01:24:36.900 --> 01:24:43.062
+<v Linus Neumann>Oder ich kriege ein biometrisches Merkmal von dir und dann musst du nur vier
+
+01:24:43.062 --> 01:24:44.503
+<v Linus Neumann>Ziffern eingeben zum Beispiel.
+
+01:24:45.984 --> 01:24:49.785
+<v Linus Neumann>Und davon hast du dann drei Versuche, sonst geht es wieder zurück auf den langen
+
+01:24:49.785 --> 01:24:55.888
+<v Linus Neumann>Weg. Also das Biometrie, der Weg wird zu einem kürzeren, kürzeren Entwickler.
+
+01:24:55.888 --> 01:24:58.089
+<v Tim Pritlove>Also dass du so ein Second Fence hast sozusagen.
+
+01:24:58.089 --> 01:25:02.732
+<v Linus Neumann>Genau, also Biometrie als ein zweiter Faktor,
+
+01:25:02.732 --> 01:25:05.873
+<v Linus Neumann>der mir, der mir, ja als ein halber Faktor,
+
+01:25:05.873 --> 01:25:09.735
+<v Linus Neumann>der mir sagt, der sagt, okay, pass auf, du musst nicht den langen Code eingeben,
+
+01:25:09.735 --> 01:25:14.338
+<v Linus Neumann>sondern ich hab ja schon mal, die erste Hürde hast du genommen und dann würde
+
+01:25:14.338 --> 01:25:18.500
+<v Linus Neumann>ich gerne einstellen können, das gilt für, sagen wir mal, drei Stunden.
+
+01:25:18.500 --> 01:25:23.603
+<v Linus Neumann>Drei Stunden ist die Zeit, die ich der Polizei jetzt nicht zutrauen würde,
+
+01:25:23.603 --> 01:25:28.566
+<v Linus Neumann>meinen Fingerabdruck ordentlich zu klonen.
+
+01:25:36.590 --> 01:25:39.532
+<v Linus Neumann>Oder jetzt kommt natürlich noch ein viel erschwerenderes Problem hinzu,
+
+01:25:39.532 --> 01:25:42.753
+<v Linus Neumann>was nämlich hier noch gar nicht so richtig berücksichtigt ist.
+
+01:25:43.294 --> 01:25:47.996
+<v Linus Neumann>Die meisten Telefone heute, oder viele Telefone heute, zum Beispiel iPhones,
+
+01:25:47.996 --> 01:25:51.638
+<v Linus Neumann>haben ja gar keinen Fingerabdrucksensor mehr. Die haben Sichterkennung.
+
+01:25:54.640 --> 01:25:57.821
+<v Linus Neumann>Und da gibt es dieses wunderschöne Feature, die funktioniert nur,
+
+01:25:57.821 --> 01:26:01.903
+<v Linus Neumann>wenn du auch wirklich hinschaust. Das heißt man muss sich echt mal antrainieren,
+
+01:26:01.903 --> 01:26:05.365
+<v Linus Neumann>dass wenn einem jemand ein Telefon vor das Gesicht hält, dass man da nicht hinguckt.
+
+01:26:06.586 --> 01:26:10.368
+<v Linus Neumann>Was ich glaube sehr schwierig ist im Fall der Fälle.
+
+01:26:11.008 --> 01:26:15.871
+<v Linus Neumann>Also so ein Oh Telefon guck mal was ist das denn und du guckst da kurz hin und das Ding ist entsperrt.
+
+01:26:16.192 --> 01:26:25.017
+<v Linus Neumann>Das hat ein trainierter Polizist, wenn der das geübt hat und du das zum ersten
+
+01:26:25.017 --> 01:26:28.559
+<v Linus Neumann>Mal dich in so einer blöden Situation befindest, dann geht das glaube ich ganz Rucki zucki.
+
+01:26:30.705 --> 01:26:34.236
+<v Tim Pritlove>Das kann schon sein, ich meine da musst du natürlich dann auch einfach mal gucken
+
+01:26:34.236 --> 01:26:37.868
+<v Tim Pritlove>wie deine OPSEC so aussieht, also deine Operational Security.
+
+01:26:38.648 --> 01:26:45.672
+<v Tim Pritlove>Du hättest gerne einen zweiten Passcode genau, ist ein Weg, also kannst ja mal
+
+01:26:45.672 --> 01:26:50.114
+<v Tim Pritlove>zu Apple schreiben, dass du gerne noch so ein paar Dealer Options hättest.
+
+01:26:51.235 --> 01:26:53.055
+<v Tim Pritlove>Ich werd einfach zu oft hops genommen.
+
+01:26:53.055 --> 01:26:54.876
+<v Linus Neumann>Was heißt Dealer Options?
+
+01:26:57.538 --> 01:27:00.979
+<v Tim Pritlove>Ich wette, du hast Tops genommen. Baut mal was ein.
+
+01:27:05.882 --> 01:27:08.983
+<v Linus Neumann>Vielleicht müssten die Polizisten auch so ein Sender tragen,
+
+01:27:08.983 --> 01:27:11.224
+<v Linus Neumann>dass das iPhone dann merkt, oh Lockdown.
+
+01:27:13.405 --> 01:27:19.289
+<v Linus Neumann>So was. Aber es ist, also wir haben jetzt viel darüber nachgelächelt,
+
+01:27:19.289 --> 01:27:22.370
+<v Linus Neumann>wie, darf Polizei an unser Gerät oder nicht.
+
+01:27:23.211 --> 01:27:27.293
+<v Linus Neumann>Wir dürfen nicht vergessen, was hier stattfindet, ist ja die Verletzung eines Grundrechts.
+
+01:27:28.694 --> 01:27:32.656
+<v Linus Neumann>Nämlich das Grundrecht auf die Vertraulichkeit und Integrität informationstechnischer Systeme.
+
+01:27:32.656 --> 01:27:39.735
+<v Linus Neumann>Das heißt, hier hat die Polizei das Mittel der erkennungsdienstlichen Behandlung missbraucht,
+
+01:27:39.735 --> 01:27:47.704
+<v Linus Neumann>um die Grundrechte dieses beschuldigten Menschen zu verletzen, und zwar erheblich.
+
+01:27:49.026 --> 01:27:55.933
+<v Linus Neumann>Und das finde ich, also allein da denke ich, dass wir nicht sagen,
+
+01:27:55.933 --> 01:28:00.557
+<v Linus Neumann>dass dieses Landgericht Ravensburg nicht zum Ergebnis kommen kann,
+
+01:28:00.557 --> 01:28:02.759
+<v Linus Neumann>dass ein derartiger krasser Grundrechtseinschnitt über Umwege,
+
+01:28:08.654 --> 01:28:12.156
+<v Linus Neumann>In dem Maße irgendwie von der aktuellen Rechtsprechung, sagen wir mal,
+
+01:28:12.156 --> 01:28:18.819
+<v Linus Neumann>im Interesse oder in der Absicht der Gesetzgeberin läge. Das kann ich mir einfach
+
+01:28:18.819 --> 01:28:21.460
+<v Linus Neumann>nicht vorstellen. Das ist, finde ich, eine Frechheit.
+
+01:28:22.941 --> 01:28:26.703
+<v Tim Pritlove>Ja, ich bin gespannt, ob das nochmal höher getragen wird auf der Gerichtsbarkeit,
+
+01:28:26.703 --> 01:28:30.886
+<v Tim Pritlove>weil das ist sicherlich etwas, was schon mal auf höchster Ebene entschieden werden sollte.
+
+01:28:31.606 --> 01:28:34.488
+<v Linus Neumann>Das sollte sicherlich auf höchster Ebene entschieden werden und dann wissen
+
+01:28:34.488 --> 01:28:39.010
+<v Linus Neumann>wir auch, was egal wie die Entscheidung ist oder wenn die Entscheidung dem entgegen
+
+01:28:39.010 --> 01:28:44.653
+<v Linus Neumann>steht, dann wissen wir schon, was aus dem Innenministerium als nächstes kommt.
+
+01:28:49.656 --> 01:28:50.976
+<v Linus Neumann>Kommen wir zu den Kurzmeldungen.
+
+01:28:54.139 --> 01:28:59.792
+<v Linus Neumann>Radio 3 Land wehrt sich. Ich weiß gar nicht, ob ich, ich glaube das hatten wir hier schon erwähnt,
+
+01:28:59.792 --> 01:29:05.605
+<v Linus Neumann>dass die sich gegen diese völlig beknackte Razzia,
+
+01:29:05.605 --> 01:29:10.538
+<v Linus Neumann>die da bei Ihnen im Hause stattgefunden hat, Hausdurchsuchungen in den Redaktionsräumen
+
+01:29:10.538 --> 01:29:17.632
+<v Linus Neumann>wegen eines Links, dass die sich das nicht gefallen lassen und da mit der Hilfe
+
+01:29:17.632 --> 01:29:20.033
+<v Linus Neumann>der Gesellschaft für Freiheitsrechte auch gegen vorgehen.
+
+01:29:22.495 --> 01:29:26.718
+<v Linus Neumann>Völliger, also haben wir jetzt öfter gesagt, da gibt es jetzt den Auftakt, gehen sie gegen vor.
+
+01:29:28.179 --> 01:29:37.525
+<v Linus Neumann>Und setzen sich zur Wehr. Und dann gibt es noch eine, ja, im weitesten Sinne
+
+01:29:37.525 --> 01:29:40.566
+<v Linus Neumann>eine relativ wichtige angekündigte Gesetzesänderung.
+
+01:29:44.369 --> 01:29:47.431
+<v Linus Neumann>Und zwar haben wir hier das, normalerweise würden wir das hier vielleicht gar
+
+01:29:47.431 --> 01:29:51.514
+<v Linus Neumann>nicht behandeln, aber weil es im Rahmen der Diskussion um die Chatkontrolle
+
+01:29:51.514 --> 01:29:53.955
+<v Linus Neumann>öfter mal Thema war, Untertitel von Stephanie Geiges.
+
+01:29:56.990 --> 01:30:03.573
+<v Linus Neumann>Es gab eine Veränderung von der Großen Koalition am § 184b des Strafgesetzbuches.
+
+01:30:04.554 --> 01:30:09.156
+<v Linus Neumann>Und da haben sie gesagt, sie möchten auch die mittelbare Förderung des sexuellen
+
+01:30:09.156 --> 01:30:13.178
+<v Linus Neumann>Missbrauchs von Kindern und Jugendlichen durch die Entsprechung von Darstellungen
+
+01:30:13.178 --> 01:30:13.778
+<v Linus Neumann>schärfer sanktionieren.
+
+01:30:16.300 --> 01:30:23.683
+<v Linus Neumann>Und haben gesagt, wir entfernen hier quasi die Möglichkeit, etwas mal durchgehen
+
+01:30:23.683 --> 01:30:28.886
+<v Linus Neumann>zu lassen und sagen, wir machen das ist ein Verbrechen mit Mindestfreiheitsstrafe von einem Jahr.
+
+01:30:28.886 --> 01:30:35.129
+<v Linus Neumann>Und damit ist es so, dass die Ermittler nicht mehr sagen können,
+
+01:30:35.129 --> 01:30:36.970
+<v Linus Neumann>wir bringen das nicht vor Gericht.
+
+01:30:36.970 --> 01:30:43.663
+<v Linus Neumann>Also es gibt quasi Fälle, wenn die keine so hohe Strafe haben,
+
+01:30:43.663 --> 01:30:51.277
+<v Linus Neumann>dann überlässt man den Ermittlern einen bestimmten Spielraum zu sagen,
+
+01:30:51.277 --> 01:30:53.598
+<v Linus Neumann>naja okay, das wollen wir jetzt hier zu Ende durchverfolgen oder nicht.
+
+01:30:53.598 --> 01:30:57.439
+<v Linus Neumann>Wenn die Mindeststrafe aber ein Jahr ist, können die Ermittler nicht mehr sagen,
+
+01:30:57.439 --> 01:31:00.961
+<v Linus Neumann>oh ich habe hier einen Anfangsverdacht, ich ermittle jetzt nicht mehr oder oh
+
+01:31:00.961 --> 01:31:04.403
+<v Linus Neumann>ich habe einen Anfangsverdacht, ich bringe das jetzt nicht mehr vor Gericht.
+
+01:31:05.863 --> 01:31:10.565
+<v Linus Neumann>Das hatte zur Konsequenz, das ist der Fall, den Khaleesi öfter mal angesprochen
+
+01:31:10.565 --> 01:31:17.078
+<v Linus Neumann>hat, ich auch, dass sehr viele Jugendliche auf einmal unter diesen Strafverdacht
+
+01:31:17.078 --> 01:31:20.070
+<v Linus Neumann>gefallen sind und entsprechend auch verfolgt wurden.
+
+01:31:21.314 --> 01:31:22.175
+<v Linus Neumann>Weil die Jugendlichen.
+
+01:31:27.802 --> 01:31:32.204
+<v Linus Neumann>Darstellungen von Jugendlichen verbreitet haben. Das heißt der größere Teil
+
+01:31:32.204 --> 01:31:36.146
+<v Linus Neumann>der Ermittlungen wegen Verbreitung von Pornografie von Kindern und Jugendlichen
+
+01:31:36.146 --> 01:31:37.847
+<v Linus Neumann>richtete sich gegen Kinder und Jugendliche.
+
+01:31:45.633 --> 01:31:49.474
+<v Linus Neumann>Diesem Missstand wollen die Justizministerinnen und der Justizminister offenbar entgegentreten.
+
+01:31:50.875 --> 01:31:56.578
+<v Linus Neumann>Ja, das heißt, sie haben sich schon darauf geeinigt, dass sie diesen Paragraf
+
+01:31:56.578 --> 01:32:00.420
+<v Linus Neumann>184 B StGB korrigieren wollen,
+
+01:32:01.300 --> 01:32:11.465
+<v Linus Neumann>um die sogenannten Schulhoffälle nicht mehr als Verbrechen verfolgen zu lassen.
+
+01:32:14.247 --> 01:32:15.367
+<v Linus Neumann>Viel Spaß dabei.
+
+01:32:19.830 --> 01:32:26.733
+<v Linus Neumann>Ist jetzt netzpolitisch erstmal nur ein peripheres Thema, aber weil wir diesen
+
+01:32:26.733 --> 01:32:30.855
+<v Linus Neumann>Sachverhalt öfter hier angesprochen haben, wollte ich das der Vollständigkeit
+
+01:32:30.855 --> 01:32:32.816
+<v Linus Neumann>halber mal erwähnt haben.
+
+01:32:32.816 --> 01:32:39.999
+<v Tim Pritlove>Alright. Haben wir damit alles erwähnt?
+
+01:32:42.301 --> 01:32:43.161
+<v Linus Neumann>Ja 1,67 Euro.
+
+01:32:45.302 --> 01:32:50.744
+<v Linus Neumann>Ich hab mal geguckt übrigens Tim, diese, ist es denn jetzt ein Baumwollsack?
+
+01:32:56.528 --> 01:33:00.350
+<v Tim Pritlove>Nur wenn er mehr als 36 Zentimeter Umfang hat.
+
+01:33:03.912 --> 01:33:05.172
+<v Linus Neumann>Haben die wahrscheinlich oder?
+
+01:33:06.093 --> 01:33:08.214
+<v Tim Pritlove>Also du meinst jetzt keinen Beutel oder was?
+
+01:33:13.377 --> 01:33:18.669
+<v Tim Pritlove>Also ein Beutel ist ein flexibles, check, vollflächiges, check,
+
+01:33:18.669 --> 01:33:23.181
+<v Tim Pritlove>raumbildendes, check, Packmittel bis 2700 Quadratzentimeter Zuschnitt.
+
+01:33:30.307 --> 01:33:32.087
+<v Tim Pritlove>Also das sind nicht mehr als 2700 Quadratzentimeter.
+
+01:33:34.769 --> 01:33:35.809
+<v Linus Neumann>Es ist ein Baumwollbeutel.
+
+01:33:35.809 --> 01:33:44.230
+<v Tim Pritlove>Ja, so. Sack ist flexibel, vollflächig, beim Befüllen raumbildend,
+
+01:33:44.230 --> 01:33:47.116
+<v Tim Pritlove>mindestens 36 cm Umfang.
+
+01:33:48.508 --> 01:33:50.639
+<v Tim Pritlove>Wobei 36 cm Umfang ist jetzt auch nicht so viel.
+
+01:33:52.173 --> 01:33:54.314
+<v Tim Pritlove>Ist ja nichts. Umfang. Das ist ja schon.
+
+01:33:54.314 --> 01:33:55.235
+<v Linus Neumann>Ich würde vorschlagen.
+
+01:33:55.235 --> 01:33:58.316
+<v Tim Pritlove>Es ist sowohl. Es ist ein Sackbeutel oder ein Beutelsack.
+
+01:34:01.538 --> 01:34:06.121
+<v Linus Neumann>Ich würde vorschlagen bestellt doch einfach mal einen und sagt uns dann was das ist.
+
+01:34:06.982 --> 01:34:10.904
+<v Tim Pritlove>Genau wir müssen das unbedingt rauskriegen damit wir das korrekt dran schreiben können.
+
+01:34:11.884 --> 01:34:19.108
+<v Linus Neumann>Hat es aber recht haben ein paar Leute bestellt. Bei Wipen nicht so viele wie es angemessen wäre.
+
+01:34:19.489 --> 01:34:24.091
+<v Linus Neumann>Bei Wipen nicht so viele wie es angemessen wäre und denkt dran ihr müsst den
+
+01:34:24.091 --> 01:34:27.343
+<v Linus Neumann>ja auch befüllen um dann den Umfang zu messen.
+
+01:34:27.573 --> 01:34:30.995
+<v Linus Neumann>Kann man ja nicht beim Lernen, doch kann man auch.
+
+01:34:30.995 --> 01:34:33.916
+<v Tim Pritlove>Da könnt ihr doch ein paar T-Shirts dazu kaufen, die könnt ihr da reinstopfen.
+
+01:34:34.777 --> 01:34:39.979
+<v Tim Pritlove>Das ist so richtig schön, dass es sich richtig beim Befüllen raumbildend verhält das Packmittel.
+
+01:34:40.760 --> 01:34:43.761
+<v Tim Pritlove>Vielleicht sollte man draufschreiben, raumbildendes Packmittel.
+
+01:34:43.761 --> 01:34:49.544
+<v Linus Neumann>Raumbildendes Packmittel.
+
+01:34:49.544 --> 01:34:52.605
+<v Tim Pritlove>Ja dann kannst du es Sack nennen, dann kannst du auch Jut sagen,
+
+01:34:52.605 --> 01:34:54.086
+<v Tim Pritlove>ist egal. Ja es ist ein raumbildendes.
+
+01:34:55.207 --> 01:34:56.947
+<v Linus Neumann>Flexibles, vollflächiges, raumbildendes Packmittel.
+
+01:34:56.947 --> 01:34:57.628
+<v Tim Pritlove>Ja genau.
+
+01:34:59.649 --> 01:35:00.709
+<v Tim Pritlove>Das ist definitiv.
+
+01:35:00.709 --> 01:35:01.209
+<v Linus Neumann>Ändernbar.
+
+01:35:01.209 --> 01:35:09.094
+<v Tim Pritlove>Aus Baumwolle. Exactly.
+
+01:35:09.094 --> 01:35:11.376
+<v Linus Neumann>Wir klammern im Volksmund Juteboy.
+
+01:35:17.122 --> 01:35:19.614
+<v Linus Neumann>Können wir da nochmal schnell umbenennen?
+
+01:35:19.614 --> 01:35:19.924
+<v Tim Pritlove>Klar.
+
+01:35:19.924 --> 01:35:21.886
+<v Linus Neumann>Ja dann machen wir das nochmal.
+
+01:35:21.886 --> 01:35:27.812
+<v Tim Pritlove>Ich bin schon unterwegs. Okay. Bis dahin entlassen wir euch den Rest der Woche
+
+01:35:27.812 --> 01:35:29.875
+<v Tim Pritlove>und sagen tschüss, bis bald.
+
+01:35:29.875 --> 01:35:30.635
+<v Linus Neumann>Ciao ciao.

@@ -1,0 +1,2891 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP469 Internet zum Abgewöhnen
+Publishing Date: 2023-09-15T00:17:35+02:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp469-internet-zum-abgewoehnen
+
+00:00:00.015 --> 00:00:01.336
+<v Tim Pritlove>Guten Morgen Linus.
+
+00:00:02.817 --> 00:00:03.557
+<v Linus Neumann>Guten Morgen Tim.
+
+00:00:04.218 --> 00:00:07.719
+<v Tim Pritlove>Sag mal, wo gehst du eigentlich hin, um deine Privatsphäre ausleben zu können?
+
+00:00:09.480 --> 00:00:15.002
+<v Linus Neumann>Also so richtig sicher, ne? Und so richtig privat fühle ich mich eigentlich nur im Sammeln.
+
+00:00:37.373 --> 00:00:41.895
+<v Tim Pritlove>Logbuch Netzpolitik Nummer 469 vom 14. September 2023.
+
+00:00:43.435 --> 00:00:46.638
+<v Tim Pritlove>Direkt aus dem Spielplatz der Möglichkeiten.
+
+00:00:50.842 --> 00:00:54.744
+<v Tim Pritlove>Hier leben wir unsere Freiheit aus und da können wir machen,
+
+00:00:54.744 --> 00:00:57.486
+<v Tim Pritlove>was wir wollen. Der Podcast ist sozusagen unsere Kapsel.
+
+00:01:00.369 --> 00:01:01.109
+<v Linus Neumann>Spielplatz der Möglichkeiten.
+
+00:01:01.449 --> 00:01:03.031
+<v Tim Pritlove>Vollständig unbeobachtet auch.
+
+00:01:06.314 --> 00:01:09.315
+<v Linus Neumann>Aber da ist auf jeden Fall der Sandkasten der sicherste Ort, oder?
+
+00:01:11.237 --> 00:01:13.138
+<v Tim Pritlove>Du meinst generell oder innerhalb des Podcasts?
+
+00:01:13.449 --> 00:01:14.919
+<v Linus Neumann>Auf dem Spielplatz der Möglichkeiten.
+
+00:01:15.320 --> 00:01:17.481
+<v Tim Pritlove>Ja, das auf jeden Fall.
+
+00:01:17.481 --> 00:01:18.622
+<v Linus Neumann>Also Finger weg vom Klettergerüst.
+
+00:01:20.484 --> 00:01:22.505
+<v Tim Pritlove>Da passieren richtig schlimme Sachen.
+
+00:01:23.506 --> 00:01:30.251
+<v Linus Neumann>Oder wenn man auf der Wippe balanciert und abrutscht und so,
+
+00:01:30.251 --> 00:01:32.082
+<v Linus Neumann>das sind alles ganz gefährliche Möglichkeiten.
+
+00:01:32.353 --> 00:01:35.695
+<v Tim Pritlove>Es sei denn, man hat einen Sandkasten da drunter, dann ist es nicht so schlimm.
+
+00:01:36.656 --> 00:01:38.897
+<v Linus Neumann>Kommt drauf an wie weit da drunter der ist.
+
+00:01:39.278 --> 00:01:42.600
+<v Tim Pritlove>Stimmt schon. Oder wie stark wieder gewippt wurde.
+
+00:01:45.302 --> 00:01:50.905
+<v Linus Neumann>Ist halt besser wenn der relativ, wenn der kommt, sag ich mal bevor deine Beine zu Ende sind.
+
+00:01:55.869 --> 00:02:01.293
+<v Tim Pritlove>Jaja, über Sandkasten werden wir heute noch reden, aber wir wollen in unserer
+
+00:02:01.293 --> 00:02:05.515
+<v Tim Pritlove>super kompakten Sendung heute anfangen mit, Feedback! Ja.
+
+00:02:10.148 --> 00:02:11.489
+<v Linus Neumann>Machst du den Ersten?
+
+00:02:11.489 --> 00:02:13.291
+<v Tim Pritlove>Ja, mach ich.
+
+00:02:16.233 --> 00:02:21.717
+<v Tim Pritlove>Jörn schreibt uns zum Thema Digital Services Act und Störerhaftung,
+
+00:02:21.717 --> 00:02:28.682
+<v Tim Pritlove>auf die wir eingegangen sind in der letzten Sendung, zum DSA und der vermeintlichen
+
+00:02:28.682 --> 00:02:31.304
+<v Tim Pritlove>Regelungslücke der Störerhaftung für WLAN.
+
+00:02:32.606 --> 00:02:38.169
+<v Tim Pritlove>Das ist in der Verordnung ziemlich eindeutig geregelt. Artikel 4 DSA reine Durchleitung.
+
+00:02:39.611 --> 00:02:43.734
+<v Tim Pritlove>Bei der Durchführung eines Dienstes der Informationsgesellschaft, der darin besteht,
+
+00:02:43.734 --> 00:02:49.457
+<v Tim Pritlove>von einem Nutzer bereitgestellte Informationen in einem Kommunikationsnetz zu
+
+00:02:49.457 --> 00:02:53.260
+<v Tim Pritlove>übermitteln oder Zugang zu einem Kommunikationsnetz zu vermitteln,
+
+00:02:53.260 --> 00:03:00.145
+<v Tim Pritlove>haftet der Diensteanbieter nicht für die übermittelten oder abgerufenen Informationen, sofern er a.
+
+00:03:00.665 --> 00:03:05.469
+<v Tim Pritlove>Die Übermittlung nicht veranlasst, b. den Adressaten der übermittelnden Informationen
+
+00:03:05.469 --> 00:03:11.533
+<v Tim Pritlove>nicht auswählt und c, die übermittelten Informationen nicht auswählt oder verändert.
+
+00:03:12.394 --> 00:03:15.596
+<v Tim Pritlove>Damit existiert ein grundsätzlicher Haftungsausschluss für Dienste,
+
+00:03:15.596 --> 00:03:21.621
+<v Tim Pritlove>die nur Daten durchleiten und hierzu wird in der Wägungsgrund 28 explizit aufgeführt,
+
+00:03:21.621 --> 00:03:26.604
+<v Tim Pritlove>zu solchen Diensten gehören unter anderem lokale Funknetze, in Klammern WLAN,
+
+00:03:26.604 --> 00:03:28.946
+<v Tim Pritlove>DNS-Dienste, Punkt, Punkt, Punkt.
+
+00:03:29.447 --> 00:03:32.609
+<v Tim Pritlove>Wie Tim sagt, gilt die Verordnung unmittelbar. Die Verwirrung dürfte da eher
+
+00:03:32.609 --> 00:03:36.051
+<v Tim Pritlove>dadurch kommen, dass man in Deutschland dann immer wieder Ergänzungsgesetze
+
+00:03:36.051 --> 00:03:39.794
+<v Tim Pritlove>schreiben will für Dinge, die man teilweise gar nicht mehr regeln kann.
+
+00:03:42.596 --> 00:03:48.140
+<v Linus Neumann>Okay, ja, interessanter Hinweis. Also der Kommentar bezieht sich ja darauf,
+
+00:03:48.140 --> 00:03:52.302
+<v Linus Neumann>dass wir in der letzten Sendung der Nachricht geglaubt haben,
+
+00:03:52.302 --> 00:03:57.606
+<v Linus Neumann>dass die Störerhaftung nicht mehr drin steht in der Gesetzesnovelle,
+
+00:03:57.606 --> 00:04:00.808
+<v Linus Neumann>die durch den DSA veranlasst wird.
+
+00:04:01.569 --> 00:04:06.092
+<v Linus Neumann>Und hier das findet jetzt im Prinzip, sagt Jörn, das ist richtig so,
+
+00:04:06.092 --> 00:04:08.714
+<v Linus Neumann>weil man den Satz nicht mehr braucht. Das ist ja das Argument, was...
+
+00:04:08.714 --> 00:04:11.336
+<v Tim Pritlove>Ja, okay. Also die einzige Frage, die mir jetzt in dem Moment kommt,
+
+00:04:11.336 --> 00:04:16.359
+<v Tim Pritlove>ist, hier ist von der Durchführung eines Dienstes der Informationsgesellschaft
+
+00:04:16.359 --> 00:04:19.301
+<v Tim Pritlove>die Rede. So hat er es zumindest hier geschrieben. Finde den Begriff jetzt an
+
+00:04:19.301 --> 00:04:20.262
+<v Tim Pritlove>der Stelle ein bisschen merkwürdig.
+
+00:04:21.183 --> 00:04:23.724
+<v Tim Pritlove>Wenn ich jetzt ein Restaurant habe, bin ich dann eine Informationsgesellschaft?
+
+00:04:25.556 --> 00:04:28.228
+<v Linus Neumann>Wo hast du denn Dienst der Informationsgesellschaft gelesen?
+
+00:04:28.328 --> 00:04:32.131
+<v Tim Pritlove>Ja ganz am Anfang, bei der Durchführung eines Dienstes der Informationsgesellschaft,
+
+00:04:32.131 --> 00:04:32.972
+<v Tim Pritlove>der darin beschäftigt wird.
+
+00:04:32.972 --> 00:04:36.195
+<v Linus Neumann>Er hat es ja spezifisch gesagt, Ermittlungen nicht veranlasst,
+
+00:04:36.195 --> 00:04:40.358
+<v Linus Neumann>Adressaten nicht auswählt und Informationen nicht auswählt und verändert,
+
+00:04:40.358 --> 00:04:43.010
+<v Linus Neumann>damit existiert und dann sagen sie...
+
+00:04:43.010 --> 00:04:44.722
+<v Tim Pritlove>Achso, das bezieht sich auf den Diensteanbieter.
+
+00:04:44.722 --> 00:04:48.104
+<v Linus Neumann>Lokale Funknetze, WLAN, DNS-Dienste und so weiter.
+
+00:04:48.104 --> 00:04:50.687
+<v Tim Pritlove>Ja genau, weil wenn ich jetzt ein Restaurant bin und ich biete halt ein WLAN
+
+00:04:50.687 --> 00:04:54.249
+<v Tim Pritlove>an, das ist ja so der Klassiker. Bin ich dann der Diensteanbieter?
+
+00:04:57.026 --> 00:04:57.826
+<v Tim Pritlove>Diensteanbieter ist die Formulierung.
+
+00:04:57.826 --> 00:04:58.927
+<v Linus Neumann>Ja, du bietest ja einen Dienst an.
+
+00:04:59.448 --> 00:05:02.389
+<v Tim Pritlove>Ja gut, das weiß ich ja nicht, das ist ja juristisch deutsch, deutsch-juristisch.
+
+00:05:02.791 --> 00:05:05.573
+<v Linus Neumann>Du würdest ja eigentlich sagen, das ist eine basale Infrastruktur,
+
+00:05:05.573 --> 00:05:09.316
+<v Linus Neumann>die steht mir einfach zu, dass ich Internet in diesem Restaurant habe,
+
+00:05:09.316 --> 00:05:13.389
+<v Linus Neumann>genauso wie ich auf die Toilette gehen kann und sich die Leute in der Küche
+
+00:05:13.389 --> 00:05:14.360
+<v Linus Neumann>die Hände waschen müssen.
+
+00:05:14.360 --> 00:05:17.042
+<v Tim Pritlove>Du meinst, wenn ich den Leuten Suppe verkaufe, bin ich auch ein Diensteanbieter?
+
+00:05:19.664 --> 00:05:20.585
+<v Linus Neumann>Suppe as a service.
+
+00:05:23.067 --> 00:05:27.586
+<v Tim Pritlove>Okay gut, naja ich bewerte das mal nicht, das war der Kommentar von Jörn,
+
+00:05:27.586 --> 00:05:30.432
+<v Tim Pritlove>wahrscheinlich kriegen wir noch andere Kommentare dazu.
+
+00:05:32.874 --> 00:05:34.615
+<v Linus Neumann>Also mich hat der jetzt erstmal überzeugt.
+
+00:05:35.956 --> 00:05:38.037
+<v Tim Pritlove>Okay, dann ist ja eigentlich alles gesagt.
+
+00:05:38.838 --> 00:05:43.041
+<v Linus Neumann>Na er sagt ja spezifisch, dass WLAN und DNS dazugehört, in Erwägungsgrund 28
+
+00:05:43.131 --> 00:05:44.722
+<v Linus Neumann>wird es explizit benannt.
+
+00:05:45.563 --> 00:05:48.905
+<v Tim Pritlove>Ja WLAN ist benannt, die Frage ist für wen gilt das?
+
+00:05:50.386 --> 00:05:56.691
+<v Linus Neumann>Also, könnte natürlich sein, dass das aus dem... Aber guck mal, also, noch mal.
+
+00:05:56.691 --> 00:06:01.194
+<v Linus Neumann>Reine Durchleitung. Bei der Durchführung eines Dienstes der Informationsgesellschaft,
+
+00:06:01.194 --> 00:06:02.215
+<v Linus Neumann>jetzt fragst du, was ist das?
+
+00:06:02.215 --> 00:06:06.743
+<v Linus Neumann>Der Satz geht aber noch weiter. Der darin besteht, von einem Nutzer bereitgestellte
+
+00:06:06.743 --> 00:06:11.762
+<v Linus Neumann>Information in einem Kommunikationsnetz zu übermitteln oder Zugang zu einem
+
+00:06:11.762 --> 00:06:16.325
+<v Linus Neumann>Kommunikationsnetz zu vermitteln, haftet der Dienstanbieter nicht
+
+00:06:16.326 --> 00:06:21.409
+<v Linus Neumann>für die übermittelten oder abgerufenen Informationen, Aber die Frage ist,
+
+00:06:21.409 --> 00:06:24.191
+<v Linus Neumann>wie ist Diensteanbieter definiert in diesem Zusammenhang?
+
+00:06:24.871 --> 00:06:27.573
+<v Tim Pritlove>Gilt das auch für ein Restaurant? Das ist ja sozusagen die Frage.
+
+00:06:27.573 --> 00:06:30.134
+<v Linus Neumann>Also als allererstes wird doch erstmal der Dienst beschrieben.
+
+00:06:30.955 --> 00:06:34.437
+<v Tim Pritlove>Ja und der Diensteanbieter ist derjenige, der haftet oder nicht haftet.
+
+00:06:34.437 --> 00:06:35.818
+<v Tim Pritlove>Und das ist ja die große Frage.
+
+00:06:36.139 --> 00:06:39.681
+<v Tim Pritlove>Bin ich jetzt sozusagen von der Haftung frei? Das bin ich nach diesem Text ja
+
+00:06:39.681 --> 00:06:41.902
+<v Tim Pritlove>nur, wenn ich als Diensteanbieter gelte.
+
+00:06:43.663 --> 00:06:46.545
+<v Tim Pritlove>Und die Frage ist, wenn ich ein Restaurant bin, bin ich das dann auch?
+
+00:06:46.566 --> 00:06:50.769
+<v Linus Neumann>Also deine Frage ist jetzt, gilt das, wenn ich ein Restaurant habe und ich habe
+
+00:06:50.769 --> 00:06:54.662
+<v Linus Neumann>Internet von Deutsche Telekom, ist dann die Deutsche Telekom der Diensteanbieter
+
+00:06:54.662 --> 00:07:00.677
+<v Linus Neumann>oder ich als Restaurant, weil ich das WLAN Passwort rausgemacht habe? Ja.
+
+00:07:06.571 --> 00:07:08.692
+<v Tim Pritlove>Lass mir das offen bis zum nächsten Kommentar.
+
+00:07:16.518 --> 00:07:21.201
+<v Linus Neumann>Kleinere Korrektur aber relevante Korrektur von André, wir haben uns bei der
+
+00:07:21.201 --> 00:07:25.424
+<v Linus Neumann>Diskussion von Apple Scanning Plänen im Jahr vertan,
+
+00:07:25.424 --> 00:07:27.965
+<v Linus Neumann>wir haben gesagt das hätten die vor einem Jahr angekündigt, das stimmt aber
+
+00:07:27.965 --> 00:07:31.948
+<v Linus Neumann>nicht, das haben sie vor zwei Jahren angekündigt, dann gab es Gegenstimmen,
+
+00:07:31.948 --> 00:07:35.790
+<v Linus Neumann>Tim und ich haben das ja auch diskutiert, es wird euch nicht überraschen,
+
+00:07:35.790 --> 00:07:38.251
+<v Linus Neumann>Tim fand es super, was er für sich da ausgedacht hat.
+
+00:07:38.251 --> 00:07:43.012
+<v Tim Pritlove>Das habe ich nicht gesagt. Wieso drehst du mir die ganze Zeit meine Worte im
+
+00:07:43.012 --> 00:07:44.933
+<v Tim Pritlove>Mund herum, es ist nichts, es ist richtig.
+
+00:07:46.254 --> 00:07:47.094
+<v Linus Neumann>Okay, was denn?
+
+00:07:48.755 --> 00:07:53.816
+<v Tim Pritlove>Ich habe lediglich versucht zu beschreiben, was meiner Meinung nach ihre Motivation
+
+00:07:53.816 --> 00:07:57.518
+<v Tim Pritlove>ist und warum sie das vorgeschlagen haben, das war alles, was ich getan habe.
+
+00:07:58.778 --> 00:08:04.370
+<v Linus Neumann>Okay, dann war es angekündigt für iOS 15 und vor einem Jahr,
+
+00:08:04.370 --> 00:08:10.082
+<v Linus Neumann>als dann iOS 15 kam, war es da nicht drin.
+
+00:08:10.082 --> 00:08:14.124
+<v Linus Neumann>Also sie hatten gesagt, ja, okay, wir überlegen nochmal und dann kam iOS 15, war es nicht drin.
+
+00:08:14.124 --> 00:08:21.106
+<v Linus Neumann>Und damit ist jetzt seit einem Jahr klar, dass sie es nicht machen und das Neue
+
+00:08:21.106 --> 00:08:26.008
+<v Linus Neumann>ist jetzt nur, dass sie es auch noch mal beschrieben haben, ja,
+
+00:08:26.008 --> 00:08:27.789
+<v Linus Neumann>und dass da auch nicht mehr mehr kommen wird.
+
+00:08:28.409 --> 00:08:30.711
+<v Tim Pritlove>Genau, dass sie die Pläne nicht verfolgen, weil es ist ja erstmal,
+
+00:08:30.711 --> 00:08:33.753
+<v Tim Pritlove>erstmal war es nur Postpon. Sie haben halt gesagt, okay, wir gehen dann nochmal
+
+00:08:33.753 --> 00:08:36.015
+<v Tim Pritlove>in die Diskussion. Das haben sie ja auch gemacht.
+
+00:08:37.476 --> 00:08:42.179
+<v Tim Pritlove>Und am Ende dieser Diskussion stand jetzt eben der in der letzten Sendung veröffentlichte
+
+00:08:42.179 --> 00:08:45.321
+<v Tim Pritlove>Text, dass sie halt sagen, machen wir jetzt auch nicht.
+
+00:08:45.321 --> 00:08:49.224
+<v Tim Pritlove>Wir machen nach wie vor diese Klein-Site-Scanning-Geschichten als Warnung,
+
+00:08:49.224 --> 00:08:53.807
+<v Tim Pritlove>wenn man selber was postet und so weiter oder auch empfängt,
+
+00:08:53.807 --> 00:08:55.949
+<v Tim Pritlove>dann greifen diese Mechanismen.
+
+00:08:55.949 --> 00:09:00.591
+<v Tim Pritlove>Ist man aber eben nicht mehr diese Automatik, die in der Diskussion war,
+
+00:09:00.591 --> 00:09:05.102
+<v Tim Pritlove>dass halt diese ganzen CSAM-Dateien über diesen speziellen Hashing-Algorithmus
+
+00:09:05.102 --> 00:09:07.533
+<v Tim Pritlove>erkannt und gemeldet werden.
+
+00:09:07.533 --> 00:09:11.995
+<v Tim Pritlove>So, das ist nicht drin, kommt auch nicht und Sie sind jetzt eigentlich voll
+
+00:09:11.995 --> 00:09:14.996
+<v Tim Pritlove>in diesem Modus mit, lasst euch was besseres einfallen.
+
+00:09:15.416 --> 00:09:17.837
+<v Tim Pritlove>Hier, Client-Side-Scanning geht nicht.
+
+00:09:19.905 --> 00:09:22.926
+<v Linus Neumann>Beziehungsweise nicht in dem Ausmaß, wie sie es ursprünglich geplant haben.
+
+00:09:23.127 --> 00:09:27.450
+<v Linus Neumann>So dann, zum Selbstbestimmungsgesetz möchtest du noch einen Kommentar vorlesen.
+
+00:09:27.450 --> 00:09:32.474
+<v Tim Pritlove>Genau, Alex schreibt, hallo, ich möchte mal meine persönliche Situation zum
+
+00:09:32.474 --> 00:09:34.496
+<v Tim Pritlove>Selbstbestimmungsgesetz schildern.
+
+00:09:34.936 --> 00:09:37.278
+<v Tim Pritlove>Ja, ich weiß, dass ich eine Folge zu spät bin.
+
+00:09:37.758 --> 00:09:42.182
+<v Tim Pritlove>Ich stehe momentan vor der Wahl, entweder ich lasse meinen Namen über das TSG
+
+00:09:42.182 --> 00:09:44.704
+<v Tim Pritlove>ändern, was heißt nochmal TSG?
+
+00:09:45.745 --> 00:09:49.507
+<v Tim Pritlove>Sexuellen gesetzt das alte Gesetz für Selbstbestimmung
+
+00:09:49.507 --> 00:09:52.790
+<v Tim Pritlove>das jetzt auch übrigens seinen Namen verlieren soll
+
+00:09:52.790 --> 00:09:55.492
+<v Tim Pritlove>ich glaube das Sicherlich auch eine der Gründe warum
+
+00:09:55.492 --> 00:10:01.776
+<v Tim Pritlove>sie abgekürzt wird Also entweder ich lasse meinen Namen über das TSG ändern
+
+00:10:01.776 --> 00:10:06.780
+<v Tim Pritlove>und bezahle ein paar tausend Euro für Gutachten und Gerichtsverfahren Und glaube
+
+00:10:06.780 --> 00:10:12.885
+<v Tim Pritlove>ich habe keinen Anspruch auf Prozesskostenhilfe oder ich warte und lasse meinen Namen über das SBG,
+
+00:10:12.885 --> 00:10:14.726
+<v Tim Pritlove>also Selbstbestimmungsgesetz ändern.
+
+00:10:15.047 --> 00:10:20.651
+<v Tim Pritlove>Beim SBG werde ich bei allen deutschen Sicherheitsbehörden als transzwangs geoutet,
+
+00:10:20.651 --> 00:10:23.733
+<v Tim Pritlove>muss dafür aber nicht bezahlen und nicht vor Gericht ziehen.
+
+00:10:23.733 --> 00:10:26.615
+<v Tim Pritlove>Um ehrlich zu sein, weiß ich wirklich nicht, was mir lieber ist.
+
+00:10:26.615 --> 00:10:27.916
+<v Tim Pritlove>Wie würdet ihr entscheiden?
+
+00:10:29.698 --> 00:10:33.661
+<v Linus Neumann>Ja, das also, gut, wir hatten, also ich hatte ja in der Sendung,
+
+00:10:33.661 --> 00:10:36.323
+<v Linus Neumann>als wir das besprochen haben, auch gesagt, da müssen wir mal einfach auf die
+
+00:10:36.323 --> 00:10:43.127
+<v Linus Neumann>Perspektive der Leute warten, die dieses Gesetz betrifft und da haben wir jetzt
+
+00:10:43.127 --> 00:10:47.490
+<v Linus Neumann>eine schöne Antwort und ich wüsste es jetzt ehrlich gesagt auch nicht so ganz.
+
+00:10:48.691 --> 00:10:52.092
+<v Tim Pritlove>Also ich kann, ich kann da überhaupt nichts zu sagen, weil ich einfach mich
+
+00:10:52.092 --> 00:10:55.074
+<v Tim Pritlove>nicht in diese Situation versetzen kann.
+
+00:10:56.195 --> 00:10:59.056
+<v Linus Neumann>Ich glaube, wir wären auch die Falschen, da jetzt Rat zu geben.
+
+00:10:59.056 --> 00:10:59.597
+<v Tim Pritlove>Absolut.
+
+00:11:04.460 --> 00:11:11.624
+<v Linus Neumann>Aber das werde ich mal mit ein paar Freundinnen und Freunden mal ansprechen, wie die das sehen.
+
+00:11:14.046 --> 00:11:18.489
+<v Tim Pritlove>Also sicherlich ist es auf jeden Fall auf der positiven Seite zu vermerken,
+
+00:11:18.489 --> 00:11:21.490
+<v Tim Pritlove>dass man nicht mehr Gutachten für teuer Geld erstellen muss.
+
+00:11:21.731 --> 00:11:23.832
+<v Linus Neumann>Das ist auf jeden Fall eine absolute,
+
+00:11:23.832 --> 00:11:27.475
+<v Linus Neumann>also das weiß ich, dass das eine Demütigung und totaler Mist ist.
+
+00:11:27.475 --> 00:11:32.898
+<v Linus Neumann>Ich habe nur tatsächlich nicht mehr mit Menschen jetzt spezifisch über diesen
+
+00:11:32.898 --> 00:11:37.041
+<v Linus Neumann>einen Aspekt mit dieser Meldung an die Sicherheitsbehörden gesprochen seitdem,
+
+00:11:37.041 --> 00:11:41.124
+<v Linus Neumann>weil eigentlich haben ja alle immer dem SBG entgegen gefiebert.
+
+00:11:41.124 --> 00:11:46.114
+<v Linus Neumann>Ja, aber also ja, Alex, ich werde dir die Antwort jetzt nicht geben.
+
+00:11:46.114 --> 00:11:49.019
+<v Linus Neumann>Und ich glaube, du hast vor allem das Dilemma auch ganz gut aufgezeigt.
+
+00:11:51.083 --> 00:11:55.276
+<v Tim Pritlove>Dann haben wir natürlich, wie sollte es auch anders sein, diverse Kommentare
+
+00:11:55.276 --> 00:12:02.160
+<v Tim Pritlove>zu unserem Exkurs über Google, die wir jetzt nicht alle vorlesen wollen.
+
+00:12:03.361 --> 00:12:07.904
+<v Tim Pritlove>Da gab es sozusagen immer wieder den Hinweis, welche Innovationen es ja noch gegeben habe.
+
+00:12:10.466 --> 00:12:12.767
+<v Tim Pritlove>AlphaFold wurde dort noch mal erwähnt. Ich bin mir gar nicht so sicher,
+
+00:12:12.767 --> 00:12:15.269
+<v Tim Pritlove>ob wir das erwähnt haben. Ich glaube, das haben wir nicht erwähnt,
+
+00:12:15.269 --> 00:12:20.052
+<v Tim Pritlove>aber das war ja in der Tat auch ein signifikanter Durchbruch im biochemischen Bereich.
+
+00:12:21.793 --> 00:12:29.018
+<v Tim Pritlove>Also AlphaFold ist ja dieses System, was quasi per AI-Modellen das Folding von
+
+00:12:29.018 --> 00:12:34.141
+<v Tim Pritlove>Proteinen vorhersagen kann und damit so ein paar seit Jahren ausstehende große
+
+00:12:34.141 --> 00:12:38.724
+<v Tim Pritlove>Probleme des Wissenschaftsbereichs gelöst hat.
+
+00:12:39.164 --> 00:12:45.178
+<v Tim Pritlove>Und natürlich auch generell die ganzen Transformer-Modelle, die Basis von Large Language Models etc.
+
+00:12:45.808 --> 00:12:48.350
+<v Tim Pritlove>Die ganze Debatte, ich will die jetzt nicht wieder komplett aufmachen,
+
+00:12:48.350 --> 00:12:51.051
+<v Tim Pritlove>aber ich glaube wir beide haben auch unterschiedliche Perspektiven gehabt.
+
+00:12:53.393 --> 00:12:55.714
+<v Linus Neumann>Ja die übrigens auch sich nicht widersprechen.
+
+00:12:56.655 --> 00:12:59.976
+<v Tim Pritlove>Das ist das was mich auch so genervt hat. Die sich auch nicht widersprechen,
+
+00:12:59.976 --> 00:13:02.727
+<v Tim Pritlove>nur es ist halt die Frage was bewertet man.
+
+00:13:02.727 --> 00:13:07.359
+<v Tim Pritlove>Also wenn man jetzt sagt okay ich hab jetzt 25 Jahre Google und meine Perspektive
+
+00:13:07.359 --> 00:13:15.202
+<v Tim Pritlove>war okay so what has Google ever done for us so, also ist da irgendwas gutes bei rausgekommen?
+
+00:13:15.722 --> 00:13:18.663
+<v Tim Pritlove>Und aus meiner Perspektive haben sich natürlich viele Dinge angestoßen.
+
+00:13:19.704 --> 00:13:22.965
+<v Tim Pritlove>Es war immer so ein Nerdmagnet und ist es teilweise auch immer noch.
+
+00:13:22.965 --> 00:13:28.827
+<v Tim Pritlove>Also wir haben wirklich viele der besten Leute bei sich im Unternehmen andocken lassen.
+
+00:13:29.928 --> 00:13:32.648
+<v Tim Pritlove>Und in dem Zuge diverse wissenschaftlich technische Innovationen hervorgebracht.
+
+00:13:36.991 --> 00:13:40.852
+<v Tim Pritlove>Deine Perspektive war ja unter anderem auch davon geprägt, was da letzten Endes
+
+00:13:40.852 --> 00:13:43.753
+<v Tim Pritlove>bei rausgekommen ist. Vielleicht habe ich sie selber vertreten.
+
+00:13:46.026 --> 00:13:50.254
+<v Linus Neumann>Niemand stellt ja in Abrede, dass ein Unternehmen, was für ein Vierteljahrhundert
+
+00:13:50.254 --> 00:13:56.853
+<v Linus Neumann>existiert und in vielen dieser Jahre Milliarden Umsätze im zweistelligen Bereich macht,
+
+00:13:56.853 --> 00:14:00.455
+<v Linus Neumann>dass die zwischendurch auch mal irgendwas Brauchbares erfinden müssen,
+
+00:14:00.455 --> 00:14:03.257
+<v Linus Neumann>um weiter zu existieren. Das muss auch z.B.
+
+00:14:04.918 --> 00:14:09.360
+<v Linus Neumann>Mercedes-Benz, die in einem 4. Jahrhundert eine ganze Menge großartige Dinge
+
+00:14:09.360 --> 00:14:14.904
+<v Linus Neumann>erfunden haben, bin ich mir sicher, die das Autofahren besser gemacht haben
+
+00:14:14.904 --> 00:14:18.226
+<v Linus Neumann>für Leute, aber halt nicht Elektroautos gebaut haben.
+
+00:14:19.167 --> 00:14:23.470
+<v Linus Neumann>Und das wäre, das ist das, was ich eben bei Google denke, sie erfinden vielleicht
+
+00:14:23.470 --> 00:14:26.612
+<v Linus Neumann>mal ab und zu was Brauchbares, aber sich selber nicht neu.
+
+00:14:26.612 --> 00:14:34.418
+<v Tim Pritlove>Aber du weißt, dass der Daimler den Hubmotor erfunden hat, den Elektromotor im Rad.
+
+00:14:34.418 --> 00:14:36.159
+<v Linus Neumann>Gut, dann hat er umso besser.
+
+00:14:36.159 --> 00:14:36.680
+<v Tim Pritlove>Hat er gemacht.
+
+00:14:37.160 --> 00:14:40.643
+<v Linus Neumann>Ja, ist ja richtig geil. Guck mal, hat er nichts draus gemacht,
+
+00:14:40.643 --> 00:14:44.015
+<v Linus Neumann>haben die 100 Jahre nichts draus gemacht. Das ist doch genau mein Argument.
+
+00:14:44.526 --> 00:14:47.048
+<v Linus Neumann>Aber okay, lass uns das jetzt nicht wieder anfangen.
+
+00:14:47.929 --> 00:14:51.852
+<v Linus Neumann>Und Alpha Fold ist von Deep Mind, was sie dazu gekauft haben.
+
+00:14:52.753 --> 00:14:56.155
+<v Linus Neumann>Jetzt kommt der Punkt. Und jetzt bitte ganz kurz zuhören, bevor jetzt die nächsten
+
+00:14:56.155 --> 00:14:58.057
+<v Linus Neumann>Leute wieder von Transformer-Modellen anfangen.
+
+00:14:59.978 --> 00:15:03.101
+<v Linus Neumann>Google, was hatten wir gesagt, 60 Milliarden Gewinn oder sowas.
+
+00:15:05.463 --> 00:15:08.405
+<v Linus Neumann>Die Stanford-Universität arbeitet mit einem jährlichen Budget von 8 Milliarden.
+
+00:15:09.686 --> 00:15:14.349
+<v Linus Neumann>Jetzt Vorsicht, diese ganzen Buden wie DeepMind und so,
+
+00:15:14.349 --> 00:15:19.453
+<v Linus Neumann>die von Google ja dann gekauft wurden, Die sind an den Punkt dieser Innovationskraft
+
+00:15:19.453 --> 00:15:26.698
+<v Linus Neumann>gekommen, mit einem sehr viel günstigeren Quotienten aus Geld,
+
+00:15:26.698 --> 00:15:28.580
+<v Linus Neumann>was ihnen zur Verfügung steht und Innovationskraft.
+
+00:15:29.701 --> 00:15:35.105
+<v Linus Neumann>Ja, also es scheint so zu sein, dass kleine Unternehmen mit sehr viel weniger
+
+00:15:35.105 --> 00:15:38.887
+<v Linus Neumann>Kapital sehr viel erfolgreicher darin sind,
+
+00:15:38.887 --> 00:15:45.391
+<v Linus Neumann>relevante Innovationen hervorzubringen, als Google, wenn man auf den Quotient
+
+00:15:45.391 --> 00:15:48.292
+<v Linus Neumann>aus Innovation und zur Verfügung stehendem Kapital schaut.
+
+00:15:49.904 --> 00:15:53.235
+<v Linus Neumann>Also wäre Google kleiner, wären sie innovativer oder vielleicht auch nicht.
+
+00:15:54.556 --> 00:16:00.259
+<v Linus Neumann>Aber auf jeden Fall scheint, hat ihre Innovationskraft nicht mit der Größe und dem Umsatz skaliert.
+
+00:16:00.940 --> 00:16:06.332
+<v Linus Neumann>Und jetzt weiß ich nicht genau, was jetzt irgendwie,
+
+00:16:06.332 --> 00:16:15.268
+<v Linus Neumann>was wären das, 7, 7,5 Stanford-Universitäten ist dann Google vom Annual Budget.
+
+00:16:15.268 --> 00:16:17.029
+<v Linus Neumann>Das ist bei denen allerdings nur der Gewinn.
+
+00:16:18.270 --> 00:16:25.075
+<v Linus Neumann>Kann man wahrscheinlich nicht so gut vergleichen, wo jetzt pro Jahr aus einem
+
+00:16:25.075 --> 00:16:26.616
+<v Linus Neumann>Dollar mehr Innovation rauskommt.
+
+00:16:27.917 --> 00:16:36.022
+<v Linus Neumann>Aber eigentlich wollte ich mit diesem ganzen Thema nämlich zu der marktbeherrschenden
+
+00:16:36.022 --> 00:16:40.605
+<v Linus Neumann>Stellung, weil ja ein Kartellverfahren gegen Google eröffnet wurde.
+
+00:16:40.605 --> 00:16:44.886
+<v Linus Neumann>Vorher will ich dir aber noch die Gelegenheit geben, auch noch mal was zu sagen.
+
+00:16:45.988 --> 00:16:46.589
+<v Linus Neumann>Tim.
+
+00:16:46.589 --> 00:16:47.090
+<v Tim Pritlove>Mia.
+
+00:16:47.090 --> 00:16:51.672
+<v Linus Neumann>Willst du noch was sagen? Dazu. Zur Innovationskraft von Google?
+
+00:16:52.934 --> 00:16:58.098
+<v Tim Pritlove>Naja, also Innovationskraft hin und her, also das mit dem Don't be evil,
+
+00:16:58.098 --> 00:16:59.799
+<v Tim Pritlove>das hat halt nicht gut funktioniert.
+
+00:17:01.100 --> 00:17:05.784
+<v Tim Pritlove>Da hätte man nochmal dran arbeiten können. Mia ist halt, der Laden einfach super
+
+00:17:05.784 --> 00:17:10.588
+<v Tim Pritlove>suspekt, seitdem halt wirklich auch alles unter diesem Werbeverdienst Diktat steht.
+
+00:17:11.749 --> 00:17:15.031
+<v Linus Neumann>Genau, und da kommen wir nämlich jetzt auch genau zu dem Kartellthema.
+
+00:17:15.711 --> 00:17:22.175
+<v Linus Neumann>Also es gibt jetzt in den USA ein großes Kartellverfahren gegen Google,
+
+00:17:22.175 --> 00:17:28.419
+<v Linus Neumann>das im Prinzip aus zwei weiteren, aus zwei vorangegangenen zusammengeführt wurde.
+
+00:17:29.960 --> 00:17:34.002
+<v Linus Neumann>Und jetzt muss man sich überlegen, warum haben wir Kartellverfahren?
+
+00:17:34.863 --> 00:17:42.788
+<v Linus Neumann>Die Idee ist, dass man davon ausgeht, dass marktbeherrschende Stellungen ausgenutzt
+
+00:17:42.788 --> 00:17:47.592
+<v Linus Neumann>werden können. Es ist also noch nicht falsch, eine marktbeherrschende Stellung zu haben.
+
+00:17:49.393 --> 00:17:56.058
+<v Linus Neumann>Und es ist eigentlich auch noch nicht mal so schlimm, vielleicht auch auf die
+
+00:17:56.058 --> 00:17:56.879
+<v Linus Neumann>gezielt hinzuarbeiten.
+
+00:17:58.020 --> 00:18:03.905
+<v Linus Neumann>Was aber ein Problem ist, weil wir sind ja hier unter der Religion der freien
+
+00:18:03.905 --> 00:18:08.047
+<v Linus Neumann>Marktwirtschaft, Wenn du dann den Wettbewerb behinderst...
+
+00:18:12.657 --> 00:18:18.771
+<v Linus Neumann>Und oder dadurch deine Leistungen für die Kunden schlechter werden.
+
+00:18:18.771 --> 00:18:23.664
+<v Linus Neumann>Also wenn du eine marktbeherrschende Stellung ausnutzt, um Innovation zu bremsen,
+
+00:18:23.664 --> 00:18:30.848
+<v Linus Neumann>damit du, damit die Kunden bei dir bleiben und das damit zum Nachteil der Kunden
+
+00:18:30.848 --> 00:18:35.871
+<v Linus Neumann>ist oder du deine marktbeherrschende Stellung benutzt, um den Wettbewerb auszubremsen.
+
+00:18:37.372 --> 00:18:44.376
+<v Linus Neumann>Jetzt ist natürlich die Frage, wie hat Google denn seine marktbeherrschende
+
+00:18:44.376 --> 00:18:45.517
+<v Linus Neumann>Stellung überhaupt erreicht?
+
+00:18:45.517 --> 00:18:50.079
+<v Linus Neumann>Man sagt, die haben 90 Prozent Marktanteil bei generellen Suchmaschinen und
+
+00:18:50.079 --> 00:18:52.180
+<v Linus Neumann>da wird jetzt schon direkt diskutiert. Da sagt Google natürlich so,
+
+00:18:52.180 --> 00:18:54.141
+<v Linus Neumann>Leute, das ist doch keine marktbeherrschende Stellung.
+
+00:18:54.481 --> 00:18:59.223
+<v Linus Neumann>Wir haben vielleicht 90 Prozent Marktanteil bei den Suchmaschinen im Web.
+
+00:19:00.464 --> 00:19:04.585
+<v Linus Neumann>Aber die Leute, die was kaufen wollen, die suchen bei Amazon nach Produkten.
+
+00:19:04.585 --> 00:19:10.088
+<v Linus Neumann>Da haben wir einen Marktanteil von null. Die suchen bei Spotify nach Musik,
+
+00:19:10.088 --> 00:19:14.390
+<v Linus Neumann>die suchen bei TikTok, weiß nicht, ob man bei TikTok überhaupt suchen kann oder
+
+00:19:14.390 --> 00:19:20.092
+<v Linus Neumann>ob das einfach in einem Fott auf einen einballert, die Leute suchen auf Facebook
+
+00:19:20.092 --> 00:19:24.174
+<v Linus Neumann>X oder Mastodon nach Personen und so weiter.
+
+00:19:24.174 --> 00:19:30.677
+<v Linus Neumann>Sie sagen, der Markt für Suche ist ja nicht nur der Markt für Websuche.
+
+00:19:31.918 --> 00:19:37.041
+<v Linus Neumann>So, jetzt habe ich mir mal angeschaut, was Google so alles tut,
+
+00:19:37.041 --> 00:19:41.804
+<v Linus Neumann>um die Suchmaschine Nummer 1 zu bleiben.
+
+00:19:44.266 --> 00:19:47.248
+<v Linus Neumann>Sie sind in Browsern voreingestellt, das kennen wir,
+
+00:19:47.248 --> 00:19:52.191
+<v Linus Neumann>das haben wir, also ist ja allen bekannt, dass ein Browser eine Searchbar hat
+
+00:19:52.191 --> 00:19:55.794
+<v Linus Neumann>oder irgendwann war die Searchbar auch wieder weg, dann ist es die Addressbar,
+
+00:19:55.794 --> 00:19:59.296
+<v Linus Neumann>wenn du da was eintippst, was keine URL ist, dann geht es zu Google.
+
+00:19:59.938 --> 00:20:04.831
+<v Linus Neumann>Und dafür bezahlt Google gutes Geld, weil die Browserhersteller natürlich diese Funktionalität,
+
+00:20:07.785 --> 00:20:15.266
+<v Linus Neumann>Oder den Defaultplatz verkaufen, den kann, da kann man auch DuckDuckGo einstellen,
+
+00:20:15.266 --> 00:20:18.247
+<v Linus Neumann>da kann man auch, was gibt's noch für coole, startpage.com,
+
+00:20:19.157 --> 00:20:24.568
+<v Linus Neumann>oder was auch immer einstellen oder wenn man so Internet zum Abgewöhnen,
+
+00:20:24.568 --> 00:20:26.408
+<v Linus Neumann>kann man da auch Bing einstellen.
+
+00:20:29.469 --> 00:20:32.719
+<v Tim Pritlove>Alles möglich. Aber das lassen sie sich gut bezahlen.
+
+00:20:59.975 --> 00:21:01.975
+<v Linus Neumann>Also es ging lange Zeit,
+
+00:21:12.958 --> 00:21:16.018
+<v Linus Neumann>das Gerücht, dass irgendwie das so Apples größte Einnahme war,
+
+00:21:29.921 --> 00:21:37.172
+<v Linus Neumann>irgendwie so als Einzelbetrag, was sie von Google dafür bezahlt bekommen,
+
+00:21:37.172 --> 00:21:40.022
+<v Linus Neumann>dass bei ihrem Betriebssystem Google halt der Default ist.
+
+00:21:54.246 --> 00:21:58.529
+<v Linus Neumann>Jetzt müssen, wenn du als Hersteller von Android-Geräten hingehst und sagst,
+
+00:21:58.529 --> 00:22:01.611
+<v Linus Neumann>ich möchte gerne eine Google-App auf dem Gerät haben,
+
+00:22:01.611 --> 00:22:06.915
+<v Linus Neumann>also zum Beispiel YouTube, ich möchte ein Android-Handy bauen,
+
+00:22:06.915 --> 00:22:10.858
+<v Linus Neumann>da ist alles drauf, alles Google-frei, hier als Suchmaschine machen wir DuckDuckGo
+
+00:22:10.858 --> 00:22:13.760
+<v Linus Neumann>und so weiter und dann möchte ich noch YouTube drauf haben.
+
+00:22:13.760 --> 00:22:17.954
+<v Linus Neumann>Da musst du elf Google-Apps installieren, das ist quasi deren Bedingungen,
+
+00:22:17.954 --> 00:22:23.168
+<v Linus Neumann>darunter die Google Search App, den Google Browser Chrome, wo dann wiederum
+
+00:22:23.168 --> 00:22:27.330
+<v Linus Neumann>Google natürlich als Suchmaschine eingestellt ist und den App Store Google Play.
+
+00:22:28.291 --> 00:22:32.434
+<v Linus Neumann>Das war glaube ich auch damals so ein größeres Thema oder so etwas ähnliches
+
+00:22:32.434 --> 00:22:34.235
+<v Linus Neumann>war auch Thema bei der Frage nach
+
+00:22:34.235 --> 00:22:40.419
+<v Linus Neumann>dem, nach dem, nach diesen Bluetooth Funktionalitäten der Corona Warn App.
+
+00:22:40.419 --> 00:22:44.152
+<v Linus Neumann>Erinnerst du dich noch? Da musste man auch die Google Play Services,
+
+00:22:44.152 --> 00:22:49.545
+<v Linus Neumann>wo dann auch einfach ein riesiger Rattenschwanz dranhing und die Leute gesagt
+
+00:22:49.545 --> 00:22:52.268
+<v Linus Neumann>haben, ey, das ist irgendwie Mist.
+
+00:22:52.268 --> 00:22:56.913
+<v Linus Neumann>Und dann haben Ende so freie Software-Coder die ganze Funktionalität nachprogrammiert,
+
+00:22:56.913 --> 00:23:02.038
+<v Linus Neumann>damit die CyanogenMod und wie heißt das jetzt, Wie heißt der Nachfolger?
+
+00:23:04.000 --> 00:23:05.921
+<v Linus Neumann>Das Google-freie Android, was man heute haben will.
+
+00:23:07.252 --> 00:23:11.315
+<v Linus Neumann>Klingt nicht mehr so ein bekloppter Name wie Cyanogenmod, deswegen vergesse ich ihn auch.
+
+00:23:12.436 --> 00:23:16.398
+<v Linus Neumann>Hab ich hier liegen, müsste ich jetzt... Aber die Google-freien Androids,
+
+00:23:16.398 --> 00:23:19.040
+<v Linus Neumann>die konnten das da nicht nutzen. Ich schweife ab.
+
+00:23:22.103 --> 00:23:26.266
+<v Linus Neumann>Und eine Suchmaske für Googles Suchmaschine muss prominent auf dem Homescreen
+
+00:23:26.266 --> 00:23:29.248
+<v Linus Neumann>des Gerätes platziert sein, also so ein Widget für Google-Suche.
+
+00:23:29.248 --> 00:23:34.032
+<v Linus Neumann>Das ist alles so Dinge, dass du eine Android-App haben kannst.
+
+00:23:34.032 --> 00:23:37.954
+<v Linus Neumann>Und da kriegst du noch nicht mal Geld für. Das ist einfach die Bedingung von
+
+00:23:37.954 --> 00:23:42.597
+<v Linus Neumann>Google, dass du jetzt beispielsweise YouTube auf ein Android-Gerät von vornherein
+
+00:23:42.597 --> 00:23:43.918
+<v Linus Neumann>vorinstalliert haben darfst.
+
+00:23:46.600 --> 00:23:50.262
+<v Linus Neumann>Wenn sich jetzt die Hersteller und Netzbetreiber dazu, also,
+
+00:23:50.262 --> 00:23:52.503
+<v Linus Neumann>und das alles, da kriegst du kein Geld.
+
+00:23:53.044 --> 00:23:57.426
+<v Linus Neumann>Und wenn sie sich jetzt aber verpflichten, parallel keine Apps anderer Suchmaschinen
+
+00:23:57.426 --> 00:24:00.468
+<v Linus Neumann>zu installieren und auch nicht
+
+00:24:00.468 --> 00:24:06.111
+<v Linus Neumann>auf die Existenz anderer Suchmaschinen hinzuweisen, dann bezahlt Google.
+
+00:24:06.192 --> 00:24:11.495
+<v Linus Neumann>Und zwar eine Beteiligung am Werbeumsatz, der bei den Suchanfragen anfällt.
+
+00:24:12.116 --> 00:24:13.656
+<v Linus Neumann>Also das ist schon, ne?
+
+00:24:16.398 --> 00:24:19.480
+<v Linus Neumann>Also du kriegst alles, erst mal zwingen sie dich alles zu nehmen,
+
+00:24:19.480 --> 00:24:23.313
+<v Linus Neumann>das kriegst du umsonst und wenn du dann noch alles andere da raushältst,
+
+00:24:23.313 --> 00:24:27.605
+<v Linus Neumann>dann kriegst du Geld, aber wenn du nur eine App von denen haben willst,
+
+00:24:27.605 --> 00:24:28.486
+<v Linus Neumann>dann kriegst du gar nichts.
+
+00:24:28.486 --> 00:24:36.811
+<v Linus Neumann>Das ist schon, sag ich mal, ein Marktgebaren, was ein bisschen ellbögig ist, oder? Was meinst du?
+
+00:24:37.672 --> 00:24:42.916
+<v Tim Pritlove>Naja ich meine sie nutzen natürlich da einfach ihre Macht ist ja klar.
+
+00:24:42.916 --> 00:24:44.697
+<v Tim Pritlove>Sie wollen halt einfach präsent sein.
+
+00:24:45.317 --> 00:24:50.261
+<v Tim Pritlove>Diese ganze Google Play Store Geschichte und das Auslagern von Libraries war
+
+00:24:50.261 --> 00:24:53.183
+<v Tim Pritlove>ja schon so ein Move wenn ich mich richtig erinnere, das überhaupt erstmal aus
+
+00:24:53.183 --> 00:24:55.744
+<v Tim Pritlove>diesem Betriebssystem als solchen heraus zu halten.
+
+00:24:56.865 --> 00:25:05.571
+<v Tim Pritlove>Das ist ja an sich schon mal ganz sinnvoll erschienen, aber ist ja klar,
+
+00:25:05.571 --> 00:25:06.872
+<v Tim Pritlove>dass sie da mit den Muskeln spielen.
+
+00:25:07.813 --> 00:25:12.936
+<v Linus Neumann>Ja genau und jetzt ist halt die Frage, das Verfahren wird jetzt lange dauern,
+
+00:25:12.936 --> 00:25:18.480
+<v Linus Neumann>die Kläger müssen jetzt zeigen, dass es erstens dem Wettbewerb und auch den
+
+00:25:18.480 --> 00:25:23.944
+<v Linus Neumann>Verbrauchern geschadet hat, denn nur Maßnahmen zum Nachteil des Wettbewerbs
+
+00:25:23.944 --> 00:25:25.535
+<v Linus Neumann>oder der Konkurrenten wären noch kein Rechtsverstoß.
+
+00:25:25.865 --> 00:25:31.169
+<v Linus Neumann>Also, es muss jetzt irgendwie einer kommen und sagen, Und weil das so war...
+
+00:25:32.923 --> 00:25:34.444
+<v Linus Neumann>Ist meine Lebensqualität geringer, ja?
+
+00:25:37.527 --> 00:25:41.770
+<v Linus Neumann>Und das wird natürlich vielleicht nicht ganz so einfach.
+
+00:25:43.872 --> 00:25:46.774
+<v Linus Neumann>Aber was man bei der Gelegenheit noch mal kurz ansprechen kann,
+
+00:25:46.774 --> 00:25:53.659
+<v Linus Neumann>Tim, du erinnerst dich doch bestimmt auch noch an die Verfahren hier beim mitgelieferten
+
+00:25:53.659 --> 00:25:58.843
+<v Linus Neumann>Internet Explorer bei Windows XP oder was, das war doch die höchste Kartellstrafe,
+
+00:25:58.843 --> 00:26:01.725
+<v Linus Neumann>die es je gab. Hast du das noch im Kopf?
+
+00:26:03.246 --> 00:26:04.327
+<v Tim Pritlove>Welchen Aspekt davon?
+
+00:26:04.937 --> 00:26:07.969
+<v Linus Neumann>Überhaupt das Verfahren. Das ist ja jetzt auch schon älter als Google.
+
+00:26:07.969 --> 00:26:12.972
+<v Tim Pritlove>Im Kopf ist ein großes Wort. Ich hab das natürlich damals mitbekommen und ehrlich
+
+00:26:12.972 --> 00:26:16.094
+<v Tim Pritlove>gesagt, ich hab das auch ehrlich gesagt nicht so richtig verstanden.
+
+00:26:16.094 --> 00:26:19.237
+<v Tim Pritlove>Also so sehr ich Microsoft damals nicht mochte.
+
+00:26:22.900 --> 00:26:27.042
+<v Tim Pritlove>Dieses Argument, dass der, dass ein Webbrowser nicht Teil des Betriebssystems
+
+00:26:27.042 --> 00:26:29.143
+<v Tim Pritlove>sein darf, das habe ich nie verstanden.
+
+00:26:30.304 --> 00:26:37.388
+<v Linus Neumann>Ja das, also die Idee natürlich hier war, dass, also die Überlegung war natürlich hier,
+
+00:26:37.388 --> 00:26:40.950
+<v Linus Neumann>oder die Argumentation von Mozilla war ja hier, ey wir machen aber auch einen
+
+00:26:40.950 --> 00:26:48.353
+<v Linus Neumann>schönen Browser und Mozilla konnte natürlich schon relativ einfach belegen, dass der besser ist.
+
+00:26:48.994 --> 00:26:54.717
+<v Linus Neumann>Es ist nicht so schwer gegen Internet Explorererweise nicht und haben halt gesagt,
+
+00:26:54.717 --> 00:27:01.740
+<v Linus Neumann>naja dadurch, dass Microsoft hier den neuen Markt Internet und den Zugang dazu
+
+00:27:01.740 --> 00:27:07.403
+<v Linus Neumann>fest in Windows einbaut, versauen sie uns überhaupt diesen Markt zu betreten.
+
+00:27:07.403 --> 00:27:08.303
+<v Linus Neumann>Rückblickend betrachtet ein,
+
+00:27:12.163 --> 00:27:16.646
+<v Linus Neumann>Also absurd, dass das die höchste Kartellstrafe ist, die es jemals gab, glaube ich.
+
+00:27:16.646 --> 00:27:20.028
+<v Linus Neumann>Oder vielleicht gab es danach irgendwann nochmal höhere, aber es war auf jeden
+
+00:27:20.028 --> 00:27:28.332
+<v Linus Neumann>Fall so die, eine absolute Irrsinn an Strafen, ne?
+
+00:27:28.692 --> 00:27:32.594
+<v Tim Pritlove>Auf jeden Fall hat es auch davon gezeugt, dass eigentlich zu dem Zeitpunkt noch
+
+00:27:32.594 --> 00:27:36.756
+<v Tim Pritlove>keiner so richtig gecheckt hat, was eigentlich Phase ist hier mit dem Internet und so.
+
+00:27:36.756 --> 00:27:43.280
+<v Tim Pritlove>Also ich persönlich konnte das nicht nachvollziehen, so sehr ich Microsoft jeden
+
+00:27:43.280 --> 00:27:49.863
+<v Tim Pritlove>Niedergang gegönnt habe in dem Moment, aber das war für mich kein nachvollziehbares Argument.
+
+00:27:50.143 --> 00:27:55.846
+<v Linus Neumann>Wenn du so Dokus siehst über Bill Gates, ich glaube, der hat in dem Verfahren
+
+00:27:55.846 --> 00:28:02.330
+<v Linus Neumann>irgendwie den Glauben an den Rechtsstaat verloren, weil er halt auch dieser
+
+00:28:02.330 --> 00:28:03.651
+<v Linus Neumann>Argumentation nicht so folgen konnte.
+
+00:28:03.651 --> 00:28:10.635
+<v Linus Neumann>Aber ich will das trotzdem referenzieren, weil es eben diese Voreinstellungsfrage,
+
+00:28:10.635 --> 00:28:12.795
+<v Linus Neumann>was kriege ich mit dem Gerät geliefert, schon berührt.
+
+00:28:15.517 --> 00:28:19.119
+<v Linus Neumann>Heutzutage, also bis jetzt ist noch keiner auf die Idee gekommen Apple irgendwie
+
+00:28:19.119 --> 00:28:24.822
+<v Linus Neumann>Ärger zu machen oder so oder Microsoft liefert ja auch weiterhin einen Browser
+
+00:28:24.822 --> 00:28:26.443
+<v Linus Neumann>mit ihren Geräten aus, ne?
+
+00:28:26.783 --> 00:28:32.927
+<v Tim Pritlove>Ja und ich meine das sind ja auch, also man erwartet das ja heutzutage geradezu,
+
+00:28:32.927 --> 00:28:34.627
+<v Tim Pritlove>das ist ja eine Kernfunktionalität.
+
+00:28:37.529 --> 00:28:39.710
+<v Tim Pritlove>Also ich finde das vollkommen richtig, dass das.
+
+00:28:40.831 --> 00:28:41.751
+<v Linus Neumann>Computer ohne Browser?
+
+00:28:44.173 --> 00:28:50.496
+<v Linus Neumann>Wie ein 5000 Euro Macbook ohne Simkartenslot, ohne Cellular Network. Oh wait.
+
+00:28:52.357 --> 00:28:56.659
+<v Linus Neumann>Genau, aber da wird man jetzt drüber diskutieren und ich fand einige dieser
+
+00:28:56.659 --> 00:29:00.601
+<v Linus Neumann>Praktiken, die ich da gelesen habe, wie also Google sich als Standard etabliert.
+
+00:29:03.974 --> 00:29:06.114
+<v Linus Neumann>Die muss ich zugeben, die kannte ich so nicht.
+
+00:29:06.114 --> 00:29:11.615
+<v Tim Pritlove>Gut. Gibt's da noch was zu sagen?
+
+00:29:12.276 --> 00:29:17.637
+<v Linus Neumann>Jetzt kommen wir zum nächsten Schritt, bei dem man Google ja unterstellt,
+
+00:29:17.637 --> 00:29:23.757
+<v Linus Neumann>dass sie damit auch, oder wo man Google, wo man davor warnt.
+
+00:29:23.757 --> 00:29:26.457
+<v Linus Neumann>Dass Google hier wieder eine marktbeherrschende Stellung ausnutzen möchte.
+
+00:30:59.375 --> 00:31:04.038
+<v Tim Pritlove>Jetzt kennen wir ja diese ganzen verhassten Cookies, allein schon deshalb verhasst,
+
+00:31:04.038 --> 00:31:08.601
+<v Tim Pritlove>weil wir ja immer noch diese sinnlose Situation haben, die mich echt mega nervt,
+
+00:31:08.601 --> 00:31:13.924
+<v Tim Pritlove>dass ich auf jeder scheiß Webseite mich erstmal wieder durch irgendeinen blöden Cookie banne.
+
+00:31:13.924 --> 00:31:16.466
+<v Tim Pritlove>Wer hat sich diesen Scheiß überhaupt einfallen lassen?
+
+00:31:17.507 --> 00:31:21.289
+<v Tim Pritlove>Aber der Hintergrund ist natürlich klar, man will irgendwie verhindern,
+
+00:31:21.289 --> 00:31:26.032
+<v Tim Pritlove>dass man irgendwie hintenrum ausspioniert wird auf irgendeine Art und Weise,
+
+00:31:26.032 --> 00:31:28.114
+<v Tim Pritlove>die man technisch aber sowieso nicht versteht.
+
+00:31:28.794 --> 00:31:32.797
+<v Tim Pritlove>Jetzt gibt's da natürlich auch viele Techniken, die da zum Einsatz kommen.
+
+00:31:33.958 --> 00:31:37.481
+<v Tim Pritlove>Vom ganz einfachen Third-Party-Cookie, ja,
+
+00:31:37.481 --> 00:31:43.966
+<v Tim Pritlove>die einfach, dass irgendjemand so mittrackt und auf anderen Webseiten dir dann
+
+00:31:43.966 --> 00:31:50.475
+<v Tim Pritlove>auslesen oder beschreiben kann oder halt einfach auch andere Methoden,
+
+00:31:50.475 --> 00:31:55.274
+<v Tim Pritlove>das sogenannte Fingerprinting, also dass man sozusagen User daran erkennt,
+
+00:31:55.274 --> 00:32:00.058
+<v Tim Pritlove>Nicht weil sie sich irgendwie einloggen sondern die surfen auf irgendwelchen
+
+00:32:00.058 --> 00:32:02.359
+<v Tim Pritlove>Webseiten rum aber man schaut dann halt so.
+
+00:32:03.711 --> 00:32:07.294
+<v Tim Pritlove>So okay, was hast du denn da für einen Browser? Du kommst mit dem Browser in
+
+00:32:07.294 --> 00:32:09.375
+<v Tim Pritlove>der und der Version auf dem und dem Betriebssystem.
+
+00:32:09.735 --> 00:32:12.197
+<v Tim Pritlove>Das steht ja dann alles drin in so einem User Agent drin.
+
+00:32:12.638 --> 00:32:16.560
+<v Tim Pritlove>Früher standen noch die Bildschirmauflösungen noch mit drin in diesem String und so weiter.
+
+00:32:16.560 --> 00:32:21.163
+<v Tim Pritlove>Also traditionell haben diese ganzen Webbrowser wirklich eine ganze Menge von
+
+00:32:21.163 --> 00:32:23.785
+<v Tim Pritlove>dir berichtet ohne jetzt deinen Namen zu nennen,
+
+00:32:23.785 --> 00:32:28.448
+<v Tim Pritlove>aber einfach so viel Metadaten in jeder einzelnen Anfrage, in jedem einzelnen
+
+00:32:28.448 --> 00:32:33.211
+<v Tim Pritlove>Klick mitgeliefert, dass wenn man halt das halbwegs klug zusammensortiert,
+
+00:32:33.211 --> 00:32:36.963
+<v Tim Pritlove>schon relativ gut jemanden wiedererkennen kann nach dem Motto ah hier kommt
+
+00:32:36.963 --> 00:32:37.793
+<v Tim Pritlove>genau diese Kombination.
+
+00:32:38.293 --> 00:32:42.275
+<v Tim Pritlove>Braucht man auch nicht mal vielleicht so ein Cookie. Naja das hat jetzt alles
+
+00:32:42.275 --> 00:32:44.452
+<v Tim Pritlove>ein bisschen Gegenbewegung erhalten,
+
+00:32:44.452 --> 00:32:49.838
+<v Tim Pritlove>diverse Browserhersteller haben jetzt angekündigt und teilweise auch schon umgesetzt,
+
+00:32:49.838 --> 00:32:54.100
+<v Tim Pritlove>dass sie diese ganzen Third Party Cookies nicht mehr machen und natürlich auch
+
+00:32:54.100 --> 00:32:57.188
+<v Tim Pritlove>zahlreiche andere Maßnahmen eingeleitet,
+
+00:32:57.188 --> 00:33:03.163
+<v Tim Pritlove>Um einfach unerwünschtes, unerlaubtes Tracking von irgendwelchen Webseiten im
+
+00:33:03.163 --> 00:33:05.284
+<v Tim Pritlove>Web, ich sag mal, zu reduzieren.
+
+00:33:05.725 --> 00:33:12.487
+<v Tim Pritlove>Und zwar in einem Maß zu reduzieren, dass halt die ganzen Werbeunternehmen schon nervös werden.
+
+00:33:12.487 --> 00:33:15.649
+<v Tim Pritlove>Weil die einfach nicht mehr auf diese ganzen Daten kommen, mit denen sie dann
+
+00:33:15.649 --> 00:33:22.311
+<v Tim Pritlove>an diesen Ausspielungssystemen teilnehmen können und mit Geld versorgt werden.
+
+00:33:23.412 --> 00:33:28.134
+<v Tim Pritlove>Das ist natürlich auch ein Problem für Google und deswegen hat Google jetzt
+
+00:33:28.134 --> 00:33:32.316
+<v Tim Pritlove>wohl auch eingesehen, so okay, alles klar, diese Türen werden sich weiterhin
+
+00:33:32.316 --> 00:33:35.538
+<v Tim Pritlove>schließen, wir müssen jetzt hier irgendwie was machen und ihr Vorschlag ist
+
+00:33:35.538 --> 00:33:36.178
+<v Tim Pritlove>halt diese Privacy-Sendbox.
+
+00:33:37.899 --> 00:33:42.141
+<v Tim Pritlove>Das ist sagen wir mal der Name unter dem das jetzt so läuft und man merkt schon
+
+00:33:42.141 --> 00:33:44.782
+<v Tim Pritlove>an dem Namen wie das so gespielt wird.
+
+00:33:44.782 --> 00:33:51.817
+<v Tim Pritlove>So nach dem Motto hier voll gut für dich sitze im Sandkasten geile Privatsphäre
+
+00:33:51.817 --> 00:33:59.209
+<v Tim Pritlove>total total sicher und schön für dich und jetzt vor einer Woche am siebten September
+
+00:33:59.209 --> 00:34:04.291
+<v Tim Pritlove>glaube ich war so das Rollout im Chrome von dieser Technologie und es kommt wohl auch für Android.
+
+00:34:05.235 --> 00:34:09.065
+<v Linus Neumann>Wollen wir den Sandbox Begriff kurz einführen hier an der Stelle?
+
+00:34:09.065 --> 00:34:09.587
+<v Tim Pritlove>Gerne.
+
+00:34:09.587 --> 00:34:11.171
+<v Linus Neumann>Ich weiß nicht, ob der allen so geläufig ist.
+
+00:34:11.171 --> 00:34:12.071
+<v Tim Pritlove>Ja, das stimmt.
+
+00:34:14.472 --> 00:34:22.396
+<v Tim Pritlove>Möchtest du? Also Sandboxing als technischer Begriff im Computing ist so die,
+
+00:34:22.396 --> 00:34:30.591
+<v Tim Pritlove>so ein Sicherheitskonzept, was quasi sagt, wenn irgendwo, also klassischerweise
+
+00:34:30.591 --> 00:34:32.381
+<v Tim Pritlove>bezog sich das erstmal so auf Programmcode.
+
+00:34:34.163 --> 00:34:37.825
+<v Tim Pritlove>Man will nicht, dass Software jetzt, nur weil ich jetzt irgendwie ein Programm
+
+00:34:37.825 --> 00:34:41.086
+<v Tim Pritlove>starte auf meinem Computer, dass diese Software dann gleich auf alles Zugriff
+
+00:34:41.086 --> 00:34:45.609
+<v Tim Pritlove>hat, auf meine Dateien, auf meine ganzen Daten und die sich dann irgendwie schnappt
+
+00:34:45.609 --> 00:34:49.131
+<v Tim Pritlove>und irgendwo in die Welt jagt. Das möchte man halt nicht.
+
+00:34:50.011 --> 00:34:52.352
+<v Tim Pritlove>Andererseits brauchen natürlich Programme aber auch Zugriff,
+
+00:34:52.352 --> 00:34:54.712
+<v Tim Pritlove>weil sonst funktionieren sie halt unter Umständen nicht, weil sie sollen ja
+
+00:34:54.712 --> 00:34:58.373
+<v Tim Pritlove>auch letzten Endes mit meinen Daten irgendwas tun. Also das ist so ein bisschen
+
+00:34:58.373 --> 00:35:01.333
+<v Tim Pritlove>so ein Dilemma an der Stelle.
+
+00:35:01.993 --> 00:35:07.114
+<v Tim Pritlove>Dieses Konzept von Sandboxing ist, dass man eben versucht diese Programme sozusagen
+
+00:35:07.114 --> 00:35:09.739
+<v Tim Pritlove>in so einen Sandkasten reinzusetzen,
+
+00:35:09.739 --> 00:35:13.875
+<v Tim Pritlove>so nach dem Motto du darfst jetzt hier erstmal nur mit den Förmchen spielen,
+
+00:35:13.875 --> 00:35:17.736
+<v Tim Pritlove>die ich dir hier reingelegt habe, aber wenn du jetzt in irgendeiner Form etwas
+
+00:35:17.736 --> 00:35:22.577
+<v Tim Pritlove>außerhalb dieses Sandkastens haben möchtest, dann musst du durch einen bestimmten
+
+00:35:22.577 --> 00:35:25.807
+<v Tim Pritlove>Prozess durchgehen, entweder schon von Anfang an, wenn.
+
+00:36:12.685 --> 00:36:16.545
+<v Tim Pritlove>Deine Software released wird, dass man dir von vornherein erlaubt auf irgendetwas
+
+00:36:16.545 --> 00:36:18.045
+<v Tim Pritlove>zuzugreifen, Netzwerk, Dateien oder so.
+
+00:36:53.152 --> 00:36:57.996
+<v Linus Neumann>Solange es keine Schwachstellen gibt, davon ausgehen, dass wir relativ gefahrlos
+
+00:36:57.996 --> 00:37:02.970
+<v Linus Neumann>auch nicht vertrauenswürdigen Code ausführen können und dass er die kritischen
+
+00:37:02.970 --> 00:37:05.363
+<v Linus Neumann>Teile, die wir ihm nicht geben möchten,
+
+00:37:06.479 --> 00:37:11.621
+<v Linus Neumann>Auch nicht bekommt, darf nicht an die Kamera, darf nicht an das Mikrofon,
+
+00:37:11.621 --> 00:37:16.424
+<v Linus Neumann>darf nicht an meine Lokation und solche Dinge, gibt's ja erstmal alles so,
+
+00:37:16.424 --> 00:37:20.126
+<v Linus Neumann>also diese funktioniert, das ist eine Sandbox.
+
+00:37:21.327 --> 00:37:24.148
+<v Tim Pritlove>Wobei Programme das natürlich auch immer versucht haben zu umgehen,
+
+00:37:24.148 --> 00:37:26.549
+<v Tim Pritlove>mit irgendwelchen Ausreden,
+
+00:37:26.549 --> 00:37:30.231
+<v Tim Pritlove>so nach dem Motto, oh ja ich muss hier immer total Bluetooth irgendwie,
+
+00:37:30.231 --> 00:37:34.153
+<v Tim Pritlove>weil kann ja sein, dass ich auf irgendwelche Geräte zugreifen muss und so,
+
+00:37:34.153 --> 00:37:39.556
+<v Tim Pritlove>schalt mal lieber ein und dann wurde das halt auch benutzt, um so ein Fingerprinting
+
+00:37:39.556 --> 00:37:44.218
+<v Tim Pritlove>zu machen, weil man dann wieder auf irgendwelche MAC Adressen zugreifen kann und so oder WLAN sieht.
+
+00:37:44.419 --> 00:37:48.822
+<v Linus Neumann>Gibt aber auch den umgekehrten Fall, erinnert es dich noch, wenn man die Corona-Warn-App
+
+00:37:48.822 --> 00:37:54.846
+<v Linus Neumann>auf Android installiert hat, da kam irgendwie so, ja hier, wir machen kein Tracking
+
+00:37:54.846 --> 00:37:59.010
+<v Linus Neumann>und dann kam so die Warnmeldung, ey, der will auf deine Location zugreifen, ja.
+
+00:37:59.570 --> 00:38:04.934
+<v Linus Neumann>Warum haben die davor gewarnt? Naja, weil die Corona-Warn-App auf Bluetooth
+
+00:38:04.934 --> 00:38:10.658
+<v Linus Neumann>Low Energy Beacons zugreifen wollte und die grundsätzlich auch eine Positionierung erlauben.
+
+00:38:10.779 --> 00:38:14.721
+<v Linus Neumann>Und deswegen auch irgendwie und deswegen musste man dem Ding dann doch quasi
+
+00:38:14.721 --> 00:38:19.464
+<v Linus Neumann>Location Freigabe erteilen, was bei vielen Leuten für große Verwirrung gesorgt hat.
+
+00:38:19.464 --> 00:38:22.246
+<v Tim Pritlove>Ja, weil das Wording an der Stelle einfach nicht gepasst hat.
+
+00:38:22.707 --> 00:38:25.388
+<v Linus Neumann>Ja, in irgendeinem Moment war dieses Wording halt ein bisschen älter als die
+
+00:38:25.388 --> 00:38:28.230
+<v Linus Neumann>Corona Warn App, aber okay, ich glaube das Konzept haben wir jetzt erklärt.
+
+00:38:28.230 --> 00:38:32.833
+<v Linus Neumann>Also du kannst als Code, du kannst alles machen als Code und solange die Sandbox
+
+00:38:32.833 --> 00:38:37.597
+<v Linus Neumann>dicht ist, was sie nicht in der Regel nicht dauerhaft ist, aber solange sie
+
+00:38:37.597 --> 00:38:40.458
+<v Linus Neumann>dicht ist, verbietet sie dir eine ganze Reihe an Dingen.
+
+00:38:40.458 --> 00:38:42.061
+<v Linus Neumann>Und an dieser Stelle soll sie
+
+00:38:42.061 --> 00:38:47.430
+<v Linus Neumann>erst mal verbieten, dass die Webseite so ein Third-Party-Cookie-Tracking
+
+00:38:47.430 --> 00:38:52.398
+<v Linus Neumann>machen kann. Und das ist, glaube ich, ein sehr, äh, sehr heeres Ziel,
+
+00:38:52.398 --> 00:38:55.082
+<v Linus Neumann>das wirklich komplett aus einem Browser auszubauen, oder?
+
+00:38:56.168 --> 00:39:00.351
+<v Tim Pritlove>Oder sagen wir mal so, diese Methode ist sowieso tot und muss durch irgendwas
+
+00:39:00.351 --> 00:39:01.321
+<v Tim Pritlove>anderes ersetzt werden.
+
+00:39:01.321 --> 00:39:09.027
+<v Tim Pritlove>Und unter diesem Namen Privacy Sandbox verbergt sich jetzt auch nicht nur eine einzige Technologie,
+
+00:39:09.027 --> 00:39:11.218
+<v Tim Pritlove>sondern es ist eigentlich so ein
+
+00:39:11.218 --> 00:39:15.729
+<v Tim Pritlove>Jutesack voll mit so ein raumbildendes Packmittel voll mit Technologien,
+
+00:39:15.729 --> 00:39:20.884
+<v Tim Pritlove>ich weiß nicht, es ist glaube ich so sechs, sieben, acht verschiedene Protokolle
+
+00:39:20.884 --> 00:39:25.628
+<v Tim Pritlove>und APIs, die hier vorgeschlagen werden, die für sich genommen auch alle erstmal
+
+00:39:25.628 --> 00:39:26.708
+<v Tim Pritlove>ganz, sinnvoll klingen.
+
+00:39:27.849 --> 00:39:32.352
+<v Tim Pritlove>Ja, also dass man irgendwie auch bestimmte Daten nicht mehr zum Fingerprinting benutzt werden kann.
+
+00:39:32.352 --> 00:39:38.032
+<v Tim Pritlove>Das ist einfach so bestimmte Zugriffe, die sich so etabliert haben im Web,
+
+00:39:38.032 --> 00:39:43.580
+<v Tim Pritlove>die man nicht haben will, dass die dann sozusagen da drin auch erstmal so nicht möglich sind.
+
+00:39:43.580 --> 00:39:46.702
+<v Tim Pritlove>Dass es stattdessen andere APIs gibt, die man dann benutzt, die eben dann,
+
+00:39:46.702 --> 00:39:52.246
+<v Tim Pritlove>die nicht so Privatsphäre-sensitiv sind. Das ist, sagen wir mal so der Sales-Pitch.
+
+00:39:52.246 --> 00:39:53.426
+<v Tim Pritlove>Dieser ganzen Geschichte.
+
+00:39:55.768 --> 00:40:01.332
+<v Tim Pritlove>Wir haben ein bisschen noch Schwierigkeiten glaube ich das technologisch komplett
+
+00:40:01.332 --> 00:40:05.155
+<v Tim Pritlove>zu beschreiben, weil es dann doch einige Verfahren sind, das muss man sich echt
+
+00:40:05.155 --> 00:40:09.098
+<v Tim Pritlove>nochmal genauer anschauen und das habe ich zumindest bisher mir im einzelnen
+
+00:40:09.098 --> 00:40:10.139
+<v Tim Pritlove>noch nicht alles angeschaut.
+
+00:40:11.000 --> 00:40:15.363
+<v Tim Pritlove>Es gibt auf jeden Fall eine ausführliche technische Beschreibung und wenn man
+
+00:40:15.363 --> 00:40:19.987
+<v Tim Pritlove>sich halt so die einzelnen Sachen anschaut, dann klingen die jetzt auch erstmal nicht so falsch.
+
+00:40:21.208 --> 00:40:25.152
+<v Tim Pritlove>Also gerade so diese passive Erkennung an diesem User-Agent,
+
+00:40:25.152 --> 00:40:30.678
+<v Tim Pritlove>also an der eigenen Sache und welche Sprachen ich ausgewählt habe und solche Sachen,
+
+00:40:30.678 --> 00:40:36.414
+<v Tim Pritlove>also es sind verschiedenste Verfahren und Vorschläge hier mit drin,
+
+00:40:36.414 --> 00:40:43.872
+<v Tim Pritlove>um sozusagen weniger Angriffsfläche für so ein ungewolltes Ausspionieren zu bieten.
+
+00:40:45.305 --> 00:40:48.386
+<v Linus Neumann>Also sie benennen spezifisch drei Ziele.
+
+00:40:48.746 --> 00:40:53.788
+<v Linus Neumann>Das eine ist, wir möchten, ich erzähle die mal in anderer Reihenfolge.
+
+00:40:55.629 --> 00:41:00.011
+<v Linus Neumann>Als erstes möchten wir Third-Party-Cookies komplett eliminieren,
+
+00:41:00.011 --> 00:41:01.031
+<v Linus Neumann>nicht mehr akzeptieren.
+
+00:41:02.232 --> 00:41:05.153
+<v Linus Neumann>Die werden wir vollständig blockieren. Das ist einfach.
+
+00:41:07.774 --> 00:41:11.076
+<v Linus Neumann>Das Zweite ist, die ganzen Workarounds,
+
+00:41:11.076 --> 00:41:16.638
+<v Linus Neumann>die Tim gerade auch schon benannt hat, also eine Kombination aus Land,
+
+00:41:16.638 --> 00:41:20.300
+<v Linus Neumann>User-Agent-String, den vorhandenen Devices,
+
+00:41:20.300 --> 00:41:23.741
+<v Linus Neumann>den installierten Fonts und so weiter, daraus einen Fingerabdruck zu machen,
+
+00:41:23.741 --> 00:41:30.004
+<v Linus Neumann>also alles, was ein JavaScript auslesen kann, was ihm etwas Individuelles über
+
+00:41:30.004 --> 00:41:32.005
+<v Linus Neumann>dein Gerät sagt, muss auch alles wegmachen.
+
+00:41:32.946 --> 00:41:35.927
+<v Linus Neumann>Ja, wir sagen, okay, also wir, Third-Party-Cookies weg,
+
+00:41:35.927 --> 00:41:38.789
+<v Linus Neumann>Fingerprinting weg und dann,
+
+00:41:38.789 --> 00:41:42.992
+<v Linus Neumann>naja, die Funktionalität, die man mit Cross-Site-Tracking macht,
+
+00:41:42.992 --> 00:41:49.316
+<v Linus Neumann>die möchte, also das, was der Markt braucht, das bauen wir jetzt aber,
+
+00:41:49.316 --> 00:41:52.098
+<v Linus Neumann>bauen wir anders neu,
+
+00:41:52.098 --> 00:41:59.483
+<v Linus Neumann>damit wir gleichzeitig nix kaputt machen, denn wenn du Third-Party-Cookies deaktivierst
+
+00:41:59.483 --> 00:42:04.487
+<v Linus Neumann>in deinem Browser, ja, wird halt nicht mehr so lange wird nicht mehr so weit kommen.
+
+00:42:04.487 --> 00:42:10.641
+<v Linus Neumann>Ich glaube, dass in der Web-Erfahrung, die die jetzt hier fein sehen.
+
+00:42:10.641 --> 00:42:16.482
+<v Linus Neumann>Da sagen sie, jetzt bauen wir für alles, was Cross-Site-Tracking an in Anführungszeichen
+
+00:42:16.482 --> 00:42:18.197
+<v Linus Neumann>legitimen Anwendungsfällen hat,
+
+00:42:18.197 --> 00:42:23.521
+<v Linus Neumann>da bauen wir jetzt andere APIs für in
+
+00:42:23.521 --> 00:42:28.304
+<v Linus Neumann>unserem Browser ein, die dann auf unterschiedlichste Weisen funktionieren.
+
+00:42:30.037 --> 00:42:35.679
+<v Linus Neumann>Und ich glaube, wenn wir uns die anschauen, was sie da bauen,
+
+00:42:35.679 --> 00:42:37.040
+<v Linus Neumann>da wird's dann ein bisschen kompliziert.
+
+00:42:38.201 --> 00:42:41.122
+<v Linus Neumann>Ich würde denen, ich würde das insgesamt sagen,
+
+00:42:41.122 --> 00:42:45.724
+<v Linus Neumann>sie versuchen halt das, was normalerweise zentral irgendwo gesammelt wird,
+
+00:42:45.724 --> 00:42:54.118
+<v Linus Neumann>eher lokal zu sammeln, damit dein Browser sich erst mal selber in ein Profil einordnet.
+
+00:42:55.389 --> 00:43:03.242
+<v Linus Neumann>Beispielsweise in das Profil interessiert sich für Apple Produkte und dann sich die Werbung aussucht,
+
+00:43:03.242 --> 00:43:08.035
+<v Linus Neumann>wenn er eine Seite besucht und da ist dann so, ja wir hätten hier Werbung für
+
+00:43:08.035 --> 00:43:12.077
+<v Linus Neumann>Apple Produkte und dann sagt der Browser, ja das passt zu meinem Profil, gib das mal, ja.
+
+00:43:12.237 --> 00:43:15.909
+<v Linus Neumann>Und dann hat er aber nur rausgegeben, ich interessiere mich für Apple-Produkte
+
+00:43:15.909 --> 00:43:20.942
+<v Linus Neumann>und hat aber nicht rausgegeben, wofür du dich sonst noch alles interessierst.
+
+00:43:21.463 --> 00:43:24.405
+<v Linus Neumann>Das scheint so der Gedanke zu sein,
+
+00:43:24.405 --> 00:43:28.988
+<v Linus Neumann>dass sie sagen, wir holen, dass dein Profil kommt in Anführungszeichen in diese
+
+00:43:28.988 --> 00:43:34.151
+<v Linus Neumann>Sandbox und dann werden dir Dinge angeboten und du machst den Abgleich lokal
+
+00:43:34.151 --> 00:43:37.714
+<v Linus Neumann>und teilst nur deine Entscheidungen mit und dadurch verrätst du nicht so viel
+
+00:43:37.714 --> 00:43:42.027
+<v Linus Neumann>über dein Profil in den darauf folgenden Requests, die du machst.
+
+00:43:44.109 --> 00:43:49.522
+<v Linus Neumann>So würde ich sagen ist der ganz ganz ganz grobe Anspruch von diesem System zusammengefasst.
+
+00:43:52.605 --> 00:43:56.187
+<v Tim Pritlove>Genau das ist die sogenannte Topics API, also wir haben das übrigens auch schon
+
+00:43:56.187 --> 00:44:04.173
+<v Tim Pritlove>mal hier diskutiert, da war noch dieser erste Vorschlag unter dem Namen FLOC, was hieß das nochmal?
+
+00:44:13.821 --> 00:44:20.544
+<v Linus Neumann>Federated. Federated creation of distributed cohorts. Also letztendlich, dass man keine zentral,
+
+00:44:20.544 --> 00:44:24.901
+<v Linus Neumann>also dass man föderiert, also auf den Geräten Kohorten definiert,
+
+00:44:24.901 --> 00:44:29.890
+<v Linus Neumann>denen die sich dann wiederum zuordnen, ohne dass es irgendwo eine zentrale Instanz
+
+00:44:29.890 --> 00:44:31.751
+<v Linus Neumann>gibt, die weiß, wer in welcher Kohorte ist.
+
+00:44:32.332 --> 00:44:37.635
+<v Linus Neumann>Das ist die wissenschaftliche Beschreibung von dem, was ich gerade versucht
+
+00:44:37.635 --> 00:44:39.917
+<v Linus Neumann>habe einfacher zu erklären.
+
+00:44:39.917 --> 00:44:43.740
+<v Tim Pritlove>Auf jeden Fall, das fanden nicht so viele Freunde dieser Vorschlag und das ist
+
+00:44:43.740 --> 00:44:50.145
+<v Tim Pritlove>halt jetzt eben durch die von dir jetzt quasi beschriebene Topics API ersetzt worden.
+
+00:44:50.726 --> 00:44:54.289
+<v Tim Pritlove>Inwiefern das noch viel Ähnlichkeit hat mit dem alten Vorschlag kann ich jetzt
+
+00:44:54.289 --> 00:44:55.410
+<v Tim Pritlove>gerade nicht so richtig einschätzen.
+
+00:44:56.311 --> 00:44:58.862
+<v Tim Pritlove>Naja, also auf jeden Fall ist es ein Paket von Technologien, die.
+
+00:45:02.481 --> 00:45:06.463
+<v Tim Pritlove>Auf den ersten Blick erst mal ganz gut gemeint sind jetzt kann man natürlich
+
+00:45:06.463 --> 00:45:11.805
+<v Tim Pritlove>bei der Bewertung dessen und die geht dann natürlich auseinander ja kann natürlich jetzt sagen.
+
+00:45:12.545 --> 00:45:17.687
+<v Tim Pritlove>Okay also entweder man nimmt jetzt hier den maximalen Privacy Aspekt ein und
+
+00:45:17.687 --> 00:45:23.649
+<v Tim Pritlove>sagt so nichts darf auch nur im geringsten bei mir herausfinden was ich will
+
+00:45:23.649 --> 00:45:27.130
+<v Tim Pritlove>und ich will das nicht also Spoiler man kann das Feature auch abschalten.
+
+00:45:28.511 --> 00:45:31.332
+<v Tim Pritlove>Also im Chrome, ob das dann auch so ist, weiß ich nicht,
+
+00:45:31.332 --> 00:45:38.208
+<v Tim Pritlove>aber ich gehe mal davon aus, dass man diese ganzen Technologien ablehnt,
+
+00:45:38.208 --> 00:45:44.337
+<v Tim Pritlove>ist die Frage, was ist jetzt die Alternative dazu, weil das ist ja jetzt erstmal ein Angebot.
+
+00:45:44.937 --> 00:45:50.079
+<v Tim Pritlove>So könnte man das irgendwie lösen und damit sind wir dann zumindest die alten
+
+00:45:50.079 --> 00:45:55.061
+<v Tim Pritlove>Methoden erstmal los, aber wir hätten sozusagen auch noch die Möglichkeit hier was zu machen.
+
+00:45:55.422 --> 00:46:00.104
+<v Tim Pritlove>Gibt's ja dann auch mal so diesen Aspekt, diese ganze Privatsphären Diskussion
+
+00:46:00.104 --> 00:46:05.688
+<v Tim Pritlove>im Netz, hat sich früher schon immer so ein bisschen in zwei Teile gespalten.
+
+00:46:05.688 --> 00:46:08.650
+<v Tim Pritlove>Da gab's so die einen Leute, die sagen, oh mein Gott,
+
+00:46:08.650 --> 00:46:14.994
+<v Tim Pritlove>das System will auf mich zugeschnittene Werbung senden,
+
+00:46:14.994 --> 00:46:22.449
+<v Tim Pritlove>Überwachung, dystopischer Staat, was geht so und dann gibt's so den anderen
+
+00:46:22.449 --> 00:46:26.402
+<v Tim Pritlove>Teil der Bevölkerung, der sagt, oh die Werbung ist auf mich zugeschnitten. Zugeschnitten, super.
+
+00:46:28.244 --> 00:46:30.745
+<v Linus Neumann>Endlich ist der pinke Delfin, die Vibrator weg.
+
+00:46:30.745 --> 00:46:34.729
+<v Tim Pritlove>Ja genau, jetzt krieg ich immer Scheißsache, jetzt krieg ich endlich mal die
+
+00:46:34.729 --> 00:46:37.971
+<v Tim Pritlove>Sache, endlich das Helene Fischer Album, da hab ich schon lange gesucht.
+
+00:46:38.352 --> 00:46:42.875
+<v Tim Pritlove>Also die Bewertung, was gut und richtig ist, geht glaube ich bei vielen Leuten
+
+00:46:42.875 --> 00:46:50.101
+<v Tim Pritlove>auch wirklich auseinander und das ist offensichtlich auch hier, aber ich.
+
+00:46:50.381 --> 00:46:53.688
+<v Linus Neumann>Aber Tim, da muss man schon fairnesshalber sagen.
+
+00:46:56.227 --> 00:47:00.610
+<v Linus Neumann>Ich glaube nicht, dass das Argument so plump war, dass ich kriege zielgerichtete Werbung,
+
+00:47:00.610 --> 00:47:04.352
+<v Linus Neumann>sondern also es ist natürlich schon so, dass es einige,
+
+00:47:04.352 --> 00:47:08.727
+<v Linus Neumann>sehr wenige Werbe-Netzwerke, Google davon das größte gibt,
+
+00:47:08.727 --> 00:47:11.858
+<v Linus Neumann>oder ich weiß gar nicht, ob das noch das größte ist,
+
+00:47:11.858 --> 00:47:19.083
+<v Linus Neumann>die letztendlich in jeder Webseite mit eingebunden werden und dass es tatsächlich so ist,
+
+00:47:19.083 --> 00:47:23.566
+<v Linus Neumann>wenn du jetzt irgendwie mit so einem Standard-Browser dich einfach durch Standard-Seiten bewegst,
+
+00:47:23.566 --> 00:47:26.808
+<v Linus Neumann>Sagen wir mal, du gehst auf Google,
+
+00:47:26.808 --> 00:47:30.931
+<v Linus Neumann>gehst dann zu Spiegel Online, liest Nachrichten zu Süddeutschland, liest Nachrichten zu,
+
+00:47:30.931 --> 00:47:34.353
+<v Linus Neumann>weiß ich,
+
+00:47:34.353 --> 00:47:39.075
+<v Linus Neumann>zu wem noch, dass dann es Server gibt,
+
+00:47:39.075 --> 00:47:42.577
+<v Linus Neumann>die unter Kontrolle von potenziell einem Unternehmen sind,
+
+00:47:42.577 --> 00:47:46.119
+<v Linus Neumann>dass jeden einzelnen dieser Besuche mitbekommt,
+
+00:47:46.119 --> 00:47:52.583
+<v Linus Neumann>inklusive wie lange du dich dort aufhältst und schon relativ viel mit erfassen
+
+00:47:52.583 --> 00:47:58.306
+<v Linus Neumann>von deinem Webverhalten und wahrscheinlich auch sehr viel mehr mit erfassen als sie brauchen, ja.
+
+00:47:58.467 --> 00:48:01.388
+<v Linus Neumann>Das ist jetzt erstmal so,
+
+00:48:01.388 --> 00:48:05.811
+<v Linus Neumann>das ist auch der Grund, warum du vielleicht auf der nächsten Seite die gleiche Werbung wieder hast,
+
+00:48:05.811 --> 00:48:12.196
+<v Linus Neumann>oder warum vielleicht so bestimmte Werbung, die du dir auf bestimmten Webseiten
+
+00:48:12.196 --> 00:48:17.039
+<v Linus Neumann>geholt hast, dich dann noch weiter auf andere Webseiten mitverfolgt oder so,
+
+00:48:17.039 --> 00:48:20.661
+<v Linus Neumann>das ist ja jetzt erstmal einfach so.
+
+00:48:22.023 --> 00:48:27.746
+<v Linus Neumann>Und dass das potenziell sehr umfassende Profile sind, die da entstehen, ist auch ein Fakt.
+
+00:48:27.887 --> 00:48:31.993
+<v Linus Neumann>Jetzt kann man sich natürlich überlegen, wie schlimm das ist.
+
+00:48:33.075 --> 00:48:36.499
+<v Linus Neumann>Und ich würde auch sagen, dass manche dieses Risiko vielleicht ein bisschen überdramatisieren.
+
+00:48:39.478 --> 00:48:43.519
+<v Linus Neumann>Gleichzeitig ist es, bin ich ja immer eher derjenige, der darauf eingeht,
+
+00:48:43.519 --> 00:48:46.999
+<v Linus Neumann>dass das halt die Macht, die damit einhergeht, dass das Problem ist.
+
+00:48:46.999 --> 00:48:48.180
+<v Linus Neumann>Aber das führt jetzt zu weit.
+
+00:48:48.180 --> 00:48:51.240
+<v Tim Pritlove>Es gibt noch einen Aspekt, den ich vielleicht noch mit einschieben will,
+
+00:48:51.240 --> 00:48:53.021
+<v Tim Pritlove>um das auch noch ein bisschen weiter zu relativieren.
+
+00:48:54.401 --> 00:48:58.562
+<v Tim Pritlove>Also das ist mittlerweile glaube ich, kannst du vielleicht,
+
+00:49:28.989 --> 00:49:32.129
+<v Tim Pritlove>noch mal mehr zu sagen, schon auch nicht mehr ganz,
+
+00:49:56.714 --> 00:49:59.815
+<v Tim Pritlove>so ein heißes Thema, aber wir hatten vor einigen Jahren ja.
+
+00:50:14.038 --> 00:50:18.519
+<v Tim Pritlove>Noch so diese Situation, haben. Wir erinnern uns hier an Cambridge Analytica,
+
+00:50:18.519 --> 00:50:23.242
+<v Tim Pritlove>Brexit, die ganze Beeinflussung der Wahl,
+
+00:50:23.242 --> 00:50:27.984
+<v Tim Pritlove>die letzten Endes zur Wahl von Donald Trump geführt hat,
+
+00:50:27.984 --> 00:50:32.646
+<v Tim Pritlove>wo eben ja auch über diese ganzen Profile,
+
+00:50:32.646 --> 00:50:39.499
+<v Tim Pritlove>die ja dann auch sehr viel über politische Gesinnungen und über Vorlieben und so weiter sagen,
+
+00:50:39.499 --> 00:50:44.232
+<v Tim Pritlove>Auch dann eben zielgerichtete, personalisierte Werbung,
+
+00:50:44.232 --> 00:50:48.754
+<v Tim Pritlove>Wahlwerbung eingespielt wurde, die dann eben genau versucht hat,
+
+00:50:48.754 --> 00:50:53.656
+<v Tim Pritlove>quasi die mentalen Schwachstellen dieser Leute auszunutzen, um ihnen dann sozusagen
+
+00:50:53.656 --> 00:50:56.748
+<v Tim Pritlove>irgendwas anzuzeigen, mit wovor sie jetzt am meisten Angst haben.
+
+00:50:56.758 --> 00:51:01.399
+<v Tim Pritlove>Also bist du ein Republikaner, dann wird dir einfach hier irgendwie,
+
+00:51:01.399 --> 00:51:06.980
+<v Tim Pritlove>ja und die Demokraten wollen irgendwie Abtreibung fördern und Act Now.
+
+00:51:08.721 --> 00:51:12.002
+<v Tim Pritlove>Oder wenn es halt Demokraten sind, wo das dann nicht so verfängt,
+
+00:51:12.002 --> 00:51:17.423
+<v Tim Pritlove>dann halt so, ja nee, hier so Hillary und Korruption und wähl mal lieber nicht.
+
+00:51:17.423 --> 00:51:23.325
+<v Tim Pritlove>Also das sind so Kollateralschäden, die eben auch alle was damit zu tun haben
+
+00:51:23.325 --> 00:51:27.406
+<v Tim Pritlove>und natürlich ist deshalb dieser ganze Privatsphäre-Aspekt nach wie vor super
+
+00:51:27.406 --> 00:51:29.307
+<v Tim Pritlove>super wichtig und mit diesem.
+
+00:51:31.727 --> 00:51:34.698
+<v Tim Pritlove>Vielleicht berechtigten, vielleicht auch nicht ganz so berechtigten Interesse
+
+00:51:34.698 --> 00:51:38.370
+<v Tim Pritlove>der Welt aber dann trotzdem doch irgendwie was mit Werbung machen zu können,
+
+00:51:38.370 --> 00:51:43.052
+<v Tim Pritlove>weil so viel Businessmodelle darauf basieren und weil ja auch nicht alles schlecht ist was Werbung ist,
+
+00:51:43.052 --> 00:51:46.894
+<v Tim Pritlove>Versucht man jetzt irgendwie eine Balance zu finden,
+
+00:51:46.894 --> 00:51:50.936
+<v Tim Pritlove>zu sagen, okay wir bauen jetzt hier mal so ein Set von Technologien,
+
+00:51:50.936 --> 00:51:58.019
+<v Tim Pritlove>die verhindern eine Menge von dem was früher möglich war und vielleicht auch alles,
+
+00:51:58.019 --> 00:52:04.202
+<v Tim Pritlove>aber wir bieten quasi hier so eine Tür an, wo man durchgehen kann,
+
+00:52:04.202 --> 00:52:09.344
+<v Tim Pritlove>wenn der User das erlaubt, wo dann die Webseiten einfach fragen können,
+
+00:52:09.344 --> 00:52:12.926
+<v Tim Pritlove>sag mal wie wärs denn mit Werbung über hmm, hmm, hmm,
+
+00:52:12.986 --> 00:52:17.368
+<v Tim Pritlove>würde dich das interessieren und der Browser kann das dann eben automatisch
+
+00:52:17.368 --> 00:52:21.530
+<v Tim Pritlove>beantworten und das tut er dann wiederum und da wird es halt creepy,
+
+00:52:21.530 --> 00:52:25.232
+<v Tim Pritlove>weil der Browser dann eben dir quasi ein bisschen dabei zuschaut,
+
+00:52:25.232 --> 00:52:30.094
+<v Tim Pritlove>was du eigentlich so machst und so liest und guckst und tust und so weiter,
+
+00:52:30.094 --> 00:52:34.776
+<v Tim Pritlove>weil um so ein Profil zu erstellen muss ja in irgendeiner Form eine Analyse stattfinden.
+
+00:52:35.517 --> 00:52:39.979
+<v Tim Pritlove>Und wenn die Analyse nicht mehr draußen stattfindet, dann muss sie ja quasi
+
+00:52:39.979 --> 00:52:41.359
+<v Tim Pritlove>in deinem eigenen Zimmer stattfinden.
+
+00:52:42.240 --> 00:52:46.502
+<v Tim Pritlove>So, da sind wir ja so ein bisschen wieder bei so einem, was darf auf meinem
+
+00:52:46.502 --> 00:52:48.102
+<v Tim Pritlove>Computer für Code laufen Diskussion.
+
+00:52:49.383 --> 00:52:54.265
+<v Tim Pritlove>Und ich glaube das ist auch so ein weiterer Aspekt, der hier als Schärfe mit
+
+00:52:54.265 --> 00:52:55.566
+<v Tim Pritlove>in die ganze Debatte mit reinkommt.
+
+00:52:56.587 --> 00:53:02.951
+<v Linus Neumann>Genau und jetzt natürlich das große Thema und aus gutem Grund würde ich sagen
+
+00:53:02.951 --> 00:53:08.936
+<v Linus Neumann>kann man auch echt sich dazu melden, jetzt sollte ausgerechnet die Idee von Google kommen.
+
+00:53:10.287 --> 00:53:14.440
+<v Linus Neumann>Ja die jetzt diese Sache vorantreiben die einen Browser gekauft haben die Kartellverfahren
+
+00:53:14.440 --> 00:53:22.286
+<v Linus Neumann>an den Backen haben die ohnehin die größten Bewegungen im Internet tracken und werbe finanziert sind.
+
+00:53:23.308 --> 00:53:26.694
+<v Linus Neumann>Und ausgerichtet die kommen jetzt und sagen, wir haben eine Privacy-Sandbox
+
+00:53:26.694 --> 00:53:31.061
+<v Linus Neumann>gebaut und wenn du dich darüber informieren willst, findest du echt keine.
+
+00:53:33.534 --> 00:53:36.896
+<v Linus Neumann>Ey du findest keine coolen, keine verständlichen Beschreibungen davon,
+
+00:53:36.896 --> 00:53:41.417
+<v Linus Neumann>so ein einfacher Callflow, wo einfach mal drinsteht, jo du besuchst ne Webseite
+
+00:53:41.417 --> 00:53:42.398
+<v Linus Neumann>jetzt passiert folgendes,
+
+00:53:42.398 --> 00:53:45.619
+<v Linus Neumann>das müssen ja die Leute die das programmieren, die müssen das ja alles wissen
+
+00:53:45.619 --> 00:53:48.240
+<v Linus Neumann>und können und können es ja problemlos machen,
+
+00:53:48.240 --> 00:53:53.342
+<v Linus Neumann>ja aber wenn du dir dann die, wenn du jetzt auf Privacy Dingens gehst,
+
+00:53:53.342 --> 00:53:56.924
+<v Linus Neumann>Privacy Sandbox, Dann kommt da irgendwie ein anderthalb Minuten Video,
+
+00:53:56.924 --> 00:53:59.985
+<v Linus Neumann>in dem eine Minute zehn lang erklärt wird,
+
+00:53:59.985 --> 00:54:05.007
+<v Linus Neumann>was alles schlimm war am Third-Party-Cookie-Tracking und dann so,
+
+00:54:05.007 --> 00:54:09.108
+<v Linus Neumann>oh, das ist alles weg, dank Google, danke schön, tschüss, nächstes Video,
+
+00:54:09.108 --> 00:54:13.950
+<v Linus Neumann>ne, und das, also da könnten sie in der Kommunikation schon ein bisschen besser
+
+00:54:13.950 --> 00:54:19.733
+<v Linus Neumann>sein, ja, wenn irgendwie ein Klick von dieser Privacy-Sandbox-Seite weg bist
+
+00:54:19.733 --> 00:54:23.374
+<v Linus Neumann>du irgendwie auf irgendwelchen Dev-Dingern von Google Chromium.
+
+00:54:23.474 --> 00:54:30.059
+<v Linus Neumann>Also da ist wirklich nicht vorgesehen, dass sich da jemand mehr mit auseinandersetzt,
+
+00:54:30.059 --> 00:54:32.601
+<v Linus Neumann>um das wirklich zu verstehen.
+
+00:54:33.502 --> 00:54:34.802
+<v Tim Pritlove>Wie nicht überraschend, ne?
+
+00:54:37.024 --> 00:54:41.087
+<v Linus Neumann>Naja, also, doesn't spark confidence,
+
+00:54:41.087 --> 00:54:45.149
+<v Linus Neumann>muss ich mal so sagen, ne, also, zumal gerade,
+
+00:54:45.149 --> 00:54:49.853
+<v Linus Neumann>wenn, also wenn Google sagt, wenn ausgerechnet Google sagt, hier pass mal auf,
+
+00:54:49.853 --> 00:54:54.276
+<v Linus Neumann>wir bauen ein neues System in unserem Browser ein, der, Und dieses System dient
+
+00:54:54.276 --> 00:54:59.279
+<v Linus Neumann>natürlich primär auch erstmal unseren finanziellen Interessen und macht unsere Konkurrenz kaputt.
+
+00:54:59.279 --> 00:55:01.700
+<v Linus Neumann>Dann kann ich schon verstehen, dass sich ein paar melden.
+
+00:55:02.361 --> 00:55:05.283
+<v Linus Neumann>Gleichzeitig diejenigen, viele von denen, die sich dann melden,
+
+00:55:05.283 --> 00:55:08.225
+<v Linus Neumann>haben halt auch wirtschaftliche Interessen in der ganzen Suppe.
+
+00:55:08.225 --> 00:55:14.729
+<v Linus Neumann>Nicht alle, ne, aber, oder die, vielleicht auch nicht die Mehrheit,
+
+00:55:14.729 --> 00:55:18.931
+<v Linus Neumann>aber es gibt eine Reihe an Leuten, die jetzt auch nicht ohne wirtschaftliche
+
+00:55:18.931 --> 00:55:22.613
+<v Linus Neumann>Interessen, nicht ohne wirtschaftliche Interessen sich da jetzt auf einmal gegenpositionieren.
+
+00:55:23.334 --> 00:55:26.256
+<v Linus Neumann>Also es riecht schon so ein bisschen komisch. Wenn das jetzt irgendwie von der
+
+00:55:26.256 --> 00:55:30.898
+<v Linus Neumann>IFF gekommen wäre, würde ich da mit weniger Argwohn drauf schauen,
+
+00:55:30.898 --> 00:55:32.639
+<v Linus Neumann>als wenn es jetzt ausgerechnet von Google kommt.
+
+00:55:34.120 --> 00:55:39.663
+<v Tim Pritlove>Ja also ich meine bei Google, ich hab's jetzt ehrlich gesagt nicht ausprobiert,
+
+00:55:39.663 --> 00:55:46.646
+<v Tim Pritlove>man kann wohl davon ausgehen, dass diese Privacy Sandbox so bei Default enabled ist.
+
+00:55:48.257 --> 00:55:53.070
+<v Tim Pritlove>Das ist ja sozusagen immer so die andere Frage, was ist der Default?
+
+00:55:53.530 --> 00:56:01.354
+<v Tim Pritlove>Ja weil würde jetzt sozusagen das Feature da drin sein und ja es wäre nicht aktiv.
+
+00:56:04.001 --> 00:56:06.563
+<v Tim Pritlove>Dann weiß ich nicht worüber ich mich groß aufregen sollte.
+
+00:56:08.765 --> 00:56:12.607
+<v Linus Neumann>Ja aber da weißt du ja auch wie das läuft. Du installierst den Browser und dann
+
+00:56:12.607 --> 00:56:16.510
+<v Linus Neumann>sagt der willst du mehr Privatsphäre dann drück hier den riesigen großen blauen Knopf.
+
+00:56:18.471 --> 00:56:23.264
+<v Linus Neumann>Und da unten rechts diese ganz kleinen steht da so. Nee ich möchte ich möchte
+
+00:56:23.264 --> 00:56:25.455
+<v Linus Neumann>ungeschützt ins Internet. Ja?
+
+00:56:25.936 --> 00:56:29.618
+<v Linus Neumann>So, dann wirst du schon wissen, wie viel Prozent das benutzen.
+
+00:56:29.938 --> 00:56:33.400
+<v Linus Neumann>Übrigens auf das Thema gebracht, könnte man den Kommentar auch noch kurz nennen,
+
+00:56:33.400 --> 00:56:40.666
+<v Linus Neumann>von NTHD, denn ich sagte, ich würde auch die gerade gelaunchte Privacy Sandbox
+
+00:56:40.666 --> 00:56:46.510
+<v Linus Neumann>und das katastrophale Web Environment Integrity Proposal nicht ganz relevant sehen.
+
+00:56:46.510 --> 00:56:50.053
+<v Linus Neumann>Da kommen wir später zu dem Web Environment Integrity Proposal,
+
+00:56:50.053 --> 00:56:51.094
+<v Linus Neumann>also in einer späteren Sendung.
+
+00:56:51.694 --> 00:56:56.318
+<v Linus Neumann>Und er sagt natürlich ganz klar, oder sie, Google ist ein Werbeunternehmen,
+
+00:56:56.318 --> 00:57:01.321
+<v Linus Neumann>dessen Vorstellung des Webs aus kostenfreien Inhalten und deren Werbefinanzierung besteht.
+
+00:57:01.722 --> 00:57:07.505
+<v Linus Neumann>Dank der Dominanz von Chrome und Chromium, der Engine, das aktuell über 70%
+
+00:57:07.505 --> 00:57:14.109
+<v Linus Neumann>der verwendeten Browser absteckt, können sie Standards eigenständig etablieren und sterben lassen.
+
+00:57:15.850 --> 00:57:18.852
+<v Linus Neumann>Etwas mehr Aufmerksamkeit für diese gefährliche Monopolstellung,
+
+00:57:18.852 --> 00:57:22.173
+<v Linus Neumann>fände ich auch jenseits der Privatsphäre-Bubble nicht verkehrt.
+
+00:57:25.776 --> 00:57:30.118
+<v Tim Pritlove>Okay, ich bin ja kein Chrome Nutzer, ich habe jetzt tatsächlich mal meinen Chrome,
+
+00:57:30.118 --> 00:57:33.600
+<v Tim Pritlove>der sich natürlich jetzt gerade letzte Woche auch automatisch aktualisiert hat,
+
+00:57:33.600 --> 00:57:35.361
+<v Tim Pritlove>gestartet und ich muss mich gleich korrigieren.
+
+00:57:36.762 --> 00:57:40.525
+<v Tim Pritlove>Tatsächlich ist es nicht automatisch aktiviert, aber es ist das erste,
+
+00:57:40.525 --> 00:57:44.307
+<v Tim Pritlove>was mir vor die Nase gelegt wird. Und es ist ganz interessant,
+
+00:57:44.307 --> 00:57:45.908
+<v Tim Pritlove>wie das Wording an dieser Stelle ist.
+
+00:57:47.089 --> 00:57:51.312
+<v Tim Pritlove>Also es kommt hoch mit eine Funktion zum Datenschutz bei Werbung aktivieren.
+
+00:57:51.872 --> 00:57:56.055
+<v Tim Pritlove>Das ist jetzt sozusagen hier so das Dialogfenster, was hier hochkommt.
+
+00:57:57.617 --> 00:58:02.300
+<v Tim Pritlove>Wir führen neue Datenschutzeinstellungen ein, mit denen du mehr Auswahlmöglichkeiten
+
+00:58:02.300 --> 00:58:06.002
+<v Tim Pritlove>in Bezug auf die angezeigte Werbung hast. Das ist natürlich schon mal schön,
+
+00:58:06.002 --> 00:58:09.245
+<v Tim Pritlove>ne? Mehr Auswahlmöglichkeiten. Super.
+
+00:58:11.727 --> 00:58:14.909
+<v Tim Pritlove>Werbethemen unterstützen Websites dabei, dir relevante Werbungen zu zeigen.
+
+00:58:14.909 --> 00:58:17.651
+<v Tim Pritlove>Deine Identität und dein Browserverlauf werden dabei geschützt.
+
+00:58:17.651 --> 00:58:21.774
+<v Tim Pritlove>Chrome kann aufgrund deines aktuellen Browserverlaufs auf Themen schließen,
+
+00:58:21.774 --> 00:58:23.174
+<v Tim Pritlove>die dich interessieren könnten.
+
+00:58:24.676 --> 00:58:28.589
+<v Tim Pritlove>Websites, die du besuchst, können dann relevante Themen von Chrome anfordern,
+
+00:58:28.589 --> 00:58:31.550
+<v Tim Pritlove>um die dir angezeigte Werbung zu personalisieren.
+
+00:58:32.521 --> 00:58:35.944
+<v Tim Pritlove>Du kannst dir die Werbethemen in deinen Einstellungen ansehen und diejenigen
+
+00:58:35.944 --> 00:58:40.347
+<v Tim Pritlove>blockieren, die nicht mit Websites geteilt werden sollen. Darüber hinaus werden
+
+00:58:40.347 --> 00:58:43.530
+<v Tim Pritlove>in Chrome Werbethemen automatisch gelöscht, die älter als vier Wochen sind.
+
+00:58:45.051 --> 00:58:47.793
+<v Linus Neumann>Ja das finde ich schön, dass du das gerade noch vorgelesen hast,
+
+00:58:47.793 --> 00:58:51.116
+<v Linus Neumann>das hatte ich nämlich auch so in Erinnerung, dass es da auch so eine Art Radiergummi
+
+00:58:51.116 --> 00:58:58.541
+<v Linus Neumann>gibt, der so ein bisschen deine Interessen aktuell hält.
+
+00:58:58.642 --> 00:59:02.654
+<v Linus Neumann>Ich weiß jetzt gar nicht unbedingt, ich kann mir auch vorstellen, also...
+
+00:59:03.931 --> 00:59:07.793
+<v Linus Neumann>Die werden diese, die werden das Ding so gewählt haben, dass sie sagen so komm ey,
+
+00:59:07.793 --> 00:59:13.097
+<v Linus Neumann>entweder wir haben es dem in vier Wochen verkauft, oder der hat sich das Sofa
+
+00:59:13.097 --> 00:59:16.879
+<v Linus Neumann>halt einfach offline gekauft, aber wir brauchen dem jetzt keine Sofa Werbung
+
+00:59:16.879 --> 00:59:20.561
+<v Linus Neumann>mehr zu zeigen, sicherlich auch damit schneiden die sich jetzt nicht in ihrem
+
+00:59:20.561 --> 00:59:22.202
+<v Linus Neumann>Modell, in ihr Geschäftsmodell, ne.
+
+00:59:22.543 --> 00:59:26.405
+<v Linus Neumann>Aber es gibt natürlich irgendwie alles, was irgendwie Sachen werden automatisch
+
+00:59:26.405 --> 00:59:32.509
+<v Linus Neumann>gelöscht und so weiter, gibt den Nutzerinnen natürlich ein besseres Gefühl oder
+
+00:59:32.509 --> 00:59:35.791
+<v Linus Neumann>ein gutes Gefühl, dass man da überhaupt eine Autonomie hat.
+
+00:59:36.272 --> 00:59:39.473
+<v Linus Neumann>Oder eine Möglichkeit hat da reinzuschauen, Sachen zu löschen, wegzuklicken.
+
+00:59:40.494 --> 00:59:45.816
+<v Linus Neumann>Und das ist ja, also, das haben wir auf jeden Fall jetzt nicht,
+
+00:59:45.816 --> 00:59:49.518
+<v Linus Neumann>so viel kann man glaube ich sagen, oder?
+
+00:59:49.979 --> 00:59:52.860
+<v Linus Neumann>Also jetzt kannst du alle deine Cookies löschen und dann wirst du halt über
+
+00:59:52.860 --> 00:59:57.162
+<v Linus Neumann>Browser Fingerprinting und über deine Surfgewohnheiten sofort wiedererkannt.
+
+00:59:57.923 --> 01:00:02.185
+<v Tim Pritlove>Ja und diese ganzen Cookies, also ich meine das versteht doch echt keiner,
+
+01:00:02.185 --> 01:00:06.657
+<v Tim Pritlove>was das irgendwie ist. Das nervt auch einfach nur. Also wäre schön,
+
+01:00:06.657 --> 01:00:08.448
+<v Tim Pritlove>könnte man einfach mal wegschmeißen.
+
+01:00:08.828 --> 01:00:13.291
+<v Tim Pritlove>Ich hab das jetzt mal hier aktiviert, dann kommt der mir gleich hoch.
+
+01:00:13.511 --> 01:00:16.153
+<v Linus Neumann>Du kannst es nie wieder deaktivieren, Tim. Den Knopf findest du nicht.
+
+01:00:16.153 --> 01:00:20.075
+<v Tim Pritlove>Da bin ich mir sicher. Ja, das ist eine andere Frage.
+
+01:00:20.075 --> 01:00:21.876
+<v Linus Neumann>Ich guck mal hier im Chrome.
+
+01:00:24.198 --> 01:00:25.338
+<v Linus Neumann>Oh, ich bin sogar eingeloggt.
+
+01:00:25.679 --> 01:00:29.321
+<v Tim Pritlove>Da kommt dann gleich weitere Funktionen zum Datenschutz bei Werbung. Jetzt verfügbar.
+
+01:00:29.681 --> 01:00:34.384
+<v Tim Pritlove>Also ich hab das jetzt aktiviert. Jetzt kommt sozusagen gleich weitere Funktionen, die verfügbar sind.
+
+01:00:37.007 --> 01:00:43.370
+<v Tim Pritlove>Ich weiß jetzt gar nicht, was jetzt noch Neues kommt, aber ich glaube,
+
+01:00:43.370 --> 01:00:46.772
+<v Tim Pritlove>Erfolgsmessung von Anzeigen.
+
+01:00:47.113 --> 01:00:50.575
+<v Tim Pritlove>Ist die Funktion zur Erfolgsmessung von Anzeigen aktiviert, werden zwischen
+
+01:00:50.575 --> 01:00:56.880
+<v Tim Pritlove>Websites bestimmte Daten übertragen, um die Leistung der auf ihnen präsentierten Werbung zu messen.
+
+01:00:57.301 --> 01:01:01.163
+<v Tim Pritlove>Unter anderem wird erfasst zu welcher Uhrzeit welche Werbung eingeblendet worden.
+
+01:01:01.163 --> 01:01:07.888
+<v Tim Pritlove>Also das ist sozusagen diese Methode Werbe, wie nennt man das,
+
+01:01:07.888 --> 01:01:11.070
+<v Tim Pritlove>die Effektivität von Werbung sozusagen zu messen.
+
+01:01:17.216 --> 01:01:20.338
+<v Tim Pritlove>Von dir besuchte Websites können von Chrome Informationen abfragen,
+
+01:01:20.338 --> 01:01:22.299
+<v Tim Pritlove>um die Leistung ihrer Anzeigen messen zu können.
+
+01:01:24.361 --> 01:01:26.622
+<v Tim Pritlove>Du kannst Änderungen in den Einstellungen von Chrome vornehmen.
+
+01:01:27.884 --> 01:01:30.445
+<v Tim Pritlove>Jetzt kann ich aber hier nur OK klicken oder Einstellungen.
+
+01:01:32.427 --> 01:01:36.910
+<v Tim Pritlove>Naja mal gucken, irgendwelche Werbethemen schon gelistet. Momentan sind keine
+
+01:01:36.910 --> 01:01:40.196
+<v Tim Pritlove>Themen vorhanden. Okay gut, ist ja auch kein Wunder. Ich habe den gerade neu gestartet.
+
+01:01:40.597 --> 01:01:42.619
+<v Tim Pritlove>Ich kann dann Themen blockieren. Ja und,
+
+01:01:45.145 --> 01:01:45.566
+<v Tim Pritlove>ähm...
+
+01:01:47.534 --> 01:01:49.855
+<v Tim Pritlove>Dann von Websites vorgeschlagene Werbung, genau.
+
+01:01:53.098 --> 01:01:56.821
+<v Tim Pritlove>Ich kann auch einzelne Webseiten blockieren, das ist hier auch drin und dann
+
+01:01:56.821 --> 01:02:00.188
+<v Tim Pritlove>kommt noch die Erfolgsmessung von Anzeigen, die ist jetzt einfach eingeschaltet,
+
+01:02:00.188 --> 01:02:02.165
+<v Tim Pritlove>die habe ich nicht explizit eingeschaltet.
+
+01:02:02.165 --> 01:02:05.867
+<v Linus Neumann>Genau das wollte ich nämlich auch, bei mir ist an, also bei mir ist sowieso
+
+01:02:05.867 --> 01:02:11.872
+<v Linus Neumann>nur Ad Topics ist aus, Sites Suggested Ads ist an und Ad Measurement ist an.
+
+01:02:13.333 --> 01:02:16.595
+<v Linus Neumann>Ja, also das müssen wir uns auch nochmal… Also das Problem ist,
+
+01:02:16.595 --> 01:02:22.459
+<v Linus Neumann>ich muss echt sagen, dass das Frontend für die User ist hier glaube ich sehr
+
+01:02:22.459 --> 01:02:25.882
+<v Linus Neumann>uninteressant, ist hier nicht der Teil wo man lernt was das für ein System ist,
+
+01:02:25.882 --> 01:02:26.843
+<v Linus Neumann>ob es gut oder schlecht ist.
+
+01:02:28.244 --> 01:02:28.724
+<v Tim Pritlove>Natürlich nicht.
+
+01:02:29.445 --> 01:02:34.328
+<v Linus Neumann>Na, das, also da, da, da, da, und das ist auch, ja, ich kann jetzt nochmal sagen,
+
+01:02:34.328 --> 01:02:39.632
+<v Linus Neumann>das ist, es ist sehr geeignet, ähm, Argwohn zu erzeugen, was man da jetzt sieht,
+
+01:02:39.632 --> 01:02:41.934
+<v Linus Neumann>ne, aber es klingt auf jeden Fall erstmal so.
+
+01:02:42.114 --> 01:02:47.182
+<v Tim Pritlove>Ja, meine, meine wilde These, angenommen alle Browser der Welt,
+
+01:02:47.182 --> 01:02:50.466
+<v Tim Pritlove>alle, werden jetzt mit diesem Feature ausgestattet. Mh.
+
+01:02:53.676 --> 01:02:54.856
+<v Tim Pritlove>Würde die Welt untergehen?
+
+01:02:57.518 --> 01:03:01.700
+<v Linus Neumann>Tim ist, also nur weil jetzt die letzte Generation sich um den Weltuntergang
+
+01:03:01.700 --> 01:03:07.423
+<v Linus Neumann>Gedanken macht, müssen die ja nicht jedes Thema mit dem Weltuntergang direkt aufwiegen, ja?
+
+01:03:08.504 --> 01:03:11.005
+<v Linus Neumann>Also, weißt du, das ist auch nicht fair.
+
+01:03:11.005 --> 01:03:13.146
+<v Tim Pritlove>Ja, Entschuldigung, so eine andere Formulierung.
+
+01:03:14.186 --> 01:03:17.548
+<v Linus Neumann>Du kannst jetzt sagen, wäre das Internet eine bessere Welt?
+
+01:03:18.168 --> 01:03:21.850
+<v Tim Pritlove>Würde das Internet dann für uns alle besser funktionieren? Wären die Werbepartner
+
+01:03:21.850 --> 01:03:25.552
+<v Tim Pritlove>glücklich und werden die Kunden glücklich? Ich kann es ja ausschalten,
+
+01:03:25.552 --> 01:03:29.774
+<v Tim Pritlove>so und dann ist ja auch irgendwie Ruhe im Karton, das ist so ein bisschen das
+
+01:03:29.774 --> 01:03:32.516
+<v Tim Pritlove>Versprechen, das wäre ja eigentlich ganz schön.
+
+01:03:35.237 --> 01:03:41.740
+<v Tim Pritlove>So kann ich jetzt das einschalten und trotzdem so das Gefühl haben ich sitze
+
+01:03:41.740 --> 01:03:45.883
+<v Tim Pritlove>immer noch im Sandkasten und da kommt jetzt keiner rein oder da kommt jetzt
+
+01:03:45.883 --> 01:03:51.605
+<v Tim Pritlove>nichts raus was ich nicht möchte dass es rauskommt vielleicht keine Ahnung muss man mal gucken.
+
+01:03:53.887 --> 01:03:55.868
+<v Linus Neumann>Man kann nur mit der kleinen Schippe Sand rausheben.
+
+01:03:55.868 --> 01:03:59.189
+<v Tim Pritlove>Ja genau, also mit Sicherheit wird es auch erstmal Fehler geben,
+
+01:03:59.189 --> 01:04:02.811
+<v Tim Pritlove>vielleicht konzeptionelle Fehler, vielleicht einfach technische Umsetzungsfehler,
+
+01:04:02.811 --> 01:04:08.574
+<v Tim Pritlove>die in irgendeiner Form ausgenutzt werden können, aber mal salopp formuliert,
+
+01:04:08.574 --> 01:04:11.716
+<v Tim Pritlove>könnte ja auch sein, dass dadurch alles besser wird.
+
+01:04:12.376 --> 01:04:16.298
+<v Tim Pritlove>So, jetzt müssen wir mal gucken, haben wir noch irgendwelche Risiken übersehen mit Sicherheit?
+
+01:04:19.320 --> 01:04:23.022
+<v Tim Pritlove>Aber ich würde das auch mal jetzt ein bisschen ergebnisoffener diskutieren wollen.
+
+01:04:24.043 --> 01:04:27.965
+<v Tim Pritlove>Warum regen sich alle über dieses Web Integrity so auf? Das habe ich noch nicht so ganz verstanden.
+
+01:04:28.405 --> 01:04:31.827
+<v Linus Neumann>Das im Prinzip DRM für Webseiten ist, wo du,
+
+01:04:31.827 --> 01:04:40.131
+<v Linus Neumann>die dir eine Reihe an Features im Web ermöglichen sollen,
+
+01:04:40.131 --> 01:04:48.135
+<v Linus Neumann>die du sonst potenziell nur, ja vielleicht mit obfuscated Code hinkriegst.
+
+01:04:48.135 --> 01:04:50.235
+<v Linus Neumann>Also kannst du mal ein Beispiel nennen?
+
+01:04:51.688 --> 01:04:55.530
+<v Linus Neumann>Ja ich glaube das einfachste Beispiel ist Videostreaming. Wenn du Video über
+
+01:04:55.530 --> 01:05:03.896
+<v Linus Neumann>den Browser streamst, am Ende gibt es da nur Kontexte, die passieren bis du das Video siehst.
+
+01:05:03.896 --> 01:05:06.397
+<v Linus Neumann>Am Ende gibt es einen MP4 Renderer und der spielt dir das Video.
+
+01:05:06.397 --> 01:05:10.179
+<v Linus Neumann>Ja und alles was auf dem Weg dazwischen gemacht wird, ist irgendeine Zauberei
+
+01:05:10.179 --> 01:05:14.542
+<v Linus Neumann>um dich daran zu hindern auf einfachem Weg einfach das Video herunter zu laden.
+
+01:05:15.903 --> 01:05:20.326
+<v Tim Pritlove>Und das gibt's ja jetzt schon lange, diese Funktion. Das ganze Netflix Streaming
+
+01:05:20.326 --> 01:05:23.588
+<v Tim Pritlove>im Web und so weiter, das hatten wir ja schon vor ein paar Jahren, diese DHM.
+
+01:05:23.748 --> 01:05:27.890
+<v Linus Neumann>Ja und wie gesagt, das macht's ja aber nur schwerer und nach meinem Verständnis
+
+01:05:27.890 --> 01:05:30.710
+<v Linus Neumann>ist es sicherlich nicht unmöglich so ein Netflix Video runterzuladen.
+
+01:05:32.531 --> 01:05:36.253
+<v Linus Neumann>Es ist aber natürlich erschwert. Mit dem Web Integrity soll es im Prinzip so
+
+01:05:36.253 --> 01:05:45.216
+<v Linus Neumann>sein, dass du, dass es letztendlich Code gibt, den du nicht mehr vollständig
+
+01:05:45.216 --> 01:05:47.477
+<v Linus Neumann>nachvollziehen und überwachen kannst.
+
+01:05:48.197 --> 01:05:50.798
+<v Linus Neumann>Oder und vor allem nicht mehr verändern kannst in seiner Integrität.
+
+01:05:51.299 --> 01:05:55.000
+<v Linus Neumann>Und das verkaufen sie dir als hey, jetzt kriegst du ein sichereres Web.
+
+01:05:55.941 --> 01:05:59.182
+<v Linus Neumann>Aber dass die Webseiten, die uns ausgeliefert werden, nicht integer sind,
+
+01:05:59.182 --> 01:06:02.743
+<v Linus Neumann>ist ja nun wirklich nicht unbedingt unser Problem. Das ist also,
+
+01:06:13.628 --> 01:06:18.190
+<v Linus Neumann>eher eine Lösung für DRM als Web. Und ich meine, die müssen sich ja eh sehr
+
+01:06:18.190 --> 01:06:19.951
+<v Linus Neumann>bemühen, das Web zu retten, ne?
+
+01:06:21.933 --> 01:06:27.196
+<v Linus Neumann>Und das machen sie halt, dass sie sagen, die Echtheit der Webseite und der Kontexte wird bestätigt.
+
+01:06:27.897 --> 01:06:34.782
+<v Linus Neumann>Schauen wir uns nochmal genauer an, aber theoretisch kannst du damit Leute aussperren,
+
+01:06:34.782 --> 01:06:40.346
+<v Linus Neumann>wenn sie einen nicht genehmigten Browser haben. Oder ein nicht genehmigtes Betriebssystem
+
+01:06:40.346 --> 01:06:42.688
+<v Linus Neumann>oder vielleicht auch ein Plugin, was du nicht möchtest.
+
+01:06:42.988 --> 01:06:48.539
+<v Linus Neumann>Im Prinzip sowas wie, dein Browser macht eine Remote Attestation zu der Webseite und sagt hier.
+
+01:06:49.561 --> 01:06:51.825
+<v Linus Neumann>Ich bin so, wie du dir das vorgestellt hast.
+
+01:06:52.963 --> 01:06:57.446
+<v Tim Pritlove>Also wenn ich das richtig verstehe, Environment Integrity ist eher ein Schutz
+
+01:06:57.446 --> 01:06:59.467
+<v Tim Pritlove>von Webseiten vor den Clients,
+
+01:06:59.467 --> 01:07:04.571
+<v Tim Pritlove>um sicherstellen zu können, dass die Clients richtige Menschen sind,
+
+01:07:04.571 --> 01:07:08.733
+<v Tim Pritlove>also sozusagen so Bild in Capture, dass man in irgendeiner Form das sicherstellt
+
+01:07:08.733 --> 01:07:12.936
+<v Tim Pritlove>und damit quasi den Browsern etwas auferlegt,
+
+01:07:12.936 --> 01:07:18.040
+<v Tim Pritlove>was sie nachweisen müssen, was dann wiederum die Auswahl der Clients gegebenenfalls
+
+01:07:18.040 --> 01:07:22.522
+<v Tim Pritlove>einschränkt in dem Moment, wo die Webseiten einfach sagen, wenn du das nicht hast, dann liefere ich.
+
+01:07:22.843 --> 01:07:24.724
+<v Tim Pritlove>Ich dir auch sozusagen nichts.
+
+01:07:25.705 --> 01:07:30.328
+<v Tim Pritlove>Auch hier steckt natürlich ein Problem dahinter. Ich würde das jetzt erstmal
+
+01:07:30.328 --> 01:07:33.690
+<v Tim Pritlove>mit diesem DRM Beispiel nicht so nennen, sondern hier geht es ja eher darum,
+
+01:07:33.690 --> 01:07:37.853
+<v Tim Pritlove>und auch das ist ja ein nachvollziehbares Problem.
+
+01:07:37.853 --> 01:07:45.098
+<v Tim Pritlove>So DDoS Attacken irgendwie, also und generell Zugriffe auf Webseiten,
+
+01:07:45.098 --> 01:07:47.059
+<v Tim Pritlove>die eben verhindern sollen, dass.
+
+01:07:48.600 --> 01:07:53.043
+<v Linus Neumann>DDoS ausgerechnet mit einer kryptographischen Operation verhindern zu wollen.
+
+01:07:53.563 --> 01:07:56.845
+<v Tim Pritlove>DDoS attacken, entschuldige ich hatte nicht DDoS also denial of service also
+
+01:07:56.845 --> 01:08:01.668
+<v Tim Pritlove>sozusagen in irgendeiner Form Zugriffe zu machen die dazu gedacht sind entweder
+
+01:08:01.668 --> 01:08:05.910
+<v Tim Pritlove>den Dienst als solchen unter Stress und damit außer Dienst zu stellen oder die
+
+01:08:05.910 --> 01:08:11.213
+<v Tim Pritlove>in irgendeiner Form Crawler darstellen zum Auslesen von Daten und so weiter.
+
+01:08:11.213 --> 01:08:15.155
+<v Tim Pritlove>Es gibt ja genug Ärger, die man haben kann als Webseitenbetreiber,
+
+01:08:15.155 --> 01:08:18.217
+<v Tim Pritlove>der real ist, der von Clients kommt.
+
+01:08:18.217 --> 01:08:20.778
+<v Tim Pritlove>Und hier drückt sich, glaube ich, so ein bisschen dieser Wunsch aus,
+
+01:08:20.778 --> 01:08:25.261
+<v Tim Pritlove>da wäre aber schön, wenn wir mal wüssten, dass da auf der Gegenseite auch ein
+
+01:08:25.261 --> 01:08:26.361
+<v Tim Pritlove>interessierter Mensch sitzt.
+
+01:08:27.982 --> 01:08:29.103
+<v Tim Pritlove>Aber naja, gut.
+
+01:08:29.524 --> 01:08:35.067
+<v Linus Neumann>Okay, aber das Thema, wir wollten uns glaube ich primär der Privacy Sandbox widmen.
+
+01:08:35.067 --> 01:08:41.192
+<v Linus Neumann>Ja, ich würde als vorsichtiges Fazit, okay Weltuntergang wird das jetzt nicht,
+
+01:08:41.192 --> 01:08:45.395
+<v Linus Neumann>da bin ich bei dir, also sagen wir mal so, wenn das zum Weltuntergang führt,
+
+01:08:45.395 --> 01:08:47.376
+<v Linus Neumann>bin ich zumindest überrascht.
+
+01:08:48.057 --> 01:08:53.601
+<v Linus Neumann>Meine Wetten gehen gerade eher auf Klimawandel oder halt Donald Trump oder so,
+
+01:08:53.601 --> 01:08:56.623
+<v Linus Neumann>da bin ich jetzt noch nicht bei. Ahaha, ähm...
+
+01:08:59.978 --> 01:09:05.662
+<v Linus Neumann>Wird es zu einer guten Welt führen? Auch nicht. Wird es potenziell zu einer
+
+01:09:05.662 --> 01:09:07.724
+<v Linus Neumann>besseren Situation führen?
+
+01:09:08.505 --> 01:09:11.587
+<v Linus Neumann>Werden wir sehen. Auf jeden Fall sag ich mal, das ist aber auch nicht schwer,
+
+01:09:11.587 --> 01:09:15.690
+<v Linus Neumann>weil die jetzige Situation wirklich nicht besonders geil ist. Oder?
+
+01:09:15.690 --> 01:09:21.454
+<v Tim Pritlove>Aber es wird auf jeden Fall dazu führen, dass wir eine Menge Kommentare dazu bekommen.
+
+01:09:22.295 --> 01:09:23.956
+<v Linus Neumann>Dafür haben wir dann die Webintegrity Potential.
+
+01:09:30.219 --> 01:09:37.523
+<v Tim Pritlove>Kommentare jetzt, nur noch wenn ihr vorher auch digital nachweisen könnt, dass ihr Integra seid.
+
+01:09:38.683 --> 01:09:40.044
+<v Linus Neumann>Nur noch von neuen iPhones.
+
+01:09:41.004 --> 01:09:44.786
+<v Tim Pritlove>Kommen wir zum nächsten Thema oder?
+
+01:09:44.786 --> 01:09:49.908
+<v Linus Neumann>So, Chatkontrolle.
+
+01:09:49.908 --> 01:09:54.290
+<v Linus Neumann>Letzte Woche haben wir noch darüber gesprochen und da hatte ich eine Zeitleiste
+
+01:09:54.290 --> 01:09:59.812
+<v Linus Neumann>geschildert, wann das da in die heiße Phase geht. Die hat sich jetzt relativ stark verändert.
+
+01:10:00.513 --> 01:10:07.176
+<v Linus Neumann>Die ist sehr viel dichter geworden, denn schon in zwei Wochen wollen die EU-Staaten
+
+01:10:07.176 --> 01:10:08.086
+<v Linus Neumann>die Chatkontrolle beschließen.
+
+01:10:11.358 --> 01:10:16.123
+<v Linus Neumann>Andrej hat da wieder ein schönes Protokoll veröffentlicht. Die sind aber trotzdem
+
+01:10:16.123 --> 01:10:22.389
+<v Linus Neumann>noch im Clinch. Es ist unklar, wie sie sich einigen.
+
+01:10:24.031 --> 01:10:31.158
+<v Linus Neumann>Und zwar ist das die Arbeitsgruppe der Justiz und Innenminister. Und die möchten...
+
+01:10:33.267 --> 01:10:34.128
+<v Linus Neumann>Ja, am 28.
+
+01:10:38.171 --> 01:10:39.552
+<v Linus Neumann>September ihren Beschluss fassen.
+
+01:10:43.535 --> 01:10:47.198
+<v Linus Neumann>Jetzt stellt sich die Frage, wie wollte er das machen? Einig sind sie sich noch nicht.
+
+01:10:51.442 --> 01:10:54.543
+<v Linus Neumann>Die spanische Ratspräsidentschaft will das ja durchdrücken und beschließen,
+
+01:10:54.543 --> 01:10:58.746
+<v Linus Neumann>haben wir auch darüber gesprochen, dass sie sehr ambitioniert ist,
+
+01:10:58.746 --> 01:11:04.271
+<v Linus Neumann>direkt noch Kryptographie mit verbieten will und damit mehr oder weniger überrascht
+
+01:11:04.271 --> 01:11:07.754
+<v Linus Neumann>ist, überhaupt so viele Abstriche machen zu müssen.
+
+01:11:08.595 --> 01:11:11.697
+<v Linus Neumann>Und wir erinnern uns auch, was ich in der letzten Woche, in der letzten Sendung
+
+01:11:11.697 --> 01:11:16.761
+<v Linus Neumann>zitiert habe, vier Staaten mit mindestens 35 Prozent der Bevölkerung können
+
+01:11:16.761 --> 01:11:19.143
+<v Linus Neumann>eine Sperrminorität bilden.
+
+01:11:20.484 --> 01:11:21.334
+<v Linus Neumann>Das wäre realistisch.
+
+01:11:22.686 --> 01:11:27.568
+<v Linus Neumann>Polen, Niederlande, Schweden, Österreich und vielleicht noch Deutschland.
+
+01:11:28.629 --> 01:11:30.609
+<v Linus Neumann>Und da ist jetzt natürlich eine
+
+01:11:30.609 --> 01:11:34.451
+<v Linus Neumann>ganz andere Situation, oder ist jetzt hier eine ganz andere Situation.
+
+01:11:34.871 --> 01:11:37.732
+<v Linus Neumann>Deutschland ist im Moment noch in diesen Arbeitsgruppen dagegen,
+
+01:11:37.732 --> 01:11:42.895
+<v Linus Neumann>sagt wesentliche Änderungen sind erforderlich, dass wir hier überhaupt mitmachen können.
+
+01:11:43.615 --> 01:11:48.637
+<v Linus Neumann>Und jetzt müssen, sagen wir mal, die haben nicht mehr so viel Zeit zum umkippen.
+
+01:11:50.398 --> 01:11:56.200
+<v Linus Neumann>Das ist, glaube ich, das Fazit. Währenddessen ist noch eine,
+
+01:11:56.200 --> 01:11:59.902
+<v Linus Neumann>also das ist jetzt heiße Phase, aber 28.
+
+01:11:59.902 --> 01:12:05.844
+<v Linus Neumann>September, wichtig. Und währenddessen ist noch eher so ein Randnotiz,
+
+01:12:05.844 --> 01:12:10.346
+<v Linus Neumann>aber wir haben das ja hier auch nicht so behandelt oder nur am Rande behandelt,
+
+01:12:10.627 --> 01:12:18.631
+<v Linus Neumann>dass diese ganze Chat-Kontrollenummer, ja, ohne Ende irgendwie von Ashton Kutcher vorangebracht wird.
+
+01:12:19.132 --> 01:12:24.654
+<v Linus Neumann>Den ein mir nicht bekannter mensch aber der ich weiß dass der in hollywood star ist der.
+
+01:12:27.566 --> 01:12:31.509
+<v Linus Neumann>Ja hier mit ey passt auf mit AI tun wir jetzt endlich was gegen den dokumentierten
+
+01:12:31.509 --> 01:12:32.870
+<v Linus Neumann>Kindesmissbrauch im Internet,
+
+01:12:32.870 --> 01:12:35.892
+<v Linus Neumann>da bei der EU irgendwie offene Türen
+
+01:12:35.892 --> 01:12:38.513
+<v Linus Neumann>eingerannt ist und dann tanzen die alle um
+
+01:12:38.513 --> 01:12:41.635
+<v Linus Neumann>den rum und meinten ja großartig der Kutscher
+
+01:12:41.635 --> 01:12:44.837
+<v Linus Neumann>ja und jetzt ist
+
+01:12:44.837 --> 01:12:49.647
+<v Linus Neumann>rausgekommen dass der in einem Strafverfahren
+
+01:12:49.647 --> 01:13:01.909
+<v Linus Neumann>wegen in diesem Fall zweifacher Vergewaltigung sich in einem Brief für den angeklagten
+
+01:13:01.909 --> 01:13:07.033
+<v Linus Neumann>und eben nachher auch verurteilten Schauspieler Danny Masterson eingesetzt hat.
+
+01:13:07.033 --> 01:13:11.816
+<v Linus Neumann>Also der war wegen zweifacher Vergewaltigung vor Gericht.
+
+01:13:13.878 --> 01:13:20.482
+<v Linus Neumann>Laut Anklage hatte er die Person, seine Opfer vorher unter Drogen gesetzt.
+
+01:13:22.424 --> 01:13:25.845
+<v Linus Neumann>Und er wurde auch verurteilt, aber Ashton Kutcher hat sich dann noch für den eingesetzt.
+
+01:13:26.467 --> 01:13:30.869
+<v Linus Neumann>Sagt er, dass er hätte ihn nie angelogen, hat sich für ein geringeres Strafmaß
+
+01:13:30.869 --> 01:13:35.933
+<v Linus Neumann>eingesetzt, sei keine Bedrohung für die Gesellschaft, einer der wenigen Menschen,
+
+01:13:35.933 --> 01:13:38.034
+<v Linus Neumann>die er alleine mit seinen Kindern lassen würde.
+
+01:13:39.455 --> 01:13:43.898
+<v Linus Neumann>Das sieht jetzt nicht so gut aus, wenn du auf der einen Seite rumrennst mit
+
+01:13:43.898 --> 01:13:48.521
+<v Linus Neumann>deinen KI-Startups und das Internet überwachen willst und auf der anderen Seite
+
+01:13:48.521 --> 01:13:51.223
+<v Linus Neumann>dich noch für Leute einsetzt,
+
+01:13:51.223 --> 01:13:55.046
+<v Linus Neumann>die nicht nur einmal schwere Verbrechen begangen haben.
+
+01:13:55.046 --> 01:14:00.720
+<v Linus Neumann>Hat aber wahrscheinlich nicht so sehr geholfen, aber sieht nicht so gut aus.
+
+01:14:03.447 --> 01:14:11.093
+<v Linus Neumann>Aber ja, man ist ja manchmal verwundert, welche Wendungen solche Dinge noch nehmen.
+
+01:14:12.414 --> 01:14:15.576
+<v Linus Neumann>Ja und dann gibt es eigentlich noch, da bin ich mir gar nicht so sicher,
+
+01:14:15.576 --> 01:14:19.159
+<v Linus Neumann>ob man das besprechen will, vielleicht kurz als Meldung, es wurde eine russische
+
+01:14:19.159 --> 01:14:21.741
+<v Linus Neumann>Exil-Journalistin mit Pegasus gehackt.
+
+01:14:22.061 --> 01:14:25.523
+<v Linus Neumann>Zum Zeitpunkt der Infektion hat sie sich in, glaube ich, sogar in Deutschland
+
+01:14:25.523 --> 01:14:30.167
+<v Linus Neumann>befunden, das bedeutet nicht, dass der Angriff aus Deutschland kam.
+
+01:14:31.708 --> 01:14:34.850
+<v Linus Neumann>Bei einer russischen Exil-Journalistin würde man natürlich vermuten,
+
+01:14:34.850 --> 01:14:39.873
+<v Linus Neumann>war wahrscheinlich Russland, das die gehackt hat.
+
+01:14:40.694 --> 01:14:43.756
+<v Linus Neumann>Allerdings geht eigentlich keiner davon aus, dass Russland Pegasus hat.
+
+01:14:44.937 --> 01:14:49.290
+<v Linus Neumann>Überlegen, ob es vielleicht Aserbaidschan, Kasachstan oder Äzbekistan waren,
+
+01:14:49.290 --> 01:14:51.381
+<v Linus Neumann>die das für Russland getan haben.
+
+01:14:53.243 --> 01:14:59.507
+<v Linus Neumann>Aber auch bei denen gibt es keine Beweise, dass sie den Staatstrojaner von NSO gekauft hätten.
+
+01:15:02.670 --> 01:15:08.114
+<v Linus Neumann>Also unabhängig davon, wer jetzt diese Infektion vorgenommen hat,
+
+01:15:08.114 --> 01:15:12.947
+<v Linus Neumann>ist glaube ich relativ klar, dass sie wahrscheinlich im Interesse Russlands
+
+01:15:12.947 --> 01:15:16.600
+<v Linus Neumann>stattgefunden hat und ja,
+
+01:15:16.600 --> 01:15:23.906
+<v Linus Neumann>das sollte einen dann nochmal mit nochmal anderen Augen auf Pegasus und NSO blicken lassen,
+
+01:15:23.906 --> 01:15:29.149
+<v Linus Neumann>wenn man nicht vorher schon sich relativ darüber im klaren war,
+
+01:15:29.149 --> 01:15:33.752
+<v Linus Neumann>dass das halt ein sehr übles Unternehmen ist, mit dem man eigentlich nicht zusammenarbeiten
+
+01:15:33.752 --> 01:15:36.853
+<v Linus Neumann>möchte, dass man auch nicht fördern möchte.
+
+01:15:39.135 --> 01:15:42.356
+<v Linus Neumann>Tja, das war's eigentlich, so wäre meine Einschätzung dazu.
+
+01:15:44.298 --> 01:15:48.039
+<v Tim Pritlove>Ich versuche in der Zwischenzeit hier Chrome irgendwie meine Vorlieben durchsurfen.
+
+01:15:50.281 --> 01:15:52.882
+<v Linus Neumann>Willst du mir deine Surfvorlieben anzeigen lassen?
+
+01:15:53.462 --> 01:15:56.824
+<v Tim Pritlove>Dritter Anbieter Cookies blockieren musste ich aber jetzt auch erstmal ausschalten,
+
+01:15:56.824 --> 01:16:00.226
+<v Tim Pritlove>also nur weil ich das neue Feature eingeschaltet habe heißt noch lange nicht,
+
+01:16:00.226 --> 01:16:03.127
+<v Tim Pritlove>dass die dann auch gleich blockiert wurden, aber zumindest gibt es diese Funktion.
+
+01:16:05.129 --> 01:16:07.210
+<v Tim Pritlove>Do not track muss ich auch erstmal wieder einschalten.
+
+01:16:08.886 --> 01:16:11.708
+<v Linus Neumann>Ja gut das kannst du, ist ja egal das ignorieren ja eigentlich alle oder?
+
+01:16:13.109 --> 01:16:15.951
+<v Tim Pritlove>Ich werde auf jeden Fall gleich gewarnt wenn ich das einschalten will.
+
+01:16:15.951 --> 01:16:18.993
+<v Tim Pritlove>Oh wenn du das einschaltest wird eine Anfrage in deinem Browser aufgenommen.
+
+01:16:20.654 --> 01:16:23.456
+<v Tim Pritlove>Welche Auswirkungen die es hat hängt davon ab ob eine Website auf die Anfrage
+
+01:16:23.456 --> 01:16:27.159
+<v Tim Pritlove>reagiert und wie diese interpretiert wird. Angst Angst Angst.
+
+01:16:28.060 --> 01:16:31.182
+<v Tim Pritlove>Ja bestätigen ich will das haben ich versuche jetzt nur gerade die stelle zu
+
+01:16:31.182 --> 01:16:37.146
+<v Tim Pritlove>finden wo meine ganzen neuen tollen daten also ich will jetzt wissen welche themen mich hier.
+
+01:16:39.017 --> 01:16:41.489
+<v Linus Neumann>Internet surfen du hast ja gerade erst angemacht.
+
+01:16:41.489 --> 01:16:47.993
+<v Tim Pritlove>Ich habe ja schon ein bisschen ja das werbethema hier ist gefunden immer noch
+
+01:16:47.993 --> 01:16:54.597
+<v Tim Pritlove>keine themen. Krass. Da habe ich jetzt hier irgendwie Netzpolitik Org.
+
+01:16:58.800 --> 01:17:02.542
+<v Linus Neumann>Ja der hat natürlich eine Lernphase, soweit ich das verstehe.
+
+01:17:05.464 --> 01:17:08.886
+<v Linus Neumann>Ja ja das ist nicht, dass er beim ersten Mal sofort dann.
+
+01:17:09.026 --> 01:17:10.006
+<v Tim Pritlove>Gleich loslegt, ja.
+
+01:17:11.848 --> 01:17:16.170
+<v Linus Neumann>Mal gucken, ich kann ja immer so ein bisschen bewusst rumsurfen und ich mach
+
+01:17:16.170 --> 01:17:18.882
+<v Linus Neumann>nur, aber nicht mehr in dieser Sendung oder du kannst ja dann,
+
+01:17:18.882 --> 01:17:23.914
+<v Linus Neumann>du kannst jetzt mal eine Woche surfen und dann gucken wir mal morgen,
+
+01:17:23.914 --> 01:17:26.776
+<v Linus Neumann>dann gucken wir in der nächsten Sendung mal deine Interessen.
+
+01:17:26.776 --> 01:17:28.297
+<v Tim Pritlove>Genau.
+
+01:17:28.297 --> 01:17:32.349
+<v Linus Neumann>Bin ich ja mal gespannt. Du kannst ja ein paar rausnehmen, kannst ja sagen welche
+
+01:17:32.349 --> 01:17:33.560
+<v Linus Neumann>du rausgenommen hast dann.
+
+01:17:36.302 --> 01:17:42.485
+<v Tim Pritlove>Ich bin ein offenes buch was ich habe nichts zu verbergen im internet nix zu verbergen.
+
+01:17:42.485 --> 01:17:46.108
+<v Linus Neumann>Langweilig.
+
+01:17:46.108 --> 01:17:48.469
+<v Tim Pritlove>Internet vielleicht schon aber lokal auf meinem browser.
+
+01:17:49.770 --> 01:17:59.277
+<v Linus Neumann>Ja vor meinem browser vertraue ich der ist ja von google ganz innovativer browser ist das.
+
+01:18:01.939 --> 01:18:07.050
+<v Tim Pritlove>So Leute, das war es dann auch schon von uns diese Woche. Und dann hören wir
+
+01:18:07.050 --> 01:18:09.585
+<v Tim Pritlove>uns nächste Woche irgendwie wieder.
+
+01:18:11.166 --> 01:18:12.808
+<v Linus Neumann>Das versuchen wir ja.
+
+01:18:12.808 --> 01:18:16.552
+<v Tim Pritlove>So machen wir das. Alles klar. Das war es. Bis später. Tschüss. Tschüß!
+
+01:18:16.552 --> 01:18:17.052
+<v Linus Neumann>Bis dann.

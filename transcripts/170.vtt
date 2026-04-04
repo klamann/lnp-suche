@@ -1,0 +1,1340 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP170 Verwalter werden verwalten
+Publishing Date: 2016-01-29T20:59:52+01:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp170-verwalter-werden-verwalten
+
+00:00:00.005 --> 00:00:01.548
+<v Tim Pritlove>Guten Morgen Linus.
+
+00:00:00.006 --> 00:00:02.445
+<v Linus Neumann>Guten Morgen. Guten Morgen Tim.
+
+00:00:02.754 --> 00:00:06.032
+<v Tim Pritlove>Sag mal, wolltest du eigentlich auch nochmal zum Mars fliegen?
+
+00:00:06.117 --> 00:00:09.926
+<v Linus Neumann>Heute oder morgen.
+
+00:00:09.626 --> 00:00:12.799
+<v Tim Pritlove>Oder auch immer.
+
+00:00:13.959 --> 00:00:17.654
+<v Linus Neumann>Ja ich äh ich lasse mal den Elon Musk vorfliegen.
+
+00:00:39.257 --> 00:00:48.120
+<v Tim Pritlove>Netzpolitik, die einhundertsiebzigste Ausgabe wieder gewohnt aus der Mieterebene,
+
+00:00:48.787 --> 00:00:55.211
+<v Tim Pritlove>Es ist früh, wie immer. Gefühlt doppelt so früh, also später aus dem Bett kommt,
+
+00:00:55.806 --> 00:01:04.981
+<v Tim Pritlove>Ja. Tja, Linus, ähm wie sieht's aus? Alles, alles im Lot?
+
+00:01:04.940 --> 00:01:10.408
+<v Linus Neumann>Sogar hier geht's steil bergauf mit den Verlusten.
+
+00:01:10.108 --> 00:01:16.138
+<v Tim Pritlove>Was los? Hast du dich äh hast dich verspekuliert oder was?
+
+00:01:19.361 --> 00:01:28.381
+<v Linus Neumann>Na, ich gucke hier so, ey. Ich muss den ganzen Morgen schon darüber lachen, dass man bei der Süddeutschen Zeitung, wenn man den Artikel.
+
+00:01:29.433 --> 00:01:38.181
+<v Linus Neumann>Die haben den Titel geändert, die haben den Titel geändert bei der Süddeutschen Zeitung gab es heute Morgen einen schönen Artikel ähm,
+
+00:01:38.783 --> 00:01:43.560
+<v Linus Neumann>mit dem Titel, ich habe viel Geld verschleudert, ja
+
+00:01:43.554 --> 00:01:49.803
+<v Linus Neumann>Das ist ein Interview mit Harald Krasnitzer, dieser Tatortkommissar. Und wenn man da drauf klickt, kommt so eine Meldung
+
+00:01:49.731 --> 00:01:59.460
+<v Linus Neumann>Lesen Sie jetzt den kompletten Artikel, Monatsabo neunzehn neunundneunzig. Tagespass eins neunundneunzig und der Artikel hat den Titel, ich habe viel Geld verschleudert. Das fand ich sehr witzig.
+
+00:02:00.049 --> 00:02:04.597
+<v Linus Neumann>Und jetzt hat er aber jetzt hat er, wann äh eine andere Überschrift bekommen.
+
+00:02:04.297 --> 00:02:06.893
+<v Tim Pritlove>Äh das haben sie haben sie gemerkt, wie schlecht das rüberkommt?
+
+00:02:08.942 --> 00:02:12.902
+<v Tim Pritlove>Die Zeitungsbranche ist immer noch am ausloten, wie man,
+
+00:02:13.155 --> 00:02:23.123
+<v Tim Pritlove>Am besten mit der Zukunft klarkommt. Aber das ist ja hier auch unser Auftrag, nicht wahr? Auch wir versuchen hier die ganze Zeit auszutoten, wie wir mit der Zukunft klarkommen. Manchmal nicht ganz so einfach.
+
+00:02:23.142 --> 00:02:31.794
+<v Tim Pritlove>Nun ja, ähm was steht heute auf dem äh Programm? Wir haben äh so die eine oder andere Meldung
+
+00:02:31.621 --> 00:02:45.543
+<v Tim Pritlove>aber wir haben, wie es auch so in den letzten Sendungen schon häufiger der Fall war, haben wir äh ein Spezialthema äh am Start und für den Spezialthemen für das Spezialthema haben wir dann auch noch
+
+00:02:45.351 --> 00:02:55.692
+<v Tim Pritlove>den passenden Gas dazu. Und zwar begrüßen wir am anderen Ende der Leitungen ins Internet die Sandra, Sandra Troste, hallo Sandra.
+
+00:03:00.560 --> 00:03:01.720
+<v Linus Neumann>Guten Morgen Sandra.
+
+00:03:03.937 --> 00:03:12.708
+<v Tim Pritlove>Sandra, ja, wer ähm dich nicht kennt, wir erläutern das mal äh kurz, du bist äh Dokumentarfilmerin, kann man das so sagen?
+
+00:03:14.167 --> 00:03:16.526
+<v Tim Pritlove>Ja, also das ist schon so dein Hauptding, ne?
+
+00:03:23.232 --> 00:03:32.354
+<v Tim Pritlove>Mhm. Und ähm um kurz vorwegzunehmen, du arbeitest grade an einem Dokumentarfilm Projekt,
+
+00:03:32.504 --> 00:03:36.488
+<v Tim Pritlove>was sich mit dem Chaos,
+
+00:03:36.603 --> 00:03:45.952
+<v Tim Pritlove>und in gewisser Hinsicht auch ein wenig mit dem Chaos Kongress oder sagen wir mal insgesamt mit dieser Chaos, Eventkultur äh beschäftigt,
+
+00:03:46.602 --> 00:03:48.380
+<v Tim Pritlove>Ähm.
+
+00:03:49.498 --> 00:03:58.649
+<v Tim Pritlove>Erzähl doch mal kurz, wie du überhaupt so äh in diese Rolle reingewachsen bist. Also wie lange machst du das schon und, und, und warum?
+
+00:04:00.885 --> 00:04:13.528
+<v Tim Pritlove>Genau, also ich meine, man muss ja schon irgendwann mal so eine Entscheidung fällen, dass dass diese Art von Filmerei, also Filmerei an sich und natürlich dann auch speziell Dokumentarfilme so der eigene Film sind.
+
+00:05:11.756 --> 00:05:17.440
+<v Tim Pritlove>Mhm. Was ja auch schon so äh die ein oder andere größere Produktion gemacht,
+
+00:05:18.042 --> 00:05:31.490
+<v Tim Pritlove>Wie kam's denn dann dazu, ähm dass dass du dich jetzt mit dem TCC auseinandergesetzt hast? Oder wie bist du auf auf dieses diese Idee gekommen,
+
+00:05:31.941 --> 00:05:34.801
+<v Tim Pritlove>beim Camp äh dich zu engagieren.
+
+00:07:26.335 --> 00:07:31.659
+<v Tim Pritlove>Aber wenn du sagst, du warst auf verschiedenen Kongressen, meinst du damit aber noch nicht, den Chaos Communication Kongress oder auch.
+
+00:07:38.696 --> 00:07:41.249
+<v Tim Pritlove>Wie war das so für dich? Also ich meine, was.
+
+00:08:18.584 --> 00:08:28.000
+<v Tim Pritlove>Er, das kenne ich irgendwo her. Okay und dann hast du ein ein Team zusammengestellt und dir einen Plan gemacht,
+
+00:08:28.223 --> 00:08:40.349
+<v Tim Pritlove>und äh war's dann ja auf dem Camp die ganze Zeit äh präsent, also ich hatte so den, ich weiß gar nicht, ab wann hast du das Camp begleitet, so richtig vom Aufbau an mit.
+
+00:09:50.415 --> 00:09:52.818
+<v Tim Pritlove>Wie waren so deine Erfahrungen mit,
+
+00:09:52.969 --> 00:10:04.067
+<v Tim Pritlove>mit dem Camp und den Campteilnehmern, also du hast ja schon angedeutet, es gibt ja da so grundsätzlich immer eine recht ähm äh soll ich sagen, verbreitet Zurückhaltung und natürlich auch mehr oder weniger klare,
+
+00:10:04.290 --> 00:10:17.077
+<v Tim Pritlove>regeln, dass wir den Leuten eben ihren, ihren Freiraum auch dahingehend äh sichern wollen, dass sie jetzt nicht die ganze Zeit von irgendwelchen Kamerateams abgefilmt werden, das war ja in der Vergangenheit auch häufiger mal wirklich ein,
+
+00:10:17.251 --> 00:10:29.714
+<v Tim Pritlove>und ähm manche verstehen das so auf den ersten Blick von außen natürlich auch äh dann nicht, weil man's halt anders gewohnt ist, ne? Normalerweise, man geht auf Events und macht halt, was man will. Das ist ja das schon ein bisschen anders.
+
+00:10:29.708 --> 00:10:33.980
+<v Tim Pritlove>Bist du da? Hast du dich da angenommen gefühlt? Oder.
+
+00:10:58.678 --> 00:10:59.687
+<v Linus Neumann>Und hat gut geklappt.
+
+00:12:46.649 --> 00:12:59.171
+<v Tim Pritlove>Ich habe auch immer so, ich meine, ich hatte auch so das ein oder andere Mal schon mit Doku-Teams ähm äh meine Begegnungen gehabt und ich habe halt immer gemerkt, das funktioniert immer besonders dann gut, wenn so ein Team es schafft, eigentlich unsichtbar zu werden,
+
+00:12:59.598 --> 00:13:05.078
+<v Tim Pritlove>irgendwie dabei ist, aber äh keiner mehr das Gefühl hat, dass jemand dabei ist.
+
+00:13:53.404 --> 00:14:00.049
+<v Tim Pritlove>Hm. Ja, du hattest ja mal so eine, so eine, so eine grelle Jacke, wo hinten Dokuteam drauf stand.
+
+00:14:07.928 --> 00:14:20.961
+<v Tim Pritlove>Dann warst du auch noch mal aufm Kongress und äh ich vermute mal auch äh da ist Material entstanden, was letzten Endes in das Projekt äh einfließen soll, aber der Schwerpunkt liegt schon auf dem Camp oder kannst du das noch gar nicht sagen?
+
+00:15:16.431 --> 00:15:22.902
+<v Tim Pritlove>Mhm. Ja, aber es ist ja wirklich eine eine sehr schwer einzufangen der Atmosphäre, habe ich immer wieder festgestellt.
+
+00:15:29.675 --> 00:15:34.037
+<v Tim Pritlove>Das Projekt heißt All-Creaturs welcome, wie bist du auf den Namen gekommen?
+
+00:15:44.127 --> 00:15:45.851
+<v Linus Neumann>Ja, da haben wir auch drüber gesprochen, ja?
+
+00:16:06.360 --> 00:16:13.306
+<v Linus Neumann>Ich weiß nicht, ob ich das war. Also ich hatte ehrlich gesagt mit Kloschilder sind auch nur so im Rande mein.
+
+00:16:16.630 --> 00:16:31.310
+<v Linus Neumann>Ähm ich habe mich da sehr wenig mit auseinandergesetzt und ich weiß tatsächlich nicht, ähm weiß ich nicht genau, ob die also von wem die waren oder wie die beim einunddreißig C drei aussahen, das weiß ich tatsächlich nicht.
+
+00:17:12.574 --> 00:17:18.679
+<v Tim Pritlove>Es steht ja auch in der Präambel der Satzung des Chaos Computerclubs e.V. Ne? Der CCC ist eine
+
+00:17:18.541 --> 00:17:31.562
+<v Tim Pritlove>Gemeinschaft von Lebewesen, unabhängig von Alter, Geschlecht und Rasse sowie gesellschaftlicher Stellung, die sich grenzüberschreitend für Informationsfreiheit einsetzt und mit den Auswirkungen von Technologien auf die Gesellschaft, sowie das einzelne Lebewesen
+
+00:17:31.425 --> 00:17:37.121
+<v Tim Pritlove>beschäftigt und das Wissen um diese Entwicklung fördert.
+
+00:17:47.823 --> 00:17:55.629
+<v Tim Pritlove>So jetzt äh ist das natürlich ein ziemlicher Aufwand, so einen Film zu machen,
+
+00:17:55.635 --> 00:18:08.146
+<v Tim Pritlove>Also da fließt äh einerseits natürlich viel äh Zeit rein, um das überhaupt alles erstmal zu filmen, aber natürlich dann auch später daraus einen richtigen Film zu machen. Und das kostet natürlich auch alles Geld. Und,
+
+00:18:08.681 --> 00:18:12.761
+<v Tim Pritlove>wir reden ja auch jetzt ähm also wenn wir jetzt von Filmen reden,
+
+00:18:13.128 --> 00:18:23.222
+<v Tim Pritlove>Wir reden jetzt schon von einem relativ langen Film. Ich weiß nicht genau, ob du da schon irgendeine Länge äh im im im Kopf hast, was am Ende dabei rauskommen soll.
+
+00:18:49.250 --> 00:18:55.635
+<v Tim Pritlove>Okay. Und äh das muss natürlich alles auch irgendwie finanziert werden. Und was war da jetzt der Plan?
+
+00:21:16.999 --> 00:21:31.865
+<v Tim Pritlove>Ja gut, ich meine, dafür muss man sich gar nicht äh groß rechtfertigen. Meine das, wenn man da jetzt irgendwie zwei Jahre an so einem Ding äh rumstrickt und äh natürlich auch viele andere Leute da noch mit äh einbezieht und äh natürlich dann auch äh mit äh finanzieren muss. Das ist ja äh vollkommen klar.
+
+00:21:31.643 --> 00:21:39.389
+<v Tim Pritlove>Was ähm also was war denn jetzt sozusagen deine Strategie? Also um vielleicht mal kurz zusammenzufassen, du hast ja ähm ursprünglich
+
+00:21:39.293 --> 00:21:41.984
+<v Tim Pritlove>glaube ich, das Ganze über Förderung äh angedacht,
+
+00:21:41.985 --> 00:21:49.436
+<v Tim Pritlove>kam halt der Gedanke mit dem Crowdfunding noch mit dazu und äh ein Hintergrund ist ja auch die Frage, ob
+
+00:21:49.340 --> 00:21:52.572
+<v Tim Pritlove>dieser auf welche Art und Weise dieser Film,
+
+00:21:52.711 --> 00:22:07.415
+<v Tim Pritlove>das Licht des Tages sieht, weil üblicherweise ist das ja so, solche Filme werden dann irgendwie gemacht und dann werden die irgendwie gefördert und dann kommen die vielleicht auch mal irgendwie ins Kino und dann laufen die in so ein paar Kinos für ein paar Wochen und dann sind sie irgendwie wieder weg. Und das ist natürlich,
+
+00:22:07.481 --> 00:22:15.353
+<v Tim Pritlove>gerade sagen wir mal für diese Szene nicht unbedingt so die Erwartungshaltung, die man jetzt an so eine Dokumentation hat, ne, zumal wir ja auch schon früher
+
+00:22:15.197 --> 00:22:25.154
+<v Tim Pritlove>selber kleine Dokumentationen selber gemacht haben. Es gab also von den früheren Camps, wirst du ja auch gesehen haben, gab's so zehn, fünfzehn äh äh Minuten äh äh,
+
+00:22:25.370 --> 00:22:27.017
+<v Tim Pritlove>Videos, die ähm
+
+00:22:26.933 --> 00:22:40.645
+<v Tim Pritlove>auch sehr aufwendig waren und die wir dann teilweise einfach aus äh unseren eigenen nicht vorhandenen äh Budget mitfinanziert haben, aber eben mit dem Vorteil, dass die Dinger halt im Netz sind und auch äh für immer im Netz bleiben werden.
+
+00:23:53.794 --> 00:23:55.957
+<v Tim Pritlove>Video on demand, ne?
+
+00:24:36.927 --> 00:24:50.459
+<v Tim Pritlove>Mhm. Das heißt, selbst, selbst wenn du alles Geld, was du bekommen hast, wieder zurückzahlst, hast du trotzdem noch die Auflagen für, wie das überhaupt verwertet werden kann.
+
+00:25:30.919 --> 00:25:33.045
+<v Tim Pritlove>Den gelten keine der Auflagen mehr.
+
+00:27:14.803 --> 00:27:20.680
+<v Tim Pritlove>Also dein Plan ist jetzt, du musst das mal ein bisschen auseinanderhalten, also Filmförderung,
+
+00:27:21.233 --> 00:27:30.529
+<v Tim Pritlove>Hast du quasi schon mal angeleiert, weil für dich ja nicht klar war, welche Option am Ende rauskommt, aber du würdest dir das gerne ersparen.
+
+00:27:31.340 --> 00:27:43.863
+<v Tim Pritlove>Und damit du dir das aber ersparen kannst, müsste im Prinzip die vollständige Summe, die eben so eine Produktion kostet, die jetzt bei ungefähr hunderttausend Euro taxiert ist, müsste zusammenkommen.
+
+00:27:45.179 --> 00:27:54.409
+<v Tim Pritlove>Das ist jetzt sozusagen das Ziel. Und du hast jetzt ähm ähm du hast jetzt eine eine Crowdfunding-Webseite aufgesetzt bei Indigo.
+
+00:27:56.284 --> 00:28:08.380
+<v Tim Pritlove>In die Gogo ähm ist ja, es gibt ja verschiedene Seiten. Man, was jeder kennt, ist so Kickstarter, die Gogo mögen vielleicht die einen oder anderen auch noch mal gehört haben. Das ist ja nicht ganz beliebig, weil diese ganzen Crowdfunding-Webseiten, die haben ja so eine,
+
+00:28:08.639 --> 00:28:15.591
+<v Tim Pritlove>Etwas unterschiedliche Politik und bei ist es ja so, dass man da halt Projekte machen kann, wo man sagen kann, hier ist mein Ziel,
+
+00:28:16.348 --> 00:28:21.461
+<v Tim Pritlove>Aber selbst, wenn ich das nicht erreiche, äh wird das gesammelte Geld ausgezahlt.
+
+00:28:54.266 --> 00:28:55.984
+<v Tim Pritlove>Mhm.
+
+00:30:26.925 --> 00:30:33.589
+<v Tim Pritlove>Okay, nur klarzumachen. Also, wenn man sich jetzt sozusagen beteiligen möchte, äh,
+
+00:30:33.896 --> 00:30:48.503
+<v Tim Pritlove>Kann man das machen, entweder über Indigo, wenn man PayPal Zahlen über PayPal zahlen kann und und und will. Wenn man es nicht will, gibt's noch die zweite Möglichkeit, über die andere Seite, die wir auch verlinken. Da kann man dann mit normaler Kontoüberweisung was machen,
+
+00:30:48.937 --> 00:30:50.931
+<v Tim Pritlove>sogar Bitcoin hast du jetzt irgendwie auch noch am Start.
+
+00:31:39.280 --> 00:31:49.435
+<v Tim Pritlove>Okay, also du kannst auch ein bisschen Unterstützung äh gebrauchen, was sozusagen das reinadministrative äh dieser dieser Spenden äh Geschichte äh betrifft. Aber vor allem geht's erstmal dadrum,
+
+00:31:49.628 --> 00:32:02.169
+<v Tim Pritlove>überhaupt, auf welchem dieser beiden Kanäle oder drei Kanäle äh auch immer äh sozusagen das Geld reinzubekommen, weil das würde dann bedeuten, wenn die ganze Summe zusammenkommt, also wenn's sozusagen auf die hundert, ist das jetzt die richtige Zahl, hunderttausend oder was.
+
+00:32:05.426 --> 00:32:11.242
+<v Tim Pritlove>Okay. Okay, also also hundert genau, also hundertfünfzehntausend, meine Idee.
+
+00:32:18.219 --> 00:32:20.484
+<v Tim Pritlove>Okay, sorry. Das ist nur mal.
+
+00:32:21.122 --> 00:32:32.226
+<v Tim Pritlove>Ja, na, ich meine, wenn schon, äh denn schon, ne? Also äh die hundertfünfzehntausend, wenn die zusammenkommen, dann bedeutet das, der Film ist finanziert, der Film ist komplett frei von Filmförderung,
+
+00:32:32.725 --> 00:32:38.800
+<v Tim Pritlove>und damit kannst du ihn und wirst ihn dann auch unter einer Creative Comments leistens veröffentlichen.
+
+00:32:39.648 --> 00:32:40.795
+<v Tim Pritlove>Das ist das Ziel.
+
+00:32:55.313 --> 00:33:04.146
+<v Tim Pritlove>Ja, das kennen wir ja natürlich auch alle und ich denke, da gibt's dann auch die entsprechende äh da fehlt dann jeder mit, ja. Hier in äh unserer Gemeinde.
+
+00:33:36.608 --> 00:33:42.809
+<v Tim Pritlove>Ja. Ja, das ist absurd. Und ähm ich glaube, dass man auch letzten Endes nur über solche Projekte,
+
+00:33:43.061 --> 00:33:49.190
+<v Tim Pritlove>wo man sich einfach mal diesen ganzen Apparat abschüttelt, auch zeigen kann, so hier es gibt gibt diesen Bedarf, so,
+
+00:33:49.503 --> 00:34:00.601
+<v Tim Pritlove>und euer Fördersystem ist irgendwie im Eimer, weil ihr eigentlich überhaupt nicht im Interesse der Öffentlichkeit agiert. Gut, ich meine, kann man sagen, ja, wieso ist ja auch Wirtschaftsförderung, ne?
+
+00:34:00.590 --> 00:34:07.548
+<v Tim Pritlove>Von vorne rein so gedacht, aber vielleicht ist es an der Stelle ähm müsste es vielleicht auch mal einen, einen anderen Ansatz geben,
+
+00:34:07.657 --> 00:34:10.799
+<v Tim Pritlove>um freie Kultur und äh Kunst zu fördern.
+
+00:34:26.182 --> 00:34:27.390
+<v Tim Pritlove>Ja, genau, das wollte ich.
+
+00:35:28.929 --> 00:35:39.895
+<v Tim Pritlove>Ja Sandra, ähm wir wünschen dir äh viel Erfolg mit diesem äh Projekt natürlich, würden wir es äh positiv vor allem sehr gerne, also erstmal will ich diesen Film sehen.
+
+00:35:41.669 --> 00:35:44.174
+<v Tim Pritlove>Zweitens ähm,
+
+00:35:44.715 --> 00:35:54.497
+<v Tim Pritlove>Und ich habe mir auch äh deine anderen Sachen angeschaut und äh habe da ein ganz gutes Gefühl, dass du da schon äh das richtige Händchen hast und vor allem will ich diesen, diesen Film halt
+
+00:35:54.360 --> 00:36:02.435
+<v Tim Pritlove>öffentlich sehen. Das ist natürlich dann auch grade, was jetzt den Club betrifft, natürlich auch ein Anliegen da ähm die,
+
+00:36:02.904 --> 00:36:04.737
+<v Tim Pritlove>ja, einfach mal auch diesen Blick.
+
+00:36:05.644 --> 00:36:14.724
+<v Tim Pritlove>Auf die Chaoskultur, die sind insbesondere diese Chaos-Eventkultur auch mal schön zu fassen und damit auch irgendwie auch ein Piece zu äh schaffen, was bleibt.
+
+00:37:25.235 --> 00:37:39.031
+<v Tim Pritlove>Okay Sandra, ich sage mal vielen Dank. Ähm wir haben äh alle Links hier äh natürlich in den und ja alles Gute für die Kampagne. Linus, hast du noch was hinzuzufügen?
+
+00:37:38.761 --> 00:37:42.011
+<v Linus Neumann>Wir freuen uns natürlich auf den Film oder auf die Party.
+
+00:37:41.784 --> 00:37:46.933
+<v Tim Pritlove>Vor allem auf die Party, genau. Ich will nämlich auf die Party hier.
+
+00:37:49.638 --> 00:37:57.605
+<v Tim Pritlove>Das können wir gut, genau, ja, also wenn das klappt, dann werden wir da auf jeden Fall auch äh was abliefern, woran alle Spaß haben werden.
+
+00:38:07.028 --> 00:38:19.238
+<v Tim Pritlove>So, das war's. Äh zu dem Thema muss ich jetzt mal gesagt werden. Ja. Und jetzt steigen wir eigentlich erst mal so richtig in unser Programm ein. Das machen wir erstmal mit ein bisschen Feedback. Wir hatten auch welches, oder?
+
+00:38:19.136 --> 00:38:26.437
+<v Linus Neumann>Wir haben äh sie wurden gehört, also wir müssen langsam vorsichtig sein mit was was wir sagen, was man mal machen müsste.
+
+00:38:26.137 --> 00:38:27.963
+<v Tim Pritlove>Meinst du, hört uns jemand zu?
+
+00:38:27.675 --> 00:38:31.322
+<v Linus Neumann>Die hören uns zu. Und ähm,
+
+00:38:32.098 --> 00:38:38.797
+<v Linus Neumann>Nelako hat es natürlich nicht auf sich sitzen lassen, dass wir das wäre natürlich ganz schön, wenn deine Darstellung,
+
+00:38:39.122 --> 00:38:49.127
+<v Linus Neumann>auch irgendwie mit HTM, L, fünf und animiert und haste nicht gesehen. Und da gibt's jetzt ähm unter Nelako DE Slash geheime minus Köpfe,
+
+00:38:49.566 --> 00:38:56.680
+<v Linus Neumann>Köpfe mit OE, nämlich genau das, äh wo man quasi sieht, äh,
+
+00:38:57.065 --> 00:39:03.452
+<v Linus Neumann>Man kann nach Parteizugehörigkeit markieren oder nicht. Äh man kann, man hat die ähm,
+
+00:39:03.681 --> 00:39:15.074
+<v Linus Neumann>die Rollen dort, Regierungen, Innenminister, Chef des Kanzleramts, BND-Präsident, Geheimdienstkoordinator und dann stehen da jeweils die Personen, die Personen sind farbig. Und wenn man jetzt auf eine Person klickt.
+
+00:39:15.741 --> 00:39:19.713
+<v Tim Pritlove>Kriegt man nochmal eine eigene Zeile, wo die jeweilige Historie äh.
+
+00:39:19.563 --> 00:39:27.837
+<v Linus Neumann>Genau, kriegt man die Person farbig äh also dann kriegt man unten die Zeile der Person. Und das ist quasi genau das, was ich meinte, dass man eben,
+
+00:39:27.994 --> 00:39:36.010
+<v Linus Neumann>Einerseits für jedes Amt sehen kann, wer hat das zu welchem Zeitpunkt besetzt? Und wenn man dann sieht, ah, Hans-Peter Friedrich, ja, der war,
+
+00:39:36.022 --> 00:39:42.596
+<v Linus Neumann>Innenminister mal. Und sonst nichts. Und äh ähm.
+
+00:39:42.530 --> 00:39:45.780
+<v Tim Pritlove>Korreliert mit äh Ereignissen und.
+
+00:39:45.480 --> 00:39:46.754
+<v Linus Neumann>Genau und unten.
+
+00:39:46.454 --> 00:39:56.260
+<v Tim Pritlove>So weiter. Da könnte man sicherlich noch ein paar mehr äh Sachen eintragen. Hier ist gegebenenfalls auch noch Unterstützung gefragt. Äh schaut euch das mal an und äh schätze mal hier äh,
+
+00:39:56.267 --> 00:40:03.748
+<v Tim Pritlove>würden entsprechende Angebote da noch mehr Daten einzutragen und das Ganze vielleicht ein bisschen auszubauen, äh durchaus gern gesehen werden.
+
+00:40:03.448 --> 00:40:14.762
+<v Linus Neumann>Ja und das ist äh das ist ein schönes Ding. Das sieht man mal. Ach so und da gibt's, ach guck mal hier, ist aufgetaub und da kann man dann also äh sogar direkt äh hinschicken.
+
+00:40:15.959 --> 00:40:17.957
+<v Tim Pritlove>So haben wir das gerne.
+
+00:40:17.809 --> 00:40:19.816
+<v Linus Neumann>So so gefällt uns das.
+
+00:40:19.602 --> 00:40:29.497
+<v Tim Pritlove>Genau, Firma jut. Dann äh fragen wir den Bundestag.
+
+00:40:27.346 --> 00:40:33.466
+<v Linus Neumann>Fragt, fragt den, fragen wir den Bundestag. Also die die fragt den Saga.
+
+00:40:34.618 --> 00:40:36.040
+<v Linus Neumann>In eine neue Runde.
+
+00:40:35.740 --> 00:40:49.482
+<v Tim Pritlove>Genau, immer nicht alles noch so fragen kann. Nachdem der Staat ja schon eifrig äh befragt wurde, befragt man jetzt mal etwas konkreter den Bundestag. Wo, was steckt dahinter? Irgendwas mit Gutenberg.
+
+00:40:49.195 --> 00:40:53.881
+<v Linus Neumann>Die Geschichte geht geht los mit also eigentlich, also ähm.
+
+00:40:53.803 --> 00:40:55.071
+<v Tim Pritlove>Dein Freund.
+
+00:40:54.783 --> 00:40:59.740
+<v Linus Neumann>Gutenberg hatte ja äh unter anderem plagiert,
+
+00:41:00.083 --> 00:41:10.340
+<v Linus Neumann>aus einer Studie des ähm des wissenschaftlichen Dienstes des Bundestages. Und ähm das war damals Auslöser für.
+
+00:41:11.338 --> 00:41:17.755
+<v Linus Neumann>Ähm Anfragen nach diesen Werken. Da hatten wir auch glaube ich,
+
+00:41:17.918 --> 00:41:29.160
+<v Linus Neumann>erinnere mich dunkel auch mal darüber gesprochen zu haben, dass man sagt, okay, wenn der der wissenschaftliche Dienst des Bundestages Wissenschaft betreibt, dann wär's ja,
+
+00:41:29.347 --> 00:41:35.656
+<v Linus Neumann>fein, wenn äh diese wissenschaftlichen Erzeugnisse dann auch der Allgemeinheit äh zur Verfügung stünden.
+
+00:41:36.444 --> 00:41:46.220
+<v Linus Neumann>Und da gab's dann also zwei Anfragen, die Auslöser waren für eine längere äh äh gerichtliche Auseinandersetzung. Ähm,
+
+00:41:46.545 --> 00:41:56.520
+<v Linus Neumann>Die andere war eine äh Studie zu Ufus. Ja, wo auch klar war, die verheimlichen uns was, ja. Also es war die Studie nach Außerirdischem Leben,
+
+00:41:57.139 --> 00:42:11.104
+<v Linus Neumann>und die Umsetzung der UN-Resolution zur Beobachtung unidentifizierter Flugobjekte und extrateressische Lebensformen, die da auch eingesehen werden sollte. Und jetzt hatte das Bundesverwaltungsgericht in Leipzig im Juni entschieden,
+
+00:42:11.765 --> 00:42:21.590
+<v Linus Neumann>Das Ausarbeitung des wissenschaftlichen Dienstes nach dem Informationsfreiheitsgesetz des Bundes herausgegeben werden müssen, ja? Das heißt, dass,
+
+00:42:22.089 --> 00:42:28.446
+<v Linus Neumann>Bundesverwaltungsgericht hat im Prinzip gesagt, du kannst, wenn du eine Informationsfreiheitsanfrage nach einer Studie,
+
+00:42:28.855 --> 00:42:37.141
+<v Linus Neumann>des äh Wissenschaftlichen Dienstes des Bundestages stellst, dann soll muss dieser Stadt gegeben werden. Und.
+
+00:42:36.841 --> 00:42:37.916
+<v Tim Pritlove>Was super ist.
+
+00:42:38.157 --> 00:42:41.023
+<v Linus Neumann>Genau. Und jetzt hat ähm.
+
+00:42:42.081 --> 00:42:53.390
+<v Linus Neumann>Quasi der äh die die Webseite Abgeordneten Watch eine Liste mit den Titeln Tausender Gutachten des wissenschaftlichen,
+
+00:42:53.576 --> 00:42:58.047
+<v Linus Neumann>des wissenschaftlichen Dienstes des Bundestages ins Netz gestellt,
+
+00:42:58.276 --> 00:43:05.708
+<v Linus Neumann>Haben gesagt, hier ist die Liste äh vermutlich aller oder aller äh Bekannten oder so. Ähm,
+
+00:43:05.979 --> 00:43:11.477
+<v Linus Neumann>Also hier ist ein, haben einfach gesagt, hier ist eine Übersicht aller Gutachten des wissenschaftlichen Dienstes des Bundestages.
+
+00:43:12.361 --> 00:43:21.722
+<v Linus Neumann>Und ähm zeigen unter anderem unter anderem darauf aufmerksam, dass sich da eine Ausarbeitung zum unumstrittenen Freihandelsabkommen. TTIP
+
+00:43:21.530 --> 00:43:25.784
+<v Linus Neumann>befindet, die der Bundestag als vertraulich eingestuft hat und so,
+
+00:43:26.049 --> 00:43:35.315
+<v Linus Neumann>geben so einige der schönen äh einige schöne Beispiele, ja auch dass dass sie dann irgendwie nur für den Dienst Dienstgebrauch eingestuft wurden und so.
+
+00:43:36.493 --> 00:43:38.464
+<v Linus Neumann>Und dann hat äh,
+
+00:43:38.879 --> 00:43:46.612
+<v Linus Neumann>Wenn ich der Hintergrund ist, wenn du jetzt zu viel auf einmal anfragst, dann äh stellen die dir,
+
+00:43:47.087 --> 00:43:51.215
+<v Linus Neumann>Also jetzt könnte man ja einfach auch frag den Staat gehen und sagen, ich hätte gerne einmal alle,
+
+00:43:51.624 --> 00:43:57.530
+<v Linus Neumann>Und dann werden die dir das scheint mir der Hintergrund zu sein. Ich spekuliere,
+
+00:43:58.276 --> 00:44:02.800
+<v Linus Neumann>Dann würden sie dir sagen, das ist zu viel, ja? Das ist äh ein.
+
+00:44:02.500 --> 00:44:04.092
+<v Tim Pritlove>Es sind mehrere Kilo weiter.
+
+00:44:03.792 --> 00:44:11.952
+<v Linus Neumann>Sind mehrere, dass es zu viel Arbeit, ja? Das müssen sie bezahlen. Die haben ja sogar diese Liste, also auch wieder ein,
+
+00:44:12.289 --> 00:44:14.747
+<v Linus Neumann>Ja, okay, das ist einfach so.
+
+00:44:14.747 --> 00:44:28.135
+<v Linus Neumann>Die die wisst ihr auch wo wo der Hase lang läuft. So, die haben halt äh Abgeordneten Watch hatte diese Liste irgendwie angefragt, dann haben sie diese Liste bekommen, mussten aber vierundzwanzig Euro zwanzig bezahlen für zweihundertzweiundvierzig Kopien
+
+00:44:28.081 --> 00:44:33.940
+<v Linus Neumann>Denn sie haben diese Liste ausgedruckt bekommen. Und dann musste die halt irgendwie wieder ähm.
+
+00:44:33.676 --> 00:44:35.381
+<v Tim Pritlove>Digitalisiert werden. Oh Gott.
+
+00:44:35.081 --> 00:44:48.643
+<v Linus Neumann>Digitalisiert werden, also mit haben dann eine eine äh OCR drüber laufen lassen und was nicht alles auf jeden Fall letzten Endes gibt es jetzt unter Frag den Bundestag eine vereinfachte Plattform.
+
+00:44:49.756 --> 00:44:57.279
+<v Linus Neumann>Wo du ähm quasi sagen kannst, mich interessieren Studien zum Thema,
+
+00:44:57.730 --> 00:45:06.346
+<v Linus Neumann>äh habe ich nicht, haste nicht gesehen, sagst du jetzt zum Beispiel, also dann gehst du auf die Datenbank, da sind jetzt alle diese Studien drin, jetzt gebe ich zum Beispiel ein Internet,
+
+00:45:06.828 --> 00:45:10.757
+<v Linus Neumann>Ähm dann gibt's da sehr viele, echt interessante Studien.
+
+00:45:11.935 --> 00:45:25.912
+<v Linus Neumann>Und dann siehst du zum Beispiel eine Studie zweitausendzehn Internetsperren für kinderpornographische Inhalte. Und links daneben steht schon, Status warte auf Antwort. Das heißt, die hat schon einer angefragt. Ein eine Person,
+
+00:45:26.062 --> 00:45:35.845
+<v Linus Neumann>und so macht es äh fragt den Bundestag jetzt einfach quasi die zu die Studien zu erkennen und die,
+
+00:45:36.392 --> 00:45:46.264
+<v Linus Neumann>Schon angefragt wurden und die, die noch nicht angefragt wurden. Und jetzt kann man als äh eins individueller interessierter ähm Bürger oder Bürgerin.
+
+00:45:47.779 --> 00:45:51.084
+<v Linus Neumann>Da mal eins, zwei, drei Anfragen,
+
+00:45:51.150 --> 00:46:04.268
+<v Linus Neumann>das äh und dann steht auch direkt drin, digital reicht so, ne? Bemühen sie äh es ist in Ordnung, uns reicht ein Maschinen lesbares PDF, wir wollen es eigentlich am Ende eh nur auf frag den Staat äh äh,
+
+00:46:04.316 --> 00:46:17.127
+<v Linus Neumann>gesammelt haben. Und äh so wird dann eben angestrebt eine vollständige online äh Bibliothek der Gutachten des Wissenschaftlichen Dienstes des Bundestages zu bekommen. Das das.
+
+00:46:18.756 --> 00:46:32.853
+<v Linus Neumann>Das sinnvolle, das also das Sinnvolle wäre natürlich, wenn diese Studien einfach grundsätzlich ähm öffentlich wären und das ist eben dann so der Unterschied zwischen sage ich mal einem Informationsfreiheitsgesetz und einem proaktiven,
+
+00:46:33.569 --> 00:46:44.330
+<v Linus Neumann>Transparenzgesetz, wo nämlich wo du quasi sagst, nee, da musst du von vorneherein veröffentlicht werden. Aber hier eine wieder mal eine schöne Aktion von frag den Staat.
+
+00:46:45.190 --> 00:46:50.706
+<v Linus Neumann>Ähm jetzt hier sehr wieder sehr gerockt von Arne Semsrott,
+
+00:46:51.025 --> 00:47:05.717
+<v Linus Neumann>von der Orknoge Foundation, der davon ausgeht, dass wir das bis zum Ende des Jahres äh sollten alle Gutachten verfügbar gemacht werden können. Er weiß natürlich auch, wie äh wie solche Verfahren dann irgendwie verschleppt werden und so, ne.
+
+00:47:06.709 --> 00:47:15.758
+<v Linus Neumann>Und jetzt geht dieses die quasi die das Verklag das fragt den verklagt den und so weiter, Universum natürlich wirklich schön Hand in Hand,
+
+00:47:15.782 --> 00:47:27.583
+<v Linus Neumann>weil du quasi jetzt bei frag den Bundestag die ganzen Studienanfragen kannst und wenn du dann negative wenn du dann negative Rückmeldungen bekommst, dann hast du ja eben dieses Urteil von.
+
+00:47:29.369 --> 00:47:30.768
+<v Tim Pritlove>Bundesverwaltungsgerichtes.
+
+00:47:30.504 --> 00:47:42.961
+<v Linus Neumann>Bundesverwaltungsgerichtes in Leipzig, auf das du dich berufen kannst, um dann direkt dir diese Dinge einzuklagen. Also das ist jetzt der Prozess, ist jetzt hier so gestreamt, dass es wirklich wird die Customer Experience hier ähm.
+
+00:47:44.001 --> 00:47:48.409
+<v Linus Neumann>Also du musst die Plattform nicht verlassen, ne? Das ist so, du wirst.
+
+00:47:45.954 --> 00:47:49.030
+<v Tim Pritlove>All in one.
+
+00:47:48.780 --> 00:47:54.750
+<v Linus Neumann>Hier die das Team um Arne Selmsrott,
+
+00:47:55.063 --> 00:48:02.292
+<v Linus Neumann>hier anbietet und das ist das hier, das ist ja.
+
+00:48:02.058 --> 00:48:15.313
+<v Tim Pritlove>Genau, also äh sucht euch einfach die Studie aus, äh die ihr schon immer mal haben wolltet und glaubt, wie solche Aktionen kann man das dann auch da hinbringen, dass irgendwie solche Sachen einfach mal sofort aus irgendeinem rauspurzeln, weil was soll der ganze Geiz?
+
+00:48:15.266 --> 00:48:16.876
+<v Linus Neumann>Das wäre schön, wenn.
+
+00:48:17.670 --> 00:48:24.591
+<v Linus Neumann>Ja äh genau, also die man kann hoffen, dass eine solche Aktion,
+
+00:48:24.658 --> 00:48:37.878
+<v Linus Neumann>denen irgendwann den irgendwann bringen, den die Erkenntnis bringt zu sagen, okay, wir dampfen jetzt einfach alle, weil diese Anfragen, die wir jetzt bekommen von vielen, vielen verschiedenen Einzelpersonen, denen wir dann auch nicht irgendwie großartig
+
+00:48:37.872 --> 00:48:45.978
+<v Linus Neumann>was im Weg stellen können und jeden Antrag einzeln äh bearbeiten müssen oder so, wäre jetzt eigentlich zu hoffen,
+
+00:48:46.507 --> 00:48:51.650
+<v Linus Neumann>Dass die, dass diejenigen ähm.
+
+00:48:52.720 --> 00:48:53.753
+<v Tim Pritlove>Einsehen, dass es.
+
+00:48:53.453 --> 00:49:02.317
+<v Linus Neumann>Dass diejenigen einsehen und sagen, komm, ey, einmal hier, zack, gib einmal alles, die fragen eh alles, lass uns das jetzt hier online stellen und dann lassen sie uns hoffentlich in Ruhe.
+
+00:49:02.269 --> 00:49:04.648
+<v Tim Pritlove>Ja eben, ich meine, die machen sich auch nur Arbeit damit.
+
+00:49:04.348 --> 00:49:11.595
+<v Linus Neumann>Ist Verwaltung und Verwalter werden verwalten, ja? Also kann auch gut sein, dass sie sagen, ähm machen wir.
+
+00:49:14.942 --> 00:49:25.872
+<v Tim Pritlove>Gut, ähm es war mal wieder Untersuchungsausschuss, ein Sitzungstag und ich muss zugeben, ich habe nichts davon mitbekommen,
+
+00:49:26.011 --> 00:49:30.788
+<v Tim Pritlove>Ich war komplett abgelenkt von anderen Sachen. Das war gestern, ne?
+
+00:49:30.698 --> 00:49:37.740
+<v Linus Neumann>Gestern ja äh Donnerstag der sechsundzwanzigste nee der achtundzwanzigste. Ja.
+
+00:49:35.222 --> 00:49:43.262
+<v Tim Pritlove>Zwanzigste. Ja. Was da passiert? Da waren jetzt wieder ein paar BND Mitarbeiter mit kryptischen Abkürzungen.
+
+00:49:42.962 --> 00:49:47.295
+<v Linus Neumann>Einer war zum vierten Mal da, der gute DB. Ähm.
+
+00:49:49.098 --> 00:49:58.363
+<v Linus Neumann>Der der ist quasi der der zentrale Zeuge
+
+00:49:58.255 --> 00:50:11.138
+<v Linus Neumann>bei den, bei allem, was mit mit Selektoren äh zu tun hat, ja? Und heute haben oder gestern haben sie sich insbesondere, also sie haben sich ja wieder stundenlang mit den Leuten da unterhalten, aber gestern ging es insbesondere.
+
+00:50:12.395 --> 00:50:17.850
+<v Linus Neumann>Ähm um BND-Aktionen gegen ähm Partnerstaaten,
+
+00:50:17.971 --> 00:50:24.731
+<v Linus Neumann>Ja? Ähm wir haben ja schon öfter darüber hier gesprochen, dass das der große Konflikt,
+
+00:50:24.816 --> 00:50:33.709
+<v Linus Neumann>in diesem NSA-Untersuchungsausschuss zwischen den Oppositionsvertretern und den Koalitionsvertretern.
+
+00:50:34.532 --> 00:50:46.622
+<v Linus Neumann>War und ist inwiefern man seine Untersuchung auch in Richtung des BND und der der Aktivitäten des BND gegen Partnerstaaten richtet.
+
+00:50:47.421 --> 00:50:49.152
+<v Linus Neumann>Und ähm,
+
+00:50:49.717 --> 00:51:00.701
+<v Linus Neumann>die Opposition sagt im Prinzip, wir wollen das machen, die Koalitionsvertreter sagen, nee, wollen wir eigentlich nicht und dann hat die Opposition gesagt, na, wenn wir das nicht machen
+
+00:51:00.671 --> 00:51:07.065
+<v Linus Neumann>dann äh klagen wir entweder oder wenn uns das mit dem Klagen irgendwie auf den Sack geht, dann.
+
+00:51:06.765 --> 00:51:08.062
+<v Tim Pritlove>Machen wir unseren eigenen.
+
+00:51:07.762 --> 00:51:15.345
+<v Linus Neumann>Einen neuen Untersuchungsausschuss, Freunde, dann sitzen wir hier demnächst ähm an zwei Tagen die Woche und das wollt ihr ja wahrscheinlich auch nicht.
+
+00:51:16.349 --> 00:51:24.677
+<v Linus Neumann>Und äh es ist also jetzt als ein Entgegenkommen oder ein ein eine beschwichtigende äh,
+
+00:51:25.069 --> 00:51:31.125
+<v Linus Neumann>Maßnahme der ja von wem auch immer zu werten,
+
+00:51:31.757 --> 00:51:38.744
+<v Linus Neumann>dass jetzt der Offizier DB vom BND dort nochmal mehr äh zu seinen zu diesen Aktionen gesagt hat,
+
+00:51:38.829 --> 00:51:49.669
+<v Linus Neumann>Und zwar ging es darum, wir wissen ja seit August zweitausendvierzehn ungefähr, dass der BND eben auch,
+
+00:51:49.970 --> 00:51:57.685
+<v Linus Neumann>Partnerstaaten ausgespäht hat und jetzt ist die Frage, wann wussten das Kanzleramt,
+
+00:51:58.166 --> 00:52:02.775
+<v Linus Neumann>und BND Chef Gerhard Schindler.
+
+00:52:03.845 --> 00:52:16.355
+<v Linus Neumann>Wussten die das vielleicht sogar schon zu dem Zeitpunkt als Angela Merkel im Oktober zweitausenddreizehn sagte, dass das Aussperren unter Freunden ja gar nicht geht.
+
+00:52:17.390 --> 00:52:22.815
+<v Linus Neumann>Und es stellte sich raus, dass Pofalla,
+
+00:52:23.230 --> 00:52:32.400
+<v Linus Neumann>den also Kanzleramt, damaliger Kanzleramtschef Pofalla, den BND Chef Gerhard Schindler im im Oktober.
+
+00:52:33.320 --> 00:52:34.953
+<v Linus Neumann>Angewiesen hat
+
+00:52:34.780 --> 00:52:49.928
+<v Linus Neumann>das kritische BND Zielvorgaben mit den Botschaften und Regierungseinrichtungen von Partnerländern in Krisenregionen überwacht worden sein, deaktiviert werden sollten, also mit anderen Worten, Pofalla hat Schindler gesagt,
+
+00:52:50.794 --> 00:52:55.781
+<v Linus Neumann>Wenn unter Freunden machen wir jetzt nicht mehr.
+
+00:52:56.082 --> 00:53:05.107
+<v Linus Neumann>Das heißt, der Pofalla wusste zu diesem Zeitpunkt, dass sie das machen, sonst hätte er das ja nicht dem BND Schindler, BND-Chef Schindler gesagt, hört auf damit.
+
+00:53:05.203 --> 00:53:12.300
+<v Linus Neumann>Und der BND-Chef Schindler hat diese Anweisung am achtundzwanzigsten Oktober,
+
+00:53:12.961 --> 00:53:19.432
+<v Linus Neumann>Fernmündlich zur Sophia sofortigen Umsetzung an den DB weitergegeben,
+
+00:53:20.148 --> 00:53:28.098
+<v Linus Neumann>Die Äußerung von Angela Merkel ausspielen unter Freunden, das geht gar nicht, war am vierundzwanzigsten Oktober.
+
+00:53:29.913 --> 00:53:37.875
+<v Linus Neumann>Und jetzt stellen sich natürlich sehr interessante Fragen.
+
+00:53:38.308 --> 00:53:41.408
+<v Tim Pritlove>Wann genau hat der Pufffalla das dem Shindar gesagt, weißt.
+
+00:53:41.547 --> 00:53:44.130
+<v Linus Neumann>Das genau, da wurde das genaue Datum nicht genannt.
+
+00:53:43.830 --> 00:53:45.013
+<v Tim Pritlove>Ah ja okay.
+
+00:53:44.713 --> 00:53:54.616
+<v Linus Neumann>Ja? Äh aber es wäre jetzt also sie haben halt quasi genau, äh der hat's genau so erzählt, dass man jetzt theoretisch noch irgendwie die die es irgendwie
+
+00:53:54.598 --> 00:54:09.284
+<v Linus Neumann>Der Schluss zulässig wäre, dass der Pofalla vielleicht am fünfundzwanzigsten gefragt hat und der Schindler selbst ist am sechsundzwanzigsten erfahren hat und am siebenundzwanzigsten den Pofalla gesagt hat und am achtundzwanzigsten äh entsprechend die äh die.
+
+00:54:10.071 --> 00:54:19.571
+<v Linus Neumann>Die Anweisung fernmündlich, also ich meine, das ist ja wirklich mal eine eine sehr konkrete Anweisung, äh die da gegeben wurde, mit einer sehr weitreichende und wichtige
+
+00:54:19.386 --> 00:54:30.238
+<v Linus Neumann>Ja, die wurde halt, da hat der Schindler halt auch schon gewusst, nee, sowas machen wir lieber fernmündlich. Nichts, dass das da nachher irgendwo eine Aktennotiz gibt, äh die oder irgendeine E-Mail, die irgendwo
+
+00:54:30.064 --> 00:54:36.042
+<v Linus Neumann>es rauskommt. Also es verdichtet sich einfach sehr klar der,
+
+00:54:36.337 --> 00:54:48.325
+<v Linus Neumann>dessen Netz, das Pofalla, das wusste und auch schon zu dem Zeitpunkt als Angela Merkel äh sich da ähm so dargestellt hat, ja, also es ist ja wirklich,
+
+00:54:48.788 --> 00:54:54.544
+<v Linus Neumann>Also diese eigentlich kommt man sicher auch ein bisschen blöd vor,
+
+00:54:54.851 --> 00:55:07.596
+<v Linus Neumann>dauerhaft immer um diese dieses Wer hat, wann was gewusst spielt, mitzuspielen. Ja, das musst du halt als ein rechtsstaatlich agierender Untersuchungsausschuss wahrscheinlich irgendwie machen, aber ähm als.
+
+00:55:08.461 --> 00:55:10.060
+<v Linus Neumann>Die die,
+
+00:55:10.619 --> 00:55:19.151
+<v Linus Neumann>Geschichte, dass da irgendwie alle die ganze Zeit nichts wussten. Hm die ist nun wirklich irgendwie langsam nicht mehr aufrechtzuerhalten und die war's ja irgendwie auch,
+
+00:55:19.662 --> 00:55:25.179
+<v Linus Neumann>für rational die Sache betrachtende Menschen irgendwie zu keinem Zeitpunkt so wirklich.
+
+00:55:27.084 --> 00:55:32.407
+<v Linus Neumann>Das äh ist so das Geschehen im NSA-Untersuchungsausschuss. Ähm,
+
+00:55:32.780 --> 00:55:44.702
+<v Linus Neumann>Gab noch ein paar andere Debatten, um technische Rahmenbedingungen und was da irgendwie stattfindet, aber wie wie immer äh sagt da so keiner genau, was irgendwie abgeht und,
+
+00:55:45.430 --> 00:55:56.966
+<v Linus Neumann>Die Frage ist irgendwie, wie kriegt man jetzt diesen Schlüssel zeugen DB dazu, mal wirklich endlich auszupacken, was da los ist? Denn der versucht ja natürlich auch, die ganze Zeit irgendwie seinen eigenen,
+
+00:55:57.694 --> 00:56:04.688
+<v Linus Neumann>Äh ruf irgendwie zu retten. Der muss da seine Vorgesetzten schützen. Und jetzt,
+
+00:56:04.899 --> 00:56:08.089
+<v Linus Neumann>Wäre natürlich die Frage, kann man dem irgendwie so was wie so ein,
+
+00:56:08.126 --> 00:56:22.805
+<v Linus Neumann>Zeugenschutzprogramm oder Straffreiheit anbieten, dass er mal wirklich jetzt endlich allumfassend aussagt. Und ähm das ist natürlich erstmal ein Mittel, was der Untersuchungsausschuss nicht zur Verfügung hat. Das ist ja einfach kein
+
+00:56:22.788 --> 00:56:28.802
+<v Linus Neumann>Strafverfolgung des Gericht und ähm da wäre jetzt die Frage,
+
+00:56:28.923 --> 00:56:41.289
+<v Linus Neumann>ob das tatsächlich ob an dem das irgendwie geben kann oder nicht. So die ähm die Einschätzung von Daniel Lücking beim Podcast technische Aufklärung, den ich gerade gehört habe.
+
+00:56:40.989 --> 00:56:45.952
+<v Tim Pritlove>Fällt mir immer wieder paar Mal so durch die Galaxis ein.
+
+00:56:45.658 --> 00:56:48.981
+<v Linus Neumann>Wenn du jetzt anfängst zu reden oder was welche.
+
+00:56:49.198 --> 00:56:52.478
+<v Tim Pritlove>Da gibt's diesen, diese tolle Stelle mit Prag
+
+00:56:52.359 --> 00:57:00.500
+<v Tim Pritlove>den sie irgendwie die ganze Zeit dazu auffordert, doch endlich mal auszupacken. Und der soll doch jetzt mal endlich mal, der soll jetzt endlich mal die Wahrheit sagen so und äh
+
+00:57:00.410 --> 00:57:13.408
+<v Tim Pritlove>mit irgendwelchen Wahrheitsdrogen irgendwie vollpumpen und dann irgendwann fängt er dann halt wirklich an. Oh Gott, jetzt sagte er wirklich die Wahrheit und dann bauen sie halt irgendwie so eine riesige Mauer um ihn herum, damit irgendwie auch gar keiner mitbekommt, wie er dann irgendwie
+
+00:57:13.216 --> 00:57:21.364
+<v Tim Pritlove>ewig redet und gerade als er irgendwie fertig war mit seiner ganzen Aussage. Kommt dann irgendwie vorbei. Als lustige Szene.
+
+00:57:22.181 --> 00:57:28.328
+<v Linus Neumann>Ja, also dieser NSA-Untersuchungsausschuss, tja.
+
+00:57:29.320 --> 00:57:37.630
+<v Linus Neumann>Wir werden es, wir werden es erleben. Ich bin mal gespannt, ob die das wievielte Mal die Bäder noch irgendwie hinholen werden. Gleichzeitig ähm.
+
+00:57:40.605 --> 00:57:47.683
+<v Linus Neumann>Kriegt er natürlich auch durchaus Kritik der gute DB. Ich glaube, Herr.
+
+00:57:48.766 --> 00:58:02.406
+<v Linus Neumann>Ähm war dann irgendwann so mit seinen Nerven am Ende, dass er ihm sagte, dieses schwarze Loch, was sie jetzt hier äh machen, da passiert ja, da fällt ja irgendwann noch alles rein.
+
+00:58:03.578 --> 00:58:11.726
+<v Linus Neumann>Ich bin mal gespannt, was äh wie's wie's wird, wenn der Herr Steinmeier dann da ist.
+
+00:58:12.868 --> 00:58:14.652
+<v Linus Neumann>Das wird sicherlich auch nochmal spannend.
+
+00:58:14.358 --> 00:58:15.950
+<v Tim Pritlove>Ist ja schon gebucht.
+
+00:58:16.455 --> 00:58:28.611
+<v Linus Neumann>Ja, ähm ich bin mir nicht ganz sicher, ob schon beim nächsten Mal, dass wir am achtzehnten zweiten, aber ich kann mal kurz schauen, was, wann er da erwartet wird,
+
+00:58:29.020 --> 00:58:35.245
+<v Linus Neumann>Siebzehnter dritter erwartet man ihn, glaube ich, eher dort. So, so meine Informanten.
+
+00:58:34.951 --> 00:58:45.545
+<v Tim Pritlove>Will sie. Das war's zum Untersuchungsausschuss. Ja, war's.
+
+00:58:44.259 --> 00:58:48.057
+<v Linus Neumann>Ja, nur noch kurzes Zitat von ähm,
+
+00:58:48.730 --> 00:58:59.660
+<v Linus Neumann>von Fliesek im Wortlaut, wenn es so weitergeht, verschwinden wir bald alle in diesem schwarzen Loch, das sie produzieren. Sagte Fliesek zu äh DB.
+
+00:59:01.770 --> 00:59:11.203
+<v Linus Neumann>Also zu zufrieden sind sie jetzt auch nicht unbedingt mit ihm. Ja, Vorratsdatenspeicherung haben wir ja auch noch.
+
+00:59:10.903 --> 00:59:13.601
+<v Tim Pritlove>Mhm. Da war doch was.
+
+00:59:12.033 --> 00:59:26.623
+<v Linus Neumann>Ähm da war doch auch was mit der mit der Vorzeitenspeicherung. Da waren nämlich Verfassungsbeschwerden. Inzwischen ist die Zahl der Verfassungsbeschwerden irgendwie kaum noch zu überblicken. Das ist jetzt wohl irgendwie so.
+
+00:59:27.645 --> 00:59:28.413
+<v Linus Neumann>Trend.
+
+00:59:30.079 --> 00:59:35.544
+<v Tim Pritlove>Zum guten Ton, ne? Man muss schon auch mal Einspruch gegen die Vorratsdatenspeicherung erhoben haben.
+
+00:59:35.330 --> 00:59:42.198
+<v Linus Neumann>Ja, also es gibt irgendwie so eine äh es gab einen Artikel von
+
+00:59:42.042 --> 00:59:53.772
+<v Linus Neumann>Spiegel Online vor Bundesverfassungsgericht wer alles gegen die Vorratsdatenspeicherung klagt mit 'nem schönen Foto wo irgendwie so Leute Schlange stehen am Bundesverfassungsgericht,
+
+00:59:54.055 --> 01:00:03.260
+<v Linus Neumann>Ich hab's, ich habe den Artikel gelesen, den hast du jetzt auch nicht ganz verstanden. Also es gibt irgendwie FDP und.
+
+01:00:04.270 --> 01:00:13.902
+<v Linus Neumann>Kanzleien und D vierundsechzig dieser SPD-Nahverein, aber die SPD hat irgendwie auch selber beschlossen, es gab aber jetzt eine,
+
+01:00:14.594 --> 01:00:27.164
+<v Linus Neumann>relativ folgenschwere oder nichtfolgenschwere, aber eine wichtige Entscheidung, denn wenn ich es richtig rekonstruiert habe, sind vier der,
+
+01:00:27.850 --> 01:00:37.163
+<v Linus Neumann>In ihrer Gesamtanzahl nicht unbedingt vollständig bekannten Verfassungsbeschwerden gegen die Vorratsdatenspeicherung.
+
+01:00:38.107 --> 01:00:48.539
+<v Linus Neumann>Mit einem sogenannten Eilantrag äh verbunden. Also vier Eilanträge gibt es insgesamt beim Bundesverfassungsgericht,
+
+01:00:49.182 --> 01:00:59.079
+<v Linus Neumann>die Wiedereinführung der Eilantrag zu verhindern, beziehungsweise mindestens auszusetzen bis zu einer,
+
+01:00:59.860 --> 01:01:05.440
+<v Linus Neumann>finalen Entscheidungen. Weißt du, ist das klar, was ich meine?
+
+01:01:05.190 --> 01:01:06.271
+<v Tim Pritlove>Ja, mir schon.
+
+01:01:06.057 --> 01:01:09.126
+<v Linus Neumann>Okay, gut, dann dann werden's die anderen auch verstanden.
+
+01:01:15.201 --> 01:01:23.391
+<v Linus Neumann>Und ein solcher wurde jetzt abgelehnt,
+
+01:01:23.770 --> 01:01:29.947
+<v Linus Neumann>denn der Beschwerdebeschwerdeführer dessen Eilantrag hier abgelehnt wurde
+
+01:01:29.797 --> 01:01:42.001
+<v Linus Neumann>wollte sich dagegen, also hat gesagt, er möchte bitte, dass die Provider vorläufig von der eigentlichen Pflicht zum Protokollieren von Verbindungs- und Standortdaten befreit werden sollen. Also, ne, dieses Gesetz soll
+
+01:01:41.888 --> 01:01:49.056
+<v Linus Neumann>hat ein so hohes Schadenspotenzial, wenn es ähm vom.
+
+01:01:49.916 --> 01:01:59.506
+<v Linus Neumann>Wenn es, wie wir vermuten, als Beschwerdeführer vom Bundesverfassungsgericht abgelehnt ist, dass wir bis zu der Entscheidung es ohnehin schon einmal nicht gültig machen,
+
+01:02:00.113 --> 01:02:03.718
+<v Linus Neumann>sein lassen sollten,
+
+01:02:04.428 --> 01:02:11.296
+<v Linus Neumann>Und in der Begründung der Ablehnung schreibt die dritte Kammer des ersten Senates,
+
+01:02:11.692 --> 01:02:16.878
+<v Linus Neumann>dass der Antragsteller nicht erkennen lasse, dass ihm auf jeden Fall
+
+01:02:16.842 --> 01:02:31.263
+<v Linus Neumann>Eine unzumutbar Schwere nicht wieder gut zumachende Nachteiligkeit entstünde, wenn dies der Fall wäre. Also selbst wenn die Speicherauflagen später als verfassungswidrig eingestuft würden,
+
+01:02:31.853 --> 01:02:40.788
+<v Linus Neumann>sei der Schaden, der dem Antragsteller bis zu dem Zeitpunkt entstanden wäre, nicht unzumutbar.
+
+01:02:41.786 --> 01:02:43.023
+<v Linus Neumann>Das ist ähm.
+
+01:02:42.801 --> 01:02:44.355
+<v Tim Pritlove>Jetzt wird's kompliziert.
+
+01:02:44.105 --> 01:02:48.299
+<v Linus Neumann>Es ist äh schwierig. Ich vermute.
+
+01:02:46.042 --> 01:02:48.570
+<v Tim Pritlove>Ich vermute.
+
+01:02:49.339 --> 01:02:51.256
+<v Linus Neumann>Dass sie die ähm.
+
+01:02:52.662 --> 01:02:59.735
+<v Linus Neumann>Dass sie diese dass sie diese Argumentation darauf stützen, dass ja.
+
+01:03:00.907 --> 01:03:03.797
+<v Linus Neumann>Die der Zugriff auf diese Daten.
+
+01:03:04.921 --> 01:03:14.679
+<v Linus Neumann>Auf schwere Delikte beschränkt ist. Und dass sie deshalb sagen, na ja, ein lieber ähm Beschwerdeführer, es ist.
+
+01:03:15.563 --> 01:03:20.688
+<v Linus Neumann>Unwahrscheinlich, dass auf deine Daten zugegriffen wird,
+
+01:03:21.392 --> 01:03:34.641
+<v Linus Neumann>Bis zu dem Zeitpunkt, an dem wir darüber entscheiden, ob die generelle Praxis in Ordnung ist. So würde ich vermuten, dass hier interpretiert wurde.
+
+01:03:34.347 --> 01:03:37.856
+<v Tim Pritlove>Dass sozusagen diese Eilbedürftigkeit nicht erkannt wird. Ja.
+
+01:03:37.995 --> 01:03:40.759
+<v Linus Neumann>Also sie haben nur über die Eilbedürftigkeit entschieden,
+
+01:03:40.825 --> 01:03:55.096
+<v Linus Neumann>Insgesamt gibt es aber, wie gesagt, vier derartige Anträge und es wurde jetzt über erstmal nur über einen entschieden. Jetzt kann man natürlich vermuten, dass über die anderen gleich ähnlich entschieden wird. Es sei denn, die haben signifikant andere Begründungen, aber wie gesagt, ich bin ganz ehrlich,
+
+01:03:55.223 --> 01:04:01.051
+<v Linus Neumann>in diesem in diesem Dschungel der Verfassungsbeschwerden blicke ich
+
+01:04:01.010 --> 01:04:15.599
+<v Linus Neumann>Ich selber gerade nicht ganz durch, weil das eben, wie gesagt, so ein Modeding zu sein scheint, ne? Wir haben die äh alten Platzhirsche ähm im Rennen, die auch schon die erste Vorratsseitenspeicherung zu Fall gebracht haben,
+
+01:04:16.062 --> 01:04:21.620
+<v Linus Neumann>Ja, die haben also die Band nochmal zusammengebracht und äh,
+
+01:04:21.699 --> 01:04:29.913
+<v Linus Neumann>eben auch viele andere, die da jetzt irgendwie aktiv sind. Digitalcourage D vierundsechzig. Ja, da das muss man, da muss man sich jetzt eben einbringen.
+
+01:04:29.883 --> 01:04:34.960
+<v Tim Pritlove>Mhm. Der Baum eigentlich auch dabei, erste FDP-Riege.
+
+01:04:33.308 --> 01:04:40.206
+<v Linus Neumann>Es ist doch der, das ist doch der, der, der Favorit, der äh ja, der ist auf jeden Fall auch dabei, die die.
+
+01:04:40.225 --> 01:04:53.672
+<v Tim Pritlove>Am Ende werden sie ja auch nur eine eine Klage wirklich annehmen, ne? Wenn ich äh jetzt mit den Modus Operandi das Bundesverfassungsgericht äh richtig äh wenn ich das richtig erinnere, wie das äh funktioniert. Also die nehmen jetzt nicht irgendwie ganz viele Klagen an.
+
+01:04:55.049 --> 01:05:01.202
+<v Tim Pritlove>Die sehen, dass da viele äh angestürmt kommen, aber am Ende lassen die sich quasi nur auf eine ein.
+
+01:05:01.310 --> 01:05:15.720
+<v Linus Neumann>Also ein Sprecher des Gerichtes sagte alle Verfahren werden nun abgearbeitet. Ein Entscheidungstermin ist derzeit allerdings nicht absehbar. Ähm und wie gesagt, die die Ablehnung des ersten Eilantrages hat,
+
+01:05:15.942 --> 01:05:19.530
+<v Linus Neumann>keine Aussagekraft darüber, wie äh.
+
+01:05:20.413 --> 01:05:30.382
+<v Linus Neumann>Wie die Chancen für diese Verfassungsbeschwerden stehen oder wie über die entschieden würde, ne? Weil sie ja, wie gesagt, nur sagen, falls dann, so.
+
+01:05:31.680 --> 01:05:38.614
+<v Linus Neumann>Und ich bin, wie gesagt, leider kein Verfassungsrechtler
+
+01:05:38.417 --> 01:05:50.867
+<v Linus Neumann>der genau sagen kann, wie das da jetzt weitergeht. Und wie ob das Gericht nun die ganzen Verfassungsbeschwerden in irgendeiner Form zusammenlegen wird oder nicht, da sollten wir vielleicht in in naher Zukunft nochmal ähm,
+
+01:05:51.216 --> 01:05:57.110
+<v Linus Neumann>mit jemandem drüber reden, der da der da mehr äh mehr Wissen oder Erfahrung hat als wir.
+
+01:05:58.920 --> 01:06:01.906
+<v Tim Pritlove>Werden wir machen, wird das sich ein bisschen,
+
+01:06:02.567 --> 01:06:11.382
+<v Tim Pritlove>wenn sich da so ein bisschen der erste Staub gelegt hat. Weil ich denke, letzten Endes wird das Ganze noch ein bisschen dauern, ne. Also das ist jetzt sozusagen äh
+
+01:06:11.364 --> 01:06:25.593
+<v Tim Pritlove>Wer jetzt natürlich äh ganz interessant, wenn jetzt ein äh Eilantrag tatsächlich durchkommt, also wenn irgendjemand äh geschafft äh hätte, da eine Formulierung zu finden, wo das Verfassungsgericht auch sagt, oh ja, okay, äh Gefahrenverzug
+
+01:06:25.546 --> 01:06:32.816
+<v Tim Pritlove>zeichnet sich aber gerade noch nicht so ab oder macht zumindest so den Eindruck, als ob sie das noch nicht abzeichnen würde.
+
+01:06:34.926 --> 01:06:41.295
+<v Tim Pritlove>So, dann äh hat sich die GEMA äh gemeldet und musste eine kleine Niederlage eingestehen.
+
+01:06:41.139 --> 01:06:52.652
+<v Linus Neumann>Also das ist ja das ist ja da blickt ja jetzt echt keiner mehr durch. Da musste ich jetzt echt nochmal recherchieren und auch da bin ich mir nicht sicher, ob meine Recherchen da jetzt vollumfänglich waren. Ähm,
+
+01:06:52.989 --> 01:06:55.590
+<v Linus Neumann>die Gamer will ja Geld von YouTube.
+
+01:06:56.931 --> 01:07:04.045
+<v Linus Neumann>Und es gibt einmal Verfahren und Urteile in Hamburg,
+
+01:07:04.454 --> 01:07:08.198
+<v Linus Neumann>und jetzt hat die Gamer aber auch irgendwie aus irgendwelchen Gründen,
+
+01:07:08.829 --> 01:07:17.842
+<v Linus Neumann>Eine Entscheidung des Landesgerichts München noch einmal dem Oberlandesgericht München vorgelegt. Also wir haben in Hamburg die Situation ähm,
+
+01:07:18.275 --> 01:07:25.341
+<v Linus Neumann>da wurde geurteilt, YouTube könnte, könne unter Umständen haftbar gemacht werden, wenn ähm,
+
+01:07:25.600 --> 01:07:39.847
+<v Linus Neumann>Die Videoplattform bestimmten Kontrollen bei hochgeladenen Musikvideos nicht nachkommt. Das hat Hamburg geurteilt. Da geht es um diese ganze Content ID Geschichte, ja, wo die GEMA im Prinzip YouTube ja verpflichten will, ähm.
+
+01:07:40.767 --> 01:07:48.272
+<v Linus Neumann>Die hochgeladenen Videos zu kontrollieren und YouTube macht das ja auch auf eine gewisse Weise. Ähm.
+
+01:07:49.745 --> 01:07:53.897
+<v Linus Neumann>Gleichzeitig hat Hamburg aber entschieden, die die Richter,
+
+01:07:54.161 --> 01:08:05.590
+<v Linus Neumann>Äh er hat haben die Richter in Hamburg entschieden, dass YouTube nicht unmittelbar für die Inhalte verantwortlich ist, die auf seiner Seite existieren. Das ist das klassische, ich muss Kenntnis erlangen,
+
+01:08:06.065 --> 01:08:10.698
+<v Linus Neumann>darüber, dass die Inhalte illegal sind, erst dann bin ich dafür haftbar als.
+
+01:08:11.828 --> 01:08:22.560
+<v Linus Neumann>Content Provider, wo User Generation Content existiert. Was ja auch die sinnvolle Regelung ist, wir haben das immer öfter an dem Beispiel, wenn jetzt äh jemand bei ähm,
+
+01:08:22.891 --> 01:08:29.993
+<v Linus Neumann>Logbuch Netzpolitik in den Kommentaren etwas schriebe, was irgendwie gerechtlich in,
+
+01:08:30.036 --> 01:08:37.378
+<v Linus Neumann>Zwielicht steht, dann äh stünde, dann wären wir ab dem Moment der Kenntnis,
+
+01:08:37.409 --> 01:08:46.007
+<v Linus Neumann>für diesen Inhalt verantwortlich jedoch nicht davor. Das heißt, wenn uns jemand schreibt, ey, übrigens da hier, ne, dann müsst dann, ab dann stünden wir in der Verantwortung,
+
+01:08:46.170 --> 01:08:48.796
+<v Linus Neumann>eben auch diesen Inhalt dann zu löschen, vorher jedoch nicht,
+
+01:08:49.361 --> 01:08:56.823
+<v Linus Neumann>Und das das Verfahren in Hamburg war irgendwie so, ja, aber YouTube müsse natürlich auch zumutbare Maßnahmen ergreifen, dass sowas von vornherein nicht passiert.
+
+01:08:57.082 --> 01:09:06.546
+<v Linus Neumann>Das ist der Stand in Hamburg. Gleichzeitig ähm hat die GEMA aber einen Schadensersatzprozess gegen YouTube,
+
+01:09:07.226 --> 01:09:08.463
+<v Linus Neumann>in München,
+
+01:09:09.215 --> 01:09:20.373
+<v Linus Neumann>Und da waren sie im da sind sie auch im letzten Jahr vor dem Landgericht München unterlegen. Ähm weil die GEMA da von YouTube Geld haben wollte.
+
+01:09:21.473 --> 01:09:32.523
+<v Linus Neumann>Und da sagten, sagte die GEMA, wir wollten äh wir wir hätten gerne von YouTube für den Abruf bestimmter Musikvideos durch Internetnutzer. Ähm,
+
+01:09:32.866 --> 01:09:41.147
+<v Linus Neumann>bestimmter Musikvideos eben der, die irgendwie für die die Gamer sich irgendwie vertretungsberechtigt fühlt. Null Komma drei sieben fünf Cent für jeden Abruf.
+
+01:09:43.238 --> 01:09:52.852
+<v Linus Neumann>Und dann haben sie so insgesamt äh hundert äh tausend ausgewählte Titel genommen und irgendwie einen Streitwert von eins Komma sechs Millionen Euro errechnet.
+
+01:09:53.802 --> 01:10:05.477
+<v Linus Neumann>Und in München wurde geurteilt, im Land zunächst im Landgericht naja, die YouTube muss dafür gar nichts zahlen, weil die Nutzer und nicht die Plattformen für die veröffentlichen Veröffentlichung verantwortlich seien.
+
+01:10:05.754 --> 01:10:11.907
+<v Linus Neumann>Und dann sind die, ist die GEMA in Berufung gegangen vom Oberlandesgericht München.
+
+01:10:13.091 --> 01:10:16.089
+<v Linus Neumann>Das Oberlandesgericht hat ebenso entschieden.
+
+01:10:17.069 --> 01:10:26.780
+<v Linus Neumann>Und jetzt will die will das will die GEMA mit dem Urteil vor den Bundesgerichtshof gehen. Ich frage mich, wie viel Geld die inzwischen da verbraten haben.
+
+01:10:26.480 --> 01:10:30.256
+<v Tim Pritlove>Na ja gut, ich meine aber dafür sind sie ja da.
+
+01:10:30.084 --> 01:10:31.142
+<v Linus Neumann>Zu verbraten.
+
+01:10:30.910 --> 01:10:38.773
+<v Tim Pritlove>Ja nee, beziehungsweise da einfach so bissig zum zu zu bleiben und das einfach so lange.
+
+01:10:38.551 --> 01:10:39.627
+<v Linus Neumann>Ja gut, das stimmt.
+
+01:10:39.741 --> 01:10:42.871
+<v Tim Pritlove>Dafür sammeln sie halt die ganze Kohle ein.
+
+01:10:43.569 --> 01:10:47.469
+<v Linus Neumann>Ich dachte immer, sie würden das äh einsammeln, um den Künstlern irgendwie.
+
+01:10:50.390 --> 01:11:00.881
+<v Linus Neumann>Na ja, also da es gibt so Sachen, da muss man vielleicht auch irgendwann einfach mal sagen, äh da sieht man jetzt drüber weg. Also der Rechtsstaat zwischen GEMA und YouTube, das ist jetzt wirklich.
+
+01:11:00.990 --> 01:11:07.719
+<v Tim Pritlove>Ja gut, aber ist natürlich ganz interessant, also äh was zeichnet sich hier ab? Es zeichnet sich äh ab, dass,
+
+01:11:07.900 --> 01:11:14.876
+<v Tim Pritlove>selbst in Deutschland die Sichtweise der GEMA nicht so ohne weiteres akzeptiert wird,
+
+01:11:15.249 --> 01:11:28.504
+<v Tim Pritlove>dass sie also nicht so ohne weiteres sagen kann, ja hier äh die Plattform hat äh zu zahlen oder hat vielleicht auch genau das zu zahlen, was wir uns äh vorstellen, sondern nur weil jetzt äh,
+
+01:11:28.529 --> 01:11:35.577
+<v Tim Pritlove>Material anderer oder wo andere Rechte dran besitzen auf einer Plattform veröffentlicht wird, ist es nicht automatisch
+
+01:11:35.458 --> 01:11:41.850
+<v Tim Pritlove>die Aufgabe äh oder die Verantwortung der der Plattform, sonst zählen am Ende immer noch die die User selber,
+
+01:11:42.230 --> 01:11:47.000
+<v Tim Pritlove>Das macht's natürlich nicht äh einfacher für die Gamer, gar keine Frage.
+
+01:11:46.929 --> 01:11:53.100
+<v Linus Neumann>Na, die gehen wir die gehen wir in ihrer Pressemitteilung, denke ich, ah, schon ein,
+
+01:11:53.827 --> 01:11:58.712
+<v Linus Neumann>ein Argument. Ne, sie sagen, wir fordern.
+
+01:12:00.215 --> 01:12:05.436
+<v Linus Neumann>Von YouTube, Geld für die Verwertung unserer Videos.
+
+01:12:06.452 --> 01:12:16.042
+<v Linus Neumann>YouTube zahlt uns keinerlei Lizenzvergütung für die Musiknutzung auf ihrer Videoplattform. Erwirtschaftet aber Werbeerlöse damit.
+
+01:12:15.964 --> 01:12:17.154
+<v Tim Pritlove>Ja.
+
+01:12:16.854 --> 01:12:20.393
+<v Linus Neumann>Da sie Werbeerlöse erwirtschaften.
+
+01:12:21.637 --> 01:12:28.499
+<v Linus Neumann>Verwertet YouTube? Nach unserer Auffassung, diese Werke.
+
+01:12:29.473 --> 01:12:35.596
+<v Linus Neumann>Und eine Verwertung der Werke ist Vergütungspflichtig.
+
+01:12:36.281 --> 01:12:45.931
+<v Linus Neumann>Sie sagen quasi dadurch, dass YouTube dort wirbt, ist YouTube nicht nur ein reiner technischer Dienstleister, sondern verhält sich wie ein Musikdienst.
+
+01:12:47.567 --> 01:12:52.938
+<v Linus Neumann>YouTube gibt das Video zur Verfügung Werbung wird eingeblendet, YouTube verdient damit Geld,
+
+01:12:52.992 --> 01:13:05.419
+<v Linus Neumann>Daher soll YouTube bitte schön auch die Lizenzen erwerben ähm und nicht die Verantwortung für den Upload an die Uploader weitergeben. Das ist erstmal eine Argumentation, der ich sogar folgen kann.
+
+01:13:05.119 --> 01:13:06.867
+<v Tim Pritlove>Ja, ich auch.
+
+01:13:07.108 --> 01:13:12.648
+<v Linus Neumann>Vermutlich waren sie nur so blöd, sich Beispiele rauszusuchen, wo YouTube genau keine Werbung macht,
+
+01:13:13.044 --> 01:13:19.113
+<v Linus Neumann>Also ich kann mir, ich kann mir andererseits nicht vorstellen, dass YouTube so blöd ist, bei dieser Gamermusik dann auch noch Werbung einzublenden
+
+01:13:19.042 --> 01:13:27.977
+<v Linus Neumann>Na ja, also das Oberlandesgerichtsurteil ist noch nicht rechtskräftig. Eine Revision wurde zugelassen und ähm die Gamap wird jetzt
+
+01:13:27.833 --> 01:13:36.750
+<v Linus Neumann>Urteilsbegründung eingehend studieren und dann voraussichtlich eine Revision einlegen, auf das wir auch hier in diesem Rechtsstreit ähm
+
+01:13:36.744 --> 01:13:40.403
+<v Linus Neumann>zukünftig auf neue Meldungen ähm hoffen können.
+
+01:13:40.140 --> 01:13:42.871
+<v Tim Pritlove>Diesem spannenden Thema.
+
+01:13:42.621 --> 01:13:44.358
+<v Linus Neumann>Diesen spannenden Thema.
+
+01:13:44.654 --> 01:13:53.419
+<v Tim Pritlove>Gut, das äh bringt uns ans Ende dieser Sendung. Ja. Das wird auch Zeit.
+
+01:13:55.102 --> 01:13:57.620
+<v Tim Pritlove>Wir wollen ja hier nicht so übermäßig lang machen.
+
+01:13:57.626 --> 01:14:12.216
+<v Linus Neumann>Ich wollte mal noch eins sagen, unsere Facebook-Seite, ne? Also die Facebook dot com, äh Logbuch Netzpolitik, die ist seit ein paar Tagen in einem wirklich schmerzhaften Zustand, denn also.
+
+01:14:10.894 --> 01:14:13.633
+<v Tim Pritlove>Wir haben eine Facebook-Seite.
+
+01:14:13.364 --> 01:14:22.479
+<v Linus Neumann>Ja, wir haben Facebook-Seite habe ich doch mal gemacht hier. Sie hat exakt eintausenddreihundertachtunddreißig Likes.
+
+01:14:22.593 --> 01:14:23.609
+<v Tim Pritlove>Ist doch geil.
+
+01:14:23.405 --> 01:14:27.936
+<v Linus Neumann>Nein, eintausenddreihundertsiebenunddreißig wäre in Ordnung.
+
+01:14:29.414 --> 01:14:33.373
+<v Linus Neumann>Aber eintausenddreihundertachtunddreißig ist echt also entweder.
+
+01:14:32.112 --> 01:14:35.500
+<v Tim Pritlove>Also irgendeiner irgendeiner muss jetzt sein Like zurücknehmen.
+
+01:14:35.423 --> 01:14:47.717
+<v Linus Neumann>Entweder irgendeiner nimmt den Like jetzt zurück oder wir haben nächste Woche dreiundzwanzig zweiundvierzig da stehen, also zweitausenddreihundertzweiundvierzig Likes, das wäre auch noch akzeptabel, aber,
+
+01:14:48.162 --> 01:14:50.601
+<v Linus Neumann>Sowas, ne? Wir machen uns so eine Arbeit.
+
+01:14:50.313 --> 01:14:54.267
+<v Tim Pritlove>Hier macht sich überhaupt keine Arbeit.
+
+01:14:53.967 --> 01:14:58.491
+<v Linus Neumann>Jetzt wird da so draufgeschissen. Das finde ich nicht akzeptabel. Also das ist.
+
+01:14:58.480 --> 01:15:00.204
+<v Tim Pritlove>Du dir denn da für eine Arbeit?
+
+01:15:00.282 --> 01:15:02.908
+<v Linus Neumann>Ich habe da äh weißt du, was das für eine Arbeit ist?
+
+01:15:02.698 --> 01:15:16.807
+<v Linus Neumann>Dich dabei diesen Shady Diensten anzumelden, die dann da irgendwie automatische Posts und so machen. Das ist alles, das blickt doch keiner durch. Und dann musst du auf diese Facebook-Seite gehen und jedes Mal, wenn da einer irgendwas,
+
+01:15:17.042 --> 01:15:22.546
+<v Linus Neumann>Facebook oder so oder liked, dann äh ist ihr in dieser App,
+
+01:15:22.552 --> 01:15:32.269
+<v Linus Neumann>irgendeinen blinken und ich weiß immer nicht, ob da jetzt eine Handlung erforderlich ist oder nicht. Und ähm das ist das ist schon ähm belastend.
+
+01:15:33.850 --> 01:15:37.527
+<v Tim Pritlove>Ach, das ist doch alles Dreck, dieses ganze Facebook, das funktioniert dahinter.
+
+01:15:37.227 --> 01:15:52.207
+<v Linus Neumann>Also, pass auf, wir machen das ganz einfach, wenn du nächste Woche nicht zweitausenddreihundertzweiundvierzig Likes sind, dann machen wir den den Sack zu. Oder? Sollen wir das jetzt mal einfach sagen? Nächste Woche, so, zweitausenddreihundertzweiundvierzig Likes.
+
+01:15:51.967 --> 01:16:00.860
+<v Tim Pritlove>Du, ich bezweifle ernsthaft, dass das, dass es uns irgendwie groß was bringt. Und äh davon abgesehen ähm kann es ja wahrscheinlich auch nur was bringen, wenn wir uns, wenn wir uns.
+
+01:15:59.940 --> 01:16:03.351
+<v Linus Neumann>Wir haben hundertneunundsiebzig Beitragsinteraktionen.
+
+01:16:03.101 --> 01:16:04.357
+<v Tim Pritlove>Was soll denn das heißen?
+
+01:16:04.107 --> 01:16:13.797
+<v Linus Neumann>Wenn wir da, weiß ich nicht, aber wenn wir, wenn wir was andere, wenn wir das ähm wenn wir hier klicken zwanzig Euro, dann werden das mehr. Steht hier.
+
+01:16:18.869 --> 01:16:24.842
+<v Linus Neumann>Das ist ein Haus, ne. Personen, denen gesamt mit nee, vierzehn Euro.
+
+01:16:25.064 --> 01:16:27.786
+<v Tim Pritlove>Das ist auch ein schönes, schönes Beispiel, ne, wieder so wie
+
+01:16:27.649 --> 01:16:40.267
+<v Tim Pritlove>sowie Netzneutralität, ne, wenn so die Telekom beklagt so, ja, na ja, wir müssen ja so viel investieren und so weiter. Äh wäre auch schade, wenn ihr Videostream da irgendwie äh unter die Räder kommt, weil dann dann könnte es ja ruckeln. Im Prinzip macht,
+
+01:16:40.454 --> 01:16:45.748
+<v Tim Pritlove>macht Facebook ja mit ihrem Kanal genau das Gleiche. Sie könnten ja, wenn ich jetzt was poste,
+
+01:16:46.067 --> 01:16:57.279
+<v Tim Pritlove>Können sie das ja allen möglichen Leuten zugänglich machen, von denen ich das gerne möchte, ne? Alle Leute, die da geliked haben und was nicht alles, aber sie beschränken das halt nach irgendeinem komischen Algorithmus, sagen.
+
+01:16:56.979 --> 01:17:04.123
+<v Linus Neumann>Kein Algorithmus, die der Algorithmus heißt, dividiere durch große Zahl und gib's nur so wenigen Leuten.
+
+01:17:03.823 --> 01:17:13.377
+<v Tim Pritlove>Na ja klar, also irgendsoein, ne, irgend so eine Reduzierung und dann kannst du dafür bezahlen, dass dann sozusagen diese Drossel, diese Kommunikationsdrossel aufgehoben wird.
+
+01:17:13.323 --> 01:17:18.599
+<v Linus Neumann>Unbegreiflich, mir ist das alles unbegreiflich, dass man da.
+
+01:17:20.775 --> 01:17:23.467
+<v Linus Neumann>Also.
+
+01:17:23.479 --> 01:17:27.390
+<v Tim Pritlove>Du möchtest gerne eintausenddreihundertsiebenunddreißig Beitragsinteraktionen haben.
+
+01:17:27.883 --> 01:17:40.556
+<v Linus Neumann>Genau, ich möchte ein, also eintausenddreihundertsiebenunddreißig Beitragsinteraktionen und äh zweitausenddreihundertzweiundvierzig gefällt mir Angaben. Sonst machen wir net zu. Nee, Beitrag ist Interaktion nicht, dann piept das Telefon keine Beitrags.
+
+01:17:40.256 --> 01:17:44.990
+<v Tim Pritlove>Dein Telefon piept, wenn auf Facebook was passiert.
+
+01:17:44.690 --> 01:17:55.350
+<v Linus Neumann>Überhaupt nicht haben, was wir überhaupt nicht haben sind registrieren und Webseitenklicks. Wir haben einen von allen Reaktion Quote. Ich weiß nicht, was das ist.
+
+01:17:55.050 --> 01:18:03.961
+<v Tim Pritlove>Linus, ich verstehe nichts davon. Das, das ist einfach, das ist eine Sprache, die die bei mir einfach null resoniert. Ich ich weiß überhaupt nicht, wovon die reden.
+
+01:18:03.661 --> 01:18:04.802
+<v Linus Neumann>Deswegen, weißt du.
+
+01:18:04.502 --> 01:18:09.562
+<v Tim Pritlove>Könnten das so einfach machen und sie machen's nicht einfach und was soll das denn? Es ist alles albern.
+
+01:18:10.368 --> 01:18:17.602
+<v Tim Pritlove>Hey, schreibt uns auf Twitter und fertig. Das passt schon. Und dann und natürlich gerne hier in unsere äh Kommentare und so.
+
+01:18:17.302 --> 01:18:19.399
+<v Linus Neumann>Aber Tim, dass die Jugend ist da drin.
+
+01:18:19.490 --> 01:18:22.390
+<v Tim Pritlove>Ach, die Jugend ist da drin. Die Jugend ist da drin verloren.
+
+01:18:23.890 --> 01:18:27.180
+<v Tim Pritlove>Die Hugen muss raus aus Facebook.
+
+01:18:27.992 --> 01:18:35.339
+<v Linus Neumann>Bewirb deine Seite für fünf Euro. Fünf Euro.
+
+01:18:36.154 --> 01:18:37.822
+<v Linus Neumann>Ich verstehe das nicht.
+
+01:18:37.529 --> 01:18:46.770
+<v Tim Pritlove>Also während Linus hier sein letztes Hab und Gut auf Facebook schmeißt, das ist das ist so weißt du, früher, also früher sind sone Leute.
+
+01:18:46.470 --> 01:18:47.600
+<v Linus Neumann>Du da angeknotet.
+
+01:18:47.300 --> 01:19:00.267
+<v Tim Pritlove>Ne früher sind solche Leute ins Casino gegangen. Ach komm, ich setze einfach auf rot und so. Das wird schon, da wird schon was werden. Ne, und, und, und heute hast du heißt Facebook Beitragsinteraktions äh äh Lotterie,
+
+01:19:00.723 --> 01:19:06.864
+<v Tim Pritlove>und und und da wirst du dann die Kohle los. Einfach die ganze Zeit nur, weil du irgendwie, ja, ich muss ja irgendwie groß rauskommen können.
+
+01:19:06.564 --> 01:19:21.250
+<v Linus Neumann>Ich verstehe das auch alles nicht. Also ich kann da nichts zu sagen. Wie gesagt, ich habe jetzt hier die Ziele, ich habe jetzt hier die die Planziele für die nächste Woche bekanntgegeben. Ansonsten wird hier Kraft meines Amtes äh wird der Facebook zugemacht. Vorausgesetzt, man kann das.
+
+01:19:21.707 --> 01:19:24.290
+<v Linus Neumann>Wahrscheinlich muss man da auch für bezahlen.
+
+01:19:24.075 --> 01:19:27.197
+<v Tim Pritlove>Stop stop stop. Wir sagen jetzt tschüss Linus.
+
+01:19:26.947 --> 01:19:28.906
+<v Linus Neumann>Ihr sagt tschüss. Ciao ciao.
+
+01:19:27.790 --> 01:19:30.901
+<v Tim Pritlove>Bis bald.

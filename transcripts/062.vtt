@@ -1,0 +1,1910 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP062 Zerebrale Flatulenz
+Publishing Date: 2013-04-24T13:08:50+02:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp062-zerebrale-flatulenz
+
+00:00:11.375 --> 00:00:12.779
+<v Tim Pritlove>Guten Morgen Linus.
+
+00:00:12.559 --> 00:00:14.133
+<v Linus Neumann>Guten Morgen Tim.
+
+00:00:40.345 --> 00:00:45.620
+<v Tim Pritlove>Das war die.
+
+00:00:43.451 --> 00:00:46.552
+<v Clemens Schrimpe>Stück Brot dazu?
+
+00:00:48.096 --> 00:00:55.799
+<v Tim Pritlove>Ja, das war ja eine bewegte Woche. Ähm stimmt's? Linus?
+
+00:00:55.499 --> 00:00:59.020
+<v Linus Neumann>Ja, ja, ich äh äh noch ist Bewegung im Netz.
+
+00:00:58.720 --> 00:01:03.641
+<v Tim Pritlove>Ja, noch bewegt es sich. Und es bewegt sich doch,
+
+00:01:04.243 --> 00:01:16.062
+<v Tim Pritlove>Ja, es gibt noch Netzbewegungen. Ein paar Bits strömen nach wie vor von A nach B, aber ja. Äh wir sind heute mal wieder mit Gast am Start,
+
+00:01:16.537 --> 00:01:21.434
+<v Tim Pritlove>Und begrüßen Clemens. Hallo. Clemens Schrumpe. Ähm.
+
+00:01:21.134 --> 00:01:27.155
+<v Clemens Schrimpe>Muss mich ja hier bald behördlich melden, so häufig wie ich hier bin in der Metaebene.
+
+00:01:26.068 --> 00:01:28.423
+<v Tim Pritlove>Wollen wir drüber reden,
+
+00:01:29.144 --> 00:01:43.133
+<v Tim Pritlove>Ja und äh wir haben sicherlich auch einen guten Anlass, denn wir wollen ja heute mal so ein bisschen über die äh jüngsten Bewegungen äh sprechen, die so äh die Telekom äh gemacht hat,
+
+00:01:43.854 --> 00:01:52.946
+<v Tim Pritlove>Nachdem sich das Jahr vor einiger Zeit schon angekündigt hat durch das League aus Telekom Managementkreisen
+
+00:01:52.808 --> 00:02:03.930
+<v Tim Pritlove>dass äh in Planung steht äh die DSL äh Verträge etwas zu überarbeiten beziehungsweise schon lange verborgene Klauseln dann auch mal zu aktivieren
+
+00:02:03.811 --> 00:02:07.728
+<v Tim Pritlove>hat äh die Telekom, wann war das jetzt vorgestern, Montag?
+
+00:02:08.864 --> 00:02:18.148
+<v Tim Pritlove>ernst gemacht, ne? Und das äh veröffentlicht, dass sie das jetzt eben auch wirklich äh tun wollen. Und,
+
+00:02:18.839 --> 00:02:19.470
+<v Tim Pritlove>ja
+
+00:02:21.147 --> 00:02:35.947
+<v Clemens Schrimpe>Sehr schlau gemacht. Also schön geliebt und so, ein bisschen abgewartet, bis die Wohnung wieder ein bisschen glatt sind. Der nach, bevor sie es ausführen und wenn sie den ausführen wirklich, kriegt keinen Hammer mehr danach. Also ist schon professionell gut gemacht. Die Kampagne.
+
+00:02:37.065 --> 00:02:43.596
+<v Tim Pritlove>Naja, also an die These, dass das Lieg äh sozusagen äh.
+
+00:02:43.723 --> 00:02:45.573
+<v Clemens Schrimpe>Kommen bisschen Verschwörungstheorie muss.
+
+00:02:45.273 --> 00:02:48.716
+<v Tim Pritlove>Ja, ich kann mich dem nur begrenzt anschließen,
+
+00:02:49.582 --> 00:02:54.334
+<v Tim Pritlove>Ja. Gibt's sonst noch was dazu zu sagen?
+
+00:02:54.768 --> 00:03:06.869
+<v Tim Pritlove>Vodafone, also hier bei Netzpolitik Org war ja auch dann schnell die Meldung, dass das da Gerüchte gibt, dass Vodafone das äh auch machen äh möchte. Andere Provider haben sich gemeldet und gesagt, das äh
+
+00:03:06.750 --> 00:03:10.258
+<v Tim Pritlove>Würden sie ja jetzt nicht machen, ich glaube Kabel BW,
+
+00:03:10.619 --> 00:03:17.577
+<v Tim Pritlove>ist da irgendwie vorangeschritten und meinte, boah nee hier kein Problem, bei uns gibt's irgendwie schnelles Netz und auch unbegrenzt.
+
+00:03:18.053 --> 00:03:22.631
+<v Tim Pritlove>Telekom gibt sich äh unbeeindruckt, wenn ich das richtig mitbekommen habe.
+
+00:03:22.481 --> 00:03:26.669
+<v Linus Neumann>Ja, die machen das jetzt. Also ähm es gab,
+
+00:03:27.000 --> 00:03:36.800
+<v Linus Neumann>Das ist ja ganz interessant. Es gab dann direkt mal die äh auf Netzkritik org dann quasi die die den Schuss vor dem Buch, dass die anderen das mitplanen würden und man hat sie damit so ein bisschen aus der,
+
+00:03:37.125 --> 00:03:50.333
+<v Linus Neumann>Reserve gelockt, jetzt auch mal ein ein Commitment dazu machen und die Befürchtung lautet ja, dass dass es ohnehin schon alle wissen und eigentlich auch kein Provider jetzt unbedingt unglücklich ist
+
+00:03:50.177 --> 00:03:57.928
+<v Linus Neumann>dass er in Zukunft diese zusätzliche Einnahmequelle für sich erschließen kann zum wenn der,
+
+00:03:58.019 --> 00:04:01.041
+<v Linus Neumann>größte Licht am Markt, äh das so macht,
+
+00:04:01.835 --> 00:04:12.314
+<v Linus Neumann>und man da einfach folgt. Andererseits ist natürlich für einige äh die die äh die Möglichkeit, da das eventuell explizit als Werbemerkmal zu nutzen,
+
+00:04:12.357 --> 00:04:18.828
+<v Linus Neumann>Und als Alleinstellungsmerkmal zur Kundengewinnung, was allerdings auch nach hinten ähm losgehen kann.
+
+00:04:18.798 --> 00:04:22.752
+<v Clemens Schrimpe>Sie kriegt ja, die kriegen ja genau die Kunden, die die Telekom als Zecken bezeichnet.
+
+00:04:23.101 --> 00:04:31.195
+<v Clemens Schrimpe>und die dieselbe Rechnung die bei der Telekom nicht aufgeht für die viel Sauger geht natürlich weder beim Vodafone noch beim Kabel Deutschland auf
+
+00:04:31.027 --> 00:04:42.017
+<v Clemens Schrimpe>Wie gesagt, momentan denke ich mal halten die sich zurück, weil sie denken, ach wir erben da noch ein bisschen was von und nehmen noch ein bisschen gute Publicity mit oder freuen uns darüber, dass die Telekom schlechte Publicity am Hals hat.
+
+00:04:41.795 --> 00:04:48.170
+<v Clemens Schrimpe>aber auf Dauer haben die da auch keinen Spaß davon. Also deswegen, weiß ich nicht,
+
+00:04:48.657 --> 00:04:53.104
+<v Clemens Schrimpe>Ich meine dieses ganze Ding ist ohnehin hochinteressant finde ich, weil
+
+00:04:53.098 --> 00:05:04.022
+<v Clemens Schrimpe>Ähm ich möchte wirklich mal wissen, auf welcher Baumschule die Marketingleute äh von der Telekom waren. Es gibt so ein paar Grundregeln, die man in diesem Business äh irgendwie beigebracht,
+
+00:05:04.029 --> 00:05:12.417
+<v Clemens Schrimpe>ähm die dort massiv verletzt wurden, nämlich einfach zum Beispiel äh du nimmst niemals einem Kunden was weg. Niemals.
+
+00:05:12.676 --> 00:05:21.743
+<v Clemens Schrimpe>Gibst einem Kunden was oder gibst einem Kunden was nicht? Das ist okay, also bietest was an oder bietest was nicht an. Aber du nimmst niemals einem Kunden was weg. Das ist einfach dämlich.
+
+00:05:22.032 --> 00:05:28.413
+<v Clemens Schrimpe>Verstehe auch nicht, warum sie das so rum vermarkten. Äh man könnte ja auch sagen, hier unsere neuen fünfundsiebzig Gigabyte-Pakete.
+
+00:05:29.086 --> 00:05:34.747
+<v Clemens Schrimpe>Und übrigens, wir sind sogar noch so cool, wenn du dein Volumen aufgebraucht hast, lassen wir dich sogar noch weiterlaufen.
+
+00:05:35.300 --> 00:05:41.939
+<v Clemens Schrimpe>Ist eine ganz, ist ein ganz anderer Spin, als zu sagen, äh du hast alle Welt offen und irgendwann schneiden wir sie dir ab,
+
+00:05:42.547 --> 00:05:57.136
+<v Clemens Schrimpe>Effekt ist der fünfundsiebzig Gigabyte und der der Rest kleckert durch oder du musst nachzahlen. Aber man kann es doch ganz anders binden. Warum bleiben sie auf ihren komischen Flattraten-Ding da? Ich weiß sowieso nicht, was diese mit diesen da immer soll. Das ist irgendwie keine Ahnung.
+
+00:05:57.996 --> 00:06:10.278
+<v Clemens Schrimpe>Nee, ich weiß auch nicht, wat, ja, Flat ist es sowieso nicht, weil im Englischen ist Flatrate, ist nämlich ein Platter, ist ein platter Reifen. Ich meine, das ist es jetzt auch. Das ist ein platter Reifen, ne. Das ist ein Flats, das ist das kann eigentlich nur, mir ist irgendwie neulich mal aufgegangen,
+
+00:06:10.393 --> 00:06:18.487
+<v Clemens Schrimpe>dass das irgendwie das muss irgendwie die Abkürzung sein für oder sowas von irgendwelchen Marketing-Heinis,
+
+00:06:18.559 --> 00:06:31.394
+<v Clemens Schrimpe>Aber anders äh anders kann man sich diese ganze Flatterei dort gar nicht vorstellen. Äh das ist irgendwie echt schräg. Ähm äh wenn man denn auch so so Werbezettelchen liest von den Mitbewerbern, wie Wähler aus dem Flatz,
+
+00:06:32.710 --> 00:06:37.463
+<v Clemens Schrimpe>Allein schon, dass es davon mehrere gibt, äh ist schon irgendwie hä,
+
+00:06:37.944 --> 00:06:47.721
+<v Clemens Schrimpe>Aber nochmal, nochmal, warum spinnen die dit? Warum lassen die das so spinnen, dass sie sozusagen äh jetzt alle sich darüber aufregen, dass ihnen was weggenommen wird, anstatt das lieber sagen, hier,
+
+00:06:47.763 --> 00:06:54.367
+<v Clemens Schrimpe>Hier ist unser Paket und wir sind sogar noch cool und lassen dich sogar noch weiter surfen, selbst wenn du dein Kontingent aufgebraucht hast.
+
+00:06:55.383 --> 00:06:59.204
+<v Clemens Schrimpe>wäre doch, wer hätte doch, hätte doch einen positiven Anstrich. Ja, es ist mir nicht.
+
+00:06:58.904 --> 00:07:05.616
+<v Tim Pritlove>Nicht so sehr jetzt drum kümmern, dass die Marketingberatung für die Telekom äh zu machen, wie sie etwas, was
+
+00:07:05.574 --> 00:07:19.755
+<v Tim Pritlove>offensichtlich äh sehr unpopulär ist noch irgendwie besser spinnen können. Vielleicht werfen wir nochmal einen Blick da drauf, was eigentlich äh jetzt konkret äh angekündigt wurde. Ähm also im Wesentlichen hat sich das ja auch bestätigt. Tatsächlich
+
+00:07:20.404 --> 00:07:31.437
+<v Tim Pritlove>es ja diese Drosselung bereits in den Verträgen. Sie wurde bloß bisher noch nicht äh durchgeführt. Das äh lässt sich jetzt absehen, dass das dann wohl auch äh aktiviert wird, sprich jeder ist betroffen.
+
+00:07:32.080 --> 00:07:43.839
+<v Tim Pritlove>Und neue Verträge sind nochmal dahingehend betroffen, dass diese Drosselung, die ohnehin da schon drin stand, also äh kriegt er das jetzt nicht für alle ähm Anschlusstypen zusammen, aber
+
+00:07:43.732 --> 00:07:55.010
+<v Tim Pritlove>schon ein VDSL fünfzig wurde in den alten Verträgen auf sechs Megabit Download, begrenzt Upload weiß ich jetzt grad nicht mehr, also auch äh das ist schon eine signifikante Reduzierung, auch
+
+00:07:54.921 --> 00:08:03.723
+<v Tim Pritlove>wenn sie jetzt nicht so im Rotlichtbereich äh agiert wie die neue Idee, nämlich auch äh solch schnellen Anschlüsse auf,
+
+00:08:04.096 --> 00:08:16.721
+<v Tim Pritlove>dreihundertvierundachtzig Kilobit zu reduzieren pro Sekunde und bei den anderen Anschlüssen ist es derselbe Speed, also jetzt ab Mai, also ab neuen Verträgen, ab Mai,
+
+00:08:17.178 --> 00:08:20.399
+<v Tim Pritlove>Nur dass das eben eher eintrifft,
+
+00:08:20.675 --> 00:08:29.214
+<v Tim Pritlove>zweihundert Gigabyte hast du bei VDSL fünfzig, das geht dann irgendwie runter bis fünfundsiebzig Gigabyte pro Monat, wohlgemerkt,
+
+00:08:29.449 --> 00:08:32.200
+<v Tim Pritlove>Upload und Download zusammengefasst.
+
+00:08:32.321 --> 00:08:35.229
+<v Clemens Schrimpe>Ist halt Transfervolumen. Welche Richtung ist Wurst?
+
+00:08:35.079 --> 00:08:39.844
+<v Tim Pritlove>Könnt ihr auch sagen, nur Download oder was weiß ich, nur Upload.
+
+00:08:40.109 --> 00:08:47.962
+<v Tim Pritlove>dann wird sich's bei mir grad nochmal ausgehen so. Ich hab jetzt auch grad nochmal nachgeschaut was so mein Monatsverbrauch ist hier.
+
+00:08:47.662 --> 00:08:48.821
+<v Clemens Schrimpe>Im Urlaub bist.
+
+00:08:49.363 --> 00:09:01.429
+<v Tim Pritlove>Wenn ich nicht im Urlaub bin, ja wobei ähm gewisser Anteil ist halt hier auch einfach Backup-Aktivität et cetera, aber stimmt schon, wenn ich hier so normal äh unterwegs bin mit meinem VDSL fuffzig,
+
+00:09:01.453 --> 00:09:08.411
+<v Tim Pritlove>bin nicht derzeit so bei dreihundertfünfundsiebzig Gigabyte im Monat. Mit anderen Worten,
+
+00:09:08.520 --> 00:09:14.715
+<v Tim Pritlove>kann ich eigentlich die Hälfte des Monats nicht mehr arbeiten? Ja, zusammen.
+
+00:09:15.124 --> 00:09:16.403
+<v Linus Neumann>Ich gucke mal ganz kurz.
+
+00:09:16.572 --> 00:09:18.260
+<v Tim Pritlove>Also schon mein Downstream.
+
+00:09:17.960 --> 00:09:27.418
+<v Clemens Schrimpe>Freuen sich doch, deine Kindes, jemand hat auch geschrieben, dass ein guter Beitrag zur Entschleunigung der Gesellschaft und ich finde es auch gut, dann kannst du dich mehr um deine Kinder kümmern. Ja, noch mehr.
+
+00:09:25.561 --> 00:09:29.365
+<v Tim Pritlove>Noch mehr. Ah. Ja, wie schön.
+
+00:09:30.603 --> 00:09:40.475
+<v Linus Neumann>Letzter Monat ähm sechshundertzwanzig nee. Quatsch. Null.
+
+00:09:40.175 --> 00:09:43.137
+<v Clemens Schrimpe>Sechshundertzwanzig Megabyte.
+
+00:09:41.551 --> 00:09:48.798
+<v Linus Neumann>Was? Ich habe weniger, ja, so, fünfzig Gig gesendet, hundertzehn empfangen.
+
+00:09:48.901 --> 00:09:50.727
+<v Tim Pritlove>Bisher noch im grünen Bereich.
+
+00:09:50.715 --> 00:09:55.811
+<v Linus Neumann>Ich bin aber üblicherweise drüber. Also eigentlich bin ich so ein zweihundertfünfzig Bereich, vielleicht war ich viel weg.
+
+00:09:55.511 --> 00:09:57.199
+<v Clemens Schrimpe>Vielleicht doch recht.
+
+00:09:58.707 --> 00:10:11.644
+<v Linus Neumann>So viel braucht man nie. Nee, also es war letzten Monat. Also eigentlich habe ich so einen Viertel-Gig im äh Viertel TB. Habe ich so im Kopf. Ist mein Beitrag zum Internet. Das wären dann zweihundertfünfzig.
+
+00:10:12.805 --> 00:10:19.234
+<v Clemens Schrimpe>Ja, dann nimmst dir einfach so einen tollen Fiber to the Home to hundert Anschluss oder sowas, dann hast du vierhundert G Platz und dann passt das da alles rein.
+
+00:10:19.745 --> 00:10:21.728
+<v Tim Pritlove>So
+
+00:10:23.044 --> 00:10:29.503
+<v Linus Neumann>Echt erst ab vierhundert. Was was kostet mich dafür?
+
+00:10:29.660 --> 00:10:43.655
+<v Clemens Schrimpe>Ich weiß nicht, was es kostet. Ähm aber ähm es gibt's wirklich. Also es gibt in Potsdam-West zur äh habe ich Leute, die sowas haben, ähm aber ähm da ist irgendwie das das Volumenlimit wie vierhundert G.
+
+00:10:43.445 --> 00:10:51.527
+<v Linus Neumann>Was wir dazu mal einfiel, ähm liebe Linkspartei, bitte einmal herhören, ähm was ist denn, wenn das ist dann nicht eigentlich eine,
+
+00:10:51.701 --> 00:10:54.537
+<v Linus Neumann>Benachteiligung der Großfamilie,
+
+00:10:55.181 --> 00:11:07.841
+<v Linus Neumann>also äh ich als ich finde, ich mache das ja alles selber da, mein, mein Traffic. Und unter äh woanders äh teilen sich mehrere Personen im Haushalt einen Anschluss, ähm entsprechend sind die doch benachteiligt, oder?
+
+00:11:08.070 --> 00:11:15.034
+<v Clemens Schrimpe>Die müssen sich den ja nicht teilen. Der Telekom wäret viel lieber, wenn jeder von denen seine eigenen Anschluss hätte und dann hätten sie das Problem ja auch nicht.
+
+00:11:17.751 --> 00:11:19.932
+<v Linus Neumann>Hm ist.
+
+00:11:19.902 --> 00:11:25.766
+<v Clemens Schrimpe>Das ist genauso wie wenn du hingehst und sagst, ich habe hier einen tollen DSL-Anschluss, liebe ganze Straße, surft doch bitte bei mir,
+
+00:11:25.953 --> 00:11:35.381
+<v Clemens Schrimpe>und hinterher dann aufschreien und sagen, oh, ich bin ja benachteiligt, weil die ganze Straße surft ja bei mir. Deswegen wird mir der Anschluss runtergedreht, also äh weiß ich jetzt nicht so.
+
+00:11:34.065 --> 00:11:36.443
+<v Linus Neumann>Also das jetzt nicht so. Das wollen sie äh na ja.
+
+00:11:36.193 --> 00:11:38.157
+<v Clemens Schrimpe>Aber frage mal die Linkspartei.
+
+00:11:37.907 --> 00:11:41.504
+<v Linus Neumann>Nee, weil ich meine, was ist denn mit Leuten, die äh also ich finde das schon so Kinder.
+
+00:11:41.883 --> 00:11:43.127
+<v Clemens Schrimpe>Und nu?
+
+00:11:44.293 --> 00:11:46.281
+<v Linus Neumann>Hat man halt mal zwei Kinder.
+
+00:11:45.981 --> 00:11:55.770
+<v Clemens Schrimpe>Ist privatisiert und gibt einen einen darf man sowas hier sagen auf diesem Scheißdreck da drauf. Äh wie dein sozialen Verhältnis aussehen, weil sie nicht das Sozialamt sind?
+
+00:11:55.818 --> 00:11:59.573
+<v Linus Neumann>Danke, kommen wir zur nächsten Frage. Nee, das das wollte ich ja hören. Das.
+
+00:11:59.315 --> 00:12:02.133
+<v Clemens Schrimpe>Ist ja, ist ja, ist ja politisch so designiert worden.
+
+00:12:02.152 --> 00:12:15.606
+<v Clemens Schrimpe>aus einem Staatsunternehmen, was vielleicht noch so was wie eine soziale Verantwortung hatte oder überhaupt eine Verantwortung gegenüber der Gesellschaft, der extra ein privates Unternehmen gemacht, damit man sich solche Gedanken nicht mehr machen muss in der Konzernspitze.
+
+00:12:16.489 --> 00:12:27.552
+<v Linus Neumann>Das ist sehr schön. Ähm wie also die Frage ist beantwortet. Die nächste Frage wäre ähm erstmal, ist das überhaupt technisch,
+
+00:12:28.351 --> 00:12:40.723
+<v Linus Neumann>Ähm notwendig, was sie da machen. Also gibt es ein warum oder gibt es ein technisch gesehen einen Grund dafür, dass sie das machen? Ist es irgendwie nachvollziehbar oder sinnvoll? Aus herein technischen Perspektive?
+
+00:12:40.982 --> 00:12:55.686
+<v Clemens Schrimpe>Du stellst jetzt dieselbe Frage wie die, die man denen äh die man der Atomindustrie gestellt hat, äh Sachen, wenn ihr nicht Atomkraftwerke bauen dürft, gehen dann in Deutschland die Lichter aus, wenn die Telekom wäre, würde sagen, ja, aber wenn du dir das mal anguckst, die haben ja ein Netzwerk funktioniert,
+
+00:12:56.666 --> 00:13:11.165
+<v Clemens Schrimpe>das funktioniert auch gar nicht so schlecht. Wenn sie jetzt auch immer rumjammern von wegen Netzausbau, das ist ja nötig für den Netzausbau, dann muss man mal hinterfragen, wie funktioniert so ein Netzausbau, wo liegen da eine Investition, wo liegen da die laufenden Kosten?
+
+00:13:11.472 --> 00:13:12.830
+<v Clemens Schrimpe>Und ähm,
+
+00:13:13.389 --> 00:13:24.253
+<v Clemens Schrimpe>Wenn man das auf das Volumen abstellt, sogar auf das monatliche Volumen, würde man ja glauben, dass ähm dass der Netzausbau monatlich immer wieder neue Kosten erzeugt, dem ist aber nicht so,
+
+00:13:24.536 --> 00:13:38.723
+<v Clemens Schrimpe>Netzausbau bedeutet, du erschließt den Standort, das heißt, du kaufst ein Grundstück oder mietest du irgendwas oder wenn du nur einen Kasten auf die Straße stellst, stellst du einen Antrag bei einer Behörde, kaufst diesen Kasten, stellst ihn da hin, lässt den Elektroanschluss legen. Das sind alles Investitionskosten, die du da rein tun musst,
+
+00:13:38.862 --> 00:13:42.647
+<v Clemens Schrimpe>dann kaufst du dein Equipment, was du da reinschraubst, wird natürlich auch eine Abschreibungsdauer hat.
+
+00:13:43.435 --> 00:13:49.966
+<v Clemens Schrimpe>Aber dann ist das da und dieses Equipment, das kostet genauso viel, egal wie viel es genutzt wird oder nicht. Deswegen halte ich zum Beispiel diese
+
+00:13:49.930 --> 00:13:58.529
+<v Clemens Schrimpe>wo man das mit der mit dem Volumen, also mit der Nutzung dieses Dings, dieses Netzes in äh in Verbindung bringt, äh den halte ich einfach für falsch.
+
+00:13:59.088 --> 00:14:11.989
+<v Clemens Schrimpe>Ja, okay, so ein Switch verbraucht ein paar Milliwatt mehr, wenn er wirklich was tut. Ja, also vielleicht haben sie ein bisschen mehr Stromverbrauch, aber dit, was richtig Geld kostet, nämlich die Investitionskosten dahinzustellen, ist vollkommen unabhängig vom Volumen. Weil der Kasten steht da, auch wenn die Straße nicht surft.
+
+00:14:12.507 --> 00:14:17.199
+<v Clemens Schrimpe>klicken steht der Kasten auch da und hat sehr viel gekostet,
+
+00:14:17.488 --> 00:14:31.176
+<v Clemens Schrimpe>Also von daher sind die äh finde, dass das nicht äh dass es garantiert nicht notwendig äh äh für den Netzausbau abgesehen davon muss man auch sagen, die Telekom ist ja nun nicht gerade der Laden, der am Hungertuch nagt. Ich weiß nicht, was jetzt gerade wieder gemacht haben, wie dreizehn Milliarden oder was war das?
+
+00:14:31.645 --> 00:14:35.965
+<v Clemens Schrimpe>dreizehn Milliarden Gewinn oder so so,
+
+00:14:36.302 --> 00:14:44.138
+<v Clemens Schrimpe>Das heißt also, ähm ist jetzt nicht so, dass die jetzt dringend jeden Cent brauchen, damit sie sich mal einen VDSL-Kasten für die Straße leisten können. Aber nochmal,
+
+00:14:44.210 --> 00:14:53.770
+<v Clemens Schrimpe>die Investition, die Kosten, das sind alles fixe Kosten, die man da reinmacht. Wie gesagt, Abschreibungskosten, bisschen Stromverbrauch dazu, aber das ist alles unabhängig vom Verbrauch, ob du den Kasten jetzt nutzt oder nicht, ist vollkommen egal.
+
+00:14:53.975 --> 00:15:03.265
+<v Linus Neumann>Was wäre an der an dem Argument dran, dass dieser dieser eine Kasten, der jetzt hier vor der Tür steht, der ist jetzt äh ausgelastet, ich muss den nächsten daneben stellen.
+
+00:15:04.419 --> 00:15:12.669
+<v Clemens Schrimpe>Ja, aber das sind ja Anschlusskosten, für die sie ja von den Leuten auch Anschlussgebühren verlangen und monatliche Gebühren. Auch dit hat wieder mit dem Volumen, was die Leute verbrauchen, nix zu tun.
+
+00:15:13.120 --> 00:15:15.115
+<v Clemens Schrimpe>Wurdet Volumen ins Spiel kommt, ist,
+
+00:15:15.403 --> 00:15:26.862
+<v Clemens Schrimpe>beim Peering oder bei den äh bei den eben nicht nicht notwendigerweise nur im Beckenboden, aber auch bei den Verbindungen zur Außenwelt, also würde, wo man die Telekomwolke verlässt, in Richtung anderer Provider.
+
+00:15:26.664 --> 00:15:39.553
+<v Linus Neumann>Also da wo die, wo das das Netz, was die Telekom in Deutschland anbietet, mit dem Internet verbunden ist, mit den anderen Providern, mit dem mit dem ja, also da dieser Übergang findet statt in Frankfurt und.
+
+00:15:39.259 --> 00:15:48.531
+<v Clemens Schrimpe>Der findet nicht nur dort statt, der findet überall dort statt, dort statt, wo du Peering machen willst, der findet auch in mehreren deutschen Städten statt. Nur ist allerdings die Telekom auch dafür berühmt, dass sie eigentlich nicht piert,
+
+00:15:48.586 --> 00:16:03.223
+<v Clemens Schrimpe>sie sagt, wir sind so groß, also Peering sagt man in der es gibt ein technisches Peeling, das heißt, es gibt eine es gibt eine technische Beziehung oder ein Kabel zwischen zwei Providern. Und dann gibt's noch sozusagen den politischen Ausdruckpeeling, wo man wirklich das Wort pier, also sozusagen gleichberechtigter nimmt,
+
+00:16:03.470 --> 00:16:14.292
+<v Clemens Schrimpe>ein ISP glaubt, dass er 'ne Verbindung mit einem anderen ISP hat, der genauso groß ist und so stark ist wie er den piert man, das heißt, man zahlt sich gegenseitig kein Geld, man verbindet sich nur, damit das Ganze funktioniert,
+
+00:16:14.352 --> 00:16:16.137
+<v Clemens Schrimpe>man zahlt sich gegenseitig kein Geld.
+
+00:16:15.897 --> 00:16:19.730
+<v Linus Neumann>Man legt ein Kabel rüber und diese beiden ISPs sind dann verbunden.
+
+00:16:19.436 --> 00:16:27.103
+<v Clemens Schrimpe>Genau. Und die sagen, ich glaube dir, dass du genauso viel Verkehr lieferst wie ich. Deswegen fangen wir gar nicht an zu rechnen und dann ist gut. Das ist dieses politische Peering.
+
+00:16:27.398 --> 00:16:36.586
+<v Clemens Schrimpe>ein großer mit einem, ja, wenn du ein Großer mit einem Kleinen zusammenstößt, dann sagt der Große, ja puff, was hast denn du schon zu bieten? Ick biete dir das ganze Internet, ja?
+
+00:16:36.850 --> 00:16:44.313
+<v Clemens Schrimpe>dafür zahlst du mir jetzt was, dass es halt dran sieht. Ich glaube nicht, dass die Telekom bei ihrer Größe irgendjemanden irgendwo Transitz zahlt, ich glaub's nicht,
+
+00:16:44.608 --> 00:16:55.688
+<v Clemens Schrimpe>Sie haben ja auch Ihre Telekom gibt's ja nicht bloß in Deutschland, ja? Die haben Ihre internationalen Backboards der Telekom gehören Anteile an transatlantischen Glasfaserkabeln und so weiter und so fort,
+
+00:16:55.935 --> 00:17:03.368
+<v Clemens Schrimpe>haben einfach ihre Kabel in die großen Internets dieser Welt und dort mit ihresgleichen,
+
+00:17:03.921 --> 00:17:18.571
+<v Clemens Schrimpe>und der Rest soll halt zahlen, wenn er bei ihnen connected. Das heißt, ich glaube nicht dadran, wirklich nicht dadran, dass die Telekom, äh, dadurch, dass irgendwelche fünf Leute in Prenzlberg äh häufig auf YouTube klicken, ähm effektiv wirklich mehr Geld bezahlen muss und zwar langfristig für das Volumen.
+
+00:17:18.842 --> 00:17:30.066
+<v Clemens Schrimpe>Sie merken natürlich, okay, da ist ein bestimmter Verkehr, der gemacht werden muss oder muss ich mal noch einen neuen Switch kaufen oder muss ich mal nochmal eine neue Leitung legen, innerhalb eines meistens innerhalb eines Peering-Centers oder eines eines äh Internet Exchanges,
+
+00:17:30.127 --> 00:17:35.354
+<v Clemens Schrimpe>Das heißt, da wird äh nochmal eine Einmalinvestition in irgendeinem Port getätigt mit irgendeinem Strip oder ein Stück Glas dran,
+
+00:17:35.613 --> 00:17:42.247
+<v Clemens Schrimpe>Aber ähm ich glaube nicht, dass irgendwo die Telekom auch nur äh ein Bit für das Volumen bezahlt, was sie abliefern.
+
+00:17:42.950 --> 00:17:46.243
+<v Clemens Schrimpe>Also jetzt wirklich so auf dem Tacho, wie ich's ja beim neulich mal beschrieben hatte,
+
+00:17:46.453 --> 00:17:56.656
+<v Clemens Schrimpe>sondern dass sie höchstens mal irgendwo noch 'ne Leitung legen müssen oder irgendwo noch 'n Port dazu kaufen müssen oder sonst irgendwas. Das ist sozusagen die Investition und das widerspricht sich ja,
+
+00:17:56.957 --> 00:18:08.602
+<v Clemens Schrimpe>widerspricht ja dann wieder der Argumentation, die sie gegenüber einem Kunden rausbringen zu sagen, äh wir wollen, dass die Leute, die den viel nutzen, auch mehr zahlen, weil sonst funktioniert unser Netz nicht mehr. Ich meine, das stimmt im Großen und Ganzen aber nicht in dem,
+
+00:18:08.717 --> 00:18:15.309
+<v Clemens Schrimpe>extrem maß, wie sie es jetzt machen, dass sie jetzt jeden ihrer User sozusagen dazu verpflichten, da jetzt noch irgendwie mehr zu zahlen.
+
+00:18:15.009 --> 00:18:31.828
+<v Linus Neumann>Wie viel Abdeckung haben wir eigentlich mit diesen Tarifen? Also wir haben ja auch äh als ich in Berlin kriegt man das nicht so mit, obwohl ich habe das, ich habe äh an in der Anfangszeit, wo ich nach Berlin gezogen bin, da gab's bei mir auch kein DSL, da wo ich gewohnt habe, weil da Glasfaser in der Erde lag und die konnten haben das irgendwie nie hingekriegt, um zu stöpseln.
+
+00:18:31.606 --> 00:18:35.806
+<v Linus Neumann>auf Kupfer wieder oder so. Das war die offizielle Geschichte, glaube ich. Ähm.
+
+00:18:35.674 --> 00:18:37.716
+<v Clemens Schrimpe>Mhm.
+
+00:18:36.479 --> 00:18:43.173
+<v Linus Neumann>Friedrichshain, ja, ja. Vor zehn Jahren ungefähr. Was ist mit ähm,
+
+00:18:43.263 --> 00:18:54.686
+<v Linus Neumann>was ist mit mit so ländlichen Regionen die bis heute noch nicht mal dieses DSL haben ja oder die die irgendwie dieses DSL leiht bekommen oder so was ist eigentlich mit denen,
+
+00:18:54.969 --> 00:19:00.154
+<v Linus Neumann>Da sagt die Telekom ja äh ja euch äh äh möchten wir da gar nicht,
+
+00:19:00.155 --> 00:19:10.424
+<v Linus Neumann>Bei euch lohnt sich's nicht, diese äh hinzuschnallen oder was, ne? Oder was was warum haben wir auf dem Land noch keinen DSL? Wer das was, was man als Netzausbau bezeichnen könnte?
+
+00:19:10.604 --> 00:19:17.010
+<v Clemens Schrimpe>Das ist was, was als ja, natürlich hat das was mit Netzausbau zu tun, aber auch da wieder die Frage, was hat das mit dem Volumen zu tun.
+
+00:19:17.563 --> 00:19:22.238
+<v Clemens Schrimpe>Die Telekom nimmt ja auch Monatsgebühren und Anschlussgebühren und so weiter und so fort
+
+00:19:22.064 --> 00:19:32.447
+<v Clemens Schrimpe>Und äh das kostet alles, kostet alles Geld, ja, wenn man sich das anguckt, wie das auch gemacht und es wird ja auch dann immer schön deutsch gemacht. Da wird ja nicht einfach ein Kasten in die Ecke geschmissen, sondern das wird ja dann
+
+00:19:32.243 --> 00:19:40.655
+<v Clemens Schrimpe>ne? Mit hier und der Hand abgenommen und da noch eine Erdungskabel extra und da ganz hoch offiziell Norm gerecht wird, dahin gebastelt, kostet ein Scheißgeld,
+
+00:19:41.064 --> 00:19:53.497
+<v Clemens Schrimpe>aber auch das hat nichts nichts mit dem Volumen zu tun. Also ist mir nicht klar, ja, wieso die jetzt sagen, äh ist, wenn jetzt Leute mehr surfen, äh können wir da gegen Kasten nicht hinstellen? Das verstehe ich nicht.
+
+00:19:54.032 --> 00:20:02.955
+<v Clemens Schrimpe>ähm auf dem Land ist es halt so, dass es ähm einfach Dinge gibt, die sind nicht attraktiv. Du hast halt eben Grundkosten für ähm,
+
+00:20:03.148 --> 00:20:04.175
+<v Clemens Schrimpe>für so ein Kästchen
+
+00:20:04.103 --> 00:20:13.224
+<v Clemens Schrimpe>einfach Investitionskosten und dann auch monatliche Kosten, weil da ein lokale Energieversorger musste ja da Strom rein liefern und der will auch seine Zählergebühr haben.
+
+00:20:13.015 --> 00:20:21.944
+<v Clemens Schrimpe>und du musst die Investition tätigen, diese Ding dahin zu tun und das auch zu betreiben und Wartungskosten und Abschreibungskosten und so weiter und so fort. Und wenn du denn das Ding nicht vollmachen kannst,
+
+00:20:22.419 --> 00:20:32.856
+<v Clemens Schrimpe>dann lohnt es sich für dich nicht. Ähm das ist halt eben so, dass wir Deutschen mit unseren Dörfern auch schön verstreut leben. Ja, wir haben also sehr viele kleine Dörfer, wo halt eben nur ein paar Pipel wohnen,
+
+00:20:32.905 --> 00:20:40.235
+<v Clemens Schrimpe>Landbevölkerung ist auch traditionell gerne mal überaltert, das heißt also auch die Nutzung von DSL dort ist halt eben auch nur.
+
+00:20:41.233 --> 00:20:44.520
+<v Clemens Schrimpe>Nicht so nicht so golden, wie sie mir wie man sich das vorstellt,
+
+00:20:44.749 --> 00:20:54.946
+<v Clemens Schrimpe>Diese Geschichte wird sich im Übrigen nochmal, denke ich, ändern, wenn die Telekom wirklich wie angekündigt hingeht und äh ihr Netz und das analoge Telefonnetz runterfährt so ab zweitausendsechzehn,
+
+00:20:56.130 --> 00:21:06.381
+<v Clemens Schrimpe>weil dann, damit die Leute telefonieren können, auch die achtundachtzigjährige Oma braucht sie halt eben DSL. Das weiß ich nicht mehr, dass das DSL ist, weil das ist nach wie vor ihr toller Telefonapparat mit der Wildscheibe dran.
+
+00:21:06.081 --> 00:21:07.396
+<v Linus Neumann>Aber der läuft halt dann.
+
+00:21:07.096 --> 00:21:11.152
+<v Clemens Schrimpe>Mit DSL. Ähm das heißt
+
+00:21:10.960 --> 00:21:24.931
+<v Clemens Schrimpe>die müssen damit langfristig jetzt immer aus dem Kniff kommen und dann rechnet sich das auch wieder, weil für jedes Kästchen, was sie da aufm Doranger stellen können sie oder jede zehn, zwanzig Kästchen, die da für irgendwelche Dorfanger stellen, können sie irgendwie eine teure EWSD-Vermittlungsstelle in dem in dem Großkraft nebenan,
+
+00:21:25.118 --> 00:21:26.938
+<v Clemens Schrimpe>abschalten und runterfahren,
+
+00:21:27.233 --> 00:21:40.452
+<v Clemens Schrimpe>deswegen lohnt sich das für die auch langfristig. Aber das hat jetzt mal aus deren Sicht mit Internet oder so nichts zu tun. Aber um nochmal drauf zurückzukommen, also die die Investitionskosten, die Betriebskosten für so einen Kasten sind halt verhältnismäßig hoch, gerade in Deutschland.
+
+00:21:40.765 --> 00:21:46.287
+<v Clemens Schrimpe>ähm und äh äh die Nutzung ist dafür eben manchmal zu gering, ne? Du musst jetzt.
+
+00:21:45.987 --> 00:21:47.224
+<v Linus Neumann>Das aber jetzt das also.
+
+00:21:46.924 --> 00:21:49.303
+<v Clemens Schrimpe>Voll machen, sonst lohnt sich das nicht, ne?
+
+00:21:49.003 --> 00:22:01.328
+<v Linus Neumann>Genau, also das heißt, am Ende irgendwie die fünfzig Euro, die ich für die dann der eine Bauer für seinen DSL-Anschluss zahlt, äh stehen in keinem Verhältnis zu dem Kasten, der an der Landstraße zu seinem Hof steht. Ähm das ist jetzt.
+
+00:22:01.178 --> 00:22:07.872
+<v Clemens Schrimpe>Noch andere Sachen. Das ist ja, es gibt ja natürlich noch andere Formen des Netzausbaus. Es gibt ja natürlich noch diese diese Mini-Slams,
+
+00:22:08.076 --> 00:22:18.502
+<v Clemens Schrimpe>habe ich bisher noch nicht gesehen, jedenfalls in Deutschland nicht, in anderen Ländern hab ich das schon vor vielen, vielen Jahren gesehen, in Frankreich zum Beispiel, da gibt's auch Gegenden, da hat jeder Bauernhof, auch wenn er weiter weg ist von den anderen halt eben so,
+
+00:22:18.694 --> 00:22:31.349
+<v Clemens Schrimpe>so ein Mini, der da irgendwo an einem Mast hängt. Das ist halt eben nicht, wir bauen einen Kasten, sondern das ist halt irgendwie ein Mast, äh wo eh die Telefonleitung lang hinkt, der hängt halt eben an einem Mastmarktkasten, der ist ein bisschen größer.
+
+00:22:31.169 --> 00:22:34.522
+<v Clemens Schrimpe>weiß ich vier DSL Leitungen für die benachbarten Höfe raus,
+
+00:22:35.358 --> 00:22:41.198
+<v Clemens Schrimpe>Kann man auch bauen. Gibt es auch alles, habe ich hier in Deutschland noch nicht gesehen. Hier wird halt eben schön Kasten gebaut oder nicht?
+
+00:22:42.652 --> 00:22:56.840
+<v Clemens Schrimpe>Kann sein, dass es jetzt, dass die Telekom mal wieder irgendwo einen Feldtest macht, einen kleinen oder so habe ich jedenfalls noch nicht gehört oder nicht gesehen, aber ist jedenfalls nicht in dem Maße, wie das in anderen Ländern gemacht wird, wo man halt einfach Mini-D-Slams irgendwie an die Masten hängt oder so was.
+
+00:22:56.636 --> 00:23:00.565
+<v Tim Pritlove>Also meins, der liegt schon eine aktive äh Ausbauverweigerung vor.
+
+00:23:02.194 --> 00:23:04.543
+<v Clemens Schrimpe>Ähm ja.
+
+00:23:04.243 --> 00:23:07.998
+<v Tim Pritlove>Mindestens eine mangelnde Ausbaubereitschaft.
+
+00:23:08.924 --> 00:23:20.912
+<v Clemens Schrimpe>Ich kann mir das so vorstellen, dass die Telekom halt ähm intern äh ein Budget dafür hat, was sie macht und sie haben sich halt in den letzten Jahren hauptsächlich in den Großkampf, in den Großstädten,
+
+00:23:21.177 --> 00:23:30.196
+<v Clemens Schrimpe>haben darin investiert. Ja? Weil das ist Marktplatz, den sie besetzen wollten, hier leben die jungen Leute, die Nutzer und die überhaupt, ja?
+
+00:23:30.347 --> 00:23:34.000
+<v Clemens Schrimpe>ihre, ihre Ipster, ihre ihre Zielklientel,
+
+00:23:34.114 --> 00:23:44.702
+<v Clemens Schrimpe>und hier mussten sich ja dann in diesen Kampf reinbegehen gegen die Kabelnetzbetreiber, gegen LTE, gegen Stadtnetz, gegen schieß mich tot, gegen Alice, äh Telefoniker und den ganzen Zoo,
+
+00:23:44.708 --> 00:23:49.972
+<v Clemens Schrimpe>Das heißt, hier hat man halt eben auch schön viel Geld reingetan, guckt einfach dahin, wo die VDSL-Kästen stehen,
+
+00:23:50.351 --> 00:23:59.646
+<v Clemens Schrimpe>kannst du übrigens auch sehen, selbst wenn so 'ne Großstadt wie Berlin ausgebaut wird, wird natürlich erst in Kreuzberg und im Prenzlauer Berg angefangen, bevor man Köpenicks und Kästchen hinstellt. Oder 'n Rudo,
+
+00:24:00.049 --> 00:24:15.048
+<v Clemens Schrimpe>da sieht man sieht man ganz genau wo die Strategie hingeht und sie haben halt eben nur ein begrenztes Budget, sie haben natürlich auch nur ein begrenztes Personal um das zu machen und jetzt fangen sie so langsam an, dort das auch um Land aufzurollen, vornehmlich, wie man häufiger schon beobachtet hat, dort,
+
+00:24:15.330 --> 00:24:27.336
+<v Clemens Schrimpe>in die Konkurrenz zu nahe kommt. Ich hatte ja schon beim mal erzählt, dass ich habe so einen kleinen Landsitz in Nordbrandenburg, da war wirklich nichts, gar nichts. Ich musste, ich musste kämpfen wie Tier, mal vor etlichen Jahren, um da mal überhaupt einen ISDN-Anschluss zu kriegen.
+
+00:24:27.938 --> 00:24:34.565
+<v Clemens Schrimpe>Und ähm dann hat der Vodafone sich überlegt, wir stellen da jetzt mal ein LTE-Türmchen hin. Das kriegt die Telekom natürlich mit,
+
+00:24:34.908 --> 00:24:49.546
+<v Clemens Schrimpe>Festverbindung beantragen oder wie auch immer. Jedenfalls kriegt die Telekom das sehr gut mit, wo der Vodafone seine LTE hinstellt.
+
+00:24:50.051 --> 00:24:59.184
+<v Clemens Schrimpe>So und der Vodafone hat das Ding angemacht und keine zehn Tage später stöckelte eine Frau und eine Vertriebsfrau von einer Telekom durch dieses Dorf klingelte an jeder Haustür und sagte sich, freuen sie sich.
+
+00:24:59.930 --> 00:25:06.040
+<v Clemens Schrimpe>Jetzt gibt's hier DSL, ich habe reinswillig einen Antrag dabei, unterschreiben sie hier. Sie sind doch schon Telekom-Kunde. So,
+
+00:25:06.371 --> 00:25:13.209
+<v Clemens Schrimpe>Und diese Nummer fahren sie halt eben überall. Das heißt, da wird jetzt erstmal geguckt, jetzt wird Marktplatz besetzt. Ja, das wird jetzt nicht der Telekom gibt's
+
+00:25:13.000 --> 00:25:22.668
+<v Clemens Schrimpe>überhaupt nicht da drum, die arme Landbevölkerung sozusagen zu versorgen, sondern dafür zu sorgen, dass diese arme Landbevölkerung, wenn sie denn schon unbedingt Bits kriegen, muss sie wenigstens von der Telekom kriegt und nicht von den Mitbewerbern,
+
+00:25:22.890 --> 00:25:26.826
+<v Clemens Schrimpe>Das heißt, da wird jetzt Marktplatz besetzen gespielt und nicht Netzversorgung herstellen.
+
+00:25:26.562 --> 00:25:41.428
+<v Linus Neumann>Ist ja auch eigentlich eine ganz schöne Taktik, den äh Konkurrenten einfach mal bis äh zu Ende investieren zu lassen, bis das LTE-Türmchen da steht und sich die Beine ausgerissen wurden und dann einfach hinzugehen und schnell äh den äh auf die Straße zu stellen,
+
+00:25:41.452 --> 00:25:43.429
+<v Linus Neumann>das Geschäft zu versauen. Also das.
+
+00:25:43.129 --> 00:25:49.468
+<v Clemens Schrimpe>Vor allen Dingen musst du überlegen, das sind ja, das sind, ich sag jetzt mal alte Kunden, sind alte Telekom-Kunden auch schon aus dem Grunde, weil's ja nie was anderes gab,
+
+00:25:49.601 --> 00:26:01.492
+<v Clemens Schrimpe>Ja, die haben halt Telekom äh äh oder analoge Telefon und da jetzt den Absellen nur zu machen, zu sagen, ach jetzt hier nicht Provider wechseln. Kommen sie, ich habe hier den Antrag dabei, unterschreiben sie einfach hier, kriegen sie für fünf Euro mehr, kriegen sie Internet. Juhu,
+
+00:26:01.847 --> 00:26:04.935
+<v Clemens Schrimpe>Ja, was meinst du, wie viele Leute da unterschreiben?
+
+00:26:04.936 --> 00:26:06.023
+<v Linus Neumann>Also erhalten.
+
+00:26:05.723 --> 00:26:10.638
+<v Clemens Schrimpe>Abgesehen davon, dass LTE auch noch tariflich stinkt in Deutschland und zwar bei allen, aber okay, das ist eine andere Thema.
+
+00:26:10.338 --> 00:26:13.510
+<v Tim Pritlove>Überhaupt stimmt alles.
+
+00:26:13.210 --> 00:26:21.340
+<v Linus Neumann>Halten wir fest, keine technische Notwendigkeit. Sehe ich nicht. Wirtschaftliche Strategie.
+
+00:26:22.344 --> 00:26:28.221
+<v Clemens Schrimpe>Klar, wirtschaftliche Strategie, wir wollen jetzt was abmerken, das geht der Telekom tierisch auf den Sender, dass sie,
+
+00:26:28.269 --> 00:26:37.511
+<v Clemens Schrimpe>diese Geschichte, die sie da irgendwie äh die sie sich eingetreten haben zusammen mit den anderen Provatern, jetzt nur noch ein fixes Geld kriegen und zusehen müssen, wie der Apple, der Amazon,
+
+00:26:37.757 --> 00:26:45.617
+<v Clemens Schrimpe>online der sich dumm und dämlich verdienen durch ihre Leitung durch?
+
+00:26:45.870 --> 00:26:58.464
+<v Clemens Schrimpe>ihre eigenen Kunden, ihnen ihre fixen neununddreißig fünfundneunzig im Monat abliefern und darüber hinaus sogar immer noch meckern, dass sie denn immer noch schneller, höher wollen oder einen Anschluss haben wollen oder ich weiß gar nicht, was die Kunden alles so für Vorstellungen haben, ja?
+
+00:26:58.639 --> 00:27:00.784
+<v Clemens Schrimpe>So, das heißt, sie haben die ganze Arbeit,
+
+00:27:01.265 --> 00:27:03.061
+<v Clemens Schrimpe>ein festes Geld dafür,
+
+00:27:03.296 --> 00:27:12.177
+<v Clemens Schrimpe>und gerade der Apple oder so mit seinem iTunes Store oder so oder andere Content-Anbieter verdienen sich dumm und dusselig über ihr Netz, das würde mich als Telekom auch aufregen.
+
+00:27:11.919 --> 00:27:22.777
+<v Linus Neumann>Jetzt ist natürlich ärgerlich, äh weil Apple, Amazon, eBay, YouTube, wer da komme, die machen ja Content. Die machen ja nicht Netz, ne. Das ist ja was anderes,
+
+00:27:23.090 --> 00:27:32.019
+<v Linus Neumann>Und die die äh die Trennung von von Netz und Inhalt ist ja eigentlich ein eine ganz sinnvolle Sache. Und äh wir sehen, dass
+
+00:27:31.923 --> 00:27:40.966
+<v Linus Neumann>inzwischen sehr starke Begehrlichkeiten in Richtung Content anbieten haben. Ein Thema, was sehr viel behandelt ist, ist dieses T-Entertaine.
+
+00:27:42.067 --> 00:27:48.267
+<v Linus Neumann>Ähm das ist irgendwie eine Zusatzsache, die ich buchen kann zu meinem VDSL-Anschluss.
+
+00:27:48.328 --> 00:27:50.016
+<v Clemens Schrimpe>Anschluss.
+
+00:27:50.119 --> 00:27:52.466
+<v Linus Neumann>Ja oder oder zu meinem DSL-Anschluss.
+
+00:27:50.876 --> 00:27:53.736
+<v Tim Pritlove>Du kriegst es dann sogar billiger.
+
+00:27:53.486 --> 00:27:58.765
+<v Linus Neumann>Aha. Und da kommt dann äh Fußball, ne? Fußball aufm Fernsehen.
+
+00:27:59.487 --> 00:28:06.871
+<v Clemens Schrimpe>Fernsehen nennen. Ja, wir sind beim traditionellen Triple Play Spiel, ein Anbieter bietet Telefon, Internet und Fernsehen an.
+
+00:28:08.597 --> 00:28:15.326
+<v Clemens Schrimpe>Also wir selber oder auch aus dem Kabel kriegst oder aus wat ausm Satelliten rausfällt oder so, Christ, äh denn da über dein über deine Telefonstrippe.
+
+00:28:15.026 --> 00:28:17.880
+<v Linus Neumann>Aber jetzt irgendwie über IP.
+
+00:28:18.962 --> 00:28:20.410
+<v Clemens Schrimpe>Ja, aber nicht übers Internet,
+
+00:28:20.789 --> 00:28:35.433
+<v Clemens Schrimpe>Das ist der feine Unterschied, den man da machen muss. Ich weiß, worauf du hinaus willst. Es geht halt um die Frage, die jetzt natürlich auch dieser Tage in allen Tweets im Sommer kolportiert wird, Netzneutralität und als Beispiel wird ausgerechnet immer TE Entertaine angeführt. Und ich glaube gerade, dass dit,
+
+00:28:36.437 --> 00:28:43.304
+<v Clemens Schrimpe>oder ist jetzt meine ganz persönliche Sicht ja, sehr subjektiv, dass dit grade kein Beispiel für Netzneutralitätsverletzung ist,
+
+00:28:43.599 --> 00:28:53.646
+<v Clemens Schrimpe>Man muss dazu mal ein bisschen trennen wie so 'n wie so 'n DSL-Anschluss daheim funktioniert's. Gerade so 'n TDSL-Anschluss, der besteht nämlich aus zwei Teilen,
+
+00:28:53.905 --> 00:29:01.272
+<v Clemens Schrimpe>besteht aus dem aus dem Zubringeretz, nämlich der Teil der wirklich DSL ist, letzte Meile und dann noch ein paar Meilen mehr,
+
+00:29:01.687 --> 00:29:10.862
+<v Clemens Schrimpe>Und denn dahinter kommt dann noch ein Internetzugang. Das heißt, du hast sozusagen ein Netz, was dir die Bits vor die Tür bringt und dahinter nochmal einen Internetzugang,
+
+00:29:11.265 --> 00:29:21.582
+<v Clemens Schrimpe>Muss man verstehen, auch im Zusammenhang mit der Drossel, weil die äh die angekündigte Drossel der Telekom wird nur den Internetanschluss drosseln. Der drosseln dir nicht dein DSL-Anschluss.
+
+00:29:22.268 --> 00:29:34.117
+<v Clemens Schrimpe>Diese Trennung ist auch wichtig und ist auch gut, weil du kannst ja auch einen anderen ISP wählen. Ich weiß gar nicht, das wissen vielleicht gar nicht so viele Leute. Du kannst ja auch sagen, ich nehme einen TDSL-Anschluss, aber keinen T-Online Internetanschluss dazu hinten.
+
+00:29:34.983 --> 00:29:37.987
+<v Clemens Schrimpe>Sondern ich nehme mir das Internet von ISPX,
+
+00:29:38.396 --> 00:29:47.055
+<v Clemens Schrimpe>dann hast du mit dieser Drossel nix zu tun, jedenfalls nichts mit der von der Telekom, weil dein DSL-Anschluss wird nicht gedrosselt, sondern nur dit Internet dahinter von T Online.
+
+00:29:47.362 --> 00:30:01.819
+<v Clemens Schrimpe>Nur würdet allerdings von der Telekom immer gerne als Paket vermarktet. Ne, die gehen halt immerhin, diese Call-in-Serf-Paket. Da ist halt alles drin, da ist sozusagen ein DSL-Anschluss drin und ein Internetanschluss und Telefonie und wenn du Entertaine nimmst, ist noch ein bisschen Fernsehen mit dazu, ja?
+
+00:30:02.174 --> 00:30:06.837
+<v Clemens Schrimpe>aber die und diese Drosselnummer, die sie angekündigt haben, bezieht sich nur auf den Internetteil,
+
+00:30:07.540 --> 00:30:12.984
+<v Clemens Schrimpe>Deswegen können sie auch zum Beispiel Entertain mitfahren, weil da hat nämlich mit dem Internetteil gar nichts zu tun
+
+00:30:12.972 --> 00:30:27.544
+<v Clemens Schrimpe>Sie benutzen vom Prinzip nur diese letzte Meile, diese dort technisch haben, um die die Fernsehsignale sozusagen nochmal mitzubringen. Und ja, das basiert auch auf IP, aber das ist kein Internet. Das ist Multicast, was sie dort machen, ähm äh ist äh ist aber,
+
+00:30:27.586 --> 00:30:28.193
+<v Clemens Schrimpe>keinen.
+
+00:30:28.025 --> 00:30:38.937
+<v Tim Pritlove>Ziehen sie ja auch vom Service her gleich mit den Kabelfernseh Anbietern, die zusätzlich noch Internet anbieten, aber erheben normalerweise eben über dieses Kabel auch,
+
+00:30:39.112 --> 00:30:44.784
+<v Tim Pritlove>Fernsehen, damit haben sie da quasi parität. Aber die eigentliche Diskussion, denke ich, die sich jetzt hier äh äh,
+
+00:30:45.271 --> 00:30:58.118
+<v Tim Pritlove>die da entstanden ist bezüglich der Netzneutralität bezieht sich ja explizit auf diese Drosselung, weil es ist natürlich klar, dass man jetzt Daten intensive Dienstleistungen, wie äh Videostreaming von HD, ja, was weiß ich, ich klicke mir auf,
+
+00:30:58.497 --> 00:31:05.197
+<v Tim Pritlove>V. Ja oder ich klicke auf meinem Apple TV jetzt so ein HD Movie so, da gehen dann halt mal so drei Gigabyte irgendwie über die Leitung. So
+
+00:31:05.185 --> 00:31:12.834
+<v Tim Pritlove>ne? Und wenn ich das jetzt äh jeden Tag äh benutzen möchte so, dann läuft das halt dann über kurz oder lang
+
+00:31:12.708 --> 00:31:15.256
+<v Tim Pritlove>hinaus, dass eben mein Anschluss dann
+
+00:31:15.154 --> 00:31:22.773
+<v Tim Pritlove>sein Limit erreicht und dann müsste ich eben zusätzlich zahlen. Zusätzlich geht die Telekom ja jetzt auch relativ unverblümt raus und sagt so
+
+00:31:22.690 --> 00:31:32.790
+<v Tim Pritlove>Ja, na ja, wenn ihr jetzt hier eure Dienstleistungen trotzdem noch durchgeschippert bekommen möchtet, so dass das im Prinzip so läuft, wie mit dem Entertainment, das ist nämlich nicht mitzählt.
+
+00:31:32.629 --> 00:31:38.240
+<v Tim Pritlove>ja? Dann könnt ihr uns ja äh bestechen, bezahlen, was auch immer. Äh dann machen.
+
+00:31:38.337 --> 00:31:40.446
+<v Clemens Schrimpe>An die Diensteanbieter, nicht an die Kunden.
+
+00:31:40.146 --> 00:31:41.161
+<v Linus Neumann>Ja genau, das ist.
+
+00:31:40.861 --> 00:31:41.636
+<v Tim Pritlove>Genau, ist eine
+
+00:31:41.540 --> 00:31:50.956
+<v Tim Pritlove>äh Männer und die Diensteanbieter. So, wenn ihr möchtet, dass das irgendwie trotzdem reinkommt, dann äh zahlt uns doch mal dafür Geld, ne, so nach dem Motto hier so YouTube, wenn du noch irgendwie deine
+
+00:31:50.830 --> 00:32:01.976
+<v Tim Pritlove>äh platzieren möchtest, dann äh gib uns doch mal Geld. Das ist ja so der, der, der feuchte Traum, den sie schon länger pflegen. So, an der Stelle sehe ich allerdings die Ideen der Netzneutralität
+
+00:32:01.971 --> 00:32:09.704
+<v Tim Pritlove>komplett ähm ja absolut. Im Angriff, weil äh hier
+
+00:32:09.548 --> 00:32:23.074
+<v Tim Pritlove>muss man sozusagen auch noch bezahlen, damit man überhaupt bis zum Kunden kommt und genau das ist ja eben entgegen den ursprünglichen Zielen von Internet. Das ich nämlich jederzeit sagen kann, okay, ich habe hier auch einen datenintensiven Dienst. Ich habe zwar nicht viel Geld, ich bin,
+
+00:32:23.123 --> 00:32:30.538
+<v Tim Pritlove>Google so. Ich muss sehen, äh äh wie ich das überhaupt erst mal an den Mann kriege. So, aber wenn das einfach zu datenintensiv ist, dann,
+
+00:32:31.019 --> 00:32:38.860
+<v Tim Pritlove>keine Chance und wir werden in Zukunft 'ne Menge Dienste haben, die sehr datenintensiv sind, weil sich immer mehr mit Video und anderen Datenmengen.
+
+00:32:39.630 --> 00:32:48.276
+<v Clemens Schrimpe>Ja, nicht nur das, sondern halt eben auch das, was du ja selber auch machst, was dich bei vielen auch etabliert, dass Leute wirklich hingehen, sagen, ich habe jetzt mal die Infrastruktur, die es mir erlaubt, online Backups zu machen.
+
+00:32:48.403 --> 00:32:52.801
+<v Tim Pritlove>Ja, die klaut überhaupt ist äh natürlich hier auch in Gefahr.
+
+00:32:53.312 --> 00:33:07.806
+<v Clemens Schrimpe>Ja und da da stimme ich dir vollkommen zu, was den Internetteil angeht, äh äh ganz klar. Äh das äh wer jetzt sagt, wäre jetzt Tagesschau DE guckt, statt Tagesschau über über Entertaine, der hat natürlich äh ins Klo gegriffen,
+
+00:33:07.848 --> 00:33:19.800
+<v Clemens Schrimpe>was die Drossel angeht. Das ist vollkommen, ich will jetzt auch gar nicht sagen, dass die Telekom diese Netzneutralitätsnummer dort nicht verletzt, aber das Entertaine da benutzen sie nur die letzte Meile von ihrem Kabel mit und das hat mit dem anderen Zeug nix zu tun.
+
+00:33:19.734 --> 00:33:21.855
+<v Clemens Schrimpe>genauso wie ein Kabelnetzbetreiber, Tim sagt.
+
+00:33:21.717 --> 00:33:34.486
+<v Linus Neumann>Also sehe ich, ich ich sehe die Argumentation ein, dass vor das Problem zu betonen ist aber, die die Telekom ist Netz und Content-Anbieter äh in in Einheit und schafft.
+
+00:33:34.186 --> 00:33:39.972
+<v Clemens Schrimpe>Zugangsnetzanbiete. Das Internet Content Anbieter, Internetanbieter und Zugangsnetzanbieter.
+
+00:33:39.690 --> 00:33:42.076
+<v Linus Neumann>Also im Sinne von Anschluss, ne?
+
+00:33:43.079 --> 00:33:54.202
+<v Linus Neumann>die drei in Einheit und sie nutzt ihre Macht jetzt einerseits äh um zumindest eine Situation zu schaffen, wie andere Content Anbieter von mir abgeschnitten werden können,
+
+00:33:54.677 --> 00:34:04.051
+<v Linus Neumann>einfach also ab einem gewissen Volumen hätte äh könnte ich also nicht mehr den den Apple Film gucken, aber äh das TE Entertaine.
+
+00:34:04.321 --> 00:34:13.287
+<v Clemens Schrimpe>Die machen's übrigens ganz subtil, dass sie das, wo du grade sagst, dass sie das abschneiden können, sie schneiden's halt nicht an der Strippe zu Apple ab, sondern sie schneiden's halt an der Strippe zum Kunden ab.
+
+00:34:14.651 --> 00:34:25.004
+<v Clemens Schrimpe>Um damit den Apple oder den Amazon oder den ebays oder wer auch immer zu ärgern, ja? Sie könnten ja auch hingehen, diese Apple ist unser Ziel, also wo ist unser Link hier zu Ackermai rüber, da machen wir jetzt die Drossel drauf,
+
+00:34:25.137 --> 00:34:35.749
+<v Clemens Schrimpe>Apple, wenn du mehr als zwanzig Terabyte im Monat da über diese Strippe da haust, dann zahle uns Geld, das würde ja dann Sinn machen, das ist auch ein Netzneutralitätstralala, aber das tun sie gerade eben nicht, sondern sie versuchen sozusagen,
+
+00:34:35.893 --> 00:34:42.719
+<v Clemens Schrimpe>äh ihre Kunden oder ihre Kunden als als äh als Soldaten ins Feld zu schicken, ne? Implizit.
+
+00:34:42.497 --> 00:34:45.465
+<v Tim Pritlove>Damit erreichen sie ja auch alle Konkurrenten auf einmal.
+
+00:34:45.165 --> 00:34:46.367
+<v Clemens Schrimpe>Genau. Mhm.
+
+00:34:48.446 --> 00:35:03.276
+<v Tim Pritlove>Also so stellt sich das jetzt dar und ähm jetzt ist natürlich die große Frage, kann sich da überhaupt noch was äh dran ändern? Offensichtlich gibt's in der Politik relativ wenig Aufschrei, da ist man mit Uli Hoeneß, glaube ich, derzeit komplett ausgelastet.
+
+00:35:03.319 --> 00:35:16.027
+<v Clemens Schrimpe>Die Verräterpartei hat gestern was geschrieben, dass sie irgendwie, sie wollen jetzt die Telekom stoppen. Das net so die SPD, ja klar, die SPD, ja, die SPD wird uns retten, ist klar, ja. Hm.
+
+00:35:15.926 --> 00:35:19.272
+<v Tim Pritlove>Hat uns wahrscheinlich die zeribrale Flatulenz von der.
+
+00:35:19.813 --> 00:35:30.172
+<v Linus Neumann>Ist aber super, also die SPD wird da einen Satz sagen, dann wird die Telekom sagen, wollt ihr, dass wir hier jemanden entlassen? Und äh dann hat sich das erledigt, ja also.
+
+00:35:31.946 --> 00:35:46.163
+<v Tim Pritlove>Auf die Kanäle gegeben und das war's dann, ne? Ja, leider sind wir ja nicht die Regierung, deswegen können wir jetzt nichts machen. Ja, da ist, glaube ich, relativ wenig zu erwarten und das liegt einfach daran,
+
+00:35:46.818 --> 00:35:59.689
+<v Tim Pritlove>Ähm ja, wie einfach die Ist-Situation ist, weil man hat einfach nicht das Gefühl, dass die Ideen von Netzneutralität auch nur in irgendeiner Form bei irgendjemand irgendwi,
+
+00:35:59.918 --> 00:36:09.622
+<v Tim Pritlove>festgehakt sind äh in der Politik in den letzten Jahren. Also ich habe einfach wirklich den Eindruck, dass das Prinzip einfach auch niemanden, auch nur ansatzweise einleuchtet,
+
+00:36:09.779 --> 00:36:14.423
+<v Tim Pritlove>Oder also hast du mal irgendwas gehört von irgendjemanden, wo das irgendwie.
+
+00:36:14.562 --> 00:36:22.710
+<v Clemens Schrimpe>Nö. Die Leute verstehen's auch nicht. Das ist genauso wie mit diesem Thema jetzt, ich habe sehr viele Tweets bekommen nach dem Sendung auch in den Kommentaren,
+
+00:36:22.524 --> 00:36:32.355
+<v Clemens Schrimpe>alle gleichlautend sind, ich habe versucht, das meinen Eltern beizubringen oder die meine Eltern sozusagen auf auf unsere Seite zu ziehen, dagegen mal zu protestieren oder zu finden
+
+00:36:32.331 --> 00:36:34.091
+<v Clemens Schrimpe>Sie verstehen's einfach nicht,
+
+00:36:34.590 --> 00:36:43.549
+<v Clemens Schrimpe>ja? Deswegen habe ich mir nochmal äh überlegt, übrigens äh wollte ich nur noch kurz anbringen, ähm ich habe das ja schon ausgeführt mit dem Auto, was dann langsamer fährt oder so. Ähm,
+
+00:36:43.622 --> 00:36:50.039
+<v Clemens Schrimpe>was man sehr gut seinen Eltern klar machen kann, ist die Situation, die sie alle immer kennen, wie der Straßenverkehr, du fährst in Urlaub,
+
+00:36:50.713 --> 00:36:58.025
+<v Clemens Schrimpe>denkst dir, ach hier ist ja schön, ich gucke mir die Insel mal ein bisschen genauer an, hier gibt's ja einen Mietwagenverleiher, oh ein Mietwagen, alle Kilometer inklusive,
+
+00:36:58.819 --> 00:37:01.847
+<v Clemens Schrimpe>Nehme ich doch, alle Kilometer inklusive, dann fährst du los,
+
+00:37:02.695 --> 00:37:13.036
+<v Clemens Schrimpe>Flatrate, ja? Äh dann fährst du los und nach fünfundsiebzig Kilometern fängt dieses Auto plötzlich an zu stottern und fährt nur noch drei bis vierhundert Meter in der Sekunde und dann rufst du an bei dem Mietwagenverleiher, der sagt dir erstmal.
+
+00:37:12.736 --> 00:37:14.472
+<v Tim Pritlove>Dreihundert, vierhundert Meter in der Minuten.
+
+00:37:14.208 --> 00:37:15.368
+<v Clemens Schrimpe>In der Stunde,
+
+00:37:15.752 --> 00:37:24.850
+<v Clemens Schrimpe>Stunde, ja? Äh rufst du an bei dem Mietwagenverleih, der sagt, ja pff ja, ja, äh wir haben, wir haben halt ausgerechnet, dass die meisten Kunden gar nicht so weit fahren, ja?
+
+00:37:25.115 --> 00:37:37.259
+<v Clemens Schrimpe>Ist ja das Argument der Telekom äh äh aber weiß gar nicht, was sie haben. Sie haben doch alle. Sie können doch jetzt noch fahren. Alle Kilometer inklusive? Ja, sie schaffen nur noch alle drei Stunden einen Kilometer, aber aber die DS inklusive,
+
+00:37:37.710 --> 00:37:48.910
+<v Clemens Schrimpe>ja? Und wenn man diese Szenario den Leuten einfach mal so einen Otto Normalbürger vorstellen sagt, so würdest du dich da jetzt, würdest du dir nicht jetzt auch da verarscht vorkommen, dann wären wahrscheinlich die meisten eher verstehen, äh über was.
+
+00:37:48.899 --> 00:37:52.486
+<v Tim Pritlove>Sie auch in den Urlaub? Ja, genau. Ja, also das ist ja auch.
+
+00:37:52.864 --> 00:38:04.371
+<v Clemens Schrimpe>Aber das ist, denke ich mal, das ist denke ich mal ein Modell, was man sozusagen auch den Stammtischbrüdern mal hinlegen kann, wo auch jeder versteht, okay, da ist irgendeine Form von Verarsche drin, die äh die so eigentlich nicht, nicht gehen kann.
+
+00:38:04.943 --> 00:38:07.917
+<v Tim Pritlove>Vielleicht gibt's ja auch noch irgendeine Kategorie mit mit Poren.
+
+00:38:08.181 --> 00:38:11.895
+<v Clemens Schrimpe>Porn? Die Internetwiese.
+
+00:38:11.595 --> 00:38:22.783
+<v Tim Pritlove>Na ja ich denk wir haben den Punkt jetzt auch erfolgreich behandelt oder hast du noch ein,
+
+00:38:24.460 --> 00:38:28.414
+<v Tim Pritlove>noch ein Einwand, einen Gedanken, den du noch gerne verarbeitet sehen möchtest.
+
+00:38:28.114 --> 00:38:40.011
+<v Linus Neumann>Nee, ich äh ich finde das ja also alle Fragen, die wir, glaube ich, klären sollten, sind äh äh sind geklärt. Was vielleicht noch wichtig wäre ist, was äh machen wir jetzt, ja? Also ähm.
+
+00:38:39.928 --> 00:38:40.960
+<v Clemens Schrimpe>Uns ärgern.
+
+00:38:40.679 --> 00:38:42.138
+<v Tim Pritlove>Was sollte geschehen?
+
+00:38:41.910 --> 00:38:51.218
+<v Linus Neumann>Was was ist die der die das Szenario, mit dem jetzt zu rechnen ist und äh wie verhindert was können wir tun, um es zu verhindern.
+
+00:38:50.918 --> 00:38:58.904
+<v Tim Pritlove>Also in einer idealen Welt, ja, sollte die Regierung grade im Urlaub sein, diesen dann sofort abbrechen, ja?
+
+00:38:59.265 --> 00:39:12.532
+<v Tim Pritlove>Mit der nächstbesten Militärmaschine wieder nach Berlin fahren, entrüstete Pressekonferenzen an Braunen und dort einen Aktionsplan ausrufen, ein Aktionsplan Internet, Zukunft Deutschland äh,
+
+00:39:12.743 --> 00:39:14.852
+<v Tim Pritlove>wir retten den Standort
+
+00:39:14.780 --> 00:39:27.387
+<v Tim Pritlove>ja? Denn wir wollen A, Chancengleichheit äh von Land und Stadt, wir wollen Chancengleichheit äh auch äh in dem Sinne, dass jeder ungehinderten Zugang äh erhält und
+
+00:39:27.291 --> 00:39:41.995
+<v Tim Pritlove>die teilweise noch im Staatsbesitz befindliche deutsche Telekom wird gemeinsam mit allen anderen Providern äh verpflichtet, eine Grundversorgung herzustellen für DSL und Mindestbandbreiten, die festgelegt wird auf,
+
+00:39:42.188 --> 00:39:50.954
+<v Tim Pritlove>Was ist denn so, sagen wir mal realistisch, Clemens, hast du da eine Meinung zu, was man heutzutage mal so als so das Äquivalent zu dem,
+
+00:39:51.135 --> 00:39:57.131
+<v Tim Pritlove>Telefonanschluss der äh fünfziger, sechziger Jahre, ja, so jeder muss ein Telefonanschluss bekommen,
+
+00:39:57.439 --> 00:40:06.668
+<v Tim Pritlove>würde ich mal meinen heutzutage müsste zumindest so diese sechzehn eins äh DSL Geschichte im Prinzip sollte man aber höher zielen,
+
+00:40:06.921 --> 00:40:09.204
+<v Tim Pritlove>sozusagen als Grundversorgung.
+
+00:40:08.904 --> 00:40:15.087
+<v Clemens Schrimpe>Der Sache vorbei, weil die Deutschen haben ja schon mehrfach solche Anstrengungen gemacht, auch gesamt,
+
+00:40:15.153 --> 00:40:26.276
+<v Clemens Schrimpe>gesellschaftlich, ja? Das ist, wie gesagt, das Telefonnetz, ne? Und nach den fünfziger, sechziger Jahren, wo du mal sagst, jeder sollte jetzt hier mal ein Telefonanschluss kriegen, das heißt, sie sind alle losgezogen, ganz Deutschland ist losgezogen mit einer Schippe aufm, aufm Rücken,
+
+00:40:26.354 --> 00:40:27.796
+<v Clemens Schrimpe>hat Kupfer eingebuddelt,
+
+00:40:28.133 --> 00:40:40.331
+<v Clemens Schrimpe>dieses Ziel haben sie erreicht, dann gab's denselben Schub nochmal mit Kabelfernsehen, ja, war ja wahnsinnig hip in den Achtzigern, in den Neunzigern, auch da wurden ohne mit der Wimper zucken Straßen aufgebuddelt, bis der Arzt kam und Kabel gezogen,
+
+00:40:41.503 --> 00:40:53.659
+<v Clemens Schrimpe>Und jetzt wüsste man eigentlich mal hingehen und sagen, wir machen jetzt einmal nochmal diese Glasgeschichte, weil wir glauben, dass die Technik ist, mit der wir die nächsten paar Jahrzehnte auch gut leben können, äh die uns auch alles bringt, was wir an Kommunikation brauchen,
+
+00:40:53.870 --> 00:40:58.935
+<v Clemens Schrimpe>Und dann brauchen wir über sechzehn eins nicht zu diskutieren. Sechzehn eins ist eigentlich nur eine Brückentechnologie,
+
+00:40:59.056 --> 00:41:06.140
+<v Clemens Schrimpe>Das ist einfach nur so der Brohsamen, sozusagen, na ja, okay, hast halt Kupfer, na ja gut, kriegst du noch ein bisschen was drüber. Selbst da geht.
+
+00:41:05.840 --> 00:41:09.282
+<v Tim Pritlove>Aber dann, ja, aber das mehr geht es klar. Also, dass man mehr.
+
+00:41:08.982 --> 00:41:17.827
+<v Clemens Schrimpe>Aber warum denn sechzehn eins? Warum denn nicht ein VDSL Modell? Wenn du jetzt eh neue Modemes hinschraubst oder ich verstehe auch nicht, warum die Telekom aufs Land immer noch ADSL Modems reinschraubt.
+
+00:41:18.074 --> 00:41:31.792
+<v Clemens Schrimpe>Da haben sie ideale Voraussetzungen für VDSL und der, ich glaube, der Einkaufspreis für einen VDSL Modem in einem D-Slam gegenüber im ADS ist marginal, beziehungsweise vernachlässigbar. Trotzdem baut die Telekom auf ihr Land die Slams ADSL Modems ein.
+
+00:41:31.499 --> 00:41:35.536
+<v Tim Pritlove>Was meinst du damit, dass dass die Bedingungen ideal sind?
+
+00:41:35.380 --> 00:41:42.789
+<v Clemens Schrimpe>Na, dort hast du jetzt die Outdoor-Deslams auf dem Dorf Anger und die Kunden hängen alle in zwei, dreihundert Meter Entfernung maximal an diesem Ding dran.
+
+00:41:43.859 --> 00:41:45.619
+<v Clemens Schrimpe>Ist ideal für VDSL,
+
+00:41:45.830 --> 00:41:56.286
+<v Clemens Schrimpe>Ist dasselbe, was sie hier in Prenzlberg auf der Straße machen mit dem Kasten? Nur hier steckt ein VDSL-Modellbaugruppe drin, in die die Slam auf dem Land steckten ADSL drin. Was soll das? Diese Dinger sind nagelneu gekauft,
+
+00:41:56.839 --> 00:42:05.581
+<v Clemens Schrimpe>Ich weiß jetzt allerdings nicht, vielleicht sind das OVDSLM oder im Stil im ADSL Betrieb äh äh gemacht werden, weil jetzt die Leute zahlen ja ihre neununddreißig, fünfundneunzig, auch wenn sie, wenn sie,
+
+00:42:05.864 --> 00:42:07.066
+<v Clemens Schrimpe>wenn sie weniger kriegen,
+
+00:42:07.282 --> 00:42:16.380
+<v Clemens Schrimpe>Erst dann, wenn wieder mal jemanden mit einem LTE-Türmchen zu nahe kommt und einen ordentlichen LTE-Tarif, sagen sie, ach na gut, dann flippen wir halt noch diesen Software Switch, dann kannst du auch VDSL drauf kriegen,
+
+00:42:16.627 --> 00:42:20.652
+<v Clemens Schrimpe>Würde ich mal fast sagen. Ich muss mal echt mal gucken, wenn sie mal eben hier im Dorf mal wieder einer da ist von der Tele,
+
+00:42:20.695 --> 00:42:24.047
+<v Clemens Schrimpe>das Ding mal aufmacht, muss ich mal ein Foto machen, mal gucken, was da für Baugruppen drin sind,
+
+00:42:24.420 --> 00:42:34.756
+<v Clemens Schrimpe>Aber nochmal, was soll das? Das Ding ist nagelneu und sie spielen mit ADS LA rum, anstatt mit VDSL. Ich meine, beide Brückentechnologie, aber trotzdem, warum sollte man sich jetzt mit sechzehn eins zufrieden geben? Det ist albern,
+
+00:42:34.894 --> 00:42:37.700
+<v Clemens Schrimpe>Sechzehn eins ist was für den wirklich den letzten Berghof,
+
+00:42:37.827 --> 00:42:47.579
+<v Clemens Schrimpe>drei, vier Kilometer äh Kupferstrecke liegt oder so, weil du wirklich nicht hinkommt. Das ist okay. Aber sonst irgendwo ist äh irgendwie äh sechzehn, eins einfach albern, finde ich.
+
+00:42:47.369 --> 00:42:54.211
+<v Tim Pritlove>Äh ja gut, äh äh ich meinte jetzt sechzehn eins sozusagen als Grundrecht. Ja, also sozusagen äh egal, was passiert.
+
+00:42:52.140 --> 00:42:55.096
+<v Clemens Schrimpe>Ja, aber auch dit finde ich zu niedrig gegriffen.
+
+00:42:54.882 --> 00:43:01.832
+<v Tim Pritlove>Ja gut, meinetwegen, dann greifen wir äh äh auch gerne höher. Ja. Mhm.
+
+00:43:02.290 --> 00:43:11.116
+<v Clemens Schrimpe>Zehn, zehn, symmetrisch, zehn Megabit, zack und wenn du halt mehr anbieten willst, kannst du mehr anbieten, aber zehn, zehn. Das muss drin sein. Auch auf dem letzten Berg Bauernhof.
+
+00:43:10.866 --> 00:43:12.094
+<v Tim Pritlove>Für alle.
+
+00:43:11.982 --> 00:43:13.021
+<v Clemens Schrimpe>Ist er net für alle,
+
+00:43:13.839 --> 00:43:22.954
+<v Clemens Schrimpe>So und dann ein Zugangsnetz. Übrigens, da kann man auch in der Politik was machen, die Schweden haben's einem ja vollmacht, die haben ja auch ein riesen Land mit viel weniger Bevölkerung. Trotzdem kriegen sie es gebacken,
+
+00:43:23.249 --> 00:43:31.583
+<v Clemens Schrimpe>gibt's halt eben, sagen wir mal so Autobahnen, staatlich cofinanzierte oder betriebene Autobahnen, die man erstmal nutzen kann, um sozusagen.
+
+00:43:31.283 --> 00:43:33.144
+<v Tim Pritlove>Also große Glasfaserringe.
+
+00:43:32.948 --> 00:43:42.159
+<v Clemens Schrimpe>Einmal quer durchs ganze Land, ja, wo auch andere Dienste dabei gemacht, wenn wir zum Beispiel auch das öffentlich-rechtliche Radioprogramm drüber verbreitet wird, also auch als für solche Sachen genutzt wird,
+
+00:43:42.460 --> 00:43:56.064
+<v Clemens Schrimpe>und wo man sich dann sozusagen anhängen kann. Das ist ja zum Beispiel auch das Problem auch in dieser Diskussion jetzt wieder viele Leute das kreieren ja wollen wir jetzt nicht hier mal einen kleinen kleinen Mini Eis auf dem Dorf machen. Wollen sie hier nicht irgendwie mal fünfzig Dörfler zusammenschließen?
+
+00:43:56.095 --> 00:44:06.039
+<v Clemens Schrimpe>selber ihr Ding machen. Das geht aber nicht, weil einfach die Investition, die du tätigen musst, um aus dem Stand heraus überhaupt erstmal Internet in dein Dorf zu kriegen, per Glas oder wie auch immer,
+
+00:44:06.184 --> 00:44:17.997
+<v Clemens Schrimpe>halt viel zu hoch sind. Also und dann muss man auch selber deine betreiben oder Funk oder was auch immer, also das ist ein wahnsinnig häufiges Unterfangen, sowas zu tun, weil du halt eben keine Grundversorgung hast, die erstmal von irgendwo herkommt.
+
+00:44:18.515 --> 00:44:20.209
+<v Clemens Schrimpe>Wenn es sozusagen eine,
+
+00:44:20.371 --> 00:44:33.200
+<v Clemens Schrimpe>was ich mal, was ich schön finde, wäre, wenn det eine Art, nicht staatliches Quatsch, aber so ein öffentlich-rechtlich oder äh nicht profitgetrieben Infrastruktur ausgerichteten Deckbohnen gäbe in Deutschland,
+
+00:44:33.706 --> 00:44:42.310
+<v Clemens Schrimpe>den alle Leute nutzen können, denen kleine Stadtnetzbetreiber nutzen können, denen Vereine nutzen können, denen aber auch die Telkos sich anbieten können. Jeder kann sich da drauf seine Bits mieten,
+
+00:44:42.713 --> 00:44:53.475
+<v Clemens Schrimpe>dann hast du auch eine Chance, dein dein Land flächendeckend zu versorgen. Und dann sollen halt die Leute diese ISPs ihre ihren Mehrwert schaffen, indem sie halt meinetwegen ihren Content anbieten oder mehr machen oder
+
+00:44:53.307 --> 00:44:59.742
+<v Clemens Schrimpe>Dienstleistungen anbieten oder sonst was. Da sollen sie ihr Geld mit verdienen. Aber was halt ärgerlich ist an der ganzen Situation in Deutschland ist
+
+00:44:59.635 --> 00:45:05.541
+<v Clemens Schrimpe>dass es immer noch von Steuergeldern bezahltes Netz ist, auf dem sich die Telekom dort ausruht
+
+00:45:05.500 --> 00:45:11.454
+<v Clemens Schrimpe>Der Grundausbau, der gerade in Ostdeutschland in den neunziger Jahren stattgefunden hat, war aus der aus dem Aufbau Ost.
+
+00:45:12.025 --> 00:45:18.935
+<v Clemens Schrimpe>Hat jemand massiv Geld in die Hand genommen und dort Glasfaser verbuddelt und sowas und da sitzt jetzt die Telekom, wie eine Spinne auf ihrem Nest,
+
+00:45:19.134 --> 00:45:26.981
+<v Clemens Schrimpe>verteidigte mit Händen und Klauen und versucht daraus halt mit allen möglichen Netzneutralitätsverletzenden Methoden oder wie auch immer den letzten Cent rauszubringen,
+
+00:45:27.307 --> 00:45:29.403
+<v Clemens Schrimpe>und dit ist der Teil, den ich da auch nicht so okay finde.
+
+00:45:29.824 --> 00:45:44.071
+<v Tim Pritlove>Ja, wir bräuchten eigentlich so eine AND, so eine Arbeitsgemeinschaft der öffentlich-rechtlichen Netzwerk äh Infrastrukturanstalten der Bundesrepublik Deutschland so. Die äh quasi staatlich gefördert ist und die vielleicht auch so eine Ge.
+
+00:45:43.771 --> 00:45:45.343
+<v Clemens Schrimpe>Teil der GEZ abkriegt.
+
+00:45:45.093 --> 00:45:46.313
+<v Tim Pritlove>Genau. So.
+
+00:45:46.063 --> 00:45:49.317
+<v Clemens Schrimpe>GEZ wird ja eh gemacht, die kann man ja, die können ja auch was davon abkriegen.
+
+00:45:49.017 --> 00:45:59.256
+<v Tim Pritlove>Genau, das könnte man sozusagen gleich eine schöne, die Haushaltsumlage dafür verwenden, auch den Internetausbau äh mitzumachen. Und damit entsteht dann auch Infrastruktur und damit entsteht die Infrastruktur aber auch überall.
+
+00:45:59.954 --> 00:46:03.439
+<v Tim Pritlove>auch im kleinsten Kaff. Weil da wird ja auch eine Straße gebaut,
+
+00:46:03.920 --> 00:46:16.869
+<v Tim Pritlove>und wo eine Straße und Ampeln, die kriegen Strom, die kriegen äh Gas, die kriegen Wasser, die kriegen die Scheiße weggefahren, ja, da wird auch Müll irgendwie geholt, also äh das muss auch mit dem Bits gehen,
+
+00:46:18.480 --> 00:46:19.777
+<v Tim Pritlove>Internet Müllabfuhr.
+
+00:46:19.748 --> 00:46:23.797
+<v Clemens Schrimpe>So
+
+00:46:22.626 --> 00:46:33.496
+<v Tim Pritlove>So, der Forderungskatalog ist äh klar. Ich denke, die Politik könnte sich dann jetzt gleich mal während wir zu dem äh nächsten Thema vorstoßen, um die äh Umsetzung kümmern.
+
+00:46:33.659 --> 00:46:42.113
+<v Linus Neumann>Das nächste Thema ist das E-Government-Gesetz. Da gibt's eigentlich nur eine äh kurze Meldung. Ja.
+
+00:46:39.836 --> 00:46:48.849
+<v Tim Pritlove>Damit sind sie beschäftigt. Ach schade, deswegen könnten wir jetzt grade leider keine Infanet-Infrastruktur machen, weil wir sind hier mit unserer eigenen äh Infrastruktur.
+
+00:46:48.573 --> 00:46:57.730
+<v Linus Neumann>Wir müssen nämlich die Wirtschaftsförderung für die Telekom machen, ja, die äh die äh der große, einer der, wir müssen die E-Mail neu erfinden.
+
+00:46:52.605 --> 00:47:01.023
+<v Tim Pritlove>E-Mail neu erfinden. Genau, damit die Telekom zusätzliche Einnahmen hat, weil die ja so leidet.
+
+00:47:00.874 --> 00:47:11.882
+<v Linus Neumann>Klar, die Telekom ist ja D-Mail-Anbieter und äh also das Gesetz zur Förderung der elektronischen Verwaltung, das war das, zu dem ich da auch mal Stellung genommen hatte. Wir hatten das bereits äh hier behandelt.
+
+00:47:11.582 --> 00:47:15.024
+<v Tim Pritlove>Buchnetzpolitik berichtete, ähm mehrfach.
+
+00:47:15.181 --> 00:47:19.964
+<v Linus Neumann>Genau und dieses Gesetz wurde jetzt vom Bundestag gebilligt, muss jetzt noch durch den Rat,
+
+00:47:20.836 --> 00:47:26.640
+<v Linus Neumann>Ähm äh besonders zu loben ist da der äh SPD Abgeordnete Reichenbach
+
+00:47:26.532 --> 00:47:36.152
+<v Linus Neumann>hat meine Argumentation übernommen in seiner Bundestagsrede oder hat meine Argumentation vorgetragen, vielleicht hat ist ihm auch schon vorher eingefallen. Ähm äh es hat mir auf jeden Fall sehr
+
+00:47:36.117 --> 00:47:43.418
+<v Linus Neumann>Äh bei der Anhörung sehr äh ausführlich zugehört und ähm Reichenbach heißt der, Gerold Reichenbach, glaube ich.
+
+00:47:43.118 --> 00:47:44.463
+<v Tim Pritlove>Der war auch äh.
+
+00:47:44.163 --> 00:47:48.309
+<v Linus Neumann>Der war auch im Innenausschuss, ja? Und ähm der hat da äh.
+
+00:47:48.009 --> 00:47:49.084
+<v Clemens Schrimpe>Partei.
+
+00:47:49.511 --> 00:47:53.643
+<v Linus Neumann>Verräterpartei, ja, aber er hat eine gute Rede gehalten.
+
+00:47:53.393 --> 00:47:54.540
+<v Tim Pritlove>Soll ja mal vorkommen.
+
+00:47:54.290 --> 00:48:04.119
+<v Linus Neumann>Äh die äh Linke und die Grüne haben da auch äh drauf äh da da auch unter anderem zu äh drauf Bezug genommen. Aber ich meine, man soll ja auch mal.
+
+00:48:03.819 --> 00:48:05.501
+<v Tim Pritlove>Gibt's da eine Aufzeichnung von dieser.
+
+00:48:05.267 --> 00:48:12.321
+<v Linus Neumann>Genau, da gibt's eine Aufzeichnung, die habe ich auch verlinkt. Ähm gleichzeitig ähm,
+
+00:48:13.175 --> 00:48:19.857
+<v Linus Neumann>Hat dann oder mit dem Beschluss des Gesetzes hat die Post eine Beschwerde bei der EU-Kommission eingereicht
+
+00:48:19.749 --> 00:48:30.769
+<v Linus Neumann>weil das äh Gesetz die staatlich gelenkte D-Mail äh Protegiere und mindestens gleichwertige Verfahren diskriminiere. Ähm,
+
+00:48:30.818 --> 00:48:31.688
+<v Linus Neumann>das ist,
+
+00:48:32.578 --> 00:48:45.401
+<v Linus Neumann>Also wie gesagt, ich bin ja immer der äh der Laienanwalt und ähm ich denke, dass wenn also klar in einem Gesetz drinsteht, wir machen eine Ausnahme für ein bestimmtes Verfahren,
+
+00:48:46.075 --> 00:48:56.055
+<v Linus Neumann>Obwohl dieses Verfahren nicht den Ansprüchen genügt, dass das auch äh erfüllt ist, dieser Fall. Also ich könnte mir vorstellen, dass die dass die Post mit ihrer Beschwerde da durchaus äh,
+
+00:48:56.428 --> 00:48:59.456
+<v Linus Neumann>Zumindest nicht, nicht, nicht fernab von jeder Begründung ist,
+
+00:48:59.493 --> 00:49:11.240
+<v Linus Neumann>Ähm können wir also mal sehen, was was dort passiert. Die Post natürlich hier, diejenigen, die mit dem Epostbrief ähm da große Aktien drin haben, ja, also der Epos-Brief.
+
+00:49:10.940 --> 00:49:13.079
+<v Tim Pritlove>Ist ja auch ein unglaublicher Erfolg.
+
+00:49:12.839 --> 00:49:22.705
+<v Linus Neumann>Das ist äh eine zweistellige Zahl. Täglich, die so Briefe versendet werden. Also es ist eine ja, das ist nicht äh zu unter,
+
+00:49:23.961 --> 00:49:30.241
+<v Linus Neumann>Ja, so wahrscheinlich der Kronjob, der da so einen Test.
+
+00:49:31.034 --> 00:49:32.650
+<v Tim Pritlove>Ist das eine verbirgte Zahl?
+
+00:49:32.429 --> 00:49:41.327
+<v Linus Neumann>Sage ich nichts zu. Also ist so eine grobe Schätzung, die ich mal gehört habe,
+
+00:49:42.151 --> 00:49:55.154
+<v Linus Neumann>Also es kann ja es hat ja nie jemand so einen Epostbrief gesehen. Wahrscheinlich gibt's irgendwie zehn Menschen pro Tag, die sagen, boah krass ähm ich möchte halt mal sehen und das muss ich dann irgendwie so selber an den Epos früh schreiben oder so.
+
+00:49:55.575 --> 00:49:58.814
+<v Linus Neumann>Also es gibt also gibt doch keinen nennenswerten.
+
+00:49:58.514 --> 00:50:00.430
+<v Tim Pritlove>Man stehst sogar nachts auf und schick mir eine.
+
+00:50:00.130 --> 00:50:04.612
+<v Linus Neumann>So klar, aber die wollen natürlich und die haben ähm,
+
+00:50:07.407 --> 00:50:21.877
+<v Linus Neumann>Ohne da jetzt Werbung für die Post machen zu wollen. Die haben mit dem Epostbrief ähm zumindest ja mal das bessere Angebot, ne. Ich meine, der kann immerhin auch von denen ausgedruckt werden, ja. Das ist, der hat schon mal einen größeren Funktionsumfang.
+
+00:50:22.724 --> 00:50:25.987
+<v Linus Neumann>Clemens äh macht sich bereit,
+
+00:50:26.546 --> 00:50:35.079
+<v Linus Neumann>Also es ist auf jeden Fall äh wenn man sagt, man möchte mit D-Mail konkurrieren, dann ist der Epost-Brief dazu auf jeden Fall gut gerüstet.
+
+00:50:35.091 --> 00:50:38.450
+<v Tim Pritlove>Weil man drucken kann. Verschlüsselt ist er damit immer noch nicht.
+
+00:50:38.679 --> 00:50:53.094
+<v Linus Neumann>Nee, aber die haben äh die haben der Verschlüssel oder irgendwie einen größeren Rahmen. Ich habe beides äh noch nie benutzt. Ich habe mir bei dem ja nur die äh die Spex angeschaut und äh ich rate ja auch immer davon ab, äh das zu nutzen. Aber okay, Post legt sich damit an.
+
+00:50:52.794 --> 00:51:01.380
+<v Clemens Schrimpe>Problem ist ja auch so, ich weiß, ihr habt das jetzt auch nur am Rande mitverfolgt, weil es ja auch fernab jeder Stanalisierung wieder ist, so eine Sonderlocke, ist sowas Lenicamp prinzipiell schon ab, aber
+
+00:51:01.195 --> 00:51:20.135
+<v Clemens Schrimpe>wartet nicht auch so, dass wegen dieser tollen Rechtssicherheit, wenn du dich da anmeldest bei so einem Dienst und dann schickt dir irgendeine Behörde was da drauf, dann ja bist du auch im Sack, egal ob das jetzt liest oder abrufst oder nicht. Deswegen habe ich, sonst hätten wir ja sagen können, puff nur meldet man sich halt mal an und wenn es nicht nutzt, nutzt das nicht. Aber wenn du das denn hast und dann schickt der,
+
+00:51:20.153 --> 00:51:27.285
+<v Clemens Schrimpe>plötzlich irgendjemand eine Mahnung oder so und du klickst nicht täglich in dein E-Post oder D-Mail Postfach bist du auch im Sack, oder?
+
+00:51:26.985 --> 00:51:36.605
+<v Linus Neumann>Das war äh das spielte insbesondere eine Rolle bei dem bei dem Gesetz, was also aus dem äh aus dem Justizministerium kommt und äh bei dem ich,
+
+00:51:36.726 --> 00:51:44.495
+<v Linus Neumann>Im Justizausschuss zu war. Ähm da spielt das eine große Rolle und ist eine Dreitagesfrist. So und die sagen ähm,
+
+00:51:44.886 --> 00:51:47.248
+<v Linus Neumann>Die war dann auch bei dieser Anhörung nochmal Thema.
+
+00:51:46.948 --> 00:51:49.381
+<v Clemens Schrimpe>Ne? Bei dem.
+
+00:51:48.318 --> 00:51:55.780
+<v Linus Neumann>Und die sagen, also der der Provider bestätigt quasi, das Ding ist angekommen und du bist dann verpflichtet, äh die regelmäßig abzuholen.
+
+00:51:55.480 --> 00:51:59.788
+<v Clemens Schrimpe>Und da gibt's eine Provider-Zustellungsurkunde, statt einer Postzustellungsurkunde.
+
+00:51:59.512 --> 00:52:12.810
+<v Linus Neumann>Äh so sieht das aus, ja. Ähm ich weiß nicht genau oder ich habe nicht hundertprozentig geprüft, ob das eventuell auch dadran gebunden ist, dass du abholst, dass der Provider in dem Moment, wo du abholst des Trägers, aber so wie ich die Diskussion.
+
+00:52:12.510 --> 00:52:16.383
+<v Clemens Schrimpe>Abholen kann, weil mir mein ISP gerade den Anschluss kaputtgedrosselt hat.
+
+00:52:16.158 --> 00:52:17.335
+<v Linus Neumann>Ähm wie sagt,
+
+00:52:17.690 --> 00:52:31.985
+<v Linus Neumann>wie sagt man so schön, Arsch lecken. Ähm du hast ja beim beim ähm Postwurfeinschreiben das gleiche Problem. Gilt als zugestellt. Wenn du dich entscheidest ähm sagen wir mal sechs Wochen Urlaub zu machen, deinen Briefkasten in der Zeit nicht zu leeren.
+
+00:52:31.685 --> 00:52:40.127
+<v Clemens Schrimpe>Nerv, es muss in meinen Zugangsbereich gelangt sein, das heißt, sie müssen's wenigstens bis an meinen Briefkasten geschafft haben, der an meiner Haustür hängt
+
+00:52:40.086 --> 00:52:43.811
+<v Clemens Schrimpe>und niemand drosselt mir den Zugang von meiner Haustür zu meinem Brows,
+
+00:52:43.991 --> 00:52:55.949
+<v Clemens Schrimpe>Hier ist die Situation anders, hier ist es sozusagen ist eine Postzustellungsurkunde in einem Postfach, wo leider auf der Straße den Zugangsweg zum Postamt leider Baustelle ist und ich gar nicht zum Postamt hinkomme. Das ist ja schon nochmal ein Unterschied.
+
+00:52:55.908 --> 00:52:59.789
+<v Linus Neumann>Ich seh's absolut ein. Ich ich gebe ja immer nur die Argumentation wieder.
+
+00:52:59.537 --> 00:53:01.670
+<v Clemens Schrimpe>Avocados Diaboli hier neben dir.
+
+00:53:01.370 --> 00:53:13.141
+<v Linus Neumann>Du, ich habe den, ich habe meinen Teil dazu, den in ihren Ausschüssen gesagt, ich kann ich muss jetzt äh ich versuche jetzt äh das äh allgemein darzustellen. Schön war aber, also das ganze Ding ist ähm,
+
+00:53:13.977 --> 00:53:21.686
+<v Linus Neumann>Ist also jetzt beschlossen und so das Köstlichste war dann, ähm hat ja schon durchaus so seine äh,
+
+00:53:22.029 --> 00:53:31.655
+<v Linus Neumann>Das hat ja schon seine Medienaufmerksamkeit bekommen, bis dann die, das ist dann die Telekom mit der Drossel noch was anderes hatte, wo war man sich aufregen konnte? Ähm sie haben.
+
+00:53:31.355 --> 00:53:33.157
+<v Clemens Schrimpe>Ein dreiköpfiger Affe.
+
+00:53:32.857 --> 00:53:37.291
+<v Linus Neumann>Sie haben tatsächlich ähm,
+
+00:53:38.121 --> 00:53:47.597
+<v Linus Neumann>Sind jetzt D-Mail-Anbieter Firmen irgendwie dazu übergegangen, bestimmte Positionspapiere äh anfertigen zu lassen, von ihren äh IT-Sicherheitsexp,
+
+00:53:47.616 --> 00:53:56.665
+<v Linus Neumann>die dann äh da so die FAQs beantworten und so äh so ungefähr so die Engländer behaupten äh demel sei gar nicht sicher oder so, ne? Und
+
+00:53:56.629 --> 00:54:06.634
+<v Linus Neumann>äh was sagen sie dazu? Und dann sagt der Experte, das ist sicher und dann nächste Frage, wie gut ist das? Dann sagt er, das ist sehr gut. Solche Papiere werden jetzt überall geschrieben und sie haben.
+
+00:54:06.334 --> 00:54:07.499
+<v Clemens Schrimpe>Sein Experte reduziert.
+
+00:54:07.217 --> 00:54:15.022
+<v Linus Neumann>Sie haben richtig Experten und was ich besonders geil finde ist, dass die Telekom,
+
+00:54:17.126 --> 00:54:31.578
+<v Linus Neumann>Ähm Journalisten eingeladen hat, sich von der Sicherheit der Demail zu überzeugen. Und das haben sie gemacht, indem sie sie nach äh Frankfurt, glaube ich, äh eingeladen haben,
+
+00:54:32.425 --> 00:54:36.144
+<v Linus Neumann>wo ihr ihre D-Mail-Server stehen. Und dann haben sie gesagt,
+
+00:54:37.322 --> 00:54:44.557
+<v Linus Neumann>um an diese Server zu kommen, muss man durch drei Türen durch und dann ist noch ein Käfig drin.
+
+00:54:50.296 --> 00:54:51.780
+<v Linus Neumann>Ist kein Scheiß.
+
+00:54:54.040 --> 00:54:55.530
+<v Tim Pritlove>Ist der total sicher.
+
+00:54:55.242 --> 00:54:58.138
+<v Linus Neumann>Das Gelände ist mit Zeugen abgesperrt.
+
+00:54:55.686 --> 00:54:59.592
+<v Clemens Schrimpe>Gelände ist mit abgesperrt. Mit mit Zäunen.
+
+00:54:59.448 --> 00:55:01.593
+<v Linus Neumann>Ja, es ist ganz neu.
+
+00:55:01.293 --> 00:55:02.470
+<v Clemens Schrimpe>Wilde Hunde.
+
+00:55:02.170 --> 00:55:06.749
+<v Linus Neumann>Will dahinter Perimeterschutz gegen angreifende,
+
+00:55:07.596 --> 00:55:20.425
+<v Linus Neumann>wer als Mensch die Gebäude betreten will, muss drei Sicherheitszonen über Vereinzelungsschleusen durchqueren, ehe er in die Serverräume kommt, in denen in langen Reihen direkt die Server, Switches und Router stehen.
+
+00:55:20.306 --> 00:55:23.628
+<v Clemens Schrimpe>Alternativ muss er einfach nur im Presseausweis äh vorweisen.
+
+00:55:26.519 --> 00:55:31.890
+<v Clemens Schrimpe>Also entweder mit Bulldosern und und Einbrechen oder mit einem Presseausweis.
+
+00:55:31.945 --> 00:55:36.660
+<v Tim Pritlove>Ich vermute, ich vermute, dass ich auch noch die Server mit einer Christopherus-Plakette äh aus.
+
+00:55:36.410 --> 00:55:38.212
+<v Clemens Schrimpe>Mit einer geweihten.
+
+00:55:37.962 --> 00:55:43.031
+<v Tim Pritlove>Sagen, im Daten ja mit einer geweihten Christopherus-Plakette, damit im Datenverkehr nichts passieren kann.
+
+00:55:42.786 --> 00:55:49.996
+<v Linus Neumann>So und dann äh und da stehen dann sowieso schon mal die äh die die Hardware. Ähm und dann ist nochmal ein.
+
+00:55:49.696 --> 00:55:53.173
+<v Clemens Schrimpe>Das Ganze in der Einflugschneise von Frankfurt, wahrscheinlich.
+
+00:55:52.334 --> 00:55:54.785
+<v Linus Neumann>Ja, wo die ganzen Flugzeuge reinfahren,
+
+00:55:55.284 --> 00:56:02.062
+<v Linus Neumann>So, aber pass auf, dann ist da noch mal ein Drahtkäfig und da stehen die D-Mail-Server der deutschen Telekom,
+
+00:56:02.153 --> 00:56:13.774
+<v Linus Neumann>von T Systems, die macht das für Geschäfte und eine Plattform, auf der Entwickler neue Ideen rund um DL ausprobieren, also so die Testumgebung, die steht auch in dem Käfig drin und.
+
+00:56:13.786 --> 00:56:16.123
+<v Clemens Schrimpe>Keine neuen Ideen ausbrechen versehentlich.
+
+00:56:15.908 --> 00:56:21.273
+<v Linus Neumann>Genau. Und wer den Käfig betreten will, braucht einen Begleiter,
+
+00:56:22.349 --> 00:56:30.918
+<v Linus Neumann>oder im Presseausweis. Der alleinige Aufenthalt einer Person ist untersagt und führt zum Alarm. Das heißt, sie haben da irgendwie nochmal eine Kamera drin, die guckt, damit nämlich ähm,
+
+00:56:31.399 --> 00:56:39.096
+<v Linus Neumann>Äh wenn ein Techniker die Defekte Hardware austauschen muss, soll er dies nur unter Aufsicht tun. Deswegen, also ja, ähm.
+
+00:56:39.439 --> 00:56:43.537
+<v Clemens Schrimpe>Die haben gelernt von der DDR, da durfte sie an der Grenze auch nicht alleine Sträfe laufen.
+
+00:56:43.495 --> 00:56:45.880
+<v Linus Neumann>Ja klar, damit, damit ihr nicht abha.
+
+00:56:45.887 --> 00:56:53.313
+<v Clemens Schrimpe>Haben sie da alte Personal geheuert. Er sagt, wie macht man dit? Die so kein Problem.
+
+00:56:49.727 --> 00:56:57.964
+<v Linus Neumann>Vier-Augen-Prinzip. So, dann ähm also so ist das jetzt alles gesichert. Ich frage mich, wo die irgendwie, ich meine, ich.
+
+00:56:57.664 --> 00:57:03.040
+<v Clemens Schrimpe>Wenn die Dinger, wenn die Dinger kein keinen Zugang zu irgendwelchen Netzen hätten, werdet auch total sicher, wofür uns.
+
+00:57:02.940 --> 00:57:03.986
+<v Linus Neumann>Aber ich habe.
+
+00:57:03.886 --> 00:57:10.505
+<v Clemens Schrimpe>Wäre das, wär das unglaublich sicher, wenn wir diese Server da stehen würden und keinerlei Zugang zu irgendwelchen Netzen draußen hätten, dann hätten wir auch alle kein Problem mehr.
+
+00:57:10.392 --> 00:57:19.411
+<v Linus Neumann>Aber fuck yours Internet, das Ding ist, da kommt ein Kabel raus. Wer hat denn jeweils die Hacker, weißt du mit ihren Bullen aus seinen wieder irgendwie haben sie dann,
+
+00:57:19.736 --> 00:57:29.296
+<v Linus Neumann>Als Amazon gehackt wurde, ne? Zwanzig Mann mit dem Bulldozern da rein gebrettert und die Daten äh unterm Arm geschnallt oder was. Also komm. Ja.
+
+00:57:28.996 --> 00:57:39.475
+<v Tim Pritlove>Ja Herr Neumann, sie mit ihren äh kindlichen Vorstellungen darüber, wie es in der Warenwelt aussieht, ja, unsere Experten von der Telekom haben uns das äh erklärt.
+
+00:57:39.416 --> 00:57:40.479
+<v Clemens Schrimpe>Kann da schon schief gehen?
+
+00:57:40.179 --> 00:57:46.133
+<v Tim Pritlove>Ja, was kann denn da schon falsch sein, ja? Die haben studiert, ja? Die haben studiert.
+
+00:57:46.200 --> 00:57:48.242
+<v Clemens Schrimpe>Das ist bestimmt eine Firewall davor. Stimmt's?
+
+00:57:48.357 --> 00:58:01.679
+<v Tim Pritlove>Haben wahrscheinlich an der IHK mehrere Kurse in Software-Engineering und Datensicherheit gemacht. Ja, also mindestens zwei Wochenendkurse sind Pflicht. Da können Sie da mit Ihrem selbstangelernten Kram.
+
+00:58:02.857 --> 00:58:03.902
+<v Linus Neumann>Also,
+
+00:58:04.359 --> 00:58:15.884
+<v Linus Neumann>Ne, dann haben sie denen das gezeigt, haben sie gesagt, hier sind die ganzen Dinger, hier sind die ganzen Schlösser und da muss man auch noch ein Schloss und hier gucken so den Schlüssel, haben nur drei Leute und dann nehmen sie solche, so diese Schiene, ne,
+
+00:58:16.155 --> 00:58:21.520
+<v Linus Neumann>Und dann kam noch äh vom BSI, der Herr der Spezialist. Oh Mann.
+
+00:58:21.761 --> 00:58:23.754
+<v Clemens Schrimpe>Kam denn der da rein? Alleine.
+
+00:58:24.021 --> 00:58:26.592
+<v Tim Pritlove>Presseausweis.
+
+00:58:25.122 --> 00:58:27.416
+<v Clemens Schrimpe>Ausweis. Ja.
+
+00:58:26.376 --> 00:58:33.773
+<v Linus Neumann>Na ja, äh, äh, äh, äh, Jens Mehrfeld, der Spezialist vom BSI, plädierte dafür, die Kirche im Dorf zu lassen.
+
+00:58:34.819 --> 00:58:37.661
+<v Tim Pritlove>Hm, aber und auch ohne Drahtkäfig drum rum.
+
+00:58:38.112 --> 00:58:47.341
+<v Linus Neumann>Ja äh und er hat dann eben gesagt, was eben die Probleme bei einer Ende zu Ende Verschlüsselung äh sind, ne, dass Leute, die Schlüssel verlieren oder sowas, ne? Und ähm.
+
+00:58:47.041 --> 00:58:51.440
+<v Tim Pritlove>Die Leute sind ja eh zu doof, das zu benutzen. Ne? Das war doch die.
+
+00:58:51.140 --> 00:58:55.604
+<v Linus Neumann>Ja, ja, die, genau, die Leute sind zu doof, das zu benutzen und deswegen.
+
+00:58:56.542 --> 00:59:11.221
+<v Clemens Schrimpe>Übrigens auch wichtig, dass die für D-Mail, also dass da nicht jeder einfach hinkommt und irgendein Standard iMap oder SMTP Clint hat, weil da könnte man ja ein PGP-Plugin reinmachen, die Leute wirklich nur anfangen, selber zu verschlüsseln, Ende zu Ende, ne? Deswegen ist das auch sehr wichtig, dass das mit dem anderen Quant nichts zu tun hat.
+
+00:59:11.450 --> 00:59:23.204
+<v Clemens Schrimpe>und schön seinen klein hat, der genau nur für D-Mail da ist, der auch total virensicher und Trojaner sicher ist und so und auf gar keinen Fall zulässt, dass man, dass der User ein Plug-in reinmacht, Verschlüsselungsplugin für Detlef, der wieder seinen Schlüssel
+
+00:59:23.036 --> 00:59:23.618
+<v Clemens Schrimpe>vergisst.
+
+00:59:23.967 --> 00:59:37.620
+<v Linus Neumann>Ja ja. Äh wir kennen das ja so ähm machen ja heute schon die äh Virens, die unternehmensseitigen Virenscanner, die irgendwie äh zentral sitzen und einfach alle E-Mail prüfen, dass sie dir schreiben, äh,
+
+00:59:37.734 --> 00:59:45.708
+<v Linus Neumann>sie schreiben dann irgendwie in den in den Betreff rein. Weil wenn du Ende zu Ende verschlüsselt schreibst,
+
+00:59:45.744 --> 00:59:57.750
+<v Linus Neumann>Du natürlich auch da drin ein äh Virus unterbringen könntest, was da dieses dieser diese äh Plattform nicht erkennen könnte, ja? Deswegen Warnung, Verschlüsselung, gefährlich.
+
+00:59:58.069 --> 01:00:02.437
+<v Clemens Schrimpe>Lasst das Ding einfach gar nicht durchlaufen, wat ich nicht lesen kann, lasse ich nicht durch. So, tschüss.
+
+01:00:02.287 --> 01:00:16.648
+<v Linus Neumann>Wäre wäre auch eine äh eine Möglichkeit. Äh es ist noch zu erwähnen, dass sie, glaube ich, die im E-Justic-Gesetz schon vorhandene Klausel auch in dieses gesetzt haben, dass sie sagen ähm,
+
+01:00:17.088 --> 01:00:22.273
+<v Linus Neumann>dass auch andere ähm Momente, wo finden,
+
+01:00:23.223 --> 01:00:31.990
+<v Linus Neumann>Durch sonstige, sicher, sichere Verfahren, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden,
+
+01:00:31.761 --> 01:00:40.721
+<v Linus Neumann>welche den Datenübermittler authentifizieren und die Integrität des elektronisch übermittelten Datensatzes sowie die Barrierefreiheit gewährleisten
+
+01:00:40.607 --> 01:00:49.127
+<v Linus Neumann>der IT-Planungsrat gibt, Empfehlungen zu geeigneten Verfahren ab. Das wollen sie auch zulassen. Das heißt, es gibt eine,
+
+01:00:49.813 --> 01:00:54.373
+<v Linus Neumann>Also auch das kann die Schrift von mir setzen. Das heißt, sie haben ähm eine,
+
+01:00:55.005 --> 01:01:04.859
+<v Linus Neumann>Vierte Klausel hinzugefügt, dass sie sagen, es ist grundsätzlich erstmal nicht per Gesetz nur auf dem er limitiert ist, momentan auf dem ihr limitiert, aber es könnten
+
+01:01:04.781 --> 01:01:08.711
+<v Linus Neumann>noch weitere Verfahren zugelassen werden,
+
+01:01:08.753 --> 01:01:15.796
+<v Linus Neumann>wenn der IT-Planungsrat und die Bundesregierung und der Bundesrat sich von ihrer Sicherheit überzeugt haben.
+
+01:01:16.253 --> 01:01:20.056
+<v Clemens Schrimpe>Jetzt habe ich noch mal eine spannende Frage an den Spezialist an Spezialexperten.
+
+01:01:19.810 --> 01:01:20.897
+<v Linus Neumann>Ja
+
+01:01:20.808 --> 01:01:30.055
+<v Clemens Schrimpe>Ähm ähm ein Argument, warum sie diese Ende zu Endeverschlüsselung ja nicht machen, ist, dass sie sagen, sie wollen nicht ja zwischendrin kurz entschlüsseln, damit sie auf Viren prüfen können, ne.
+
+01:01:30.710 --> 01:01:39.988
+<v Clemens Schrimpe>Jetzt ist aber das andere Argument für das ganze Demeterzeugs, dass sie ja sagen, wir wollen ja hier sicherstellen, äh dass der Absender, auch der ist, der vorgibt, zu sein. Das ist ja der Unterschied zur normalen Mail,
+
+01:01:41.449 --> 01:01:50.342
+<v Clemens Schrimpe>Wenn sie also auf der einen Seite zugeben oder sagen, wir müssen das entschlüsseln, um auf Viren zu prüfen, geben sie ja zu, dass sozusagen ein Virus, äh ein Trojaner, so eine Mail abschicken kann,
+
+01:01:51.983 --> 01:02:03.033
+<v Clemens Schrimpe>Weil wenn dem nicht so wäre, dann äh würde man ja glauben, dass sozusagen der authentifizierte Absender Tim Pritlaff absichtlich jemand anderen jemand anderem einen Virus zu schicken.
+
+01:02:02.937 --> 01:02:16.559
+<v Linus Neumann>Glaub, da würden sie argumentieren, dass genau, dass du absichtlich ein Virus zuschickst, also darauf, das ist natürlich totaler Quatsch, weil du würdest ja niemals also wenn du sagst, ich möchte ähm also das sind zwei Möglichkeiten. Entweder du machst einen Massenangriff,
+
+01:02:16.740 --> 01:02:26.967
+<v Linus Neumann>Das heißt, du möchtest möglichst an möglichst viele deine PDF Punkt exe schicken und ein Prozent klick die an und die sind dann Teil deines Sportnetz und du hast Freude. Das machst du natürlich niemals über D-Mail.
+
+01:02:27.130 --> 01:02:28.187
+<v Clemens Schrimpe>Ist auch zu teuer.
+
+01:02:27.887 --> 01:02:35.151
+<v Linus Neumann>Ist zu teuer, kannst dir nicht leisten, ja. Es sei denn, du schaffst es, jemanden zu infizieren und dann von dessen Maschine aus über dem er.
+
+01:02:34.851 --> 01:02:37.147
+<v Tim Pritlove>Das ist der, das ist der, das ist der neue Give.
+
+01:02:37.934 --> 01:02:48.888
+<v Linus Neumann>Und der die andere Idee wäre, du machst eine gezielte Attacke, so ähm schreibst vielleicht eine Custom-Mywed, die dann auch im Zweifelsfall nicht von deren Virenscanner erkannt wird. Du kannst das ja prüfen.
+
+01:02:48.588 --> 01:02:49.760
+<v Clemens Schrimpe>Maddie bei Digitas.
+
+01:02:49.796 --> 01:02:58.442
+<v Linus Neumann>Kaufst dir lieber, du kannst sie dir auch selber zuschicken. Du kannst den ja prüfen. Mal ganz abgesehen davon, dass der Virenscanner selber vielleicht auch direkt deinen äh,
+
+01:02:58.593 --> 01:03:05.167
+<v Linus Neumann>die den in das System gibt, wenn du sehr, wenn du sehr geschickt bist, ja? Ähm,
+
+01:03:05.564 --> 01:03:09.746
+<v Linus Neumann>Aber diese beiden, die beiden Punkte habe ich denen erklärt. Der die die,
+
+01:03:10.473 --> 01:03:24.816
+<v Linus Neumann>ähm die der Knackpunkt ist, dass sie sagen, wir müssen ja wir stellen ja fest, also wir versuchen sicherzustellen, dass du keine D-Mail schicken kannst, ohne dich zu authentifizieren. Und dafür machen Sie bei der, schlagen Sie bei der Anmeldung vor,
+
+01:03:25.196 --> 01:03:28.109
+<v Linus Neumann>Zweiter zwei Faktor Authentifizierung.
+
+01:03:27.900 --> 01:03:29.329
+<v Clemens Schrimpe>Mit deinem E-Perso.
+
+01:03:29.125 --> 01:03:34.244
+<v Linus Neumann>Hm, nehmen mit äh hat ja nie eine Rolle gespielt, außer bei der Anmeldung,
+
+01:03:34.371 --> 01:03:44.238
+<v Linus Neumann>Gehst hin, sagst hallo, ich bin äh Clemens Schiffer, ähm dann können Sie von dieser E-Funktion Gebrauch machen, aber das seid nur EID, das heißt, statt abschreiben,
+
+01:03:44.472 --> 01:03:51.196
+<v Linus Neumann>durch und dann eröffnest du dieses Konto. Muss aber nicht der E-Pair so sein, kannst du auch über Post-Ident oder sowas machen.
+
+01:03:50.896 --> 01:03:51.996
+<v Clemens Schrimpe>Gut, aber wenn jetzt sagen.
+
+01:03:51.696 --> 01:03:53.846
+<v Linus Neumann>Zwei Faktor Authentifizierung bei SMS.
+
+01:03:53.546 --> 01:04:03.497
+<v Clemens Schrimpe>Schicken, dann kann doch ein Virus, der ich auf meinem System habe, gar nicht ohne mein Wissen eine Nachricht verschicken. Also nochmal, das beißt sich vom Konzept, dass sie sagen, wir,
+
+01:04:03.786 --> 01:04:09.596
+<v Clemens Schrimpe>da können Viren drin sein, deswegen müssen wir entschlüsseln. Auf der anderen Seite sagen sie, aber wir machen das Ganze ja nur, um sicherzustellen, dass
+
+01:04:09.344 --> 01:04:21.206
+<v Clemens Schrimpe>ausschließlich du im vollen Bewusstsein deines Handelns einen, deswegen rechtsverbindlich, ja, im vollen Bewusstsein des Handels und nachweissicher und lalalalala, dass nur du als Person Linus Neumann diese Mail geschickt hast.
+
+01:04:20.936 --> 01:04:24.204
+<v Linus Neumann>Siehste mal, wie sicher das ist. Ja. Ja.
+
+01:04:22.143 --> 01:04:28.871
+<v Clemens Schrimpe>Ja, aber das das beißt sich doch in der Argumentation, die okay, das verstehen die wieder nicht. Das ist einfach noch ein Level wert zu hoch, ne? Und jetzt.
+
+01:04:26.963 --> 01:04:29.528
+<v Linus Neumann>Das verstehen die nicht. Das verstehen die nicht.
+
+01:04:29.278 --> 01:04:31.896
+<v Clemens Schrimpe>CDU Bundestagsabgeordnete einfach nicht in die Birne.
+
+01:04:31.830 --> 01:04:34.371
+<v Tim Pritlove>Das scheitert, glaube ich, schon bei der SPD.
+
+01:04:35.105 --> 01:04:36.521
+<v Clemens Schrimpe>Die sowieso.
+
+01:04:36.289 --> 01:04:37.304
+<v Linus Neumann>Also was sie.
+
+01:04:37.054 --> 01:04:42.358
+<v Clemens Schrimpe>Bei denen ist es egal, ob siet verstehen oder nicht, weil sie hinterher sowieso umfallen. Aber okay.
+
+01:04:42.352 --> 01:04:49.130
+<v Linus Neumann>Aber ja, äh es ja, ist so. Mhm. Aber nur.
+
+01:04:47.015 --> 01:04:52.074
+<v Tim Pritlove>Lass uns mal äh ein bisschen vorankommen hier. Wir sind nämlich schon äh weit über die Zeit,
+
+01:04:52.748 --> 01:05:07.109
+<v Tim Pritlove>und noch lange nicht äh durch die Themen. Ich glaube, so die E-Mail ist äh alles gesagt. Äh es ist jetzt auf jeden Fall äh beschlossen. Es ist äh sicher, weil Drahtkäfige drumherum sind und äh Christoph Rusplaketten angebracht wurden an den vorgeschriebenen Stellen. Und äh,
+
+01:05:07.470 --> 01:05:08.870
+<v Tim Pritlove>uns wieder abregen.
+
+01:05:08.620 --> 01:05:20.022
+<v Linus Neumann>Genau, das war jetzt nur eGovernt, E-Justiz Gesetz äh folgt dann jetzt noch. Da geht's dann um die Rechtsverbindlichkeit. Da ging's jetzt ging's erstmal nur um die Sicherheit äh hauptsächlich.
+
+01:05:19.722 --> 01:05:21.805
+<v Tim Pritlove>Die ist jetzt per Aklamation festgestellt.
+
+01:05:20.936 --> 01:05:23.543
+<v Linus Neumann>Dies jetzt ist jetzt sicher, ja, er steht ja so im Gesetz.
+
+01:05:23.293 --> 01:05:26.133
+<v Tim Pritlove>Ja, okay, ne, das das doch, ist doch alles gut.
+
+01:05:26.026 --> 01:05:37.623
+<v Linus Neumann>Dann äh kommen wir zu einem Thema, was wir in der äh letzten Woche schon hatten. Nämlich, wie war's denn? Letzte Woche hatten wir gesagt, dass da, oh ne.
+
+01:05:37.323 --> 01:05:39.654
+<v Tim Pritlove>Abfrage in Dresden, alles ganz toll war.
+
+01:05:39.354 --> 01:05:45.735
+<v Linus Neumann>Genau, das Amtsgericht Dresden hatte damals ja diese Funktion Abfrage auf Antrag der Staatsanwaltschaft,
+
+01:05:45.922 --> 01:05:58.889
+<v Linus Neumann>angeordnet und die Beschwerde dagegen hat dasselbe Gericht dasselbe Amtsgericht Dresden ja dann abgelehnt. Deshalb ging der Fall dann ans Landgesicht,
+
+01:05:59.899 --> 01:06:10.204
+<v Linus Neumann>Und das hat jetzt ein, hat jetzt festgestellt, dass diese Funkzellenabfrage rechtswidrig war. Und dieses Urteil ist rechtskräftig und unanfechtbar,
+
+01:06:11.052 --> 01:06:22.571
+<v Linus Neumann>Ja, allerdings war die Funkzellenabfrage deshalb äh nicht rechtskräftig, weil das Amtsgericht nicht ausreichend begründet hat,
+
+01:06:23.623 --> 01:06:29.493
+<v Linus Neumann>warum sie das machen. Das Amtsgericht hatte die irgendwie einfach angeordnet, ohne genau zu sagen warum.
+
+01:06:29.944 --> 01:06:38.369
+<v Linus Neumann>Und deswegen hat diese hat das äh Landgericht an der Stelle schon gesagt, dass war nicht ausreichend begründet und deswegen rechtswidrig,
+
+01:06:39.120 --> 01:06:44.828
+<v Linus Neumann>Und hat sich gar nicht weiter mit der Frage auseinandergesetzt ähm,
+
+01:06:45.514 --> 01:06:50.014
+<v Linus Neumann>ob es dann eventuell noch verhältnismäßig oder vielleicht auch grundsätzlich falsch war.
+
+01:06:49.900 --> 01:07:04.370
+<v Tim Pritlove>Rechtskräftig heißt natürlich auch, dass das jetzt nicht nochmal aufgerollt werden kann und auf oberer Ebene nochmal neu entschieden werden kann. Es sei denn, es müsste jetzt nochmal ein komplett neuer Klage gegen irgendwas äh die neue Aspekte, die einen Aufrollen auch äh erlauben würden.
+
+01:07:04.436 --> 01:07:12.770
+<v Linus Neumann>Genau und es müssen also jetzt mit der Rechtskräftigkeit müssen die Daten eben auch äh gelöscht werden. Ja, das äh,
+
+01:07:13.426 --> 01:07:26.796
+<v Linus Neumann>ist jetzt also der das Ende dieses Falles. So, Daten dürfen alle nicht verwendet werden, müssen gelöscht werden. Und da geht's jetzt halt, wie gesagt, um diese Dresdner Geschichte mit den, ich meine sechzigtausend Betroffenen Personen.
+
+01:07:26.496 --> 01:07:29.548
+<v Tim Pritlove>Gelöscht. Das heißt wahrscheinlich, sie müssen als gelöscht markiert werden.
+
+01:07:28.034 --> 01:07:40.550
+<v Clemens Schrimpe>Aber in Deutschland äh nicht die Frucht des verbotenen Baumes kennen, wie zum Beispiel im amerikanischen Recht, ist das scheißegal, das alles, was schon rausgeholt haben aus diesen Daten für irgendwelche anderen Verfahren, wird natürlich dort weiter verwandt.
+
+01:07:41.831 --> 01:07:44.721
+<v Linus Neumann>Ist das da da bin ich mir nämlich nicht so ähm.
+
+01:07:44.421 --> 01:07:48.753
+<v Clemens Schrimpe>Amerikanischen Recht gibt's diese diese Doktrin der,
+
+01:07:48.868 --> 01:07:57.580
+<v Clemens Schrimpe>Das heißt also wenn du äh wenn die Polizei oder wer auch immer rechtswidrig Beweismittel erlangt hat, dürfen sie nicht gegen dich verwendet werden. In Deutschland äh wird
+
+01:07:57.544 --> 01:08:05.704
+<v Clemens Schrimpe>wird die, werden die Strafverfolgungsbehörden, die sowas machen, regelmäßig mit einem. Das war aber rechtswidrig abgestraft. Das hilft dir aber als irgendwie,
+
+01:08:06.420 --> 01:08:12.326
+<v Clemens Schrimpe>Verfahren nicht, aber danke, dass ihr die Daten besorgt habt, ne. Das ist äh auch noch so ein netter Nebeneffekt dabei,
+
+01:08:13.000 --> 01:08:20.439
+<v Clemens Schrimpe>Ist schön, dass wir jetzt alle wissen, dass sie det nicht hätten tun dürfen, aber das ist scheißegal. Die Leute, die sie jetzt aufgrund dieser Daten irgendwie am Arsch haben oder so, den.
+
+01:08:20.577 --> 01:08:33.064
+<v Linus Neumann>Da gab's ja noch nicht mal irgendjemanden an den Arsch zu kriegen. Die konnten ja wahrscheinlich gar nicht mit den Daten umgehen oder so, aber äh die die Erfassung, also die sind auf jeden Fall so ausführlich ausgewertet, dass äh.
+
+01:08:33.671 --> 01:08:45.172
+<v Tim Pritlove>Na gut, ich meine, was man äh Positives rausziehen kann, ist, dass zumindest mal festgestellt wurde, dass es so nicht ging, ja, das heißt, äh man hätte besser äh äh belegen müssen, warum,
+
+01:08:46.002 --> 01:08:53.861
+<v Tim Pritlove>Wobei das jetzt sicherlich auch keine große Hürde ist, weil das nächste Mal sagen sie, ja, äh wir wollen das jetzt haben, weil das brauchen.
+
+01:08:55.081 --> 01:09:02.772
+<v Linus Neumann>Genau. So sieht es jetzt im Moment erstmal aus. Ansonsten gab's noch sehr interessante Hinweise in den Kommentaren, äh woher,
+
+01:09:03.140 --> 01:09:14.941
+<v Linus Neumann>wie es um Sachsen steht und warum. Da fühlten sich einige äh äh auf den Schlips getreten, weil wir aus vom hohen Ross aus Berlin äh die politischen.
+
+01:09:14.641 --> 01:09:28.311
+<v Tim Pritlove>Ja, das sind auch alles nur äh Politiker aus dem Westen, ja, also die anderen sind schuld. Und als Beleg dafür wurde eine Rede eines Politikers, der auch aus dem Westen war, geliefert. Das habe ich jetzt nicht so ganz verstanden, aber,
+
+01:09:29.441 --> 01:09:30.360
+<v Tim Pritlove>meinetwegen.
+
+01:09:30.307 --> 01:09:38.653
+<v Linus Neumann>Ja, so ist es. Aber okay, also auch das, aber andere haben ja dann auch also andere haben auf jeden Fall weh, zumindest gesagt, dass die Verhältnisse nicht äh schön sind.
+
+01:09:38.821 --> 01:09:45.900
+<v Tim Pritlove>Genau. Gut, dann äh können wir vielleicht den Bereich auch äh abschließen, oder?
+
+01:09:47.102 --> 01:09:54.234
+<v Tim Pritlove>weiter mit Face Book. Die äh um sich mal wieder mit den Freunden vom unabhängigen.
+
+01:09:55.112 --> 01:10:08.386
+<v Linus Neumann>Landeszentrum für Datenschutz Schleswig-Holstein. Der hat sich ja der, die haben sich ja schon vor einiger Zeit, wir haben da, glaube ich, auch damals drüber berichtet, mit Facebook angelegt. Und zwar äh sagt das Telemediengesetz,
+
+01:10:09.173 --> 01:10:13.102
+<v Linus Neumann>ähm die Nutzung von Telemedien und ihre Bezahlung
+
+01:10:12.983 --> 01:10:24.490
+<v Linus Neumann>muss auch unter muss auch anonym oder unter Pseudonym möglich sein, soweit das technisch möglich und zumutbar ist. Und das ist ja bei Facebook würde man meinen, der Fall und haben deswegen gesagt,
+
+01:10:24.490 --> 01:10:36.850
+<v Linus Neumann>ähm wir äh machen irgendwie eine Ordnungsmaßnahme oder wir wir mahnen Facebook ab, weil sie gegen dieses äh Telemediengesetz und gegen den Datenschutz verstoßen,
+
+01:10:37.494 --> 01:10:44.248
+<v Linus Neumann>Und dann hat Facebook gesagt, was wollt ihr überhaupt? Wir sitzen in Irland. Und ähm,
+
+01:10:45.444 --> 01:10:53.069
+<v Linus Neumann>dann sagte das Verwaltungsgericht schon vor einiger Zeit, vor dem sie ja geklagt haben, na ja, die Erhebung der Daten und die Verarbeitung finden in Irland statt,
+
+01:10:53.148 --> 01:11:06.962
+<v Linus Neumann>und ähm deshalb hat das ULD hier äh Facebook überhaupt nichts zu sagen und diese Ansicht wurde jetzt auch vom Oberverwaltungsgericht bestätigt. Facebook unterliegt,
+
+01:11:07.293 --> 01:11:10.478
+<v Linus Neumann>ähm ihre irischen Datenschutzrecht.
+
+01:11:11.055 --> 01:11:13.984
+<v Tim Pritlove>Das irische Datenschutzrecht sagt was, sagt scheiß,
+
+01:11:15.263 --> 01:11:25.073
+<v Tim Pritlove>Solange hier nicht der Name des Herren in Schmutz gezogen wird, bitte machen, was ihr wollt. Gut, wir wissen's nicht. Wir haben uns das irische Datenschutzrecht nicht angeschaut. Wir wissen auch nicht, ob's.
+
+01:11:24.923 --> 01:11:27.579
+<v Clemens Schrimpe>Aber einen Grund haben, warum die Firmen das alle da machen.
+
+01:11:27.279 --> 01:11:29.520
+<v Linus Neumann>Die sind alle dort, weil das net also ihr.
+
+01:11:29.328 --> 01:11:34.039
+<v Tim Pritlove>Bei dem Bereich da dann denk ich mal dürfte sich das.
+
+01:11:34.178 --> 01:11:47.127
+<v Linus Neumann>Im Datenschutzbereich ist es tatsächlich so, dass Irland äh bekanntermaßen den den durchlässigsten oder den die Laxisten Regeln dazu hat und deswegen sitzen die Daten verarbeitenden Unternehmen,
+
+01:11:47.373 --> 01:11:56.375
+<v Linus Neumann>oder die datenverarbeitenden Konzerne haben ihren Europasitz immer dort. Und genau das ist ja einer der Punkte ja so gut wie immer ja also wer ist blöd den nicht dahin zu.
+
+01:11:56.075 --> 01:12:00.304
+<v Tim Pritlove>Na, wer ist denn dann noch? Also ich weiß jetzt von.
+
+01:12:00.004 --> 01:12:02.984
+<v Clemens Schrimpe>Wann hast du das letzte Mal mit deinem Apple Support gesprochen?
+
+01:12:02.684 --> 01:12:04.144
+<v Linus Neumann>Die sitzen alle in ihr Land.
+
+01:12:04.608 --> 01:12:08.415
+<v Tim Pritlove>Apple Support ist in sind die da immer noch?
+
+01:12:06.897 --> 01:12:08.771
+<v Linus Neumann>Irland. Ja.
+
+01:12:08.496 --> 01:12:14.847
+<v Clemens Schrimpe>Mhm. Also, wer weiß, was sie da noch machen? Die betreiben auch bestimmt offiziell ihr ganzes iTunes da.
+
+01:12:12.611 --> 01:12:21.168
+<v Tim Pritlove>Bezweifeln, ich ich bin mir jetzt nicht bewusst, wer da alles, sagen wir mal, jetzt wirklich ähm präsent ist noch.
+
+01:12:21.733 --> 01:12:23.752
+<v Linus Neumann>Ähm.
+
+01:12:23.452 --> 01:12:26.006
+<v Tim Pritlove>Es sei denn, sie haben was zu verkaufen, dann sitzen sie natürlich in Luxemburg.
+
+01:12:26.829 --> 01:12:29.094
+<v Linus Neumann>Ah, das das spielt auch noch eine Rolle, ja.
+
+01:12:28.794 --> 01:12:31.155
+<v Tim Pritlove>Naja, da ist ja Umsatzsteuer und so weiter, das.
+
+01:12:30.891 --> 01:12:42.722
+<v Linus Neumann>Worauf ich hinaus wollte, wenn du wenn du äh wenn der Datenschutz dir ein Dorn im Auge ist und du möchtest in Europa sein, dann äh gehe nach äh Irland hinein. Und ähm das ist,
+
+01:12:43.366 --> 01:12:45.402
+<v Linus Neumann>Deswegen habe ich das so gesagt.
+
+01:12:45.102 --> 01:12:46.256
+<v Clemens Schrimpe>Chillen.
+
+01:12:45.956 --> 01:12:55.955
+<v Linus Neumann>Damit man sich das leichter merken kann. Ähm und das ist ja auch genau einer der Punkte in dieser EU Datenschutzreform äh ja jetzt äh behandelt werden soll.
+
+01:12:56.286 --> 01:13:01.519
+<v Clemens Schrimpe>Überall genauso Lachs wird wie in Irland, damit die Firmen auch wieder woanders ihr Geld hintragen.
+
+01:13:01.219 --> 01:13:04.782
+<v Linus Neumann>Genau, weil Irland hat da ja einen Marktvorteil.
+
+01:13:04.740 --> 01:13:06.429
+<v Clemens Schrimpe>Eben, das geht ja so nicht.
+
+01:13:06.747 --> 01:13:09.665
+<v Linus Neumann>Das kannst du alles über Markt der Markt jetzt regeln.
+
+01:13:12.191 --> 01:13:15.009
+<v Clemens Schrimpe>In die Richtung, die man so denkt, aber er regelt.
+
+01:13:14.998 --> 01:13:21.060
+<v Tim Pritlove>Äh gut. So sieht's aus. Das war's.
+
+01:13:19.000 --> 01:13:32.207
+<v Linus Neumann>So sieht's aus. Jetzt kam grade der Clemens schob mir hier gerade zu, dass dieses Urteil im im Rahmen der Antiterrordatei äh heute verkündet wurde, aber ähm da habe ich, das ist jetzt gerade passiert.
+
+01:13:32.178 --> 01:13:33.451
+<v Clemens Schrimpe>Wir noch unvorbereitet.
+
+01:13:33.463 --> 01:13:35.296
+<v Linus Neumann>Wir unvorbereitet. Damit.
+
+01:13:35.459 --> 01:13:37.628
+<v Tim Pritlove>Das schauen wir uns nochmal an.
+
+01:13:37.874 --> 01:13:43.547
+<v Linus Neumann>Des Bundesverfassungsgerichts stützt die Antiterrordatei zurecht. Lautet der.
+
+01:13:43.601 --> 01:13:54.928
+<v Clemens Schrimpe>Aber nicht so, wie man sich das erhofft hatte, ne? Es gab ja Leute, die sagen, die vom Tisch, das haben sie nicht getan. Sie haben's halt grundsätzlich erstmal so geackt und haben gesagt, na da fallen wir noch mal ein bisschen an den Ecken.
+
+01:13:54.706 --> 01:14:05.305
+<v Linus Neumann>Genau, so lässt sich das zusammenfassen und nächste Woche machen wir das ausführlich. Vielleicht schaffen wir da ja mal wieder eine der Sachverständigen Personen äh zu uns zu holen.
+
+01:14:05.787 --> 01:14:15.034
+<v Tim Pritlove>Ja, mal wieder eine sachverständige Person, sowie äh heute mit Clemens, vielen Dank hier für äh die Teilnahme. Bei LNP. Ja,
+
+01:14:15.377 --> 01:14:23.693
+<v Tim Pritlove>Nächste Woche machen wir noch Sendung, dann ist Republika, da wissen wir noch nicht so ganz genau, ob wir da vielleicht auch eine Sendung machen, das werden wir dann noch sehen. Ja.
+
+01:14:25.070 --> 01:14:26.439
+<v Linus Neumann>Ja
+
+01:14:26.926 --> 01:14:28.975
+<v Tim Pritlove>Noch einiges an Arbeit zu leisten.
+
+01:14:28.675 --> 01:14:32.136
+<v Linus Neumann>Und in der Woche darauf ist schon die Hauptversammlung der Deutschen Telekom.
+
+01:14:31.848 --> 01:14:34.461
+<v Tim Pritlove>Hm, am sechzehnten Mai.
+
+01:14:32.202 --> 01:14:36.709
+<v Clemens Schrimpe>Ein Schelm wär böses dabei.
+
+01:14:36.409 --> 01:14:39.179
+<v Tim Pritlove>Die sind bestimmt alle ganz.
+
+01:14:38.879 --> 01:14:45.290
+<v Linus Neumann>Also wer da Einlandungen hat oder so kann ja sich überlegen, ob er.
+
+01:14:45.272 --> 01:14:47.410
+<v Clemens Schrimpe>City mal bündeln. Weil man müsste man müsste.
+
+01:14:47.110 --> 01:14:50.289
+<v Tim Pritlove>Paar Bevollmächtigte benennt.
+
+01:14:48.012 --> 01:14:52.590
+<v Linus Neumann>Oder ob man die irgendwo hin, ob man da nicht nur ein paar Bevollmächtigeste benennt, die.
+
+01:14:52.567 --> 01:15:06.291
+<v Clemens Schrimpe>All die Leute, die so eine T-Aktie noch irgendwo rumzulümmeln haben. Schön Bevollmächtigung schreiben und denn jemanden hin da digitalgesellschaftlich auch immer, die einfach mal mit so einem Bevormischungen da auflaufen und sagen so, wir hätten da mal eine Frage.
+
+01:15:05.991 --> 01:15:17.558
+<v Linus Neumann>Das wäre äh das fände ich äh sehr sinnvoll. Ich ohne das mit irgendjemanden abgesprochen zu haben, äh schlage ich schlagen wir das jetzt einfach mal vor. Schickt es an die Person eures Vertrauens.
+
+01:15:18.063 --> 01:15:20.146
+<v Tim Pritlove>Haben ja schon einige verkauft.
+
+01:15:18.695 --> 01:15:21.302
+<v Clemens Schrimpe>Zu bündeln. Hm.
+
+01:15:21.532 --> 01:15:28.020
+<v Tim Pritlove>So viel Dividende hat das Ding, glaube ich, jetzt noch nicht abgeworfen, dass man da jetzt besonders stolz drauf sein müsste.
+
+01:15:27.720 --> 01:15:30.280
+<v Clemens Schrimpe>Deswegen kann man auch ruhig sein Stimmrecht mal durch die Gegend schicken.
+
+01:15:30.682 --> 01:15:37.851
+<v Tim Pritlove>Gut, ich denke, das war's. Wir sagen äh tschüss und bis bald. Bis nächste Woche.
+
+01:15:36.656 --> 01:15:37.851
+<v Clemens Schrimpe>Tschüss und bis bald.

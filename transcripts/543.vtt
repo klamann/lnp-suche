@@ -1,0 +1,2060 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP543 That rug really tied the room together
+Publishing Date: 2026-01-22T14:51:55+01:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp543-that-rug-really-tied-the-room-together
+
+00:00:00.005 --> 00:00:01.465
+<v Tim Pritlove>Guten Morgen, Linus.
+
+00:00:01.845 --> 00:00:02.385
+<v Linus Neumann>Guten Morgen, Tim.
+
+00:00:03.085 --> 00:00:05.325
+<v Tim Pritlove>Heute machen wir aber mal eine ganz friedliche Sendung, oder?
+
+00:00:05.885 --> 00:00:10.225
+<v Linus Neumann>Lieber Tim, da Norwegen beschlossen hat, mir den Friedensnobelpreis nicht zu
+
+00:00:10.225 --> 00:00:14.685
+<v Linus Neumann>verleihen, fühle ich mich nicht mehr verpflichtet, ausschließlich an den Frieden zu denken.
+
+00:00:36.065 --> 00:00:39.885
+<v Tim Pritlove>Logbuch Netzpolitik Nummer 543 vom 21.
+
+00:00:40.245 --> 00:00:45.145
+<v Tim Pritlove>Januar 2026 und was sollen wir euch sagen, Leute? Wir kommen in Frieden.
+
+00:00:47.825 --> 00:00:52.025
+<v Linus Neumann>Also ich, da fehlt oft die Logik.
+
+00:00:52.165 --> 00:00:55.125
+<v Linus Neumann>Wenn man den nicht bekommt, muss man nicht mehr nur in Frieden denken.
+
+00:00:55.505 --> 00:00:57.165
+<v Linus Neumann>Was ist denn, wenn man den bekommt?
+
+00:00:57.525 --> 00:01:00.705
+<v Tim Pritlove>Den Friedensnobelpreis, dann verschenkt man den.
+
+00:01:01.165 --> 00:01:03.005
+<v Linus Neumann>Dann müssen wir dem Donald Trump schenken, ja.
+
+00:01:04.765 --> 00:01:09.305
+<v Tim Pritlove>Das ist so wütendig. Also ich finde, also ich meine mal ehrlich,
+
+00:01:10.965 --> 00:01:13.345
+<v Tim Pritlove>2026 lässt sich doch ganz gut an, oder?
+
+00:01:13.705 --> 00:01:18.385
+<v Tim Pritlove>Also immer wenn man so denkt, das letzte Jahr war jetzt aber echt wild.
+
+00:01:19.985 --> 00:01:21.385
+<v Linus Neumann>Kommt direkt so, patsch.
+
+00:01:22.765 --> 00:01:28.185
+<v Tim Pritlove>Stell dir mal vor, das nächste Jahr würde jetzt so total langweilig werden. Und nichts passiert.
+
+00:01:28.725 --> 00:01:35.245
+<v Tim Pritlove>Und dann BAM! Also ich meine, insofern ist auf Donald Trump wirklich Verlass.
+
+00:01:37.305 --> 00:01:42.445
+<v Tim Pritlove>Der will Show, der liefert auch Show. Aber wie das so generell ist mit Fernsehen,
+
+00:01:42.525 --> 00:01:44.005
+<v Tim Pritlove>man sollte es halt nicht so ernst nehmen.
+
+00:01:45.567 --> 00:01:46.147
+<v Linus Neumann>Naja,
+
+00:01:48.367 --> 00:01:48.547
+<v Linus Neumann>okay.
+
+00:01:51.387 --> 00:01:55.507
+<v Linus Neumann>Erklär es mal den Grönländern. Komm, Fernsehen muss nicht ernst nehmen.
+
+00:01:57.027 --> 00:01:59.227
+<v Linus Neumann>Der tut nichts, der will nur spielen.
+
+00:02:00.087 --> 00:02:05.207
+<v Tim Pritlove>Die Grönländer, die haben so einen geilen Sticker gesehen, wo drauf stand so,
+
+00:02:06.227 --> 00:02:09.467
+<v Tim Pritlove>Maga, make America go away.
+
+00:02:16.547 --> 00:02:20.387
+<v Tim Pritlove>Also, weißt du, man muss auch ein bisschen mit Humor kontern,
+
+00:02:20.467 --> 00:02:24.367
+<v Tim Pritlove>aber du hast natürlich auch recht, also sowohl mit Lächerlichkeit,
+
+00:02:24.927 --> 00:02:28.447
+<v Tim Pritlove>also die geben sich ja quasi selber der Lächerlichkeit preis und das sollte
+
+00:02:28.447 --> 00:02:34.327
+<v Tim Pritlove>man dann auch kanalisieren, dass diese Preisgebung auch wahrgenommen wird.
+
+00:02:34.327 --> 00:02:38.447
+<v Tim Pritlove>Aber andererseits sollte man halt nicht so sehr in den Arsch kriechen und ich
+
+00:02:38.447 --> 00:02:41.307
+<v Tim Pritlove>denke, das wäre so ein bisschen mein Wunsch für dieses Jahr,
+
+00:02:41.827 --> 00:02:48.507
+<v Tim Pritlove>dass sich so die freie Welt nicht so bemüht, ihm irgendwie noch die Lippen da
+
+00:02:48.507 --> 00:02:53.187
+<v Tim Pritlove>zu massieren, sondern einfach sagt so, Leute, bis hierhin und nicht weiter.
+
+00:02:55.247 --> 00:03:01.587
+<v Tim Pritlove>Hast du die Rede von dem kanadischen Ministerpräsidenten jetzt in Davos schon mitbekommen?
+
+00:03:01.667 --> 00:03:05.267
+<v Tim Pritlove>Das war jetzt erst kurz vor der Sendung Ne.
+
+00:03:05.307 --> 00:03:06.987
+<v Linus Neumann>Hab ich nicht mitbekommen Der Kani.
+
+00:03:07.107 --> 00:03:12.827
+<v Tim Pritlove>Der hat's ja auch wirklich alle beisammen und der ohne Trump oder die USA auch
+
+00:03:12.827 --> 00:03:16.547
+<v Tim Pritlove>nur wörtlich zu erwähnen, fing halt irgendwie an und meint so,
+
+00:03:16.607 --> 00:03:18.607
+<v Tim Pritlove>ja Leute, macht euch jetzt keine Illusionen mehr,
+
+00:03:19.707 --> 00:03:21.567
+<v Tim Pritlove>alte Ordnung alte Weltordnung ist jetzt
+
+00:03:21.567 --> 00:03:26.587
+<v Tim Pritlove>halt vorbei und hat dann irgendwie ausgeführt, dass die Mittelmächte,
+
+00:03:27.327 --> 00:03:31.627
+<v Tim Pritlove>die freien Mittelmächte, sich jetzt hier mal zusammenschließen sollten gegen
+
+00:03:31.627 --> 00:03:37.907
+<v Tim Pritlove>die Großmächte, weil die kommen gerade nicht so richtig klar und das war im
+
+00:03:37.907 --> 00:03:39.707
+<v Tim Pritlove>Prinzip eine volle Absage an,
+
+00:03:41.167 --> 00:03:42.447
+<v Tim Pritlove>das alte Bündnis.
+
+00:03:42.687 --> 00:03:44.667
+<v Tim Pritlove>Also das war jetzt mal wirklich sehr explizit.
+
+00:03:44.967 --> 00:03:48.387
+<v Tim Pritlove>Da hat er dann auf jeden Fall wie ich finde, Schwarze getroffen.
+
+00:03:48.567 --> 00:03:50.047
+<v Tim Pritlove>Der Rest eiert halt noch so ein bisschen rum.
+
+00:03:51.619 --> 00:03:54.819
+<v Linus Neumann>Ich habe nur das Bild gesehen, dass mir,
+
+00:03:56.179 --> 00:03:59.839
+<v Linus Neumann>wo ich, also ich hoffe, das war jetzt keine AI, sonst wird derjenige,
+
+00:03:59.839 --> 00:04:04.359
+<v Linus Neumann>der es mir geschickt hat, sich jetzt sehr sportlachen, wo Trump sitzt und vor
+
+00:04:04.359 --> 00:04:08.319
+<v Linus Neumann>ihm sitzen so irgendwie von der Leyen, Macron,
+
+00:04:08.939 --> 00:04:11.459
+<v Linus Neumann>wie heißt unser Vogel?
+
+00:04:12.679 --> 00:04:21.019
+<v Linus Neumann>März und so und er hat da im Hintergrund so eine Weltkarte wo die USA drauf
+
+00:04:21.019 --> 00:04:27.559
+<v Linus Neumann>ist und dann so eingekleidet mit einer Flagge und darüber dann Kanada und Alaska
+
+00:04:27.559 --> 00:04:29.619
+<v Linus Neumann>und Grönland und alles so das.
+
+00:04:29.619 --> 00:04:30.919
+<v Tim Pritlove>War glaube ich echt,
+
+00:04:34.554 --> 00:04:39.194
+<v Tim Pritlove>Naja, es soll halt provozieren, das ist alles, worum es geht.
+
+00:04:39.414 --> 00:04:45.494
+<v Linus Neumann>Ich hoffe, das geht halt mal in die, also ich bin mal gespannt, bei anderen,
+
+00:04:49.254 --> 00:04:50.154
+<v Linus Neumann>sagen wir mal,
+
+00:04:52.394 --> 00:04:57.034
+<v Linus Neumann>Staatenlenkern der Geschichte, hat man auch sehr lange gesagt,
+
+00:04:57.134 --> 00:04:58.254
+<v Linus Neumann>die wollen nur provozieren.
+
+00:05:02.674 --> 00:05:09.294
+<v Linus Neumann>Arscharf am Godwin vorbei. Ich meine ja zum Beispiel Barack Obama, der alte Provokateur.
+
+00:05:09.474 --> 00:05:14.674
+<v Linus Neumann>Am Ende hat er tatsächlich seine Drohung wahrgemacht und Krankenversicherung für alle eingeführt.
+
+00:05:16.214 --> 00:05:21.294
+<v Tim Pritlove>Ich sage ja auch nicht, dass das nicht am Ende auch alles so exekutiert werden soll.
+
+00:05:21.594 --> 00:05:24.894
+<v Tim Pritlove>Selbstverständlich sind das explizit seine Wünsche. Er benennt sie ja dann doch
+
+00:05:24.894 --> 00:05:30.734
+<v Tim Pritlove>sehr klar. Man muss dem halt nur sehr klar entgegenstehen und sagen,
+
+00:05:31.914 --> 00:05:36.314
+<v Tim Pritlove>ja, schöne Meinung, die sie da haben, aber sorry, findet nicht statt.
+
+00:05:36.974 --> 00:05:39.814
+<v Tim Pritlove>Natürlich haben jetzt alle Schiss und das ist ja auch nachvollziehbar,
+
+00:05:39.934 --> 00:05:44.334
+<v Tim Pritlove>so wegen der ganzen Wirtschaft und dem Geld und dem Wohlstand und so weiter.
+
+00:05:44.334 --> 00:05:51.594
+<v Tim Pritlove>Das wird uns hart treffen, aber die Dinge bewegen sich so und am Ende muss halt
+
+00:05:51.594 --> 00:05:55.974
+<v Tim Pritlove>Europa zusammenfinden und wieder eine Einheit werden,
+
+00:05:56.074 --> 00:06:02.514
+<v Tim Pritlove>die Briten wieder reinholen und neue Modelle aufkommen lassen und halt einfach,
+
+00:06:02.674 --> 00:06:05.934
+<v Tim Pritlove>ja Independence Day ist ja voll angesagt.
+
+00:06:06.354 --> 00:06:09.474
+<v Tim Pritlove>Das brauchen wir jetzt halt auch von den USA.
+
+00:06:10.934 --> 00:06:14.034
+<v Linus Neumann>Ich erinnere mich übrigens gerade dass du, ich weiß nicht ob du es absichtlich
+
+00:06:14.034 --> 00:06:17.794
+<v Linus Neumann>gemacht hast ich wollte nur sagen, ich habe es erkannt, du hast eine der wichtigsten Filmszenen,
+
+00:06:19.834 --> 00:06:21.694
+<v Linus Neumann>referenziert in deinem Schöne Meinung haben sie da,
+
+00:06:23.786 --> 00:06:26.126
+<v Linus Neumann>Big Lebowski, Nobody Fucks With The Jesus?
+
+00:06:29.946 --> 00:06:34.486
+<v Tim Pritlove>Die habe ich jetzt nicht so explizit benannt, aber du hast natürlich recht,
+
+00:06:34.566 --> 00:06:36.386
+<v Tim Pritlove>dass das eine der besten Szenen ist.
+
+00:06:37.306 --> 00:06:38.186
+<v Linus Neumann>Well, yeah.
+
+00:06:38.846 --> 00:06:41.506
+<v Tim Pritlove>That's just your opinion, man.
+
+00:06:49.126 --> 00:06:53.886
+<v Tim Pritlove>Ja, in der Tat. The Dude hat es auf jeden Fall Kapiert irgendwie, ja.
+
+00:06:54.586 --> 00:06:58.166
+<v Tim Pritlove>Und ja, ich finde auch irgendwie,
+
+00:06:59.086 --> 00:07:07.886
+<v Tim Pritlove>wenn einem so ein schlecht frisierter Volltrampel einem auf den Teppich pisst,
+
+00:07:08.566 --> 00:07:16.966
+<v Tim Pritlove>dann And I tell you, the rug really tied the room together.
+
+00:07:25.086 --> 00:07:30.606
+<v Tim Pritlove>Okay Gut, das haben wir bewiesen, dass wir die voll die geilen Cineasten sind,
+
+00:07:31.546 --> 00:07:35.806
+<v Tim Pritlove>Vor allem einfach einen Film hunderttausend Mal geguckt Ja und das befähigt
+
+00:07:35.806 --> 00:07:41.146
+<v Tim Pritlove>uns natürlich die gesamte Weltpolitik durchgehend zu kommentieren This.
+
+00:07:41.146 --> 00:07:42.326
+<v Linus Neumann>Aggression will not stand,
+
+00:07:48.589 --> 00:07:51.689
+<v Linus Neumann>Das Spiel gewinne ich. Ich bin da sehr geübt drin.
+
+00:07:51.889 --> 00:07:53.049
+<v Tim Pritlove>Ja, ich auch.
+
+00:07:54.209 --> 00:07:57.389
+<v Linus Neumann>Wir hatten ein alter Arbeitskollege von mir,
+
+00:07:58.269 --> 00:08:04.969
+<v Linus Neumann>wir hatten über eine längere Zeit dieses Spielchen im Arbeitsalltag möglichst
+
+00:08:04.969 --> 00:08:09.969
+<v Linus Neumann>viele Zitate aus diesem Film anzubringen.
+
+00:08:10.189 --> 00:08:16.069
+<v Linus Neumann>Also zum Beispiel so You want a toe? I can get you a toe. I can get you a nail polish.
+
+00:08:19.309 --> 00:08:23.849
+<v Linus Neumann>Aber es musste halt auch passen. Das konntest du nicht einfach so machen.
+
+00:08:24.129 --> 00:08:30.909
+<v Linus Neumann>Aber das ist erstaunlich, wie viel Kommunikation eines Tages man so einfach
+
+00:08:30.909 --> 00:08:32.129
+<v Linus Neumann>in den Bickel rausgezogen kann.
+
+00:08:32.229 --> 00:08:36.649
+<v Tim Pritlove>Absolut. Da ist es definitiv ein Film, der alles hergibt, was man so braucht
+
+00:08:36.649 --> 00:08:38.749
+<v Tim Pritlove>für die tinkliche Konversation.
+
+00:08:38.969 --> 00:08:41.689
+<v Tim Pritlove>Da kann man fast einen ganzen Podcast mit bestreiten.
+
+00:08:41.689 --> 00:08:41.949
+<v Linus Neumann>Ja.
+
+00:08:43.069 --> 00:08:47.869
+<v Tim Pritlove>Sogar einen, der sich vorgibt, sich mit Netzpolitik zu beschäftigen.
+
+00:08:48.769 --> 00:08:49.329
+<v Linus Neumann>Ja.
+
+00:08:51.646 --> 00:08:53.226
+<v Tim Pritlove>Ja, wollen wir dann mal so ein
+
+00:08:53.226 --> 00:08:58.086
+<v Tim Pritlove>bisschen die News abgraben? So richtig viel passiert ist ja gar nicht mal.
+
+00:08:59.986 --> 00:09:02.166
+<v Linus Neumann>Außer, dass die Rotary-Hilfe ihr Konto erstmal wieder hat.
+
+00:09:02.166 --> 00:09:08.126
+<v Tim Pritlove>Ja, zumindest vorerst, wie Logbuch Netzpolitik berichtete, Trump war ja der
+
+00:09:08.126 --> 00:09:14.306
+<v Tim Pritlove>Meinung, er müsste jetzt mal hier Antifa Ost und so weiter auf die Terrorlisten schreiben,
+
+00:09:14.606 --> 00:09:19.426
+<v Tim Pritlove>wo dann die Banken gleich angefangen haben zu zittern, dass sie jetzt aus dem
+
+00:09:19.426 --> 00:09:21.826
+<v Tim Pritlove>internationalen Geldtransfer ausgeschlossen werden.
+
+00:09:23.706 --> 00:09:33.386
+<v Tim Pritlove>Und abgesehen von den Debatten, die das im Hinblick von Souveränität mit sich bringt,
+
+00:09:34.046 --> 00:09:38.206
+<v Tim Pritlove>haben dann verschiedene Organisationen darunter leiden müssen,
+
+00:09:38.406 --> 00:09:41.486
+<v Tim Pritlove>unter anderem eben die Rote Hilfe e.V.
+
+00:09:41.926 --> 00:09:47.486
+<v Tim Pritlove>Und jetzt gab es eine einstweilige Verfügung des Landgerichts Göttingen,
+
+00:09:47.666 --> 00:09:52.226
+<v Tim Pritlove>das hatte die Rote Hilfe beantragt in dem wurde jetzt stattgegeben,
+
+00:09:52.786 --> 00:09:58.106
+<v Tim Pritlove>sodass jetzt zumindest vorerst dieses Konto fortgeführt werden muss.
+
+00:09:58.906 --> 00:10:04.466
+<v Tim Pritlove>Und ja, ganz interessant, also das Gericht hat das dann mündlich begründet,
+
+00:10:05.386 --> 00:10:10.986
+<v Tim Pritlove>meinte so, dass irgendwie politische Entscheidungen oder Listungen eines x-beliebigen
+
+00:10:10.986 --> 00:10:15.606
+<v Tim Pritlove>Drittstaats keine ausreichende Grundlage für die Kündigung eines Kontos durch
+
+00:10:15.606 --> 00:10:17.606
+<v Tim Pritlove>ein deutsches Kreditinstitut darstellen.
+
+00:10:19.666 --> 00:10:22.606
+<v Tim Pritlove>X-beliebiger Drittstaat, sehr schöne Formulierung.
+
+00:10:23.826 --> 00:10:26.626
+<v Linus Neumann>Vor allem das X da noch, wenn das X da noch sein.
+
+00:10:29.986 --> 00:10:35.566
+<v Tim Pritlove>Genau, auch die Beobachtung des Vereins durch den Verfassungsschutz selbst stellt
+
+00:10:35.566 --> 00:10:39.106
+<v Tim Pritlove>jetzt auch erstmal keinen Grund dar, so ein Konto zu kündigen.
+
+00:10:39.246 --> 00:10:39.926
+<v Linus Neumann>Der freut sich die AfD.
+
+00:10:39.966 --> 00:10:43.966
+<v Tim Pritlove>Ja, könnt ihr erstmal Konto behalten. Ficker.
+
+00:10:45.546 --> 00:10:49.266
+<v Linus Neumann>Alright, ja, ist doch mal ganz schön. einstweilige Verfügungen,
+
+00:10:50.572 --> 00:10:56.232
+<v Linus Neumann>Und rechtskräftig, wenn man es nicht anfechtet. Die einstweilige Verfügung ist
+
+00:10:56.232 --> 00:11:00.752
+<v Linus Neumann>ja in diesem Fall auch das richtige Mittel,
+
+00:11:01.032 --> 00:11:09.212
+<v Linus Neumann>dass du nämlich ein unmittelbares Urteil des Gerichtes anstrebst aufgrund der dringenden Eile.
+
+00:11:10.612 --> 00:11:19.392
+<v Linus Neumann>Und die einstweilige sich der zu widersetzen, führt dann eben zum unmittelbaren Gerichtsverfahren.
+
+00:11:20.572 --> 00:11:23.872
+<v Linus Neumann>Aber weil quasi der Schaden unmittelbar
+
+00:11:23.872 --> 00:11:28.392
+<v Linus Neumann>ist und abwendbar sein muss und um deine Interessen zu schonen,
+
+00:11:30.492 --> 00:11:35.032
+<v Linus Neumann>quasi wenn eine ausreichende Aussicht darauf besteht, dass deine Interessen
+
+00:11:35.032 --> 00:11:37.432
+<v Linus Neumann>hier verletzt werden und du einen fortwährenden Schaden hast,
+
+00:11:37.992 --> 00:11:40.592
+<v Linus Neumann>der nur größer wird, auch wenn du vielleicht irgendwann einmal Recht bekommst,
+
+00:11:41.132 --> 00:11:43.332
+<v Linus Neumann>dann nimmst du eine einstweilige.
+
+00:11:45.212 --> 00:11:49.812
+<v Linus Neumann>Kann aber sein, also würde nun die Sparkasse Göttingen sagen,
+
+00:11:49.812 --> 00:11:52.752
+<v Linus Neumann>Nein, die Penner wollen wir nicht und wir gehen jetzt vor das Gericht.
+
+00:11:54.132 --> 00:11:59.032
+<v Linus Neumann>Dann könnte es immer noch sein, dass in einer Hauptverhandlung ein anderes Ergebnis
+
+00:11:59.032 --> 00:12:01.892
+<v Linus Neumann>kommt. Aber es ist sehr unwahrscheinlich bei einer einstweiligen.
+
+00:12:03.348 --> 00:12:08.048
+<v Tim Pritlove>Also zumindest ist das ja auch erstmal so eine Schnelleinschätzung und das sagt
+
+00:12:08.048 --> 00:12:14.168
+<v Tim Pritlove>ja auch schon ein bisschen was darüber aus, wie das Gericht so grundsätzlich über den Fall denkt.
+
+00:12:16.548 --> 00:12:17.668
+<v Linus Neumann>Gut, schön.
+
+00:12:18.768 --> 00:12:23.248
+<v Tim Pritlove>So eine kleine Kleinigkeit, die mir über den Weg gelaufen ist.
+
+00:12:23.868 --> 00:12:32.668
+<v Tim Pritlove>Eine schöne Webseite, die heißt leavex, wo wir schon bei x beliebigen Drittstaaten waren, leavex.eu.
+
+00:12:33.868 --> 00:12:40.608
+<v Tim Pritlove>Das ist eine ganz putzige Webseite, die eigentlich wesentlich eine Datenbank-Suche ist.
+
+00:12:40.808 --> 00:12:45.248
+<v Tim Pritlove>Über alle Mitglieder des Europäischen Parlaments mit der Information,
+
+00:12:45.508 --> 00:12:47.728
+<v Tim Pritlove>ob die noch einen Account auf X haben oder nicht.
+
+00:12:47.948 --> 00:12:50.048
+<v Tim Pritlove>Beziehungsweise wenn sie einen haben, ob sie ihn benutzen.
+
+00:12:51.348 --> 00:12:53.068
+<v Linus Neumann>60% haben einen.
+
+00:12:54.188 --> 00:13:03.308
+<v Tim Pritlove>60% haben einen, ja genau. Ja, 421 haben einen, 7 haben einen,
+
+00:13:03.388 --> 00:13:07.908
+<v Tim Pritlove>den sie nicht nutzen und 291 haben keinen.
+
+00:13:08.688 --> 00:13:12.788
+<v Tim Pritlove>Oder zumindest behauptet das diese Webseite. Ich weiß natürlich jetzt nicht,
+
+00:13:12.888 --> 00:13:16.628
+<v Tim Pritlove>wie viele Bücher die sich da gegeben haben, aber die lüsten das dann alles gleich auf.
+
+00:13:16.688 --> 00:13:19.028
+<v Tim Pritlove>Man kann dann auch suchen. Ich habe mal so kurz geguckt, wie das mit unseren
+
+00:13:19.028 --> 00:13:22.528
+<v Tim Pritlove>deutschen Vertretern so aussieht.
+
+00:13:24.168 --> 00:13:28.108
+<v Tim Pritlove>Und wenn die Suche richtig funktioniert hat, haben wir so bei CDU,
+
+00:13:28.348 --> 00:13:33.788
+<v Tim Pritlove>CSU 25 Accounthalter, bei der SPD 4,
+
+00:13:34.628 --> 00:13:40.188
+<v Tim Pritlove>wir neun keinen haben und einer, also die mittleren, die nicht aktiven,
+
+00:13:40.188 --> 00:13:47.728
+<v Tim Pritlove>unterschlage ich jetzt einfach mal, FDP 6 zu 2, Grüne 10 zu 3 und die AfD 3 zu 12.
+
+00:13:50.073 --> 00:13:56.873
+<v Tim Pritlove>Linke 2 zu 2. Mit anderen Worten, die Grünen sind so voll, voll auf X. Und die AfD nicht so.
+
+00:13:57.313 --> 00:14:00.213
+<v Linus Neumann>Die sind auf TikTok und hetzen da die Kinder auf.
+
+00:14:01.113 --> 00:14:02.993
+<v Tim Pritlove>Ja, wahrscheinlich. Naja, gut.
+
+00:14:03.193 --> 00:14:11.593
+<v Linus Neumann>Insgesamt ist Deutschland, aber ja, Deutschland ist im europäischen Mittelfeld mit 55 Aktiven.
+
+00:14:11.753 --> 00:14:13.313
+<v Linus Neumann>Das sind 61 Prozent.
+
+00:14:13.893 --> 00:14:16.813
+<v Linus Neumann>Also, ja, ziemlich genau im Durchschnitt.
+
+00:14:17.633 --> 00:14:20.733
+<v Tim Pritlove>Wieder am Ende vielleicht nicht so in die Rolle. Ich meine, man muss dazu sagen,
+
+00:14:23.233 --> 00:14:23.713
+<v Tim Pritlove>diese,
+
+00:14:26.173 --> 00:14:30.033
+<v Tim Pritlove>Forderung, Plattformen zu verlassen und so, klar, kann man alles machen,
+
+00:14:30.093 --> 00:14:31.313
+<v Tim Pritlove>ist ja auch sehr gut nachvollziehbar.
+
+00:14:31.433 --> 00:14:35.873
+<v Tim Pritlove>Haben ja auch schon über X berichtet, insbesondere mit ihren jüngsten,
+
+00:14:38.313 --> 00:14:40.013
+<v Tim Pritlove>Grog Geschichten.
+
+00:14:42.053 --> 00:14:46.053
+<v Tim Pritlove>Das sollte auf jeden Fall Leute nochmal dazu bringen, zu überlegen,
+
+00:14:46.133 --> 00:14:47.313
+<v Tim Pritlove>ob das jetzt wirklich so das Ding ist.
+
+00:14:47.853 --> 00:14:56.093
+<v Tim Pritlove>Aber es ist natürlich auch so, dass quasi das Weltgeschehen in dem Sinne auf
+
+00:14:56.093 --> 00:14:58.953
+<v Tim Pritlove>dieser Plattform nach wie vor diskutiert wird.
+
+00:14:59.073 --> 00:15:06.493
+<v Tim Pritlove>Es ist halt einfach immer noch der Politkrieg, Konflikt, Journalisten, Politiker-Kanal.
+
+00:15:07.813 --> 00:15:12.293
+<v Tim Pritlove>Selbst wenn einem das nicht recht ist. Und ich wäre auch nicht überrascht,
+
+00:15:12.413 --> 00:15:16.393
+<v Tim Pritlove>wenn es noch eine ganze Menge mehr Accounts gibt, die bloß nicht so eindeutig zuzuordnen sind.
+
+00:15:17.013 --> 00:15:18.693
+<v Tim Pritlove>Das sind hier nicht so offizielle.
+
+00:15:19.093 --> 00:15:22.773
+<v Linus Neumann>Ein Shadow-Account. Aber die, das ist richtig...
+
+00:15:25.457 --> 00:15:29.937
+<v Linus Neumann>Aber das ist ja so ein klassisches kollektives Problem.
+
+00:15:31.357 --> 00:15:38.317
+<v Linus Neumann>Jedes M-D-E-P, was bei X ist, trägt auch zu der Relevanz dieser Plattform bei.
+
+00:15:42.317 --> 00:15:49.817
+<v Linus Neumann>Gleichermaßen ist es für jedes einzelne M-D-E-P wahrscheinlich schwierig zu
+
+00:15:49.817 --> 00:15:53.057
+<v Linus Neumann>sagen, ich verlasse diese Plattform mit dieser Relevanz.
+
+00:15:53.057 --> 00:15:58.237
+<v Linus Neumann>Und das kannst du ja nur auflösen, indem man beispielsweise mal gemeinsam einen Effort macht.
+
+00:15:58.577 --> 00:16:03.277
+<v Linus Neumann>Und das könnte ja zum Beispiel sein, dass nicht in jedem dritten Artikel auf
+
+00:16:03.277 --> 00:16:07.617
+<v Linus Neumann>tagesschau.de ein X-Post eingebettet ist.
+
+00:16:07.837 --> 00:16:11.357
+<v Linus Neumann>Und einer der Gründe, warum die da eingebettet sind, ist, dass es die gibt.
+
+00:16:12.257 --> 00:16:16.277
+<v Linus Neumann>Und einer der Gründe, dass es die gibt, ist, dass die Tagesschau die dann auch einbettet.
+
+00:16:17.757 --> 00:16:22.717
+<v Linus Neumann>Sodass irgendwo muss man dann eben mal anfangen, so einen Trend loszutreten.
+
+00:16:23.057 --> 00:16:27.137
+<v Linus Neumann>Ja, und das muss eben in der Regel idealerweise konzertiert sein.
+
+00:16:29.137 --> 00:16:30.337
+<v Linus Neumann>Ich twitter das nochmal.
+
+00:16:33.457 --> 00:16:36.797
+<v Tim Pritlove>Ich habe auch meinen Account da auch noch.
+
+00:16:37.657 --> 00:16:41.017
+<v Linus Neumann>Ja klar, ich habe ja keinen Bock, dass das jetzt irgendwie jemand den Username nimmt.
+
+00:16:41.417 --> 00:16:47.397
+<v Tim Pritlove>Das ist einer dieser Gründe, also einfach nur, um da mal sein Handtuch ausgelegt zu haben.
+
+00:16:48.437 --> 00:16:55.117
+<v Tim Pritlove>Und es ist auch für mich nach wie vor eine Quelle, allerdings ist es für mich
+
+00:16:55.117 --> 00:16:59.177
+<v Tim Pritlove>keine Quelle aus so Daily Use, also ich lese meine Timeline nicht.
+
+00:17:00.357 --> 00:17:02.797
+<v Tim Pritlove>Ich habe auch diese App nicht installiert,
+
+00:17:02.877 --> 00:17:07.777
+<v Tim Pritlove>weil die unbenutzbar ist und dementsprechend ist es für mich...
+
+00:17:07.777 --> 00:17:08.797
+<v Linus Neumann>Nur wegen der Interviews, ne?
+
+00:17:10.617 --> 00:17:12.137
+<v Tim Pritlove>Nur wegen der Bilder.
+
+00:17:14.137 --> 00:17:15.797
+<v Linus Neumann>Okay. Die...
+
+00:17:18.283 --> 00:17:22.403
+<v Linus Neumann>Diese Webseite, das sollte man noch kurz sagen, die unterscheidet ja auch nach
+
+00:17:22.403 --> 00:17:25.683
+<v Linus Neumann>hat einen Account und der Account wird aktiv genutzt.
+
+00:17:26.123 --> 00:17:27.803
+<v Linus Neumann>Da kriegst du Punkte für,
+
+00:17:30.163 --> 00:17:33.263
+<v Linus Neumann>Handtuch. Handtuch ist nicht ganz so schlimm wie,
+
+00:17:35.743 --> 00:17:39.963
+<v Linus Neumann>gestern noch mit Elon Musk irgendwie gegen Beleidigungen ausgetauscht.
+
+00:17:42.463 --> 00:17:45.603
+<v Tim Pritlove>So, ganz viel Unabhängigkeit haben wir heute im Thema.
+
+00:17:46.143 --> 00:17:53.923
+<v Linus Neumann>Ja, Erich Möchel hat mal recherchiert, dass Österreich interessanterweise so
+
+00:17:53.923 --> 00:17:58.023
+<v Linus Neumann>langsam, aber sicher dann doch relativ große,
+
+00:17:59.903 --> 00:18:01.883
+<v Linus Neumann>Migrationserfolge so bekannt gibt.
+
+00:18:02.963 --> 00:18:10.323
+<v Linus Neumann>Zum Beispiel ist das Bundesministerium für Wirtschaft vollständig auf Nextcloud umgezogen und.
+
+00:18:12.663 --> 00:18:22.123
+<v Linus Neumann>Das Heer ist auf LibreOffice, migriert mit 16.000 Accounts und da gibt es dann
+
+00:18:22.123 --> 00:18:27.203
+<v Linus Neumann>eine Deklaration zur europäischen digitalen,
+
+00:18:28.963 --> 00:18:29.543
+<v Linus Neumann>Souveränität.
+
+00:18:30.043 --> 00:18:34.283
+<v Linus Neumann>Da hat Österreich dann eben mal ernst genommen und hat gesagt,
+
+00:18:34.403 --> 00:18:35.303
+<v Linus Neumann>okay, machen wir jetzt mal.
+
+00:18:36.283 --> 00:18:42.723
+<v Linus Neumann>Und zwar haben sie ja wirklich auch was auf der Roadmap. So ein Nextcloud statt Sharepoint.
+
+00:18:43.423 --> 00:18:47.843
+<v Linus Neumann>Dann als nächstes von der VMware rausschmeißen und Proxmox nehmen.
+
+00:18:48.003 --> 00:18:56.603
+<v Linus Neumann>Proxmox ist eine Open Source oder Quell auf freie frei weiß ich nicht genau, was die Lizenz ist.
+
+00:18:56.763 --> 00:19:02.503
+<v Linus Neumann>Also so eine Linux-basierte, nicht mit Lizenzgebühren verhaftete Virtualisierungslösung,
+
+00:19:04.109 --> 00:19:06.929
+<v Linus Neumann>Dann wollen sie MS SQL rauswerfen. Das ist da auch wirklich,
+
+00:19:07.209 --> 00:19:11.569
+<v Linus Neumann>also das ist, finde ich, immer noch das Unnötigste. Ein Microsoft SQL Server.
+
+00:19:11.909 --> 00:19:13.909
+<v Linus Neumann>Das ist wirklich unnötig.
+
+00:19:14.269 --> 00:19:19.149
+<v Linus Neumann>Also da denkt man sich, das ist unnötig. Das ist eine völlig bekloppte Architekturentscheidung.
+
+00:19:19.229 --> 00:19:21.869
+<v Linus Neumann>Warum würde man einen Microsoft SQL Server nehmen?
+
+00:19:22.169 --> 00:19:28.569
+<v Linus Neumann>Ja, also der hat ja keine besonderen Qualitäten und du hast die Lizenzkosten
+
+00:19:28.569 --> 00:19:31.489
+<v Linus Neumann>auf Ewigkeit am Arsch, weil eine Datenbank irgendwo drin hängen zu haben,
+
+00:19:31.549 --> 00:19:32.589
+<v Linus Neumann>ist auf jeden Fall unschön.
+
+00:19:32.829 --> 00:19:39.289
+<v Linus Neumann>Und das ist, Datenbank-Migrationen sind auch echt, irgendwas ist immer. Ja, dass du dann, also.
+
+00:19:41.329 --> 00:19:44.269
+<v Linus Neumann>Das verstehe ich nicht. Und von
+
+00:19:44.269 --> 00:19:48.209
+<v Linus Neumann>Exchange wollen sie auch mal weg auf Open Exchange und Thunderbird und so.
+
+00:19:48.269 --> 00:19:51.709
+<v Linus Neumann>Also die machen da jetzt, die Österreicher machen das einfach jetzt.
+
+00:19:52.329 --> 00:19:53.789
+<v Linus Neumann>Und finde ich da mal ganz gut.
+
+00:19:56.207 --> 00:20:04.207
+<v Tim Pritlove>Ja, ich bin mal gespannt, ob das den nächsten Regierungswechsel auch überlebt
+
+00:20:04.207 --> 00:20:08.287
+<v Tim Pritlove>oder ob sie dann nicht sagen, jetzt steigen wir dann doch wieder auf Vorkontakte um oder so.
+
+00:20:10.707 --> 00:20:12.127
+<v Tim Pritlove>Also das,
+
+00:20:14.147 --> 00:20:19.307
+<v Tim Pritlove>aber ist gut ich meine es gibt wahrscheinlich eine Menge,
+
+00:20:21.347 --> 00:20:27.427
+<v Tim Pritlove>Umstellungs Stress für alle Beteiligten das ist nicht mal von eben,
+
+00:20:27.507 --> 00:20:30.807
+<v Tim Pritlove>das ist nicht so jetzt installierst du dir Open Source und dann ist alles super,
+
+00:20:31.007 --> 00:20:34.007
+<v Tim Pritlove>sondern werden sie erstmal alle ein paar Jahre fluchen darüber,
+
+00:20:34.327 --> 00:20:37.607
+<v Tim Pritlove>weil erstmal ist alles anders Ja.
+
+00:20:37.727 --> 00:20:38.447
+<v Linus Neumann>Anders wollen wir nicht.
+
+00:20:38.847 --> 00:20:47.287
+<v Tim Pritlove>Anders ist generell immer der Feind des Neuen so und dann ist halt auch, naja,
+
+00:20:47.807 --> 00:20:57.787
+<v Tim Pritlove>sicherlich muss auch diese Software sich dann anpassen an diese neuen Umgebungen,
+
+00:20:58.487 --> 00:21:03.047
+<v Tim Pritlove>in denen sie bisher so noch nicht viel genutzt wurde.
+
+00:21:03.047 --> 00:21:09.047
+<v Linus Neumann>Ja, also wenn das österreichische Heer demnächst versehentlich in Grönland einfällt, dann...
+
+00:21:16.207 --> 00:21:20.907
+<v Linus Neumann>Das ist aber bei jeder Migration so. Das war auch bei dem Einrichten der Microsoft-Produkte
+
+00:21:20.907 --> 00:21:23.227
+<v Linus Neumann>so. Aber ja, es ist eine Änderung.
+
+00:21:26.548 --> 00:21:32.108
+<v Linus Neumann>Und wir kennen ja auch die historischen Limux und so, wo dann irgendwie,
+
+00:21:33.368 --> 00:21:36.848
+<v Linus Neumann>also sowas will gut geplant und gut exekutiert sein.
+
+00:21:37.108 --> 00:21:43.608
+<v Linus Neumann>Nicht unbedingt, weil das andere Tool, die andere Plattform besser,
+
+00:21:43.748 --> 00:21:47.128
+<v Linus Neumann>schlechter, teurer, grüner, blauer ist, sondern weil sie ist eben anders.
+
+00:21:47.288 --> 00:21:51.768
+<v Linus Neumann>Und mit Änderungen mögen die Leute nicht so. Oder Änderungen müssen sehr gut begleitet werden.
+
+00:21:51.768 --> 00:21:58.088
+<v Linus Neumann>Und wenn du jetzt irgendwie plötzliche Änderungen hast und die zu schnell zu
+
+00:21:58.088 --> 00:22:01.928
+<v Linus Neumann>viele Änderungen machst und dadurch irgendwie Produktivität oder Abläufe leiden,
+
+00:22:02.548 --> 00:22:06.948
+<v Linus Neumann>dann hast du in Konsequenz einen Backlash, dann wirst du vielleicht die Änderungen nicht hinkriegen.
+
+00:22:08.128 --> 00:22:11.448
+<v Linus Neumann>Aber umso beeindruckender, dass sie das machen.
+
+00:22:13.208 --> 00:22:18.648
+<v Tim Pritlove>Die Meldung gibt jetzt, so wie sie uns hier vorliegt, ein bisschen wenig Kontext
+
+00:22:18.648 --> 00:22:23.008
+<v Tim Pritlove>in Bezug auf, wie sie das denn machen wollen. Weil es ist halt nicht getan,
+
+00:22:23.128 --> 00:22:26.368
+<v Tim Pritlove>indem du einfach jetzt nur andere Software aufspielst oder vielleicht deine
+
+00:22:26.368 --> 00:22:28.148
+<v Tim Pritlove>Dokumente konvertiert bekommst.
+
+00:22:28.288 --> 00:22:32.708
+<v Tim Pritlove>Das ist halt erstmal rein jetzt vom Bestand her schwierig.
+
+00:22:32.988 --> 00:22:36.488
+<v Tim Pritlove>Du musst ja Daten konvertieren, Protokolle, Zugriffe.
+
+00:22:36.988 --> 00:22:40.868
+<v Tim Pritlove>Die ganzen Arbeitsabläufe müssen sich anpassen. Aber vor allem muss ja auch
+
+00:22:40.868 --> 00:22:47.488
+<v Tim Pritlove>diese Software eigentlich, eigentlich muss sowas alles aus einer, ähm.
+
+00:22:49.365 --> 00:22:54.285
+<v Tim Pritlove>Regierungsoptimierten Distributionen kommen. Also eigentlich müsste ja das Land
+
+00:22:54.285 --> 00:22:56.465
+<v Tim Pritlove>Und da bist du bei Microsoft richtig?
+
+00:22:56.925 --> 00:23:02.665
+<v Tim Pritlove>Nein, ich rede ja jetzt nicht von Microsoft, sondern ich rede halt dieses Paket,
+
+00:23:02.805 --> 00:23:06.285
+<v Tim Pritlove>was man benötigt, um auf Bundes,
+
+00:23:07.565 --> 00:23:13.225
+<v Tim Pritlove>Landes, kommunaler Ebene auch alle Werkzeuge zu haben, wo dann auch alle Gesetze
+
+00:23:13.225 --> 00:23:17.405
+<v Tim Pritlove>berücksichtigt sind, wo auch alle Prozesse abbildbar sind.
+
+00:23:17.405 --> 00:23:25.765
+<v Tim Pritlove>Das muss ja das Ziel sein und deswegen warte ich jetzt eigentlich auf entsprechende
+
+00:23:25.765 --> 00:23:27.965
+<v Tim Pritlove>Initiativen dass halt diese Länder,
+
+00:23:28.165 --> 00:23:31.965
+<v Tim Pritlove>das gilt genauso gut für Deutschland und im Prinzip gilt das dann auch, finde ich,
+
+00:23:32.145 --> 00:23:38.345
+<v Tim Pritlove>letztlich auch auf einer EU-Ebene dass man anfängt wirklich Teams aufzustellen
+
+00:23:38.345 --> 00:23:43.185
+<v Tim Pritlove>die quasi an fertigen Distributionen dafür arbeiten die also wirklich,
+
+00:23:44.405 --> 00:23:45.925
+<v Tim Pritlove>Also ich verstehe.
+
+00:23:45.985 --> 00:23:51.445
+<v Linus Neumann>Was du meinst Also schauen wir mal, was haben sie hier, also die Erfolge sind,
+
+00:23:52.005 --> 00:23:58.885
+<v Linus Neumann>das Heer geht auf LibreOffice, okay, jetzt kann man sagen, wie viele Briefe
+
+00:23:58.885 --> 00:24:03.965
+<v Linus Neumann>tippen denn so die österreichischen Soldaten an der Front nach Hause mit einem Office-Produkt?
+
+00:24:03.965 --> 00:24:09.365
+<v Linus Neumann>Also ich würde vermuten, dass wahrscheinlich relativ wenige der Geschäftsprozesse
+
+00:24:09.365 --> 00:24:14.705
+<v Linus Neumann>eines Heeres kritische Abhängigkeitspfade auf Office haben.
+
+00:24:16.585 --> 00:24:18.425
+<v Tim Pritlove>Du bist ja sehr optimistisch.
+
+00:24:18.525 --> 00:24:21.905
+<v Linus Neumann>Kann sein, dass ich mich vertue. Vielleicht müssen die auch die ganze Zeit irgendwie
+
+00:24:21.905 --> 00:24:24.465
+<v Linus Neumann>Excel-Tabellen klicken oder so. Weiß ich nicht.
+
+00:24:25.025 --> 00:24:30.105
+<v Linus Neumann>Wenn du einen Datenbestand dann in die anderen Formate, das ist mit Ruckeleien verbunden,
+
+00:24:31.711 --> 00:24:34.951
+<v Linus Neumann>Ich weiß nicht, ob die jetzt einen kompletten Government-Stack brauchen,
+
+00:24:35.931 --> 00:24:39.911
+<v Linus Neumann>weil sie werden natürlich sicherlich auch noch eine Reihe anderer Applikationen
+
+00:24:39.911 --> 00:24:44.211
+<v Linus Neumann>haben, mit denen sie da ihr Herr managen oder was. Was weiß ich.
+
+00:24:44.831 --> 00:24:48.211
+<v Linus Neumann>Krankheitsplan, Schlachtplan, Kantinenplan oder so. Das ist ja alles dann,
+
+00:24:48.291 --> 00:24:53.231
+<v Linus Neumann>das ist immer eine dedicated Salesforce-Instanz oder sowas. Und dann haben sie,
+
+00:24:55.811 --> 00:25:02.631
+<v Linus Neumann>in dem Wirtschaftsministerium Nextcloud. Da ist schon eher, da würdest du vermuten,
+
+00:25:02.751 --> 00:25:07.471
+<v Linus Neumann>okay, so ein Wirtschaftsministerium wird dann auch irgendwie Text schreiben, kollaborativ und so.
+
+00:25:07.711 --> 00:25:15.331
+<v Linus Neumann>Da glaube ich schon, dass die mehr klassische Standardprozesse ihrer Tätigkeit dort abbilden müssen.
+
+00:25:15.971 --> 00:25:25.111
+<v Linus Neumann>Aber es ist jetzt nicht so, wir haben den Gesetzgebungsprozess inklusive Bund-Länder-Koordination
+
+00:25:25.111 --> 00:25:29.111
+<v Linus Neumann>jetzt auf, weiß ich nicht, EMAX umgestellt.
+
+00:25:29.431 --> 00:25:32.011
+<v Linus Neumann>Also das sind ja noch relativ...
+
+00:25:33.232 --> 00:25:34.832
+<v Linus Neumann>Wahrscheinlich Nischenprodukte.
+
+00:25:34.992 --> 00:25:38.052
+<v Tim Pritlove>Das ist schon klar. Es sind jetzt vor allem auch generische Produkte,
+
+00:25:38.292 --> 00:25:42.232
+<v Tim Pritlove>die typische Vorgänge wie ich schreibe einen Brief, ich mache eine Tabelle,
+
+00:25:43.232 --> 00:25:46.592
+<v Tim Pritlove>ich schreibe eine Mail und so weiter abbilden.
+
+00:25:46.932 --> 00:25:50.752
+<v Tim Pritlove>Aber es ist ja auch, man will ja jetzt auch in so einem Apparat,
+
+00:25:50.972 --> 00:25:54.592
+<v Tim Pritlove>vor allem nicht in einem militärischen Apparat jetzt, dass die Leute dann irgendwie,
+
+00:25:55.172 --> 00:26:01.532
+<v Tim Pritlove>ihren Brief irgendwie auf Laufwerk C in Brief1.doc abspeichern, sondern...
+
+00:26:01.532 --> 00:26:02.452
+<v Linus Neumann>Ja, alles in die Cloud.
+
+00:26:04.972 --> 00:26:09.192
+<v Tim Pritlove>Ich meine, natürlich gibt es auch Betriebssoftware, auch die muss ja letztlich
+
+00:26:09.192 --> 00:26:17.592
+<v Tim Pritlove>Open Source werden und das ist einfach ein Vorhaben, was nicht in ein,
+
+00:26:17.712 --> 00:26:19.432
+<v Tim Pritlove>zwei Jahren zu machen ist,
+
+00:26:19.572 --> 00:26:22.132
+<v Tim Pritlove>sondern was perspektivisch ja ewig so weitergeht.
+
+00:26:22.132 --> 00:26:26.032
+<v Tim Pritlove>Wir müssen uns generell an diesen Gedanken gewöhnen, dass wir,
+
+00:26:26.592 --> 00:26:29.852
+<v Tim Pritlove>wenn man jetzt diesem Souveränitätsbegriff folgen möchte,
+
+00:26:30.572 --> 00:26:36.132
+<v Tim Pritlove>dass die Länder ihre informatische Infrastruktur genauso in der Hand haben wie
+
+00:26:36.132 --> 00:26:43.852
+<v Tim Pritlove>alles andere auch und dazu gehört einfach ein Big Plan und viele Teams und eine
+
+00:26:43.852 --> 00:26:49.152
+<v Tim Pritlove>internationale Zusammenarbeit allein schon im Hinblick auf europäische Harmonisierung etc.
+
+00:26:50.232 --> 00:26:51.532
+<v Linus Neumann>Und dann kann da was draus werden.
+
+00:26:53.412 --> 00:26:58.792
+<v Tim Pritlove>Was macht Berlin? Genau und jetzt, also ich muss sagen, man muss mich mal kurz
+
+00:26:58.792 --> 00:27:01.552
+<v Tim Pritlove>kneifen, Moment, ich kneife mich mal kurz selbst.
+
+00:27:02.052 --> 00:27:07.932
+<v Tim Pritlove>Berlin hat ein Strategiepapier vorgelegt mit dem Titel Open Source Strategie
+
+00:27:07.932 --> 00:27:13.392
+<v Tim Pritlove>für das Land Berlin, digitale Souveränität und Innovationskraft stärken.
+
+00:27:14.212 --> 00:27:17.252
+<v Tim Pritlove>Ihr merkt schon, CDU ist in der Regierung, deswegen muss das Wort Innovation
+
+00:27:17.252 --> 00:27:19.132
+<v Tim Pritlove>da drin vorkommen, aber...
+
+00:27:19.472 --> 00:27:25.612
+<v Tim Pritlove>Aber was in diesem PDF steht, ist in der Tat überraschend.
+
+00:27:27.472 --> 00:27:33.592
+<v Tim Pritlove>Weil sie hier dann mal festhalten, dass surprise, surprise, unter anderem geopolitische
+
+00:27:33.592 --> 00:27:36.512
+<v Tim Pritlove>Spannung jetzt sie dann doch zum Handeln zwingen.
+
+00:27:37.728 --> 00:27:41.908
+<v Tim Pritlove>Also das ist das offizielle Eingeständnis, wir haben Schiss.
+
+00:27:42.928 --> 00:27:50.168
+<v Tim Pritlove>Und allerlei uns seit längerem bekannte Buzzwords dann auf einmal nach oben
+
+00:27:50.168 --> 00:27:57.448
+<v Tim Pritlove>babbeln wie Public Money, Public Code und ja, ich zitiere mal hier einen Absatz.
+
+00:27:59.088 --> 00:28:04.888
+<v Tim Pritlove>Der anbieterseitige Zwang, Hersteller-Cloud-Systeme mit den damit einhergehenden,
+
+00:28:05.088 --> 00:28:10.508
+<v Tim Pritlove>erheblichen und nahezu unverhandelbaren Lizenzbedingungen und Kosten beziehen
+
+00:28:10.508 --> 00:28:14.668
+<v Tim Pritlove>zu müssen, ist aus Sicht des Landes Berlin ein schwerwiegender Grund,
+
+00:28:14.908 --> 00:28:20.108
+<v Tim Pritlove>sich mit Alternativen zu den IT-Systemen von marktdominierenden Herstellern auseinanderzusetzen.
+
+00:28:20.108 --> 00:28:25.508
+<v Tim Pritlove>Die Lizenzpolitiken großer Monopolisten und Hyperscaler sind als kritisch bzw.
+
+00:28:26.048 --> 00:28:30.688
+<v Tim Pritlove>Sehr problematisch einzuordnen. Neben sehr hohen Lizenzkosten schränken die
+
+00:28:30.688 --> 00:28:35.968
+<v Tim Pritlove>unerwünschten Funktionalitäten wie Produktaktivierungen in großem Umfang,
+
+00:28:36.588 --> 00:28:42.068
+<v Tim Pritlove>Telemetrie, Datenabflüsse aus den verwendeten Produkten sowie die Aufwände und
+
+00:28:42.068 --> 00:28:48.408
+<v Tim Pritlove>potenzielle Konsequenzen von Lizenzauditierungen die Handlungsfähigkeit entscheidend ein.
+
+00:28:48.408 --> 00:28:54.908
+<v Tim Pritlove>Ein Umstieg auf digitale, souveräne IT-Produkte ergibt sich daher schon aus
+
+00:28:54.908 --> 00:28:56.708
+<v Tim Pritlove>diesen Gründen zwingend.
+
+00:28:56.988 --> 00:29:02.948
+<v Linus Neumann>Ja, sehr schön. Aber eine Lizenz-Auditierung. Das ist doch auch so geil, ne?
+
+00:29:03.388 --> 00:29:06.288
+<v Linus Neumann>Das ist ja wirklich ein Business-Model.
+
+00:29:06.648 --> 00:29:10.308
+<v Tim Pritlove>Kannst du da mal den Begriff aufschlüsseln? Den höre ich jetzt ehrlich gesagt
+
+00:29:10.308 --> 00:29:13.948
+<v Tim Pritlove>das erste Mal. Was ist denn eine Lizenz-Auditierung?
+
+00:29:14.628 --> 00:29:20.908
+<v Linus Neumann>Naja, dass halt geguckt wird, also ich würde das so interpretieren,
+
+00:29:21.028 --> 00:29:22.228
+<v Linus Neumann>dass halt auch geprüft wird.
+
+00:29:22.528 --> 00:29:26.828
+<v Tim Pritlove>Ob sie bei einer haben. Ob du denn berechtigt bist.
+
+00:29:27.048 --> 00:29:35.748
+<v Linus Neumann>Ob der Microsoft Windows XP nicht hier mit YKGW diesen einen der das,
+
+00:29:37.044 --> 00:29:44.184
+<v Linus Neumann>dass die Lizenzen, die du da geklickt hast, zu dem Leistungs- und Nutzerinnenumfang
+
+00:29:44.184 --> 00:29:49.044
+<v Linus Neumann>gehören, den du da so verwendest.
+
+00:29:49.444 --> 00:29:59.724
+<v Linus Neumann>Und interessanterweise sind Lizenzierungen bei fortgeschrittenen Produkten so
+
+00:29:59.724 --> 00:30:04.084
+<v Linus Neumann>komplex, dass sie geeignet sind,
+
+00:30:05.683 --> 00:30:08.543
+<v Linus Neumann>dass du schnell entweder dagegen verstößt oder zu viel hast.
+
+00:30:08.683 --> 00:30:12.083
+<v Linus Neumann>Oder sie sind so gebündelt, dass du halt bestimmte Pakete kaufen musst.
+
+00:30:12.643 --> 00:30:17.223
+<v Linus Neumann>Microsoft zum Beispiel hat ja dann, ich bin zum Glück nicht in diesem ganzen
+
+00:30:17.223 --> 00:30:18.483
+<v Linus Neumann>Beschaffungswesen drin.
+
+00:30:18.783 --> 00:30:23.543
+<v Linus Neumann>Aber ich weiß, dass es Firmen gibt, die sich darauf spezialisieren,
+
+00:30:23.623 --> 00:30:28.223
+<v Linus Neumann>die Software-Nutzung von Unternehmen, zum Beispiel, was nicht nur Microsoft,
+
+00:30:28.403 --> 00:30:30.343
+<v Linus Neumann>auch so schöne Sachen wie SAP oder so.
+
+00:30:32.083 --> 00:30:36.623
+<v Linus Neumann>Zu analysieren und für die Workflows und den Bedarf, den sie haben,
+
+00:30:37.143 --> 00:30:41.883
+<v Linus Neumann>günstigere Lizensierungen und Pakete zu finden.
+
+00:30:43.403 --> 00:30:48.843
+<v Linus Neumann>Und ich hätte jetzt nicht gedacht, dass das überhaupt etwas ist, aber es ist etwas.
+
+00:30:49.283 --> 00:30:53.523
+<v Linus Neumann>Es gibt ein Unternehmen, mehrere Unternehmen, die zum Beispiel auch so deine
+
+00:30:53.523 --> 00:30:56.963
+<v Linus Neumann>Cloud-Kosten dann reduzieren.
+
+00:30:57.163 --> 00:31:01.103
+<v Linus Neumann>Und die pitchen das als, wir machen es kostenlos.
+
+00:31:01.883 --> 00:31:06.483
+<v Linus Neumann>Mit anderen Worten, die lassen sich quasi erfolgsbasiert bezahlen.
+
+00:31:06.643 --> 00:31:09.883
+<v Linus Neumann>Und sagen, wir reduzieren deine jährlichen Kosten um 10%.
+
+00:31:10.683 --> 00:31:13.643
+<v Linus Neumann>Und davon hätten wir gerne 1% oder sowas.
+
+00:31:14.243 --> 00:31:21.543
+<v Linus Neumann>Da ist wirklich was drin, dass dieser Lizenz-Dschungel so wild ist,
+
+00:31:21.763 --> 00:31:24.463
+<v Linus Neumann>dass man sich da als Unternehmen nicht drin zurechtfindet.
+
+00:31:24.683 --> 00:31:28.963
+<v Linus Neumann>Und allein das finde ich schon äußerst unterhaltsam. ja, gleichermaßen,
+
+00:31:30.123 --> 00:31:33.543
+<v Linus Neumann>klar, das war vor 10 Jahren haben alle gesagt, ja guck mal wen wir hier alles
+
+00:31:33.543 --> 00:31:36.463
+<v Linus Neumann>rausschmeißen können, wenn wir den Shit in die Cloud kippen und dann haben sie
+
+00:31:36.463 --> 00:31:39.803
+<v Linus Neumann>halt irgendwann gemerkt, oh wird irgendwie teurer und oh jetzt haben wir diesen
+
+00:31:39.803 --> 00:31:44.943
+<v Linus Neumann>Login-Effekt und oh, das sind jetzt Ewigkeitskosten, das zahlen wir jeden Monat ne,
+
+00:31:45.983 --> 00:31:49.203
+<v Linus Neumann>ich, je nachdem was du machst, ist das natürlich sehr verlockend.
+
+00:31:51.843 --> 00:31:55.683
+<v Linus Neumann>Bestimmte Dinge eher als Service zu konsumieren, haben wir ja auch hier zum
+
+00:31:55.683 --> 00:31:59.803
+<v Linus Neumann>Thema AWS Outage und Signal drüber gesprochen.
+
+00:32:01.466 --> 00:32:07.166
+<v Linus Neumann>Aber sehr schön, dass Sie sagen, es ist zwingend erforderlich. Ist es ja auch.
+
+00:32:09.006 --> 00:32:12.586
+<v Linus Neumann>Wir haben uns die ganze Zeit überlegt, wir haben uns, Tim, stell dir mal vor,
+
+00:32:12.926 --> 00:32:15.906
+<v Linus Neumann>wir haben die ganze Zeit gedacht, wir werden irgendwann von China angegriffen
+
+00:32:15.906 --> 00:32:17.166
+<v Linus Neumann>und die schalten den Mobilfunk ab.
+
+00:32:17.626 --> 00:32:22.766
+<v Linus Neumann>Jetzt stell dir aber mal vor, wir werden von Amerika angegriffen und die Berliner
+
+00:32:22.766 --> 00:32:24.946
+<v Linus Neumann>Behörden stehen still. Oh, wait.
+
+00:32:27.586 --> 00:32:30.966
+<v Tim Pritlove>Es gibt auch Leute, die behaupten, das wäre schon passiert.
+
+00:32:31.306 --> 00:32:38.946
+<v Tim Pritlove>Man kann es nicht so richtig messen. Das Papier gibt im Übrigen auch noch ein Ziel aus und das heißt,
+
+00:32:39.526 --> 00:32:45.966
+<v Tim Pritlove>es sollen bis 2032, also binnen von sechs Jahren oder fünf Jahren,
+
+00:32:46.066 --> 00:32:47.906
+<v Tim Pritlove>je nachdem wie man das liest,
+
+00:32:49.106 --> 00:32:55.286
+<v Tim Pritlove>sollen 70 Prozent des Software-Stacks des typischen IKT, also Informations-
+
+00:32:55.286 --> 00:33:00.806
+<v Tim Pritlove>und Kommunikationstechnologie-Arbeitsplatzes, auf Open-Source-Software umgestellt sein.
+
+00:33:03.206 --> 00:33:08.126
+<v Tim Pritlove>Das klingt noch nicht mal komplett unrealistisch. Wenn man das will,
+
+00:33:08.246 --> 00:33:11.266
+<v Tim Pritlove>dann könnte man das in der Zeit tatsächlich hinbekommen.
+
+00:33:12.846 --> 00:33:20.026
+<v Linus Neumann>Ich bin mal gespannt, wie die die 70% berechnen, aber wir jetzt auch nicht in
+
+00:33:20.026 --> 00:33:21.966
+<v Linus Neumann>die Haare spalten gehen.
+
+00:33:22.706 --> 00:33:26.806
+<v Tim Pritlove>Naja, Hauptsache man hat ein Ziel, das ist ja schon mal was.
+
+00:33:28.471 --> 00:33:32.891
+<v Tim Pritlove>War jetzt Berlin nicht unbedingt so bekannt für so viele Maßnahmen.
+
+00:33:34.491 --> 00:33:41.751
+<v Tim Pritlove>Ja, kurzer Blick nach Tschechien. Da gab es eine Entscheidung des obersten Gerichtshofs.
+
+00:33:41.851 --> 00:33:46.051
+<v Tim Pritlove>Und wenn ich das richtig verstehe, bedeutet das in deren System quasi so verfassungsmäßig
+
+00:33:46.051 --> 00:33:51.191
+<v Tim Pritlove>das Höchste, was du da an gerichtlicher Aussage bekommen kannst.
+
+00:33:51.351 --> 00:33:57.311
+<v Tim Pritlove>Aber I don't know, um ehrlich zu sein. Auf jeden Fall hat dieser oberste Gerichtshof
+
+00:33:57.311 --> 00:33:58.591
+<v Tim Pritlove>die Vorratsdatenspeicherung,
+
+00:33:58.731 --> 00:34:05.111
+<v Tim Pritlove>die in diesem Land aktiv betrieben wurde, für rechtswidrig erklärt und einfach
+
+00:34:05.111 --> 00:34:12.211
+<v Tim Pritlove>festgestellt, dass anlasslose und flächendeckende Speicherung nur in Ausnahmefällen zulässig sei.
+
+00:34:12.211 --> 00:34:17.191
+<v Tim Pritlove>Und da würde ja noch nicht mal der Krieg in der Ukraine als Begründung ausreichen,
+
+00:34:17.571 --> 00:34:21.571
+<v Tim Pritlove>was unter anderem natürlich auch angeführt wurde von den Unterstützern.
+
+00:34:21.991 --> 00:34:27.631
+<v Tim Pritlove>Und außerdem würde das ja gegen die E-Privacy-Richtlinie der EU verstoßen.
+
+00:34:27.631 --> 00:34:33.991
+<v Tim Pritlove>Da gab es eine entsprechende Klage gegen diese tschechische Vorratsdatenspeicherung
+
+00:34:33.991 --> 00:34:42.331
+<v Tim Pritlove>von einem Journalisten und der Datenschutzorganisation Juridicum Remedium.
+
+00:34:43.111 --> 00:34:47.091
+<v Tim Pritlove>Jure, die hatten wir glaube ich noch nie erwähnt.
+
+00:34:48.691 --> 00:34:51.331
+<v Tim Pritlove>Ja, das war wohl jetzt erfolgreich.
+
+00:34:53.731 --> 00:34:59.631
+<v Tim Pritlove>Interessant auch, dass das Gericht meint, dass das bloße Gefühl des Überwachtwerdens
+
+00:34:59.631 --> 00:35:05.371
+<v Tim Pritlove>und der damit einhergehende Kontrollverlust über die eigenen Daten könne ja
+
+00:35:05.371 --> 00:35:09.771
+<v Tim Pritlove>schon einen entschädigungspflichtigen immateriellen Schaden darstellen.
+
+00:35:09.771 --> 00:35:14.751
+<v Tim Pritlove>Also schadensersatzpflichtig quasi.
+
+00:35:15.511 --> 00:35:20.731
+<v Tim Pritlove>Interessante Position an der Stelle und nicht nur so ein reines,
+
+00:35:20.931 --> 00:35:23.191
+<v Tim Pritlove>ja, ne, könnt ihr jetzt nicht machen,
+
+00:35:23.711 --> 00:35:30.711
+<v Tim Pritlove>sondern wenn ihr das macht, dann verstoßt ihr so sehr gegen die Rechte der Menschen,
+
+00:35:32.535 --> 00:35:38.235
+<v Tim Pritlove>das quasi wie eine Schadenswirkung aufgefasst werden kann, die dann eben auch
+
+00:35:38.235 --> 00:35:41.615
+<v Tim Pritlove>vielleicht schadensersatzpflichtig wäre.
+
+00:35:44.775 --> 00:35:45.555
+<v Linus Neumann>Okay.
+
+00:35:47.175 --> 00:35:55.035
+<v Tim Pritlove>Ja. Dann haben wir noch ein bisschen was zu AI, weil heute darf kein Podcast
+
+00:35:55.035 --> 00:35:59.175
+<v Tim Pritlove>ohne das Thema ausgeliefert werden.
+
+00:36:00.435 --> 00:36:04.655
+<v Tim Pritlove>Sonst lohnen sich ja die ganzen Investitionen, die wir da jetzt gemacht haben, nicht.
+
+00:36:09.388 --> 00:36:15.528
+<v Tim Pritlove>Und zwar so eine negative Auswirkung. Ich meine, dass wir das auch schon mal,
+
+00:36:16.388 --> 00:36:19.868
+<v Tim Pritlove>das kann sein, haben wir das, glaube ich, wir hatten nochmal diese längere Sendung
+
+00:36:19.868 --> 00:36:23.288
+<v Tim Pritlove>oder tatsächlich sogar zwei Sendungen mit der Feedback-Sendung dazu,
+
+00:36:23.888 --> 00:36:29.368
+<v Tim Pritlove>wo wir uns so im letzten Sommer so über AI mal an sich unterhalten haben und
+
+00:36:29.368 --> 00:36:35.608
+<v Tim Pritlove>wo wir mal ein bisschen geglaskugelt haben und uns mal ein bisschen festgelegt haben.
+
+00:36:35.608 --> 00:36:38.148
+<v Tim Pritlove>Und was ganz interessant sein wird, das mal in ein paar Jahren nachzuhören,
+
+00:36:38.168 --> 00:36:43.268
+<v Tim Pritlove>ob wir denn überhaupt auch nur ansatzweise recht gehabt haben mit unseren Aussagen.
+
+00:36:43.348 --> 00:36:46.888
+<v Tim Pritlove>Aber ich meine, dass es da schon mal anklang. Also, wovon rede ich jetzt?
+
+00:36:47.388 --> 00:36:52.788
+<v Tim Pritlove>Das Projekt Curl, das wird jetzt vielleicht vielen von euch erstmal nichts sagen
+
+00:36:52.788 --> 00:36:58.128
+<v Tim Pritlove>und allen anderen eine ganze Menge. Curl ist so eine Computerprogrammierlibrary
+
+00:36:58.128 --> 00:37:00.488
+<v Tim Pritlove>oder auch ein Kommandozeilentool.
+
+00:37:01.308 --> 00:37:08.968
+<v Tim Pritlove>In dem Curl steckt URL mit drin, das ist die Hauptaufgabe dieses Tools gewesen,
+
+00:37:09.248 --> 00:37:12.548
+<v Tim Pritlove>sprich auf der Kommandozeile eines Computers kann man dann mal so eben sagen,
+
+00:37:13.128 --> 00:37:20.008
+<v Tim Pritlove>hier lad mal, was auch immer der Webserver unter dieser URL ausspuckt und zeig
+
+00:37:20.008 --> 00:37:22.948
+<v Tim Pritlove>mir das an, speichere mir das ab und so weiter.
+
+00:37:22.948 --> 00:37:29.268
+<v Tim Pritlove>Also extrem universelles Tool, was auch mittlerweile deutlich über diesen Bereich
+
+00:37:29.268 --> 00:37:32.208
+<v Tim Pritlove>hinausgeht, auch irgendwie unzählige an Protokollen unterstützt.
+
+00:37:32.288 --> 00:37:35.328
+<v Tim Pritlove>Also so eine Art Schweizer Taschenmesser für die Kommandozeile,
+
+00:37:35.448 --> 00:37:39.008
+<v Tim Pritlove>um irgendwie so mit dem Web und dem Internet an sich zu arbeiten,
+
+00:37:39.108 --> 00:37:43.508
+<v Tim Pritlove>wenn es um Netzwerkprotokolle geht. Und die hatten wie so manche Projekte eine Bug-Bounty.
+
+00:37:43.628 --> 00:37:47.488
+<v Tim Pritlove>Das heißt, wenn man da einen tollen Fehler drin findet, dann wurde das auch
+
+00:37:47.488 --> 00:37:49.968
+<v Tim Pritlove>entlohnt. Also mit Geld und so.
+
+00:37:51.108 --> 00:37:54.728
+<v Tim Pritlove>Und das wird aber jetzt zum Ende des Januars eingestellt, weil...
+
+00:37:56.807 --> 00:38:02.127
+<v Tim Pritlove>Naja, jetzt alle ihre AIs anschmeißen, den Code draufwerfen und dann irgendwelche
+
+00:38:02.127 --> 00:38:06.247
+<v Tim Pritlove>ausführlichen, angeblichen Fehlerberichte generieren, die halt auf der einen
+
+00:38:06.247 --> 00:38:11.647
+<v Tim Pritlove>Seite entweder gar keine richtigen Fehler sind, sondern nur so irgendwelche herbei,
+
+00:38:12.047 --> 00:38:17.047
+<v Tim Pritlove>vielleicht nicht unbedingt halluzinierten, aber stark interpretierungswürdige
+
+00:38:17.047 --> 00:38:19.827
+<v Tim Pritlove>Betrachtungen von Sicherheit enthalten.
+
+00:38:19.827 --> 00:38:23.947
+<v Tim Pritlove>Und dann natürlich darauf aus waren, vor allem diese Kohle abzuziehen,
+
+00:38:24.087 --> 00:38:28.067
+<v Tim Pritlove>also nicht wirklich hilfreich waren und das Projekt ist damit halt einfach komplett
+
+00:38:28.067 --> 00:38:32.627
+<v Tim Pritlove>geflutet worden und sagt, das hat so alles überhaupt gar keinen Sinn,
+
+00:38:32.787 --> 00:38:34.707
+<v Tim Pritlove>deswegen lassen wir das jetzt sein.
+
+00:38:36.527 --> 00:38:38.987
+<v Tim Pritlove>Das ist definitiv keine schöne Entwicklung.
+
+00:38:41.268 --> 00:38:46.068
+<v Linus Neumann>Ja, ich mache mir gerade Sorgen, wie viele Kommentare jetzt kommen und die Bedeutung
+
+00:38:46.068 --> 00:38:51.468
+<v Linus Neumann>von Libcurl betonen gegenüber, was du sagst, ein Kommandozeilen-Tool.
+
+00:38:52.788 --> 00:38:57.508
+<v Linus Neumann>Tatsächlich, glaube ich, ist die viel häufigere Anwendung von Curl als Library
+
+00:38:57.508 --> 00:38:58.888
+<v Linus Neumann>in irgendeinem Softwarepaket,
+
+00:38:59.028 --> 00:39:05.548
+<v Linus Neumann>dass du eben beispielsweise HTTP oder auch LDAP, IMAP und alles mögliche,
+
+00:39:05.628 --> 00:39:07.828
+<v Linus Neumann>SFTP, SMB, was nicht alles sprechen kannst.
+
+00:39:07.828 --> 00:39:13.128
+<v Linus Neumann>Also eine Reihe von Protokollen, die häufig halt, ja.
+
+00:39:13.368 --> 00:39:15.968
+<v Tim Pritlove>23 Protokolle.
+
+00:39:16.148 --> 00:39:16.608
+<v Linus Neumann>Oh, sehr gut.
+
+00:39:16.908 --> 00:39:17.428
+<v Tim Pritlove>Ich habe sie gezählt.
+
+00:39:18.688 --> 00:39:24.728
+<v Linus Neumann>Ja, der Entwickler ist sowieso relativ Daniel Stenberg, relativ aktiv,
+
+00:39:24.948 --> 00:39:27.308
+<v Linus Neumann>also sowieso in der Community bekannt.
+
+00:39:27.428 --> 00:39:30.728
+<v Linus Neumann>Natürlich ist er eben auch der Maintainer einer Software, die sehr,
+
+00:39:30.848 --> 00:39:35.908
+<v Linus Neumann>sehr, sehr viel Verbreitung hat, weil ja die meisten Tools in irgendeiner Weise
+
+00:39:35.908 --> 00:39:38.908
+<v Linus Neumann>mit anderen Computern reden.
+
+00:39:39.228 --> 00:39:42.288
+<v Linus Neumann>Und die Wahrscheinlichkeit, dass man dafür die Curl-Library benutzt,
+
+00:39:42.328 --> 00:39:43.648
+<v Linus Neumann>ist jetzt nicht so gering.
+
+00:39:45.628 --> 00:39:50.528
+<v Linus Neumann>Und er hat schon länger sich darüber, also der hat das so auf Mastodon und so,
+
+00:39:50.748 --> 00:39:53.428
+<v Linus Neumann>habe ich den einen schon länger behandelt, dass ihn das halt nervt,
+
+00:39:53.628 --> 00:39:58.768
+<v Linus Neumann>dass irgendwelche Bots, Bug-Bounties versuchen abzugreifen und so.
+
+00:39:58.768 --> 00:40:02.228
+<v Linus Neumann>Und dass er jetzt quasi, sobald er nicht mehr Bounty steht, ist seine Hoffnung,
+
+00:40:02.268 --> 00:40:05.588
+<v Linus Neumann>dass er die Bots los ist, weil natürlich keiner Tokens dafür ausgibt,
+
+00:40:06.748 --> 00:40:09.628
+<v Linus Neumann>irgendwo Bugs zu fallen, wo man kein Bounty dafür kriegt.
+
+00:40:10.728 --> 00:40:11.208
+<v Tim Pritlove>Ja.
+
+00:40:11.928 --> 00:40:12.368
+<v Linus Neumann>Ja.
+
+00:40:14.488 --> 00:40:18.208
+<v Tim Pritlove>Ja, und dann schalten wir jetzt oben zum Sport.
+
+00:40:20.633 --> 00:40:27.673
+<v Tim Pritlove>Zum Sport. Ja, zum Sport. Wird jetzt ja eh lustig, wenn Trump jetzt irgendwie
+
+00:40:27.673 --> 00:40:33.493
+<v Tim Pritlove>Grönland haben will, dann finde ich, kann man ja auch mal diese FIFA-WM boykottieren.
+
+00:40:33.573 --> 00:40:35.313
+<v Tim Pritlove>Das wäre aber eben eine geile Maßnahme.
+
+00:40:35.493 --> 00:40:37.993
+<v Tim Pritlove>Das wird ihn bestimmt richtig ärgern.
+
+00:40:40.453 --> 00:40:46.293
+<v Tim Pritlove>Aber darum soll es erstmal gar nicht gehen, sondern es geht um ein Fußballspiel.
+
+00:40:46.293 --> 00:40:51.453
+<v Tim Pritlove>Fußballspiel, ein Fußballspiel, was stattgefunden hat im letzten November im
+
+00:40:51.453 --> 00:40:54.193
+<v Tim Pritlove>Rahmen der Europa League.
+
+00:40:54.553 --> 00:40:56.833
+<v Tim Pritlove>Das ist so diese zweite,
+
+00:40:58.893 --> 00:41:05.053
+<v Tim Pritlove>Bundesliga? Ja, also auf europäischer Ebene ist das quasi die zweite Liga. Nach der,
+
+00:41:07.733 --> 00:41:08.673
+<v Tim Pritlove>Champions League.
+
+00:41:10.913 --> 00:41:14.213
+<v Tim Pritlove>Und darunter gibt es dann noch die Conference League, das ist dann die dritte Liga.
+
+00:41:14.333 --> 00:41:15.873
+<v Linus Neumann>Das ist dann die unterste Schublade.
+
+00:41:15.873 --> 00:41:21.933
+<v Tim Pritlove>Ja, ist auch lustig. Hast du interessanteren Dorfvereine am Start,
+
+00:41:22.033 --> 00:41:23.093
+<v Tim Pritlove>wenn du daran teilnehmen kannst.
+
+00:41:23.193 --> 00:41:26.433
+<v Tim Pritlove>Das macht auf jeden Fall deutlich nettere Ausflüge.
+
+00:41:26.433 --> 00:41:31.973
+<v Tim Pritlove>Naja, auf jeden Fall spielten im Rahmen dieser Europa League in Birmingham die
+
+00:41:31.973 --> 00:41:40.773
+<v Tim Pritlove>Vereine von Aston Villa und Maccabi Tel Aviv und das war dann aber nicht so schön,
+
+00:41:41.473 --> 00:41:48.593
+<v Tim Pritlove>weil die Polizei in Birmingham beschlossen hat, dass das alles viel zu gefährlich
+
+00:41:48.593 --> 00:41:51.133
+<v Tim Pritlove>wäre hier mit diesen israelischen Fans.
+
+00:41:51.133 --> 00:41:59.353
+<v Tim Pritlove>Das gibt alles nur Ärger und hat von daher eine Teilnahme der Auswärtsfans verhindert.
+
+00:41:59.513 --> 00:42:03.893
+<v Tim Pritlove>Also haben sozusagen gesagt, das machen wir nicht mit, das wird jetzt hier einfach untersagt.
+
+00:42:03.973 --> 00:42:10.693
+<v Tim Pritlove>Das ist ja leider sowieso ein ganz blöder Trend in Europa, dass Auswärtsbesucher
+
+00:42:10.693 --> 00:42:12.653
+<v Tim Pritlove>von Spielen ausgeschlossen werden.
+
+00:42:13.568 --> 00:42:20.648
+<v Tim Pritlove>Aber die Begründung war halt wiederum mal die Sicherheit und es sei ja hier
+
+00:42:20.648 --> 00:42:23.028
+<v Tim Pritlove>irgendwie mit Protesten zu rechnen.
+
+00:42:23.468 --> 00:42:32.028
+<v Tim Pritlove>Wir erinnern uns da noch etwas aufgeheiztere Stimmung rund um den Israel-Gaza-Konflikt.
+
+00:42:32.028 --> 00:42:39.748
+<v Tim Pritlove>Aber vor allem bezogen die sich auf Vorfälle, ähnliche Vorfälle,
+
+00:42:39.908 --> 00:42:42.788
+<v Tim Pritlove>die es ein Jahr vorher in Amsterdam gegeben hat.
+
+00:42:43.308 --> 00:42:47.648
+<v Tim Pritlove>Und ja, da haben sie auch einen entsprechenden Bericht vorgelegt.
+
+00:42:48.288 --> 00:42:56.048
+<v Tim Pritlove>Und naja, dieser Bericht war dann doch etwas umstritten, weil er ein paar Fehler enthielt.
+
+00:42:57.608 --> 00:42:59.888
+<v Linus Neumann>Unter anderem, dass das nie stattgefunden hat?
+
+00:42:59.888 --> 00:43:05.168
+<v Tim Pritlove>Naja, also doch, diese Ausschreitungen in Amsterdam, die gab es so.
+
+00:43:05.328 --> 00:43:09.548
+<v Tim Pritlove>Allerdings sprachen sie dann von 5000 Einsatzkräften, die vor Ort dann nötig
+
+00:43:09.548 --> 00:43:12.048
+<v Tim Pritlove>gewesen wären. Es waren aber nur 1200.
+
+00:43:13.168 --> 00:43:17.228
+<v Tim Pritlove>Irgendwelche israelischen Fans hätten Muslime angegriffen und in den Fluss geworfen.
+
+00:43:17.688 --> 00:43:20.488
+<v Tim Pritlove>Das gibt es auch keinen Beleg dafür.
+
+00:43:21.628 --> 00:43:25.208
+<v Tim Pritlove>Und es ging aber noch ein bisschen weiter, indem sie auch noch andere Spiele
+
+00:43:25.208 --> 00:43:30.568
+<v Tim Pritlove>zitiert haben, wo es auch schon Ärger gab, nämlich jetzt konkret mit Maccabi Tel Aviv.
+
+00:43:30.808 --> 00:43:33.428
+<v Tim Pritlove>Also in Amsterdam, das war glaube ich eine andere Mannschaft,
+
+00:43:33.528 --> 00:43:34.788
+<v Tim Pritlove>das weiß ich jetzt gerade gar nicht.
+
+00:43:35.388 --> 00:43:42.428
+<v Tim Pritlove>Unter anderem monierten sie ein im November 23 durchgeführtes Spiel von West
+
+00:43:42.428 --> 00:43:44.648
+<v Tim Pritlove>Ham United gegen Maccabi Tel Aviv.
+
+00:43:44.748 --> 00:43:46.588
+<v Linus Neumann>Das war ganz schlimm damals.
+
+00:43:47.550 --> 00:43:48.730
+<v Linus Neumann>Das ist ja gar nicht stattgefunden, oder?
+
+00:43:48.970 --> 00:43:54.170
+<v Tim Pritlove>Nee, Maccabi Tel Aviv hat in den letzten 25 Jahren kein Spiel gegen West Ham United gemacht.
+
+00:43:54.470 --> 00:43:57.230
+<v Tim Pritlove>Und ich glaube auch davor, ich glaube, es gab noch nie eins.
+
+00:43:58.670 --> 00:43:59.550
+<v Tim Pritlove>Und ja,
+
+00:44:01.550 --> 00:44:05.730
+<v Tim Pritlove>und dementsprechend wurde dann schon immer gemunkelt. Ja, mit habt ihr da vielleicht,
+
+00:44:06.690 --> 00:44:09.110
+<v Tim Pritlove>ein bisschen mit der AI rumgespielt.
+
+00:44:09.250 --> 00:44:13.090
+<v Tim Pritlove>Und er so, nee, nee, auf gar keinen Fall. Wir haben das alles gegoogelt.
+
+00:44:14.470 --> 00:44:19.270
+<v Tim Pritlove>Also sozusagen total zuverlässige Quellen benutzt.
+
+00:44:19.670 --> 00:44:23.830
+<v Tim Pritlove>Naja, wie ihr euch schon denken könnt, mussten sie jetzt eingestehen,
+
+00:44:23.910 --> 00:44:26.430
+<v Tim Pritlove>dass dann doch zur Überarbeitung dann doch...
+
+00:44:26.430 --> 00:44:29.690
+<v Linus Neumann>Redaktionelle Überarbeitung, das ist immer nur redaktionelle Überarbeitung.
+
+00:44:29.890 --> 00:44:33.130
+<v Tim Pritlove>Und kam dann halt auch nochmal so, wegen der Flüchtigkeitsfehler und so,
+
+00:44:33.650 --> 00:44:40.870
+<v Tim Pritlove>kam dann doch Co-Pilot zum Einsatz von Microsoft und tja, da hat ihn wohl die
+
+00:44:40.870 --> 00:44:45.930
+<v Tim Pritlove>AI ein paar Fakten hinein halluziniert und jetzt ist natürlich die Aufregung groß.
+
+00:44:46.030 --> 00:44:49.150
+<v Tim Pritlove>Ich weiß gar nicht, ob ja schon gekündigt wurde, der Polizeichef,
+
+00:44:49.250 --> 00:44:51.510
+<v Tim Pritlove>aber ich glaube, das steht jetzt unmittelbar an.
+
+00:44:54.590 --> 00:44:55.950
+<v Tim Pritlove>Tja, so ist es halt.
+
+00:44:56.450 --> 00:45:00.850
+<v Linus Neumann>Ist nicht immer schlecht, wenn die Polizei AI benutzt, ja? Wenn da nachher einer.
+
+00:45:00.850 --> 00:45:02.910
+<v Linus Neumann>Den Hut nimmt, ist ja auch nicht so verkehrt.
+
+00:45:03.670 --> 00:45:07.450
+<v Tim Pritlove>Ja, vielleicht. Ein bisschen Innovationskraft. Vielleicht. Ich weiß ja nicht,
+
+00:45:07.530 --> 00:45:12.150
+<v Tim Pritlove>ob das jetzt generell ein nicht so wünschenswerter Polizeichef war oder ob das
+
+00:45:12.150 --> 00:45:17.850
+<v Tim Pritlove>jetzt quasi einfach einen Fehlgriff war, der Konsequenzen hatte.
+
+00:45:18.250 --> 00:45:20.910
+<v Tim Pritlove>Auf jeden Fall, ich habe so den Eindruck,
+
+00:45:23.977 --> 00:45:28.837
+<v Tim Pritlove>Ich kann mir vorstellen, dass wir dieses Jahr noch einiges in diese Richtung
+
+00:45:28.837 --> 00:45:35.497
+<v Tim Pritlove>hören und dass dann so langsam aber sicher wahrscheinlich so ein kollektives Lernen einsetzen wird,
+
+00:45:35.697 --> 00:45:40.597
+<v Tim Pritlove>wo man so feststellt, vielleicht nicht für diese Art von Anwendungen,
+
+00:45:40.757 --> 00:45:43.077
+<v Tim Pritlove>lieber für andere Anwendungen.
+
+00:45:43.077 --> 00:45:47.497
+<v Tim Pritlove>Also dass man jetzt mal lernt, mit diesen Werkzeugen, die ja manchmal ganz hilfreich
+
+00:45:47.497 --> 00:45:52.417
+<v Tim Pritlove>sein können, umzugehen, aber auf gar keinen Fall Faktenberichte damit überarbeiten
+
+00:45:52.417 --> 00:45:54.597
+<v Tim Pritlove>lassen, das macht sich gar nicht gut.
+
+00:45:57.357 --> 00:46:01.957
+<v Tim Pritlove>Ja, jetzt haben wir noch einen Termin noch zu verkünden.
+
+00:46:02.237 --> 00:46:02.577
+<v Linus Neumann>Oh ja.
+
+00:46:02.837 --> 00:46:09.857
+<v Tim Pritlove>Ja, und zwar ist ja Winter. Dann kann man ja auch auf einen Winterkongress gehen.
+
+00:46:09.997 --> 00:46:12.217
+<v Tim Pritlove>Gibt es nämlich einen in der Schweiz.
+
+00:46:12.497 --> 00:46:19.697
+<v Tim Pritlove>Der Winterkongress der digitalen Gesellschaft. Eine kleine, feine Schweizer Version des C3.
+
+00:46:21.957 --> 00:46:22.617
+<v Linus Neumann>Okay.
+
+00:46:23.117 --> 00:46:27.257
+<v Tim Pritlove>Bold move. findet statt am 20. und 21.
+
+00:46:27.897 --> 00:46:31.917
+<v Tim Pritlove>Februar 2026 in der Roten Fabrik in Zürich.
+
+00:46:32.157 --> 00:46:37.857
+<v Tim Pritlove>Drei parallele Tracks mit 30 Vorträgen und Workshops und eine Keynote von Sophie
+
+00:46:37.857 --> 00:46:39.717
+<v Tim Pritlove>Achermann, die ich nicht kenne.
+
+00:46:40.317 --> 00:46:44.377
+<v Tim Pritlove>Und zum Ausklang noch eine Jubiläumsveranstaltung zum 15. Geburtstag der digitalen
+
+00:46:44.377 --> 00:46:45.537
+<v Tim Pritlove>Gesellschaft. Na bitte.
+
+00:46:47.617 --> 00:46:48.337
+<v Tim Pritlove>15.
+
+00:46:48.697 --> 00:46:49.417
+<v Linus Neumann>Geburtstag?
+
+00:46:49.537 --> 00:46:49.997
+<v Tim Pritlove>15.
+
+00:46:50.457 --> 00:46:51.857
+<v Linus Neumann>Okay, ich wollte gerade sagen.
+
+00:46:51.857 --> 00:46:58.577
+<v Tim Pritlove>1, 5, nein, nein. Genau, findet ihr alles unter winterkongress.cz.
+
+00:47:01.402 --> 00:47:08.782
+<v Linus Neumann>Sophie Achermann ist Expertin für öffentlichen Diskurs, Co-Gründerin und Geschäftsführerin
+
+00:47:08.782 --> 00:47:11.522
+<v Linus Neumann>der Public Discourse Foundation, eine Stiftung,
+
+00:47:12.222 --> 00:47:18.002
+<v Linus Neumann>welche die Erforschung und Stärkung des öffentlichen Diskurses im Internet bezweckt.
+
+00:47:21.582 --> 00:47:25.342
+<v Linus Neumann>Laut Wikipedia. Herzlichen Glückwunsch, Wikipedia. 25. Geburtstag.
+
+00:47:26.002 --> 00:47:26.742
+<v Tim Pritlove>Hm, stimmt.
+
+00:47:27.582 --> 00:47:30.742
+<v Linus Neumann>Siehst du? Ich habe gedacht, ich bringe noch eine Wikipedia unter. Zack.
+
+00:47:30.742 --> 00:47:32.262
+<v Tim Pritlove>Haben wir das überhaupt schon gewürdigt?
+
+00:47:32.862 --> 00:47:35.802
+<v Linus Neumann>Nee, ich glaube, wir haben letztes Mal den 10-Jährigen und 15-Jährigen gewürdigt.
+
+00:47:36.642 --> 00:47:42.502
+<v Linus Neumann>Und dann erzählst du immer, ja, und damals Wikipedia und im Chaos-Radio haben
+
+00:47:42.502 --> 00:47:45.902
+<v Linus Neumann>wir einen Wikipedia-Artikel gelesen und Pfeffer hat angerufen.
+
+00:47:46.502 --> 00:47:49.562
+<v Tim Pritlove>Nein, Pfeffer hat nicht angerufen. Wir haben keinen Wikipedia-Artikel gelesen,
+
+00:47:49.682 --> 00:47:51.742
+<v Tim Pritlove>wir haben einen geschrieben.
+
+00:47:52.762 --> 00:47:54.062
+<v Linus Neumann>Das geht ja heute nicht mehr.
+
+00:47:54.402 --> 00:47:54.762
+<v Tim Pritlove>Editiert.
+
+00:47:55.242 --> 00:47:59.542
+<v Linus Neumann>Oh! Das geht heute auch nicht mehr. Ich habe das sofort geblockt.
+
+00:47:59.542 --> 00:48:00.982
+<v Tim Pritlove>Hast du die mal gehört, die Folge?
+
+00:48:01.602 --> 00:48:03.362
+<v Linus Neumann>Ja, vor 15 Jahren oder wann. Die
+
+00:48:03.362 --> 00:48:08.122
+<v Linus Neumann>habe ich gehört, als Wikipedia gegründet wurde. Nee, ich höre sie mir an.
+
+00:48:08.262 --> 00:48:13.082
+<v Tim Pritlove>Wikipedia wurde drei Jahre vorher gegründet. Ich kann dir sehr empfehlen.
+
+00:48:13.162 --> 00:48:17.462
+<v Tim Pritlove>Chaos Radio 91, meine absolute Lieblingsfolge von Chaos Radio.
+
+00:48:18.022 --> 00:48:19.822
+<v Tim Pritlove>Weil die so schön...
+
+00:48:19.822 --> 00:48:24.362
+<v Linus Neumann>Was habt ihr denn editiert? Habt ihr wenigstens einen ordentlichen Edit-War gestartet?
+
+00:48:24.962 --> 00:48:29.882
+<v Tim Pritlove>Ja, alles. Das war ja das Geile daran. Also wir hatten ja irgendwie zwei von
+
+00:48:29.882 --> 00:48:33.082
+<v Tim Pritlove>dem frühen deutschen Wikipedia-Team dabei.
+
+00:48:33.082 --> 00:48:34.722
+<v Linus Neumann>Da hast du deinen Doktor-Titel.
+
+00:48:37.002 --> 00:48:41.262
+<v Tim Pritlove>Nee, das war sehr lustig, weil wir uns eben, ich meine, du weißt ja,
+
+00:48:41.442 --> 00:48:43.902
+<v Tim Pritlove>damals war sozusagen alles neu.
+
+00:48:44.102 --> 00:48:49.082
+<v Tim Pritlove>So dieses, wie man kann das selber editieren und so weiter, diese ganzen Fragen kamen natürlich.
+
+00:48:49.362 --> 00:48:55.082
+<v Tim Pritlove>Und zu dem Zeitpunkt war ja auch diese Wikipedia-Community ja noch sehr überschaubar
+
+00:48:55.082 --> 00:48:58.322
+<v Tim Pritlove>groß. Also das Bestand von, was weiß ich, vielleicht aus...
+
+00:48:58.892 --> 00:49:02.412
+<v Tim Pritlove>Keine Ahnung, zweistellige Zahl von aktiven Leuten, wenn überhaupt.
+
+00:49:03.212 --> 00:49:06.512
+<v Tim Pritlove>Und die hörten natürlich dann auch alle live bei dieser Sendung zu.
+
+00:49:07.352 --> 00:49:11.452
+<v Tim Pritlove>Und dann kam irgendwann Holgi und meinte so, wie, ich kann jetzt hier irgendwie
+
+00:49:11.452 --> 00:49:15.292
+<v Tim Pritlove>alles editieren? Ja, klar. Dann drückst du auf Edit und dann schreibst da was rein.
+
+00:49:15.812 --> 00:49:18.492
+<v Tim Pritlove>Kann ich jetzt hier reinschreiben? Gott ist doof oder was?
+
+00:49:19.172 --> 00:49:20.932
+<v Tim Pritlove>Und wir so, ja, könntest du machen.
+
+00:49:21.632 --> 00:49:25.332
+<v Tim Pritlove>Dann mach ich das mal. Und dann fing er da an, irgendwie mit seinem Windows
+
+00:49:25.332 --> 00:49:29.332
+<v Tim Pritlove>3.11 irgendwie rum zu hantieren versucht, irgendwie diese Webseite zu machen,
+
+00:49:29.632 --> 00:49:30.872
+<v Tim Pritlove>während wir uns weiter unterhielten.
+
+00:49:30.972 --> 00:49:35.632
+<v Tim Pritlove>Und dann kam er dann irgendwann auf diese Webseite und meinte so, das steht da schon.
+
+00:49:37.212 --> 00:49:40.812
+<v Tim Pritlove>Und weil wir halt live on air waren, da hat es halt irgendeiner reingeschrieben.
+
+00:49:41.312 --> 00:49:46.592
+<v Tim Pritlove>Woraufhin dann aber zwei Minuten später irgendwie, weil natürlich auch alle
+
+00:49:46.592 --> 00:49:49.112
+<v Tim Pritlove>Admins zugehört haben, haben sie dann die Seite gesperrt.
+
+00:49:49.352 --> 00:49:53.952
+<v Tim Pritlove>Also wir konnten sozusagen in dieser Sendung diese vollständige Dynamik,
+
+00:49:54.072 --> 00:49:58.912
+<v Tim Pritlove>wie so Wikipedia funktioniert, konnten wir einfach so live durchziehen. Das war grandios.
+
+00:49:59.132 --> 00:50:04.292
+<v Linus Neumann>Ich dachte, sie hätten festgestellt, dass dein Beleg fehlt. Dass es Gott gibt.
+
+00:50:04.832 --> 00:50:12.132
+<v Tim Pritlove>Es gibt sogar diesen Link auf diesen Edit. Der ist ja noch in der Datenbank drin.
+
+00:50:13.012 --> 00:50:16.032
+<v Tim Pritlove>Und das war alles ganz lustig.
+
+00:50:16.612 --> 00:50:17.172
+<v Linus Neumann>Verstehe.
+
+00:50:22.443 --> 00:50:27.723
+<v Tim Pritlove>Das war's dann heute. Heute haben wir nicht so viel zu erzählen.
+
+00:50:28.043 --> 00:50:33.383
+<v Linus Neumann>Nicht so viel passiert. Wir warten immer noch auf die Grünland-Invasion und
+
+00:50:33.383 --> 00:50:35.063
+<v Linus Neumann>dann haben wir wieder mehr Themen.
+
+00:50:35.983 --> 00:50:46.023
+<v Tim Pritlove>Sei mutig! Wikipedia! Das war ja immer das Motto der Wikipedia.
+
+00:50:46.663 --> 00:50:47.603
+<v Linus Neumann>Sei mutig?
+
+00:50:47.783 --> 00:50:48.063
+<v Tim Pritlove>Ja.
+
+00:50:48.963 --> 00:50:51.043
+<v Linus Neumann>Das muss aber lange her sein.
+
+00:50:52.643 --> 00:50:57.743
+<v Tim Pritlove>Wir reden von einer Sendung vom 28. April 2004.
+
+00:50:58.683 --> 00:51:00.723
+<v Linus Neumann>Sei mutig, war das Motto der Wikipedia?
+
+00:51:01.103 --> 00:51:05.623
+<v Tim Pritlove>Ja, sei mutig, schreib rein, gestalte mit, editiere, trage bei.
+
+00:51:05.623 --> 00:51:10.503
+<v Linus Neumann>Man musste den Leuten noch antrainieren, Sachen ins Internet reinzutun.
+
+00:51:10.623 --> 00:51:11.223
+<v Tim Pritlove>Ja, stimmt.
+
+00:51:11.643 --> 00:51:15.323
+<v Linus Neumann>Das war nicht normal. Das war anfänglich, hat man Internet geguckt.
+
+00:51:16.023 --> 00:51:18.963
+<v Linus Neumann>Das war, wie mit dem Fernseher kann ich interagieren.
+
+00:51:19.903 --> 00:51:20.303
+<v Tim Pritlove>Ja.
+
+00:51:20.423 --> 00:51:22.603
+<v Linus Neumann>Und jetzt wie im Moment, ich kann da was reinschreiben. Ja, stimmt,
+
+00:51:22.723 --> 00:51:24.363
+<v Linus Neumann>das musste man, also kann man sich gar nicht vorstellen.
+
+00:51:24.463 --> 00:51:28.743
+<v Linus Neumann>Heute kriegst du Leute nicht davon weg, dass sie was ins Internet reinmachen.
+
+00:51:30.283 --> 00:51:30.683
+<v Linus Neumann>Na?
+
+00:51:30.963 --> 00:51:31.063
+<v Tim Pritlove>Ja.
+
+00:51:31.823 --> 00:51:35.103
+<v Linus Neumann>Jetzt, früher, haben sie sich geziert.
+
+00:51:37.263 --> 00:51:43.383
+<v Linus Neumann>Also, wobei, sage ich mal, Leuten zu ihrem möglichen Wissen irgendwo ins Internet
+
+00:51:43.383 --> 00:51:45.343
+<v Linus Neumann>schreiben zu können. Und dann so, hier, weißt du was?
+
+00:51:45.463 --> 00:51:48.443
+<v Linus Neumann>Schreib das mal da rein. Mansplaining bitte da lang.
+
+00:51:50.263 --> 00:51:53.803
+<v Linus Neumann>Also hat sich jetzt ein Erfolgsmodell. Das hat lange Zeit Kräfte gebunden.
+
+00:51:54.243 --> 00:51:57.623
+<v Linus Neumann>Jetzt ist die Wikipedia so ein bisschen fertig, oder? Also ist sie fertig geschrieben?
+
+00:51:58.563 --> 00:51:59.483
+<v Tim Pritlove>Ach, Quatsch.
+
+00:52:00.023 --> 00:52:04.963
+<v Linus Neumann>3.089.872 Artikel in deutscher Sprache.
+
+00:52:05.523 --> 00:52:08.963
+<v Linus Neumann>Könnte man jetzt eigentlich mal mit einer AI noch ein paar dazuschreiben lassen.
+
+00:52:10.403 --> 00:52:13.883
+<v Linus Neumann>Und ein paar Englisch übersetzen. Ja,
+
+00:52:17.041 --> 00:52:21.061
+<v Linus Neumann>Also die Wikipedia hat natürlich tatsächlich, auch für die Wikipedia,
+
+00:52:21.341 --> 00:52:22.481
+<v Linus Neumann>ist AI jetzt ein Problem.
+
+00:52:22.701 --> 00:52:27.821
+<v Linus Neumann>Sie ist das primäre Lehrmaterial für jedes LLM. Das erste, was man dem Ding
+
+00:52:27.821 --> 00:52:29.701
+<v Linus Neumann>sagt, so ja hier, lies mal bitte kurz Wissen der Welt.
+
+00:52:30.681 --> 00:52:35.101
+<v Linus Neumann>Und dann sagt Bescheid, dann bestehen wir hier kurz die Abiturprüfung und dann
+
+00:52:35.101 --> 00:52:36.341
+<v Linus Neumann>können wir weiterreden.
+
+00:52:37.681 --> 00:52:41.081
+<v Linus Neumann>Gleichermaßen haben sie natürlich Herausforderungen wie,
+
+00:52:42.801 --> 00:52:49.961
+<v Linus Neumann>also für wen sie das da machen, als spendenbasiertes Community-Projekt von besonderer
+
+00:52:49.961 --> 00:52:55.421
+<v Linus Neumann>Relevanz, das aber jetzt eben auch droht, von seinen künstlich intelligenten
+
+00:52:55.421 --> 00:52:57.441
+<v Linus Neumann>Leserinnen gefressen zu werden.
+
+00:52:59.921 --> 00:53:03.681
+<v Linus Neumann>Hast du schon deine AI-Learning-Materialspende dieses Jahr gemacht?
+
+00:53:03.781 --> 00:53:09.741
+<v Linus Neumann>Normalerweise bettelt da ja immer so ein Jimmy Wales in den Weihnachtsmonaten.
+
+00:53:09.961 --> 00:53:16.881
+<v Tim Pritlove>Eine AI-Spende? Ich habe jetzt erstmal gerade den Edit hier, wo Gott tot ist, genau.
+
+00:53:17.641 --> 00:53:18.341
+<v Linus Neumann>Tot oder doof?
+
+00:53:18.681 --> 00:53:23.921
+<v Tim Pritlove>Tot. Ich hatte doof in Erinnerung. Gott ist tot. Stand dann da auf einmal drin.
+
+00:53:25.881 --> 00:53:27.621
+<v Tim Pritlove>Findet hier alles in den tollen...
+
+00:53:27.621 --> 00:53:30.761
+<v Linus Neumann>Ich bin mir sehr sicher, dass das entweder in einem Artikel zu,
+
+00:53:34.201 --> 00:53:36.081
+<v Linus Neumann>wahrscheinlich Nietzsche drinstehen sollte.
+
+00:53:38.518 --> 00:53:40.698
+<v Tim Pritlove>Was? Dass Gott doof ist oder tot?
+
+00:53:42.278 --> 00:53:49.658
+<v Linus Neumann>Ja. Also tot. Und dann oder in, also sprach Zarathustra, oder?
+
+00:53:50.198 --> 00:53:50.798
+<v Tim Pritlove>Naja.
+
+00:53:51.498 --> 00:53:53.618
+<v Linus Neumann>Das ist auf jeden Fall die Quellenangabe dazu.
+
+00:53:53.958 --> 00:54:00.678
+<v Tim Pritlove>Geistwesen. Wolkenwesen. Leute, es zählen nur Podcasts.
+
+00:54:00.778 --> 00:54:03.358
+<v Tim Pritlove>Das sind die einzigen Götter, die ihr verehren müsst.
+
+00:54:05.338 --> 00:54:06.118
+<v Linus Neumann>So, so.
+
+00:54:06.398 --> 00:54:12.518
+<v Tim Pritlove>So sieht das aus. Leute, das war's. Euer Laubbuch Nespolitik von heute.
+
+00:54:14.138 --> 00:54:16.398
+<v Tim Pritlove>Ja, sagen wir Tschüss, oder?
+
+00:54:17.918 --> 00:54:18.478
+<v Linus Neumann>Ciao, ciao.

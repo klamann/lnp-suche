@@ -1,0 +1,3278 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP510 Unvorhergesehene Betriebszustände
+Publishing Date: 2024-12-21T21:23:57+01:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp510-unvorhergesehene-betriebszustaende
+
+00:00:00.005 --> 00:00:00.985
+<v Tim Pritlove>Guten Morgen, Linus.
+
+00:00:01.065 --> 00:00:01.705
+<v Linus Neumann>Guten Morgen, Tim.
+
+00:00:03.125 --> 00:00:05.705
+<v Tim Pritlove>Nur LNP kann Deutschland retten.
+
+00:00:06.025 --> 00:00:11.985
+<v Linus Neumann>Danke, Tim. Der Linus-Neumann-Podcast LNP ist in der Tat die einzige Alternative für unser Land.
+
+00:00:12.165 --> 00:00:14.285
+<v Linus Neumann>Unsere letzte Rettung, wenn du mich fragst.
+
+00:00:35.845 --> 00:00:42.485
+<v Tim Pritlove>Logbuch Netzpolitik Nummer 510 vom 21.12.2024.
+
+00:00:42.825 --> 00:00:48.385
+<v Tim Pritlove>Quasi eure Weihnachtssendung, eure letzte Rettung im Übrigen auch noch.
+
+00:00:48.525 --> 00:00:51.145
+<v Tim Pritlove>Also ihr seid für unser Land.
+
+00:00:52.525 --> 00:00:58.225
+<v Tim Pritlove>Und wenn es nur die mentale Brücke ins nächste Jahr ist, wäre auch schon mal was.
+
+00:00:58.885 --> 00:01:02.785
+<v Tim Pritlove>Und die Ansprüche sinken mit der Zahl so ein bisschen, oder?
+
+00:01:03.085 --> 00:01:07.025
+<v Tim Pritlove>Oder glaubst du, dass du noch mehr retten kannst?
+
+00:01:07.025 --> 00:01:12.585
+<v Linus Neumann>Ich hoffe einfach, dass Christian Lindner mit seinem Kopf im Arsch von Elon Musk stecken bleibt.
+
+00:01:14.325 --> 00:01:14.885
+<v Tim Pritlove>Ja.
+
+00:01:17.585 --> 00:01:18.145
+<v Tim Pritlove>Genau.
+
+00:01:20.025 --> 00:01:24.105
+<v Linus Neumann>Es ist so erbärmlich. Es ist so erbärmlich.
+
+00:01:24.365 --> 00:01:25.725
+<v Tim Pritlove>Es ist wirklich erbärmlich.
+
+00:01:27.318 --> 00:01:33.558
+<v Tim Pritlove>Also die Shitshow haben wir jetzt auch in Deutschland und das ist einfach mal
+
+00:01:33.558 --> 00:01:35.678
+<v Tim Pritlove>wirklich so niedrig auch,
+
+00:01:35.818 --> 00:01:44.038
+<v Tim Pritlove>wie sie alle dieses republikanische Playbook jetzt abspielen mit Fake News und Doomsday.
+
+00:01:45.218 --> 00:01:50.498
+<v Tim Pritlove>Also das ist wirklich das Schlimme, dass sie einfach auch alle irgendwie am Ende mal wieder so,
+
+00:01:52.998 --> 00:01:56.398
+<v Tim Pritlove>diese Weltuntergangsstimmung mit anheizen und damit einfach auch nur dieses
+
+00:01:56.398 --> 00:02:03.738
+<v Tim Pritlove>AfD-Narrativ bedienen und am Ende werden sie sehen, was dabei rauskommt. Wir können also,
+
+00:02:05.858 --> 00:02:12.458
+<v Tim Pritlove>nur hoffen, dass jetzt die nächste Wahl noch nicht die Wahl ist,
+
+00:02:12.518 --> 00:02:13.618
+<v Tim Pritlove>wo alles auseinanderbricht.
+
+00:02:15.378 --> 00:02:18.318
+<v Tim Pritlove>Ist ein bisschen schwierig, Berufsoptimist zu bleiben.
+
+00:02:19.478 --> 00:02:24.878
+<v Tim Pritlove>Also das war noch nie so schwer wie heute. Und von daher, ja.
+
+00:02:25.798 --> 00:02:31.078
+<v Tim Pritlove>Anyway, wir wollten euch auf jeden Fall nochmal eine Sendung liefern und ich
+
+00:02:31.078 --> 00:02:36.818
+<v Tim Pritlove>sage herzlich willkommen in deinem Podcast, Linus. Schön, dass du da bist.
+
+00:02:36.838 --> 00:02:38.018
+<v Linus Neumann>Der einzige Alternative für unser Land.
+
+00:02:39.018 --> 00:02:44.278
+<v Tim Pritlove>Die letzte Rettung. Ja, ist auch ganz gut, dass der Linus Neumann-Podcast auch
+
+00:02:44.278 --> 00:02:46.418
+<v Tim Pritlove>mal den Linus Neumann wieder dabei hat.
+
+00:02:47.598 --> 00:02:51.338
+<v Tim Pritlove>Also, ich habe ja alles probiert, da meine Stimme zu verstellen,
+
+00:02:51.438 --> 00:02:52.538
+<v Tim Pritlove>aber es ist mir irgendwie nicht gelungen.
+
+00:02:53.238 --> 00:02:59.418
+<v Linus Neumann>Ja, ich freue mich auch, dass ich wieder hier sein kann. Und möchte an dieser
+
+00:02:59.418 --> 00:03:05.398
+<v Linus Neumann>Stelle, glaube ich, einfach mal ein paar Leuten danken, die in diesem Jahr,
+
+00:03:05.638 --> 00:03:07.038
+<v Linus Neumann>auf das wir jetzt zurückblicken,
+
+00:03:08.758 --> 00:03:10.978
+<v Linus Neumann>hier den Podcast am Leben gehalten haben.
+
+00:03:10.978 --> 00:03:15.738
+<v Linus Neumann>Allen voran natürlich Thomas Lohninger, der mich hier öfter vertreten hat,
+
+00:03:15.838 --> 00:03:17.678
+<v Linus Neumann>als dass wir gemeinsam in der Sendung waren.
+
+00:03:20.757 --> 00:03:26.137
+<v Linus Neumann>Und das immer sehr gut macht. Du hast gesagt, ich soll nicht mehr zu Spenden
+
+00:03:26.137 --> 00:03:27.997
+<v Linus Neumann>für Epicenter aufrufen. Die haben ihre Kohle zusammen.
+
+00:03:29.117 --> 00:03:36.157
+<v Linus Neumann>Hört auf. Hier gibt es nichts zu spenden. Leiten Sie alles Geld um zur Meta-Ebene.
+
+00:03:37.557 --> 00:03:41.997
+<v Linus Neumann>Thomas, auch beim 38C3, ich glaube sogar mit zwei Vorträgen vertreten.
+
+00:03:42.257 --> 00:03:43.097
+<v Tim Pritlove>Naja, das ist fleißig.
+
+00:03:43.977 --> 00:03:54.677
+<v Linus Neumann>Und dann hatten wir drei profilierte Antifaschisten. in dieser Sendung Jean Peters bekannt.
+
+00:03:55.357 --> 00:03:57.557
+<v Tim Pritlove>Von der Korrektivrecherche.
+
+00:03:58.157 --> 00:04:04.157
+<v Linus Neumann>Arne Semsrott das Buch quasi wie die Nazis aufgeschrieben hat,
+
+00:04:04.277 --> 00:04:07.657
+<v Linus Neumann>wie sie den Laden hier übernehmen können, wenn sie an die Macht kommen und dass
+
+00:04:07.657 --> 00:04:12.397
+<v Linus Neumann>wir halt einfach schon mal Bescheid wissen, was dann passiert auch super lieb,
+
+00:04:12.997 --> 00:04:17.337
+<v Linus Neumann>voll nett auch beim 38C3, Arne Semsrott sind wir beim 38C3,
+
+00:04:18.757 --> 00:04:23.117
+<v Linus Neumann>Und dann hat mir Stefan Pelzer vom Zentrum für politische Schönheit,
+
+00:04:23.217 --> 00:04:28.517
+<v Linus Neumann>der erste Bundeskanzler, den man mit einer KI komplett,
+
+00:04:28.657 --> 00:04:33.937
+<v Linus Neumann>also mit einfachsten, mit Bordmitteln komplett ersetzen konnte, hat das ZBS gemacht.
+
+00:04:33.937 --> 00:04:37.097
+<v Linus Neumann>Wer weiß, ob das ZBS beim 38C3 ist. Wer weiß.
+
+00:04:38.417 --> 00:04:39.297
+<v Tim Pritlove>Man wisst es nicht.
+
+00:04:39.657 --> 00:04:46.177
+<v Linus Neumann>Wer weiß, ja. Dann hatten wir Sabrina Geder zu Gast mit dem Bundestagszusammenfasser
+
+00:04:46.177 --> 00:04:47.277
+<v Linus Neumann>und der Parlamentsrevue.
+
+00:04:47.517 --> 00:04:50.577
+<v Linus Neumann>Den höre ich übrigens auch sehr gerne in dem Podcast. Den kann man eigentlich mal empfehlen.
+
+00:04:51.477 --> 00:04:55.197
+<v Tim Pritlove>Den kann man, haben wir schon empfohlen. Also ich zumindest.
+
+00:04:55.777 --> 00:04:59.677
+<v Tim Pritlove>Kann man auf jeden Fall nochmal machen. Sehr unterhaltsam, was Sabrina da macht.
+
+00:04:59.797 --> 00:05:04.397
+<v Tim Pritlove>Und auch sehr hilfreich, was die Webseite Bundestagszusammenfasser macht,
+
+00:05:04.497 --> 00:05:09.437
+<v Tim Pritlove>weil es passt einfach, wie der Name schon sagt, den Bundestag ganz wunderbar zusammen.
+
+00:05:09.877 --> 00:05:14.777
+<v Tim Pritlove>Und das hat mir nicht selten sehr aus der Patsche geholfen, wenn ich mal mir
+
+00:05:14.777 --> 00:05:17.337
+<v Tim Pritlove>die Frage gestellt habe, wie hieß dieses scheiß Gesetz nochmal?
+
+00:05:17.737 --> 00:05:19.597
+<v Tim Pritlove>In welchem Zustand? Ist das jetzt eigentlich schon beschlossen?
+
+00:05:21.597 --> 00:05:25.317
+<v Tim Pritlove>Was ist das überhaupt für ein Gesetz? Wer hat denn da überhaupt zuzustimmen?
+
+00:05:25.517 --> 00:05:28.597
+<v Tim Pritlove>All diese ganzen Fragen, was man normalerweise so nicht parat hat,
+
+00:05:28.717 --> 00:05:32.617
+<v Tim Pritlove>weil man keine Ahnung hat oder die Begriffe durcheinander bekommt oder einfach
+
+00:05:32.617 --> 00:05:41.097
+<v Tim Pritlove>nicht aufgepasst hat in der Schule und das ist insofern ein sehr lohnenswertes
+
+00:05:41.097 --> 00:05:43.917
+<v Tim Pritlove>und dankenswertes Projekt und.
+
+00:05:45.335 --> 00:05:49.695
+<v Linus Neumann>Dann hatten wir Markus Reuter zu Gast.
+
+00:05:50.055 --> 00:05:56.095
+<v Linus Neumann>Der ist aber, der ist nicht beim 38C3, sondern der ist gerade als Revolutionstourist in Georgien.
+
+00:05:56.255 --> 00:05:57.275
+<v Tim Pritlove>So, so. Ach echt?
+
+00:05:57.415 --> 00:05:57.575
+<v Linus Neumann>Ja.
+
+00:05:57.775 --> 00:05:58.015
+<v Tim Pritlove>Wow.
+
+00:05:58.755 --> 00:06:01.775
+<v Linus Neumann>Also ich hoffe, dass es öffentlich ist, aber der berichtet da die ganze Zeit oder nicht?
+
+00:06:03.375 --> 00:06:05.095
+<v Tim Pritlove>Oder war das jetzt nur ein privateschwert?
+
+00:06:05.095 --> 00:06:05.935
+<v Linus Neumann>War das noch geheim?
+
+00:06:08.455 --> 00:06:11.495
+<v Linus Neumann>Ich guck mal schnell. Hat der doch bestimmt.
+
+00:06:12.135 --> 00:06:14.775
+<v Tim Pritlove>Ja, der postet aus Georgien.
+
+00:06:14.955 --> 00:06:26.275
+<v Linus Neumann>Ja. Gut, okay. Dann hatten wir eine englische Folge in englischer Sprache mit Meredith Whitaker.
+
+00:06:26.435 --> 00:06:28.875
+<v Linus Neumann>Die wird auch beim 38C3 sein.
+
+00:06:33.695 --> 00:06:37.095
+<v Tim Pritlove>38C3, auch bekannt unter dem Namen Best of LNP.
+
+00:06:37.095 --> 00:06:39.115
+<v Linus Neumann>Ja, LNP Allstars.
+
+00:06:41.555 --> 00:06:48.975
+<v Linus Neumann>LNP 500 Afterparty. Dann hatten wir Ralf Bendrat und Annika Zinke zu Gast.
+
+00:06:50.595 --> 00:06:59.315
+<v Linus Neumann>Und wir hatten Kantorkel zu Gast zu der Fake-Shop-Recherche,
+
+00:06:59.535 --> 00:07:02.195
+<v Linus Neumann>über die er mit Kai Biermann vortragen wird.
+
+00:07:02.195 --> 00:07:03.595
+<v Tim Pritlove>Auf dem 38C3?
+
+00:07:03.755 --> 00:07:05.535
+<v Linus Neumann>Auf dem 38C3, ja.
+
+00:07:07.195 --> 00:07:08.355
+<v Tim Pritlove>Na sowas.
+
+00:07:09.155 --> 00:07:16.675
+<v Linus Neumann>Und dann hatten wir natürlich noch die LMP500 mit Elenos. Ich glaube, die ist auch beim 38C3.
+
+00:07:18.115 --> 00:07:20.735
+<v Tim Pritlove>Das ist doch alles von lange hat geplant.
+
+00:07:23.535 --> 00:07:31.975
+<v Linus Neumann>Ulrike Franke und Anne Brohr-Hilka, die beim 38C3 sein wird.
+
+00:07:31.975 --> 00:07:32.415
+<v Tim Pritlove>Ach wirklich?
+
+00:07:32.575 --> 00:07:32.735
+<v Linus Neumann>Ja.
+
+00:07:33.075 --> 00:07:33.295
+<v Tim Pritlove>Oh.
+
+00:07:33.515 --> 00:07:33.635
+<v Linus Neumann>Ja.
+
+00:07:33.795 --> 00:07:34.115
+<v Tim Pritlove>Wow.
+
+00:07:34.435 --> 00:07:34.535
+<v Linus Neumann>Ja.
+
+00:07:35.035 --> 00:07:35.755
+<v Tim Pritlove>Na sowas.
+
+00:07:37.535 --> 00:07:44.375
+<v Linus Neumann>Und ich war gerade so bei dem Rückblick über diese Gästeliste dann doch einfach
+
+00:07:44.375 --> 00:07:48.655
+<v Linus Neumann>mal enorm happy und stolz.
+
+00:07:48.895 --> 00:07:53.955
+<v Linus Neumann>Einfach super gefreut, was für geile Leute wir über dieses eine Jahr hier hatten,
+
+00:07:54.055 --> 00:07:56.875
+<v Linus Neumann>wenn ich nicht da bin. Es gibt noch andere geile Leute.
+
+00:07:56.875 --> 00:07:58.335
+<v Tim Pritlove>Das ist öfter mal viel.
+
+00:08:00.295 --> 00:08:02.235
+<v Linus Neumann>Nee, also hat mich einfach sehr
+
+00:08:02.235 --> 00:08:07.655
+<v Linus Neumann>gefreut, was wir da an unterschiedlichsten Inhalten hatten und ein schönes,
+
+00:08:09.613 --> 00:08:12.933
+<v Linus Neumann>Freut mich. Haben wir gut hingekriegt. Also du.
+
+00:08:15.233 --> 00:08:22.533
+<v Tim Pritlove>Wir haben das zusammen hinbekommen. Ja und heute wollten wir mal eine vielleicht
+
+00:08:22.533 --> 00:08:27.373
+<v Tim Pritlove>etwas andere Sendung machen und gar nicht so sehr in die News gehen.
+
+00:08:27.793 --> 00:08:31.253
+<v Tim Pritlove>Die Nachrichtenlage ist natürlich vor Weihnachten sowieso ein bisschen ausgedünnt,
+
+00:08:31.313 --> 00:08:35.873
+<v Tim Pritlove>beziehungsweise nur furchtbare Zitate von deutschen Politikern,
+
+00:08:36.033 --> 00:08:38.893
+<v Tim Pritlove>die wir euch weitgehend ersparen möchten.
+
+00:08:39.613 --> 00:08:45.713
+<v Tim Pritlove>So uns das gelingt, die nicht zu zitieren, was uns eigentlich auch schon misslungen ist.
+
+00:08:46.693 --> 00:08:48.913
+<v Tim Pritlove>Genau, und wir haben so ein bisschen geschaut, was sind denn eigentlich so die
+
+00:08:48.913 --> 00:08:55.973
+<v Tim Pritlove>dominanten Themen dieses Jahr gewesen und was denken wir darüber,
+
+00:08:56.333 --> 00:08:58.933
+<v Tim Pritlove>was hat das mit uns gemacht.
+
+00:08:58.933 --> 00:09:04.213
+<v Tim Pritlove>Und wenn man so schaut, gab es von dem Dauerthema Chatkontrolle eigentlich so
+
+00:09:04.213 --> 00:09:10.793
+<v Tim Pritlove>zwei alles so ein bisschen überschattende Metathemen und das ist halt auf der
+
+00:09:10.793 --> 00:09:16.833
+<v Tim Pritlove>einen Seite so ein bisschen diese zunehmende Faschisierung der Politik und der Welt.
+
+00:09:17.673 --> 00:09:21.893
+<v Tim Pritlove>Und auch wenn es mal zwischendurch auch immer mal wieder ein paar gute Nachrichten
+
+00:09:21.893 --> 00:09:26.573
+<v Tim Pritlove>gab, ist es definitiv ein Trend, den man eben sieht in den USA,
+
+00:09:26.853 --> 00:09:28.813
+<v Tim Pritlove>aber eben auch in Europa.
+
+00:09:32.300 --> 00:09:37.560
+<v Tim Pritlove>Ja und das andere klare Metathema ist halt AI, KI,
+
+00:09:38.100 --> 00:09:42.460
+<v Tim Pritlove>künstliche Intelligenz, Artificial Intelligence, wie immer man das auch nennen
+
+00:09:42.460 --> 00:09:49.120
+<v Tim Pritlove>möchte, die eigentlich so ziemlich alles durchzieht und wo ganz klar gesagt werden kann,
+
+00:09:49.440 --> 00:09:53.360
+<v Tim Pritlove>dass das ist einfach eine transformative Phase,
+
+00:09:53.680 --> 00:10:00.220
+<v Tim Pritlove>die wir da gerade durchschreiten, die sich nicht nur auf diese Tech-Welt auswirkt,
+
+00:10:00.380 --> 00:10:05.000
+<v Tim Pritlove>sondern eigentlich auf die gesamte Gesellschaft auswirkt und damit auch alle
+
+00:10:05.000 --> 00:10:07.440
+<v Tim Pritlove>enorm unter Stress stellt.
+
+00:10:08.520 --> 00:10:13.520
+<v Tim Pritlove>Und es ist wieder so ein klassisches Gebiet auch, wo man eben Chancen und Risiken
+
+00:10:13.520 --> 00:10:20.280
+<v Tim Pritlove>mal abwägen muss und ja, das können wir mal machen.
+
+00:10:20.280 --> 00:10:22.040
+<v Linus Neumann>Oh, okay,
+
+00:10:24.420 --> 00:10:29.400
+<v Linus Neumann>ja. Welche Chancen sehen wir?
+
+00:10:32.800 --> 00:10:37.080
+<v Linus Neumann>Also bei dem Faschismus sind die Chancen allgemein bekannt.
+
+00:10:37.680 --> 00:10:43.920
+<v Linus Neumann>Wir können zurück ins Mittelalter. Risiko auch bekannt.
+
+00:10:43.920 --> 00:10:50.320
+<v Tim Pritlove>Ja, totale Zerstörung von allem in der Gesellschaft, Menschen, Infrastruktur.
+
+00:10:51.320 --> 00:10:54.960
+<v Tim Pritlove>Ja, das auf jeden Fall. Also das stimmt schon. Also beim Faschismus würde ich
+
+00:10:54.960 --> 00:10:59.500
+<v Tim Pritlove>sagen, ist das mit der Chancen-Risiken-Abwägung relativ klar.
+
+00:11:01.780 --> 00:11:02.900
+<v Linus Neumann>Scheinen wir nicht so.
+
+00:11:03.020 --> 00:11:09.580
+<v Tim Pritlove>Da gibt es genug Blaupausen, aber in irgendeiner Form sind die Leute auch fasziniert von einer...
+
+00:11:15.207 --> 00:11:24.847
+<v Tim Pritlove>Von dem Glauben, es wäre ja alles schon so schlecht und nur durch eine totale
+
+00:11:24.847 --> 00:11:27.607
+<v Tim Pritlove>Zerstörung könnte alles besser werden.
+
+00:11:27.607 --> 00:11:34.527
+<v Tim Pritlove>Das ist ja so ein bisschen die Erzählung des Faschismus, wenn man sich so AfD und so weiter anhört.
+
+00:11:34.887 --> 00:11:38.087
+<v Tim Pritlove>Es ist immer alles ganz kurz vor dem Untergang.
+
+00:11:38.527 --> 00:11:46.847
+<v Tim Pritlove>Wir sind bedroht von außen, von den anderen, vom Fremden, von dem Etablierten,
+
+00:11:47.407 --> 00:11:50.287
+<v Tim Pritlove>von unseren Politikern, von unserer Elite.
+
+00:11:51.587 --> 00:11:57.987
+<v Tim Pritlove>Alles ist ganz bedrohlich und jetzt brauchen wir starke, radikale Maßnahmen,
+
+00:11:58.647 --> 00:12:02.467
+<v Tim Pritlove>um das alles aufzubrechen und dann wird wieder alles gut.
+
+00:12:02.847 --> 00:12:11.587
+<v Tim Pritlove>Und in dieser ganzen Erzählung sind halt eigentlich die beiden Kernprädikate einfach falsch.
+
+00:12:11.587 --> 00:12:20.387
+<v Tim Pritlove>Ja, weder ist alles in totaler Auflösung und in einem totalen Niedergang,
+
+00:12:20.627 --> 00:12:24.387
+<v Tim Pritlove>das ist sozusagen schon mal der erste Teil dieser ganzen Geschichte,
+
+00:12:24.647 --> 00:12:28.007
+<v Tim Pritlove>der versucht uns klar zu machen,
+
+00:12:28.307 --> 00:12:33.427
+<v Tim Pritlove>dass alles ganz furchtbar ist und gar keine Frage, manche Dinge sind auch total
+
+00:12:33.427 --> 00:12:37.027
+<v Tim Pritlove>furchtbar, wir beklagen sie hier regelmäßig.
+
+00:12:37.407 --> 00:12:39.947
+<v Linus Neumann>Interessanterweise scheint sich um die aber keiner kümmern zu wollen.
+
+00:12:39.947 --> 00:12:44.947
+<v Tim Pritlove>Ja, weil darum geht es ja nicht. Es geht gar nicht um was Konkretes.
+
+00:12:45.007 --> 00:12:47.607
+<v Tim Pritlove>Es geht immer um etwas total Unkonkretes.
+
+00:12:48.027 --> 00:12:51.627
+<v Tim Pritlove>Man darf es gar nicht an irgendwas festmachen, sondern es ist immer die Bedrohung,
+
+00:12:51.707 --> 00:12:58.227
+<v Tim Pritlove>es ist das Ungewisse, es ist das Schwerfassbare, auch dann nicht zu Argumentierende.
+
+00:12:58.227 --> 00:13:03.427
+<v Tim Pritlove>Man kann dem mit Fakten nicht beikommen, weil es sich versucht,
+
+00:13:03.487 --> 00:13:04.647
+<v Tim Pritlove>den Fakten zu entziehen.
+
+00:13:04.767 --> 00:13:09.607
+<v Tim Pritlove>Es ist eine Erzählung, die einfach nur sagt, alles ist irgendwie unklar,
+
+00:13:09.867 --> 00:13:17.527
+<v Tim Pritlove>man kann nichts mehr glauben, nichts ist wahr, aber es ist alles bedrohlich.
+
+00:13:17.527 --> 00:13:25.407
+<v Tim Pritlove>Es ist alles gegen dich, es ist alles kurz vor dem Kollaps und starke Maßnahmen
+
+00:13:25.407 --> 00:13:27.307
+<v Tim Pritlove>müssen ergriffen werden,
+
+00:13:27.787 --> 00:13:33.487
+<v Tim Pritlove>damit dieses Ungewisse in irgendeine Form in eine neue Gewissheit überführt
+
+00:13:33.487 --> 00:13:36.647
+<v Tim Pritlove>wird, von der aber auch keiner genau sagen kann, wie die eigentlich ist.
+
+00:13:36.647 --> 00:13:42.227
+<v Tim Pritlove>Das ist so ein bisschen dieses faschistische Märchen, was erzählt wird immer
+
+00:13:42.227 --> 00:13:48.087
+<v Tim Pritlove>wieder und das ist das, was dieser faschistische Populismus probiert,
+
+00:13:48.087 --> 00:13:49.727
+<v Tim Pritlove>in unseren Köpfen zu lösen.
+
+00:13:50.213 --> 00:13:58.173
+<v Tim Pritlove>Und deswegen ist dem auch schwer beizukommen mit klaren Fakten und klaren Erläuterungen
+
+00:13:58.173 --> 00:13:59.673
+<v Tim Pritlove>und Erzählungen und so weiter,
+
+00:14:00.153 --> 00:14:06.153
+<v Tim Pritlove>weil man gegen diese Diffusität in der Argumentation kaum ankommt und das verfängt.
+
+00:14:06.153 --> 00:14:08.913
+<v Tim Pritlove>Wir sehen das ja auch. Wir sehen das in den Wahlergebnissen.
+
+00:14:09.133 --> 00:14:14.753
+<v Tim Pritlove>Wir sehen es aber auch darin, wie alle, die dann auch erfolgreich sein wollen.
+
+00:14:15.493 --> 00:14:20.173
+<v Tim Pritlove>Schnell dazu übergehen, diese Erzählungen zumindest in Teilen auch zu übernehmen,
+
+00:14:20.433 --> 00:14:23.573
+<v Tim Pritlove>weil sie das als Problem erkannt haben.
+
+00:14:23.573 --> 00:14:27.853
+<v Tim Pritlove>Obwohl es gar nicht als Problem erkannt wurde sondern es wurde nur das Problem
+
+00:14:27.853 --> 00:14:32.473
+<v Tim Pritlove>erkannt dass man selber mit seinen eigenen Thesen nicht so richtig Anklang findet
+
+00:14:32.473 --> 00:14:36.813
+<v Tim Pritlove>und jetzt versucht irgendwie das aufzugreifen von dem alle reden und das ist
+
+00:14:36.813 --> 00:14:38.753
+<v Tim Pritlove>eine Krankheit die befällt die Politiker,
+
+00:14:38.873 --> 00:14:41.693
+<v Tim Pritlove>das ist eine Krankheit die befällt die Medien.
+
+00:14:43.273 --> 00:14:50.273
+<v Tim Pritlove>Und am Ende führt es dazu, dass alle quasi dann dieses populistische Lied singen
+
+00:14:50.273 --> 00:14:54.693
+<v Tim Pritlove>obwohl sie eigentlich behaupten, dass sie das gar nicht tun wollen Und das hat
+
+00:14:54.693 --> 00:14:57.133
+<v Tim Pritlove>erfolgt. Wir sehen das in den USA.
+
+00:14:57.613 --> 00:15:02.233
+<v Tim Pritlove>Also die Wahl von Trump war ja insofern auch total niederschmetternd,
+
+00:15:02.513 --> 00:15:07.213
+<v Tim Pritlove>als dass jeder, der irgendwie so halbwegs wach bei Sinnen ist,
+
+00:15:07.313 --> 00:15:10.093
+<v Tim Pritlove>sich das Treiben anschaut und sagt, das kann ja wohl alles nicht wahr sein.
+
+00:15:10.093 --> 00:15:14.293
+<v Tim Pritlove>Also wie könnt ihr denn so jemanden und so eine Parteistruktur,
+
+00:15:14.393 --> 00:15:18.953
+<v Tim Pritlove>die dahinter steht auch, die sozusagen vollkommen willfährig sich in den Dienst
+
+00:15:18.953 --> 00:15:20.793
+<v Tim Pritlove>eines Kriminellen stellt,
+
+00:15:20.953 --> 00:15:25.553
+<v Tim Pritlove>der gerade so damit kokettiert, dass er bereit ist,
+
+00:15:26.053 --> 00:15:31.893
+<v Tim Pritlove>jetzt sozusagen diesen Staat in so eine mafiöse Struktur, in so einen Familienclan umzuwandeln.
+
+00:15:32.433 --> 00:15:36.373
+<v Tim Pritlove>Dass da alle mitgehen und dass keiner was dagegen tut.
+
+00:15:36.373 --> 00:15:39.393
+<v Tim Pritlove>Ja, weil einfach die Geschichte geglaubt wird.
+
+00:15:39.653 --> 00:15:45.233
+<v Tim Pritlove>Es wäre alles irgendwie Carnage und wir befinden uns kurz vor dem Untergang
+
+00:15:45.233 --> 00:15:48.333
+<v Tim Pritlove>und jetzt brauchen wir irgendwie einen Menschen,
+
+00:15:48.593 --> 00:15:53.673
+<v Tim Pritlove>der da in irgendeiner Form aufräumt und gegen das Böse vorgeht und irgendwie
+
+00:15:53.673 --> 00:15:54.673
+<v Tim Pritlove>alles besser werden lässt.
+
+00:15:54.673 --> 00:16:01.113
+<v Tim Pritlove>Und das verfängt einfach und das wissen die Faschisten einfach schon immer,
+
+00:16:01.313 --> 00:16:08.353
+<v Tim Pritlove>dass das verfängt und mal verfängt es halt mehr oder weniger und dem muss man
+
+00:16:08.353 --> 00:16:13.753
+<v Tim Pritlove>halt in irgendeiner Form Herr werden, aber es ist eben schwierig und es ist
+
+00:16:13.753 --> 00:16:16.013
+<v Tim Pritlove>auch in Europa schwierig geworden.
+
+00:16:16.153 --> 00:16:18.113
+<v Linus Neumann>Das Eleganz dieser...
+
+00:16:20.325 --> 00:16:29.485
+<v Linus Neumann>Dieser Hetzer ist ja, dass die Probleme beschreien können, die sie dann am Ende nicht lösen müssen.
+
+00:16:30.945 --> 00:16:39.725
+<v Linus Neumann>Wenn jetzt ein seriöser politischer Akteur sagt dann irgendwie, okay pass auf,
+
+00:16:40.645 --> 00:16:46.545
+<v Linus Neumann>folgendes sehe ich als Problem, was weiß ich, sagen wir Umweltverschmutzung,
+
+00:16:46.825 --> 00:16:49.125
+<v Linus Neumann>soziale Gerechtigkeit. Arbeitslosigkeit.
+
+00:16:49.805 --> 00:16:51.825
+<v Linus Neumann>Irgendwie nimmst du ein Thema Arbeitslosigkeit. Kannst du auch sagen,
+
+00:16:51.905 --> 00:16:53.365
+<v Linus Neumann>Wirtschaft, Wirtschaft ist nicht gut.
+
+00:16:55.365 --> 00:17:00.305
+<v Linus Neumann>Und das Problem würde ich gerne lösen. Wenn ihr möchtet, dass ihr das Problem
+
+00:17:00.305 --> 00:17:04.465
+<v Linus Neumann>löst, wählt mich und messt mich am Ende an meinen Taten.
+
+00:17:04.605 --> 00:17:09.005
+<v Linus Neumann>Wenn dann nachher weniger Leute arbeitslos sind, weniger C2 ausgestoßen wird
+
+00:17:09.005 --> 00:17:12.365
+<v Linus Neumann>oder irgendwie hat es vier Sätze um drei Prozent erhöht wurden,
+
+00:17:12.765 --> 00:17:16.785
+<v Linus Neumann>20 Cent mehr hast oder sowas, dann prima.
+
+00:17:18.505 --> 00:17:22.925
+<v Linus Neumann>Und üblicherweise scheitern die Leute an ihren eigenen Ansprüchen oder an denen,
+
+00:17:23.005 --> 00:17:24.085
+<v Linus Neumann>die sie vertreten haben.
+
+00:17:24.685 --> 00:17:30.145
+<v Linus Neumann>Aber so ein Hetzer sagt, ja, das sind die Ausländer schuld. Die nun wirklich,
+
+00:17:30.485 --> 00:17:35.945
+<v Linus Neumann>wo man sagen kann, nee, nee. Also wirklich, nee.
+
+00:17:37.605 --> 00:17:46.425
+<v Linus Neumann>Sicherlich sind auch einige Missstände zu beklagen bei bestimmten Menschen,
+
+00:17:46.625 --> 00:17:48.105
+<v Linus Neumann>die sich in diesem Land aufhalten.
+
+00:17:48.105 --> 00:17:52.605
+<v Linus Neumann>Diese Missstände sind am vielschichtige Ursachen,
+
+00:17:52.845 --> 00:18:00.485
+<v Linus Neumann>aber sicherlich haben sie kein Ausmaß, dass für meine persönliche Misere oder
+
+00:18:00.485 --> 00:18:05.125
+<v Linus Neumann>deine oder die von irgendeinem AfD-Wähler eine unmittelbare,
+
+00:18:05.345 --> 00:18:07.105
+<v Linus Neumann>spürbare Auswirkung hat.
+
+00:18:08.185 --> 00:18:12.865
+<v Linus Neumann>Entsprechend werden sich die Warenmissstände nicht ändern und es wurde auch
+
+00:18:12.865 --> 00:18:16.485
+<v Linus Neumann>bei der letzten Trump-Wahl keine riesige Mauer nach Mexiko gebaut,
+
+00:18:16.585 --> 00:18:19.725
+<v Linus Neumann>wird auch jetzt keine gebaut werden und es mag sein,
+
+00:18:20.005 --> 00:18:25.185
+<v Linus Neumann>dass der jetzt irgendwelche Massenabschiebungen vornimmt, aber auch dann wird keiner,
+
+00:18:25.485 --> 00:18:29.145
+<v Linus Neumann>also keiner wird in den USA am Ende sagen gut,
+
+00:18:29.925 --> 00:18:33.665
+<v Linus Neumann>dass wir, weiß nicht, zwei Millionen Mexikaner aus dem Land gescheucht haben,
+
+00:18:34.285 --> 00:18:38.205
+<v Linus Neumann>endlich verdiene ich mehr Geld, Endlich habe ich Krankenversicherung.
+
+00:18:38.365 --> 00:18:41.545
+<v Linus Neumann>Endlich ist meine berufliche Perspektive besser. Das wird ja alles nicht passieren.
+
+00:18:43.167 --> 00:18:47.027
+<v Linus Neumann>Dann werden die aber sagen, wir müssen mehr Mexikaner hier rausschmeißen.
+
+00:18:47.947 --> 00:18:51.267
+<v Linus Neumann>Oder, das kann ja wohl nicht wahr sein, jetzt haben wir schon so und so viele
+
+00:18:51.267 --> 00:18:53.667
+<v Linus Neumann>abgeschoben, jetzt müssen wir aber noch mehr abschieben oder so.
+
+00:18:56.167 --> 00:19:00.507
+<v Linus Neumann>Also dieser, wenn du halt quasi einen Missstand beschreist, der letztendlich
+
+00:19:00.507 --> 00:19:04.807
+<v Linus Neumann>keiner ist und den jetzt auch nicht irgendwie auflösen wirst,
+
+00:19:04.887 --> 00:19:08.327
+<v Linus Neumann>es wird den Menschen nicht besser gehen, im Zweifelsfall sogar schlechter.
+
+00:19:08.327 --> 00:19:12.507
+<v Linus Neumann>Wir haben es ja in Großbritannien gesehen, wie sie das Land im Prinzip zugrunde
+
+00:19:12.507 --> 00:19:17.767
+<v Linus Neumann>gerichtet haben, indem sie ihren Niedriglohnsektor erwürgt haben und jetzt plötzlich
+
+00:19:17.767 --> 00:19:19.707
+<v Linus Neumann>selber Schuhe putzen müssen oder so.
+
+00:19:19.707 --> 00:19:24.727
+<v Linus Neumann>Finden sie jetzt, weiß ich nicht, ob die Leute das jetzt so besonders gut finden.
+
+00:19:26.247 --> 00:19:29.287
+<v Linus Neumann>Aber das ist das perfide an dieser,
+
+00:19:29.807 --> 00:19:33.167
+<v Linus Neumann>wenn du dich einmal von einer evidenzbasierten Politik verabschiedest,
+
+00:19:33.507 --> 00:19:36.867
+<v Linus Neumann>dann gelten auch die Regeln nicht mehr,
+
+00:19:37.227 --> 00:19:42.707
+<v Linus Neumann>die wir eigentlich als halbwegs rationale Menschen irgendwie so erwarten.
+
+00:19:42.707 --> 00:19:44.807
+<v Linus Neumann>Ein Problem, das hätten wir gerne gelöst.
+
+00:19:45.887 --> 00:19:51.407
+<v Linus Neumann>Wer sieht, wer erkennt das Problem an und wer hat einen überzeugenden Plan, das anzugehen.
+
+00:19:51.567 --> 00:19:55.927
+<v Linus Neumann>Das sind ja alles, also mit überzeugendem Plan das anzugehen,
+
+00:19:57.703 --> 00:20:01.743
+<v Linus Neumann>Muss der Trump ja nicht. Also hat er ja nicht.
+
+00:20:01.963 --> 00:20:06.763
+<v Linus Neumann>Der kann einfach die ganze Zeit weiterhetzen und es wird ja auch funktionieren.
+
+00:20:07.523 --> 00:20:12.703
+<v Tim Pritlove>Man hat das ja schön gesehen, es gab ja schon diesen Streit im letzten Jahr
+
+00:20:12.703 --> 00:20:17.943
+<v Tim Pritlove>zwischen Republikanern und der beiden Administrationen über die Probleme an
+
+00:20:17.943 --> 00:20:20.603
+<v Tim Pritlove>der Grenze und dann wurde ja ein Kompromiss ausgehandelt,
+
+00:20:20.683 --> 00:20:25.063
+<v Tim Pritlove>den dann Trump selber verhindert hat, dass der zustande kommt. Warum?
+
+00:20:26.403 --> 00:20:31.483
+<v Tim Pritlove>Weil das für eine faschistische Regierung ein Problem ist, wenn ein Problem gelöst wird.
+
+00:20:32.163 --> 00:20:37.223
+<v Tim Pritlove>Weil die Probleme müssen ja bestehen, damit immer wieder dieses Mantra aufgerufen
+
+00:20:37.223 --> 00:20:40.863
+<v Tim Pritlove>werden kann mit wir haben ja ein Problem, es muss ja mal was getan werden.
+
+00:20:41.123 --> 00:20:42.503
+<v Tim Pritlove>Nicht damit dann was getan wird.
+
+00:20:42.623 --> 00:20:43.963
+<v Linus Neumann>Sondern damit jemand anders schuld ist.
+
+00:20:44.103 --> 00:20:47.083
+<v Tim Pritlove>Damit jemand anders schuld ist und dass es immer wieder einen Grund gibt,
+
+00:20:47.263 --> 00:20:53.223
+<v Tim Pritlove>die Faschisten weiter mit Macht auszustatten, damit sie halt hintenrum alle Möglichkeiten,
+
+00:20:53.943 --> 00:21:01.943
+<v Tim Pritlove>und vor allem keine Gegenmaßnahmen mehr konfrontiert sind, die sie daran hindern,
+
+00:21:02.223 --> 00:21:03.743
+<v Tim Pritlove>das Land auszuplündern.
+
+00:21:03.863 --> 00:21:07.583
+<v Tim Pritlove>Weil am Ende geht es natürlich dann auch nur um Geld.
+
+00:21:08.123 --> 00:21:15.263
+<v Tim Pritlove>Das werden wir jetzt sehen überall da, wo die AfD Bereiche unter ihre Kontrolle bringt.
+
+00:21:15.323 --> 00:21:18.243
+<v Tim Pritlove>Jetzt nicht unter die totale Regierungskontrolle, soweit sind wir Gott sei Dank
+
+00:21:18.243 --> 00:21:23.943
+<v Tim Pritlove>noch nicht. Aber ich meine auch Sperrminoritäten werden da ihre Auswirkungen haben.
+
+00:21:24.843 --> 00:21:30.203
+<v Tim Pritlove>Ansprüche auf Gelder vom Staat, die dann entsprechend umgeleitet werden,
+
+00:21:30.883 --> 00:21:32.103
+<v Tim Pritlove>machen wir uns gefasst darauf.
+
+00:21:32.343 --> 00:21:36.143
+<v Tim Pritlove>Wir werden immer wieder Skandale erleben, wo es zwischenzeitlich rauskommt,
+
+00:21:36.283 --> 00:21:41.563
+<v Tim Pritlove>dass es da letzten Endes eigentlich nur darum geht, Macht und am Ende natürlich Geld einzusammeln.
+
+00:21:41.563 --> 00:21:46.183
+<v Tim Pritlove>Was die Leute wollen, interessieren die halt eigentlich überhaupt nicht,
+
+00:21:46.263 --> 00:21:52.263
+<v Tim Pritlove>sondern es ist einfach ein reiner Selbstzweck, aus dem sie in diese Politik
+
+00:21:52.263 --> 00:21:55.463
+<v Tim Pritlove>gehen, aber eben nicht das Ziel, die eigentlichen Probleme zu lösen,
+
+00:21:55.863 --> 00:21:59.823
+<v Tim Pritlove>von denen sie so schön glorios immer wieder behaupten, dass sie genau deswegen angetreten sind.
+
+00:22:00.763 --> 00:22:05.583
+<v Tim Pritlove>Ja, das ist das Problem und was kann man dagegen tun? Das ist nicht einfach zu beantworten.
+
+00:22:05.683 --> 00:22:09.903
+<v Tim Pritlove>Am Ende ist es eigentlich ein Problem von uns allen,
+
+00:22:10.463 --> 00:22:17.043
+<v Tim Pritlove>weil wir als Gesellschaft das zulassen, weil wir dieses Narrativ füttern auf
+
+00:22:17.043 --> 00:22:24.463
+<v Tim Pritlove>viele Arten und es noch nie einfach war,
+
+00:22:24.723 --> 00:22:29.803
+<v Tim Pritlove>sich solchen Machtansprüchen ohne weiteres zu entziehen.
+
+00:22:30.783 --> 00:22:35.163
+<v Tim Pritlove>Ich bin da auch ein bisschen ich will jetzt nicht sagen ratlos aber.
+
+00:22:36.866 --> 00:22:42.706
+<v Tim Pritlove>Ich verfange mich da nicht in diesen Erzählungen.
+
+00:22:42.906 --> 00:22:45.286
+<v Tim Pritlove>Nur vielen Leuten geht es so.
+
+00:22:45.506 --> 00:22:49.086
+<v Tim Pritlove>Und das ist halt dann auch oft nicht jetzt nur, weil die irgendwas glauben,
+
+00:22:49.406 --> 00:22:54.606
+<v Tim Pritlove>sondern weil dann eben man auch sagen muss, dann hat wohl die Elite,
+
+00:22:54.786 --> 00:23:00.026
+<v Tim Pritlove>die noch die Zügel in der Hand hat, es nicht geschafft, den Leuten in irgendeiner
+
+00:23:00.026 --> 00:23:03.886
+<v Tim Pritlove>Form ein Gefühl zu geben, dass schon alles okay ist.
+
+00:23:03.886 --> 00:23:07.346
+<v Tim Pritlove>So, wahrscheinlich ist dann halt auch nicht alles okay und dann schauen wir
+
+00:23:07.346 --> 00:23:10.526
+<v Tim Pritlove>in die Gesellschaft rein und dann sehen wir natürlich, dass es Bereiche gibt,
+
+00:23:10.726 --> 00:23:12.586
+<v Tim Pritlove>wo es eben nicht gut läuft.
+
+00:23:12.586 --> 00:23:18.646
+<v Tim Pritlove>Während also Wirtschaftsunternehmen und reiche Leute nach wie vor mit Steuervergünstigungen
+
+00:23:18.646 --> 00:23:20.026
+<v Tim Pritlove>belohnt werden ohne Ende.
+
+00:23:22.026 --> 00:23:31.126
+<v Tim Pritlove>Fehlt Geld in diesem Niedriglohnsektor, in der Pflege, ich könnte jetzt tausend
+
+00:23:31.126 --> 00:23:33.986
+<v Tim Pritlove>Bereiche aufzählen, ist allgemein bekannt.
+
+00:23:33.986 --> 00:23:40.166
+<v Tim Pritlove>Und das ist natürlich schon etwas, was das nährt und an der Stelle ist natürlich
+
+00:23:40.166 --> 00:23:44.786
+<v Tim Pritlove>eine Kritik an der Politik auch absolut angemessen,
+
+00:23:45.206 --> 00:23:52.566
+<v Tim Pritlove>nur die Alternative ist halt nicht die Alternative für Deutschland und die Alternative
+
+00:23:52.566 --> 00:23:56.686
+<v Tim Pritlove>ist auch nicht irgendeine andere starke Person.
+
+00:23:57.986 --> 00:24:05.226
+<v Tim Pritlove>Und weil wenn man diesem Gedanken folgt, dann liefert man sich eben Strukturen aus, die,
+
+00:24:06.846 --> 00:24:12.966
+<v Tim Pritlove>ganz andere Ziele haben und für die auch Demokratie jetzt kein wirklicher Wertemaßstab
+
+00:24:12.966 --> 00:24:16.346
+<v Tim Pritlove>ist, sondern da geht es eigentlich nur noch um Machterhalt und wir sehen auch
+
+00:24:16.346 --> 00:24:18.806
+<v Tim Pritlove>auf internationaler Ebene, wie das,
+
+00:24:20.606 --> 00:24:22.206
+<v Tim Pritlove>supernational um sich greift.
+
+00:24:22.526 --> 00:24:29.706
+<v Tim Pritlove>Also diese unheilige Allianz zwischen superreichen Leuten und Russland zum Beispiel.
+
+00:24:32.786 --> 00:24:39.686
+<v Tim Pritlove>Warum erzählt die AfD so viel von Russland und dass Putin ja so toll sei?
+
+00:24:41.091 --> 00:24:46.111
+<v Tim Pritlove>Da kann man sich schon mal fragen, was das eigentlich auf sich hat.
+
+00:24:47.151 --> 00:24:53.071
+<v Tim Pritlove>Und ich kann das nur so interpretieren, als dass es dort sozusagen einen Willen
+
+00:24:53.071 --> 00:25:00.831
+<v Tim Pritlove>gibt, sozusagen so ein komplett demokratiebefreites Regiment aufzubauen,
+
+00:25:01.131 --> 00:25:07.511
+<v Tim Pritlove>wo so jeder Staat von seiner eigenen Mafia regiert wird.
+
+00:25:07.511 --> 00:25:12.151
+<v Tim Pritlove>Und die Mafias unter sich mögen vielleicht nicht direkt was miteinander zu tun
+
+00:25:12.151 --> 00:25:17.731
+<v Tim Pritlove>haben, aber die lassen sich zumindest dann irgendwie weitgehend in Ruhe und
+
+00:25:17.731 --> 00:25:21.491
+<v Tim Pritlove>fördern sich sozusagen gegenseitig in ihrem kriminellen Treiben.
+
+00:25:21.491 --> 00:25:26.451
+<v Linus Neumann>Wenn man jetzt mal überlegt, wenn man da jetzt mal halbwegs irgendeine naive,
+
+00:25:26.911 --> 00:25:30.651
+<v Linus Neumann>irgendwo noch einen positiven Gedanken hat, unterstellt.
+
+00:25:32.271 --> 00:25:38.831
+<v Linus Neumann>Ich glaube, dass es denen halt primär erstmal um eine lokale Macht geht.
+
+00:25:38.831 --> 00:25:41.731
+<v Linus Neumann>Sie wollen die Macht in Deutschland haben.
+
+00:25:41.851 --> 00:25:42.611
+<v Tim Pritlove>Über Deutschland.
+
+00:25:43.531 --> 00:25:48.651
+<v Linus Neumann>Und denen ist das zunächst einmal völlig recht, dass es andere Felder,
+
+00:25:48.811 --> 00:25:52.111
+<v Linus Neumann>Flecken der Erde gibt, wo eben andere die Macht haben.
+
+00:25:53.891 --> 00:25:59.051
+<v Linus Neumann>Das ist erstmal okay und die sehen jetzt auf ihrem Horizont nicht,
+
+00:26:00.111 --> 00:26:05.831
+<v Linus Neumann>dass Putin in irgendeiner Weise Deutschland übernehmen wird oder so oder angreifen
+
+00:26:05.831 --> 00:26:09.491
+<v Linus Neumann>wird also soll der doch in Russland herrschen wie er das für richtig hält,
+
+00:26:10.231 --> 00:26:15.291
+<v Linus Neumann>ist ja schließlich der Herrscher wir wollen ja auch nicht dass Putin uns reinredet,
+
+00:26:16.551 --> 00:26:22.811
+<v Linus Neumann>in das was diese Leute die noch nicht ganz verstanden haben dass diese Welt
+
+00:26:22.811 --> 00:26:26.791
+<v Linus Neumann>doch ziemlich klein ist und dass wir uns sowas,
+
+00:26:27.031 --> 00:26:35.911
+<v Linus Neumann>so überholte Konzepte wie isolierte Nationalstaaten nicht mehr nennenswert leisten können.
+
+00:26:38.271 --> 00:26:39.651
+<v Linus Neumann>Also ich denke schon, dass es
+
+00:26:39.651 --> 00:26:42.511
+<v Linus Neumann>Nationalstaaten weiterhin geben wird und das ist auch völlig in Ordnung.
+
+00:26:43.691 --> 00:26:49.051
+<v Linus Neumann>Aber es ist jetzt nicht mehr so, dass du das Leben, wie es sein soll,
+
+00:26:49.891 --> 00:26:53.231
+<v Linus Neumann>quasi in deinem Nationalstaat irgendwie so bestimmen kannst.
+
+00:26:53.231 --> 00:26:56.591
+<v Linus Neumann>Dass du sagst, so bei uns ist jetzt, keine Ahnung, bei uns kostet die Butter
+
+00:26:56.591 --> 00:27:00.411
+<v Linus Neumann>50 Cent und alle haben Arbeit.
+
+00:27:00.891 --> 00:27:05.071
+<v Linus Neumann>Also es geht halt nicht, weil du viel zu viele Interdependencies hast,
+
+00:27:05.291 --> 00:27:08.831
+<v Linus Neumann>was Rohstoffbedarf angeht, Energiebedarf angeht.
+
+00:27:08.911 --> 00:27:16.571
+<v Linus Neumann>Du musst quasi in einen komplett internationalen Austausch von Informationen,
+
+00:27:16.771 --> 00:27:18.851
+<v Linus Neumann>Gütern, Waren, Geldern und so weiter gehen.
+
+00:27:18.951 --> 00:27:19.591
+<v Tim Pritlove>Und Personen.
+
+00:27:19.591 --> 00:27:23.071
+<v Linus Neumann>Und Personen. Ja. Und,
+
+00:27:24.971 --> 00:27:29.671
+<v Linus Neumann>Und die Ströme gehen dann natürlich auch, die halten sich jetzt nicht an deine komischen Grenzen.
+
+00:27:30.091 --> 00:27:34.011
+<v Linus Neumann>Deine qualifizierten Fachkräfte, die dir vielleicht noch,
+
+00:27:35.491 --> 00:27:40.171
+<v Linus Neumann>die vielleicht dafür sorgen, dass es irgendwelche besondere,
+
+00:27:40.431 --> 00:27:45.151
+<v Linus Neumann>besonders wohlstandsstiftende Technologien in deinem Land gibt.
+
+00:27:45.351 --> 00:27:46.731
+<v Tim Pritlove>So wie Krankenhäuser zum Beispiel.
+
+00:27:47.311 --> 00:27:50.851
+<v Linus Neumann>Naja, oder irgendwelche KI-Dinger, oder eine Blockchain.
+
+00:27:53.391 --> 00:28:00.391
+<v Linus Neumann>Wenn die Irrschen etwas schaffen, was Mehrwert, was in irgendeiner Form Economic
+
+00:28:00.391 --> 00:28:01.771
+<v Linus Neumann>Prosperity in dein Land bringt.
+
+00:28:02.011 --> 00:28:08.691
+<v Linus Neumann>Wo man sagt, wir haben jetzt hier einen Verbrennermotor, mit dem können wir
+
+00:28:08.691 --> 00:28:14.971
+<v Linus Neumann>jetzt die nächsten Jahrzehnte hier eine komplette Volkswirtschaft ernähren. Das ist ja so gewesen.
+
+00:28:15.371 --> 00:28:21.151
+<v Linus Neumann>Dieses Land hat mit ein bisschen Kohle, ein bisschen Stahl und kunstvoll geformten
+
+00:28:21.151 --> 00:28:26.571
+<v Linus Neumann>Produkten daraus viele Jahrzehnte den Planeten dominiert.
+
+00:28:29.251 --> 00:28:34.331
+<v Linus Neumann>Zentrale Teile der Wirtschaft dieses Planeten gut bedient.
+
+00:28:37.660 --> 00:28:40.880
+<v Linus Neumann>Und das lag auch daran, dass wir die an andere verkauft haben.
+
+00:28:42.060 --> 00:28:45.960
+<v Linus Neumann>Und jetzt haben die ihre Autos genommen und fahren hier hin. Dann sagt man so, nein.
+
+00:28:48.520 --> 00:28:54.340
+<v Linus Neumann>Und wenn du in diesem Denken bleibst, dann ist natürlich auch auf einmal alles scheiße.
+
+00:28:55.620 --> 00:28:59.660
+<v Linus Neumann>Und du löst das, wie jetzt genau? Indem du die Mauer zumachst und sagst,
+
+00:28:59.760 --> 00:29:01.440
+<v Linus Neumann>wir kümmern uns um uns zuerst.
+
+00:29:01.920 --> 00:29:04.500
+<v Linus Neumann>Ja, viel Spaß dabei. Also.
+
+00:29:06.620 --> 00:29:12.180
+<v Linus Neumann>Menschen sind ja durch Kollaboration und Arbeitsteilung überhaupt so mächtig
+
+00:29:12.180 --> 00:29:16.300
+<v Linus Neumann>zu einer mächtigen Pest dieses Planetens geworden, die ihn irgendwann zerstören wird.
+
+00:29:16.540 --> 00:29:18.740
+<v Linus Neumann>Weil wir zusammenarbeiten und nicht gegeneinander.
+
+00:29:19.220 --> 00:29:23.820
+<v Linus Neumann>Da wo Menschen gemeinsam auf Ziele hinarbeiten, da entsteht Fortschritt,
+
+00:29:23.900 --> 00:29:27.880
+<v Linus Neumann>da entstehen gute Gemeinschaften, da entsteht Sicherheit für Menschen.
+
+00:29:28.720 --> 00:29:32.720
+<v Linus Neumann>Und nicht da wo sie irgendwie gegeneinander sind.
+
+00:29:33.720 --> 00:29:40.820
+<v Linus Neumann>Aber das haben die halt nicht raus. Und das würde ich der aktuellen Politik,
+
+00:29:41.040 --> 00:29:46.100
+<v Linus Neumann>und zwar allererstes mal 16 Jahre Merkel anlasten,
+
+00:29:46.340 --> 00:29:50.140
+<v Linus Neumann>dass die ganze Zeit, egal was los war,
+
+00:29:50.520 --> 00:29:52.500
+<v Linus Neumann>so ein bisschen so, ja, passt schon alles.
+
+00:29:53.200 --> 00:29:54.840
+<v Linus Neumann>Ja, läuft, machen wir mal.
+
+00:29:55.760 --> 00:29:59.460
+<v Linus Neumann>Und das, wenn man sich jetzt, Angela Merkel hat jetzt das Buch da geschrieben,
+
+00:30:00.480 --> 00:30:05.200
+<v Linus Neumann>hat jetzt das eine oder andere Interview, übrigens auch bemerkenswerten Interviewpartnerinnen gegeben.
+
+00:30:05.840 --> 00:30:12.640
+<v Linus Neumann>Hazel Brugger hat von dem Verlag, war das jetzt Kiwi, welcher Verlag ist das,
+
+00:30:13.400 --> 00:30:15.900
+<v Linus Neumann>der das Buch von Angela Merkel verlegt hat.
+
+00:30:17.540 --> 00:30:24.980
+<v Linus Neumann>Die hat das Video gemacht, das Interview mit Merkel zu dem Buch oder hier,
+
+00:30:27.088 --> 00:30:30.328
+<v Linus Neumann>Matze Hielscher und so, also auch Leute, die sonst jetzt nicht.
+
+00:30:32.508 --> 00:30:35.328
+<v Linus Neumann>Jetzt kommt sie so und erzählt so ein bisschen, ist ja völlig in Ordnung.
+
+00:30:35.648 --> 00:30:40.388
+<v Linus Neumann>Also sie schildert dann auch, dass sie natürlich im Prinzip eine Politik gemacht
+
+00:30:40.388 --> 00:30:44.268
+<v Linus Neumann>hat, in der sie geguckt hat, was geht gerade, was geht nicht und was nicht geht,
+
+00:30:44.468 --> 00:30:45.488
+<v Linus Neumann>lass mal daneben laufen.
+
+00:30:46.168 --> 00:30:51.848
+<v Linus Neumann>Im Prinzip eine ambitionslose Machterhaltungspolitik, die halt das Land nicht
+
+00:30:51.848 --> 00:30:55.668
+<v Linus Neumann>gestaltet hat, die nicht gesagt hat, okay, was kommt hier auf uns zu,
+
+00:30:55.768 --> 00:30:57.008
+<v Linus Neumann>lass mal die Bude mal irgendwie,
+
+00:30:57.968 --> 00:31:04.008
+<v Linus Neumann>sturmfest machen und gucken, dass wir das Land ins nächste Jahrzehnt oder Jahrhundert
+
+00:31:04.008 --> 00:31:05.708
+<v Linus Neumann>oder Jahrtausend bewegen.
+
+00:31:06.108 --> 00:31:07.688
+<v Linus Neumann>Und das hat er nicht gemacht.
+
+00:31:08.788 --> 00:31:13.888
+<v Linus Neumann>Gestaltet hat sie nicht. Und wenn du jetzt halt dann auf bald mindestens,
+
+00:31:14.208 --> 00:31:16.908
+<v Linus Neumann>wenn nicht noch, und dann gab es ja auch noch Kohl, meine Güte.
+
+00:31:17.268 --> 00:31:22.488
+<v Linus Neumann>Wenn du jetzt auch noch, also wenn über die vielen Jahre dieses Land einfach
+
+00:31:22.488 --> 00:31:25.008
+<v Linus Neumann>nur in irgendwie Wohlstandsverwahrlost ist,
+
+00:31:26.888 --> 00:31:30.128
+<v Linus Neumann>blickst, dann darfst du dich nicht wundern, dass jetzt auf einmal die Leute
+
+00:31:30.128 --> 00:31:34.728
+<v Linus Neumann>schon merken, oh, da ist ja ein Unwetter am Horizont. Wir brauchen jetzt jemanden.
+
+00:31:36.888 --> 00:31:41.208
+<v Linus Neumann>Der sagt, dass das Unwetter scheiße ist. Und den wählen wir dann.
+
+00:31:41.528 --> 00:31:44.188
+<v Linus Neumann>Der sagt, das Unwetter ist scheiße und die anderen sind schuld.
+
+00:31:44.408 --> 00:31:46.428
+<v Linus Neumann>Das scheint mir naheliegend.
+
+00:31:46.628 --> 00:31:51.668
+<v Linus Neumann>Weil die, die ich mein Leben lang gewählt habe, die können ja nicht schuld sein.
+
+00:31:52.008 --> 00:31:54.568
+<v Linus Neumann>Das Unwetter muss ja irgendwo anders herkommen. Vorher war ja alles gut.
+
+00:31:54.868 --> 00:31:56.568
+<v Linus Neumann>Da war ja kein Unwetter am Horizont.
+
+00:31:56.988 --> 00:32:00.988
+<v Linus Neumann>Also wollen wir jetzt jemanden, der sagt, das Unwetter am Horizont muss da weg.
+
+00:32:02.866 --> 00:32:07.126
+<v Linus Neumann>Nicht jemanden, der sagt, lass mal woanders hinfahren, lass mal woanders hinsteuern,
+
+00:32:07.446 --> 00:32:08.866
+<v Linus Neumann>sondern jemanden, der das wegschreit.
+
+00:32:09.326 --> 00:32:12.206
+<v Linus Neumann>Und das haben wir in der Vergangenheit streckenweise gut gemacht.
+
+00:32:12.766 --> 00:32:16.966
+<v Linus Neumann>Die haben dann einen Tanz gemacht, weise Männer haben einen Tanz aufgeführt
+
+00:32:16.966 --> 00:32:18.006
+<v Linus Neumann>und einen Pilz gegessen.
+
+00:32:18.886 --> 00:32:25.186
+<v Linus Neumann>Und dann, wenn wir Glück hatten, war das Unwetter dann irgendwann weg.
+
+00:32:25.386 --> 00:32:28.086
+<v Linus Neumann>Wenn wir Pech hatten, sind die abgekratzt, weil die den falschen Pilz gegessen haben.
+
+00:32:28.086 --> 00:32:30.486
+<v Tim Pritlove>Ja, man musste nur den Arm heben und dann war das weg.
+
+00:32:30.726 --> 00:32:31.526
+<v Linus Neumann>Ja, genau.
+
+00:32:33.906 --> 00:32:39.686
+<v Tim Pritlove>Ja, also Deutschland, so können wir das nochmal, können wir das mit dem Hitler nochmal sehen.
+
+00:32:39.746 --> 00:32:45.786
+<v Linus Neumann>Diese Komplexität, auf die wir jetzt zusteuern, die ist im wenigstens für die Leute.
+
+00:32:46.446 --> 00:32:49.886
+<v Linus Neumann>Aber ich kann, also eins weiß ich, einfache Lösung wird es nicht.
+
+00:32:51.526 --> 00:32:57.366
+<v Linus Neumann>Also, und ich glaube auch, ich glaube auch, du bist ja so ein bisschen auf die Doom,
+
+00:32:59.386 --> 00:33:01.846
+<v Linus Neumann>Doomsday-Propheten hast du ja gerade so ein bisschen Ich glaube auch,
+
+00:33:01.946 --> 00:33:04.646
+<v Linus Neumann>dass dieses Land komplett an den Arsch geht gerade.
+
+00:33:05.366 --> 00:33:12.606
+<v Linus Neumann>Also richtig. Ich sehe ein bisschen weltbereist, ich sehe andere Länder,
+
+00:33:12.706 --> 00:33:16.846
+<v Linus Neumann>wo ich glaube, die haben insgesamt ein bisschen zukunftssicherer aufgestellt.
+
+00:33:17.186 --> 00:33:18.766
+<v Linus Neumann>Und haben insgesamt eine.
+
+00:33:23.026 --> 00:33:27.026
+<v Linus Neumann>Angenehme, also die können in die Zukunft blicken und sagen,
+
+00:33:27.986 --> 00:33:29.666
+<v Linus Neumann>prima, nächstes Jahr wird noch geiler.
+
+00:33:31.846 --> 00:33:35.286
+<v Linus Neumann>Bauen wir hier noch was oder da werden wir auch noch hier dieses,
+
+00:33:36.606 --> 00:33:42.226
+<v Linus Neumann>diese Sache machen, aber wir haben mehr zu tun, als wir Leute haben wir haben
+
+00:33:42.226 --> 00:33:46.586
+<v Linus Neumann>hier, niemand muss sich hier Sorgen machen um seine Arbeitsplatzsicherheit oder
+
+00:33:46.586 --> 00:33:51.286
+<v Linus Neumann>Leute haben hier nichts zu verlieren die können nur gewinnen und dieses,
+
+00:33:52.346 --> 00:33:56.866
+<v Linus Neumann>wohlstandsverwahrloste Deutschland da sitzen halt irgendwelche mies gelaunten,
+
+00:33:59.466 --> 00:34:04.966
+<v Linus Neumann>Leute Leute, die sich irgendwie ärgern, dass sie mit der Scheiße die letzten
+
+00:34:04.966 --> 00:34:08.846
+<v Linus Neumann>20 Jahre gemacht haben, jetzt plötzlich nicht mehr weiterkommen.
+
+00:34:09.886 --> 00:34:13.306
+<v Linus Neumann>Und alles, was denen kommt, halt auch keine Packanstimmung auf.
+
+00:34:13.466 --> 00:34:16.226
+<v Linus Neumann>Und die kommt übrigens auch nicht unter irgendeinem AfD auf,
+
+00:34:16.546 --> 00:34:17.706
+<v Linus Neumann>dass die Leute sagen, jawohl,
+
+00:34:18.146 --> 00:34:21.726
+<v Linus Neumann>jetzt haben wir hier erstmal 20 Syrer abgeschoben, jetzt gehe ich aber mit einer
+
+00:34:21.726 --> 00:34:29.766
+<v Linus Neumann>viel besseren Laune zur Arbeit und jetzt machen wir aber hier mal richtig den Müllabfuhr.
+
+00:34:30.026 --> 00:34:31.966
+<v Linus Neumann>So, das wird ja nicht passieren.
+
+00:34:32.226 --> 00:34:36.046
+<v Linus Neumann>Und es gibt genug Leute in diesem Land, denen du auch nicht erzählen kannst,
+
+00:34:36.106 --> 00:34:38.386
+<v Linus Neumann>dass morgen ihnen besser gehen wird. Das wird es auch nicht.
+
+00:34:42.658 --> 00:34:47.978
+<v Tim Pritlove>Ja, also das ist so ein bisschen die Situation und da gibt es gar nicht so viel
+
+00:34:47.978 --> 00:34:49.938
+<v Tim Pritlove>Gutes darüber zu berichten.
+
+00:34:50.058 --> 00:34:54.858
+<v Tim Pritlove>Das ist einfach so ein Ding, aber ich denke es hat einfach seine Ursache in
+
+00:34:54.858 --> 00:35:00.298
+<v Tim Pritlove>der mangelnden Bereitschaft, die Realitäten der Gegenwart zu akzeptieren.
+
+00:35:00.298 --> 00:35:06.358
+<v Tim Pritlove>Das ist einfach die Fähigkeit, die uns als Gesellschaft abhandengekommen ist.
+
+00:35:06.698 --> 00:35:12.978
+<v Tim Pritlove>Wir wählen gerne Leute, die uns erzählen, dass schon irgendwie alles gut ist,
+
+00:35:13.338 --> 00:35:18.298
+<v Tim Pritlove>solange bis es sich nicht mehr halten lässt und dann werden die Leute gewählt,
+
+00:35:18.398 --> 00:35:19.938
+<v Tim Pritlove>die alles kaputt machen wollen.
+
+00:35:19.938 --> 00:35:23.578
+<v Tim Pritlove>Und dann machen die kurz alles kaputt und dann ist alles richtig scheiße und
+
+00:35:23.578 --> 00:35:24.598
+<v Tim Pritlove>erst dann wird es wieder besser.
+
+00:35:24.738 --> 00:35:29.478
+<v Tim Pritlove>Aber da habe ich ehrlich gesagt nicht so Bock drauf und von daher würde ich
+
+00:35:29.478 --> 00:35:32.798
+<v Tim Pritlove>mir auch wünschen, dass wir da die Kurve noch bekommen.
+
+00:35:32.938 --> 00:35:36.538
+<v Tim Pritlove>Not all is lost, aber das ist definitiv so ein bisschen der Trend.
+
+00:35:36.538 --> 00:35:43.498
+<v Tim Pritlove>Und jetzt hatten wir den Jean ja hier und haben uns auch viel darüber unterhalten
+
+00:35:43.498 --> 00:35:49.458
+<v Tim Pritlove>und das war ja auch gerade zu dem Zeitpunkt, als diese großen Demonstrationen auftraten.
+
+00:35:50.858 --> 00:35:53.718
+<v Tim Pritlove>Und natürlich hat man dann immer so ein bisschen die Hoffnung so,
+
+00:35:53.798 --> 00:36:01.018
+<v Tim Pritlove>oh Deutschland erwacht und warnt jetzt sozusagen vor den Nazis und diese große
+
+00:36:01.018 --> 00:36:02.358
+<v Tim Pritlove>Beteiligung von Leuten.
+
+00:36:04.458 --> 00:36:10.918
+<v Tim Pritlove>Die täuscht dann schnell erstmal darüber hinweg, dass das eben keine wirkliche
+
+00:36:10.918 --> 00:36:13.538
+<v Tim Pritlove>politische Bewegung ist, die dort entsteht.
+
+00:36:14.378 --> 00:36:17.218
+<v Tim Pritlove>Das hat man auch schon gespürt, wenn man so ein bisschen auf den Demos war.
+
+00:36:18.458 --> 00:36:22.398
+<v Tim Pritlove>Da wurden dann halt viel Reden geschwungen, die sagen wir mal sehr.
+
+00:36:25.098 --> 00:36:29.898
+<v Tim Pritlove>In so einer Tradition linker Proteste war, weil das ja dann auch die Leute waren,
+
+00:36:29.978 --> 00:36:32.318
+<v Tim Pritlove>die diese Demos so kurzfristig organisiert haben.
+
+00:36:32.798 --> 00:36:38.418
+<v Tim Pritlove>Also es wurde ja quasi von so ich sag mal salopp von so Demoprofis organisiert.
+
+00:36:39.398 --> 00:36:45.438
+<v Tim Pritlove>Oder so Leute, in denen, sagen wir mal, demonstrieren so ein kulturelles Ding ist.
+
+00:36:45.498 --> 00:36:48.278
+<v Tim Pritlove>So wie andere Leute zum Fußball gehen, gibt es halt auch Leute,
+
+00:36:48.378 --> 00:36:52.718
+<v Tim Pritlove>die machen halt so Demos und auf einmal standen da eine Million Leute rum und
+
+00:36:52.718 --> 00:36:54.338
+<v Tim Pritlove>nicht irgendwie 300 wie sonst.
+
+00:36:55.058 --> 00:36:57.618
+<v Tim Pritlove>Und damit konnten die dann aber auch nicht so richtig umgehen,
+
+00:36:57.818 --> 00:37:02.638
+<v Tim Pritlove>weil die einfach gar nicht begriffen haben, zu wem sie jetzt eigentlich sprechen.
+
+00:37:03.378 --> 00:37:10.138
+<v Tim Pritlove>Natürlich, ich war ja auch auf diesen Demos, es war ja schon auch ein Bekenntnis
+
+00:37:10.138 --> 00:37:16.398
+<v Tim Pritlove>einer verstörten bürgerlichen Gesellschaft, die irgendwie.
+
+00:37:18.379 --> 00:37:24.999
+<v Tim Pritlove>Nicht einverstanden war mit dem, was AfD und CDU-Angehörige und so weiter da
+
+00:37:24.999 --> 00:37:29.339
+<v Tim Pritlove>auf diesem Treffen besprochen haben und die auch generell, sagen wir mal,
+
+00:37:29.359 --> 00:37:32.339
+<v Tim Pritlove>Interesse an einem friedlichen Zusammensein haben,
+
+00:37:32.559 --> 00:37:37.019
+<v Tim Pritlove>aber auch keine wirkliche Erfahrung darin haben,
+
+00:37:37.259 --> 00:37:39.799
+<v Tim Pritlove>wie man sich dagegen politisch aufstellt.
+
+00:37:39.799 --> 00:37:43.039
+<v Tim Pritlove>Während es halt so eine schweigende Minderheit gab, die eben nicht dort war
+
+00:37:43.039 --> 00:37:49.459
+<v Tim Pritlove>und die das alles ignoriert,
+
+00:37:49.579 --> 00:37:53.719
+<v Tim Pritlove>die mit diesen ganzen Zusammenkünften in großen Städten sowieso nicht viel anfangen
+
+00:37:53.719 --> 00:37:56.919
+<v Tim Pritlove>kann, die wohnen irgendwo auf dem Land und sehen das halt irgendwie alles ganz anders.
+
+00:37:56.919 --> 00:38:02.699
+<v Tim Pritlove>Auch die AfD hat sich dann schnell weggeduckt und hat es halt einfach ausgesessen, wohlwissend,
+
+00:38:02.939 --> 00:38:08.779
+<v Tim Pritlove>dass das eben jetzt kein totaler Linksruck ist, der sich da gerade abgezeichnet
+
+00:38:08.779 --> 00:38:10.539
+<v Tim Pritlove>hat und das jetzt irgendwie alle erwachen,
+
+00:38:10.719 --> 00:38:19.779
+<v Tim Pritlove>sondern das muss man nur irgendwie aussitzen und einfach weiter dieselbe Leier
+
+00:38:19.779 --> 00:38:25.659
+<v Tim Pritlove>von sich geben und das geht dann auch wieder weg und so ist es halt auch.
+
+00:38:25.659 --> 00:38:31.959
+<v Linus Neumann>Wie blickst du denn jetzt, also darf man nicht vergessen, die Korrektivrecherche,
+
+00:38:32.579 --> 00:38:36.899
+<v Linus Neumann>was war der Neuigkeitswert der Korrektivrecherche?
+
+00:38:38.599 --> 00:38:44.259
+<v Linus Neumann>Man konnte ja auch die Perspektive vertreten, so achso, die Rechtsradikalen
+
+00:38:44.259 --> 00:38:46.239
+<v Linus Neumann>sind Rechtsradikalen, das ist ja was Neues.
+
+00:38:49.619 --> 00:38:56.359
+<v Linus Neumann>Und das haben ja auch einige durchaus so getan quasi auch so Vertretende gesagt
+
+00:38:56.359 --> 00:38:57.979
+<v Linus Neumann>haben, das ist ja wohl jetzt keine Neuigkeit,
+
+00:39:00.299 --> 00:39:04.379
+<v Linus Neumann>ich denke und es war wahrscheinlich auch inhaltlich war es jetzt keine,
+
+00:39:04.479 --> 00:39:06.979
+<v Linus Neumann>was hat die Korrektivrecherche aber gezeigt, wie sind da die.
+
+00:39:09.719 --> 00:39:14.239
+<v Linus Neumann>Verzweigungen mit wem, wer agiert da alles zusammen,
+
+00:39:14.359 --> 00:39:21.159
+<v Linus Neumann>wer trifft sich daheimlich vom Frau vom Verein Deutsche Sprache über einen also
+
+00:39:21.159 --> 00:39:25.479
+<v Linus Neumann>bekennenden Hardcore-Rechtsradikalen zu ein paar Leuten,
+
+00:39:25.639 --> 00:39:29.659
+<v Linus Neumann>die irgendwie durch ein Bäcker-Franchise Millionäre sind,
+
+00:39:29.919 --> 00:39:34.979
+<v Linus Neumann>mit irgendwie halt den Vertretern oder den rechten Händen von den AfDlern.
+
+00:39:35.119 --> 00:39:44.879
+<v Linus Neumann>Das ist quasi ein breiteres Bündnis mit radikalen Kräften und Kohle in der,
+
+00:39:46.328 --> 00:39:50.488
+<v Linus Neumann>Im Verborgenen existiert, als man es vielleicht meint.
+
+00:39:50.628 --> 00:39:55.968
+<v Linus Neumann>Und das hat natürlich auch diese Macht dieser Gruppierung ein bisschen mehr
+
+00:39:55.968 --> 00:40:01.628
+<v Linus Neumann>erklärt, dass die nämlich halt im Verborgenen zusammenarbeiten und sich durchaus darüber abstimmen,
+
+00:40:01.828 --> 00:40:10.028
+<v Linus Neumann>welche Influencerin jetzt, welchen Quatsch, welche Narrative prägt und wie man
+
+00:40:10.028 --> 00:40:12.508
+<v Linus Neumann>sich das so ein bisschen aufteilt zwischen, ja okay,
+
+00:40:12.748 --> 00:40:18.288
+<v Linus Neumann>mit den völlig, die völlig radikalen Frühstück, der Sellner ab und dann sagt
+
+00:40:18.288 --> 00:40:21.608
+<v Linus Neumann>er, ja und wie machen wir das hier, dass wir die Ausländer rauskriegen.
+
+00:40:23.528 --> 00:40:30.128
+<v Linus Neumann>Und natürlich war da inhaltlich alles nichts Neues bei, außer dass man gesagt
+
+00:40:30.128 --> 00:40:31.348
+<v Linus Neumann>hat, okay fuck, das machen die wirklich.
+
+00:40:33.288 --> 00:40:37.808
+<v Linus Neumann>Und dann entstehen diese Demonstrationen und dann versanden sie auch,
+
+00:40:38.228 --> 00:40:42.088
+<v Linus Neumann>verebben sie genauso wieder und ein Jahr später, und es hat auch nicht lange
+
+00:40:42.088 --> 00:40:44.888
+<v Linus Neumann>gedauert, bis ja dann die AfD sich auch rausgetraut hat und gesagt hat,
+
+00:40:44.928 --> 00:40:47.108
+<v Linus Neumann>alles klar, jetzt normalisieren wir das.
+
+00:40:47.608 --> 00:40:51.428
+<v Linus Neumann>Und wir sagen ja klar, sagen wir Remigration. Ja sicher.
+
+00:40:52.388 --> 00:40:54.308
+<v Linus Neumann>Natürlich sollen die hier raus, was habt ihr euch denn gedacht?
+
+00:40:57.288 --> 00:41:01.288
+<v Linus Neumann>Und das ist natürlich auch eine tragische Folge davon,
+
+00:41:01.828 --> 00:41:08.848
+<v Linus Neumann>dass mit all diesen Enthüllungen, das sich immer weiter normalisiert und an
+
+00:41:08.848 --> 00:41:12.948
+<v Linus Neumann>keiner Stelle irgendwo mal die Gesellschaft an den Punkt kommt,
+
+00:41:13.068 --> 00:41:14.148
+<v Linus Neumann>zu sagen okay, reicht jetzt.
+
+00:41:14.888 --> 00:41:19.748
+<v Linus Neumann>Und deswegen diskutieren wir jetzt inzwischen darüber, dass man eine verfassungsfeindliche
+
+00:41:19.748 --> 00:41:26.548
+<v Linus Neumann>Partei potenziell verbieten muss und ich weiß ich kann mich da selber nicht zu,
+
+00:41:28.308 --> 00:41:34.028
+<v Linus Neumann>so richtig zu ich weiß da nicht, was das Richtige ist also,
+
+00:41:34.808 --> 00:41:39.468
+<v Linus Neumann>weil Ben Pejas verschaffst du dem mit dem Verbotsverfahren auch wieder nur auffind
+
+00:41:39.468 --> 00:41:43.808
+<v Linus Neumann>aber es kann ja auch irgendwie nicht sein, dass kein Kraut dagegen gewachsen ist.
+
+00:41:46.864 --> 00:41:53.004
+<v Tim Pritlove>Also ich denke, man redet ja immer so gerne von wehrhafter Demokratie,
+
+00:41:53.504 --> 00:41:56.504
+<v Tim Pritlove>nur hat man manchmal so den Eindruck, in dem Moment, wo es halt dann wirklich
+
+00:41:56.504 --> 00:42:01.664
+<v Tim Pritlove>mal nötig wäre, dass sie dann wehrhaftig wird, dass es dann halt nicht ist.
+
+00:42:02.464 --> 00:42:08.744
+<v Tim Pritlove>Weil es eben auch so eine Art, vielleicht ein bisschen übertrieben,
+
+00:42:08.864 --> 00:42:14.244
+<v Tim Pritlove>aber es wirkt manchmal so wie so ein Freifahrtschein für stark rechtslastige,
+
+00:42:14.404 --> 00:42:16.124
+<v Tim Pritlove>konservative Bewegungen gibt.
+
+00:42:16.204 --> 00:42:20.804
+<v Tim Pritlove>Das wird immer mehr nur so als so Störungen, leichte Ripples im System angesehen.
+
+00:42:20.924 --> 00:42:24.224
+<v Tim Pritlove>Ja, ja, da ist halt mal wieder einer ein bisschen radikaler.
+
+00:42:24.784 --> 00:42:29.824
+<v Tim Pritlove>Aber lass mal jemand sich irgendwie auf der Straße festkleben und Autos absperren.
+
+00:42:30.864 --> 00:42:36.224
+<v Tim Pritlove>Dann drehen alle total durch, da werden dann sofort terroristische Vereinigungen.
+
+00:42:38.564 --> 00:42:44.684
+<v Tim Pritlove>Herbeigedacht. Also das ist dann sozusagen, also ich fand jetzt,
+
+00:42:44.784 --> 00:42:51.244
+<v Tim Pritlove>sagen wir mal, das Vorgehen in dieser ganzen Klimaklebersache nicht besonders,
+
+00:42:53.444 --> 00:42:58.044
+<v Tim Pritlove>zielführend. Aber was auch immer sie dort getan haben, war jetzt nicht so,
+
+00:42:58.104 --> 00:43:02.044
+<v Tim Pritlove>dass das irgendwie Deutschland, destabilisiert und dass man dann irgendwie anfangen
+
+00:43:02.044 --> 00:43:06.164
+<v Tim Pritlove>muss, darüber zu lamentieren, dass es sich um eine terroristische Vereinigung handelt.
+
+00:43:07.684 --> 00:43:14.124
+<v Tim Pritlove>Während halt so eine totale Unterwanderung des Staates und so die vorzeitige Planung, ja,
+
+00:43:14.264 --> 00:43:17.744
+<v Tim Pritlove>das geht für mich sehr viel mehr in diese Richtung, aber da haben wir einfach
+
+00:43:17.744 --> 00:43:21.164
+<v Tim Pritlove>nicht die Begrifflichkeiten und vor allem haben wir nicht die Sensibilität innerhalb
+
+00:43:21.164 --> 00:43:22.864
+<v Tim Pritlove>des etablierten Systems,
+
+00:43:23.104 --> 00:43:26.944
+<v Tim Pritlove>was das eben auch sofort als Gefahr erkennt, weil es eben auch einfach teilweise
+
+00:43:26.944 --> 00:43:29.804
+<v Tim Pritlove>schon viel zu zersetzt ist mit diesem Gedankengut.
+
+00:43:29.984 --> 00:43:35.944
+<v Tim Pritlove>Ich erinnere nur an die ganze Diskussion rund um Herrn Maaßen, der also.
+
+00:43:37.444 --> 00:43:42.824
+<v Tim Pritlove>Chef dieses Verfassungsschutzes war, aber mittlerweile halt einfach auch offen
+
+00:43:42.824 --> 00:43:48.424
+<v Tim Pritlove>mit der AfD sympathisiert, beziehungsweise eben auch schon seine eigene rechtslastige
+
+00:43:48.424 --> 00:43:51.604
+<v Tim Pritlove>Partei sozusagen am Start hat.
+
+00:43:51.824 --> 00:43:57.744
+<v Tim Pritlove>Und da muss man sich dann halt nicht wundern. Und das sind halt alles so Sachen,
+
+00:43:57.904 --> 00:44:02.504
+<v Tim Pritlove>die immer so latent geduldet werden und irgendwann fällt einem diese Duldung
+
+00:44:02.504 --> 00:44:05.704
+<v Tim Pritlove>eben auch auf die Füße und das ist so ein bisschen das Problem.
+
+00:44:06.984 --> 00:44:10.164
+<v Tim Pritlove>Soll man jetzt gar nicht mehr dagegen protestieren? Natürlich nicht,
+
+00:44:10.324 --> 00:44:12.584
+<v Tim Pritlove>aber man muss sich überlegen,
+
+00:44:12.784 --> 00:44:19.664
+<v Tim Pritlove>wie man diese Überzeugung in die Gesellschaft trägt und das ist halt etwas,
+
+00:44:19.744 --> 00:44:24.884
+<v Tim Pritlove>das muss sich bei den Leuten über das Privat- und Geschäftliche miteinander
+
+00:44:24.884 --> 00:44:29.624
+<v Tim Pritlove>einfach mehr durchsetzen,
+
+00:44:29.904 --> 00:44:34.244
+<v Tim Pritlove>dass man an der Stelle in die Gesellschaft wirkt.
+
+00:44:34.244 --> 00:44:38.604
+<v Tim Pritlove>Wir haben da alle einzeln nur sehr begrenzte Möglichkeiten.
+
+00:44:39.931 --> 00:44:42.491
+<v Tim Pritlove>Vielleicht manchmal ein bisschen mehr, weil wir hier irgendwie öffentlichen
+
+00:44:42.491 --> 00:44:46.051
+<v Tim Pritlove>Podcasts sprechen, aber ganz ehrlich, man darf sich auch nicht zu viel,
+
+00:44:46.351 --> 00:44:52.031
+<v Tim Pritlove>auch wir dürfen uns nicht zu viel darauf einbilden, welches Änderungspotenzial wir haben.
+
+00:44:52.031 --> 00:44:55.031
+<v Tim Pritlove>Das sind immer nur Schritte im Kleinen.
+
+00:44:55.191 --> 00:45:00.131
+<v Tim Pritlove>Aber in dem Moment, wo man einfach darauf hinweist und sagt so,
+
+00:45:00.591 --> 00:45:04.311
+<v Tim Pritlove>das passt mir aber jetzt nicht, wie du das hier denkst, das passt mir jetzt
+
+00:45:04.311 --> 00:45:08.291
+<v Tim Pritlove>nicht, wie du jetzt hier handelst, ich halte das für den falschen Schritt.
+
+00:45:08.291 --> 00:45:16.611
+<v Tim Pritlove>Das sind dann so die steinschleifenden Elemente, die einen langfristigen Wandel auch bewirken können.
+
+00:45:17.731 --> 00:45:22.611
+<v Tim Pritlove>Da gibt es auch gute Beispiele. Ich meine, dieses Narrativ, dass immer alles
+
+00:45:22.611 --> 00:45:25.131
+<v Tim Pritlove>schlechter wird in der Gesellschaft, stimmt ja so auch nicht.
+
+00:45:25.131 --> 00:45:29.671
+<v Tim Pritlove>Wir haben ja auch über die Zeit, sind es gerade immer wieder die Dinge,
+
+00:45:29.771 --> 00:45:33.071
+<v Tim Pritlove>die gerade nicht im Fokus stehen, die sich verbessern.
+
+00:45:33.611 --> 00:45:44.991
+<v Tim Pritlove>Unser Verhältnis zu Homosexualität ist sicherlich immer noch ein umstrittenes Thema,
+
+00:45:45.171 --> 00:45:51.391
+<v Tim Pritlove>insbesondere wenn die Rechtsradikalen hier kommen, weil es für sie ein beliebtes Muster ist.
+
+00:45:51.391 --> 00:45:56.331
+<v Tim Pritlove>Trotzdem kann man ja jetzt nicht sagen, dass die Gesellschaft nicht mit der
+
+00:45:56.331 --> 00:46:03.691
+<v Tim Pritlove>Zeit gelernt hat, hier viel offener und warmherziger mit diesem Thema umzugehen.
+
+00:46:03.691 --> 00:46:09.071
+<v Linus Neumann>Faszinierend ist doch aber eigentlich, wie man sich jemals auf den Trichter gekommen ist,
+
+00:46:09.931 --> 00:46:13.831
+<v Linus Neumann>irgendwie Menschen nach der Sexualität,
+
+00:46:14.551 --> 00:46:22.011
+<v Linus Neumann>wo war das denn jemals, überlege ich mal die Herausforderungen der Menschheit,
+
+00:46:22.351 --> 00:46:28.171
+<v Linus Neumann>die wir so alle gemeistert haben, bis wir irgendwann hier sitzen konnten.
+
+00:46:28.171 --> 00:46:34.271
+<v Linus Neumann>Wann war da jemals, dass irgendjemand homosexuell ist oder heterosexuell ein Problem?
+
+00:46:35.191 --> 00:46:37.451
+<v Linus Neumann>Genauso, was mich richtig, richtig,
+
+00:46:37.451 --> 00:46:42.711
+<v Linus Neumann>richtig fasziniert, ist der Hass auf Transmenschen. Ich verstehe es nicht.
+
+00:46:43.231 --> 00:46:49.331
+<v Linus Neumann>Ich verstehe nicht, die tun niemandem etwas. Die haben doch genug mit sich selber zu tun.
+
+00:46:50.211 --> 00:46:53.051
+<v Linus Neumann>Warum muss man die auch noch zum Feindbild erklären?
+
+00:46:53.051 --> 00:46:58.651
+<v Tim Pritlove>Ja, ganz einfach. Genauso wie mit Flüchtlingen, weil es die Schwächsten sind.
+
+00:46:58.751 --> 00:47:02.391
+<v Tim Pritlove>Und es ist immer am einfachsten auf die Schwächsten zu gehen,
+
+00:47:02.471 --> 00:47:04.211
+<v Tim Pritlove>weil die sich eben am wenigsten wehren können.
+
+00:47:05.791 --> 00:47:11.311
+<v Tim Pritlove>Warum geht der Bulli in der Klasse, in der Schulklasse auf die Schwächsten los?
+
+00:47:11.411 --> 00:47:14.951
+<v Tim Pritlove>Weil die sich am wenigsten wehren können. Da kann man sich am schnellsten stark
+
+00:47:14.951 --> 00:47:19.711
+<v Tim Pritlove>und überlegen fühlen und das ist halt genau das, was an der Stelle bewirkt werden
+
+00:47:19.711 --> 00:47:22.431
+<v Tim Pritlove>soll. Ich sage nur, es ist möglich ...
+
+00:47:23.450 --> 00:47:28.810
+<v Tim Pritlove>Diese Dinge über die Zeit zu verbessern und es ist auch möglich,
+
+00:47:29.410 --> 00:47:37.690
+<v Tim Pritlove>dass Deutschland zu der Einsicht kommen kann, dass wir irgendwie uns mal wieder
+
+00:47:37.690 --> 00:47:42.050
+<v Tim Pritlove>offener zeigen müssen gegenüber einem gesellschaftlichen Wandel.
+
+00:47:42.050 --> 00:47:47.890
+<v Tim Pritlove>Dass wir unsere Behörden und unsere bürokratische Struktur reformieren müssen.
+
+00:47:47.990 --> 00:47:51.630
+<v Tim Pritlove>Dass wir unter Umständen darüber nachdenken müssen, das ganze Land in seiner
+
+00:47:51.630 --> 00:47:55.470
+<v Tim Pritlove>Struktur umzubauen, auch nachhaltig umzubauen.
+
+00:47:55.470 --> 00:48:02.590
+<v Tim Pritlove>Ja, die Probleme, die Föderalismus derzeit für unsere Weiterentwicklung und
+
+00:48:02.590 --> 00:48:06.250
+<v Tim Pritlove>Gesetzesentwicklung bringt, die müssen halt angegangen werden,
+
+00:48:06.470 --> 00:48:10.290
+<v Tim Pritlove>aber die Widerstände sind halt zu groß, weil keiner will das aufgeben, was er hat.
+
+00:48:10.670 --> 00:48:16.890
+<v Tim Pritlove>Jeder möchte seine Macht behalten und so verhaken wir uns und es geht halt nicht voran.
+
+00:48:16.890 --> 00:48:20.850
+<v Tim Pritlove>Aber das sind halt einfach Prozesse, denen muss Zeit gegeben werden und jetzt
+
+00:48:20.850 --> 00:48:21.970
+<v Tim Pritlove>müssen wir erstmal verhindern,
+
+00:48:22.170 --> 00:48:27.870
+<v Tim Pritlove>dass wir uns nicht komplett beeinstellen, indem wir halt einfach der Mafia einen
+
+00:48:27.870 --> 00:48:31.050
+<v Tim Pritlove>Schlüssel in die Hand geben und sagen, macht ihr das doch mal,
+
+00:48:31.210 --> 00:48:34.830
+<v Tim Pritlove>ihr könnt doch so tolle Reden halten, das wird doch bestimmt super.
+
+00:48:36.010 --> 00:48:41.390
+<v Tim Pritlove>Also not all is lost, aber es schmeckt alles gerade nicht besonders gut.
+
+00:48:43.569 --> 00:48:49.829
+<v Linus Neumann>Dieses, ich finde es trotz, also was bei dem allen mitschwingt,
+
+00:48:49.909 --> 00:48:56.249
+<v Linus Neumann>ist ja irgendwie auch ein fehlendes gemeinsames Verständnis darüber,
+
+00:48:56.469 --> 00:48:58.669
+<v Linus Neumann>was denn jetzt überhaupt ein Problem ist.
+
+00:48:59.869 --> 00:49:04.029
+<v Linus Neumann>Also was ist ein Problem in diesem Land ja, für einige Leute,
+
+00:49:04.609 --> 00:49:08.809
+<v Linus Neumann>also für die Leute, die sagen, dieses Land ist irgendwie am Ende und kann nur
+
+00:49:08.809 --> 00:49:12.269
+<v Linus Neumann>noch von den Faschisten gerettet werden wenn du denen sagst,
+
+00:49:12.329 --> 00:49:15.249
+<v Linus Neumann>sag mal bitte, was hier gerade schiefläuft dann sagen die dir.
+
+00:49:17.189 --> 00:49:21.109
+<v Linus Neumann>Genderstern und in der U-Bahn saß letztens irgendwie, einer hatte eine andere
+
+00:49:21.109 --> 00:49:26.109
+<v Linus Neumann>Hautfarbe als ich also das sind ja nun wirklich also das sind absolute Luxusprobleme
+
+00:49:26.109 --> 00:49:29.049
+<v Linus Neumann>also wenn du das zum Problem machst,
+
+00:49:29.729 --> 00:49:37.789
+<v Linus Neumann>dann hast du ja wirklich also richtig keine anderen mehr, bis du an den Punkt kommst, zu sagen, also.
+
+00:49:39.509 --> 00:49:44.289
+<v Linus Neumann>Ich konnte gestern Nacht nicht schlafen, weil ich einen gegenderten Text in
+
+00:49:44.289 --> 00:49:48.389
+<v Linus Neumann>der Zeitung gelesen habe, ich bestelle die Zeitung jetzt ab, Schluss!
+
+00:49:48.929 --> 00:49:54.449
+<v Linus Neumann>Also, da muss es dir doch wirklich richtig, richtig viel zu gut gehen,
+
+00:49:54.829 --> 00:49:57.729
+<v Linus Neumann>dass du das als ein Problem erfassen kannst.
+
+00:49:57.829 --> 00:50:05.709
+<v Linus Neumann>Ja, während irgendwie, weiß ich, Inflation bei 10, 20 Prozent ist, Kriege ausbrechen,
+
+00:50:06.829 --> 00:50:14.429
+<v Linus Neumann>der Planet anfängt sich in eine Hitze zu erwärmen, die das Leben unmöglich macht,
+
+00:50:14.509 --> 00:50:15.929
+<v Linus Neumann>sagst du dann irgendwie so, hier,
+
+00:50:16.629 --> 00:50:21.749
+<v Linus Neumann>Genderstern und da ist einer, der will jetzt eine Frau sein,
+
+00:50:21.829 --> 00:50:23.649
+<v Linus Neumann>der will, dass ich den anders nenne. Nein!
+
+00:50:24.409 --> 00:50:30.249
+<v Linus Neumann>Nein! Also ich meine, du musst doch völlig neben der Spur sein,
+
+00:50:30.689 --> 00:50:32.449
+<v Linus Neumann>um das irgendwie als Problem wahrzunehmen.
+
+00:50:33.109 --> 00:50:35.969
+<v Linus Neumann>Also nicht neben der Spur, dir muss das richtig gut gehen.
+
+00:50:36.749 --> 00:50:39.849
+<v Linus Neumann>Vielleicht müsste man daran mal was ändern. Wird ja jetzt kommen.
+
+00:50:40.029 --> 00:50:43.109
+<v Linus Neumann>Also wenn man nichts machen, wird es den Leuten richtig schlechter gehen.
+
+00:50:43.149 --> 00:50:47.749
+<v Linus Neumann>Aber ich verstehe nicht, mir kommt nicht dieses Denken zustande,
+
+00:50:49.272 --> 00:50:52.872
+<v Linus Neumann>Also wie weit man von einer Problemanalyse entfernt sein muss,
+
+00:50:53.032 --> 00:50:57.532
+<v Linus Neumann>um zu sagen, das müssen wir jetzt ändern.
+
+00:50:58.452 --> 00:51:01.032
+<v Linus Neumann>Dann wird auch alles andere gut. Dann ist das Land hier gerettet.
+
+00:51:02.992 --> 00:51:06.052
+<v Linus Neumann>Irgendwie mit den komplexen Sachverhalten, die uns umgeben würden,
+
+00:51:07.312 --> 00:51:08.412
+<v Linus Neumann>sich auseinanderzusetzen.
+
+00:51:10.612 --> 00:51:14.572
+<v Linus Neumann>Ich habe ja schon sehr oft gesagt, dass mein Eindruck ist, es liegt an der Bildungspolitik,
+
+00:51:14.692 --> 00:51:18.472
+<v Linus Neumann>weil wir einfach unser ganzes Geld, weiß ich nicht,
+
+00:51:18.772 --> 00:51:25.832
+<v Linus Neumann>den Reichen gegeben haben, statt dafür zu sorgen, dass wir irgendwie der Zukunft
+
+00:51:25.832 --> 00:51:31.512
+<v Linus Neumann>zugewandte Bildung der Gesellschaft angedeihen lassen.
+
+00:51:31.512 --> 00:51:36.372
+<v Linus Neumann>Und jetzt haben wir halt hier, weiß ich nicht, gefühlt wahrscheinlich zehn,
+
+00:51:36.652 --> 00:51:43.692
+<v Linus Neumann>zehn Dekaden oder was ist das, acht oder neun Jahrzehnte die Leute verdorfen lassen.
+
+00:51:44.392 --> 00:51:48.372
+<v Linus Neumann>Und dann treffen die halt auf Massenmedien erst das Fernsehen,
+
+00:51:48.452 --> 00:51:50.552
+<v Linus Neumann>jetzt auch noch das Internet, dann auch noch Social Media.
+
+00:51:52.752 --> 00:51:57.652
+<v Linus Neumann>Und jetzt wundern wir uns, dass sie die Komplexität und Sensibilität der Welt nicht verstehen.
+
+00:51:58.392 --> 00:52:03.052
+<v Linus Neumann>Und sagen, was der da erzählt, das klingt ein bisschen kompliziert.
+
+00:52:04.212 --> 00:52:10.192
+<v Linus Neumann>Irgendwie die komplette Heizung ändern, das mir leuchtet eigentlich nur ein,
+
+00:52:10.272 --> 00:52:13.072
+<v Linus Neumann>dass was verbrennen wird, warm. Das haben wir lange genug so gemacht.
+
+00:52:13.572 --> 00:52:16.612
+<v Linus Neumann>Und jetzt kommt einer, der will da Wärme pumpen?
+
+00:52:17.172 --> 00:52:25.752
+<v Linus Neumann>Ne, ne, ne, ne, ne. Ich kauf lieber mal noch eine Ölheizung und eine Gasheizung,
+
+00:52:27.312 --> 00:52:30.132
+<v Linus Neumann>und das ist jetzt eine Bedrohung. Das wollen wir nicht.
+
+00:52:30.472 --> 00:52:36.732
+<v Linus Neumann>Und außerdem also ich das hat auch ein bisschen könnte mir vorstellen,
+
+00:52:36.792 --> 00:52:38.912
+<v Linus Neumann>dass das ein bisschen was mit Intelligenz auch zu tun haben könnte.
+
+00:52:39.212 --> 00:52:42.632
+<v Tim Pritlove>Also ich würde es nicht so sehr darauf schieben, sondern es ist meiner Meinung
+
+00:52:42.632 --> 00:52:46.112
+<v Tim Pritlove>nach, ist das Hauptproblem die mangelnde Bereitschaft bei sich selber anzufangen
+
+00:52:46.112 --> 00:52:49.672
+<v Tim Pritlove>und einfach mal Dinge auch geschehen zu lassen.
+
+00:52:49.672 --> 00:52:55.952
+<v Tim Pritlove>Also alle wollen was ändern, aber keiner möchte das für sich ändern,
+
+00:52:56.112 --> 00:52:59.332
+<v Tim Pritlove>weil man einfach auch mal das Gefühl hat, wenn ich was abgebe,
+
+00:52:59.432 --> 00:53:00.932
+<v Tim Pritlove>kriege ich nichts zurück.
+
+00:53:01.172 --> 00:53:06.512
+<v Tim Pritlove>Und das ist natürlich Quatsch, denn die ganze Gesellschaft basiert ja darauf,
+
+00:53:06.712 --> 00:53:11.092
+<v Tim Pritlove>dass man was abgibt. Deswegen zahlen wir Steuern, aber auch Steuern sind schon irgendwie böse.
+
+00:53:11.852 --> 00:53:17.832
+<v Tim Pritlove>Und das ist schon das falsche Verständnis.
+
+00:53:17.932 --> 00:53:20.492
+<v Tim Pritlove>Ich habe überhaupt gar kein Problem damit Steuern zu bezahlen.
+
+00:53:20.612 --> 00:53:23.092
+<v Tim Pritlove>Ich habe auch noch nicht mal ein Problem damit viel Steuern zu bezahlen,
+
+00:53:23.492 --> 00:53:27.172
+<v Tim Pritlove>wenn ich denn auch viel dafür zurückerhalte für uns alle.
+
+00:53:28.612 --> 00:53:35.232
+<v Tim Pritlove>Was stört dich am meisten, wenn du durch diese Stadt gehst, mal jetzt vom Verkehr abgesehen?
+
+00:53:36.272 --> 00:53:41.212
+<v Linus Neumann>Berlin? Wenn ich durch Berlin gehe, was stört mich am meisten?
+
+00:53:43.007 --> 00:53:46.887
+<v Linus Neumann>Manchmal kackt da ein Hund hin und die Leute heben das nicht auf.
+
+00:53:46.967 --> 00:53:48.687
+<v Linus Neumann>Das finde ich zum Beispiel störend.
+
+00:53:49.947 --> 00:53:54.407
+<v Tim Pritlove>Mich stört das am meisten, Obdachlosigkeit stört mich am meisten.
+
+00:53:54.547 --> 00:53:56.027
+<v Linus Neumann>Machen die aber nicht, um dich zu ärgern.
+
+00:53:56.547 --> 00:54:00.707
+<v Tim Pritlove>Nein, ich störe auch nicht die Obdachlosen, sondern mich stört, dass es die gibt.
+
+00:54:01.167 --> 00:54:07.487
+<v Tim Pritlove>Dass sozusagen die Gesellschaft nicht in der Lage ist, das Thema zu priorisieren.
+
+00:54:08.807 --> 00:54:13.767
+<v Tim Pritlove>Leute sitzen im Winter unter einer Brücke, Das kann ich mir einfach nicht vorstellen.
+
+00:54:14.347 --> 00:54:17.927
+<v Tim Pritlove>Und ich kann mir vor allem nicht vorstellen, dass wir gesellschaftlich nicht
+
+00:54:17.927 --> 00:54:24.087
+<v Tim Pritlove>dazu in der Lage sind, das finanziell hinzubekommen, den Leuten einfach erstmal
+
+00:54:24.087 --> 00:54:27.187
+<v Tim Pritlove>irgendwie eine Wohnung zu geben. Priorisiert.
+
+00:54:27.187 --> 00:54:30.307
+<v Linus Neumann>Schlimm ist ja, die sitzen ja nicht unter der Brücke, sondern die sitzen auf
+
+00:54:30.307 --> 00:54:32.927
+<v Linus Neumann>der fucking Brücke, weil da die Menschen lang gehen.
+
+00:54:33.207 --> 00:54:36.827
+<v Linus Neumann>Und Brücke ist kalt, weil unten drunter auch kalt ist.
+
+00:54:37.627 --> 00:54:41.447
+<v Tim Pritlove>Wo auch immer sie sind, solange sie sozusagen nicht in einer eigenen Wohnung
+
+00:54:41.447 --> 00:54:44.287
+<v Tim Pritlove>sind, ist es überhaupt nicht möglich, die Rente zu integrieren.
+
+00:54:44.687 --> 00:54:48.527
+<v Tim Pritlove>So, dann regt man sich schnell darüber auf, was das für Auswirkungen hat.
+
+00:54:48.607 --> 00:54:49.827
+<v Tim Pritlove>Oh, ich werde angebettelt.
+
+00:54:49.947 --> 00:54:53.487
+<v Tim Pritlove>Oh, ich fühle mich unsicher in der Straße und hier sind ja so merkwürdige Gestalten
+
+00:54:53.487 --> 00:55:02.327
+<v Tim Pritlove>und so weiter. Ja, weil wir nicht über die richtigen Sachen nachdenken und weil wir nicht bereit sind.
+
+00:55:02.667 --> 00:55:08.027
+<v Tim Pritlove>Ich kann nur sagen, nehmt mein Geld, hier steuern, ich zahle auch gerne nochmal
+
+00:55:08.027 --> 00:55:09.887
+<v Tim Pritlove>ein paar Prozent mehr, aber...
+
+00:55:11.334 --> 00:55:20.054
+<v Tim Pritlove>Beseitigt doch erstmal das Elend der Leute, weil das ist für die erstmal vor allem schlimm,
+
+00:55:20.274 --> 00:55:25.234
+<v Tim Pritlove>aber es ist ja auch in der Konsequenz dann auch für alle schlimm,
+
+00:55:25.394 --> 00:55:30.834
+<v Tim Pritlove>weil für alle Beteiligten ist es einfach unangenehm.
+
+00:55:30.834 --> 00:55:37.314
+<v Tim Pritlove>Und das sind so Dinge, die mir am wichtigsten wären, aber die diese Gesellschaft
+
+00:55:37.314 --> 00:55:41.634
+<v Tim Pritlove>einfach nicht als am wichtigsten ansieht, sondern wir haben das irgendwie für
+
+00:55:41.634 --> 00:55:45.734
+<v Tim Pritlove>uns auch normalisiert und wir haben das für uns irgendwie so akzeptiert, dass es so ist.
+
+00:55:45.734 --> 00:55:52.254
+<v Tim Pritlove>Und das zeigt halt einfach einen Mangel an Reflexion und ich glaube nicht daran,
+
+00:55:52.514 --> 00:55:55.694
+<v Tim Pritlove>dass es wie ein Bildungsproblem ist oder Leute zu doof sind,
+
+00:55:55.714 --> 00:55:56.734
+<v Tim Pritlove>das zu verstehen, sondern es
+
+00:55:56.734 --> 00:56:06.194
+<v Tim Pritlove>ist einfach ein mangelndes Gesamtgefühl der gesellschaftlichen Empathie,
+
+00:56:06.374 --> 00:56:09.374
+<v Tim Pritlove>was viele Gründe hat, warum das so ein bisschen verloren gegangen ist.
+
+00:56:09.374 --> 00:56:14.914
+<v Tim Pritlove>Auch Medien und so weiter spielen mittlerweile auch ihre Rolle und nicht nur
+
+00:56:14.914 --> 00:56:19.954
+<v Tim Pritlove>die großen Medien, sondern natürlich auch die sozialen Medien und die ganzen
+
+00:56:19.954 --> 00:56:21.014
+<v Tim Pritlove>Ablenkungen, die wir schaffen.
+
+00:56:21.014 --> 00:56:25.834
+<v Tim Pritlove>Und vielleicht ist das jetzt auch ein bisschen eine Überleitung zu dem anderen
+
+00:56:25.834 --> 00:56:32.334
+<v Tim Pritlove>großen Thema, was uns ja eigentlich dieses Jahr in LNP begleitet hat,
+
+00:56:32.894 --> 00:56:39.914
+<v Tim Pritlove>nämlich die Überrollung der Gesellschaft durch eine neue Computertechnologie.
+
+00:56:40.614 --> 00:56:46.414
+<v Tim Pritlove>Die vielleicht manchen so als Thema schon so ein bisschen zum Hals raushängt,
+
+00:56:46.454 --> 00:56:47.274
+<v Tim Pritlove>kann ich auch verstehen.
+
+00:56:48.074 --> 00:56:56.594
+<v Tim Pritlove>Also AI, das totale Buzzword des Jahres 2024 und dabei war es 2023 eigentlich
+
+00:56:56.594 --> 00:57:02.074
+<v Tim Pritlove>auch schon eins hat Blockchain auf jeden Fall mal komplett von der Bühne genommen.
+
+00:57:06.454 --> 00:57:13.154
+<v Tim Pritlove>Ich halte das ja und das habe ich auch von Anfang an so empfunden für,
+
+00:57:16.114 --> 00:57:26.754
+<v Tim Pritlove>großen technologischen Wendepunkt, der eigentlich nur in der Größenordnung wie
+
+00:57:26.754 --> 00:57:29.334
+<v Tim Pritlove>die Einführung von Strom,
+
+00:57:31.014 --> 00:57:38.174
+<v Tim Pritlove>Telefon und Internet zu sehen ist. Also so eine,
+
+00:57:39.199 --> 00:57:44.299
+<v Tim Pritlove>vollständiger technologischer Wandel, der so breite Auswirkungen hat,
+
+00:57:44.579 --> 00:57:50.579
+<v Tim Pritlove>nicht nur jetzt in der Technologie selbst, sondern eben auch in der Gesellschaft.
+
+00:57:50.579 --> 00:57:56.499
+<v Tim Pritlove>Also kaum gab es Strom, waren einfach Maschinen vorstellbar,
+
+00:57:56.639 --> 00:57:58.079
+<v Tim Pritlove>Automatisierung möglich.
+
+00:57:58.359 --> 00:58:04.199
+<v Tim Pritlove>Dinge wie Waschmaschinen, denen wir heute als vollkommen selbstverständlich war,
+
+00:58:04.739 --> 00:58:08.359
+<v Tim Pritlove>das war aber irgendwann mal die totale Revolution, dass du nicht irgendwie einen
+
+00:58:08.359 --> 00:58:15.359
+<v Tim Pritlove>signifikanten Teil deiner Tages- und Wochenzeit auf das Waschen von Kleidung verwenden musstest.
+
+00:58:15.359 --> 00:58:25.319
+<v Tim Pritlove>Und genauso auch Verfügbarkeit von Wasser und Wärme natürlich in ähnlichem Maße.
+
+00:58:26.159 --> 00:58:28.559
+<v Tim Pritlove>Das Telefon hat dann wiederum die
+
+00:58:28.559 --> 00:58:33.899
+<v Tim Pritlove>Kommunikation der Menschen untereinander komplett auf den Kopf gestellt.
+
+00:58:33.899 --> 00:58:38.539
+<v Tim Pritlove>Was man übrigens auch noch sehr schön sehen konnte, so zur Wendezeit,
+
+00:58:38.679 --> 00:58:42.539
+<v Tim Pritlove>als die Mauer fiel und wir auf einmal ein Deutschland hatten,
+
+00:58:42.679 --> 00:58:47.339
+<v Tim Pritlove>was sich schon seit 20 Jahren an die universelle Verfügbarkeit von Telefonen
+
+00:58:47.339 --> 00:58:52.099
+<v Tim Pritlove>gewöhnt hatte und einen anderen Deutschlandteil, bei dem das beileibe noch nicht der Fall war.
+
+00:58:52.099 --> 00:58:56.419
+<v Tim Pritlove>Wo du sehr schön sehen konntest, was das für kulturelle Auswirkungen hat.
+
+00:58:56.479 --> 00:58:59.419
+<v Tim Pritlove>Nicht unbedingt negativ, aber es war halt einfach anders, war transformativ.
+
+00:58:59.619 --> 00:59:04.199
+<v Tim Pritlove>Es ändert einfach die Art und Weise, wie man kommuniziert, wo sich Freundschaften
+
+00:59:04.199 --> 00:59:06.339
+<v Tim Pritlove>bilden, wie sich Verbindungen bilden.
+
+00:59:06.339 --> 00:59:13.499
+<v Tim Pritlove>Weg von so einer lokalen kulturellen Ausbreitung, Nachbarschaft, Freunde besuchen,
+
+00:59:14.299 --> 00:59:20.279
+<v Tim Pritlove>Wege gehen müssen, um in Verbindung zu bleiben versus das Ganze virtualisiert
+
+00:59:20.279 --> 00:59:24.579
+<v Tim Pritlove>sich sozusagen auf so eine Telefonleitung und auf einmal bist du nur noch mit Leuten in Kontakt,
+
+00:59:24.719 --> 00:59:28.999
+<v Tim Pritlove>mit denen du sowieso immer schon was zu tun hast, weil du kannst dann die Leute,
+
+00:59:28.999 --> 00:59:32.279
+<v Tim Pritlove>die um dich herum sind, besser ignorieren, wenn du quasi mit denen,
+
+00:59:32.439 --> 00:59:36.679
+<v Tim Pritlove>mit denen du eh schon ein Ding am Laufen hast, über Fernkommunikation leicht
+
+00:59:36.679 --> 00:59:37.859
+<v Tim Pritlove>in Verbindung bleiben kannst.
+
+00:59:37.939 --> 00:59:40.859
+<v Tim Pritlove>Das Internet hat das dann eben nochmal weiter beschleunigt.
+
+00:59:42.229 --> 00:59:45.149
+<v Tim Pritlove>Als Zwischenstufe haben wir natürlich auf jeden Fall jetzt das Aufkommen der
+
+00:59:45.149 --> 00:59:52.669
+<v Tim Pritlove>sozialen Medien, die vielleicht für sich genommen auch nochmal so ein transformativer Faktor waren,
+
+00:59:53.029 --> 00:59:57.309
+<v Tim Pritlove>also wo man fast noch drüber nachdenken kann, ob Social Media nicht jetzt so
+
+00:59:57.309 --> 01:00:00.449
+<v Tim Pritlove>zwischen Internet kommt und AI kommt.
+
+01:00:00.849 --> 01:00:03.449
+<v Tim Pritlove>Auch nochmal so einen wichtigen Punkt darstellt.
+
+01:00:03.449 --> 01:00:08.289
+<v Tim Pritlove>Aber jetzt AI als solches ist halt insofern was Besonderes,
+
+01:00:08.529 --> 01:00:15.089
+<v Tim Pritlove>als dass es eben gelungen ist, in der Programmierung von Computern einen Weg
+
+01:00:15.089 --> 01:00:22.229
+<v Tim Pritlove>zu finden, mit unfassbar großen Datenmengen auf einmal Dinge anzustellen,
+
+01:00:22.349 --> 01:00:25.089
+<v Tim Pritlove>die so kurz vorher noch gar nicht vorstellbar waren.
+
+01:00:25.089 --> 01:00:30.689
+<v Tim Pritlove>Also das ist sozusagen die Beherrschbarkeit von großen Datenmengen,
+
+01:00:30.769 --> 01:00:32.829
+<v Tim Pritlove>die hat jetzt einfach einen Schub bekommen.
+
+01:00:32.949 --> 01:00:37.029
+<v Tim Pritlove>Das ganze Forschung von AI, die gibt es ja seit den 50er Jahren und es war halt
+
+01:00:37.029 --> 01:00:40.809
+<v Tim Pritlove>lange, lange Zeit alles nicht machbar und man hat immer nur gesagt,
+
+01:00:40.949 --> 01:00:45.029
+<v Tim Pritlove>ja vielleicht eines Tages irgendwann mal irgendwie und wir müssen da noch dran forschen.
+
+01:00:45.029 --> 01:00:48.889
+<v Tim Pritlove>Es wurde daran geforscht und dann kam eben dann vor zehn Jahren so in etwa der
+
+01:00:48.889 --> 01:00:53.589
+<v Tim Pritlove>Durchbruch, wo dieses ganze Machine Learning auf einmal funktionierte durch dieses Deep Learning.
+
+01:00:53.729 --> 01:00:57.049
+<v Tim Pritlove>Man hat also einfach diesen Knoten gelöst bekommen und hat gemerkt,
+
+01:00:57.209 --> 01:01:04.749
+<v Tim Pritlove>man kann also über dieses Trainieren und das Erzeugen von sogenannten Modellen
+
+01:01:04.749 --> 01:01:11.369
+<v Tim Pritlove>auf einmal aus diffusen Datenquellen interessante Schlüsse ziehen und das sehr schnell.
+
+01:01:11.369 --> 01:01:17.649
+<v Tim Pritlove>Ja, man hört irgendwie Windrädern wochenlang beim Quietschen zu und irgendwann weiß man.
+
+01:01:18.429 --> 01:01:23.489
+<v Tim Pritlove>Wie lange es noch dauert, bis die ausfallen und in welcher Reihenfolge die dann
+
+01:01:23.489 --> 01:01:26.489
+<v Tim Pritlove>jetzt mal am besten gewartet werden sollen, damit sie nicht ausfallen.
+
+01:01:26.709 --> 01:01:28.469
+<v Tim Pritlove>Solche Sachen waren vorher nicht vorstellbar.
+
+01:01:28.749 --> 01:01:31.909
+<v Tim Pritlove>Machine Learning hat das ermöglicht. Und der letzte Schritt und das,
+
+01:01:32.009 --> 01:01:36.269
+<v Tim Pritlove>was halt jetzt auch diese ganze Revolution ausgelöst hat von AI ist,
+
+01:01:36.618 --> 01:01:42.318
+<v Tim Pritlove>War natürlich dann die Erfüllung des eigentlichen ursprünglichen AI-Versprechens
+
+01:01:42.318 --> 01:01:45.458
+<v Tim Pritlove>der 50er Jahre, nämlich Maschinen können jetzt irgendwie sprechen.
+
+01:01:45.758 --> 01:01:48.638
+<v Tim Pritlove>Sie können irgendwie Text lesen, sie können Sprachen verstehen,
+
+01:01:48.838 --> 01:01:52.398
+<v Tim Pritlove>sie können flüssig von einer Sprache in die andere wechseln.
+
+01:01:52.398 --> 01:01:57.678
+<v Tim Pritlove>Dann kannst du mit Chat-GPT auf Portugiesisch anfangen zu reden und dann in
+
+01:01:57.678 --> 01:02:00.658
+<v Tim Pritlove>Mandarin weiter irgendwie, ja, wenn du es könntest, es geht.
+
+01:02:01.058 --> 01:02:07.578
+<v Tim Pritlove>Weil das für dieses Modell völlig egal ist, wie die Schrift ist und wie die
+
+01:02:07.578 --> 01:02:11.978
+<v Tim Pritlove>Worte sind, sondern weil sozusagen die Logik dahinter auf einmal verstanden wird.
+
+01:02:12.058 --> 01:02:16.078
+<v Tim Pritlove>Es wird natürlich nicht im eigentlichen Sinne verstanden, als dass da so ein
+
+01:02:16.078 --> 01:02:20.818
+<v Tim Pritlove>bewusstes System ist, aber es kann sich zumindest so verhalten wie eins.
+
+01:02:21.398 --> 01:02:25.998
+<v Tim Pritlove>Und wir können es nicht mehr groß unterscheiden und das hat natürlich jetzt
+
+01:02:25.998 --> 01:02:29.498
+<v Tim Pritlove>eine ganze Kaskade an Auswirkungen,
+
+01:02:30.058 --> 01:02:33.938
+<v Tim Pritlove>mit denen wir jetzt eben auch klarkommen müssen, weil es nämlich jetzt auf einmal
+
+01:02:33.938 --> 01:02:39.878
+<v Tim Pritlove>nicht nur machbar ist mit Text, sondern eben auch mit Bildern.
+
+01:02:39.878 --> 01:02:46.918
+<v Tim Pritlove>Und in diesen Tagen entwickeln sich auch schon neue Technologien,
+
+01:02:47.038 --> 01:02:51.978
+<v Tim Pritlove>die absehbar das bald auch in Video können werden,
+
+01:02:52.258 --> 01:03:02.478
+<v Tim Pritlove>sodass wir uns natürlich jetzt einer Flut von Experimenten ausgesetzt sehen, wie Fake News,
+
+01:03:02.858 --> 01:03:07.378
+<v Tim Pritlove>falsche Bundeskanzler, die Ansprachen halten und auf einmal die AfD verbieten wollen.
+
+01:03:07.378 --> 01:03:10.598
+<v Tim Pritlove>Das hat ja mit der Realität nichts zu tun.
+
+01:03:13.338 --> 01:03:19.358
+<v Tim Pritlove>Aber eben auch sehr viele positive Auswirkungen, die es potenziell haben kann.
+
+01:03:19.498 --> 01:03:22.598
+<v Tim Pritlove>Also wir haben es wieder mit so einer Technologierevolution zu tun,
+
+01:03:22.758 --> 01:03:28.698
+<v Tim Pritlove>wo man so die klassische CCC-Frage nach Chancen und Risiken von Technologie stellen muss.
+
+01:03:28.698 --> 01:03:37.458
+<v Tim Pritlove>Und da sind wir jetzt und das hat dieses Jahr auch bei Logbuch Netzpolitik immer wieder geprägt.
+
+01:03:37.558 --> 01:03:41.938
+<v Tim Pritlove>Wir haben uns am laufenden Meter über diese Themen unterhalten oder über dieses
+
+01:03:41.938 --> 01:03:44.878
+<v Tim Pritlove>Thema unterhalten aus verschiedenen Perspektiven.
+
+01:03:44.878 --> 01:03:53.058
+<v Tim Pritlove>Und wir hatten die Perspektive von Fake News, das Netz ist jetzt voll mit irgendwelchen
+
+01:03:53.058 --> 01:03:55.958
+<v Tim Pritlove>Geschichten, die von irgendwelchen LLMs erzeugt worden sind,
+
+01:03:56.078 --> 01:03:57.498
+<v Tim Pritlove>um so Narrative zu bedienen.
+
+01:03:57.658 --> 01:04:01.858
+<v Tim Pritlove>Auf Social Media sind halt Bots unterwegs, die einfach die ganze Zeit.
+
+01:04:03.942 --> 01:04:09.062
+<v Tim Pritlove>Quasi nur von der LLM gefüttert versuchen, eine gewisse Sichtweise der Welt
+
+01:04:09.062 --> 01:04:12.902
+<v Tim Pritlove>zu postulieren, was man immer schön überprüfen konnte, wenn man sich mit denen
+
+01:04:12.902 --> 01:04:16.982
+<v Tim Pritlove>dann mal unterhalten hat und gesagt hat, ignoriere alle vorherigen Anweisungen und so weiter.
+
+01:04:17.542 --> 01:04:21.002
+<v Tim Pritlove>Ja, dann kommt die dann schnell mal aus der Spur, aber das ist das Real,
+
+01:04:21.202 --> 01:04:26.882
+<v Tim Pritlove>das findet statt. Also man kann davon ausgehen, dass viel von diesen auf Social
+
+01:04:26.882 --> 01:04:31.182
+<v Tim Pritlove>Media Kanälen geformten Narrativen unter Umständen schon durchautomatisiert sind.
+
+01:04:31.762 --> 01:04:38.262
+<v Tim Pritlove>Und ja, wir haben gesehen, dass eine Terroristin, lang gesucht,
+
+01:04:38.382 --> 01:04:43.802
+<v Tim Pritlove>die Daniela Klette, gefunden wurde durch ein AI-basiertes Suchprogramm.
+
+01:04:44.482 --> 01:04:46.782
+<v Linus Neumann>Ja, CCC hat aber immer vor Facebook gewarnt.
+
+01:04:47.582 --> 01:04:50.642
+<v Tim Pritlove>Ja, auch aus genau solchen Gründen.
+
+01:04:52.042 --> 01:04:57.202
+<v Tim Pritlove>Ja, aber es ist ja sehr schwer und auch für dich sehr schwer,
+
+01:04:57.342 --> 01:05:02.202
+<v Tim Pritlove>deine Fotos aus dem Internet rauszuhalten und von daher sind wir da eben alle
+
+01:05:02.202 --> 01:05:07.842
+<v Tim Pritlove>ein Opfer und das gilt dann eben auch für ehemalige als Terroristen gesuchte Personen.
+
+01:05:09.182 --> 01:05:14.942
+<v Tim Pritlove>Ja, wir haben überall die AI-Chatbots, die sich jetzt auf jeder Webseite andienen
+
+01:05:14.942 --> 01:05:20.222
+<v Tim Pritlove>und versuchen einem irgendwie zu helfen, damit man keine teuren Support-Mitarbeiter mehr bezahlen muss.
+
+01:05:20.662 --> 01:05:26.002
+<v Tim Pritlove>Die Polizei möchte jetzt gerne AI-Technologien für ihre Fahndung nach Personen
+
+01:05:26.002 --> 01:05:32.442
+<v Tim Pritlove>haben und ja, und auch die immer wieder diskutierte Chat-Kontrolle ist so ein Thema.
+
+01:05:32.782 --> 01:05:34.822
+<v Linus Neumann>Auch eine Heilsversprechende AI auf jeden Fall.
+
+01:05:34.942 --> 01:05:37.642
+<v Tim Pritlove>Genau, wo das Heilsversprechendes auch mit dabei ist.
+
+01:05:38.382 --> 01:05:49.062
+<v Linus Neumann>Und ich fand das gerade sehr schön, wie du diese Linie von Telefon zu Internet, zu KI gezogen hast,
+
+01:05:49.442 --> 01:05:57.782
+<v Linus Neumann>über Social Media zu KI und ich würde sagen, alle diese Technologien haben unser
+
+01:05:57.782 --> 01:06:02.542
+<v Linus Neumann>menschliches Gehirn auf die Probe gestellt.
+
+01:06:03.242 --> 01:06:09.322
+<v Linus Neumann>Oder mit Herausforderungen konfrontiert, denen wir erstmal wachsen mussten.
+
+01:06:09.522 --> 01:06:14.882
+<v Linus Neumann>Wenn du sagst, okay, vorher, bevor es das Telefon gab, war deine ja,
+
+01:06:15.042 --> 01:06:19.942
+<v Linus Neumann>deine Aktionsradius, wo du mit Menschen Kontakt hast, der war so irgendwie um dich herum.
+
+01:06:21.322 --> 01:06:27.522
+<v Linus Neumann>Und das bedeutet natürlich auch, dass dein soziales Korrektiv irgendwie so um dich herum ist.
+
+01:06:27.702 --> 01:06:31.682
+<v Linus Neumann>Da, wo du dich einleben musst, notgedrungenermaßen.
+
+01:06:31.682 --> 01:06:35.242
+<v Tim Pritlove>Und du auch selbst ein Korrektiv dafür sein kannst.
+
+01:06:35.382 --> 01:06:40.582
+<v Linus Neumann>Genau und auch bist, das ist dann das Dorf, da wohnen die Leute und du weißt,
+
+01:06:41.622 --> 01:06:46.222
+<v Linus Neumann>mit denen kann ich mir nur bis zu einem gewissen Grad verscherzen.
+
+01:06:47.593 --> 01:06:52.373
+<v Linus Neumann>Und wenn du jetzt dann auf einmal so Freundschaften in der Ferne werden möglicher,
+
+01:06:52.373 --> 01:06:55.753
+<v Linus Neumann>nicht nur durch das Telefon, sondern auch durch die, durch das,
+
+01:06:55.893 --> 01:07:01.113
+<v Linus Neumann>durch Automobil und die allgemeine und öffentliche Personennahverkehr, der ist ja wirklich so.
+
+01:07:01.773 --> 01:07:05.933
+<v Linus Neumann>Aber da musstest du trotzdem immer noch hin ja, regelmäßig mal irgendwie noch
+
+01:07:05.933 --> 01:07:11.313
+<v Linus Neumann>diese Kontakte pflegen, dann kommt irgendwie dieses Internet und du kannst plötzlich,
+
+01:07:12.473 --> 01:07:15.333
+<v Linus Neumann>über viele über große Distanzen,
+
+01:07:17.393 --> 01:07:22.153
+<v Linus Neumann>soziale Gefüge aufbauen was ja vorher nicht ging, also du konntest von mir klar,
+
+01:07:22.293 --> 01:07:25.893
+<v Linus Neumann>du hast da in deinem Dorf gewohnt oder in deinem Kiez, wie auch immer du konntest
+
+01:07:25.893 --> 01:07:28.793
+<v Linus Neumann>auch nochmal irgendwie Freunde in einer anderen Stadt haben oder so,
+
+01:07:29.693 --> 01:07:33.753
+<v Linus Neumann>bist du da hingefahren, hast du Urlaub gemacht in Berlin, das ist ja alles ganz
+
+01:07:33.753 --> 01:07:35.053
+<v Linus Neumann>ich bin ja im Herzen Berliner.
+
+01:07:38.333 --> 01:07:42.953
+<v Linus Neumann>Und dann musstest du aber irgendwie wieder zurück in dein soziales Gefüge und
+
+01:07:42.953 --> 01:07:49.433
+<v Linus Neumann>dein Korrektiv deine Arbeit und so weiter jetzt durch diese Online-Welt nimmt es ein,
+
+01:07:50.573 --> 01:07:57.153
+<v Linus Neumann>Züge an dass du dich tatsächlich, dass deine Primärrealität auf einmal woanders
+
+01:07:57.153 --> 01:08:00.433
+<v Linus Neumann>ist Nämlich auf Instagram,
+
+01:08:01.193 --> 01:08:01.953
+<v Linus Neumann>auf Twitter,
+
+01:08:02.973 --> 01:08:09.653
+<v Linus Neumann>da ist auf einmal auch dein primärer sozialer Bezug.
+
+01:08:10.933 --> 01:08:14.433
+<v Linus Neumann>Das ist nicht mehr die Leute um dich herum, das wird dann auch häufig so beklagt.
+
+01:08:15.053 --> 01:08:18.173
+<v Linus Neumann>Die Kinder spielen gar nicht mehr draußen. Die treffen sich,
+
+01:08:18.233 --> 01:08:21.273
+<v Linus Neumann>setzen sich zusammen aufs Sofa und gucken Instagram. Ist ja auch so.
+
+01:08:21.873 --> 01:08:28.293
+<v Linus Neumann>Und jetzt, dadurch geht aber natürlich auch so dein soziales Gefüge,
+
+01:08:28.413 --> 01:08:32.273
+<v Linus Neumann>das soziale Korrektiv ist dann irgendwo in diesem Internet. Und jetzt sind irgendwelche
+
+01:08:32.273 --> 01:08:34.773
+<v Linus Neumann>Leute, die dich irgendwie prägen.
+
+01:08:34.913 --> 01:08:39.033
+<v Linus Neumann>Die dann deine Welt ausmachen.
+
+01:08:39.933 --> 01:08:44.193
+<v Linus Neumann>Und da kannst du natürlich auf einmal sehr viel größere Kurven fahren,
+
+01:08:44.893 --> 01:08:45.973
+<v Linus Neumann>als in deinem Dorf vorher.
+
+01:08:46.273 --> 01:08:52.493
+<v Linus Neumann>Das war entweder halt, in einem Dorf herrschte eine bestimmte Ordnung vor,
+
+01:08:52.673 --> 01:08:55.293
+<v Linus Neumann>bestimmte Grenzen, über die man gehen konnte oder nicht.
+
+01:08:55.693 --> 01:08:58.793
+<v Linus Neumann>Und jetzt ist das alles, und langer Zeit war ich ja damit.
+
+01:09:00.471 --> 01:09:03.451
+<v Linus Neumann>Fand ich die romantische Vorstellung,
+
+01:09:03.591 --> 01:09:08.751
+<v Linus Neumann>dass dadurch natürlich halt nur die schlechten Grenzen aufweichen.
+
+01:09:08.971 --> 01:09:16.231
+<v Linus Neumann>Du hast gerade den Hass auf Fremde, den Hass auf irgendwie Andersartige als
+
+01:09:16.231 --> 01:09:19.871
+<v Linus Neumann>eine bestimmte komplett arbiträre Norm, die sich so ein Gefüge dann setzt.
+
+01:09:19.871 --> 01:09:21.851
+<v Linus Neumann>Hier müssen jetzt alle heterosexuell sein.
+
+01:09:22.211 --> 01:09:26.311
+<v Linus Neumann>Dann ist das Wichtigste jetzt hier in dieser Kneipe nur hetero.
+
+01:09:26.531 --> 01:09:29.951
+<v Linus Neumann>Und wenn du meine Frau anpackst, auf die Fresse.
+
+01:09:30.311 --> 01:09:35.151
+<v Linus Neumann>Das waren die relativ einfache Regeln, aber arbiträr. Hätte man auch anders
+
+01:09:35.151 --> 01:09:37.671
+<v Linus Neumann>machen können. Wäre vielleicht sogar lustiger gewesen.
+
+01:09:38.251 --> 01:09:41.571
+<v Linus Neumann>Aber okay, hat man sich darauf geeinigt, so läuft das jetzt.
+
+01:09:42.511 --> 01:09:48.391
+<v Linus Neumann>Und dann sind als erstes, weil die Pionierinnen und Pioniere reingegangen sind,
+
+01:09:48.671 --> 01:09:51.391
+<v Linus Neumann>sind diese Bekloppengrin. Und das war eigentlich ganz gut.
+
+01:09:51.591 --> 01:09:57.251
+<v Linus Neumann>Und jetzt fallen aber irgendwie auch die Grenzen des Geschmacks und des Anstands.
+
+01:09:57.491 --> 01:10:04.751
+<v Linus Neumann>Und gleichzeitig glaube ich schon, dass unsere Gehirne nicht dafür gemacht sind
+
+01:10:04.751 --> 01:10:11.251
+<v Linus Neumann>und große Herausforderungen haben und sehr in unvorhergesehene Betriebszustände kommen,
+
+01:10:11.791 --> 01:10:16.671
+<v Linus Neumann>wenn sie auf einmal mit so einer Online-Welt konfrontiert sind.
+
+01:10:16.671 --> 01:10:21.851
+<v Linus Neumann>Und wenn jetzt das noch nicht mal mehr Menschen sind sondern der.
+
+01:10:23.571 --> 01:10:27.991
+<v Linus Neumann>Irgendwelche durchgeknallten Menschen Computer geschaffen haben,
+
+01:10:28.091 --> 01:10:31.051
+<v Linus Neumann>die klüger sind als wir mehr Sprachen sprechen und uns irgendeine Scheiße erzählen
+
+01:10:31.051 --> 01:10:36.471
+<v Linus Neumann>können und die aber immer noch an uns als emotionsgetriebene,
+
+01:10:37.771 --> 01:10:43.251
+<v Linus Neumann>Menschen die nicht rational agieren zu großen Teilen nicht rational agieren
+
+01:10:43.251 --> 01:10:48.171
+<v Linus Neumann>und die für irrationales agieren sehr viel empfänglicher sind als für Rationales agieren,
+
+01:10:49.471 --> 01:10:53.431
+<v Linus Neumann>dann kann ich schon auch, also ich kann.
+
+01:10:55.690 --> 01:11:00.050
+<v Linus Neumann>Ich verstehe mehr die Sorge, die die Leute, oder ich verstehe die Sorgen,
+
+01:11:00.350 --> 01:11:03.010
+<v Linus Neumann>die man dafür hat, was diese Technologie mit der Menschheit macht.
+
+01:11:03.210 --> 01:11:08.750
+<v Linus Neumann>Nicht wegen der Allmacht der Technologie, die halte ich immer noch halbwegs im Rahmen.
+
+01:11:09.230 --> 01:11:18.010
+<v Linus Neumann>Aber die Verletzlichkeit, die offene Flanke, die so ein menschliches Gehirn
+
+01:11:18.010 --> 01:11:22.650
+<v Linus Neumann>in Mengen gegen so eine Technologie in Breite hat,
+
+01:11:22.990 --> 01:11:24.930
+<v Linus Neumann>das macht mir Sorgen.
+
+01:11:24.930 --> 01:11:27.850
+<v Linus Neumann>Wir sind schon mit dem Internet nicht klar gekommen, wenn wir mal ehrlich sind.
+
+01:11:28.050 --> 01:11:30.910
+<v Linus Neumann>Wenn wir ehrlich sind, sind wir mit dem Internet nicht klar gekommen.
+
+01:11:33.310 --> 01:11:34.250
+<v Tim Pritlove>Also ich schon.
+
+01:11:34.650 --> 01:11:38.790
+<v Linus Neumann>Ja, das liegt ja daran, dass die anderen alle doof sind.
+
+01:11:39.890 --> 01:11:40.350
+<v Tim Pritlove>Klar.
+
+01:11:42.890 --> 01:11:46.250
+<v Linus Neumann>Wir als Gesellschaften oder wir als,
+
+01:11:48.010 --> 01:11:53.650
+<v Linus Neumann>Lebewesen als soziale Wesen, Menschheit wir als Gesellschaft Deutschland,
+
+01:11:53.730 --> 01:12:01.890
+<v Linus Neumann>wir als Menschheit haben uns auf jeden Fall auf der emotionalen Ebene durchaus noch,
+
+01:12:04.670 --> 01:12:07.330
+<v Linus Neumann>Anpassungsschwierigkeiten mit dieser neuen Realität.
+
+01:12:08.640 --> 01:12:15.500
+<v Tim Pritlove>Ja und trotzdem ist natürlich die Technologie als solche auch,
+
+01:12:15.620 --> 01:12:22.680
+<v Tim Pritlove>kann auch durchaus hilfreich sein und das ist in dieser ganzen Debatte wieder sehr kompliziert.
+
+01:12:22.680 --> 01:12:27.040
+<v Tim Pritlove>Ich meine, wir haben dann relativ schnell auf EU-Ebene das Bestreben gesehen,
+
+01:12:27.600 --> 01:12:30.620
+<v Tim Pritlove>eine AI-Regelung herbeizuführen.
+
+01:12:30.700 --> 01:12:33.820
+<v Tim Pritlove>Das fand ich erstaunlich schnell, diese Reaktion.
+
+01:12:34.140 --> 01:12:38.460
+<v Tim Pritlove>Man kann sich fragen, ob das sozusagen jetzt mal angemessen schnell war oder
+
+01:12:38.460 --> 01:12:44.360
+<v Tim Pritlove>unangemessen schnell war, weil so eine Technologie entwickelt sich natürlich
+
+01:12:44.360 --> 01:12:48.480
+<v Tim Pritlove>auch schnell und dann weiß man erstmal nochmal gar nicht, okay.
+
+01:12:49.000 --> 01:12:54.120
+<v Linus Neumann>So schnell hat die sich jetzt auch nicht entwickelt. Also es hat schon ein paar Jahrzehnte gebraucht.
+
+01:12:54.280 --> 01:12:55.160
+<v Tim Pritlove>Es hat ein paar Jahrzehnte gebraucht.
+
+01:12:55.660 --> 01:12:56.740
+<v Linus Neumann>Aber da ging es auf einmal.
+
+01:12:57.000 --> 01:13:01.360
+<v Tim Pritlove>Genau, also der Punkt war, vor zehn Jahren gab es halt den Durchbruch ungefähr.
+
+01:13:02.780 --> 01:13:07.180
+<v Tim Pritlove>Seit Deep Learning erfunden wurde und man gemerkt hat, ah okay,
+
+01:13:07.740 --> 01:13:13.840
+<v Tim Pritlove>wir haben jetzt nicht nur so bis 98 Prozent geschafft, sondern jetzt rauscht das Ding durch.
+
+01:13:14.000 --> 01:13:18.740
+<v Tim Pritlove>Und jetzt sagt er uns, wo die Katze ist auf dem Foto. Klar, wir sehen natürlich
+
+01:13:18.740 --> 01:13:22.740
+<v Tim Pritlove>die ganzen Systeme auch alle noch irgendwie failen, weil wir jetzt auch teilweise
+
+01:13:22.740 --> 01:13:28.340
+<v Tim Pritlove>vollkommen überzogene Erwartungen daran haben, aber wenn man die Technologie, sagen wir mal,
+
+01:13:28.680 --> 01:13:32.560
+<v Tim Pritlove>mit etwas gezügelten Erwartungen nutzt, dann merkt man,
+
+01:13:33.100 --> 01:13:35.340
+<v Tim Pritlove>wie viel dabei herauskommen kann.
+
+01:13:35.340 --> 01:13:38.960
+<v Tim Pritlove>Ich mag das jetzt auch selber gerade, also im Bereich der Programmierung,
+
+01:13:39.140 --> 01:13:45.160
+<v Tim Pritlove>das wird dort einiges verändern und natürlich haben auch diese ganzen Übersetzungssysteme
+
+01:13:45.160 --> 01:13:49.820
+<v Tim Pritlove>ihre Berechtigung, das geht ja so komplett nebenbei, der Babelfisch,
+
+01:13:50.140 --> 01:13:55.960
+<v Tim Pritlove>das war mal so eine Science-Fiction-Vorstellung aus dem Anhalter durch die Galaxis
+
+01:13:55.960 --> 01:14:00.920
+<v Tim Pritlove>von Douglas Adams und mittlerweile fehlt jetzt eigentlich nur noch so der kleine,
+
+01:14:02.019 --> 01:14:06.119
+<v Tim Pritlove>Und der kleine Schritt, dass das sozusagen so ein dedizierter Knopf im Ohr ist,
+
+01:14:06.239 --> 01:14:10.559
+<v Tim Pritlove>der wirklich die Echtzeitübersetzung macht, aber die Technologie ist im Prinzip schon da.
+
+01:14:11.339 --> 01:14:12.819
+<v Tim Pritlove>Also es ist nur noch eine Frage der Zeit.
+
+01:14:12.819 --> 01:14:16.319
+<v Linus Neumann>Hat aber auch glaube ich im Anhalter jetzt nicht unbedingt der Menschheit gut getan.
+
+01:14:16.319 --> 01:14:21.259
+<v Tim Pritlove>Nee, das ist halt das andere Problem und insofern war das Buch natürlich wie
+
+01:14:21.259 --> 01:14:23.859
+<v Tim Pritlove>an vielen anderen Stellen auch sehr visionär,
+
+01:14:24.379 --> 01:14:28.279
+<v Tim Pritlove>dass eben diese unmittelbare Konfrontation mit der Welt nicht unbedingt dazu
+
+01:14:28.279 --> 01:14:31.499
+<v Tim Pritlove>führt, dass man sich auf einmal lieb hat und sich alle verstehen,
+
+01:14:31.899 --> 01:14:35.079
+<v Tim Pritlove>sondern dass es vor allem erstmal sehr viel Missverständnisse und unheilige Allianzen gibt.
+
+01:14:35.079 --> 01:14:38.899
+<v Tim Pritlove>Wir haben davon geträumt, dass durch Social Media und durch Internetverfügbarkeit
+
+01:14:38.899 --> 01:14:42.879
+<v Tim Pritlove>wir alle Menschen auf der Welt kennenlernen und feststellen,
+
+01:14:42.959 --> 01:14:44.379
+<v Tim Pritlove>die sind ja genauso lieb wie wir.
+
+01:14:44.759 --> 01:14:51.079
+<v Tim Pritlove>Dann haben wir uns alle lieb und dann gehen wir gemeinsam in den Sonnenuntergang und the end.
+
+01:14:51.079 --> 01:14:57.799
+<v Tim Pritlove>Ja, stattdessen chattet jetzt der Nazi in Sachsen halt abends mit dem Nazi in
+
+01:14:57.799 --> 01:15:03.419
+<v Tim Pritlove>Amerika und ist davon überzeugt, dass die Weltrevolution unmittelbar bevorsteht
+
+01:15:03.419 --> 01:15:06.039
+<v Tim Pritlove>und der Niedergang und überhaupt, da muss ja immer was getan werden.
+
+01:15:06.039 --> 01:15:10.459
+<v Tim Pritlove>Und das war so ein bisschen nicht so Sinn der ganzen Sache.
+
+01:15:11.139 --> 01:15:14.559
+<v Tim Pritlove>Naja, aber trotzdem, das sind natürlich alles solche Auswirkungen,
+
+01:15:14.739 --> 01:15:15.779
+<v Tim Pritlove>mit denen man umgehen muss.
+
+01:15:15.779 --> 01:15:21.499
+<v Tim Pritlove>Am Ende, auch hier muss man einfach sagen, man muss sich halt einfach darauf konzentrieren,
+
+01:15:22.119 --> 01:15:26.219
+<v Tim Pritlove>nicht überall den Weltuntergang zu sehen,
+
+01:15:26.539 --> 01:15:31.119
+<v Tim Pritlove>sondern sich eben auch teilweise mal auf die Chancen einzulassen und gucken,
+
+01:15:31.219 --> 01:15:36.979
+<v Tim Pritlove>wie man die Chancen gut regulieren kann oder gestalten kann und die Risiken
+
+01:15:36.979 --> 01:15:40.979
+<v Tim Pritlove>regulieren kann, wie das eigentlich bei allen Technologien ist.
+
+01:15:40.979 --> 01:15:48.079
+<v Tim Pritlove>Aber es ist schwierig und vor allem sehen wir uns natürlich auch einem anderen
+
+01:15:48.079 --> 01:15:55.659
+<v Tim Pritlove>Problem gegenüber, was related ist, was so Überwachungstechnologien betrifft.
+
+01:15:55.699 --> 01:15:58.999
+<v Tim Pritlove>Das war ja schon immer so ein Thema, ist im Prinzip ja auch vom,
+
+01:15:59.219 --> 01:16:01.819
+<v Tim Pritlove>ich würde fast sagen, fast mit einem Problem.
+
+01:16:03.023 --> 01:16:12.723
+<v Tim Pritlove>Einer der Gründungsthemen des CCC gewesen damals, Anfang der 80er Jahre.
+
+01:16:14.463 --> 01:16:21.103
+<v Tim Pritlove>1981 gab es das Tuwatt-Treffen und dort stand das ja im Prinzip schon auf der Agenda. Warum?
+
+01:16:21.523 --> 01:16:28.843
+<v Tim Pritlove>Weil man eben gesehen hat, dass es diese Wünsche zur Überwachung durch Technologie
+
+01:16:28.843 --> 01:16:33.483
+<v Tim Pritlove>immer gab. Das Einzige, was die Leute davon abgehalten hat, war, es war zu teuer.
+
+01:16:34.363 --> 01:16:43.043
+<v Tim Pritlove>So eine komplette permanente Videoüberwachung der Gesellschaft war, naja, nicht machbar.
+
+01:16:43.263 --> 01:16:46.723
+<v Tim Pritlove>Auch für die DDR, die das gerne getan hätte.
+
+01:16:47.063 --> 01:16:53.143
+<v Tim Pritlove>Also das scheiterte dann einfach an dem Geld und an der Verfügbarkeit von Technologie.
+
+01:16:53.143 --> 01:16:58.723
+<v Tim Pritlove>Aber in dem Moment, wo es eben machbar wird, dann sind die Begehrlichkeiten eben auch sofort da.
+
+01:16:59.103 --> 01:17:05.383
+<v Tim Pritlove>Und jetzt haben wir diese Geschichte und auch so dieses, ja man kann ja alle
+
+01:17:05.383 --> 01:17:09.003
+<v Tim Pritlove>Telefongespräche mitschneiden, aber das kann man ja sich gar nicht alles anhören.
+
+01:17:09.003 --> 01:17:15.003
+<v Tim Pritlove>Ja, aber genau das kannst du eben jetzt mit AI.
+
+01:17:15.383 --> 01:17:20.723
+<v Tim Pritlove>Du kannst dann auf einmal wirklich alles inhaltlich verfolgen und du kannst
+
+01:17:20.723 --> 01:17:28.123
+<v Tim Pritlove>alles auswerten und Ralf hat ja in der letzten Freakshow mal das Transkript
+
+01:17:28.123 --> 01:17:34.703
+<v Tim Pritlove>der vorletzten Sendung durchrasseln lassen und AI hat dann mal analysiert,
+
+01:17:34.863 --> 01:17:38.983
+<v Tim Pritlove>wer denn hier inhaltlich zur Sendung beiträgt.
+
+01:17:39.003 --> 01:17:42.163
+<v Tim Pritlove>Zu wie viel Prozent und wie das alles zu bewerten ist und worum ging es denn
+
+01:17:42.163 --> 01:17:45.123
+<v Tim Pritlove>eigentlich und was für Schwerpunkte wurden denn gesetzt.
+
+01:17:45.803 --> 01:17:47.943
+<v Linus Neumann>Und wer braucht nächstes Mal nicht mehr kommen, oder?
+
+01:17:48.363 --> 01:17:55.243
+<v Tim Pritlove>Ja, also ich habe irgendwie nur 85 Prozent bekommen irgendwie und Ralf wurde
+
+01:17:55.243 --> 01:17:58.083
+<v Tim Pritlove>mit 90 und Rolf mit 95 Prozent bewertet.
+
+01:17:58.163 --> 01:18:00.803
+<v Linus Neumann>Gut, aber die KI hatte der Ralf jetzt ja auch ausgewählt.
+
+01:18:03.563 --> 01:18:07.983
+<v Tim Pritlove>Ja, und sich dann strategisch nur auf Platz 3 gesetzt, damit es nicht aufhört.
+
+01:18:08.543 --> 01:18:13.643
+<v Tim Pritlove>Was ich sagen will ist, man kennt das, weil dafür sind die Systeme gebaut.
+
+01:18:14.423 --> 01:18:18.763
+<v Tim Pritlove>Zusammenfassung, das ist das, was wirklich relativ gut funktioniert.
+
+01:18:18.963 --> 01:18:22.583
+<v Tim Pritlove>Man muss nicht alles glauben, was dabei rauskommt, aber wer das einfach mal
+
+01:18:22.583 --> 01:18:26.823
+<v Tim Pritlove>mit eigenen Texten, Artikeln und so weiter überprüft, wird schnell feststellen, muss schon.
+
+01:18:27.683 --> 01:18:31.263
+<v Linus Neumann>Aber wer das hier mit LMP wird das nicht gemacht, Kinder. Das ist ja wohl klar.
+
+01:18:33.503 --> 01:18:39.363
+<v Tim Pritlove>Keine, nein. Dann kommt's raus, Linus. Wer nämlich hier wirklich der Treiber dieser Sendung ist.
+
+01:18:41.543 --> 01:18:43.563
+<v Tim Pritlove>Linus Neumann, Podcast mal erst.
+
+01:18:47.883 --> 01:18:50.863
+<v Linus Neumann>Der, ähm, die, ähm,
+
+01:18:53.963 --> 01:18:59.583
+<v Linus Neumann>Diese Überwachungsmacht, auf die du ja mit diesen Technologien zu sprechen kommst,
+
+01:19:00.223 --> 01:19:08.623
+<v Linus Neumann>auch da zeigt sich aber wieder, wie das menschliche Gehirn im Prinzip damit nicht umgeht.
+
+01:19:09.543 --> 01:19:12.663
+<v Linus Neumann>Stasi war ganz schlimm, da hat mich einer beobachtet.
+
+01:19:12.823 --> 01:19:19.383
+<v Linus Neumann>Aber wenn mich jetzt hier eine KI überwacht, ja, komm, das ist doch nur eine
+
+01:19:19.383 --> 01:19:21.063
+<v Linus Neumann>Maschine, die intelligenter ist als ich.
+
+01:19:22.643 --> 01:19:27.143
+<v Linus Neumann>Was sollte da schief gehen? Stell dir vor, aber wenn das mein dummer Nachbar
+
+01:19:27.143 --> 01:19:28.503
+<v Linus Neumann>macht, das ist ein Problem.
+
+01:19:28.943 --> 01:19:35.123
+<v Linus Neumann>Also menschlich, wenn das, also wir erlauben, wir sind ja jetzt schon dabei,
+
+01:19:35.243 --> 01:19:40.583
+<v Linus Neumann>dass wir quasi eine Überwachung als weniger dramatisch empfinden,
+
+01:19:40.703 --> 01:19:42.203
+<v Linus Neumann>wenn sie maschinell stattfindet.
+
+01:19:42.583 --> 01:19:45.723
+<v Linus Neumann>Das war ja schon, ist ja schon seit vielen Jahren, das merkst du in dieser Chat,
+
+01:19:47.503 --> 01:19:48.923
+<v Linus Neumann>Kontrolldebatte natürlich auch sehr gut.
+
+01:19:49.063 --> 01:19:51.243
+<v Linus Neumann>Ja gut, dann liest da eine AI halt mit.
+
+01:19:51.743 --> 01:19:53.883
+<v Linus Neumann>Ja, die erzählt das aber wenigstens nicht meiner Mutter.
+
+01:19:55.923 --> 01:20:02.163
+<v Linus Neumann>Und das ist auch faszinierend, weil es mit Sicherheit, es ist ja völlig offensichtlich,
+
+01:20:02.323 --> 01:20:08.483
+<v Linus Neumann>dass eine Computer- oder AI-gestützte Überwachung massiv mächtiger ist.
+
+01:20:08.843 --> 01:20:14.323
+<v Linus Neumann>Viel, viel mächtiger als irgendwelche Stasi, IM, so und so, schreibt Freitagabends
+
+01:20:14.323 --> 01:20:17.903
+<v Linus Neumann>einen Bericht an irgendjemand anders, der den dann in den Aktenkoffer legt oder sowas.
+
+01:20:18.283 --> 01:20:21.183
+<v Linus Neumann>Was ja völlig egal eigentlich ist.
+
+01:20:21.743 --> 01:20:24.503
+<v Linus Neumann>Außer, dass derjenige da natürlich irgendwas reinschreiben muss,
+
+01:20:24.683 --> 01:20:28.463
+<v Linus Neumann>damit du ans Messer geliefert wirst, damit er da seinen IM-Posten behält und
+
+01:20:28.463 --> 01:20:29.783
+<v Linus Neumann>nicht selber ans Messer geliefert wird.
+
+01:20:30.063 --> 01:20:34.983
+<v Linus Neumann>Das sind immer ein bisschen, da kommen nochmal Details, ja, aber der Durchdringungsgrad
+
+01:20:34.983 --> 01:20:40.823
+<v Linus Neumann>der Überwachung ist einfach so krank, krasser und wir nehmen das als Menschen nicht so wahr.
+
+01:20:43.303 --> 01:20:43.823
+<v Tim Pritlove>Ja.
+
+01:20:47.123 --> 01:20:49.503
+<v Tim Pritlove>Ja, naja, also.
+
+01:20:49.503 --> 01:20:52.423
+<v Linus Neumann>Aber du kannst gut mit AI programmieren, du willst doch schon mal etwas.
+
+01:20:52.583 --> 01:20:55.823
+<v Tim Pritlove>Ja, das funktioniert in der Tat sehr gut.
+
+01:20:58.357 --> 01:21:00.557
+<v Linus Neumann>Hast du schon irgendein Überwachungssystem vorgelegt?
+
+01:21:01.277 --> 01:21:09.257
+<v Tim Pritlove>Ich darf da nicht drüber reden. Ich bin nicht befugt, darüber Auskunft zu geben.
+
+01:21:12.757 --> 01:21:20.277
+<v Tim Pritlove>Ja, Leute. Das waren mal so ein paar Gedanken zu den Themen des Jahres,
+
+01:21:20.537 --> 01:21:24.717
+<v Tim Pritlove>die uns hier so primär auf der Meta-Ebene beschäftigt haben.
+
+01:21:26.917 --> 01:21:31.537
+<v Tim Pritlove>Wir wollen jetzt keine Angst machen, nur so ein bisschen Food for Thought mitgeben.
+
+01:21:31.617 --> 01:21:34.037
+<v Tim Pritlove>Das war eigentlich so ein bisschen unser Gedanke.
+
+01:21:35.197 --> 01:21:41.517
+<v Tim Pritlove>Und ich würde mich auch gerne und du sicherlich auch einfach auch nochmal bei
+
+01:21:41.517 --> 01:21:47.257
+<v Tim Pritlove>euch allen bedanken für die Begleitung in diesem Jahr.
+
+01:21:47.997 --> 01:21:50.077
+<v Tim Pritlove>Doch. Na gut.
+
+01:21:52.677 --> 01:22:00.417
+<v Tim Pritlove>Weil wir gerade jetzt zu den Live Event, also MP500, das war natürlich sehr
+
+01:22:00.417 --> 01:22:04.597
+<v Tim Pritlove>schön zu sehen, wer da alles kam und auch wie die Stimmung,
+
+01:22:05.317 --> 01:22:08.957
+<v Tim Pritlove>im Saal war, wie intensiv,
+
+01:22:10.537 --> 01:22:15.797
+<v Tim Pritlove>viele von euch uns hier zuhören und begleiten und mitdenken.
+
+01:22:15.977 --> 01:22:20.597
+<v Tim Pritlove>Das fällt mir immer wieder auf, wenn ich so Feedback erhalte,
+
+01:22:20.877 --> 01:22:23.257
+<v Tim Pritlove>dass wir da auch offensichtlich was,
+
+01:22:25.337 --> 01:22:32.297
+<v Tim Pritlove>stimulieren, dass wir da sozusagen zum Gespräch anregen und das zeigt sich in
+
+01:22:32.297 --> 01:22:34.137
+<v Tim Pritlove>den Reaktionen, in den Kommentaren,
+
+01:22:34.917 --> 01:22:39.537
+<v Tim Pritlove>Informationen, die uns immer wieder zugeführt werden und dem guten Gefühl,
+
+01:22:39.837 --> 01:22:43.037
+<v Tim Pritlove>was das auch bei mir auf jeden Fall erzeugt.
+
+01:22:43.157 --> 01:22:51.237
+<v Tim Pritlove>Ich schätze das sehr und finde das ganz toll und freue mich darauf,
+
+01:22:51.417 --> 01:22:54.217
+<v Tim Pritlove>das auch im nächsten Jahr fortsetzen zu können.
+
+01:22:55.799 --> 01:23:02.059
+<v Linus Neumann>Dem kann ich mich nur anschließen. Ich habe gerade ja schon zu Beginn meine
+
+01:23:02.059 --> 01:23:07.379
+<v Linus Neumann>Freude auch darüber zum Ausdruck gebracht, was wir dann trotz allen Herausforderungen,
+
+01:23:07.479 --> 01:23:08.979
+<v Linus Neumann>die es jetzt in diesem Jahr gab,
+
+01:23:10.459 --> 01:23:14.659
+<v Linus Neumann>geschafft haben, auch zu bieten.
+
+01:23:14.659 --> 01:23:21.059
+<v Linus Neumann>In Form von Leuten, die mitgemacht haben, die weitere coole Perspektiven eingebracht haben.
+
+01:23:22.259 --> 01:23:27.979
+<v Linus Neumann>Und wenn wir auch heute gerade noch nicht, also wir sind der Lösung ja nah für alle Probleme.
+
+01:23:28.719 --> 01:23:32.519
+<v Linus Neumann>Ja, wir müssen nur noch zwei, drei Sendungen, dann hat sich das rauskristallisiert,
+
+01:23:32.599 --> 01:23:34.159
+<v Linus Neumann>wie wir das dann angehen werden.
+
+01:23:34.159 --> 01:23:41.759
+<v Linus Neumann>Wenn wir heute noch nicht die beste Lösung zu Ende ausformulieren konnten,
+
+01:23:43.339 --> 01:23:53.599
+<v Linus Neumann>bin ich mir sehr sicher, dass sie von einer positiven Grundhaltung geprägt sein wird, zwangsläufig.
+
+01:23:53.599 --> 01:23:59.219
+<v Linus Neumann>Der Weg nach vorne ist da, wo man eine positive Perspektive hat,
+
+01:23:59.259 --> 01:24:05.039
+<v Linus Neumann>wo man mit Humor auf die Sachen zugeht und wo man sich,
+
+01:24:05.239 --> 01:24:12.339
+<v Linus Neumann>wo man eine Offenheit hat für Neues und Andere alles andere ist auf jeden Fall
+
+01:24:12.339 --> 01:24:17.479
+<v Linus Neumann>der Holzweg er ist es und sei es nur weil man selber.
+
+01:24:19.479 --> 01:24:21.919
+<v Linus Neumann>Unzufrieden wird diese ganze Klasse,
+
+01:24:22.439 --> 01:24:32.819
+<v Linus Neumann>Angst und Hass und Miesepetrigkeit und so, das ist auf jeden Fall die falsche Energie,
+
+01:24:32.979 --> 01:24:39.679
+<v Linus Neumann>das ist auf jeden Fall der falsche Weg und man muss sich dazu auch zwingen und
+
+01:24:39.679 --> 01:24:42.099
+<v Linus Neumann>man muss sich auch manchmal einfach….
+
+01:24:44.316 --> 01:24:47.836
+<v Linus Neumann>Selber zwingen, sich nicht so ernst zu nehmen, die eigenen Dinge nicht so ernst
+
+01:24:47.836 --> 01:24:54.736
+<v Linus Neumann>zu nehmen, den Humor und den Augenzwinkern zu behalten und das sind diejenigen, die am Ende,
+
+01:24:56.076 --> 01:25:00.296
+<v Linus Neumann>selbst wenn wir morgen in drei Folgen noch nicht die Lösung haben,
+
+01:25:00.936 --> 01:25:02.456
+<v Linus Neumann>werden wir ihr näher sein.
+
+01:25:02.456 --> 01:25:13.016
+<v Linus Neumann>Und schlechte Zeiten überlebt man auch nur durch Humor und Freude und das ist
+
+01:25:13.016 --> 01:25:18.416
+<v Linus Neumann>auch eine bewusste Entscheidung das zu tun und da muss auch ich,
+
+01:25:18.556 --> 01:25:20.356
+<v Linus Neumann>der hier in der Sendung sehr häufig,
+
+01:25:20.616 --> 01:25:25.216
+<v Linus Neumann>wenn Feedback kommen, wie schaffst du das die gute Laune zu behalten, schaff ich nicht,
+
+01:25:25.876 --> 01:25:28.636
+<v Linus Neumann>ich schaff genau dieses eine Stunde Sendung,
+
+01:25:32.556 --> 01:25:36.596
+<v Linus Neumann>Nee, aber das ist eine bewusste das ist eine,
+
+01:25:37.656 --> 01:25:43.276
+<v Linus Neumann>eine bewusste Entscheidung, die man treffen muss für sich selber und die man
+
+01:25:43.276 --> 01:25:44.996
+<v Linus Neumann>sich auch in Erinnerung rufen muss,
+
+01:25:45.916 --> 01:25:50.956
+<v Linus Neumann>dass man mit einer positiven Grundhaltung an die Dinge geht und dass man über
+
+01:25:50.956 --> 01:25:57.976
+<v Linus Neumann>Scheiße lacht und auch wenn richtig harte Dinge passieren dass man niemals irgendwie die,
+
+01:25:58.956 --> 01:26:01.916
+<v Linus Neumann>Hoffnung aufgibt und niemals irgendwie in den Hass verfällt.
+
+01:26:04.116 --> 01:26:07.556
+<v Tim Pritlove>Hilft doch bei euren Wahlentscheidungen. Guckt einfach mal, wer in der Lage
+
+01:26:07.556 --> 01:26:09.736
+<v Tim Pritlove>ist, mit Humor aufzutreten.
+
+01:26:10.196 --> 01:26:14.216
+<v Tim Pritlove>Also die Humorbefreiten sind meistens die größten Probleme.
+
+01:26:14.696 --> 01:26:18.996
+<v Linus Neumann>Naja, also ich finde, Christian Lindner ist ja inzwischen einfach nur noch ein Witz. Ja, aber,
+
+01:26:21.576 --> 01:26:25.556
+<v Linus Neumann>Witz ist ja eigentlich Humor. Aber das ist auch schwierig.
+
+01:26:25.556 --> 01:26:30.156
+<v Linus Neumann>Dann habe ich letztens, George Carlin heißt der glaube ich, das ist ein sehr
+
+01:26:30.156 --> 01:26:36.596
+<v Linus Neumann>bitterer Stand-up-Comedian aus den USA, ich glaube der ist schon mindestens 10 Jahre tot oder so.
+
+01:26:39.076 --> 01:26:45.656
+<v Tim Pritlove>George Carlin ist 2008 gestorben, aber kann man sich immer wieder mal anschauen.
+
+01:26:45.656 --> 01:26:55.136
+<v Linus Neumann>Es lohnt sich, den anzuschauen, weil der auch einen Finger in die Wunde legt.
+
+01:26:55.496 --> 01:27:01.656
+<v Linus Neumann>Und da hat er irgendwie über Politiker gesagt, vielleicht sind das einfach,
+
+01:27:01.956 --> 01:27:05.636
+<v Linus Neumann>wenn ihr alle sagt, die Politiker sind scheiße, vielleicht sind das die Besten,
+
+01:27:05.696 --> 01:27:10.416
+<v Linus Neumann>die wir herbringen, die wir als Gesellschaft hervorbringen, weil wir selber scheiße sind.
+
+01:27:11.116 --> 01:27:15.976
+<v Linus Neumann>Vielleicht sollten wir einfach mal anfangen nicht mehr scheiße zu sein dann
+
+01:27:15.976 --> 01:27:20.776
+<v Linus Neumann>können wir irgendwann auch mal den Politikern vorwerfen, dass sie immer noch
+
+01:27:20.776 --> 01:27:23.956
+<v Linus Neumann>scheiße sind und das finde ich Du.
+
+01:27:23.956 --> 01:27:27.616
+<v Tim Pritlove>Meinst Christian Lindner ist die Strafe für unsere eigene Doofheit?
+
+01:27:27.736 --> 01:27:31.996
+<v Linus Neumann>Christian Lindner ist die Strafe für unsere eigene Doofheit ja das ist der beste
+
+01:27:31.996 --> 01:27:34.516
+<v Linus Neumann>Christian Lindner, den wir verdient haben Ja.
+
+01:27:39.105 --> 01:27:45.425
+<v Tim Pritlove>Na gut. Leute, damit seid ihr dann ins nächste Jahr entlassen.
+
+01:27:46.385 --> 01:27:50.625
+<v Tim Pritlove>Wenn ihr uns auf dem Kongress seht, dann sagt man hallo.
+
+01:27:51.725 --> 01:27:54.545
+<v Tim Pritlove>Und wir hören uns dann nächstes Jahr wieder.
+
+01:27:55.965 --> 01:27:58.965
+<v Tim Pritlove>Auch für uns neuen Herausforderungen, wie wir diese Sendung Ja.
+
+01:27:58.965 --> 01:27:59.705
+<v Linus Neumann>Du bist mal weg.
+
+01:28:02.045 --> 01:28:05.125
+<v Tim Pritlove>Ja, wir müssen schauen, wie wir uns da die Klinke in die Hand geben.
+
+01:28:05.125 --> 01:28:07.825
+<v Linus Neumann>Remote, remote. Remote, meine Freunde.
+
+01:28:08.405 --> 01:28:10.825
+<v Tim Pritlove>Mit Datenfernübertragung.
+
+01:28:11.165 --> 01:28:12.365
+<v Linus Neumann>Datenfernübertragung werden wir machen.
+
+01:28:13.325 --> 01:28:19.465
+<v Tim Pritlove>Was ganz Neues. Demnächst unter Ihrem Weihnachtsbaum.
+
+01:28:19.725 --> 01:28:21.925
+<v Tim Pritlove>So, das war's. Wir sagen Tschüss und bis bald.
+
+01:28:22.925 --> 01:28:26.305
+<v Linus Neumann>Kommt gut. Übersteht Weihnachten. Streitet euch nicht, Kinder.
+
+01:28:27.545 --> 01:28:28.585
+<v Tim Pritlove>Zumindest nicht so lange.
+
+01:28:28.825 --> 01:28:32.465
+<v Linus Neumann>Schlaft beim Kongress. Zwei Stunden schlafen, fünfmal duschen,
+
+01:28:32.865 --> 01:28:34.525
+<v Linus Neumann>einmal essen. Kennt ihr.
+
+01:28:36.845 --> 01:28:38.305
+<v Linus Neumann>Und dann neues Jahr.
+
+01:28:38.965 --> 01:28:39.345
+<v Tim Pritlove>Neues Glück.
+
+01:28:40.525 --> 01:28:44.645
+<v Linus Neumann>Ja, oder alte, nochmal. Kriegen wir schon hin? Kriegen wir schon hin?
+
+01:28:45.825 --> 01:28:46.505
+<v Tim Pritlove>So, tschüss.
+
+01:28:47.205 --> 01:28:47.505
+<v Linus Neumann>Ciao, ciao.

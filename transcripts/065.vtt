@@ -1,0 +1,1589 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP065 Ein Klavier! Ein Klavier!
+Publishing Date: 2013-05-21T14:45:40+02:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp065-ein-klavier-ein-klavier
+
+00:00:00.005 --> 00:00:01.926
+<v Tim Pritlove>Guten Morgen Linus.
+
+00:00:00.006 --> 00:00:02.980
+<v Linus Neumann>Guten Morgen Tim.
+
+00:00:03.126 --> 00:00:04.921
+<v Tim Pritlove>Klavier spielen.
+
+00:00:06.015 --> 00:00:07.420
+<v Linus Neumann>Ich verweigere die Aussage.
+
+00:00:07.120 --> 00:00:11.639
+<v Tim Pritlove>Könnte teuer werden.
+
+00:00:31.800 --> 00:00:44.166
+<v Tim Pritlove>Ja, ich mir so vorstelle, man muss so als armer Straßenmusikanter sich seine Brötchen verdienen, könnte schwierig werden, ne. Aber dazu kommen wir dann später, oder? Später. Ja.
+
+00:00:42.243 --> 00:00:46.846
+<v Linus Neumann>Dafür kommen wir später. Ich muss erst noch zwei Sachen loswerden.
+
+00:00:45.945 --> 00:00:51.755
+<v Tim Pritlove>Ja. Wir sind ja, also ich bin ein bisschen müde heute, ein bisschen kommen nur langsam hinterher.
+
+00:00:51.455 --> 00:01:01.063
+<v Linus Neumann>Tim, ich äh genau und ich nutze die Gunst der Stunde, um äh meinen ähm äh Republika Vortrag noch einmal zu bewerben. Ähm.
+
+00:00:58.594 --> 00:01:02.337
+<v Tim Pritlove>Ah ja, mach mal. Ähm hat mir letztes Mal noch nicht getan.
+
+00:01:02.188 --> 00:01:07.746
+<v Linus Neumann>Du hast mich abgebrochen. Ich wollte den bewerben. Du hast gesagt, wir sollen bitte beim Thema bleiben.
+
+00:01:07.512 --> 00:01:09.338
+<v Tim Pritlove>Ja, das war wichtig.
+
+00:01:09.038 --> 00:01:21.218
+<v Linus Neumann>Ja du äh das war ja der letzten Folge ja ohnehin wichtig, dass wir beim Thema bleiben. Die ist aber äh trotzdem äh gut angekommen. Ich dachte ja, wir wären etwas wirr, aber ähm der der das Flatrometer ähm.
+
+00:01:21.014 --> 00:01:22.924
+<v Tim Pritlove>Ah, das habe ich noch gar nicht.
+
+00:01:22.985 --> 00:01:26.145
+<v Linus Neumann>Bei der letzten Sendung ist zufrieden,
+
+00:01:26.675 --> 00:01:35.231
+<v Linus Neumann>Äh genau, mein Vortrag heißt äh die Trolldrossel Erkenntnisse der empirischen Trollforschung, wobei der Name Trolldrossel erst äh nachher dazukam.
+
+00:01:35.694 --> 00:01:44.581
+<v Linus Neumann>In Anlehnung an äh die Drossel habe ich also auch ein kleines Konzept entwickelt, wie man das mit Trollen machen kann. Habe ich äh habe ich verlinkt.
+
+00:01:39.576 --> 00:01:45.086
+<v Tim Pritlove>Trolltross.
+
+00:01:45.285 --> 00:01:53.457
+<v Linus Neumann>Und äh ist ein äh Vortrag, der also ich wir bekommen da gutes Feedback für. Den habe ich ja gehalten zusammen mit Michael Kreil,
+
+00:01:54.382 --> 00:01:56.810
+<v Linus Neumann>und äh dem guten Erlehmann,
+
+00:01:57.459 --> 00:02:06.905
+<v Linus Neumann>Und äh ich merke auf Merkel, auf dem Twitter und so und auf dem Abgrund nicht, dass die Leute den mögen. Und ich möchte, dass denen noch mehr Leute mögen. Deswegen gibt's eine Aufzeichnung.
+
+00:02:06.695 --> 00:02:08.467
+<v Tim Pritlove>Du hast ja auch selber aufgezeichnet, ne?
+
+00:02:08.179 --> 00:02:22.901
+<v Linus Neumann>Ja, ich habe, äh kann ja auch kurz erzählen. Ich äh war ähm auf Stage sechs, wo es keine Aufzeichnungsmöglichkeit gab. Aber ich habe an einer der PA-Boxen einen drei Pull XLR entdeckt und dann ein Kabel äh da reingestepft
+
+00:02:22.733 --> 00:02:24.692
+<v Linus Neumann>und äh selber aufgezeichnet.
+
+00:02:25.678 --> 00:02:38.615
+<v Tim Pritlove>Das ist echt ein guter Tipp, das wusste ich das war mir selber auch noch nicht so bewusst, dass diese ganzen Aktivboxen, die normalerweise auf Konferenzen rumstehen halt so ein Daisy Chain Verfahren haben und man da eigentlich immer auch einen XLR Ausgang hat, wo ein normales Leinsignal bei rausfällt,
+
+00:02:38.976 --> 00:02:41.565
+<v Tim Pritlove>und da kann man sich halt ran stöpseln so.
+
+00:02:42.046 --> 00:02:52.574
+<v Linus Neumann>Erst so zehn Sekunden auf das Mischpult geblickt und geguckt, ob ich da jetzt irgendwie was ich da alles rausziehe, umstöpseln und anders löten muss und habe dann gedacht, ach, weißt du?
+
+00:02:53.277 --> 00:02:57.387
+<v Linus Neumann>Das gibt nur Ärger. Und dann habe ich halt äh ja.
+
+00:02:54.509 --> 00:02:59.664
+<v Tim Pritlove>Ja. Ja, man hängt auch im Zweifelsfall einfach am falschen Port.
+
+00:03:00.001 --> 00:03:13.882
+<v Linus Neumann>Genau und dann hängst du wieder falsch und mach irgendeinen Scheiß. Und dann habe ich äh äh gibt's bei im im Mac Präsentationsprogramm Keynote die Möglichkeit und das äh gibt's bei PowerPoint auch die Möglichkeit aufzuzeichnen. Also das ähm.
+
+00:03:14.724 --> 00:03:19.506
+<v Tim Pritlove>So wie man die Slides geklickt hat, dass das dann quasi als Video rausgerindert wird.
+
+00:03:19.429 --> 00:03:29.998
+<v Linus Neumann>Der hat dann jetzt äh ich hätte ja jetzt auch noch das das Audio Interface wieder an den Computer stopfen können, aber äh ich habe die Aufzeichnung dann über das normale MacBook äh Mikrofon gemacht. Ich wollte ja einfach nur, dass der,
+
+00:03:30.227 --> 00:03:35.298
+<v Linus Neumann>sich das Klickverhalten habe und das konnte man dann am Ende rausrennen als ein HD Video,
+
+00:03:35.653 --> 00:03:45.021
+<v Linus Neumann>die Folien und dann habe ich die andere, die schöne, gute, äh, saubere Tonspur drunter gelegt. Einmal durch den Offonic geworfen und äh, super.
+
+00:03:45.009 --> 00:03:53.638
+<v Tim Pritlove>Ja, da ärgere ich mich jetzt ehrlich gesagt, warum ich das nicht auch gemacht habe. Also warum mache ich nicht einfach selber mal von meinem Slideverhalten,
+
+00:03:53.765 --> 00:03:59.797
+<v Tim Pritlove>Allein schon zur Selbstüberprüfungszwecken, aber natürlich auch um so eine Audio Slide Only Geschichte, ohne jetzt immer,
+
+00:04:00.050 --> 00:04:05.524
+<v Tim Pritlove>Guckt mal auf die Fresse, Videos äh machen zu müssen oder eine Alternative dazu zu haben zumindest.
+
+00:04:05.632 --> 00:04:13.348
+<v Linus Neumann>Wer ältere äh ältere macOS-Versionen hat, kann auch ein Programm nutzen mit dem Namen Profcast. Ähm,
+
+00:04:13.402 --> 00:04:24.218
+<v Linus Neumann>das habe ich früher an der Uni öfter genutzt, dass ähm da kannst du sogar solche Scherze machen wie, also du kannst ein MP vier Video machen, du kannst aber auch MP,
+
+00:04:24.465 --> 00:04:31.459
+<v Linus Neumann>Also ARC Audiodateien machen, die Procepter, dann die Slide als Bild haben,
+
+00:04:32.205 --> 00:04:41.428
+<v Linus Neumann>sodass du äh da eine relativ kleine Datei hast, die du aufn ähm aufm iPod oder so anschauen kannst und trotzdem dann in den, in den,
+
+00:04:41.753 --> 00:04:53.638
+<v Linus Neumann>oder in iTunes, in der Übersicht auch immer die Slide, über die du gerade redest. Das ist schon äh gibt's ganz interessante Lösungen, aber dieses Profcast haben die irgendwie nicht weiterentwickelt. Das läuft mit der aktuellen Mac US Version irgendwie nicht. Warum auch immer.
+
+00:04:54.540 --> 00:04:57.340
+<v Linus Neumann>Ja, das auf jeden Fall ähm
+
+00:04:57.298 --> 00:05:06.804
+<v Linus Neumann>so für für nebenbei, äh einfach mal äh noch den Vortrag mit aufzeichnen, eine ganz, ganz gangbare Lösung. Wie gesagt, wer fünf Minuten länger investiert,
+
+00:05:07.117 --> 00:05:16.239
+<v Linus Neumann>und die Boxen nicht so so weit weg von seinem eigenen Rechner stehen hat, kann dann auch direkt das das als Interface wieder in den eigenen Rechner geben und sich den den einen.
+
+00:05:15.939 --> 00:05:22.065
+<v Tim Pritlove>Auch äh schöne Views äh schon erzeugt hier. Sieht man das irgendwo?
+
+00:05:22.206 --> 00:05:23.738
+<v Linus Neumann>Was meinst du mit Views?
+
+00:05:23.488 --> 00:05:29.044
+<v Tim Pritlove>Na ja, was du so, was es schon geklickt wurde. Na ja, immerhin schon dreitausend Mal. Geht ab.
+
+00:05:28.990 --> 00:05:36.069
+<v Linus Neumann>Ja, für irgendwie Mittwochmorgen, Stage6, äh halbe Stunde ähm war das, glaube ich, ganz, ganz äh.
+
+00:05:35.769 --> 00:05:42.642
+<v Tim Pritlove>Ist auf jeden Fall ganz amtlich, ja. Aber du bist noch nicht sozusagen in offiziellen Republika äh Kanal.
+
+00:05:42.895 --> 00:05:49.727
+<v Linus Neumann>Muss das ja selber machen, denn ähm der Michael hat ja noch irgendwie dann alles zusammen gescrapt und ähm
+
+00:05:49.643 --> 00:06:03.236
+<v Linus Neumann>hat der, glaube ich, das, was der inoffiziell ist ja immer besser und Michael hat jetzt quasi die Selbstaufzeichnung auch noch direkt mit da reingekratzt. Also es gibt irgendwie auf Gitter oder so, müssen wir auch gleich nochmal verlinken für Michael, irgendwie so eine
+
+00:06:03.182 --> 00:06:10.549
+<v Linus Neumann>Sammlung. So viel dazu und ähm zwei Tage nach der Republika,
+
+00:06:10.988 --> 00:06:19.706
+<v Linus Neumann>er eilte mich dann äh er eilte mich dann das Böse, mich eil in die Unheulde und äh haben,
+
+00:06:19.857 --> 00:06:29.099
+<v Linus Neumann>Auto aufgebrochen. Ich habe einen VW-Bus, mit dem ich dann noch ein bisschen Urlaub machen wollte. Und ähm,
+
+00:06:29.526 --> 00:06:40.900
+<v Linus Neumann>Der wurde also in einer etwas äh nicht so überwachten Stelle geparkt, damit wir einen Waldspaziergang machen könnten konnten und als wir zurückkamen, ähm hatte der eine Seitenscheibe weniger,
+
+00:06:41.406 --> 00:06:45.221
+<v Linus Neumann>und ähm es fehlte eine Tasche,
+
+00:06:46.063 --> 00:06:54.397
+<v Linus Neumann>in der sich so ein paar Sachen befanden von mir, darunter mein Laptop. Ja, ich hab jetzt,
+
+00:06:55.076 --> 00:06:56.806
+<v Linus Neumann>Erstmal kein MacBook mehr.
+
+00:06:56.506 --> 00:07:02.148
+<v Tim Pritlove>Aber in deinem Fall datentechnische wahrscheinlich kein Problem. Ich vermute voll Verschlüsselung und.
+
+00:07:02.215 --> 00:07:03.957
+<v Linus Neumann>Verschlüsselung mehrfach
+
+00:07:03.904 --> 00:07:12.340
+<v Linus Neumann>eh viel Lok. Ich mach da auch nochmal irgendwie 'n Blogbeitrag wie man also sorgenfrei sich die den Rechner klauen lässt und eh
+
+00:07:12.268 --> 00:07:20.578
+<v Linus Neumann>in dem in dem in dem in dem wohligen Genuss schwebt, dass auf jeden Fall die Daten ähm weder äh einsehbar noch verloren sind,
+
+00:07:20.831 --> 00:07:23.583
+<v Linus Neumann>und ähm zweitens äh,
+
+00:07:24.370 --> 00:07:33.702
+<v Linus Neumann>noch die Genugtuung hat das jetzt sagen wir mal jemand der jetzt nicht wirklich genau weiß was er tut diesen Rechner noch nicht mal mehr benutzen kann weil ich nämlich,
+
+00:07:33.841 --> 00:07:40.871
+<v Linus Neumann>dafür gesorgt habe, dass ähm dieser Rechner von nichts anderem bootet als der SSD, die da reingelötet ist.
+
+00:07:40.571 --> 00:07:43.106
+<v Tim Pritlove>Ach. Oh.
+
+00:07:42.806 --> 00:07:45.149
+<v Linus Neumann>Alles jetzt natürlich äh.
+
+00:07:44.849 --> 00:07:49.071
+<v Tim Pritlove>Das lässt sich auch nicht mehr also lässt sich schon irgendwie theoretisch.
+
+00:07:49.134 --> 00:07:50.257
+<v Linus Neumann>Wie gesagt.
+
+00:07:50.007 --> 00:07:51.170
+<v Tim Pritlove>Führen, aber.
+
+00:07:51.309 --> 00:07:57.210
+<v Linus Neumann>Also das lässt sich rückführen, ähm der Aufwand ist äh dann aber, denke ich, relativ hoch,
+
+00:07:57.498 --> 00:08:04.637
+<v Linus Neumann>und ein Aufwand, den Leute, die im Wald rumrennen und Autoscheiben einschlagen, äh im Zweifelsfall nicht äh zu leisten, in der Lage sind,
+
+00:08:04.884 --> 00:08:17.154
+<v Linus Neumann>Genau, also Efi Log, MacBook, einmal in den äh mit Apfel Air in den äh Recovery Modus und dann kann man das Efi Log setzen und dann setzt es quasi das gibt es,
+
+00:08:17.310 --> 00:08:24.497
+<v Linus Neumann>ein Passwort, was gefragt wird, wenn man von irgendeiner anderen, also wenn man irgendetwas anderes machen möchte, als von der,
+
+00:08:24.653 --> 00:08:30.644
+<v Linus Neumann>von der, von dem Datenträger Buten. So, das heißt, da ist jetzt eine eine verschlüsselte, eingelötete SSD,
+
+00:08:30.909 --> 00:08:35.812
+<v Linus Neumann>und dass MacBook weigert sich von irgendwas anderem zu buten, auch nicht von der Recovery-Partition.
+
+00:08:35.512 --> 00:08:41.202
+<v Tim Pritlove>Es sei denn, es gibt Passwort, aber das Passwort hast du wahrscheinlich nicht, nicht unten dran geklebt.
+
+00:08:38.156 --> 00:08:49.476
+<v Linus Neumann>Habe ich nicht auf das MacBook? Nee und ähm ja, ich wünsche den Diemen also viel Spaß mit diesem Türke, den sie jetzt da haben. Viel mehr äh.
+
+00:08:45.361 --> 00:08:51.994
+<v Tim Pritlove>Ja, nee, aber das geht schon ganz gut mit so einem MacBook Pro, ne?
+
+00:08:52.151 --> 00:08:55.798
+<v Linus Neumann>Ähm äh das sind eher war ein eher, ja.
+
+00:08:54.296 --> 00:08:57.761
+<v Tim Pritlove>Ach so, ja, ach das ist ja praktisch. Ja dann, ist ja.
+
+00:08:57.511 --> 00:09:00.365
+<v Linus Neumann>Ne? Ist also richtig guter Türkei. Ähm.
+
+00:08:59.099 --> 00:09:03.225
+<v Tim Pritlove>Ähm da gibt's dann nochmal einen Flatterknopf extra heute, wa?
+
+00:09:03.184 --> 00:09:12.509
+<v Linus Neumann>Genau, ich habe äh also ich äh bin ja nicht so äh ich finde diese Crowdfunding mir ein Rechneraktion eigentlich immer ein bisschen bedenklich, vor allem bei
+
+00:09:12.335 --> 00:09:21.499
+<v Linus Neumann>Personen, die äh die finanziellen Mittel haben, sich einen neuen Rechner zu kaufen und ihn noch dazu durch eigene Dummheit verloren haben. Äh zu diesem Personen zähle auch ich,
+
+00:09:21.764 --> 00:09:29.575
+<v Linus Neumann>Ähm das heißt, ich werde mir ähm dann einen neuen Rechner irgendwie kaufen müssen. Ich habe jetzt erstmal so ein altes Ersatzgerät,
+
+00:09:30.020 --> 00:09:44.898
+<v Linus Neumann>Aber wer mich in den Zeiten des des Schmerzes den verursacht natürlich Schmerzen, diese Ausgaben allein schon das Auto zu reparieren und so und meine schöne Tasche, meine Tasche war so neu. Die das ist eigentlich das Ärgerlichste, die Tasche, ne, weil
+
+00:09:44.796 --> 00:09:47.380
+<v Linus Neumann>war so teuer, die kaufe ich mir nicht nochmal,
+
+00:09:47.495 --> 00:09:56.670
+<v Linus Neumann>ähm wer mich ähm also wer mich da jetzt unterstützen möchte, dafür habe ich nochmal auch ein dann einen Link in den Shownotes, dass man mich direkt flettern kann.
+
+00:09:56.742 --> 00:09:59.656
+<v Tim Pritlove>Ist das so eine so eine ganz tolle Tasche, irgendwas, also ich.
+
+00:09:59.356 --> 00:10:03.911
+<v Linus Neumann>Das war eine eine schöne Radkurier-Tasche, die ich mir erst vor Kurzem gekauft habe,
+
+00:10:05.011 --> 00:10:12.408
+<v Linus Neumann>Das war äh das war schon ärgerlich. Ansonsten war da noch, weiß ich nicht, Klamotten und so in in also,
+
+00:10:12.540 --> 00:10:22.178
+<v Linus Neumann>Das Doofe ist halt auch, wie gesagt, die Typen, die das jetzt irgendwie eingeschmissen haben, ähm die haben da jetzt nix. Also da ist nix dabei, was also außer der Tasche,
+
+00:10:22.353 --> 00:10:24.642
+<v Linus Neumann>ist da nichts, was sie verwenden können.
+
+00:10:24.342 --> 00:10:28.704
+<v Tim Pritlove>Du weißt, dass jetzt alle wissen wollen, was das für eine Tasche war, ne? Wir schmeißen das dann auch noch mit in die.
+
+00:10:28.404 --> 00:10:41.984
+<v Linus Neumann>Das war ähm ich google das schnell, der der Marke Doc Eleven, eine äh Kreuzberger Hamburger äh Gruppierung, die irgendwie coole,
+
+00:10:42.730 --> 00:10:44.718
+<v Linus Neumann>coole Taschen machen.
+
+00:10:47.597 --> 00:10:55.487
+<v Linus Neumann>Wobei ich's irgendwie jetzt nicht finde. Also ich finde jetzt erstmal gerade irgendwas anderes. Äh Dock eleven, Kurier, Taschen.
+
+00:10:55.301 --> 00:10:58.095
+<v Tim Pritlove>Machen wir dann nachher. Jetzt muss ich die.
+
+00:10:56.425 --> 00:11:05.660
+<v Linus Neumann>Dock eleven Urban Container, Stock Eleven Bags dot com, ja, da meine schöne Tasche haben sie mir geklaut. Wer die sieht, äh.
+
+00:11:05.620 --> 00:11:08.008
+<v Tim Pritlove>Jeder jeder der mit so 'ner Tasche rumläuft.
+
+00:11:07.758 --> 00:11:08.845
+<v Linus Neumann>Fort aufs Maul.
+
+00:11:12.541 --> 00:11:25.724
+<v Linus Neumann>Schöner VW-Bus. Na ja, okay, also ähm genau, wer mir da, wer mir da ein bisschen Unterstützung zukommen lassen möchte in diesen harten Zeiten, der kann das gerne tun, aber ich weise ausdrücklich darauf hin, dass ich ähm,
+
+00:11:25.941 --> 00:11:28.891
+<v Linus Neumann>Grundsätzlich erstmal in der Lage bin, das selber zu bezahlen.
+
+00:11:29.150 --> 00:11:32.533
+<v Tim Pritlove>Gut, soll ich auch noch was erzählen?
+
+00:11:33.290 --> 00:11:38.492
+<v Linus Neumann>Ach, weiße Tim, ja, du kannst auch noch was sagen. Nee, erzähl mal wat.
+
+00:11:36.721 --> 00:11:39.485
+<v Tim Pritlove>Ob dich das interessiert.
+
+00:11:39.235 --> 00:11:41.100
+<v Linus Neumann>Weiß ich ja nicht, was du erzählen willst.
+
+00:11:40.874 --> 00:11:43.030
+<v Tim Pritlove>Na ja, du hast jetzt von deinem Vortrag erzählt.
+
+00:11:42.895 --> 00:11:45.813
+<v Linus Neumann>Ja, dein Vortrag. Genau. Tim hat einen Vortrag gehalten.
+
+00:11:44.082 --> 00:11:58.275
+<v Tim Pritlove>Genau. Ja, große Überraschung, ähm wahrscheinlich die meisten auch schon bekannt, aber der Vollständigkeit halber wollte ich das auch nochmal kurz erwähnen. Ich habe Gott sei Dank noch ein paar Videos mehr als du. Ja, das brauche ich so für meinen inneren Stolz.
+
+00:11:58.054 --> 00:12:02.344
+<v Linus Neumann>Wie viel hast du? Wahrscheinlich ungefähr das Dreifache. Ach so.
+
+00:12:02.044 --> 00:12:09.795
+<v Tim Pritlove>Fünftausenddreihundertvierundvierzig. Damit liege ich auch äh weit abgeschlagen hinter Johnnys rahnt und vor allem hinter diesen YouTube-Stars.
+
+00:12:11.394 --> 00:12:12.072
+<v Tim Pritlove>Die natürlich,
+
+00:12:12.578 --> 00:12:19.493
+<v Tim Pritlove>da äh gleich viel besser abschneiden, wenngleich auch nicht unbedingt in den Zahlen, in denen sie normalerweise sind.
+
+00:12:19.921 --> 00:12:28.381
+<v Tim Pritlove>Sind so so sechsstellige Subscriber Zahlen und sowas. Aber das ist ja auch ein anderes Genre. Ja.
+
+00:12:28.754 --> 00:12:30.833
+<v Linus Neumann>Fünftausenddreihundertvierundvierzig.
+
+00:12:30.545 --> 00:12:33.242
+<v Tim Pritlove>Ja, das passt schon mal ganz gut für so ein Nischenthema. Das.
+
+00:12:32.942 --> 00:12:34.901
+<v Linus Neumann>Radio Universal.
+
+00:12:34.601 --> 00:12:44.539
+<v Tim Pritlove>Genau, na ja, im Wesentlichen ist das halt eine Zusammenfassung hier äh der Aktivitäten des letzten Jahres. Ähm das ist es dann geworden plus ein wenig äh aus,
+
+00:12:44.696 --> 00:12:53.246
+<v Tim Pritlove>auf, wie ich mir das so vorstellen kann, mit dem Audio Web und äh dem universellen Radio, wie ich das genannt habe
+
+00:12:53.211 --> 00:12:58.709
+<v Tim Pritlove>Ist ja so ein bisschen meine These, ne, aus dem Podcast heraus äh Radio neu,
+
+00:12:58.865 --> 00:13:04.003
+<v Tim Pritlove>und neu entwickeln und ohne jetzt zu viel,
+
+00:13:05.097 --> 00:13:16.814
+<v Tim Pritlove>da an den Tag zu legen, ich halte einfach mal ein paar Wege aufgezeigt, ähm wie das funktionieren kann, vor allem aber eben auch konkret anhand der Ergebnisse des letzten Jahres.
+
+00:13:17.548 --> 00:13:26.356
+<v Tim Pritlove>Also was halt einfach so alles äh gehackt wurde, ne. Und mir kann's natürlich nie schnell genug gehen, aber wenn es äh so weitergeht, wie es im letzten Jahr lief, dann,
+
+00:13:27.150 --> 00:13:34.799
+<v Tim Pritlove>Das alles noch ganz schön toll werden hier mit dem Podcast. So, wollen wir jetzt mal ähm,
+
+00:13:35.521 --> 00:13:38.206
+<v Tim Pritlove>Jetzt mal hier auf den eigentlichen äh Punkt kommen.
+
+00:13:38.129 --> 00:13:38.909
+<v Linus Neumann>Ja
+
+00:13:39.234 --> 00:13:51.426
+<v Linus Neumann>Und zwar war ja ähm also Hauptversammlung der Telekom und ich finde das Thema, das sollte man äh deshalb nochmal nach vorne legen, weil es ja äh eigentlich nahtlos anschließt an die an die äh
+
+00:13:51.343 --> 00:13:57.483
+<v Linus Neumann>letzte Sendung, bei der ja so der der Schulterschluss der netzpolitischen Gruppen ähm verlangt wurde,
+
+00:13:58.025 --> 00:14:08.390
+<v Linus Neumann>Ich habe dann noch am am selben Abend, ähm das war ja der letzte Tag der Republika, äh den habe ich dann zum Anlass genommen, mal ein ein, zwei Bierchen zu verköstigen,
+
+00:14:08.408 --> 00:14:14.609
+<v Linus Neumann>und ähm habe dann mit dem äh Matthias Richel äh gequatscht, wie denn eine,
+
+00:14:14.664 --> 00:14:22.337
+<v Linus Neumann>Kampagne für Netzneutralität auszusehen hat gegen diese äh Drosselgeschichten und so. Und der Matthias Richel hat dann ähm,
+
+00:14:22.926 --> 00:14:25.786
+<v Linus Neumann>sehr coole Motive gebastelt.
+
+00:14:26.652 --> 00:14:34.716
+<v Linus Neumann>Und das schon irgendwie am nächsten Tag, also wo alle eigentlich noch verkatert waren und hat äh so dann zu der ersten
+
+00:14:34.614 --> 00:14:43.729
+<v Linus Neumann>gemeinsamen Kampagne quasi von D vierundsechzig dem dem Sozialdemokraten nahestehenden Netz,
+
+00:14:44.192 --> 00:14:54.540
+<v Linus Neumann>Politikverein äh und der digitalen Gesellschaft äh äh geführt. Und da gibt's also sehr schöne äh Motive, die mich äh
+
+00:14:54.486 --> 00:15:04.052
+<v Linus Neumann>Die ich also als Kampagne unter dem Vorzeichen, wie äh wie versteht es Oma Kawudge, ähm sehr gelungen finde. Das war so das Erste,
+
+00:15:04.593 --> 00:15:12.687
+<v Linus Neumann>die kann man, die sind zur freien Verfügung für alle erhältlich kann man sich überall auf seine äh Blogs donnern und so und dann,
+
+00:15:13.006 --> 00:15:14.724
+<v Linus Neumann>bis äh,
+
+00:15:15.343 --> 00:15:26.171
+<v Linus Neumann>noch hat sich eigentlich am gleichen Tag dann herauskristallisiert über Telefonate und Biere bei der Republikan. Ähm eine gemeinsame Aktion von,
+
+00:15:26.280 --> 00:15:32.312
+<v Linus Neumann>CCC und äh digitale Gesellschaft, die dann nämlich bei der Hauptversammlung der Telekom stattgefunden hat,
+
+00:15:33.052 --> 00:15:41.572
+<v Linus Neumann>Und zwar haben die ihre Hauptversammlung da ja in Köln abgehalten in der Arena mit dem nicht aussprechbaren Namen lang.
+
+00:15:41.843 --> 00:15:42.912
+<v Tim Pritlove>Ja, bla.
+
+00:15:42.612 --> 00:15:54.895
+<v Linus Neumann>Arena und ähm die hat ein Parkhaus und an diesem Parkhaus ist dann so ein großes äh Werbedisplay, äh auf dem dann Stand willkommen zur Hauptversammlung,
+
+00:15:55.141 --> 00:15:59.624
+<v Linus Neumann>Und über diesen Werbedisplay hing dann ein,
+
+00:16:00.027 --> 00:16:09.827
+<v Linus Neumann>knapp fünfzehn mal fünf Meter großes transparent von CCC digitale Gesellschaft wo da irgendwie drauf steht so keine Drosselung rettet das Netz,
+
+00:16:10.380 --> 00:16:13.367
+<v Linus Neumann>ähm und das fand ich auch sehr schön.
+
+00:16:13.523 --> 00:16:22.873
+<v Tim Pritlove>Ja, hebst Hinweis auf die echte Sitzkampagne von der digitalen Gesellschaft und natürlich hier den passenden Logos. Club und DG.
+
+00:16:23.432 --> 00:16:26.797
+<v Linus Neumann>Auch das hat mich äh sehr gefreut. Ähm,
+
+00:16:27.266 --> 00:16:38.040
+<v Linus Neumann>Das äh war eine, also das so endlich mal irgendwie so wie es mir gefällt, so schön irgendwie Gorilla mäßig da oben aufm Dach klettern und ein dreißig Kilo wiegt so ein Ding.
+
+00:16:38.497 --> 00:16:39.566
+<v Linus Neumann>Irgendwie aus.
+
+00:16:39.316 --> 00:16:40.455
+<v Tim Pritlove>Ist riesig, ne.
+
+00:16:40.155 --> 00:16:45.635
+<v Linus Neumann>Das ist ein größeres Teil, ja. Also es passt erstmal jetzt so nicht in eine Wohnung. Ähm,
+
+00:16:46.056 --> 00:16:58.597
+<v Linus Neumann>Das finde ich eine finde ich eine coole Sache. Hat natürlich auch ähm durchaus viel Geld gekostet. Da waren einige äh Schweißtropfen auf diversen Stirnen. Ähm was die Bezahlung von diesem Teil angeht.
+
+00:16:58.399 --> 00:17:02.755
+<v Tim Pritlove>Was muss man denn da so investieren in so ein Plakat? Meine Größenordnung?
+
+00:17:03.056 --> 00:17:08.109
+<v Linus Neumann>Also sagen wir mal das Ding hat so wie das dann jetzt da hing,
+
+00:17:09.504 --> 00:17:13.878
+<v Linus Neumann>ungefähr zwei Blatt gekostet. Zweitausend.
+
+00:17:12.082 --> 00:17:16.882
+<v Tim Pritlove>Zwei was? Zweitausend. Ja. Mhm.
+
+00:17:14.804 --> 00:17:20.115
+<v Linus Neumann>Dieser Spaß ungefähr gekostet. Ähm oder? Moment.
+
+00:17:20.843 --> 00:17:31.544
+<v Linus Neumann>Knapp, knapp um die zweitausend. Ähm da ist jetzt natürlich noch nicht drin, dass äh irgendwie ähm äh da.
+
+00:17:31.244 --> 00:17:33.149
+<v Tim Pritlove>Exklusive Installation sozusagen.
+
+00:17:32.873 --> 00:17:47.865
+<v Linus Neumann>Exklusive Installation und ähm vermutlich hätte man das natürlich, wenn man das jetzt nicht genau eine Woche vorher irgendwie angeleiert hätte, alles nochmal irgendwie sehr weiß ich in wahrscheinlich zwanzig, dreißig Prozent, vierzig Prozent billiger hinkriegen können.
+
+00:17:47.721 --> 00:17:48.784
+<v Tim Pritlove>Klar, wenn man.
+
+00:17:48.484 --> 00:17:52.414
+<v Linus Neumann>Aber ähm das ist ja auch ähm.
+
+00:17:52.114 --> 00:17:57.408
+<v Tim Pritlove>Es ist, wie es ist, aber ich meine, die Medienwirkungen, die das äh erzielt hat, die äh ist das Geld allemal wert.
+
+00:17:57.132 --> 00:18:01.914
+<v Linus Neumann>Genau und ähm natürlich bei der Stelle dann der Hinweis, ähm,
+
+00:18:03.249 --> 00:18:08.572
+<v Linus Neumann>digitale Gesellschaft kann man gerne Geld spenden, den CCC auch. Ähm,
+
+00:18:09.582 --> 00:18:16.270
+<v Linus Neumann>Im Moment haben wir dann beim beim Finanzvergleich festgestellt, dass digitale Gesellschaft das Geld noch ein bisschen nötiger hätte als,
+
+00:18:17.298 --> 00:18:27.555
+<v Linus Neumann>geringfügig. Ähm aber auch der CCC hat da natürlich den sogar den äh minimal größeren Anteil äh dieser Kosten getragen,
+
+00:18:28.240 --> 00:18:35.192
+<v Linus Neumann>Und ähm ja, auch das irgendwie eine Sache, was ich halt cool finde, ne, irgendwie aufm aufm Republika
+
+00:18:35.175 --> 00:18:47.139
+<v Linus Neumann>Pausenhof so ungefähr äh bisschen die Handys geschwungen, bisschen rum überlegt und ähm ich weiß jetzt nicht genau, wie nenne jetzt mal keine Ahnung, kann man sich ja denken, dass das irgendwie höhere,
+
+00:18:47.373 --> 00:18:55.629
+<v Linus Neumann>Leute des CCs waren die da irgendwie OK gegeben haben, ich will da jetzt die direkten Namen wahrscheinlich nicht unbedingt nennen, weil ich nicht genau weiß, ob die das wollen.
+
+00:18:56.760 --> 00:19:05.635
+<v Tim Pritlove>Ja, ich schätze mal, dass äh wenn's da um Geld gegangen ist, dann äh dürfte da auch einfach der Vorstand involviert gewesen sein. Das sind ja die Momente, wo so ein Vorstand dann auch mal aktiv.
+
+00:19:05.335 --> 00:19:07.359
+<v Linus Neumann>Der Vorstand musste auf jeden Fall auch zustimmen.
+
+00:19:07.059 --> 00:19:13.537
+<v Tim Pritlove>Traditionell äh ist ja, sagen wir mal der Club nicht unbedingt vorstandsgefühlt, sondern der Vorstand ist da eher ein,
+
+00:19:14.042 --> 00:19:20.819
+<v Tim Pritlove>Notwendikum was immer dann aktiv wird, wenn's eben offiziell wird, ne?
+
+00:19:20.796 --> 00:19:27.105
+<v Tim Pritlove>Aber alles, was sich sozusagen äh informell lösen lässt, das wird auch informell gelöst und das finde ich auch gut so.
+
+00:19:27.178 --> 00:19:39.610
+<v Linus Neumann>Genau, also die die Arbeit hier eindeutig größtenteils vom CCC in Köln verrichtet und äh dafür auch nochmal sehr großes Lob.
+
+00:19:39.953 --> 00:19:46.298
+<v Tim Pritlove>Was ist denn jetzt auf der Hauptversammlung eigentlich selbst passiert? Haben da eigentlich dann tatsächlich Leute gesprochen, die.
+
+00:19:47.031 --> 00:19:54.644
+<v Linus Neumann>Also es gab dann irgendwie auch ähm dort vor Ort bei der, bei der ähm Hauptversammlung.
+
+00:19:56.051 --> 00:20:05.803
+<v Linus Neumann>Ähm die also die, Moment, ich suche das mal ganz kurz raus. Also da kam das Thema natürlich auch zur Sprache,
+
+00:20:06.501 --> 00:20:08.892
+<v Linus Neumann>Entscheidend war äh,
+
+00:20:09.091 --> 00:20:19.095
+<v Linus Neumann>Allerdings auch, dass die, also der der größere Teil spielte sich dann außen ab, also die Aktion, zu der ja äh Konstanze und ich äh aufgerufen haben
+
+00:20:19.024 --> 00:20:27.809
+<v Linus Neumann>seine seine Stimmrechte irgendwie an CCC und digitale Gesellschaft,
+
+00:20:28.200 --> 00:20:33.493
+<v Linus Neumann>zu vermachen. Das haben auch viele Leute gemacht. Das waren dann auch Leute drin von uns,
+
+00:20:34.353 --> 00:20:46.040
+<v Linus Neumann>aber äh man konnte da so kurzfristig nicht äh großartig äh die Bühne betreten, da natürlich so eine Hauptversammlung äh sich,
+
+00:20:46.281 --> 00:20:48.576
+<v Linus Neumann>Also die sind ja einfach geprobt dadrin
+
+00:20:48.552 --> 00:21:01.309
+<v Linus Neumann>sich gegen unliebsame Störenfriede äh zur Wehr zu setzen und die haben natürlich für ihre Hauptversammlung entsprechende Tagesordnungen und so die verhindern, dass da irgendwelche äh unliebsamen äh Wortbeiträge
+
+00:21:01.231 --> 00:21:06.056
+<v Linus Neumann>an äh entscheidenden Stellen äh gemacht werden, ne? Das ist ja hauptsächlich eine
+
+00:21:05.967 --> 00:21:18.687
+<v Linus Neumann>Selbstbeweihräucherin, so eine Hauptversammlung und die wissen ja, dass dann da irgendwelche kritischen Aktionäre und und Leute, die irgendwie mit ihren Telekom-Aktien sich verzockt haben, wie der Uli Hoeneß oder so, da,
+
+00:21:18.718 --> 00:21:24.366
+<v Linus Neumann>dann da irgendwie auftreten und irgendwie ähm wenn man Pech hat, nackt über die über die Bühne flitzen oder.
+
+00:21:24.066 --> 00:21:26.012
+<v Tim Pritlove>Uli Hoeneß wollte auch reden.
+
+00:21:25.887 --> 00:21:30.291
+<v Linus Neumann>Nee, Rudi, Uli, hat, äh, aber es gab irgendwie.
+
+00:21:30.934 --> 00:21:32.965
+<v Tim Pritlove>Hat ein gesehen, dass es besser ist, zu schweigen.
+
+00:21:33.026 --> 00:21:39.893
+<v Linus Neumann>Also von unserem Mann vor Ort wird berichtet, äh auch ohne eigene Wortmeldung, was Drosse kommt das Thema der Hauptversammlung,
+
+00:21:40.170 --> 00:21:51.497
+<v Linus Neumann>Kerne Netzneutralität, wo du wenig erfasst, es ging immer fast ausschließlich um die Bremse und die Darstellung von Obermann, äh das ist Rene Obermann, dem äh CEO, das ist weiterhin echte Flatrates geben würde,
+
+00:21:51.936 --> 00:22:03.791
+<v Linus Neumann>und damit ja die Diskussion bitte zu Ende sei. Also es gab es gab Thema so gab dann aber auch Wortbeiträge die irgendwie so Schützenhilfe waren, das heißt die haben natürlich dafür gesorgt, dass dann irgendwie ähm,
+
+00:22:04.327 --> 00:22:17.492
+<v Linus Neumann>Dass sich Leute meldeten und dann irgendwie so den die PR äh einfach nochmal vorgelesen haben pro dieser Drosselplänepläne. Also das hat die das hat in jeder Form diese ähm diese Hauptversammlung natürlich dominiert.
+
+00:22:18.027 --> 00:22:19.379
+<v Linus Neumann>Ähm.
+
+00:22:19.229 --> 00:22:24.907
+<v Tim Pritlove>Meine mich erinnern zu können, ich habe bloß keine Quelle parat, aber das äh fiel irgendwo so, dass die Telekom,
+
+00:22:25.244 --> 00:22:38.380
+<v Tim Pritlove>Also in irgendeinem Artikel fiel das dann an der Seite, dass sie dass sie jetzt wohl meinen, dass eben die eigentliche Flatrate, also diese unbegrenzte Zugang dann wiederum durch Zuzahlung von zehn oder zwanzig Euro äh im Monat zu erzielen sei. Das,
+
+00:22:38.692 --> 00:22:49.136
+<v Tim Pritlove>jetzt mal als ganz äh unabgesicherte Information, aber das ist ja am Ende nicht unbedingt das eigentliche Problem, sondern das eigentliche Problem ist ja, dass die Drossel, die dann eben für die meisten Leute gilt,
+
+00:22:49.142 --> 00:22:51.401
+<v Tim Pritlove>quasi der Vorwand ist, um,
+
+00:22:51.834 --> 00:23:02.945
+<v Tim Pritlove>Dienste, Anbietern einen bevorzugten Zugang zu verkaufen und damit eben diese zwei Klassen äh System zu etablieren. Und ich denke, da muss die Diskussion auch nochmal,
+
+00:23:03.480 --> 00:23:06.111
+<v Tim Pritlove>mehr hingeführt werden auf diesen Aspekt.
+
+00:23:06.166 --> 00:23:14.152
+<v Linus Neumann>Ja. Ähm es gab da natürlich auch die Demo vor Ort. Das Wetter in Köln war eher so mittelmäßig.
+
+00:23:13.852 --> 00:23:16.099
+<v Tim Pritlove>Es hat geschifft wie blöde, oder?
+
+00:23:15.799 --> 00:23:22.709
+<v Linus Neumann>Ja, da waren, glaube ich, nur äh irgendwie zweihundert Leute ungefähr. Ähm,
+
+00:23:23.082 --> 00:23:27.804
+<v Linus Neumann>aber die Demo vor Ort gab's auch und es gab, das fand ich nämlich auch cool, also ich bin ja,
+
+00:23:28.237 --> 00:23:40.664
+<v Linus Neumann>Wirklich sagen, also die Hausaufgaben haben wir gemacht. Ähm die Online-Demo, ja, von äh realisiert von äh ähm Sebastian Vollenhals von Open Data City, der das äh,
+
+00:23:41.121 --> 00:23:51.546
+<v Linus Neumann>nach einer nach einem Denkan nach einer was weiß ich Anstoßfrage bitte von ähm digitale Gesellschaft dann gebastelt hat, beziehungsweise in dem Fall dann,
+
+00:23:51.751 --> 00:23:58.487
+<v Linus Neumann>Minus Telekom DE. In dem Fall dann äh glaube ich, war das ich der ihn da äh angestupst hat
+
+00:23:58.433 --> 00:24:13.335
+<v Linus Neumann>Ähm und zwar ist das also die Online-Demo nicht im Sinne einer äh einer äh so schönen äh Attacke, sondern eine äh eine modifizierte Seite, wo dann unten über der Telekom-Seite ein eine Gruppe Menschen ist, die
+
+00:24:13.239 --> 00:24:15.793
+<v Linus Neumann>ähm die demonstriert.
+
+00:24:15.493 --> 00:24:17.938
+<v Tim Pritlove>Also ein ein Overlay über die normale Webseite.
+
+00:24:17.710 --> 00:24:28.207
+<v Linus Neumann>Und man kann äh dann auf empört dich klicken und da äh einen Spruch reinschreiben, der dann auch auf den Transparenten dieser kleinen Männchen äh äh dann steht.
+
+00:24:28.887 --> 00:24:34.968
+<v Linus Neumann>Genau, realisiert von Open Data City, Sebastian Vollenhals, auch da 'ne echt coole Sache.
+
+00:24:35.040 --> 00:24:40.262
+<v Tim Pritlove>Ja, ganz modern hier mit äh Update mit Sharebutton und so, was.
+
+00:24:40.352 --> 00:24:43.296
+<v Linus Neumann>Der der Junge kann das. Der ist.
+
+00:24:45.268 --> 00:24:59.286
+<v Linus Neumann>Das heißt also, dieser, der, der, der, jetzt haben wir irgendwo die Piraten dabei, doch die Piraten waren ja bei der äh Demo in Köln, die hatten ja, glaube ich, dazu sogar aufgerufen, diese Demo anlässlich der Hauptversammlung, ich weiß nicht mehr genau, wer da jetzt zu aufgerufen hat oder wer nicht.
+
+00:24:59.894 --> 00:25:01.329
+<v Linus Neumann>Ähm,
+
+00:25:01.853 --> 00:25:11.767
+<v Linus Neumann>Und dann war das Ganze natürlich auch nochmal Thema. Also, wie gesagt, so Hausaufgaben wurden gemacht, hier die ganzen Schulterschlüsse, äh wo die wurden gemacht und wurden gesucht und,
+
+00:25:12.038 --> 00:25:17.464
+<v Linus Neumann>ähm das da hat also, da sieht man, das war auf jeden Fall äh,
+
+00:25:17.723 --> 00:25:24.921
+<v Linus Neumann>Republika Wirkung, ja? Das was da alles dann noch so schnell passiert ist und wer da mit wem alles gequatscht hat,
+
+00:25:25.042 --> 00:25:36.422
+<v Linus Neumann>Zumal es ja, was aber ohnehin noch zu sagen ist, zwischen den einzelnen Gruppen sowieso dann wieder personelle Überschreit Überschneidungen gibt, ne, also ich wäre ja zum Beispiel schon mal ein Beispiel für jemanden, der,
+
+00:25:36.699 --> 00:25:50.694
+<v Linus Neumann>MCC und im in der digitalen Gesellschaft Mitglied ist. Ähm insofern war das ja sowieso mal Zeit, dass da die Logos einfach auch mal äh gemeinsam überall hingedengelt werden und man da den den breiten Schulterschluss sucht.
+
+00:25:50.538 --> 00:26:03.055
+<v Tim Pritlove>Und jetzt die Frage, was was passiert politisch? Also ich glaube, die Linken sind so die einzigen, die wirklich äh da mal äh auffällig geworden sind und tatsächlich mal auch was gefordert haben.
+
+00:26:02.887 --> 00:26:16.845
+<v Linus Neumann>Genau, die die Linken haben gesagt, so, wir wollen äh die haben eine Initiative in den Bundestag geworfen und haben gesagt, wir wollen jetzt hier äh nationalität sofort. Und wie das so ist bei Dingen, die die Linke fordert äh also,
+
+00:26:17.537 --> 00:26:22.127
+<v Linus Neumann>festschreiben, ne? Das ist also genau das, was man was man ja will, so. Das ist auch.
+
+00:26:21.827 --> 00:26:32.607
+<v Tim Pritlove>Mich da jetzt gerade etwas unwissend aber ich meine den Hinweis gelesen zu haben, dass ja so etwas wie Netzneutralität tatsächlich im Telekommunikationsgesetz auch äh erwähnt ist.
+
+00:26:33.317 --> 00:26:40.401
+<v Linus Neumann>Äh war dann die Argumentation von Trauber, Peter Tauber, CDU,
+
+00:26:40.834 --> 00:26:54.588
+<v Linus Neumann>Zähnetz. Also es war klar, die Linke hat diesen Antrag haben gesagt, wir wollen Netzneutalität äh gesetzlich festschreiben. Dann haben SPD und Grüne gesagt, genau, ist richtig, ist gut und dann hat sich der Tauber zu Wort gemeldet. Äh Peter Tauber, der Schwarze Peter,
+
+00:26:54.390 --> 00:27:03.127
+<v Linus Neumann>der dann sagte ja alles es ist alles in Ordnung so wie es gerade ist im Telemediengesetz gibt's ja irgendwie 'ne,
+
+00:27:03.699 --> 00:27:09.058
+<v Linus Neumann>Grobe Vorschreibung von Netzneutralität ähm,
+
+00:27:09.095 --> 00:27:15.638
+<v Linus Neumann>und die Regierung könne ja, könne also auf Basis derer eingreifen, wenn sie denn müsste
+
+00:27:15.518 --> 00:27:24.646
+<v Linus Neumann>und äh im weit im Übrigen äh sei er der Meinung, dass sie das nicht müsste in diesem Fall. Ja, also so viel, vielen Dank äh C Netz,
+
+00:27:24.652 --> 00:27:28.275
+<v Linus Neumann>Ähm ja ähm.
+
+00:27:28.246 --> 00:27:31.802
+<v Tim Pritlove>Einschreiten, wenn man wollte, man will bloß leider nicht.
+
+00:27:32.230 --> 00:27:40.408
+<v Linus Neumann>Ja und äh Ähnliches sagte dann die FDP, ähm dass der der vorhandene die vorhandene,
+
+00:27:40.528 --> 00:27:50.287
+<v Linus Neumann>Gesetzeslage, reiche aus. Ja, wie gesagt, FDP und äh CDU sind ja dann die Freunde, die sagen, das regelt der Markt,
+
+00:27:51.507 --> 00:27:59.000
+<v Linus Neumann>Ja, also nix, nix Überraschendes an der Stelle. Diese Positionen waren bekannt. Das war auch äh so zu erwarten,
+
+00:27:59.727 --> 00:28:07.028
+<v Linus Neumann>Und wenn ich das richtig verstanden habe, wurde dieser ganze äh ohnehin nur irgendwie zu Protokoll gegeben, oder?
+
+00:28:07.160 --> 00:28:14.335
+<v Tim Pritlove>Ja, ich weiß nicht, also ich schaue hier gerade mal ins Telemediengesetz, Fassung von zweitausendsieben, das ist wohl die letzte, ne?
+
+00:28:15.387 --> 00:28:21.888
+<v Tim Pritlove>Also das Wort Netzneutralität. Tochter ist auf jeden Fall so nicht auf, ne, also na gut
+
+00:28:21.756 --> 00:28:36.586
+<v Tim Pritlove>das äh können wir ja nochmal reviewen. Das würde mich glaube mal interessieren, wie eigentlich diese Regelung da wirklich äh ist und inwiefern da irgendwas Zwingendes oder aufgreifbares eigentlich tatsächlich vorhanden ist. Vielleicht können sich da hier auch die Rechtskenner und Freaks und Nerds
+
+00:28:36.389 --> 00:28:40.120
+<v Tim Pritlove>unter den Hörern mal zu Wort melden, das fände ich mal ganz interessant.
+
+00:28:39.934 --> 00:28:45.564
+<v Linus Neumann>Kurze Korrektur, nicht Telemediengesetz, sondern tatsächlich Telekommunikationsgesetz. Äh,
+
+00:28:45.823 --> 00:28:53.502
+<v Linus Neumann>Die schwarz-gelbe äh Regierung hätte mit der TKG Reform prinzipiell die Mittel ähm,
+
+00:28:54.518 --> 00:29:05.995
+<v Linus Neumann>Über eine Verordnung gegen eine willkürliche Verschlechterung von Diensten und eine ungerechtfertigte Behinderung oder Verlangsamung des Datenverkehrs vorzugehen. Was mich wundert ist, dass ich das ähm.
+
+00:29:08.152 --> 00:29:21.835
+<v Linus Neumann>Dass ich das nicht weiß. Ja? Insofern und warum sie's dann nicht täten, ja? Also schon ein bisschen äh interessant. Er sagt aber, man will die äh die Prüfung der Bundesnetzagentur ähm,
+
+00:29:22.298 --> 00:29:26.185
+<v Linus Neumann>abwarten, denn wir wissen ja, die Bundesnetzagentur prüft,
+
+00:29:26.642 --> 00:29:36.076
+<v Linus Neumann>und äh so wie ich das erinnere, haben sie ja äh das mit einem mit eines Fragebogens gemacht. Ne? Also werden wir sehen,
+
+00:29:37.200 --> 00:29:38.732
+<v Linus Neumann>Ähm,
+
+00:29:39.249 --> 00:29:50.973
+<v Linus Neumann>Während diese Debatten also liefen, während bei der Hauptversammlung äh demonstriert wurde, während im Bundestag debattiert wurde. Ähm ich mache jetzt gerade eine Überleitung zum nächsten Thema, Tim.
+
+00:29:50.673 --> 00:29:54.091
+<v Tim Pritlove>Ich habe aber gerade äh den Punkt gefunden, wo es im Telekommunikations.
+
+00:29:53.839 --> 00:29:55.335
+<v Linus Neumann>Oh, oh, oh, oh.
+
+00:29:55.035 --> 00:30:05.905
+<v Tim Pritlove>Handelt es sich dabei um Paragraph einundvierzig A, Nitzneutralität, da ist also das Wort tatsächlich, dann fassen wir das nochmal kurz zusammen, ist nicht lang. Äh Paragraph eins, es gibt zwei,
+
+00:30:06.422 --> 00:30:10.526
+<v Tim Pritlove>Die Bundesregierung wird ermächtigt, in einer Rechtsverordnung,
+
+00:30:10.695 --> 00:30:21.877
+<v Tim Pritlove>Zustimmung des Bundestages und des Bundesrates gegenüber Unternehmen, die Telekommunikationsnetze betreiben, das würde für die Telekom gelten. Die grundsätzlichen Anforderungen,
+
+00:30:22.004 --> 00:30:31.053
+<v Tim Pritlove>an eine diskriminierungsfreie Datenübermittlung und in Diskriminierungsfreien Zugang zu Inhalten und Anwendungen,
+
+00:30:31.240 --> 00:30:39.634
+<v Tim Pritlove>festzulegen. Also sie darf festlegen, um eine willkürliche Verschlechterung von Diensten.
+
+00:30:40.313 --> 00:30:43.384
+<v Tim Pritlove>Willkürliche Verschlechterungen, wir erinnern uns, das hat auch die,
+
+00:30:43.949 --> 00:30:53.341
+<v Tim Pritlove>Angeführt, ne? Mhm. Äh und eine ungerechtfertigte Behinderung oder Verlangsamung des Datenverkehrs in den Netzen zu verhindern.
+
+00:30:53.978 --> 00:31:06.188
+<v Tim Pritlove>Sie berücksichtigt hierbei die europäischen Vorgaben sowie die Ziele und Grundsätze des Paragraph zwei. Der kommt jetzt, was man dir das wahrscheinlich in dem Gesetz der Paragraph zwei, den lasse ich jetzt mal außen vor. Jetzt kommt Absatz zwei,
+
+00:31:06.561 --> 00:31:14.727
+<v Tim Pritlove>von diesem Netzneutralitätsparagraphen. Die Bundesnetzagentur kann in einer technischen Richtlinie,
+
+00:31:14.956 --> 00:31:20.135
+<v Tim Pritlove>Einzelheiten über die Mindestanforderung an die Dienstqualität durch Verfügung festlegen,
+
+00:31:20.310 --> 00:31:30.579
+<v Tim Pritlove>kann. Bevor die Mindestanforderung festgelegt werden, sind die Gründe für ein Tätigwerden die geplanten Anforderungen und die vorgeschlagene Vorgehensweise zusammenfassend darzustellen.
+
+00:31:30.832 --> 00:31:43.312
+<v Tim Pritlove>Diese Darstellung ist der Kommission und dem Gerek, was hat man das jetzt sein mag, rechtzeitig zu übermitteln, den Kommentaren und Empfehlungen äh oder Empfehlungen der Kommission ist bei Festlegung der Anordnung weitgehend,
+
+00:31:43.643 --> 00:31:53.570
+<v Tim Pritlove>hinter Rechnung zu tragen. Mit anderen Worten, hier steht drin, die Bundesregierung darf gegen Unternehmen vorgehen,
+
+00:31:54.051 --> 00:32:02.457
+<v Tim Pritlove>Wenn denn was wäre und die Bundesnetzagentur kann eine technische Richtlinie äh erlassen. Das ist sozusagen alles,
+
+00:32:03.161 --> 00:32:05.678
+<v Tim Pritlove>Alles, was jetzt in diesem Gesetz steht.
+
+00:32:05.378 --> 00:32:07.421
+<v Linus Neumann>Aber also mit anderen Worten Peter.
+
+00:32:07.121 --> 00:32:08.742
+<v Tim Pritlove>Gäbe durchaus eine Hebel.
+
+00:32:08.623 --> 00:32:22.900
+<v Linus Neumann>Peter Tauber stellt sich also hin und sagt wir brauchen keine gesetzliche Regel, keine bessere gesetzliche Regelung für die Netznetralität, weil wir könnten ja, wenn wir wollten, jetzt schon etwas ändern, aber wir wollen ja gar nichts ändern.
+
+00:32:23.141 --> 00:32:31.277
+<v Linus Neumann>Geil Peter Tauber, danke. Also was ungefähr, Entschuldigung, aber ungefähr so was hätte ich ja auch, also sowas muss man ja auch von ihm erwarten.
+
+00:32:31.031 --> 00:32:36.162
+<v Tim Pritlove>Ja. Wir verlinken das mal hier zur weiteren äh Diskussion.
+
+00:32:36.655 --> 00:32:38.794
+<v Linus Neumann>Aber das war mir.
+
+00:32:40.567 --> 00:32:41.947
+<v Tim Pritlove>Nicht bewusst. Mir.
+
+00:32:41.697 --> 00:32:42.976
+<v Linus Neumann>Noch nicht wirklich bewusst, ja.
+
+00:32:42.726 --> 00:32:47.639
+<v Tim Pritlove>Mehr auch nicht. Es ist ja manchmal auch ganz schön, im nachzuschlagen der Bundesrepublik Deutschland.
+
+00:32:47.363 --> 00:32:50.403
+<v Linus Neumann>Peter Tauber, danke, Peter Tauer, haben wir was gelernt.
+
+00:32:50.849 --> 00:32:58.678
+<v Linus Neumann>Haben wir wieder einen neuen Taschenspielertrick gelernt. Ähm genau, also während aber äh ich versuche mich nochmal mit der Überleitung,
+
+00:32:58.955 --> 00:33:01.106
+<v Linus Neumann>Während also ähm,
+
+00:33:01.268 --> 00:33:14.320
+<v Linus Neumann>da äh äh die transparente von den Kletterern äh rausgerissen werden und natürlich auch wieder von der Telekom dann abgerissen werden und so weiter. Ähm entscheidet die Telekom, ja, ach, hm,
+
+00:33:14.963 --> 00:33:23.243
+<v Linus Neumann>Netzausbau und so. Ah. Aufm Land lohnt sich das ja nicht unbedingt. Ähm,
+
+00:33:23.887 --> 00:33:35.562
+<v Linus Neumann>vielleicht äh lassen wir es einfach mal sein und sie prüfen die Abkehr vom Festnetz für bestimmte Neubaugebiete. Das heißt, sie möchten gerne,
+
+00:33:36.445 --> 00:33:37.334
+<v Linus Neumann>ähm,
+
+00:33:38.116 --> 00:33:49.971
+<v Linus Neumann>in in entlegenden Gegenden, Gegenden gar nicht erst äh Kupfer oder Glas in die Erde legen, sondern dass äh mit Mobilfunk machen.
+
+00:33:49.780 --> 00:33:51.396
+<v Tim Pritlove>Das ja alles viel besser auch.
+
+00:33:51.354 --> 00:33:53.637
+<v Linus Neumann>Genau. Ähm.
+
+00:33:55.735 --> 00:34:10.354
+<v Linus Neumann>Jetzt äh ist hier erstmal nur die Rede vom Telefon. Es ist aber natürlich klar, wenn sie schon fürs Telefon kein Kabel legen, dann äh kommt auch das Internet nicht über ein Kabel. Würde ich jetzt vermuten,
+
+00:34:11.010 --> 00:34:12.668
+<v Linus Neumann>und ähm.
+
+00:34:13.948 --> 00:34:21.759
+<v Tim Pritlove>Das heißt, dass wenn du DSL haben willst, dass du dann erstmal die Anschlussgebühr bezahlen musst, also die Erschließungsgebühr, wenn du die nicht sowieso schon
+
+00:34:21.694 --> 00:34:31.506
+<v Tim Pritlove>Nicht immer als Bauherr, also wenn du jetzt selber baust und Siedlungen und so weiter, dann musst du die wahrscheinlich eh entrichten. Also müsstest du ne, vierhundert, fünfhundert Euro sind das in der Regel,
+
+00:34:31.573 --> 00:34:34.751
+<v Tim Pritlove>um überhaupt erstmal ein Kabel ans Haus zu bekommen,
+
+00:34:35.346 --> 00:34:45.020
+<v Tim Pritlove>Als Mieter ist das ja was anderes, ne? Also bei der Eigentümer des Gebäudes, dem oder Bauherr, wenn das grade noch gebaut wird, muss er sich dann überhaupt erstmal mit der Telekom. Also da werden ja,
+
+00:34:45.616 --> 00:34:51.847
+<v Tim Pritlove>ohnehin Gelder für bezahlt, auch wenn die sicherlich nicht die ganzen Kosten decken,
+
+00:34:51.811 --> 00:35:04.261
+<v Tim Pritlove>nicht, keine Ahnung, das wäre nochmal eine andere interessante Diskussion, aber jetzt äh ist ihnen das eh alles viel zu lästig, man könnte doch gleich äh machen. Dieses bezieht sich hier im Wesentlichen, das muss man nochmal genau sagen, auf Telefon. Also hier geht es um,
+
+00:35:04.346 --> 00:35:07.206
+<v Tim Pritlove>das, was eben auch wirklich vom Staat garantiert wird,
+
+00:35:07.519 --> 00:35:14.555
+<v Tim Pritlove>nämlich jeder muss Telefonanschluss bekommen, selbst äh Tante Erna in den Alpen. Und so war das ja bisher immer,
+
+00:35:15.120 --> 00:35:23.112
+<v Tim Pritlove>Ja und jetzt meint man halt, ach wieso hier Mobilfunk reicht ja auch. Könnte man sogar glatt also kann ich sogar nachvollziehen.
+
+00:35:23.863 --> 00:35:27.787
+<v Tim Pritlove>Ja, also ich meine, wenn's jetzt wirklich, wenn das eben die Garantie ist,
+
+00:35:28.184 --> 00:35:43.122
+<v Tim Pritlove>Und das ist nämlich die Garantie, dann kann man damit alt auch telefonieren. Jetzt kann man lange darüber diskutieren, ob Mobilfunk zuverlässiger ist, äh als äh kargelgebundenes Telefon und ob denn diese Zuverlässigkeit auch ausreicht, um diesen Anspruch zu erfüllen. Anderes Thema,
+
+00:35:43.783 --> 00:35:54.792
+<v Tim Pritlove>Aber es ist natürlich auch klar, dass äh äh wieder ein sehr weit entfernt sind von einem Upgrade dieser Basisgarantie auf Internet muss mit,
+
+00:35:54.979 --> 00:36:02.844
+<v Tim Pritlove>dabei sein. Ich meine, an anderen Stellen, in anderen intellektuellen Kreisen, wird eher darüber diskutiert, ob man Internetzugang nicht als Menschenrecht festlegen sollte,
+
+00:36:02.880 --> 00:36:06.143
+<v Tim Pritlove>auf der anderen äh Seite der Skala äh,
+
+00:36:06.246 --> 00:36:16.749
+<v Tim Pritlove>dann halt die Telekom, die äh äh lange genug von ihren Monopolen da profitiert hat und meint ihr zu meint so, ach jetzt auch noch Kabel hier in den Boden reinschmeißen, wo kommen wir denn da hin?
+
+00:36:16.840 --> 00:36:22.986
+<v Linus Neumann>Ich bin ähm ich frage mich ein bisschen, also wahrscheinlich wollen sie dann da echt irgendwo,
+
+00:36:23.972 --> 00:36:32.986
+<v Linus Neumann>Also ich glaube, ihre Überlegung ist, dass sie sagen, naja, solange es nur ums Telefon geht, ähm mit unserem Mobilfunk, mit der decken wir ja ohnehin jetzt einfach,
+
+00:36:33.160 --> 00:36:37.925
+<v Linus Neumann>alles ab. Das heißt, es geht jetzt wahrscheinlich nicht darum, dass sie das Geld stattdessen,
+
+00:36:37.949 --> 00:36:51.920
+<v Linus Neumann>äh irgendwie ausgeben wollen, um für LTE überall hinzuschnallen, sondern dass sie sich sagen, alles klar, äh wir haben ja eh schon eine Komplettabdeckung mit dem mit dem oder nahezu eine komplett Abdeckung mit unserem GSM-Netz,
+
+00:36:52.185 --> 00:36:53.122
+<v Linus Neumann>das reicht,
+
+00:36:53.195 --> 00:37:04.437
+<v Linus Neumann>Zack. Also auch hier geht's nicht um irgendwie darum, die Welt in in die die Telekom in die Zukunft der der vierte Generationsnetzwerke zu bringen, sondern vermutlich.
+
+00:37:04.137 --> 00:37:06.648
+<v Tim Pritlove>Einfach die Tätigkeit im Wesentlichen einzustellen und
+
+00:37:06.582 --> 00:37:19.995
+<v Tim Pritlove>sagen, was wollte denn hier? Es gibt auch Mobilfunk, wir machen euch gerne da so ein Home-Tarif, wie das äh Vodafonia äh eins schon mal vorexerziert hat. Ich weiß gar nicht, ob das überhaupt noch aktuell ist. Gibt's das eigentlich noch diese diese, wie hießen das? Genion äh,
+
+00:37:20.079 --> 00:37:22.103
+<v Tim Pritlove>ne, gehen hier in Home oder gehen ja überhaupt,
+
+00:37:22.717 --> 00:37:31.231
+<v Tim Pritlove>in deinem, in deinem äh Umfeld quasi, also in deiner Zelle kannst du halt zu einem Festnetztarif heutzutage dann halt eher nahezu.
+
+00:37:31.304 --> 00:37:32.409
+<v Linus Neumann>Stimmt ja ja.
+
+00:37:32.109 --> 00:37:44.271
+<v Tim Pritlove>Und wenn du halt ein bisschen weiter weg bist, dann zahlst du eben normalen Mobilfunk. Ist ja auch durchaus, hat auch alles was für sich, ja, kannst irgendwie brauchst auch kein deckt, äh Handy mehr, irgendwie hast du halt einfach immer dein Telefon dabei.
+
+00:37:43.971 --> 00:37:45.971
+<v Linus Neumann>Kenne ich übrigens aus Südafrika.
+
+00:37:46.056 --> 00:37:51.007
+<v Tim Pritlove>Telefonanlage im Haus hast du damit halt auch noch nicht, ne? Also so ein Verteilungs.
+
+00:37:50.707 --> 00:37:52.948
+<v Linus Neumann>Nö, nee, nee, brauchst du ja auch nicht, bist du aufm Land.
+
+00:37:52.756 --> 00:37:57.239
+<v Tim Pritlove>Wobei das kann man auch mit einer Fritzbox im Übrigen lösen, das Problem.
+
+00:37:57.119 --> 00:38:02.280
+<v Linus Neumann>Könnte man vieles machen, ja. Also bin ich mal sehr gespannt, was hier kenne ich aber übrigens also so
+
+00:38:02.220 --> 00:38:15.326
+<v Linus Neumann>was sie wovon sie da reden ist auch sie wollen kein Mobiltelefon geben sondern halt irgendwie 'ne ja 'ne Fritzbox mit 'n mit 'n drei G-Modell dran oder oder zwei G oder 4G?
+
+00:38:16.222 --> 00:38:18.907
+<v Linus Neumann>Oder eingebaut und ähm,
+
+00:38:19.335 --> 00:38:32.049
+<v Linus Neumann>Damit hast du dann, also sie wollen dir trotzdem dein Feeling weitergeben, also das das Gerät, was du zu Hause stehen hast, da kannst du dann trotzdem, hast du trotzdem noch einen THE Dose, ne. Ist nur, dass kein Kabel zum Haus geht, sondern,
+
+00:38:32.374 --> 00:38:33.840
+<v Linus Neumann>Irgendwie oben an deinen,
+
+00:38:34.688 --> 00:38:47.348
+<v Linus Neumann>an deinen Kamin halt eine kleine äh Antenne gedengelt wird oder so, ne, also ähm müsste man mal überlegen. Aber ich kenne ja auch aus Südafrika, das hatte ich damals auch irgendwo verblockt in in Lesotho, da hatten die so schöne ähm,
+
+00:38:48.076 --> 00:38:56.584
+<v Linus Neumann>Telefon, also es waren wirklich so richtige Hinstelltelefone, die aber mit einer SIM-Karte funktionierten. Ähm damit haben Leute, die haben sie auf äh,
+
+00:38:56.831 --> 00:39:02.317
+<v Linus Neumann>auf Pappkartons gestellt, an der Straße und damit quasi Telefonzellen betrieben
+
+00:39:02.299 --> 00:39:15.392
+<v Linus Neumann>da konntest du telefonieren, weil die noch nicht so eine Abdeckung hatten. Und äh in Südafrika ist das oder in in diesen Teilen Südafrikas ist das auch so, dass die da gar nicht mehr Kupfer legen, sondern tatsächlich sich diese Länder, die noch nie überhaupt,
+
+00:39:15.615 --> 00:39:25.560
+<v Linus Neumann>Telefonnetze haben, hatten äh mit mit GSM äh Twim erschließen, ja. Ähm das heißt also, ja südafrikanische Verhältnisse dann auch,
+
+00:39:26.035 --> 00:39:27.597
+<v Linus Neumann>In Deutschland.
+
+00:39:27.297 --> 00:39:28.781
+<v Tim Pritlove>Genau, dank Telekom.
+
+00:39:28.943 --> 00:39:42.470
+<v Linus Neumann>Schön wird's, wie gesagt, wenn wenn dann die Leute auch noch sagen, wir wollen Internet, denn dann haben sie nicht nur ihre Drossel, sondern garantiert eine Mobilfunk in taugliche Drossel und fünfundsiebzig Gig kriegst du mit Sicherheit nicht.
+
+00:39:42.434 --> 00:39:48.665
+<v Tim Pritlove>Ja, kommen wir zu der Sache mit dem Klavier.
+
+00:39:49.645 --> 00:39:51.988
+<v Linus Neumann>Ja.
+
+00:39:51.874 --> 00:39:54.974
+<v Tim Pritlove>Ist schon wirklich hardcore, da muss man wirklich ein bisschen schlucken, ne?
+
+00:39:55.263 --> 00:40:03.537
+<v Tim Pritlove>Also da gibt's so Leute, die wollen der Öffentlichkeit was Gutes tun und wollen schieben da irgendwie Klaviere in die Öffentlichkeit, wo dann Leute,
+
+00:40:03.922 --> 00:40:17.154
+<v Tim Pritlove>Musik drauf spielen dürfen. Also man stellt ein Musikinstrument auf die Straße und äh ja ähm im Rahmen von vorauseilenden Gehorsamen ist dann da auch schon.
+
+00:40:17.359 --> 00:40:27.628
+<v Linus Neumann>Moment, muss man kurz dazu sagen, das ist eine eine Kunstaktion, die seit Jahren läuft, die in fünfunddreißig Städten weltweit schon durchgeführt wurde. Das äh da habe ich schon vor.
+
+00:40:27.328 --> 00:40:29.256
+<v Tim Pritlove>Also.
+
+00:40:29.641 --> 00:40:32.315
+<v Linus Neumann>MUS, äh geht auf äh,
+
+00:40:32.453 --> 00:40:45.379
+<v Linus Neumann>Den britischen Künstler Luke Jerem zurück, äh der das Projekt irgendwann mal gegründet hat und das kannst du irgendwie auf so einer Weltkarte angucken, wo die äh äh wo die das überall schon gemacht haben, ne? Und ähm,
+
+00:40:45.920 --> 00:40:58.821
+<v Linus Neumann>da steht dann ein Klavier, weiß ich nicht, im Park oder so. Und da auf dem Klavier steht drauf, spiel mich, ich bin deins und jeder darf da mitspielen. Und man hofft dann eben, die werden dann auch, sind dann bunt angemalt oder so, ne? Und ähm,
+
+00:40:59.212 --> 00:40:59.920
+<v Linus Neumann>ja
+
+00:40:59.777 --> 00:41:08.123
+<v Tim Pritlove>Und jeder darf dann dahin gehen und äh spielen, egal ob er's kann oder nicht. Sicherlich in der Hoffnung und Erwartung, dass es noch Leute gibt, die Klavier spielen können,
+
+00:41:08.586 --> 00:41:10.058
+<v Tim Pritlove>und dann eben auch tun,
+
+00:41:10.275 --> 00:41:24.095
+<v Tim Pritlove>Ja, soweit so gut und äh man fragt sich, ja äh was hat das Thema eigentlich bei Logbuch Netzpolitik äh zu suchen? Äh Klaviere äh im Park, ist doch alles prima, die Kinder spielen, alle sind glücklich, die Vögeln zwitschern, alles wird gut,
+
+00:41:24.258 --> 00:41:25.555
+<v Tim Pritlove>aber nee,
+
+00:41:25.784 --> 00:41:39.232
+<v Tim Pritlove>Weil da gibt's ja dann noch die GEMA, die äh dann mal wieder mit ihrer tollen GEMA Vermutung äh da auf den Plan geht und soweit ich weiß, gab's hier, deswegen meinte ich vorhin schon vorauseilender Gehorsam, also es wurde sozusagen auch schon,
+
+00:41:39.479 --> 00:41:46.407
+<v Tim Pritlove>Er fragt bei der GEMA, wie es denn sei, damit, weil es könnte ja sein,
+
+00:41:47.260 --> 00:41:56.201
+<v Tim Pritlove>Das ist jetzt irgendein achtjähriger sich ans Klavier setzt und seine Lieblingsmelodie von Justin Bieber runter äh trällert,
+
+00:41:56.700 --> 00:42:10.581
+<v Tim Pritlove>Und wir wissen ja alle, dass dass äh Finanz-Imperium von Justin Bemer sofort in seinem Kern erschüttert wird, ja, Millionen Verluste, dadurch, dass ein paar Noten durch den Wald sausen,
+
+00:42:10.738 --> 00:42:15.484
+<v Tim Pritlove>Und da muss natürlich eingeschritten werden. Gut, dass wir die GEMA haben.
+
+00:42:15.257 --> 00:42:19.342
+<v Linus Neumann>Gut, dass wir die Gamer haben. Also wir das Projekt jetzt hier in diesem Fall in München,
+
+00:42:20.154 --> 00:42:34.912
+<v Linus Neumann>Und der, der Junge, der Künstler, der es da macht äh oder der der Typ, der das Projekt da irgendwie auf die Beine gestellt hat, der ist nur finanziert, um da überhaupt diese vierzehn Klaviere für München zu kriegen. Ist denn zur GEMA gegangen und hat eigentlich damit gerechnet, hat gesagt, naja, komm!
+
+00:42:34.954 --> 00:42:36.700
+<v Tim Pritlove>Mach mal ein Angebot.
+
+00:42:36.450 --> 00:42:39.647
+<v Linus Neumann>Sagste denen mal Bescheid, ne. Ähm.
+
+00:42:38.231 --> 00:42:41.017
+<v Tim Pritlove>Ja. Dann bist mal fein raus.
+
+00:42:40.759 --> 00:42:50.319
+<v Linus Neumann>Dann äh wissen, fühlen die sich wenigstens irgendwie ernst genommen und sind nachher nicht beteiligt. Und ähm er ging, hatte gehofft, dass die ähm,
+
+00:42:51.149 --> 00:42:54.044
+<v Linus Neumann>dass die GEMA wie bei Straßenmusikern,
+
+00:42:54.670 --> 00:43:04.855
+<v Linus Neumann>dann darauf verzichten würde. Da gibt's nämlich einen Cheat Spruch der Gamer für für Straßenmusiker, muss ich sagen, die GEMA wird ohne Anerkennung einer Rechtspflicht,
+
+00:43:05.168 --> 00:43:13.556
+<v Linus Neumann>Für Musikaufführungen von Straßenmusikanten keine Aufführungstantien beanspruchen. Das heißt, sie haben sie sagen, also ohne.
+
+00:43:13.256 --> 00:43:14.998
+<v Tim Pritlove>Machen das wahrscheinlich nicht.
+
+00:43:14.698 --> 00:43:23.916
+<v Linus Neumann>Wahrscheinlich nicht weg. Wir wir sollten wahrscheinlich und dürfen aber im als Zeichen unserer Großzügigkeit.
+
+00:43:23.634 --> 00:43:25.196
+<v Tim Pritlove>In unseres.
+
+00:43:25.076 --> 00:43:29.426
+<v Linus Neumann>Ja, weil wir so verzichten wir darauf.
+
+00:43:29.889 --> 00:43:36.324
+<v Linus Neumann>So und jetzt äh kommt also dieser junge Mann und sagt, ja guck mal hier, ich habe hier ein Klavier in die Stadt gestellt und ähm,
+
+00:43:37.142 --> 00:43:45.272
+<v Linus Neumann>dann sagt die Gamer, ja ihr hier hm Rechnung sieben Prozent Mehrwertsteuer und so weiter äh ungefähr fünftausend Euro,
+
+00:43:45.621 --> 00:43:51.089
+<v Linus Neumann>Und diese Klaviere und weil sie von einer Mindestpauschale pro Klavier und Tag ausgehen
+
+00:43:51.071 --> 00:43:59.676
+<v Linus Neumann>Also dieser und dieses Projekt ist dann zeitlich begrenzt. Die Klaviere stehen immer so eins zwei Monate so unterschiedliche Dauer,
+
+00:44:00.091 --> 00:44:05.384
+<v Linus Neumann>Ja, fünf Mille. Wollten die. Nee, nee, nee, insgesamt, für die, für dieses Projekt, hätte
+
+00:44:05.343 --> 00:44:14.356
+<v Linus Neumann>hätte ich jetzt so verstanden, ne? Also es äh das ganze Projekt ist aber, wie gesagt, irgendwie von Teil über Crowdfunding, Teil Kulturreferat der Stadt,
+
+00:44:14.386 --> 00:44:23.189
+<v Linus Neumann>'ne Kulturstiftung irgendwie um diesen um dieses Projekt irgendwie auf die Beine zu stellen. Und dann kommt die GEMA und sagt ja und wir hätten gerne noch fünf Mille,
+
+00:44:23.917 --> 00:44:31.566
+<v Linus Neumann>Und dann äh sagt der äh muss der mit der GEMA reden und sagen, na ja ähm,
+
+00:44:32.738 --> 00:44:35.970
+<v Linus Neumann>könnt ihr vielleicht auch berücksichtigen, es gibt ja Regentage.
+
+00:44:36.620 --> 00:44:39.089
+<v Tim Pritlove>Bund so viel gespielt wird.
+
+00:44:38.789 --> 00:44:40.381
+<v Linus Neumann>Wo nicht so viel gespielt wird,
+
+00:44:40.676 --> 00:44:53.913
+<v Linus Neumann>Vielleicht können wir uns ja irgendwie, vielleicht können wir uns beim Deutschen Wetterdienst ausrechnen lassen, wie viele Male das regnen wird in der Zeit und deshalb könnt ihr mir vielleicht preislich ein bisschen entgegenkommen, damit wir dieses Projekt machen können,
+
+00:44:54.719 --> 00:45:04.135
+<v Linus Neumann>und außerdem hat die Gamer dann wohl äh wohlwollend äh zur Kenntnis genommen, dass das Kulturreferat der Stadt an dem Projekt beteiligt ist,
+
+00:45:04.809 --> 00:45:07.560
+<v Linus Neumann>und hat dann äh die Summe,
+
+00:45:08.221 --> 00:45:18.779
+<v Linus Neumann>Äh gemindert, weil nämlich die Stadt sowieso schon eine Gamerpauschale zahlt. Das heißt, die die GEMA hat anerkannt, dass sie eine GEMA-Pauschale zahlt die Stadt und deshalb kann man ja so,
+
+00:45:19.098 --> 00:45:23.346
+<v Linus Neumann>ein bisschen weniger dafür nehmen, dass sie ein Klavier inne Stadt stellen.
+
+00:45:23.875 --> 00:45:26.807
+<v Tim Pritlove>Aber nicht es einfach mal sein lassen, da Kohle zu nehmen.
+
+00:45:28.418 --> 00:45:34.998
+<v Linus Neumann>Ungefähr also was man hier so raussieht, ungefähr zweieinhalbtausend Euro ähm,
+
+00:45:35.299 --> 00:45:48.398
+<v Linus Neumann>Etwas weniger als halb so teuer, also zwei, zweieinhalbtausend Euro äh äh hat die GEMA sich dann da großzügigerweise äh runterhandeln lassen. Und äh ja.
+
+00:45:48.146 --> 00:45:57.790
+<v Tim Pritlove>Was soll man dazu noch sagen? Also ja, das ist einfach mal nur wieder ein schönes Beispiel, das Tier einfach das System nicht funktioniert. Und ich hoffe,
+
+00:45:58.470 --> 00:46:10.102
+<v Tim Pritlove>inständig, dass wir da bald 'ne Alternative am Start haben mit einfach auch diese Automatismus wegfällt und dass es da eben auch die Möglichkeit gibt mit anderen Einigungen zu erzielen. Für solche Fälle,
+
+00:46:10.680 --> 00:46:11.617
+<v Tim Pritlove>unter anderem.
+
+00:46:11.479 --> 00:46:20.895
+<v Linus Neumann>Es ist einfach ein es ist einfach nur noch ein Witz, zumal also was was passiert an so einem Klavier? Natürlich kann das gut sein, dass da mal ein Pianist,
+
+00:46:21.021 --> 00:46:34.427
+<v Linus Neumann>vorbeikommt und sagt, boah, das ist aber toll. Ne, da kann ich mal schön zehn Minuten Stück spielen und vielleicht sind Leute dabei und applaudieren in Frankreich äh habe ich das öfter mal gesehen. Da standen auch solche Klaviere rum, irgendwie in in Einkaufszentren oder so, ne?
+
+00:46:34.343 --> 00:46:39.931
+<v Linus Neumann>Dann kommt halt jemand vorbei, legt seine seine äh Taschen ab und spielt ein Stück,
+
+00:46:40.112 --> 00:46:46.307
+<v Linus Neumann>Fünf bis zehn Minuten und ähm der konnte das halt auch, ne, dann ist dann so ein Moment, der.
+
+00:46:46.085 --> 00:46:48.477
+<v Tim Pritlove>Ja, aber was wird da meistens dann gespielt?
+
+00:46:48.681 --> 00:47:01.679
+<v Tim Pritlove>Klassische Musik, die uralt ist, ja? Chopin, trallala, da muss keinem mehr irgendwas vergütet werden. Das alles durch, der Typ ist so lange tot, dass sogar die Copyright-Industrie da äh es nicht geschafft hat, das so lange rauszuzögern,
+
+00:47:01.733 --> 00:47:05.669
+<v Tim Pritlove>und äh da das in dem Moment ja auch keine
+
+00:47:05.579 --> 00:47:25.096
+<v Tim Pritlove>Aufführung einer Aufnahme ist, werden da auch keine Rechte von irgendwelchen äh Künstlern und Interpreten äh verletzt, sondern es ist eine reine Kompositionsnummer, ja? Und davon auszugehen, das finde ich so ein Klavier, da im öffentlichen Raum steht, wenn man sich an dieses Klavier stellt, dass er den ganzen Tag äh Nina und Dieter Bohlen gespielt wird
+
+00:47:24.940 --> 00:47:29.717
+<v Tim Pritlove>meine geht's noch? Das ist einfach, das ist einfach weltfremd.
+
+00:47:29.507 --> 00:47:38.891
+<v Linus Neumann>Es ist äh also ich meine äh ich glaube, man kann sich auf diese also man kann sich doch wirklich,
+
+00:47:39.514 --> 00:47:48.327
+<v Linus Neumann>Also da da braucht man nicht mehr darauf hinzuweisen, dass das weltfremd ist. Das ist einfach nur noch ähm nur noch asozial. Und auch wahrscheinlich bewusst.
+
+00:47:48.333 --> 00:47:52.077
+<v Tim Pritlove>Ein Klavier, ein Klavier, GEMA, wir danken dir.
+
+00:47:56.380 --> 00:48:04.155
+<v Linus Neumann>Wir hatten es ähm auch in der letzten Sendung kurz erwähnt, dass es ja jetzt eine verfassungsschwer.
+
+00:48:04.305 --> 00:48:10.278
+<v Tim Pritlove>Eine Verfassungsbeschwerde gegen na?
+
+00:48:05.393 --> 00:48:12.754
+<v Linus Neumann>Verfassungsbeschwerde äh gegen die gegen die Bestandsdaten Auskunft gibt.
+
+00:48:12.646 --> 00:48:19.231
+<v Tim Pritlove>Ja, Logopädische Experimente mit Logbuch Netzpolitik.
+
+00:48:19.514 --> 00:48:26.945
+<v Linus Neumann>Ähm das ist äh von wie gesagt angestrengt, von äh von Patrick.
+
+00:48:26.695 --> 00:48:27.902
+<v Tim Pritlove>Ne
+
+00:48:27.652 --> 00:48:29.559
+<v Linus Neumann>Katharina Nokuon.
+
+00:48:29.520 --> 00:48:33.293
+<v Tim Pritlove>Politischen Geschäftsführerin.
+
+00:48:33.239 --> 00:48:35.047
+<v Linus Neumann>Der Bratenpartei.
+
+00:48:34.808 --> 00:48:40.924
+<v Tim Pritlove>Wie das so schön heißt im äh Politiksprech. Ja
+
+00:48:40.895 --> 00:48:55.382
+<v Tim Pritlove>aber auch schon vorher äh recht bekannt war, zumindest im Datenschutz äh Segment und eben so zu diesem nördlichen Aktivismus äh Zirkel gehört. Patrick Preyer selber ja eher äh Schleswig-Holstein, wenn ich mich richtig erinnere und
+
+00:48:55.178 --> 00:49:04.125
+<v Tim Pritlove>ähm Natascha war auch die ähm Spitzenkandidatin im Wahlkampf in Niedersachsen, der Piraten,
+
+00:49:04.498 --> 00:49:13.049
+<v Tim Pritlove>und ist halt auch schon vor dem ganzen Piratending da bekannt gewesen. Wie auch immer, die Verfassungsbeschwerde,
+
+00:49:14.022 --> 00:49:15.903
+<v Tim Pritlove>Hat jetzt schon stattgefunden.
+
+00:49:15.603 --> 00:49:17.680
+<v Linus Neumann>Gibt's jetzt und man kann da mitmachen.
+
+00:49:17.430 --> 00:49:19.052
+<v Tim Pritlove>Ah okay, also es wird.
+
+00:49:18.832 --> 00:49:25.151
+<v Linus Neumann>Da kann man also ein Vollmachtformular ausfüllen und das ist so,
+
+00:49:26.521 --> 00:49:35.228
+<v Linus Neumann>ähnlich wie in der ähm wie es bei der VDS auch war, dass man da so, wenn ich mich jetzt.
+
+00:49:34.928 --> 00:49:38.641
+<v Tim Pritlove>Möglichst viele Leute anschließend. Damals waren's glaube ich über dreißigtausend oder so.
+
+00:49:38.341 --> 00:49:40.720
+<v Linus Neumann>Genau, man kann da mitmachen, es kostet nichts.
+
+00:49:42.133 --> 00:49:54.733
+<v Linus Neumann>Äh muss irgendwie Name äh Adresse und so weiter äh angeben und ähm verschiedene Daten und so und dann ist man Teil dieser äh Verfassungsbeschwerde.
+
+00:49:55.365 --> 00:50:05.814
+<v Linus Neumann>Aber man hat weder Gerichts noch Anwaltskosten. Beziehungsweise es ist theoretisch gibt es welche, aber äh davon werden die äh Teilnehmer äh freigehalten.
+
+00:50:04.787 --> 00:50:06.812
+<v Tim Pritlove>Wir sind Verfassungsbeschwerde.
+
+00:50:08.573 --> 00:50:20.542
+<v Linus Neumann>Und äh die Begründung haben sie, das ist interessant kaum. Bist du dann da mit so einem äh also kaum begibst du dich in diese Region ähm musst du ja dann auch wirklich,
+
+00:50:20.753 --> 00:50:22.471
+<v Linus Neumann>sinnvoll juristisch,
+
+00:50:22.790 --> 00:50:34.159
+<v Linus Neumann>Argumentieren und kann's nicht irgendwie sagen, so nee, das ist einfach asoziale Scheiße, was ihr da macht. Ähm und deswegen bezieht sich diese Verfassungsbeschwerde,
+
+00:50:34.749 --> 00:50:45.871
+<v Linus Neumann>hauptsächlich darauf, dass es äh dass diese Abfrage nicht mehr auf Einzelfälle beschränkt ist, sondern eben so ein Grundding ist, dass es so so einmal verfassungsrechtlich bedenklich,
+
+00:50:46.304 --> 00:50:54.001
+<v Linus Neumann>dann dass es eine äh elektronische automatische Abfrage gibt und dass irgendwie ähm,
+
+00:50:54.296 --> 00:51:06.668
+<v Linus Neumann>äh BK und Zeugkriminalamt Zugriff zu Möglichkeiten bekommen haben, die äh bisher noch durch das äh Fernmeldegeheimnis äh gedeckt und deshalb nicht gestattet sind. Ähm,
+
+00:51:07.276 --> 00:51:12.269
+<v Linus Neumann>Das ist so deren zentrale Argumentation ähm,
+
+00:51:12.852 --> 00:51:19.900
+<v Linus Neumann>wenn man sich das dann auf juristisch durchliest, dann klingt es etwas äh komplizierter. Ähm.
+
+00:51:19.600 --> 00:51:22.058
+<v Tim Pritlove>Immer, wenn man sich was juristisch durchliest.
+
+00:51:24.840 --> 00:51:37.026
+<v Linus Neumann>Also genau nicht. Es es fehlt die verfassungsrechtlich gebotene abschließende Bestimmung. Welche Vorschriften ein Zugriff auf Kommunikationsdaten erlauben sollen. Also in welchem,
+
+00:51:37.249 --> 00:51:45.625
+<v Linus Neumann>im Rahmen welcher Vorschriften dürfen sie da überhaupt drauf zugreifen? Welche Probleme dann,
+
+00:51:46.046 --> 00:51:52.409
+<v Linus Neumann>dass es eigentlich Vorgaben gibt, sowas auf,
+
+00:51:52.776 --> 00:52:01.886
+<v Linus Neumann>irgendwie zu beschränken äh auf bestimmte Straftaten, Entschuldigung, ich kann das, glaube ich, jetzt nicht alles äh im Detail ähm,
+
+00:52:02.192 --> 00:52:11.638
+<v Linus Neumann>nochmal wiedergeben, weil es relativ komplizierte Sätze sind. Aber ähm es man sieht, also sie haben sich äh sehr klare Gedanken darüber gemacht,
+
+00:52:12.300 --> 00:52:19.750
+<v Linus Neumann>gegen welche ähm gegen welche Gesetze und verfassungsrechtlichen Grundlagen
+
+00:52:19.655 --> 00:52:31.228
+<v Linus Neumann>man damit äh mit dieser Bestandsdatenauskunft verstößt und ja, ich denke, dass das für jeden und die Idee von uns sinnvoll ist, sich daran zu beschweren und dass wir da hoffentlich.
+
+00:52:30.928 --> 00:52:39.086
+<v Tim Pritlove>Zu beteiligen, an der Beschwerde. Logopädische Experimente mit Lokbuchnetzpolitik, ja, es ist.
+
+00:52:38.836 --> 00:52:40.458
+<v Linus Neumann>Dabei bist du müde?
+
+00:52:40.208 --> 00:52:44.670
+<v Tim Pritlove>Ja ja, ich wundere mich auch. Ja. Nachhaltig. Aber ist okay.
+
+00:52:44.562 --> 00:52:54.086
+<v Linus Neumann>Also, macht da mit, draufklicken, irgendwie Name angeben und gib ihm und dann hoffen wir, dass wir das irgendwie genauso rocken, wie die äh Forestanspeicher.
+
+00:52:54.561 --> 00:52:59.681
+<v Tim Pritlove>Genau. So, aus der Abteilung, Überwachung, äh, leicht gemacht,
+
+00:52:59.940 --> 00:53:11.987
+<v Tim Pritlove>gibt's äh einen schönen äh Feststellung von Heise Security, die ähm mal so ein paar Tests gemacht haben. Ich weiß nicht mehr ganz genau, wie es wurde bei einem Leser,
+
+00:53:12.432 --> 00:53:18.640
+<v Tim Pritlove>gemeldet und dann haben sie es auch selber überprüft. Da wurden innerhalb von Skype-Chats
+
+00:53:18.574 --> 00:53:31.956
+<v Tim Pritlove>URLs hin und her geworfen in dem Fall halt wahrscheinlich eher so interne Test äh Server, die ich unterstelle das jetzt mal eben mal schnell aufgesetzt wurden und dann ne, versucht man da den ähm,
+
+00:53:32.479 --> 00:53:37.358
+<v Tim Pritlove>alles so ein wenig zum Laufen zu bringen. Man klickt da so,
+
+00:53:38.313 --> 00:53:53.065
+<v Tim Pritlove>die noch nicht so lange existiert, es ist natürlich sehr unwahrscheinlich, dass innerhalb eines bestimmten Zeitraums, also irgendwann kommt natürlich so ein.
+
+00:53:52.765 --> 00:53:53.852
+<v Linus Neumann>Irgendeiner vorbei.
+
+00:53:53.552 --> 00:54:04.639
+<v Tim Pritlove>Adressscanner äh vorbei und guckt mal, ah, da läuft ein Webserver und da klicken wir mal drauf rum, das ist äh klar. Nur in dem Fall war es eben so, dass äh relativ schnell, ich glaube, innerhalb eines Tages,
+
+00:54:05.198 --> 00:54:14.638
+<v Tim Pritlove>Äh Webrikfest auf diesem Webserver, der dessen Adresse eben nur intern über so eine Skype-Verbindung mitgeteilt wurden ist, äh aus,
+
+00:54:14.710 --> 00:54:16.789
+<v Tim Pritlove>im Netz von Microsoft Kram.
+
+00:54:16.856 --> 00:54:28.795
+<v Tim Pritlove>Microsoft muss man dazu sagen, wer es noch nicht mitbekommen hat, ist der Eigentümer von Skype. Die haben dieses für viel, viel, viel Geld gekauft und äh offensichtlich ist es so, dass hier,
+
+00:54:29.168 --> 00:54:41.264
+<v Tim Pritlove>Verkehr aktiv mitgelesen würden, nicht nur das, dass sogar URLs, die da hin und her gereicht werden, dann, tja, benutzt werden. Warum das so ist,
+
+00:54:42.562 --> 00:54:44.876
+<v Tim Pritlove>Das ist zum aktuellen Zeitpunkt,
+
+00:54:45.856 --> 00:54:55.692
+<v Tim Pritlove>klar, ja. Könnt ihr jetzt ihnen mal so zu Gute halten, dass es natürlich so was ist wie ja, wir wollen hier gucken, fisching Dings und so weiter. Nur,
+
+00:54:56.095 --> 00:54:59.430
+<v Tim Pritlove>Private Chats, äh hallo, geht's noch?
+
+00:54:59.448 --> 00:55:04.808
+<v Linus Neumann>Interessanterweise, also sie haben's natürlich dann noch ein bisschen vereinfacht, also einfach ähm,
+
+00:55:05.181 --> 00:55:10.420
+<v Linus Neumann>nimmst halt einfach eine eine lange Zufallszeichenkette und wirfst die in deinen Chat,
+
+00:55:10.811 --> 00:55:17.054
+<v Linus Neumann>um halt wirklich absolut die Wahrscheinlichkeit zu minimieren, dass irgendwo da noch ein Zufall mit drin
+
+00:55:16.977 --> 00:55:27.047
+<v Linus Neumann>Das ist das ist irgendwie durch Zufall passiert, dass dass äh dass Redman da vorbeikommt. Das war immer so innerhalb von einigen Stunden. Interessanterweise macht dieser Server äh aus Redmint,
+
+00:55:29.788 --> 00:55:38.260
+<v Linus Neumann>Also er macht nicht, also er sagt nicht, so gebt mir den kompletten Dokumenteninhalt, sondern er sagt äh er möchte nur den.
+
+00:55:38.020 --> 00:55:39.324
+<v Tim Pritlove>Gibt's das wirklich?
+
+00:55:39.487 --> 00:55:53.836
+<v Linus Neumann>Genau, existiert das und dann kriegt man ähm sowas wie mit sowas kann man jetzt zum Beispiel überprüfen, ob der ob man, ob die Datei noch die gleiche ist, die man gecacht hat oder so. Ja, also als äh als Browser da ähm zu Minimierung von ähm,
+
+00:55:54.419 --> 00:56:08.246
+<v Linus Neumann>Das heißt, die gucken nicht in die Inhalte, übernehmen aber selbst bei HTTPS äh dann, wenn man in einem getrequest irgendwie, also sowas wie Fragezeichen, User gleich, äh und Passwort gleich
+
+00:56:08.126 --> 00:56:16.616
+<v Linus Neumann>schickt, dann übernehmen sie das. Also theoretisch klauen sie mit die äh die Login-Daten.
+
+00:56:16.322 --> 00:56:22.199
+<v Tim Pritlove>Also äh was mich jetzt mal interessiert hätte, weil ich meine klar, wenn du so eine URL hast, wo Login-Daten in der URL sind,
+
+00:56:22.241 --> 00:56:31.038
+<v Tim Pritlove>Dann äh ist das ja selbstverständlich, also was heißt selbstverständlich, also wenn man da drauf zugreift, dann greift man natürlich dann auch darauf zu. Frage ist äh
+
+00:56:30.984 --> 00:56:39.709
+<v Tim Pritlove>Das sehe ich nämlich in diesem Artikel nicht, ob sie auch URLs, wo explizit Username und Passwort in der URL waren, also in der URL-Schreibweise, User,
+
+00:56:39.715 --> 00:56:43.284
+<v Tim Pritlove>Doppelpunkt Passwort at Domain und dann Slash,
+
+00:56:43.651 --> 00:56:53.331
+<v Tim Pritlove>Ja, also wenn äh richtige Harte TP Authentication äh verwendet worden wäre, ob sie explizit eben auch die nehmen, um ihren Hattrick fest
+
+00:56:53.296 --> 00:57:03.295
+<v Tim Pritlove>durchzuführen, hätte ich nochmal ganz interessant gefunden, lässt dich jetzt leider nicht mehr überprüfen, weil nach der Berichterstattung von Heise verschwand das dann nach einem Tag wieder.
+
+00:57:02.995 --> 00:57:05.416
+<v Linus Neumann>Genau. Es wurde aber ähm,
+
+00:57:05.488 --> 00:57:22.458
+<v Linus Neumann>Sie haben sich dann bei Skype gemeldet und sie zeigten dann Skype äh verwies auf seine Datenschutzrichtlinien, in denen steht. Skype nutzt gegebenenfalls innerhalb von Sofortnachrichten und SMS automatisierte Scannen zur Bestimmung von A, vermutlich im Spam
+
+00:57:22.266 --> 00:57:28.755
+<v Linus Neumann>und oder B URLs, die bereits als Spambetrugs oder Phishing links identifiziert wurden. Ähm.
+
+00:57:30.672 --> 00:57:42.600
+<v Linus Neumann>Mit einem kannst du das aber eigentlich dann wiederum nicht rausfinden. Also ist so ein bisschen unklar, wenn sie sich nicht den Content tatsächlich anschauen, was denn überhaupt soll.
+
+00:57:42.600 --> 00:57:49.823
+<v Tim Pritlove>Ja, auch hatte die BS greifen sie ja drauf zu, was jetzt auch nicht unbedingt so verbreitet ist für Spam. Also,
+
+00:57:50.376 --> 00:57:54.546
+<v Tim Pritlove>Positiv könnte man sagen, sie haben da irgendwie so einen,
+
+00:57:54.985 --> 00:58:04.010
+<v Tim Pritlove>Ähm System, was nur das gute TM tun möchte und äh ihnen ist da so eine
+
+00:58:03.909 --> 00:58:11.521
+<v Tim Pritlove>Dusseligkeit unterlaufen, dass eben auch URLs, die in Chats hin und hergehen, da automatisch mit rein geraten.
+
+00:58:11.636 --> 00:58:20.830
+<v Tim Pritlove>Auf magische Art und Weise, ja. Äh wenn man's mal ein bisschen böse formuliert, äh kann man auch sagen, hallo,
+
+00:58:21.160 --> 00:58:27.620
+<v Tim Pritlove>was habt ihr überhaupt in einem privaten Chat zu suchen? Was ist auf jeden Fall sehr schön zeigt, ist,
+
+00:58:28.335 --> 00:58:40.263
+<v Tim Pritlove>Der Meinung ist, dass ein Skype Kommunikation verschlüsselt wäre im Sinne von Ende zu Ende verschlüsselt, ja? Bitte vergessen. Das ist aber nicht so. Und es ist auch,
+
+00:58:40.582 --> 00:58:47.792
+<v Tim Pritlove>so, dass hier aktiv mitgelesen wird. Ja, also alles, was dort geschrieben wird.
+
+00:58:48.947 --> 00:59:02.845
+<v Tim Pritlove>Kann nicht nur mitgelesen werden, sondern wird mitgelesen. Von wem und wer da sozusagen noch mit einbezogen wird, in Abhängigkeit wovon und welche Keywords da vielleicht greifen, we don't know? Ähm,
+
+00:59:03.146 --> 00:59:12.423
+<v Tim Pritlove>aber wer auch nur so halbwegs sensitives Zeug äh hin und her schicken möchte, bitte nimmt was anderes.
+
+00:59:12.712 --> 00:59:14.004
+<v Linus Neumann>OTR.
+
+00:59:14.046 --> 00:59:17.916
+<v Tim Pritlove>Ja, auch keine ideale Lösung.
+
+00:59:17.904 --> 00:59:19.839
+<v Linus Neumann>Was spricht gegen OTR?
+
+00:59:20.416 --> 00:59:29.231
+<v Tim Pritlove>Spricht zum Beispiel, dass es kaum verbreitet ist und dass eigentlich immer wieder so Synchronisationsproblematiken hast,
+
+00:59:29.297 --> 00:59:38.845
+<v Tim Pritlove>mehrere Kleines und das ist einfach es gibt da einige Ansätze, Verschlüsselungstechnisch, trinkt euch was aus, mal gucken, so eine richtig geile Lösung, habe ich auch noch nicht gesehen, aber mal gucken.
+
+00:59:38.816 --> 00:59:39.819
+<v Linus Neumann>Also,
+
+00:59:40.655 --> 00:59:55.550
+<v Linus Neumann>gibt der gibt viele Möglichkeiten. Ähm irgendwie OTR ist eine ist in gängige Clients auf, also auf den den gängigen Jabber-Klein für MACOS auf jeden Fall mit drin. Ähm,
+
+00:59:55.930 --> 01:00:06.535
+<v Linus Neumann>Bei für also die Lenux äh Version muss man sich das, glaube ich, im gängigen Debian und Obundus nochmal extra installieren. Ähm.
+
+01:00:06.674 --> 01:00:08.222
+<v Tim Pritlove>Ich würde einfach sagen.
+
+01:00:08.110 --> 01:00:09.137
+<v Linus Neumann>Oder GPG.
+
+01:00:08.887 --> 01:00:10.748
+<v Tim Pritlove>Einfach nichts Sensitives.
+
+01:00:11.204 --> 01:00:20.596
+<v Linus Neumann>Sprecht GPG. Nein, ihr müsst immer alles verschlüsseln. Immer alles endet seine Verschlüssel. Da da halte ich es mit äh Julio Assanches.
+
+01:00:20.645 --> 01:00:25.776
+<v Tim Pritlove>Ja, aber es ist halt einfach nicht realisierbar heutzutage, ohne weiteres.
+
+01:00:26.227 --> 01:00:28.486
+<v Linus Neumann>Ja
+
+01:00:28.186 --> 01:00:42.740
+<v Tim Pritlove>Man müsste es und sollte es vielleicht tun, aber es ist halt nicht zumutbar derzeit. Es ist einfach schwierig, ja. Da auf deinem Computer kannst du da was installieren, was machst du dann auf deinem iOS-Device? Ja, es ist einfach nicht.
+
+01:00:42.524 --> 01:00:52.186
+<v Linus Neumann>Ja aber das ist das, das finden, das würde ich ja nicht als Status quo akzeptieren wollen, die Scheiße ist doch eigentlich, das ist das ist natürlich geht das ohne Probleme,
+
+01:00:52.589 --> 01:01:01.891
+<v Linus Neumann>Natürlich kannst du alles Ende zu Ende verschließen. Du kannst E-Mails, Hände zu Ende verschlüsse, du kannst deine Kurznachrichten, Ende zu Ende verschlüssel, aber in keiner Scheiß-Software ist das einfach nur mit dabei.
+
+01:01:02.600 --> 01:01:07.293
+<v Linus Neumann>Immer irgendeinen Plug-in haben. Und das kann doch inzwischen echt kein Zufall mehr sein.
+
+01:01:07.143 --> 01:01:16.240
+<v Tim Pritlove>Also die Aussage, keine Software, stimmt nicht so ganz, es gibt welche, die behaupten das zumindest. Äh ich kann jetzt keine Liste nennen, aber ja.
+
+01:01:15.946 --> 01:01:18.662
+<v Linus Neumann>Wie gesagt, Adium hat's mit drin, ähm,
+
+01:01:19.107 --> 01:01:28.991
+<v Linus Neumann>haben dann inzwischen alle mit drin, das hat sich auch so als Standard durchgesetzt. Klar, da gibt's schon Lösungen, aber das das äh Entscheidende wäre doch eigentlich,
+
+01:01:29.731 --> 01:01:41.388
+<v Linus Neumann>Das wird immer und automatisch schon mit drin ist. Und da ist dann, finde ich, Adio mit äh hm für Meck schon einfach die sinnvollste Variante, weil sie OTR einfach direkt mit installieren und machen.
+
+01:01:41.088 --> 01:01:42.897
+<v Tim Pritlove>Ja
+
+01:01:42.632 --> 01:01:49.909
+<v Linus Neumann>Das kommt am nächsten, dem kommt der, der, der, der, der, dem, dem idealen Zielraum am, am nächsten.
+
+01:01:49.627 --> 01:02:03.135
+<v Tim Pritlove>Wenn die Gegenseite das auch kann und selbst wenn sie's kann, funktioniert's dann manchmal dann doch nicht und so weiter. Also es äh jetzt auch, glaube ich, nicht unbedingt jetzt hier unser Fokus. Gut, ich denke, die Skype-Geschichte haben wir,
+
+01:02:03.616 --> 01:02:11.217
+<v Tim Pritlove>noch ausreichend behandelt, oder? Dann äh schauen wir da nochmal, was wir noch auf dem Programm haben. Gar nichts.
+
+01:02:10.923 --> 01:02:19.804
+<v Linus Neumann>Das Spannende bei Skype ist ja noch, äh, noch dazu, dass er ursprünglich mal immer davon ausgegangen ist, dass Skype ja so so schönes äh,
+
+01:02:20.268 --> 01:02:32.333
+<v Linus Neumann>und so weiter macht, ne? Und dass sie, dass das ein dass sie dezentral funktionieren würden und so, ne? Und das äh erübrigt sich dann mit dieser äh zumindest bei den Kurznachrichten.
+
+01:02:32.033 --> 01:02:45.740
+<v Tim Pritlove>Ja, das war eigentlich auch schon immer Mumpitz, also äh sagen wir mal so, es funktioniert an der Stelle, wo es eben Last vom Hauptnetzwerk nimmt, ja, mit anderen Worten, in dem Moment, wo man Skype macht, arbeitet,
+
+01:02:45.884 --> 01:02:54.134
+<v Tim Pritlove>arbeitet die eigene Ressource auch noch für andere mit. Ähm da hat man dann aber nichts von.
+
+01:02:55.144 --> 01:02:59.446
+<v Tim Pritlove>Ja, Linus, das war's, oder?
+
+01:02:59.202 --> 01:03:02.150
+<v Linus Neumann>Wär's dann wahrscheinlich für heute.
+
+01:03:01.850 --> 01:03:16.758
+<v Tim Pritlove>Ja. Demnächst dann äh wieder auch mal Gäste, heute mal ohne. Das ist eigentlich immer sehr belebend. Ähm um sonst noch irgendwas zu verkünden. Mir fällt jetzt eigentlich nichts mehr ein, weil man mit seinem Intro eigentlich schon leer geschossen.
+
+01:03:16.458 --> 01:03:19.817
+<v Linus Neumann>Ja, ich denke auch.
+
+01:03:19.715 --> 01:03:25.862
+<v Tim Pritlove>Gut, dann war's das. Ihr seid entlassen. Bis zum nächsten Mal. Tschüss.

@@ -1,0 +1,4799 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP261 Elchtest für die Bundesregierung
+Publishing Date: 2018-07-13T15:59:44+02:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung
+
+00:00:00.005 --> 00:00:01.345
+<v Tim Pritlove>Guten Morgen Linus.
+
+00:00:01.405 --> 00:00:02.185
+<v Linus Neumann>Guten Morgen Tim.
+
+00:00:03.285 --> 00:00:07.325
+<v Tim Pritlove>Was mich ja schon seit längerem beschäftigt, bin ich schon drin?
+
+00:00:08.205 --> 00:00:11.745
+<v Linus Neumann>Drin. Das ist ja einfach.
+
+00:00:34.125 --> 00:00:39.885
+<v Tim Pritlove>Logbuch-Netzpolitik Nummer 261 vom 13. Juli 2018.
+
+00:00:41.565 --> 00:00:45.505
+<v Linus Neumann>Freitag, den 13. Juli. Oh, stimmt. Ja.
+
+00:00:45.945 --> 00:00:48.345
+<v Tim Pritlove>Na, dann hoffe ich mal, dass wir irgendwelche schlechten Nachrichten haben.
+
+00:00:48.565 --> 00:00:52.645
+<v Linus Neumann>Keine Sorge, haben wir. Aber ich kann auch sagen, wir fangen heute mit einer guten Nachricht an.
+
+00:00:52.845 --> 00:00:54.365
+<v Tim Pritlove>Ja, wir sind alle drin.
+
+00:00:55.485 --> 00:00:55.965
+<v Linus Neumann>Aber...
+
+00:00:57.025 --> 00:00:58.525
+<v Tim Pritlove>Alle Kinder sind drin.
+
+00:01:03.185 --> 00:01:05.885
+<v Tim Pritlove>Man muss die guten Nachrichten nehmen, wie sie kommen.
+
+00:01:06.105 --> 00:01:06.925
+<v Linus Neumann>Erstmal Feedback.
+
+00:01:08.082 --> 00:01:11.082
+<v Linus Neumann>Erstmal noch ein paar Feedback.
+
+00:01:11.262 --> 00:01:13.162
+<v Tim Pritlove>Ich habe auch gerade gute Nachrichten.
+
+00:01:13.402 --> 00:01:17.282
+<v Linus Neumann>Du hast auch gute Nachrichten. Buchhaltung fertig oder was?
+
+00:01:17.742 --> 00:01:26.162
+<v Tim Pritlove>Das E. Ich sage jetzt mit Konstanz alle großen Durchbrüche im astronomischen,
+
+00:01:26.262 --> 00:01:30.142
+<v Tim Pritlove>kosmologischen Bereich voraus, indem ich einfach immer zum richtigen Zeitpunkt
+
+00:01:30.142 --> 00:01:32.542
+<v Tim Pritlove>den Podcast zum Thema mache und dann kommt der Durchbruch.
+
+00:01:33.922 --> 00:01:38.022
+<v Linus Neumann>Das heißt, du machst den immer zu früh, willst du sagen, weil du dann nicht den...
+
+00:01:38.022 --> 00:01:41.822
+<v Tim Pritlove>Also genau, einmal war ich hinterher mit den Gravitationswellen,
+
+00:01:41.822 --> 00:01:44.342
+<v Tim Pritlove>das hab ich dann halt einfach mal gecovert, als es passiert ist.
+
+00:01:45.202 --> 00:01:48.262
+<v Tim Pritlove>Und dann hatte ich aber irgendwie so einen Lauf und dann hab ich irgendwie erst
+
+00:01:48.262 --> 00:01:50.962
+<v Tim Pritlove>so Neutronensterne und dann gab's irgendwie so...
+
+00:01:51.482 --> 00:01:52.482
+<v Linus Neumann>Neutronensterne gibt's aber schon länger.
+
+00:01:52.702 --> 00:01:57.182
+<v Tim Pritlove>Ja, aber man hat halt noch nie eine Kollision von zwei Neutronensternen beobachten
+
+00:01:57.182 --> 00:01:59.002
+<v Tim Pritlove>können und das kam dann irgendwie genau die Woche danach.
+
+00:01:59.882 --> 00:02:01.342
+<v Tim Pritlove>Wurde aber in dem Podcast...
+
+00:02:01.342 --> 00:02:02.962
+<v Linus Neumann>Auf der B96A, ne?
+
+00:02:03.142 --> 00:02:04.462
+<v Tim Pritlove>Das war richtig schlimm.
+
+00:02:06.022 --> 00:02:07.622
+<v Linus Neumann>Stundenlang die Tram nicht durchgekommen.
+
+00:02:07.802 --> 00:02:09.862
+<v Tim Pritlove>Ein Stau bis zum Mond.
+
+00:02:12.002 --> 00:02:16.402
+<v Tim Pritlove>Genau. Und jetzt gab es wieder einen Durchbruch. Jetzt gibt es irgendwie auch
+
+00:02:16.402 --> 00:02:22.202
+<v Tim Pritlove>noch neben Gravitationswellenastronomie gibt es jetzt auch noch Neutrino.
+
+00:02:23.422 --> 00:02:27.042
+<v Linus Neumann>Neutrino waren die Teile, die man nicht observen konnte, ne?
+
+00:02:27.482 --> 00:02:32.022
+<v Tim Pritlove>Die sehr schwer zu beobachten sind, weil sie einfach mal Klein, schnell, ungeladen.
+
+00:02:32.102 --> 00:02:36.142
+<v Tim Pritlove>Ja, und wollen irgendwie mit nichts richtig interagieren. So ein bisschen wie Bundesregierung.
+
+00:02:38.622 --> 00:02:42.542
+<v Tim Pritlove>Und ja, dann haben sie da irgendwie so einen großen Detektor in der Antarktis
+
+00:02:42.542 --> 00:02:45.382
+<v Tim Pritlove>gebaut und dann dachte ich mir, das ist doch mal ein geiles Thema und jetzt, tada,
+
+00:02:45.922 --> 00:02:51.902
+<v Tim Pritlove>haben sie halt irgendwie Neutrinos von so einem supermassiven schwarzen Loch
+
+00:02:51.902 --> 00:02:53.362
+<v Tim Pritlove>irgendwie empfangen und das ist der
+
+00:02:53.362 --> 00:02:56.742
+<v Tim Pritlove>große Durchbruch in der Multimessenger-Astronomie und wer hat's gecovert?
+
+00:02:57.722 --> 00:03:02.102
+<v Linus Neumann>Tim Prillaf. Im Raumzeit-Podcast. Poliziz-Podcast.
+
+00:03:04.466 --> 00:03:08.806
+<v Linus Neumann>Ja, wunderbar. Haben wir verlinkt. Höre ich mir dann auch Zeitnah an.
+
+00:03:09.446 --> 00:03:13.026
+<v Linus Neumann>Die ist vom 6. Juni? Dann habe ich die ja schon gehört.
+
+00:03:14.446 --> 00:03:17.006
+<v Linus Neumann>Hier steht, veröffentlicht am 6. Juni 2018.
+
+00:03:17.926 --> 00:03:22.226
+<v Tim Pritlove>Genau. Erst kommt die Sendung, dann kommt der Durchbruch.
+
+00:03:22.226 --> 00:03:23.426
+<v Linus Neumann>Erst kommt die Sendung, dann kommt der Durchbruch.
+
+00:03:23.426 --> 00:03:26.706
+<v Tim Pritlove>Das wirkt so als Durchbruchskatalysator.
+
+00:03:31.366 --> 00:03:32.286
+<v Tim Pritlove>Kommen wir zum Feedback.
+
+00:03:32.446 --> 00:03:41.086
+<v Linus Neumann>Kommen wir zum Feedback. Julian sagt, dass das Parlament noch nie einen Ausschussentwurf
+
+00:03:41.086 --> 00:03:43.126
+<v Linus Neumann>abgelehnt hätte, ist definitiv falsch.
+
+00:03:43.586 --> 00:03:45.666
+<v Linus Neumann>Netzpolitische Präzedenz gab
+
+00:03:45.666 --> 00:03:51.526
+<v Linus Neumann>es da zum Beispiel 2006, als das Plenum gegen Software-Patente stimmte.
+
+00:03:51.546 --> 00:03:58.446
+<v Linus Neumann>Wir haben versucht da noch Daten zuzufinden und es scheint tatsächlich so zu sein.
+
+00:03:58.926 --> 00:04:04.086
+<v Tim Pritlove>Genau, wir haben jetzt noch nicht so richtig den alles überzeugenden Link, aber passt schon.
+
+00:04:04.246 --> 00:04:06.766
+<v Linus Neumann>Mir fällt ein, vielleicht sollten wir noch ganz kurz unseren Gast vorstellen.
+
+00:04:07.866 --> 00:04:11.406
+<v Linus Neumann>Höflichkeit gebietet es, dass der Gast auch zu Wort kommt.
+
+00:04:12.006 --> 00:04:20.086
+<v Linus Neumann>Wir begrüßen André Meister mit einem wunderschönen T-Shirt an von Atari Teenage Riot.
+
+00:04:20.226 --> 00:04:23.586
+<v Linus Neumann>Ich wollte gerade sagen, das ist sogar echt so angegriffen. Das ist wirklich
+
+00:04:23.586 --> 00:04:25.386
+<v Linus Neumann>retro, das ist nicht retro gekauft.
+
+00:04:26.126 --> 00:04:27.766
+<v Andre Meister>Das ist ein paar Jahre schon älter, ja.
+
+00:04:27.766 --> 00:04:32.786
+<v Linus Neumann>Keep the Internet free from government control. Ja, da kommen wir gleich zu.
+
+00:04:34.246 --> 00:04:34.746
+<v Andre Meister>Hallo.
+
+00:04:35.546 --> 00:04:40.846
+<v Linus Neumann>André ist wieder da, bekannt aus Funk und Fernsehen und Landesverrat und Netzpolitik.org.
+
+00:04:40.866 --> 00:04:42.086
+<v Linus Neumann>Lange nicht mehr hier gewesen, oder?
+
+00:04:42.706 --> 00:04:46.286
+<v Andre Meister>Ja, letzte Woche, aber erst nach der Sendung. Aber ich war lange nicht mehr
+
+00:04:46.286 --> 00:04:49.446
+<v Andre Meister>in der Sendung. War ja auch wieder weg im Winter.
+
+00:04:50.406 --> 00:04:52.026
+<v Linus Neumann>Winter reden wir gleich auch noch mal.
+
+00:04:53.266 --> 00:04:56.946
+<v Andre Meister>Die Software-Patente, um zum Thema Thema zu kommen, wurden tatsächlich,
+
+00:04:57.026 --> 00:05:01.066
+<v Andre Meister>glaube ich, vom Plenum abgelehnt. Unsere Frage vorhin war, ob vorher der jeweilige
+
+00:05:01.066 --> 00:05:05.546
+<v Andre Meister>federführende Ausschuss dem zugestimmt hat und sich das Plenum gegen den Ausschuss gestellt hat.
+
+00:05:05.606 --> 00:05:07.986
+<v Andre Meister>Das haben wir jetzt nicht sofort ergoogelt.
+
+00:05:08.566 --> 00:05:11.566
+<v Andre Meister>Bei ACTA war es so, das Plenum hat das auch abgelehnt, aber da waren auch die
+
+00:05:11.566 --> 00:05:12.406
+<v Andre Meister>Ausschüsse schon dagegen.
+
+00:05:12.886 --> 00:05:16.826
+<v Linus Neumann>Genau. Und der entscheidende Punkt war, dass sich das Parlament gegen den Ausschussentwurf,
+
+00:05:18.866 --> 00:05:20.906
+<v Linus Neumann>bewegt. Aber Julian meint, das wäre da der Fall gewesen.
+
+00:05:21.646 --> 00:05:23.546
+<v Tim Pritlove>Julian wird das wissen. Wir nehmen das jetzt einfach mal so hin und wenn es
+
+00:05:23.546 --> 00:05:25.426
+<v Tim Pritlove>nicht stimmt, wird das Internet schon reagieren.
+
+00:05:25.426 --> 00:05:29.046
+<v Linus Neumann>Wenn es nicht stimmt, wird es in der nächsten Sendung von jemand anderem korrigiert werden.
+
+00:05:29.446 --> 00:05:32.746
+<v Andre Meister>Ich habe gehört, das ist das Sendungskonzept. Einfach mal behaupten und aufstellen.
+
+00:05:32.786 --> 00:05:35.006
+<v Andre Meister>In den Kommentaren wird das schon gefixt.
+
+00:05:36.186 --> 00:05:40.186
+<v Linus Neumann>Internet-Basis-Wissen. Wenn du die Antwort auf eine Frage suchst,
+
+00:05:40.226 --> 00:05:42.906
+<v Linus Neumann>ist die Lösung nicht, im Internet die Frage zu stellen.
+
+00:05:42.986 --> 00:05:45.946
+<v Linus Neumann>Die Lösung ist, eine falsche Antwort ins Internet zu schreiben,
+
+00:05:46.026 --> 00:05:49.966
+<v Linus Neumann>weil da wird garantiert jemand kommen, der dich korrigiert. So funktioniert das mit dem Internet.
+
+00:05:50.766 --> 00:05:52.286
+<v Andre Meister>Someone was wrong on the Internet.
+
+00:05:52.906 --> 00:05:56.486
+<v Linus Neumann>Deswegen versuchen ja die ganze Zeit die Leute mit ihren Verschwörungstheorien.
+
+00:05:58.646 --> 00:05:59.466
+<v Andre Meister>Kommen wir auch noch zu.
+
+00:06:00.526 --> 00:06:02.266
+<v Linus Neumann>Haben wir alles einen bunten Strauß.
+
+00:06:04.402 --> 00:06:07.522
+<v Linus Neumann>Dann ein Kommentar von Hase, etwas lang, ich nehme nur Ausschnitte.
+
+00:06:07.742 --> 00:06:12.162
+<v Linus Neumann>Im Beitrag kam die Frage auf, inwieweit Polizei und Staatsanwaltschaft Auskünfte bzw.
+
+00:06:12.542 --> 00:06:17.042
+<v Linus Neumann>Kontoauszüge von Banken erhalten können. Hierzu die Sicht aus einer mittelständischen Bank.
+
+00:06:17.342 --> 00:06:20.282
+<v Linus Neumann>Als Faustregel kann man sagen, sobald es ein Strafverfahren gibt,
+
+00:06:20.322 --> 00:06:22.202
+<v Linus Neumann>müssen Bankangestellte aussagen.
+
+00:06:22.322 --> 00:06:25.622
+<v Linus Neumann>Es gibt dann kein Zeugnisverweigerungsrecht, Details, pipapo.
+
+00:06:25.622 --> 00:06:29.942
+<v Linus Neumann>Die Polizei kann also Bankanstalt zur Vernehmung vorladen und selbstverständlich
+
+00:06:29.942 --> 00:06:33.142
+<v Linus Neumann>kann die Staatsanwaltschaft auch in der Bank eine Hausdurchsuchung durchführen lassen.
+
+00:06:34.422 --> 00:06:37.962
+<v Linus Neumann>Zweitens, Versiegelung von Unterlagen kann, das war auch kurz Frage,
+
+00:06:38.222 --> 00:06:40.242
+<v Linus Neumann>dass wir nicht genau wussten, wie das gemacht wird.
+
+00:06:42.022 --> 00:06:45.482
+<v Linus Neumann>Antwort kann zum Beispiel ganz einfach mittels Klebesiegel erfolgen.
+
+00:06:45.562 --> 00:06:48.742
+<v Linus Neumann>Die Unterlagen müssen in eine Box, diese wird mit dem Siegel verklebt.
+
+00:06:49.462 --> 00:06:53.842
+<v Linus Neumann>Damit kann man auch ganze Räume versiegeln, indem man diese abschließt und das
+
+00:06:53.842 --> 00:06:58.102
+<v Linus Neumann>Siegel über das Schloss klebt. Siegelbruch ist ein Straftatbestand und da gibt
+
+00:06:58.102 --> 00:06:59.622
+<v Linus Neumann>es auch ein Bild von einer versiegelten Tür.
+
+00:07:00.482 --> 00:07:06.402
+<v Linus Neumann>Ja, das ist dann so ein roter Aufkleber vom Band, amtliches Siegel und dann
+
+00:07:06.402 --> 00:07:09.782
+<v Linus Neumann>wird von Hand mit Kugelschreiber,
+
+00:07:09.882 --> 00:07:16.242
+<v Linus Neumann>Datum und so weiter draufgeschrieben von der oder diejenigen,
+
+00:07:16.482 --> 00:07:18.282
+<v Linus Neumann>die das Ding versiegelt haben.
+
+00:07:18.882 --> 00:07:22.742
+<v Linus Neumann>Ansonsten noch, im Beitrag wurde erwähnt, dass ein früheres Vorstandsmitglied
+
+00:07:22.742 --> 00:07:26.742
+<v Linus Neumann>des Vereins, das noch Kontovollmacht hatte, in das Visier der Ermittler kam.
+
+00:07:26.942 --> 00:07:31.922
+<v Linus Neumann>Das könnte die Polizei über eine Auskunft zusammen mit der Anforderung von Kontoauszügen
+
+00:07:31.922 --> 00:07:34.102
+<v Linus Neumann>bei der Bank in Erfahrung gebracht haben.
+
+00:07:34.742 --> 00:07:39.922
+<v Linus Neumann>Oder über eine Anfrage in der nach meiner Erfahrung wenig bekannten Datenbank
+
+00:07:39.922 --> 00:07:43.162
+<v Linus Neumann>aller Konten in Deutschland inklusive Verfügungsberechtigten.
+
+00:07:43.902 --> 00:07:49.662
+<v Linus Neumann>Vergleiche Paragraph 24c KWG, automatisierter Abruf von Kontoinformationen.
+
+00:07:49.782 --> 00:07:52.662
+<v Andre Meister>Das haben die Cops damals bei Landesverrat auch bei uns gemacht.
+
+00:07:52.782 --> 00:07:56.782
+<v Andre Meister>Eine Anfrage beim Einwohnermeldeamt und eben welche Kunden wir haben abgefragt.
+
+00:07:56.802 --> 00:08:00.602
+<v Andre Meister>Als allererstes, ehe sie irgendwie entschieden haben, erstmal doch nicht weiter
+
+00:08:00.602 --> 00:08:03.322
+<v Andre Meister>zu ermitteln. Aber das ist wohl echt eine Standardmaßnahme.
+
+00:08:05.162 --> 00:08:13.182
+<v Linus Neumann>Tja, ich bin ja mit der Überwachung von Finanzsystemen generell habe ich so
+
+00:08:13.182 --> 00:08:19.302
+<v Linus Neumann>ein zwiespältiges Verhältnis, ist, weil ich halt,
+
+00:08:20.822 --> 00:08:24.082
+<v Linus Neumann>prinzipiell glaube, dass das primär halt tatsächlich,
+
+00:08:26.422 --> 00:08:33.782
+<v Linus Neumann>wenn es das nicht gibt, halt vor allem kriminellen Betrügern und so weiter Politikern
+
+00:08:33.782 --> 00:08:38.442
+<v Linus Neumann>und so dient und deswegen weiß ich gar nicht, ob ich das so,
+
+00:08:39.784 --> 00:08:43.964
+<v Linus Neumann>Ob ich das jetzt so dramatisch finde, wenn es in dem Bereich die Möglichkeit
+
+00:08:43.964 --> 00:08:52.724
+<v Linus Neumann>gibt, welche ja von genug Leuten mit Blockchain-Technologien aus der Welt geschafft werden kann.
+
+00:08:52.944 --> 00:08:57.544
+<v Linus Neumann>Und ich sorge mich dabei darum, dass ich da am Ende nicht der Profiteur bin,
+
+00:08:57.664 --> 00:09:01.224
+<v Linus Neumann>wenn diese Technologien in die Breite ausgerollt werden.
+
+00:09:02.444 --> 00:09:08.304
+<v Linus Neumann>Also, dass das dann eher eben denen dient, die Kapital haben,
+
+00:09:08.464 --> 00:09:10.724
+<v Linus Neumann>Steuern hinterziehen und Sonstiges.
+
+00:09:11.504 --> 00:09:13.264
+<v Linus Neumann>Aber das ist, glaube ich, ein anderes Thema.
+
+00:09:14.324 --> 00:09:15.984
+<v Andre Meister>Wer gewinnt im Kapitalismus?
+
+00:09:16.744 --> 00:09:20.744
+<v Linus Neumann>Ich glaube, ich weiß, wer da gewinnt. Das Kapital, aber nicht spoilern.
+
+00:09:22.764 --> 00:09:26.804
+<v Linus Neumann>Dann kommentiert Roland S., auch hier nur ein Ausschnitt, ich finde es schade,
+
+00:09:26.804 --> 00:09:31.644
+<v Linus Neumann>dass von den Moderatoren fast immer eine negative bis abwertende Haltung gegenüber
+
+00:09:31.644 --> 00:09:33.444
+<v Linus Neumann>der Polizei durchscheint.
+
+00:09:34.564 --> 00:09:41.764
+<v Linus Neumann>Gut. Wenn die in irgendwie sechs bis sieben Locations in unserem unmittelbaren
+
+00:09:41.764 --> 00:09:45.704
+<v Linus Neumann>Freundes- und Aktivistenkreis rechtswidrige Durchsuchungen durchführen,
+
+00:09:45.804 --> 00:09:51.244
+<v Linus Neumann>dann führt das natürlich zu einer etwas kritischen Haltung gegenüber der Polizei.
+
+00:09:51.244 --> 00:09:58.244
+<v Linus Neumann>Wobei aber auch Moritz ja ganz klar gesagt hat, hier nicht der Polizei der Vorwurf zu machen ist,
+
+00:09:58.344 --> 00:10:04.524
+<v Linus Neumann>sondern der Staatsanwaltschaft, die diese Maßnahmen hat beantragen lassen und
+
+00:10:04.524 --> 00:10:07.244
+<v Linus Neumann>der Richterin oder dem Richter, ich weiß nicht genau wer es war,
+
+00:10:07.404 --> 00:10:09.924
+<v Linus Neumann>der diesen Anträgen auch stattgegeben hat.
+
+00:10:11.884 --> 00:10:14.944
+<v Linus Neumann>Prinzipiell finde ich die Idee gut, dass es eine Polizei gibt.
+
+00:10:15.544 --> 00:10:21.484
+<v Linus Neumann>Das heißt also, die Idee, eine Grundhaltung hier zu haben, finde ich nicht gut.
+
+00:10:21.484 --> 00:10:26.244
+<v Linus Neumann>Gut, bei uns in der Sendung wird eben in der Regel Polizei kritisiert.
+
+00:10:26.464 --> 00:10:31.484
+<v Linus Neumann>Wir loben sie aber auch zum Beispiel für Fahndungserfolge, als sie nämlich ganz
+
+00:10:31.484 --> 00:10:36.244
+<v Linus Neumann>ohne Vollüberwachung des Internets in der Lage waren,
+
+00:10:36.284 --> 00:10:41.884
+<v Linus Neumann>den Waffenhändler für den bekloppten Rechten da in München gefunden haben mit
+
+00:10:41.884 --> 00:10:43.224
+<v Linus Neumann>sauberer Polizeiarbeit.
+
+00:10:43.224 --> 00:10:49.184
+<v Linus Neumann>Und ich denke, hier haben wir eine kritische Haltung gegenüber den Kompetenzen
+
+00:10:49.184 --> 00:10:53.044
+<v Linus Neumann>und dem immer wieder stattfindenden Kompetenzmissbrauch,
+
+00:10:53.044 --> 00:11:01.344
+<v Linus Neumann>unter dem eine ganze Reihe guter, ehrlicher und rechtschaffender Polizisten leider leiden muss.
+
+00:11:02.368 --> 00:11:04.928
+<v Tim Pritlove>Genau und das ist glaube ich auch so eine differenzierte Haltung,
+
+00:11:04.988 --> 00:11:05.988
+<v Tim Pritlove>die man einfach haben muss.
+
+00:11:06.108 --> 00:11:09.528
+<v Tim Pritlove>Die Erkenntnis einerseits, dass nicht jeder Polizist ist gleich,
+
+00:11:09.628 --> 00:11:12.828
+<v Tim Pritlove>sondern alle bewegen sich natürlich in dem vorgegebenen Rahmen und das ist sowohl
+
+00:11:12.828 --> 00:11:15.968
+<v Tim Pritlove>ein gesetzlicher Rahmen als auch ein kultureller Rahmen und dass manche in diesem
+
+00:11:15.968 --> 00:11:20.948
+<v Tim Pritlove>kulturellen Rahmen auch mal übers Ziel hinausschlagen ist allgemein bekannt,
+
+00:11:21.048 --> 00:11:26.648
+<v Tim Pritlove>aber dass auch der rechtliche Rahmen wackelt, wie man das jetzt bei den Polizeiaufgabengesetzen,
+
+00:11:26.728 --> 00:11:32.348
+<v Tim Pritlove>man muss ja jetzt schon Plural benutzen, droht oder sich jetzt auch schon abzieht.
+
+00:11:32.368 --> 00:11:37.288
+<v Tim Pritlove>Verzeichnet, das ist auch bekannt und wir hatten ja auch diese ausführliche
+
+00:11:37.288 --> 00:11:42.068
+<v Tim Pritlove>Sendung zu dem Polizeieinsatz rund um den G20 in Hamburg.
+
+00:11:42.248 --> 00:11:46.888
+<v Tim Pritlove>Wer das gehört hat, der, denke ich mal, sollte ja keine Probleme damit haben,
+
+00:11:46.988 --> 00:11:52.228
+<v Tim Pritlove>unsere Zurückhaltung bei der Bewertung der Aktivitäten der Polizei zu verstehen.
+
+00:11:52.228 --> 00:11:57.828
+<v Tim Pritlove>Weil das war einfach mal nun, ja ich will das jetzt nicht alles aufrollen,
+
+00:11:57.828 --> 00:12:02.188
+<v Tim Pritlove>aber wenn man sich die Sendung nochmal gibt, kommt man jetzt nicht unbedingt
+
+00:12:02.188 --> 00:12:05.328
+<v Tim Pritlove>so zu dem Eindruck, dass da immer alles in Ordnung ist.
+
+00:12:06.298 --> 00:12:09.078
+<v Andre Meister>Auch jetzt nicht. Ich möchte doch nochmal einen Satz sagen. Also die hatten
+
+00:12:09.078 --> 00:12:12.238
+<v Andre Meister>einen Versuchungsbeschluss von der Staatsanwaltschaft, aber da steht drin,
+
+00:12:12.418 --> 00:12:17.578
+<v Andre Meister>die dürfen Kontodaten aus diesem Jahr mitnehmen, die Rise Up betreffen und die
+
+00:12:17.578 --> 00:12:18.998
+<v Andre Meister>haben aber einmal alles mitgenommen.
+
+00:12:19.458 --> 00:12:22.498
+<v Andre Meister>Quasi mehr als in dem Versuchungsbeschluss steht. Die haben in Dortmund Leuten
+
+00:12:22.498 --> 00:12:25.698
+<v Andre Meister>gesagt, wenn du hier irgendwie rumzickst, dann kommen wir wieder und dann bist
+
+00:12:25.698 --> 00:12:27.538
+<v Andre Meister>du nicht mehr Zeuge, sondern Beschuldigter oder so.
+
+00:12:27.538 --> 00:12:31.358
+<v Linus Neumann>Also Dortmund haben wir jetzt, in der letzten Sendung hatte ich das ja noch
+
+00:12:31.358 --> 00:12:34.618
+<v Linus Neumann>kurz, nur kurz darauf Bezug genommen.
+
+00:12:34.878 --> 00:12:40.658
+<v Linus Neumann>Wir haben jetzt inzwischen auch eine Pressemitteilung zu den Vorfällen in Dortmund,
+
+00:12:40.818 --> 00:12:43.518
+<v Linus Neumann>also spezifisch nochmal im Chaos-Treff Dortmund.
+
+00:12:44.258 --> 00:12:51.278
+<v Linus Neumann>Da ist halt einfach mal ganz offensichtlich Rechtswidriges vorgefallen.
+
+00:12:51.358 --> 00:12:56.798
+<v Linus Neumann>Der Durchsuchungsbeschluss in Dortmund bezog sich nämlich nicht auf den Chaos-Treff Dortmund.
+
+00:12:56.878 --> 00:13:00.598
+<v Linus Neumann>Die sind da reingegangen, haben denen über mehrere Stunden die Verwendung von
+
+00:13:00.598 --> 00:13:05.078
+<v Linus Neumann>Telefonen und Rechnern untersagt, was nicht erlaubt ist.
+
+00:13:05.078 --> 00:13:10.058
+<v Linus Neumann>Die dürfen nicht einfach ohne Durchsuchungsbeschluss bei dir reinkommen und
+
+00:13:10.058 --> 00:13:12.298
+<v Linus Neumann>sagen, Telefon auf dem Tisch sitzen bleiben.
+
+00:13:13.158 --> 00:13:15.538
+<v Linus Neumann>Nachher haben sie natürlich gesagt, die hätten ja auch gehen können.
+
+00:13:16.518 --> 00:13:19.718
+<v Linus Neumann>Während die Polizei deinen Hackerspace durchsucht, kannst du natürlich auch gehen.
+
+00:13:20.418 --> 00:13:25.918
+<v Linus Neumann>Haben dann irgendwie für die Dauer der Durchsuchung die Personalausweise weggenommen,
+
+00:13:25.938 --> 00:13:33.518
+<v Linus Neumann>ihre Personalien aufgenommen und haben ihnen den Durchsuchungsbeschluss erst später gezeigt,
+
+00:13:33.738 --> 00:13:38.918
+<v Linus Neumann>ihnen keine Kopie davon erlaubt, haben irgendwie Fotos gemacht und so weiter
+
+00:13:38.918 --> 00:13:42.138
+<v Linus Neumann>und haben dann sich eben auch hier mit denen unterhalten.
+
+00:13:42.138 --> 00:13:48.158
+<v Linus Neumann>Also auch in den Gesprächen, wir haben da als CCC natürlich viel uns auseinandergesetzt
+
+00:13:48.158 --> 00:13:49.678
+<v Linus Neumann>mit unseren Freunden in Dortmund,
+
+00:13:49.738 --> 00:13:56.558
+<v Linus Neumann>die dann auch in dieser Zeit eben in Gespräche verwickelt und unter anderem
+
+00:13:56.558 --> 00:14:00.118
+<v Linus Neumann>sowas so, ja und wo arbeitest du denn und so und am Ende kamen dann die Drogenfreundchen,
+
+00:14:00.198 --> 00:14:01.338
+<v Linus Neumann>ich wollte nur nochmal sagen,
+
+00:14:01.478 --> 00:14:04.758
+<v Linus Neumann>wenn ihr euch irgendwie,
+
+00:14:05.058 --> 00:14:07.998
+<v Linus Neumann>wenn ihr uns irgendwo in den Weg kommt.
+
+00:14:09.081 --> 00:14:14.961
+<v Linus Neumann>Dann kommt ihr in irgendwelche polizeilichen Dateien, die ernste Konsequenzen
+
+00:14:14.961 --> 00:14:19.701
+<v Linus Neumann>nach sich ziehen können und das könnte irgendwie auch sein, dass du deinen Job verlierst dann.
+
+00:14:20.021 --> 00:14:27.701
+<v Linus Neumann>Also echt weirde Aktionen und ich denke da geht es eher um eine negative Haltung
+
+00:14:27.701 --> 00:14:31.101
+<v Linus Neumann>gegenüber solchen Aktionen als gegenüber den einzelnen Polizisten.
+
+00:14:31.621 --> 00:14:34.761
+<v Andre Meister>Und bei Free.de, dem Projekt, das sie durchsucht haben, haben sie keine Zeugen
+
+00:14:34.761 --> 00:14:36.141
+<v Andre Meister>und keine Anwälte dazugelassen.
+
+00:14:36.461 --> 00:14:36.881
+<v Linus Neumann>Ja.
+
+00:14:37.041 --> 00:14:39.521
+<v Andre Meister>Und sie hätten auch fragen können, ob sie die Tür aufmachen können,
+
+00:14:39.601 --> 00:14:44.261
+<v Andre Meister>statt die raus zu, aus den Angeln zu heben und aufzubrechen.
+
+00:14:45.701 --> 00:14:52.921
+<v Linus Neumann>Ja, all das wäre möglich gewesen, haben sie darauf verzichtet und da müssen wir uns gegen wehren.
+
+00:14:55.881 --> 00:14:58.461
+<v Tim Pritlove>Gut, aber da sind sie, die guten Nachrichten.
+
+00:14:58.461 --> 00:15:02.501
+<v Linus Neumann>Die gute Nachricht, es gibt eine gute Nachricht, die wichtigste Nachricht.
+
+00:15:03.761 --> 00:15:12.261
+<v Linus Neumann>In Klessengörne wurde 2018 eine provisorische Funkzelle errichtet.
+
+00:15:12.561 --> 00:15:13.681
+<v Andre Meister>Halleluja!
+
+00:15:28.176 --> 00:15:30.436
+<v Tim Pritlove>Das ist doch eine gute Nachricht.
+
+00:15:30.456 --> 00:15:36.036
+<v Linus Neumann>Das ist eine gute Nachricht. Also wo ist Klessengörne? Du hast ja hier schon die Google-Mappe auf.
+
+00:15:37.196 --> 00:15:43.696
+<v Tim Pritlove>Das ist im Naturpark Westhaveland, auch unweit des Sternenparks Westhaveland.
+
+00:15:43.696 --> 00:15:49.456
+<v Tim Pritlove>Westhaveland, das ist, sagen wir mal, eine Gegend, die durch Abwesenheit von
+
+00:15:49.456 --> 00:15:53.336
+<v Tim Pritlove>urbaner Infrastruktur glänzt auch.
+
+00:15:53.536 --> 00:15:57.336
+<v Tim Pritlove>Also für so einen Sternenpark ist das ja mal ganz gut, dass da schön dunkel
+
+00:15:57.336 --> 00:15:59.696
+<v Tim Pritlove>ist und nicht so viele Lampen rumstehen etc. pp.
+
+00:15:59.976 --> 00:16:02.136
+<v Tim Pritlove>Nur von Internet hat da keiner was gesagt.
+
+00:16:02.476 --> 00:16:07.556
+<v Linus Neumann>Also schlechte Nachrichten für die Wavys im Naturpark Westhaveland.
+
+00:16:11.416 --> 00:16:16.136
+<v Linus Neumann>Ich glaube sogar, dass ich da mal, genau, da wollte ich sagen,
+
+00:16:16.236 --> 00:16:20.356
+<v Linus Neumann>da ist nämlich das traditionsreiche Dorf mit dem Namen Kotzen.
+
+00:16:20.416 --> 00:16:25.196
+<v Andre Meister>Mit dem schönen Bild bei Google. Vor dem Orts-Eingangsschild.
+
+00:16:26.116 --> 00:16:31.516
+<v Linus Neumann>Okay, das ist natürlich auch klar, dass da jemand. Das Orts-Eingangsschild ist
+
+00:16:31.516 --> 00:16:36.256
+<v Linus Neumann>zielregelmäßiger Fotos.
+
+00:16:36.256 --> 00:16:36.736
+<v Tim Pritlove>Selfies.
+
+00:16:37.616 --> 00:16:40.776
+<v Linus Neumann>Ja, da fahre ich tatsächlich lang, das kenne ich.
+
+00:16:40.856 --> 00:16:41.716
+<v Andre Meister>Wo ist das denn?
+
+00:16:42.196 --> 00:16:42.676
+<v Tim Pritlove>Korzen.
+
+00:16:43.396 --> 00:16:47.956
+<v Linus Neumann>Korzen? Korzen ist bei Klessenkörne.
+
+00:16:49.016 --> 00:16:52.296
+<v Andre Meister>Das ist 70 Kilometer von der Hauptstadt Europa aus.
+
+00:16:53.016 --> 00:16:59.056
+<v Linus Neumann>Zwischen, wenn du nämlich den Berlin-Havel-Radweg und dann den Elbe-Radweg fährst,
+
+00:16:59.056 --> 00:17:05.136
+<v Linus Neumann>wie es ja meine Art ist, dann kommst du da vorbei in dieser Ecke.
+
+00:17:05.216 --> 00:17:07.196
+<v Linus Neumann>Und ich kann bestätigen, da war kein Empfang.
+
+00:17:37.456 --> 00:17:41.036
+<v Linus Neumann>Nicht mehr. Und spätestens seit dem Jahr 2000, würde ich sagen,
+
+00:17:41.176 --> 00:17:46.436
+<v Linus Neumann>ist das eine Internetversorgungsleistung,
+
+00:17:48.575 --> 00:17:54.955
+<v Linus Neumann>Weit unterdurchschnittlich ist. Und Mobilfunk hatten die nicht.
+
+00:17:55.075 --> 00:17:56.975
+<v Linus Neumann>Es gab keinen Mobilfunk.
+
+00:17:57.195 --> 00:18:03.975
+<v Linus Neumann>Ist nicht. Die konnten nach Hause gehen in ihr WLAN und mit 128 Kilobit irgendwie
+
+00:18:03.975 --> 00:18:06.335
+<v Linus Neumann>eine WhatsApp-Nachricht über Nacht schicken.
+
+00:18:07.815 --> 00:18:14.195
+<v Linus Neumann>Aber die konnten so, ich lasse das Telefon mal an, ich schicke noch eine WhatsApp-Nachricht.
+
+00:18:14.195 --> 00:18:20.675
+<v Linus Neumann>Aber und jetzt wurde in einer wirklich an Absurdität nicht zu überbietenden
+
+00:18:20.675 --> 00:18:29.295
+<v Linus Neumann>Aktion vom Infrastrukturminister Andreas Scheuer dort ein ganzer Bus Journalisten hingefahren,
+
+00:18:29.415 --> 00:18:37.395
+<v Linus Neumann>anderthalb Stunden raus nach Klessengörne, Wo dann irgendwie mit Foto-Opportunity
+
+00:18:37.395 --> 00:18:41.755
+<v Linus Neumann>der Technikvorstand der Deutschen Telekom,
+
+00:18:41.995 --> 00:18:49.935
+<v Linus Neumann>Walter Goldenitz, der Infrastrukturminister Scheuer, der fröhliche Bürgermeister
+
+00:18:49.935 --> 00:18:55.235
+<v Linus Neumann>Herr Tessinow und noch andere Leute von Amt und Würden,
+
+00:18:57.895 --> 00:19:02.775
+<v Linus Neumann>feierlich auf einem Thinkpad, das jetzt auch nicht aussieht wie das neueste Modell.
+
+00:19:03.015 --> 00:19:04.275
+<v Tim Pritlove>Die Space-Taste drücken.
+
+00:19:04.475 --> 00:19:09.715
+<v Linus Neumann>Das könnte dieses Jubiläums-Thinkpad sein oder einfach ein X200,
+
+00:19:09.935 --> 00:19:11.175
+<v Linus Neumann>wie ich es auch noch pflege.
+
+00:19:12.295 --> 00:19:18.455
+<v Linus Neumann>Auf jeden Fall jetzt nicht das mobilste Mobilgerät.
+
+00:19:19.355 --> 00:19:24.315
+<v Linus Neumann>Inszenieren sie dann da den Knopfdruck, mit dem diese Funkzelle in Betrieb genommen wird.
+
+00:19:26.835 --> 00:19:33.415
+<v Linus Neumann>Stellt sich raus, die haben da irgendwie als Volksfest inszeniert,
+
+00:19:33.455 --> 00:19:37.215
+<v Linus Neumann>dass die sich nicht schämen,
+
+00:19:40.991 --> 00:19:47.291
+<v Linus Neumann>Und am Ende des Artikels steht dann, ja, sind zwei provisorische Masten,
+
+00:19:47.391 --> 00:19:52.211
+<v Linus Neumann>sieht man auch, glaube ich auf dem Bild, wenn ich das richtig sehe,
+
+00:19:52.631 --> 00:19:56.431
+<v Linus Neumann>das ist halt so ein, also wie funktioniert ein provisorischer Mast?
+
+00:19:56.431 --> 00:20:01.771
+<v Tim Pritlove>Genau das Teil stand bei uns 1999 auf dem ersten Camp.
+
+00:20:02.151 --> 00:20:08.811
+<v Linus Neumann>Ja, genau. Die bestellst du nämlich auf Festivals oder ich glaube bei der Republika
+
+00:20:08.811 --> 00:20:14.071
+<v Linus Neumann>wird auch mal einer hingestellt, zumindest von den schwachen Infrastrukturanbietern.
+
+00:20:14.751 --> 00:20:19.991
+<v Tim Pritlove>Kann sein, aber die Telekom hat sowas halt im Fuhrpark und das können die mal irgendwo auffahren.
+
+00:20:19.991 --> 00:20:28.151
+<v Linus Neumann>Ja, ist eine Anhängerkurve, kriegt dann rechts und links so Stützen, fährt einen Mast aus,
+
+00:20:28.411 --> 00:20:33.951
+<v Linus Neumann>dieser Mast ist dann über Mikrowelle angebunden irgendwo anders hin,
+
+00:20:34.051 --> 00:20:38.491
+<v Linus Neumann>das heißt da ist so eine Trommel dran, sieht aus wie so eine Blechtrommel,
+
+00:20:38.611 --> 00:20:44.031
+<v Linus Neumann>das sind halt die Mikrowellenrichtantennen und die richtest du dann aus und
+
+00:20:44.031 --> 00:20:48.531
+<v Linus Neumann>dann meldet die sich eben ein paar Kilometer weiter an und sagt Hallo. Hallo?
+
+00:20:48.791 --> 00:20:51.671
+<v Linus Neumann>Und dann hast du dieses Ding angebunden.
+
+00:20:52.551 --> 00:20:59.011
+<v Linus Neumann>So, jetzt frage ich mich, ist Klässengörne, ist die Bürgerwehr Klässengörne
+
+00:20:59.011 --> 00:21:03.371
+<v Linus Neumann>darauf vorbereitet, dass das Ding da in 14 Tagen wieder weggeholt werden soll?
+
+00:21:03.511 --> 00:21:05.011
+<v Linus Neumann>Und haben die vorgesorgt?
+
+00:21:05.251 --> 00:21:09.711
+<v Linus Neumann>Haben die vielleicht das Ding inzwischen einfach mal in ein Fundament eingegossen,
+
+00:21:09.771 --> 00:21:10.951
+<v Linus Neumann>damit das nicht mehr wegkommt?
+
+00:21:11.331 --> 00:21:17.911
+<v Linus Neumann>Oder sowas, ja, da muss man ja vorsichtig sein, weil eine provisorische Funkantenne,
+
+00:21:17.911 --> 00:21:26.971
+<v Linus Neumann>Denn nach ursprünglichem Plan des Zentralkomitees Landwirtschaftlicher Funkausbau
+
+00:21:26.971 --> 00:21:29.651
+<v Linus Neumann>war das erst für 2020 gedacht.
+
+00:21:31.818 --> 00:21:35.058
+<v Tim Pritlove>Es ist doch unglaublich, was in Deutschland alles möglich ist.
+
+00:21:35.678 --> 00:21:39.478
+<v Tim Pritlove>Also man kann dann wirklich 10, 20 Jahre nachdem alle anderen schon durch die
+
+00:21:39.478 --> 00:21:45.738
+<v Tim Pritlove>Zielgerade, durchs Ziel gelaufen sind, kommt man dann auch irgendwann an.
+
+00:21:45.738 --> 00:21:50.198
+<v Andre Meister>Das aber auch nur, weil ein Fernsehsender aus Japan hergekommen ist und eine
+
+00:21:50.198 --> 00:21:51.478
+<v Andre Meister>Sendung darüber gemacht hat.
+
+00:21:51.518 --> 00:21:54.578
+<v Andre Meister>Die sind eine anderthalbe Stunde aus der Hauptstadt rausgefahren und hatten
+
+00:21:54.578 --> 00:21:56.458
+<v Andre Meister>kein Handy empfangen und haben gedacht, was ist denn hier los?
+
+00:21:56.538 --> 00:22:00.898
+<v Andre Meister>Das ist ja schlimmer als in Kasachstan, was es wohl laut manchen Statistiken auch ist.
+
+00:22:00.898 --> 00:22:04.598
+<v Andre Meister>Haben eine Sendung darüber gemacht und das war dem Bürgermeister der Region
+
+00:22:04.598 --> 00:22:09.358
+<v Andre Meister>und natürlich dem neuen Verkehrsminister peinlich und dem Verkehrsminister Scheuer
+
+00:22:09.358 --> 00:22:14.298
+<v Andre Meister>muss jetzt just einen Tag vor dem Mobilfunkgipfel in Berlin diese PR-Aktion
+
+00:22:14.298 --> 00:22:15.818
+<v Andre Meister>machen, damit der besser dasteht.
+
+00:22:15.898 --> 00:22:20.418
+<v Tim Pritlove>Japaner haben in ihrem Fernsehen darüber berichtet, dass in Christenburg gar kein Internet gibt.
+
+00:22:20.658 --> 00:22:25.698
+<v Andre Meister>In Deutschland, kurz außerhalb der Hauptstadt, fährst eine Stunde mit dem Bus bis zum Nichts.
+
+00:22:26.478 --> 00:22:30.098
+<v Tim Pritlove>Geil, das ist ungefähr so, als ob man dann hier so Bilder aus der dritten Welt sieht.
+
+00:22:30.098 --> 00:22:30.458
+<v Andre Meister>Ja, genau.
+
+00:22:30.718 --> 00:22:36.278
+<v Tim Pritlove>Jetzt gibt es hier ein Brunnenbohrprojekt, damit die Gemeinde endlich sich mit
+
+00:22:36.278 --> 00:22:37.878
+<v Tim Pritlove>frischem Wasser versorgen kann.
+
+00:22:37.998 --> 00:22:41.518
+<v Tim Pritlove>So muss das in Japan rüberkommen. Oh Gott.
+
+00:22:42.178 --> 00:22:51.138
+<v Linus Neumann>Es ist einfach nicht zu verstehen, dass wir in diesem Land das irgendwie dulden.
+
+00:22:52.138 --> 00:22:54.078
+<v Linus Neumann>Und wie das dazu kommt.
+
+00:22:54.298 --> 00:22:57.578
+<v Andre Meister>Das steht ja auch noch da. Der Funkmast ist ja nur provisorisch,
+
+00:22:57.578 --> 00:23:01.698
+<v Andre Meister>denn das Genehmigungsverfahren für den Bauantrag für den festen Mast, der läuft ja noch.
+
+00:23:01.918 --> 00:23:04.818
+<v Linus Neumann>Ich bin mal gespannt, also die Gemeinde ist irgendwie so groß,
+
+00:23:04.878 --> 00:23:11.818
+<v Linus Neumann>350 Einwohner, der Bürgermeister ist ehrenamtlich, das ist üblich in so kleinen Gemeinden.
+
+00:23:13.258 --> 00:23:15.878
+<v Linus Neumann>Jetzt bin ich mal gespannt, ob es da nicht irgendeine Behörde gibt,
+
+00:23:16.318 --> 00:23:21.778
+<v Linus Neumann>irgendein Amt oder so, die da morgen hinfahren und irgendwie ein Strafzettel
+
+00:23:21.778 --> 00:23:24.478
+<v Linus Neumann>dran kleben, weil das Ding irgendwie im Halteverbot steht oder so.
+
+00:23:27.518 --> 00:23:32.098
+<v Tim Pritlove>Ich fand dann auch die Meldung so geil, so ja, jetzt wollen sie die Mobilfunklöcher stopfen.
+
+00:23:33.438 --> 00:23:35.498
+<v Linus Neumann>Brandenburg ist ein Mobilfunkloch.
+
+00:23:35.558 --> 00:23:42.878
+<v Tim Pritlove>Ja, aber ich meine, bitte, Mobilfunk war von Anfang an irgendwie angetreten
+
+00:23:42.878 --> 00:23:45.578
+<v Tim Pritlove>mit diesem Dogma, mit alle sollen versorgt werden.
+
+00:23:46.998 --> 00:23:55.418
+<v Tim Pritlove>Dafür ist das auch da. Und jetzt kommen sie mit so Zahlen von,
+
+00:23:55.538 --> 00:23:59.118
+<v Tim Pritlove>naja wir wollen jetzt von 98% auf 99% kommen.
+
+00:23:59.278 --> 00:24:02.638
+<v Tim Pritlove>Und da stellt man sich dann irgendwie so eine komplette Deutschlandkarte vor,
+
+00:24:02.758 --> 00:24:06.638
+<v Tim Pritlove>wo überall irgendwie Netz ist. Das stimmt natürlich nicht, weil ja nur von den
+
+00:24:06.638 --> 00:24:08.558
+<v Tim Pritlove>Haushalten die Rede ist.
+
+00:24:08.718 --> 00:24:11.298
+<v Tim Pritlove>Also wir reden jetzt wirklich nur von so einem besiedelten Gebiet,
+
+00:24:11.318 --> 00:24:15.658
+<v Tim Pritlove>bis wir halt irgendwo, wo jetzt nicht Haushalte sind oder nicht die Haushalte,
+
+00:24:15.658 --> 00:24:20.498
+<v Tim Pritlove>die nicht mehr diese 98% reingepasst haben,
+
+00:24:20.638 --> 00:24:24.798
+<v Tim Pritlove>dann stehst du da und dann kommt halt so ein beklopptes Argument wie,
+
+00:24:24.898 --> 00:24:27.358
+<v Tim Pritlove>naja, da wohnen hier nur 350 Leute, das lohnt sich ja nicht.
+
+00:24:27.978 --> 00:24:30.918
+<v Tim Pritlove>Dass da vielleicht auch mal ein paar andere Leute, die da nicht wohnen,
+
+00:24:30.918 --> 00:24:35.418
+<v Tim Pritlove>da auch hinwollen und vielleicht da nicht hinwollen jetzt, weil man da eben kein Netz hat.
+
+00:24:35.558 --> 00:24:38.218
+<v Tim Pritlove>Auf so eine Idee kommt offensichtlich auch überhaupt niemand.
+
+00:24:39.538 --> 00:24:43.998
+<v Tim Pritlove>Und es ist einfach nur noch lächerlich und dann irgendwie auch noch so ein Puppanzer
+
+00:24:43.998 --> 00:24:47.618
+<v Tim Pritlove>draus zu machen, das Ganze irgendwie zu feiern wie so ein Schützenfest.
+
+00:24:48.758 --> 00:24:55.498
+<v Tim Pritlove>Meine Güte, das ist einfach ein besseres Symbol für die Unmöglichkeit,
+
+00:24:55.498 --> 00:24:57.558
+<v Tim Pritlove>dieses Netzausbaus gibt es irgendwie gar nicht.
+
+00:24:57.738 --> 00:25:03.358
+<v Linus Neumann>Und das ist halt tatsächlich das Problem von öffentlicher Infrastruktur.
+
+00:25:03.798 --> 00:25:10.758
+<v Linus Neumann>Dass natürlich musst du die auch da hinbauen, wo sie sich mal nicht lohnt.
+
+00:25:11.878 --> 00:25:16.658
+<v Linus Neumann>Klar, kannst du ja nicht einfach einstellen, so wie mit der Deutschen Bahn,
+
+00:25:16.858 --> 00:25:20.198
+<v Linus Neumann>als die dann privatisiert wurde, wo sie dann irgendwann den Leuten gesagt haben,
+
+00:25:20.318 --> 00:25:23.338
+<v Linus Neumann>wir machen das jetzt hier wieder weg mit der Bahn, hier hält die jetzt nicht mehr. Ja.
+
+00:25:24.018 --> 00:25:27.918
+<v Linus Neumann>Lasst euch wieder einfallen, was ihr damit macht. Das geht so nicht.
+
+00:25:29.418 --> 00:25:32.098
+<v Tim Pritlove>Ja, das ist auch irgendwie, keiner würde jetzt auch diskutieren über,
+
+00:25:32.278 --> 00:25:36.498
+<v Tim Pritlove>naja, also wir haben ja jetzt die Wasserversorgung für 98 Prozent der Haushalte
+
+00:25:36.498 --> 00:25:38.358
+<v Tim Pritlove>haben wir ja auch sichergestellt.
+
+00:25:38.418 --> 00:25:42.698
+<v Tim Pritlove>Und die Stromversorgung, da sind wir jetzt nächstes Jahr wahrscheinlich auch schon bei 99 Prozent.
+
+00:25:43.038 --> 00:25:47.098
+<v Linus Neumann>Ja, aber die restlichen lohnt sich nicht. Da wohnen ja nur sehr wenige.
+
+00:25:47.298 --> 00:25:55.878
+<v Tim Pritlove>Die können ja ins Nachbardorf fahren, wenn sie mal Strom Die tragen den Strom
+
+00:25:55.878 --> 00:26:00.358
+<v Tim Pritlove>in Eimern irgendwie aus dem Nachbardorf über den Berg Ja,
+
+00:26:01.198 --> 00:26:03.138
+<v Tim Pritlove>das ist wirklich eine Schande.
+
+00:26:04.071 --> 00:26:07.411
+<v Andre Meister>In anderen Ländern geht es ja auch. In skandinavischen Ländern wie Schweden,
+
+00:26:07.451 --> 00:26:11.551
+<v Andre Meister>die haben nicht nur seit Ewigkeiten Glasfaser-Internet, wo vor 10 Jahren 100
+
+00:26:11.551 --> 00:26:16.691
+<v Andre Meister>Mbit und heutzutage in Gigabit rausfallen für 20, 30 Euro im Monat für alle
+
+00:26:16.691 --> 00:26:18.051
+<v Andre Meister>symmetrisch hoch und runter,
+
+00:26:18.171 --> 00:26:24.171
+<v Andre Meister>sondern da gibt es auch LTE am letzten Kaff und noch nicht mal Kaff,
+
+00:26:24.211 --> 00:26:27.611
+<v Andre Meister>sondern wo nur Elche sind, wo noch nicht mal 300 Leute sind.
+
+00:26:27.811 --> 00:26:31.711
+<v Tim Pritlove>Jeder Elch hat da mehr Netz als hier die Bürger.
+
+00:26:31.711 --> 00:26:35.811
+<v Andre Meister>Die haben das halt einfach als politische Priorität erkannt, dass man das möchte.
+
+00:26:35.991 --> 00:26:40.891
+<v Andre Meister>Und wenn diese politische Feststellung da ist, dann kann man da umgehen, wie man das realisiert.
+
+00:26:41.031 --> 00:26:44.911
+<v Andre Meister>Aber hier sagt man halt immer, das muss der Markt schon irgendwie richten.
+
+00:26:44.911 --> 00:26:46.471
+<v Andre Meister>Und die Telekom sträubt sich halt.
+
+00:26:46.491 --> 00:26:49.551
+<v Tim Pritlove>Das ist der Elchtest für die Bundesregierung.
+
+00:26:52.111 --> 00:26:57.391
+<v Tim Pritlove>Bevor hier nicht jeder mehr Netz hat als jeder Elch in Schweden,
+
+00:26:57.551 --> 00:26:59.911
+<v Tim Pritlove>gibt es einfach keine Ruhe.
+
+00:27:00.731 --> 00:27:02.431
+<v Linus Neumann>Elchtest für die Bundesregierung, das ist gut.
+
+00:27:02.731 --> 00:27:05.091
+<v Andre Meister>Elchtest und bin ich schon drin. Das heißt 90s Revival.
+
+00:27:07.771 --> 00:27:10.851
+<v Tim Pritlove>Das versteht doch wahrscheinlich wieder gar keiner, was der Elchtest ist, oder?
+
+00:27:10.971 --> 00:27:13.211
+<v Andre Meister>Das kann man in die Sendungsnotizen schreiben.
+
+00:27:13.371 --> 00:27:17.071
+<v Linus Neumann>Der Elchtest war der Diesel-Skandal der 90er.
+
+00:27:18.991 --> 00:27:22.071
+<v Linus Neumann>Da wird jedes Auto gebaut, wird in der Kurve umgefallen.
+
+00:27:22.191 --> 00:27:26.811
+<v Tim Pritlove>Die A-Klasse, genau. Der Elchtest ist, wenn das Auto quasi einem Elch auszuweichen
+
+00:27:26.811 --> 00:27:30.951
+<v Tim Pritlove>hat und dann ist das Ding irgendwie umgekippt und dann haben sie mit Software nachgerüstet.
+
+00:27:31.527 --> 00:27:32.847
+<v Andre Meister>Bei einem Test in Schweden.
+
+00:27:36.307 --> 00:27:38.507
+<v Andre Meister>Ursprünglich hieß der Test in Schweden Kindertest.
+
+00:27:39.247 --> 00:27:43.267
+<v Linus Neumann>So, ich würde sagen, genau.
+
+00:27:43.427 --> 00:27:48.147
+<v Linus Neumann>Wir schicken jetzt mal, die deutsche Mobilfunknetz, das ist ja offenbar eh nur aus Provisorien.
+
+00:27:48.247 --> 00:27:52.307
+<v Linus Neumann>Wir fahren jetzt mal hier so einen Mobilfunkanhänger von der Telekom nach Schweden
+
+00:27:52.307 --> 00:27:54.667
+<v Linus Neumann>zum Echtest, wenn der dann übersteht.
+
+00:27:54.987 --> 00:27:55.807
+<v Andre Meister>Aber einen habe ich noch.
+
+00:27:56.007 --> 00:27:59.507
+<v Tim Pritlove>Die haben aber wahrscheinlich auch bessere Antennen. Das wird dann das Argument
+
+00:27:59.507 --> 00:28:01.247
+<v Tim Pritlove>von der Bundesregierung sein.
+
+00:28:03.307 --> 00:28:04.287
+<v Linus Neumann>Du hast noch einen.
+
+00:28:04.367 --> 00:28:09.387
+<v Andre Meister>Die haben ja da einen ganzen Bus von Journalisten, an netzpolitischen Journalisten
+
+00:28:09.387 --> 00:28:11.807
+<v Andre Meister>vom Verkehrsministerium in Berlin-Mitte
+
+00:28:11.807 --> 00:28:14.687
+<v Andre Meister>in dieses, ich hab's schon wieder vergessen, wie das Dorf heißt,
+
+00:28:16.447 --> 00:28:22.307
+<v Andre Meister>Glesengörne, gefahren, um die PR-Aktion des großen Ministers zu begleiten.
+
+00:28:22.627 --> 00:28:27.547
+<v Andre Meister>Es wurde wohl WLAN am Bus versprochen, aber das hat auch nicht funktioniert.
+
+00:28:30.007 --> 00:28:37.367
+<v Tim Pritlove>Das kommt erst 2040. Nur in Bayern. Genau.
+
+00:28:40.127 --> 00:28:47.307
+<v Andre Meister>Also eine einzige PR-Aktion. Das ist ja auch Sommerloch seit diesem Sommerpause, seit dieser Woche.
+
+00:28:47.407 --> 00:28:51.607
+<v Andre Meister>Und da hat der Minister halt gedacht, der macht sich mal einen schönen Fototermin.
+
+00:28:51.787 --> 00:28:57.527
+<v Linus Neumann>Ey, ist das zum heulen. Sommerloch. Wenn das ein Sommerloch wäre,
+
+00:28:57.647 --> 00:29:00.567
+<v Linus Neumann>wäre gut, aber deshalb im Winter auch. Okay,
+
+00:29:02.707 --> 00:29:04.807
+<v Linus Neumann>jetzt haben wir sie, glaube ich. Jetzt haben wir alle Schenkelklöpfe.
+
+00:29:06.567 --> 00:29:11.167
+<v Linus Neumann>Liebe, liebe Dorfjugend-Klesengörne, solange ihr Internet habt,
+
+00:29:11.267 --> 00:29:15.347
+<v Linus Neumann>macht euch schlau, wie ihr diese Funkmasten da verteidigen könnt.
+
+00:29:15.827 --> 00:29:19.067
+<v Linus Neumann>Ich würde dem Braten nicht trauen.
+
+00:29:19.947 --> 00:29:21.607
+<v Tim Pritlove>Hört noch Buchnetzpolitik.
+
+00:29:21.727 --> 00:29:22.387
+<v Linus Neumann>Solange ihr könnt.
+
+00:29:29.847 --> 00:29:32.487
+<v Linus Neumann>Also es ist ja offenbar auch ein Telekom-Mast nur, ne?
+
+00:29:32.907 --> 00:29:36.647
+<v Linus Neumann>Das heißt, ich bin natürlich auch mal gespannt, ob dann da in Klissen-Görne,
+
+00:29:36.707 --> 00:29:39.707
+<v Linus Neumann>was da jetzt die Kunden, obwohl die werden ja keine Kunden sein.
+
+00:29:41.287 --> 00:29:45.687
+<v Linus Neumann>Oder meinst du, wobei, wenn die aus dem Dorf rausgehen, vielleicht haben die
+
+00:29:45.687 --> 00:29:49.647
+<v Linus Neumann>sich auch einfach an der Funkloch-Grenze so eine schöne Schein-Bushaltestelle
+
+00:29:49.647 --> 00:29:53.627
+<v Linus Neumann>hingebaut, wo man, dass man, wenn es regnet, nicht nass wird beim Telefonieren.
+
+00:29:53.987 --> 00:29:56.887
+<v Linus Neumann>Oder so alte Telefonzählen könnte man da hinstellen, weißt du?
+
+00:29:58.067 --> 00:29:59.747
+<v Tim Pritlove>Davon gibt es so richtig viele.
+
+00:30:01.487 --> 00:30:07.227
+<v Linus Neumann>Die gelben sind leider inzwischen abverkauft. Es gibt nur noch diese neueren 90er Dinger.
+
+00:30:07.427 --> 00:30:08.227
+<v Tim Pritlove>Magenta Dinger.
+
+00:30:08.367 --> 00:30:08.587
+<v Linus Neumann>Ja.
+
+00:30:10.647 --> 00:30:12.487
+<v Linus Neumann>Naja. Also Klesengörde.
+
+00:30:13.307 --> 00:30:13.827
+<v Tim Pritlove>Gratulation.
+
+00:30:15.610 --> 00:30:19.370
+<v Tim Pritlove>Und alle anderen, die immer noch kein Netz haben, die können ja jetzt nach Gleisenkörne fahren.
+
+00:30:19.550 --> 00:30:22.430
+<v Tim Pritlove>Ja, da können sie sich halt auch so ein Volksfest organisieren.
+
+00:30:22.570 --> 00:30:26.610
+<v Tim Pritlove>Oder ladet einfach erstmal die Japaner ein, über euch zu berichten.
+
+00:30:26.770 --> 00:30:30.910
+<v Tim Pritlove>Das scheint ja zu funktionieren. Vielleicht sollte man einfach mal die Schweden einladen.
+
+00:30:30.950 --> 00:30:34.890
+<v Tim Pritlove>Das schwedische Fernsehen, so über die Diaspora in Deutschland.
+
+00:30:34.970 --> 00:30:37.610
+<v Tim Pritlove>So eine schöne Dokumentation, die packt man dann in Arte rein.
+
+00:30:37.850 --> 00:30:40.590
+<v Linus Neumann>Ich stell mir so gerade vor, diese japanische Dokumentation,
+
+00:30:40.590 --> 00:30:45.990
+<v Linus Neumann>so ein düsteres Bild, so ein Brandenburger Hand. Und dann holen die irgendwie
+
+00:30:45.990 --> 00:30:48.830
+<v Linus Neumann>das Telefon raus und dann staunen die Ureinwohner.
+
+00:30:50.010 --> 00:30:51.790
+<v Linus Neumann>Aber es funktioniert eh nicht.
+
+00:30:53.950 --> 00:30:58.170
+<v Tim Pritlove>Kennst du diese lustigen Shows, wie die in Japan so aufgezogen sind?
+
+00:30:58.170 --> 00:30:58.690
+<v Linus Neumann>Takeshis Castle?
+
+00:30:59.230 --> 00:31:04.370
+<v Tim Pritlove>Ja, das auch. Aber auch wenn so Dinge in Europa berichtet wird und so.
+
+00:31:04.450 --> 00:31:05.470
+<v Tim Pritlove>Weil das ist sehr, sehr lustig.
+
+00:31:06.450 --> 00:31:09.930
+<v Tim Pritlove>Also die werden auch immer so komischen Storys zusammengebaut.
+
+00:31:10.130 --> 00:31:11.270
+<v Tim Pritlove>Also ich kann mir das lebhaft vorstellen.
+
+00:31:11.270 --> 00:31:15.910
+<v Linus Neumann>Ja, das ist ungefähr so wie jetzt irgendwie, wie heißen denn so diese Disney-Dokus
+
+00:31:15.910 --> 00:31:22.370
+<v Linus Neumann>über den Urwald, wo dann irgendwie der Erzähler oder so David Attenborough, amazing creatures,
+
+00:31:23.070 --> 00:31:29.710
+<v Linus Neumann>die Bürger von Gleeson-Görne schaffen es mehrere Wochen, ohne eine Datenverbindung
+
+00:31:29.710 --> 00:31:31.210
+<v Linus Neumann>auszuholen. They have arranged themselves.
+
+00:31:31.750 --> 00:31:33.830
+<v Linus Neumann>They can last.
+
+00:31:34.690 --> 00:31:35.330
+<v Linus Neumann>Okay.
+
+00:31:35.630 --> 00:31:43.670
+<v Tim Pritlove>Nur die Elche kommt da nicht vorbei, weil sie selbst mit ihren Großantennen keinen Empfang haben.
+
+00:31:47.370 --> 00:31:52.210
+<v Andre Meister>Vielleicht findet ja ein Leser oder eine Leserin diesen japanischen Fernsehbeitrag
+
+00:31:52.210 --> 00:31:54.890
+<v Andre Meister>und postet den in den Kommentaren. Ich würde das gerne machen.
+
+00:31:55.470 --> 00:31:59.370
+<v Tim Pritlove>Oh Gott, diese Sendung wird nicht mehr normal.
+
+00:32:01.190 --> 00:32:04.390
+<v Linus Neumann>Wir müssen aber jetzt wieder zu den schlechten Nachrichten kommen.
+
+00:32:05.490 --> 00:32:06.810
+<v Andre Meister>Die müssen noch beschäftigt.
+
+00:32:12.650 --> 00:32:18.990
+<v Tim Pritlove>Der Gedanke, dass man so ein Funkelch hat, die mit WLAN-Hotspots durch die Städte
+
+00:32:18.990 --> 00:32:22.390
+<v Tim Pritlove>laufen, um die Grundversorgung herzustellen.
+
+00:32:22.890 --> 00:32:28.290
+<v Linus Neumann>Du bist doch der Erfinder der Datenklo-Installationen beim Camp.
+
+00:32:28.290 --> 00:32:30.010
+<v Tim Pritlove>Jetzt kommt der Datenelch.
+
+00:32:37.350 --> 00:32:41.550
+<v Linus Neumann>Der Datenelch trägt aus seinen Schultern Proviant für drei Wochen.
+
+00:32:43.030 --> 00:32:46.430
+<v Tim Pritlove>Mit Storch drauf. Oh Gott.
+
+00:32:48.570 --> 00:32:50.590
+<v Andre Meister>Das ist dann auch okay für die Wavys in der Region.
+
+00:32:50.870 --> 00:32:52.110
+<v Tim Pritlove>Da fällt das nicht so auf.
+
+00:32:52.950 --> 00:32:55.070
+<v Linus Neumann>Hier muss irgendwo Datenelch sein.
+
+00:33:02.610 --> 00:33:05.370
+<v Tim Pritlove>Okay, hat mir so ein anderes Thema.
+
+00:33:11.035 --> 00:33:13.895
+<v Linus Neumann>Es ist fürchterlich, es ist wirklich ganz schlimm.
+
+00:33:14.755 --> 00:33:17.695
+<v Tim Pritlove>Komm, lass uns mal irgendwas dystopisches raussuchen.
+
+00:33:18.655 --> 00:33:24.715
+<v Linus Neumann>Achso, jetzt auch bald in Klesengörne? Staatstrojan. Es war nicht alles gut im Internet.
+
+00:33:28.575 --> 00:33:30.155
+<v Linus Neumann>André, das war dein Einsatz.
+
+00:33:30.655 --> 00:33:33.175
+<v Andre Meister>Linus, willst du mir nicht eine schlaue Frage stellen?
+
+00:33:34.055 --> 00:33:37.695
+<v Linus Neumann>Ich habe, du hast mir ja schon, also ich habe jetzt gehört, gehört,
+
+00:33:37.755 --> 00:33:42.735
+<v Linus Neumann>dass die Bundesregierung brüstete sich ja seit längerer Zeit damit,
+
+00:33:42.955 --> 00:33:47.255
+<v Linus Neumann>sie sei nun in der Lage, Staatstrojaner einzusetzen.
+
+00:33:47.315 --> 00:33:51.115
+<v Linus Neumann>Die erste Meldung, die wir hatten, war glaube ich, dass das BKA sagte,
+
+00:33:51.275 --> 00:33:54.915
+<v Linus Neumann>wir haben jetzt ein Windows- Trojaner für Skype oder sowas.
+
+00:33:54.935 --> 00:34:01.275
+<v Linus Neumann>Das war irgendwie so das Ausmaß des Schaffens, was das BKA in Eigenentwicklung
+
+00:34:01.275 --> 00:34:06.715
+<v Linus Neumann>da von Stack Overflow zusammen kopiert, pastiert hatte.
+
+00:34:07.955 --> 00:34:12.455
+<v Linus Neumann>Und, ähm, dann war aber natürlich auch, ich glaube, das war auch wieder eine
+
+00:34:12.455 --> 00:34:16.915
+<v Linus Neumann>Informationsbefreiung von dir,
+
+00:34:17.035 --> 00:34:22.235
+<v Linus Neumann>schon davor, klar, dass sie seit längerer Zeit im Gespräch sind mit dem Unternehmen
+
+00:34:22.235 --> 00:34:27.635
+<v Linus Neumann>Gamma, Finnfischer Elgamam hieß, glaube ich.
+
+00:34:27.675 --> 00:34:27.995
+<v Andre Meister>Elamann.
+
+00:34:27.995 --> 00:34:35.655
+<v Linus Neumann>Elamann hieß quasi die Briefkastenfirma zur Ausübung dieses Vertrages,
+
+00:34:35.775 --> 00:34:40.335
+<v Linus Neumann>zur Erfüllung dieses Vertrages und jetzt,
+
+00:34:40.475 --> 00:34:45.795
+<v Linus Neumann>nachdem jetzt die Meldung war, wir haben einen funktionierenden Smartphone Trojaner,
+
+00:34:45.875 --> 00:34:50.675
+<v Linus Neumann>kam da jetzt auch ein bisschen Licht ins Dunkel oder auch nicht,
+
+00:34:50.835 --> 00:34:52.455
+<v Linus Neumann>weil die Frage gestellt wurde,
+
+00:34:52.715 --> 00:34:55.035
+<v Linus Neumann>ey, wo habt ihr den denn her?
+
+00:34:56.115 --> 00:35:01.675
+<v Linus Neumann>Und dazu hast du jetzt die Antwort, wie immer aus den nicht öffentlichen Quellen
+
+00:35:01.675 --> 00:35:03.955
+<v Linus Neumann>befreien können. Oder etwa nicht?
+
+00:35:05.415 --> 00:35:09.075
+<v Andre Meister>Ja, das Thema Trojaner bestätigt uns ja schon ein paar Jahre.
+
+00:35:09.255 --> 00:35:16.115
+<v Andre Meister>Der CCC hatte ja damals, wann war das, 2011 oder 2012, so ein Trojaner auf einer
+
+00:35:16.115 --> 00:35:18.355
+<v Andre Meister>hessischen Firma Digitask aufgemacht.
+
+00:35:19.395 --> 00:35:25.215
+<v Andre Meister>Wie hat der das, der BKA-Typ im Innenausschuss hat das gemeint und uns ist die
+
+00:35:25.215 --> 00:35:26.675
+<v Andre Meister>Software damals aufgeplatzt.
+
+00:35:27.295 --> 00:35:30.175
+<v Linus Neumann>Wir müssen vielleicht, weil das auch tatsächlich, wie du es gerade sagst,
+
+00:35:30.175 --> 00:35:31.315
+<v Linus Neumann>so ein bisschen eine Zeit her ist.
+
+00:35:31.355 --> 00:35:35.455
+<v Linus Neumann>Also damals war die Geschichte der Staatstrojaner, weil es ging los mit der
+
+00:35:35.455 --> 00:35:36.775
+<v Linus Neumann>Idee, dass sie einen haben wollen.
+
+00:35:37.755 --> 00:35:39.855
+<v Linus Neumann>Dann war glaube ich damals noch…,
+
+00:35:40.803 --> 00:35:46.403
+<v Linus Neumann>Vom Bundesverfassungsgericht für den CCC Andreas Bruck, wenn ich mich nicht täusche.
+
+00:35:47.323 --> 00:35:54.303
+<v Linus Neumann>Ergebnis dieser Verhandlungen damals war, dass ein neues Grundrecht festgeschrieben wurde.
+
+00:35:56.443 --> 00:36:01.283
+<v Andre Meister>Grundrecht auf Vertraulichkeit und Integrität informationstechnischer Systeme.
+
+00:36:01.903 --> 00:36:04.883
+<v Linus Neumann>Das Computergrundrecht. Das Computergrundrecht.
+
+00:36:04.883 --> 00:36:13.103
+<v Andre Meister>Und zwar weil digitale Geräte heutzutage so viele Informationen über uns speichern
+
+00:36:13.103 --> 00:36:20.103
+<v Andre Meister>und über lange Zeit und alle möglichen Sensoren haben und private Daten und
+
+00:36:20.103 --> 00:36:24.043
+<v Andre Meister>Kommunikation und Notizbuch und Logins für andere Dienste und so,
+
+00:36:24.043 --> 00:36:30.183
+<v Andre Meister>Also dass das eigentlich ein ausgelagertes Gehirn ist und quasi noch ein intensiverer
+
+00:36:30.183 --> 00:36:31.323
+<v Andre Meister>Grundrechtseingriff ist,
+
+00:36:31.403 --> 00:36:37.723
+<v Andre Meister>in diese Geräte einzudringen, als denn schon das Mithirn irgendwie in Privaträumen,
+
+00:36:37.743 --> 00:36:40.323
+<v Andre Meister>also im Wohnzimmer oder so, als so ein Lauschangriff ist.
+
+00:36:40.443 --> 00:36:44.943
+<v Andre Meister>Also das ist quasi eins der intensivsten Eingriffe in die Privatsphäre,
+
+00:36:45.003 --> 00:36:47.703
+<v Andre Meister>die der deutsche Staat so kennt.
+
+00:36:47.703 --> 00:36:53.483
+<v Andre Meister>Deswegen hat das oberste Verfassungsgericht eben ein neues Grundrecht geschaffen,
+
+00:36:53.563 --> 00:36:59.443
+<v Andre Meister>dass der Staat die Integrität und Vertraulichkeit dieser Systeme zu schützen hat.
+
+00:36:59.543 --> 00:37:03.083
+<v Andre Meister>Und zwar nicht nur passiv, sondern auch aktiv. Und nur in ganz,
+
+00:37:03.083 --> 00:37:06.503
+<v Andre Meister>ganz, ganz begrenzten Ausnahmefällen könnte es legitim sein,
+
+00:37:06.623 --> 00:37:09.903
+<v Andre Meister>in diesen besonders geschützten Bereich einzudringen.
+
+00:37:09.963 --> 00:37:16.263
+<v Andre Meister>Und zwar ging das damals um eine Befugnis für das Bundeskriminalamt und zwar
+
+00:37:16.263 --> 00:37:21.843
+<v Andre Meister>nur bei internationalen Terrorismus und nur zur Prävention von internationalen Terrorismus. muss.
+
+00:37:22.563 --> 00:37:26.783
+<v Andre Meister>Damit haben wir ein paar Tage gelebt, ein paar Jahre, aber.
+
+00:37:28.803 --> 00:37:32.783
+<v Andre Meister>Landeskriminalämter, manche und Zollbehörden haben das auch genutzt und noch
+
+00:37:32.783 --> 00:37:35.203
+<v Andre Meister>ein bisschen anders eingesetzt. Daher kam ja auch die Software,
+
+00:37:35.243 --> 00:37:36.523
+<v Andre Meister>die der CCC untersucht hat.
+
+00:37:36.603 --> 00:37:41.983
+<v Andre Meister>Aber gerade letztes Jahr als letzte Aktion der GroKo vor der Wahl wurde der
+
+00:37:41.983 --> 00:37:45.543
+<v Andre Meister>Staatstrainer einmal massiv ausgeweitet und zwar nicht nur gegen,
+
+00:37:45.743 --> 00:37:48.783
+<v Andre Meister>nicht nur für das Bundeskriminalamt, sondern für alle Ermittlungsbehörden.
+
+00:37:49.103 --> 00:37:52.803
+<v Andre Meister>Nicht nur zur Prävention, sondern auch auch zur Strafverfolgung und nicht nur
+
+00:37:52.803 --> 00:37:56.923
+<v Andre Meister>für Terrorismus, sondern für sämtliche schweren Straftaten, die im Katalog vom
+
+00:37:56.923 --> 00:38:01.343
+<v Andre Meister>100a sind, wo irgendwie alle möglichen Dinge drinstehen, bis hin zu Geldwäsche,
+
+00:38:01.543 --> 00:38:06.063
+<v Andre Meister>missbräuchliche Verleitung oder Verleitung zur missbräuchlichen Asylantragstellung,
+
+00:38:06.663 --> 00:38:11.943
+<v Andre Meister>und Haufen so eine Delikte, die jetzt nicht als der Staat, die Funktion oder
+
+00:38:11.943 --> 00:38:16.763
+<v Andre Meister>das gesellschaftliche Zusammenleben fallen auseinander oder gar irgendwie mordkörperliche
+
+00:38:16.763 --> 00:38:19.443
+<v Andre Meister>Unversehrtheit oder sowas sind, mit dem das ja oft begründet wird.
+
+00:38:19.443 --> 00:38:26.963
+<v Linus Neumann>Das, die Sache im letzten Jahr war das, wo ich dann auch als Sachverständiger in dem Bundestag war.
+
+00:38:27.043 --> 00:38:32.243
+<v Linus Neumann>Das war das, wo wir so, naja, mal wieder auf die...
+
+00:38:33.125 --> 00:38:37.725
+<v Linus Neumann>Aufs Zahnfleisch gedrückt wurden mit einer Einladung in den Ausschuss wenige
+
+00:38:37.725 --> 00:38:42.905
+<v Linus Neumann>Tage vorher, wo es halt irgendwie sehr anstrengend war.
+
+00:38:43.685 --> 00:38:48.565
+<v Linus Neumann>Habe ich drüber berichtet, mit Sicherheit hier im Jahresrückblick des CCC und
+
+00:38:48.565 --> 00:38:50.125
+<v Linus Neumann>so weiter, findet ihr nochmal in den Shownotes.
+
+00:38:50.305 --> 00:38:54.425
+<v Linus Neumann>Ich glaube, was du nicht mit drin hattest, war zwischendurch noch das BKA-Gesetz
+
+00:38:54.425 --> 00:38:57.945
+<v Linus Neumann>und die Klage gegen das BKA-Gesetz.
+
+00:38:58.325 --> 00:39:05.345
+<v Linus Neumann>Da ging es auch um Staatstrojaner, wurde Wurde auch in Karlsruhe verhandelt,
+
+00:39:05.365 --> 00:39:11.865
+<v Linus Neumann>da war Konstanz für den CCC wieder mal die Sachverständige und auch darüber
+
+00:39:11.865 --> 00:39:15.665
+<v Linus Neumann>haben wir damals mit ihr gesprochen. Also die Geschichte ist eine lange.
+
+00:39:16.125 --> 00:39:21.645
+<v Andre Meister>Ja, das hat ja angefangen mit Polizeigesetz NRW und jetzt auch BKA-Gesetz und
+
+00:39:21.645 --> 00:39:24.165
+<v Andre Meister>das wurde jetzt nochmal auf dem BKA-Gesetz nochmal umgeschaffelt und so.
+
+00:39:24.285 --> 00:39:28.185
+<v Andre Meister>Und das ist jetzt auf verschiedene Landespolizeigesetzen, siehe Hessentrojane
+
+00:39:28.185 --> 00:39:32.885
+<v Andre Meister>und so ist das Thema. Also es gibt da diverse Gesetzesinitiativen,
+
+00:39:32.945 --> 00:39:36.145
+<v Andre Meister>wer wann wo Staatstrojaner einsetzen darf.
+
+00:39:36.425 --> 00:39:40.845
+<v Linus Neumann>Und die schönste Aktion war dann eben CCC-Aktion.
+
+00:39:42.752 --> 00:39:49.932
+<v Linus Neumann>Oktober 2011, wo uns dann eben ein solcher Staatstrojaner in die Finger gekommen war,
+
+00:39:50.832 --> 00:39:57.932
+<v Linus Neumann>der dann in Ruhe analysiert wurde von Mitgliedern des Chaos Computer Clubs und
+
+00:39:57.932 --> 00:40:06.092
+<v Linus Neumann>also im Reverse Engineering dann eben verschiedene nicht legale Funktionalitäten gefunden wurden,
+
+00:40:06.212 --> 00:40:12.432
+<v Linus Neumann>die zu dem sofortigen Stopp des Einsatzes geführt hatten und vor allem halt
+
+00:40:12.432 --> 00:40:14.632
+<v Linus Neumann>auf mehreren Ebenen nachgewiesen haben,
+
+00:40:14.812 --> 00:40:20.372
+<v Linus Neumann>dass diese Software nicht ihren rechtlichen Rahmenbedingungen entsprach.
+
+00:40:20.872 --> 00:40:23.932
+<v Andre Meister>Genau, es gibt ja einen kleinen und einen großen Staatstrojaner.
+
+00:40:23.952 --> 00:40:27.312
+<v Andre Meister>Also der kleine ist die sogenannte Quellentelekommunikationsüberwachung,
+
+00:40:27.432 --> 00:40:32.212
+<v Andre Meister>wo man in so ein Gerät eindringend infiziert und dann angeblich nur die laufende
+
+00:40:32.212 --> 00:40:33.692
+<v Andre Meister>Kommunikation überwacht.
+
+00:40:33.872 --> 00:40:37.232
+<v Andre Meister>Das wird immer so beschrieben wie, das ist ja nichts weiter als eine normale
+
+00:40:37.232 --> 00:40:41.772
+<v Andre Meister>Telefonüberwachung, nur halt jetzt, um über die Crypto-Messenger rumzukommen.
+
+00:40:42.432 --> 00:40:45.832
+<v Andre Meister>Ist natürlich trotzdem anders, weil man muss erstmal in das System einbrechen,
+
+00:40:45.832 --> 00:40:49.372
+<v Andre Meister>statt sich einfach nur eine Kommunikation ausleiten zu lassen und da passiert
+
+00:40:49.372 --> 00:40:51.952
+<v Andre Meister>ja schon der größte Eingriff und es war eben in der Software,
+
+00:40:51.992 --> 00:40:53.172
+<v Andre Meister>die damals eingesetzt wurde,
+
+00:40:53.272 --> 00:40:56.532
+<v Andre Meister>eben nicht so, dass der sich nur auf die laufende Kommunikation beschränkt hat.
+
+00:40:56.532 --> 00:40:58.132
+<v Andre Meister>Das geht ja auch technisch gar nicht wirklich.
+
+00:40:58.972 --> 00:41:03.012
+<v Andre Meister>Und da kam dann eben raus, der hat Screenshots gemacht die ganze Zeit,
+
+00:41:03.032 --> 00:41:08.412
+<v Andre Meister>der hat Entwürfe, Notizen, nicht abgeschickte Mails und so, das ist alles mit
+
+00:41:08.412 --> 00:41:12.412
+<v Andre Meister>den Akten gelandet, irgendwie hunderte oder tausende Screenshots,
+
+00:41:12.412 --> 00:41:13.492
+<v Andre Meister>die dann dort abgedruckt wurden.
+
+00:41:14.032 --> 00:41:17.292
+<v Andre Meister>Also dann kam noch dazu, dass die Infrastruktur so rotten war,
+
+00:41:17.392 --> 00:41:21.952
+<v Andre Meister>dass man das sofort übernehmen konnte und den Trojaner auch noch irgendwelche
+
+00:41:21.952 --> 00:41:27.052
+<v Andre Meister>Dinge nachladen konnte, wo man die Funktionen dann wieder erweitern konnte und so.
+
+00:41:27.152 --> 00:41:31.312
+<v Andre Meister>Also das ist wie der BKA-Typ, der für die Trojaner zuständig ist,
+
+00:41:31.332 --> 00:41:32.572
+<v Andre Meister>gemeint hat, aufgeplatzt.
+
+00:41:32.612 --> 00:41:37.772
+<v Andre Meister>Und dann war auch ziemlich schnell klar, dass die Software nicht mehr eingesetzt werden darf.
+
+00:41:40.380 --> 00:41:45.040
+<v Andre Meister>Dann hatten die Behörden, BKA und andere Polizeibehörden das Problem,
+
+00:41:45.300 --> 00:41:48.460
+<v Andre Meister>ja, jetzt haben wir die eine Software, die wir die ganze Zeit genutzt haben,
+
+00:41:48.520 --> 00:41:50.380
+<v Andre Meister>aber die dürfen wir nicht mehr nutzen, was machen wir denn jetzt?
+
+00:41:50.880 --> 00:41:53.920
+<v Andre Meister>Dann kamen sie auf die glorreiche Idee, ja, dann programmieren wir halt einen eigenen.
+
+00:41:55.500 --> 00:42:00.060
+<v Andre Meister>Den haben sie programmiert, das ist die sogenannte Remote Communication Interception
+
+00:42:00.060 --> 00:42:04.360
+<v Andre Meister>Software, das ist der kleine Staatstrojaner vom BKA,
+
+00:42:04.700 --> 00:42:08.660
+<v Andre Meister>der konnte in Version 1, haben sie irgendwie drei Jahre dran programmiert oder
+
+00:42:08.660 --> 00:42:11.800
+<v Andre Meister>so, konnte der eben Skype auf Windows abhören, das war nicht wirklich viel,
+
+00:42:11.960 --> 00:42:13.960
+<v Andre Meister>also haben sie nur eine zweite Version hinterhergeschrieben.
+
+00:42:14.180 --> 00:42:20.080
+<v Linus Neumann>Vor allem inzwischen hat Microsoft doch Skype gekauft und einen Masterkey reingedingst.
+
+00:42:20.080 --> 00:42:22.880
+<v Andre Meister>Das mit dem Masterkey weiß ich nicht genau, können wir gerne ergänzen,
+
+00:42:23.040 --> 00:42:26.500
+<v Andre Meister>aber Skype war noch nie so wirklich das Problem.
+
+00:42:27.900 --> 00:42:30.340
+<v Andre Meister>Geht da auch eher um andere, die wollten ja jetzt auch, es geht ja vor allem
+
+00:42:30.340 --> 00:42:31.500
+<v Andre Meister>um WhatsApp und so ein Zeug.
+
+00:42:32.720 --> 00:42:39.560
+<v Andre Meister>Haben sie in Version 2 auch noch entwickelt, das BKA die jetzt wohl auch Messenger
+
+00:42:39.560 --> 00:42:46.160
+<v Andre Meister>und wohl auch mobile Geräte, also Android iOS und sowas kann,
+
+00:42:47.120 --> 00:42:53.500
+<v Andre Meister>die ist auch seit diesem Jahr seit irgendwann in den letzten Monaten nicht nur fertig,
+
+00:42:53.680 --> 00:42:58.240
+<v Andre Meister>sondern auch überprüft und zum Einsatz freigegeben die können aber nur Quellen
+
+00:42:58.240 --> 00:43:02.100
+<v Andre Meister>TKÜ sie dürfen ja auch die Online-Durchsuchung Das ist der große Trojaner,
+
+00:43:02.100 --> 00:43:06.720
+<v Andre Meister>der eben nach der Infektion von einem Gerät nicht nur die Kommunikation auslesen kann,
+
+00:43:06.840 --> 00:43:09.680
+<v Andre Meister>sondern alle Dinge, die da drauf gespeichert sind.
+
+00:43:09.840 --> 00:43:13.760
+<v Andre Meister>Also wie eine komplette Hausdurchsuchung, eine Online-Durchsuchung auf den Geräten.
+
+00:43:15.380 --> 00:43:22.660
+<v Andre Meister>Und dort ist dann wirklich alles drin betroffen, wie bei einer Durchsuchung,
+
+00:43:22.660 --> 00:43:25.020
+<v Andre Meister>nur eben, dass es von einem ausgelagerten Gehirn ist.
+
+00:43:25.020 --> 00:43:28.840
+<v Andre Meister>Also mal gucken, was allein so auf dem Smartphone oder einem Rechner alles für
+
+00:43:28.840 --> 00:43:31.000
+<v Andre Meister>jahrelange alte Daten gespeichert sind und so.
+
+00:43:32.020 --> 00:43:36.220
+<v Andre Meister>Wenn sich die Polizei schon bei Printausdrucken nicht auf die vom aktuellen
+
+00:43:36.220 --> 00:43:38.460
+<v Andre Meister>Jahr begrenzt, da wo sie im Durchsuchungsbefehl stehen.
+
+00:43:40.231 --> 00:43:45.631
+<v Andre Meister>Aber diese Online-Durchsuchungstrojaner haben sie noch nicht programmiert,
+
+00:43:45.671 --> 00:43:49.471
+<v Andre Meister>die haben jetzt angefangen auch dafür eine Software zu programmieren.
+
+00:43:49.511 --> 00:43:53.631
+<v Andre Meister>Bisher haben sie schon 6 Millionen Euro ausgegeben, um die zwei Ärzteversionen
+
+00:43:53.631 --> 00:43:57.591
+<v Andre Meister>mit irgendwie 30 Leuten im BKA zu entwickeln.
+
+00:43:57.591 --> 00:44:00.871
+<v Andre Meister>Das geht jetzt auch so halb in die Zitis über, soll es zumindest.
+
+00:44:01.231 --> 00:44:08.251
+<v Andre Meister>Ist auch noch ein bisschen shady, wie die zusammenarbeiten, aber bis der Eigenentwickler
+
+00:44:08.251 --> 00:44:11.191
+<v Andre Meister>der Trojaner soweit war, haben sie gesagt, naja, wir können jetzt,
+
+00:44:11.451 --> 00:44:15.091
+<v Andre Meister>Digitask ist weg, aber unsere bedauert noch ein Stück, brauchen wir trotzdem
+
+00:44:15.091 --> 00:44:17.411
+<v Andre Meister>noch einen Trojaner, also haben sie sich auf dem Markt umgeguckt,
+
+00:44:17.431 --> 00:44:21.051
+<v Andre Meister>was gibt es da so, haben bei Google eingegeben Staatstrojaner und haben Finnfischer gefunden,
+
+00:44:21.331 --> 00:44:24.571
+<v Andre Meister>über den wir auch schon öfters mal berichtet haben.
+
+00:44:24.571 --> 00:44:29.291
+<v Andre Meister>Also Finnfischer wird als komplettes Portfolio des Hackens bezeichnet,
+
+00:44:29.331 --> 00:44:35.811
+<v Andre Meister>das ist eine RAT, also eine Trojaner Software,
+
+00:44:35.951 --> 00:44:39.151
+<v Andre Meister>die sehr advanced ist,
+
+00:44:39.271 --> 00:44:47.291
+<v Andre Meister>die sehr weit entwickelt ist, die ziemlich weit vorne in der technischen Expertise
+
+00:44:47.291 --> 00:44:54.011
+<v Andre Meister>ist, weswegen sie auf der ganzen Welt auch beliebt ist von sogenannten Sicherheitsbehörden.
+
+00:44:54.011 --> 00:45:00.431
+<v Andre Meister>Also die wurde gefunden in Ägypten, Bahrain, Äthiopien, Uganda und jetzt auch Türkei und so.
+
+00:45:00.611 --> 00:45:08.731
+<v Andre Meister>Also nicht gerade bei den Top Ten der Menschenrechts- und Pressefreiheitsranglisten weltweit.
+
+00:45:08.811 --> 00:45:12.691
+<v Andre Meister>Dort natürlich auch nicht nur gegen die Schwerstkriminellen und Terroristen
+
+00:45:12.691 --> 00:45:16.291
+<v Andre Meister>eingesetzt, sondern gegen Journalisten und Aktivisten, aber die werden da teilweise
+
+00:45:16.291 --> 00:45:19.431
+<v Andre Meister>in diesen Ländern auch einfach als Terroristen bezeichnet.
+
+00:45:19.431 --> 00:45:24.491
+<v Andre Meister>Und diese Firma, die keine Skrupel hat, in solche Länder zu verkaufen,
+
+00:45:24.611 --> 00:45:28.111
+<v Andre Meister>hat eben auch an das Bundeskriminalamt ihre Software geliefert.
+
+00:45:28.731 --> 00:45:31.791
+<v Andre Meister>War ein kleines Problem, weil dann hat das BKA geprüft, ob die Software auch
+
+00:45:31.791 --> 00:45:33.311
+<v Andre Meister>wirklich nur das kann, was sie darf.
+
+00:45:33.511 --> 00:45:36.171
+<v Andre Meister>Die wollten ja den Fehler nicht wiederholen, den sie mit Digitask hatten.
+
+00:45:36.351 --> 00:45:38.271
+<v Andre Meister>Und dann hieß es aber, nee, die kann viel mehr.
+
+00:45:38.971 --> 00:45:42.731
+<v Andre Meister>Schicken wir hier zurück, dass sie nur das darf, was in unserer Anforderungsliste steht.
+
+00:45:43.431 --> 00:45:45.991
+<v Andre Meister>Und dann haben sie nach ein paar Monaten eine neue Version geschickt.
+
+00:45:46.011 --> 00:45:47.051
+<v Andre Meister>Und die konnte aber immer noch mehr.
+
+00:45:47.211 --> 00:45:51.411
+<v Andre Meister>Und das ganze Spiel haben sie dreimal gespielt. und Fynn Fischer so oft überarbeitet
+
+00:45:51.411 --> 00:45:56.451
+<v Andre Meister>und eingedampft, dass sie dann im Endeffekt erst zur Freigabe freigegeben wurde,
+
+00:45:56.511 --> 00:46:01.331
+<v Andre Meister>jetzt im Januar oder so, also nachdem die BKA-Software selber fertig programmiert wurde.
+
+00:46:03.313 --> 00:46:10.353
+<v Andre Meister>Ähm, das ist jetzt nicht so PR-mäßig super für die Bundesregierung und die Firma.
+
+00:46:14.113 --> 00:46:21.333
+<v Andre Meister>Deswegen gab es jetzt vor ein paar Wochen Anhörungen im Innenausschuss, wo das Parlament,
+
+00:46:21.613 --> 00:46:24.373
+<v Andre Meister>die Legislative kontrollierte ja die Regierung, die Exekutive,
+
+00:46:24.533 --> 00:46:28.553
+<v Andre Meister>wo die sich mal wieder erzählen lassen wollten, was ist denn der Sachstand,
+
+00:46:28.773 --> 00:46:32.893
+<v Andre Meister>worum geht es denn beim Trojaner, was macht ihr denn so, wie oft setzt ihr das
+
+00:46:32.893 --> 00:46:35.633
+<v Andre Meister>ein, was kostet das und so weiter und so fort, von wem kauft ihr das?
+
+00:46:35.633 --> 00:46:40.013
+<v Andre Meister>Und dann hieß es auf einmal von der Regierung, oh, also von wem wir unsere Software
+
+00:46:40.013 --> 00:46:44.133
+<v Andre Meister>kaufen, das können wir überhaupt nicht sagen, denn wenn das bekannt wird,
+
+00:46:44.233 --> 00:46:47.053
+<v Andre Meister>dann kündigen die Firmen ihre Verträge.
+
+00:46:47.193 --> 00:46:50.373
+<v Andre Meister>Die wollen nicht, dass bekannt wird, dass sie mit der Bundesregierung zusammenarbeiten.
+
+00:46:51.193 --> 00:46:55.713
+<v Andre Meister>Das ist krass, das war für uns ziemlich überraschend, denn ich meine,
+
+00:46:55.833 --> 00:46:58.913
+<v Andre Meister>die originale Meldung, dass sie Fynn Fischer kaufen, kam zwar auch aus einem
+
+00:46:58.913 --> 00:47:02.533
+<v Andre Meister>geleakten Dokument bei uns, aber wir haben ja dann auch den Vertrag freigeklagt
+
+00:47:02.533 --> 00:47:05.053
+<v Andre Meister>und so, den die mit Fynn Fischer hatten.
+
+00:47:05.053 --> 00:47:09.693
+<v Andre Meister>Also das war jetzt kein Staatsgeheimnis, sie ist ja jetzt irgendwie so geheim,
+
+00:47:09.693 --> 00:47:12.493
+<v Andre Meister>dass sie das nicht mal geheim oder streng geheim einstufen und irgendwie eine
+
+00:47:12.493 --> 00:47:13.693
+<v Andre Meister>Geheimschutzstelle versenken,
+
+00:47:13.793 --> 00:47:19.153
+<v Andre Meister>sondern das wird dem Parlament gar nicht gesagt, weil angeblich der Bestand
+
+00:47:19.153 --> 00:47:23.253
+<v Andre Meister>der Bundesrepublik dann gleich gefährdet wäre, wenn diese Firmen bekannt werden
+
+00:47:23.253 --> 00:47:26.073
+<v Andre Meister>und dann ihre Trojaner nicht mehr ans BKA liefern könnten.
+
+00:47:26.073 --> 00:47:32.293
+<v Andre Meister>Das ist schon eine krasse Nummer, wo eben auch Abgeordnete ziemlich pisst sind
+
+00:47:32.293 --> 00:47:36.193
+<v Andre Meister>und gemeint, also so eine Informationspolitik geht gar nicht,
+
+00:47:36.333 --> 00:47:42.073
+<v Andre Meister>das Parlament kontrolliert eben die Regierung und so einfach wollen sie die dann nicht rauslassen.
+
+00:47:42.073 --> 00:47:45.633
+<v Andre Meister>Die FDP und die Grünen drohen auch mit Klage, die Prüfung mit Klage,
+
+00:47:45.673 --> 00:47:49.133
+<v Andre Meister>wenn die Bundesregierung diese Antworten nicht rausrückt.
+
+00:47:49.173 --> 00:47:52.773
+<v Andre Meister>Aber die Antwort, die irgendwie vom BKA und vom Innenministerium ist,
+
+00:47:52.893 --> 00:47:56.073
+<v Andre Meister>ja haben sie doch Verständnis, es gibt da nicht so viele Anbieter auf dem Markt,
+
+00:47:56.173 --> 00:48:01.073
+<v Andre Meister>es gibt da nur eine Handvoll und wenn wir die verprellen, dann haben wir gar keine mehr.
+
+00:48:02.893 --> 00:48:08.453
+<v Andre Meister>Bitte, bitte vertraut uns doch einfach. Einfach. Doch, das wirklich sagen die genau so.
+
+00:48:08.633 --> 00:48:12.273
+<v Andre Meister>Also habe ja die Protokolle von der Innenausschusssitzung veröffentlicht.
+
+00:48:12.273 --> 00:48:13.373
+<v Andre Meister>Bitte vertraut uns doch.
+
+00:48:13.873 --> 00:48:17.633
+<v Andre Meister>Wenn wir keinen Trojaner haben, dann ist Sodom und Gomorra. Und um einen zu
+
+00:48:17.633 --> 00:48:19.893
+<v Andre Meister>haben, dürfen wir euch halt nicht sagen, von wem.
+
+00:48:20.933 --> 00:48:24.173
+<v Andre Meister>Die sagen auch, im Übrigen könnt ihr ja selber googeln, so viele Firmen gibt es nicht.
+
+00:48:24.853 --> 00:48:28.193
+<v Andre Meister>Das sagen die den Abgeordneten auch so. Ja, dann guckt doch einfach mal,
+
+00:48:28.233 --> 00:48:29.233
+<v Andre Meister>was es da draußen so gibt.
+
+00:48:29.333 --> 00:48:33.013
+<v Andre Meister>Und wahrscheinlich sind wir in Gesprächen mit denen, ob wir das nutzen könnten oder nicht.
+
+00:48:33.013 --> 00:48:39.093
+<v Linus Neumann>Ich halte das für eine Schutzbehauptung, um nicht zu sagen eine Lüge,
+
+00:48:39.213 --> 00:48:44.953
+<v Linus Neumann>dass diese Unternehmen sich irgendwie, dass die darunter leiden würden,
+
+00:48:45.093 --> 00:48:46.533
+<v Linus Neumann>dass sie mit Deutschland Geschäfte machen.
+
+00:48:46.533 --> 00:48:54.933
+<v Linus Neumann>Wenn du irgendwie dieses Ding nach in alle irgendwie zweifelhaften Regime dieser Erde exportierst,
+
+00:48:54.953 --> 00:48:59.373
+<v Linus Neumann>dann wirst du, wenn die Bundesrepublik Deutschland mit ihrem verbleibenden guten
+
+00:48:59.373 --> 00:49:02.933
+<v Linus Neumann>Ruf dein Kunde ist, darunter nicht eintreten.
+
+00:49:03.741 --> 00:49:09.501
+<v Linus Neumann>Nicht mehr negative Konsequenzen haben, als wenn, als du vorher hattest,
+
+00:49:09.501 --> 00:49:13.821
+<v Linus Neumann>als du das Zeug in die Türkei und irgendwie in den Nahen Osten verkauft hast.
+
+00:49:13.821 --> 00:49:18.361
+<v Linus Neumann>Ich glaube vielmehr, dass die Bundesregierung
+
+00:49:18.361 --> 00:49:22.501
+<v Linus Neumann>sich hier schämt für ihre Zulieferer und deren Kundenstamm.
+
+00:49:22.581 --> 00:49:27.841
+<v Linus Neumann>Dass nämlich die Bundesregierung nicht sagen möchte, ja hier von führenden Diktatoren
+
+00:49:27.841 --> 00:49:33.341
+<v Linus Neumann>empfohlen haben wir uns für folgendes Produkt aus dem Hause Gamma entschieden,
+
+00:49:33.701 --> 00:49:40.421
+<v Linus Neumann>mit dem ja auch schon irgendwie in der Türkei die Oppositionellen so gut unter
+
+00:49:40.421 --> 00:49:41.601
+<v Linus Neumann>Kontrolle gebracht wurden.
+
+00:49:41.601 --> 00:49:43.761
+<v Linus Neumann>Rhein, Ägypten, Rhein, Ägypten.
+
+00:49:46.501 --> 00:49:51.001
+<v Linus Neumann>Wahnsinn eigentlich. Und noch dazu,
+
+00:49:51.141 --> 00:49:57.281
+<v Linus Neumann>ich meine die Bundesregierung verheimlicht nicht die Tätigkeiten von irgendwie
+
+00:49:57.281 --> 00:50:01.781
+<v Linus Neumann>so traditionsreichen Familienunternehmen wie Krauss-Maffei Wegmann,
+
+00:50:02.001 --> 00:50:08.481
+<v Linus Neumann>Rheinmetall, Heckler & Koch, die irgendwie, weiß nicht wie viel Prozent der
+
+00:50:08.481 --> 00:50:13.721
+<v Linus Neumann>gewaltsamen Tode auf diesem Planeten verantworten durch ihre Produkte.
+
+00:50:14.121 --> 00:50:19.701
+<v Linus Neumann>Da sagt auch keiner, versteht doch bitte, wenn wir euch sagen,
+
+00:50:19.861 --> 00:50:23.841
+<v Linus Neumann>woher wir diese Leopard 2 haben, dann bauen die den nicht mehr.
+
+00:50:23.841 --> 00:50:25.341
+<v Linus Neumann>Ja, wahrscheinlich nicht.
+
+00:50:25.861 --> 00:50:30.521
+<v Linus Neumann>Wahrscheinlich werden die sagen, oh ne, wir haben das ja immer nur geheim gemacht
+
+00:50:30.521 --> 00:50:33.541
+<v Linus Neumann>und jetzt sind wir verbrannt. Jetzt wisst ihr, dass wir heimlich hier diese
+
+00:50:33.541 --> 00:50:35.881
+<v Linus Neumann>Panzer für euch gebaut haben. Das ist doch totaler Stuss.
+
+00:50:38.090 --> 00:50:41.890
+<v Andre Meister>Das sehe ich ähnlich. Ich glaube auch, nicht nur die Bundesregierung hat Angst
+
+00:50:41.890 --> 00:50:48.090
+<v Andre Meister>vor der Öffentlichkeit, wenn schwarz auf weiß nachgewiesen ist,
+
+00:50:48.170 --> 00:50:52.410
+<v Andre Meister>dass sie Produkte kaufen, die auch irgendwie Schurkenstaaten auf der ganzen Welt einsetzen.
+
+00:50:52.710 --> 00:50:58.510
+<v Andre Meister>Sondern ich glaube auch, dass die Firmen Angst vor der schlechten Presse haben,
+
+00:50:58.690 --> 00:51:04.670
+<v Andre Meister>die die kritische Medienöffentlichkeit in Deutschland, gerade die Netzöffentlichkeit so hat.
+
+00:51:04.670 --> 00:51:07.890
+<v Andre Meister>Und wir haben hier nun mal relativ viel Bums in der öffentlichen Debatte,
+
+00:51:08.050 --> 00:51:09.210
+<v Andre Meister>in anderen Ländern nicht so.
+
+00:51:10.430 --> 00:51:17.410
+<v Andre Meister>Und wie gesagt, das Digitask, nach dem CCC-Ding sind die pleite gegangen.
+
+00:51:17.550 --> 00:51:22.430
+<v Andre Meister>Die wurden jetzt die Reste von Rode und Schwarz gekauft, die übrigens auch höchstwahrscheinlich,
+
+00:51:22.970 --> 00:51:28.490
+<v Andre Meister>also von Epoch, so eine Leipziger Bude für die Packet-Inspection.
+
+00:51:28.690 --> 00:51:32.710
+<v Andre Meister>Ich glaube, ich habe die Theorie, die wollen einen neuen Staatstrojaner entwickeln
+
+00:51:32.710 --> 00:51:34.010
+<v Andre Meister>oder den alten weiterentwickeln.
+
+00:51:34.890 --> 00:51:41.890
+<v Andre Meister>Ganz rein zufällig ist von der CITES, der Hackerbehörde, irgendwie jetzt der
+
+00:51:41.890 --> 00:51:47.810
+<v Andre Meister>Abteilungsleiter für die Trojaner-Abteilung steht fest und der kommt von Rode und Schwarz.
+
+00:51:48.570 --> 00:51:51.550
+<v Andre Meister>Können wir uns auch nochmal genauer angucken. Und ich glaube einfach,
+
+00:51:51.650 --> 00:51:56.430
+<v Andre Meister>die Firmen haben bisschen Schiss vor dieser kritischen Öffentlichkeit,
+
+00:51:56.430 --> 00:52:00.410
+<v Andre Meister>vor diesem Auge der Öffentlichkeit an die Öffentlichkeit, an die wir sie zerren werden.
+
+00:52:00.870 --> 00:52:04.130
+<v Andre Meister>Weil wir hier halt nachhaken und nachgucken und so.
+
+00:52:04.670 --> 00:52:08.990
+<v Andre Meister>Und dann eben, wenn der CCC irgendwann so ein Sample von Finn Fischer oder was
+
+00:52:08.990 --> 00:52:12.370
+<v Andre Meister>auch immer in die Hand guckt, ich meine, dann würde sich die Hände reiben danach.
+
+00:52:13.130 --> 00:52:16.570
+<v Andre Meister>Wir freuen uns darauf, wenn wir das haben. Ich glaube, davor haben sie Schiss.
+
+00:52:16.930 --> 00:52:21.270
+<v Andre Meister>Und das ist ein Erfolg für CCC und uns und die ganze Szene und so.
+
+00:52:22.509 --> 00:52:26.649
+<v Andre Meister>Aber die Begründung geht trotzdem nicht, selbst wenn sie es haben.
+
+00:52:27.109 --> 00:52:32.389
+<v Andre Meister>Ich meine, das Parlament, das irgendwie wir wählen, das kontrolliert die Regierung
+
+00:52:32.389 --> 00:52:34.929
+<v Andre Meister>und die Regierung kann sich nicht so rausreden von mir, sagen euch das nicht,
+
+00:52:34.969 --> 00:52:38.669
+<v Andre Meister>weil die Firmen sonst irgendwie böse werden und keine Geschäfte mehr mit uns machen.
+
+00:52:38.809 --> 00:52:42.889
+<v Andre Meister>Konstantin von Notz hat dann so flapsig gesagt, wegen Reichtum geschlossen. Ja genau.
+
+00:53:11.509 --> 00:53:16.809
+<v Linus Neumann>Und das ist halt ein Problem der Zulieferungsqualität dieses Unternehmens und
+
+00:53:16.809 --> 00:53:22.849
+<v Linus Neumann>der politischen Entscheidungen der Bundesrepublik, solche Technologien zum Einsatz zu bringen.
+
+00:53:22.969 --> 00:53:30.369
+<v Linus Neumann>Und nicht ein Problem des Namens dieses Unternehmens. Ja, und das denke ich
+
+00:53:30.369 --> 00:53:34.609
+<v Linus Neumann>auch, also selbst wenn all das wahr wäre,
+
+00:53:34.809 --> 00:53:38.229
+<v Linus Neumann>ja, und man eben sagt, oh, wenn das, wenn rauskommt, was die für eine Scheiße
+
+00:53:38.229 --> 00:53:39.749
+<v Linus Neumann>machen, das Unternehmen pleite geht,
+
+00:53:39.969 --> 00:53:43.509
+<v Linus Neumann>ja, so be it, so ist das eben, wenn du Scheiße baust als Unternehmen.
+
+00:53:43.509 --> 00:53:48.309
+<v Linus Neumann>Das kannst du ja nicht, also ich glaube auch nicht, dass sich daran etwas ändern würde.
+
+00:53:48.429 --> 00:53:51.689
+<v Linus Neumann>Ja, wenn jemand dieses Sample analysiert und feststellt, dass es irgendwie,
+
+00:53:51.889 --> 00:53:57.209
+<v Linus Neumann>was weiß ich, nicht dem Stand der Technik oder dem Stand der Grundrechte entsprechend,
+
+00:53:57.709 --> 00:54:05.649
+<v Linus Neumann>dann werden da halt Köpfe rollen und das ist völlig unerheblich dafür,
+
+00:54:05.749 --> 00:54:09.329
+<v Linus Neumann>ob öffentlich bekannt ist, wer den Schrott verbrochen hat oder nicht.
+
+00:54:10.429 --> 00:54:14.289
+<v Andre Meister>Ich glaube, das ist ein ziemlicher Erfolg für uns.
+
+00:54:14.369 --> 00:54:18.469
+<v Andre Meister>Das ist natürlich lästig, dass sowohl die Firmen als auch die Bundesregierung
+
+00:54:18.469 --> 00:54:22.309
+<v Andre Meister>mauern, aber ich glaube schon, die haben Schiss vor der Öffentlichkeit.
+
+00:54:22.309 --> 00:54:27.509
+<v Andre Meister>Aber mittlerweile ist wirklich jedes Dokument und jede Sitzung,
+
+00:54:27.509 --> 00:54:30.289
+<v Andre Meister>in der es um den Trojaner geht, standardmäßig eingestuft.
+
+00:54:30.369 --> 00:54:33.129
+<v Andre Meister>Also da passiert überhaupt nichts mehr öffentlich, das ist sofort irgendwie
+
+00:54:33.129 --> 00:54:36.509
+<v Andre Meister>Stempel und wenn es nur NFD ist, was irgendwie die niedrigste Stufe ist,
+
+00:54:36.569 --> 00:54:39.589
+<v Andre Meister>aber das heißt zumindest, das darf theoretisch nicht öffentlich werden und das
+
+00:54:39.589 --> 00:54:43.889
+<v Andre Meister>muss dann irgendwie erst über einen Leak einen Weg zu uns finden, ehe das bekannt wird.
+
+00:54:43.889 --> 00:54:49.249
+<v Andre Meister>Die wollen doch nicht mal sagen, wie viele laufende Strafverfahren mit oder
+
+00:54:49.249 --> 00:54:53.369
+<v Andre Meister>auch Gefahrenabwehrverfahren mit Staatstrojaner einsetzen sie haben,
+
+00:54:53.469 --> 00:54:57.669
+<v Andre Meister>weil das könnte ja irgendwie Rückschlüsse auf die Art der Verfahren und auf
+
+00:54:57.669 --> 00:55:00.729
+<v Andre Meister>die Trojaner geben und so. Das ist auch so eine obskure Ausrede.
+
+00:55:01.969 --> 00:55:07.689
+<v Andre Meister>Die Regierung und die Firmen mauern beide aus Angst vor der Öffentlichkeit.
+
+00:55:07.769 --> 00:55:10.589
+<v Andre Meister>Ich glaube, deswegen sollten wir mehr Öffentlichkeit darauf schaffen.
+
+00:55:10.589 --> 00:55:15.729
+<v Tim Pritlove>Nur für den Dienstgebrauch.
+
+00:55:19.891 --> 00:55:22.871
+<v Tim Pritlove>Ja, dann reden wir da auch weiterhin drüber.
+
+00:55:49.471 --> 00:55:54.931
+<v Linus Neumann>Ja, man sieht ja in den USA, was passiert, wenn die Politik irgendwann keine Scham mehr spielt.
+
+00:55:56.351 --> 00:55:59.911
+<v Linus Neumann>Scham ist ein wichtiger Aspekt in der Politik.
+
+00:55:59.991 --> 00:56:03.491
+<v Tim Pritlove>Ja, wobei sogar die sind nicht completely untouched. Also, dass sie jetzt irgendwie
+
+00:56:03.491 --> 00:56:07.491
+<v Tim Pritlove>auch noch aus allen Restaurants rausgeworfen werden und auf der Straße angespuckt
+
+00:56:07.491 --> 00:56:13.071
+<v Tim Pritlove>werden, das hebt nicht unbedingt die Arbeitsmoral im Weißen Haus.
+
+00:56:13.291 --> 00:56:15.051
+<v Linus Neumann>Das werden die bestimmt auch irgendwann noch verbieten.
+
+00:56:15.051 --> 00:56:20.091
+<v Tim Pritlove>Darauf kann man sitzen, ja.
+
+00:56:45.051 --> 00:56:50.831
+<v Linus Neumann>Wo ich ja Schwierigkeiten habe, eine starke Meinung zuzuhaben oder eine definitive Meinung.
+
+00:56:51.611 --> 00:56:52.291
+<v Tim Pritlove>Bundesgerichtshof.
+
+00:56:52.891 --> 00:56:56.051
+<v Linus Neumann>Bundesgerichtshof, ja. Es handelt sich um einen Rechtsstreit,
+
+00:56:56.091 --> 00:57:02.711
+<v Linus Neumann>der glaube ich inzwischen seit fünf Jahren diese Familie beschäftigt.
+
+00:57:03.751 --> 00:57:12.211
+<v Linus Neumann>Es geht um eine Familie, die eine Tochter verloren hat durch einen Todesfall im Schienenbereich.
+
+00:57:14.811 --> 00:57:18.211
+<v Linus Neumann>Und nun ist es wohl so,
+
+00:57:18.271 --> 00:57:25.691
+<v Linus Neumann>dass die Familie gesagt hat, naja, die Umstände dieses Todes sind uns irgendwie
+
+00:57:25.691 --> 00:57:32.131
+<v Linus Neumann>nicht klar und wir erhoffen uns Erkenntnisaufklärung,
+
+00:57:32.271 --> 00:57:41.311
+<v Linus Neumann>Seelenruhe in irgendeiner Form, wenn wir Zugriff auf das Facebook-Konto unserer
+
+00:57:41.311 --> 00:57:42.991
+<v Linus Neumann>verstorbenen Tochter bekommen.
+
+00:57:45.983 --> 00:57:50.123
+<v Linus Neumann>Und dann haben die gesagt, Facebook, gib uns den bitte. Und dann hat Facebook
+
+00:57:50.123 --> 00:57:59.383
+<v Linus Neumann>gesagt, nee, hier gilt das Fernmeldegeheimnis der Kommunikationspartner eurer Tochter,
+
+00:58:00.163 --> 00:58:05.143
+<v Linus Neumann>die ja hier in eine Kommunikation getreten sind, in der Annahme,
+
+00:58:05.143 --> 00:58:07.583
+<v Linus Neumann>dass sie unter dem Fernmeldegeheimnis stattfindet.
+
+00:58:07.603 --> 00:58:12.723
+<v Linus Neumann>Dieses Fernmeldegeheimnis gilt für diese Person weiterhin und deswegen verweigern
+
+00:58:12.723 --> 00:58:16.043
+<v Linus Neumann>wir die, Das Zugänglichmachen der Daten.
+
+00:58:18.043 --> 00:58:23.883
+<v Linus Neumann>Das ging durch mehrere Instanzen. Das Berliner Kammergericht hatte diese Sperre
+
+00:58:23.883 --> 00:58:28.703
+<v Linus Neumann>unter Verweis auf das Fernmeldegeheimnis noch bestätigt.
+
+00:58:28.703 --> 00:58:34.623
+<v Linus Neumann>Und nun war dieser Fall eben vor dem Bundesgerichtshof.
+
+00:58:37.343 --> 00:58:42.503
+<v Linus Neumann>Facebook hat eben argumentiert, hier sind andere Personen, deren Persönlichkeits-
+
+00:58:42.503 --> 00:58:44.003
+<v Linus Neumann>und Fernmeldegeheimnisse werden verletzt.
+
+00:58:44.063 --> 00:58:53.703
+<v Linus Neumann>Der BGH hat aber dann argumentiert, naja, auch Briefe und Tagebücher würden
+
+00:58:53.703 --> 00:58:58.963
+<v Linus Neumann>ja an die Erben übergehen und deswegen besteht kein Grund,
+
+00:58:59.223 --> 00:59:01.943
+<v Linus Neumann>digitale Inhalte anders zu behandeln.
+
+00:59:01.943 --> 00:59:09.183
+<v Linus Neumann>Die Tochter hatte mit Facebook einen Nutzungsvertrag geschlossen und die Eltern
+
+00:59:09.183 --> 00:59:13.803
+<v Linus Neumann>sind eben als Erben in diesen Vertrag eingetreten.
+
+00:59:14.963 --> 00:59:22.583
+<v Linus Neumann>Das heißt, nach Auffassung dieses Urteiles ist also davon aktueller Rechtsstand,
+
+00:59:22.843 --> 00:59:28.443
+<v Linus Neumann>dass ihr im Todesfall euren Facebook-Account mitvererbt.
+
+00:59:28.443 --> 00:59:37.263
+<v Linus Neumann>Und damit eben das Recht der Erben einhergeht, dort auch Einsicht zu erhalten.
+
+00:59:39.675 --> 00:59:45.355
+<v Linus Neumann>Ich finde das immer noch nicht wirklich optimal, weil mich jetzt zum Beispiel,
+
+00:59:45.615 --> 00:59:53.795
+<v Linus Neumann>also die Eltern verstoßen ja gegen die AGBs, wenn sie diesen Account wirklich
+
+00:59:53.795 --> 00:59:57.515
+<v Linus Neumann>betreiben, weil der Account muss ja unter dem richtigen eigenen Namen betrieben werden.
+
+00:59:57.555 --> 01:00:00.495
+<v Tim Pritlove>Also geht es darum, dass der betrieben wird oder geht es nur darum,
+
+01:00:00.575 --> 01:00:04.795
+<v Tim Pritlove>dass er in dem Zustand, in dem er jetzt gerade ist, so einsehbar ist?
+
+01:00:04.795 --> 01:00:10.355
+<v Linus Neumann>In diesem Fall geht es um die Einsehbarkeit der Daten dieses Accounts.
+
+01:00:10.395 --> 01:00:16.815
+<v Andre Meister>Also noch zum Hintergrund, Facebook hatte nach dem Tod dieses Mädchens,
+
+01:00:16.815 --> 01:00:22.275
+<v Andre Meister>kann man es nennen, die war glaube ich 16, den Account in den Gedenkmodus geschaltet.
+
+01:00:22.795 --> 01:00:26.095
+<v Andre Meister>Das ist so ein Feature, das sie haben für Accounts von Leuten,
+
+01:00:26.155 --> 01:00:31.095
+<v Andre Meister>die gestorben sind. und die Eltern hatten aber, ich glaube aus Aschsprache mit
+
+01:00:31.095 --> 01:00:34.495
+<v Andre Meister>ihrer Tochter, das Passwort, die Logindaten.
+
+01:00:34.695 --> 01:00:38.655
+<v Andre Meister>Und sie kamen nur mit den Logindaten nicht mehr rein, weil der Account eben
+
+01:00:38.655 --> 01:00:41.255
+<v Andre Meister>nicht mehr aktiv war, sondern im Gedenkzustand war.
+
+01:00:42.035 --> 01:00:46.875
+<v Andre Meister>Und die Eltern wollten jetzt aber nochmal in die Facebook-Messages nachgucken,
+
+01:00:46.995 --> 01:00:52.355
+<v Andre Meister>weil das Mädchen von der Uhr an überfahren wurde und die wollten irgendwie Gewissheit,
+
+01:00:52.455 --> 01:00:57.295
+<v Andre Meister>ob das irgendwie vielleicht auch ein Suizid hätte gewesen sein können oder so.
+
+01:00:57.295 --> 01:01:00.435
+<v Andre Meister>Und Facebook hat gemeint, nee, weil der im Gedenkzustand ist,
+
+01:01:00.535 --> 01:01:04.115
+<v Andre Meister>lassen wir euch da nicht ran, sonst hättet ihr euch da einloggen können.
+
+01:01:04.975 --> 01:01:11.755
+<v Tim Pritlove>Weiß jemand von euch, warum war der überhaupt, also wie ist der in diesen Gedenkzustand gekommen?
+
+01:01:12.295 --> 01:01:16.635
+<v Andre Meister>Das ist eine gute Frage, die sich mehreren Leuten stellt und das mir nicht so ganz klar ist.
+
+01:01:17.915 --> 01:01:20.415
+<v Andre Meister>Normalerweise muss man eine Sterbeurkunde hinschicken oder so.
+
+01:01:21.379 --> 01:01:23.919
+<v Andre Meister>Aber vielleicht auch wegen, ich weiß es nicht ganz genau, nee.
+
+01:01:24.059 --> 01:01:29.919
+<v Andre Meister>Das ist eine gute, zumindest mir nicht geklärte Frage.
+
+01:01:31.319 --> 01:01:35.299
+<v Tim Pritlove>Ja, weil ich meine, da müssen natürlich auch schon bestimmte Hürden übernommen
+
+01:01:35.299 --> 01:01:39.339
+<v Tim Pritlove>werden, sonst könntest du ja hier jeden einfach mal sterben lassen per E-Mail
+
+01:01:39.339 --> 01:01:43.659
+<v Tim Pritlove>und das kann ja nicht sein, auch so eine Sterbeurkunde ist dann auch schnell mal gefälscht.
+
+01:01:43.659 --> 01:01:48.499
+<v Tim Pritlove>Also der Prozess würde mich mal sehr interessieren und den müssten ja dann eigentlich
+
+01:01:48.499 --> 01:01:51.519
+<v Tim Pritlove>die Eltern auch angestoßen haben.
+
+01:01:51.739 --> 01:01:54.279
+<v Tim Pritlove>Also das ist das, was mich jetzt so ein bisschen verwirrt.
+
+01:01:54.279 --> 01:01:57.719
+<v Andre Meister>Das ist mir auch nicht ganz klar. Jedenfalls, ich meine, ich habe kein Facebook-Account,
+
+01:01:57.739 --> 01:01:58.599
+<v Andre Meister>aber soweit ich das weiß,
+
+01:01:58.719 --> 01:02:03.119
+<v Andre Meister>kann man in diesem Gedenkzustand dann diesen Account nicht mehr betreiben und
+
+01:02:03.119 --> 01:02:07.039
+<v Andre Meister>nichts Neues mehr posten, sondern höchstens irgendwie noch ein letztes Mal das
+
+01:02:07.039 --> 01:02:11.979
+<v Andre Meister>Profilbild ändern oder so und eben in ein paar der jüngeren Nachrichten nachlesen.
+
+01:02:12.019 --> 01:02:14.019
+<v Andre Meister>Und das war das, was die Eltern wollten.
+
+01:02:14.379 --> 01:02:17.599
+<v Andre Meister>Nicht jetzt im Namen der Tochter diesen Account weiter füttern.
+
+01:02:17.599 --> 01:02:22.619
+<v Tim Pritlove>Also haben sie sich ihn unter Umständen selbst weggenommen, aber der Zeitpunkt,
+
+01:02:22.699 --> 01:02:25.919
+<v Tim Pritlove>ich meine, dann müssten sie ja dann gleich am Anfang auch schon dieses Interesse gehabt haben.
+
+01:02:26.179 --> 01:02:28.299
+<v Tim Pritlove>Also man weiß es nicht, in dem Zustand.
+
+01:02:28.359 --> 01:02:31.839
+<v Andre Meister>Man hat ja auch erst mal ein paar Wochen mit Bewältigung und anderen Verfahrensgraben,
+
+01:02:31.859 --> 01:02:35.719
+<v Andre Meister>Formalitäten zu tun und so, bis sie irgendwann auf diesen Account kommen,
+
+01:02:35.839 --> 01:02:39.339
+<v Andre Meister>war es dann soweit, vielleicht hat irgendwie genug von den Freunden das gemeldet
+
+01:02:39.339 --> 01:02:41.919
+<v Andre Meister>oder so, bei Facebook, keine Ahnung, wie das passiert ist.
+
+01:02:41.919 --> 01:02:49.199
+<v Linus Neumann>Also in dieser Zustand-Gedenkmodus heißt in Englisch memorialized und es gibt
+
+01:02:49.199 --> 01:02:51.279
+<v Linus Neumann>eine Facebook-Hilfeseite.
+
+01:02:51.379 --> 01:02:53.899
+<v Linus Neumann>My account is memorialized.
+
+01:02:54.019 --> 01:02:58.939
+<v Linus Neumann>If you believe we've mistakenly memorialized your account, please let us know.
+
+01:02:59.099 --> 01:03:04.159
+<v Linus Neumann>Also note that if you're not the owner of this account and the actual owner
+
+01:03:04.159 --> 01:03:09.319
+<v Linus Neumann>has passed away, we can't provide login information or reactivate this account
+
+01:03:09.319 --> 01:03:10.739
+<v Linus Neumann>under any circumstances.
+
+01:03:10.739 --> 01:03:15.559
+<v Linus Neumann>Also das ist spezifisch offenbar diese Seite, über die hier diskutiert wurde,
+
+01:03:15.599 --> 01:03:17.459
+<v Linus Neumann>beziehungsweise du hast die deutsche Variante davon.
+
+01:03:19.137 --> 01:03:23.917
+<v Linus Neumann>Ja, also und man findet auch immer wieder Leute, die im Internet sich darüber
+
+01:03:23.917 --> 01:03:31.617
+<v Linus Neumann>beklagen, dass sie entgegen ihrer Realitätsauffassung in diesen Gedenkzustand
+
+01:03:31.617 --> 01:03:33.937
+<v Linus Neumann>versetzt wurden und sich freuen würden,
+
+01:03:34.057 --> 01:03:36.297
+<v Linus Neumann>da wieder rauszukommen. Und für die ist eben diese Seite.
+
+01:03:36.477 --> 01:03:43.977
+<v Linus Neumann>Da kann man sich dann eine E-Mail senden lassen und muss ein Foto hochladen, wo man noch lebt.
+
+01:03:45.597 --> 01:03:47.217
+<v Linus Neumann>Mit einem Fisch über dem Kopf.
+
+01:03:48.377 --> 01:03:55.257
+<v Andre Meister>Genau, und der BGH hat jetzt die Antwort, wie ich finde, relativ überlegt gegeben,
+
+01:03:55.557 --> 01:04:00.357
+<v Andre Meister>auch wenn, natürlich, das ist ein echt komplizierter Fall, aber er sagt,
+
+01:04:00.437 --> 01:04:05.957
+<v Andre Meister>der Datenschutz, also der Schutz von Briefpost- und Fernmeldegeheimnis mit den
+
+01:04:05.957 --> 01:04:13.037
+<v Andre Meister>Kommunikationspartnern dieses Mädchens muss in diesem Fall hinter dem Anrecht
+
+01:04:13.037 --> 01:04:17.697
+<v Andre Meister>der Eltern auf den Account hinterherstehen, Denn,
+
+01:04:17.797 --> 01:04:20.937
+<v Andre Meister>und hier wird es ziemlich interessant,
+
+01:04:21.157 --> 01:04:24.737
+<v Andre Meister>die Kommunikationspartner haben ja...
+
+01:04:26.097 --> 01:04:31.677
+<v Andre Meister>Nicht nur mit dieser natürlichen Person kommuniziert, sondern mit diesem Facebook-Account.
+
+01:04:31.797 --> 01:04:34.817
+<v Andre Meister>Und der Facebook-Account ist meistens identisch mit dieser Person,
+
+01:04:35.097 --> 01:04:40.817
+<v Andre Meister>aber auch zu Lebzeiten kann eben sein, dass das Passwort abhandengekommen ist
+
+01:04:40.817 --> 01:04:44.037
+<v Andre Meister>und dann quasi andere Leute auch diese Nachrichten lesen.
+
+01:04:44.137 --> 01:04:48.497
+<v Andre Meister>Also man hat kein, wie steht es hier, es besteht aber kein schutzwürdiges Vertrauen
+
+01:04:48.497 --> 01:04:53.177
+<v Andre Meister>darauf, dass nur der Kontoinhaber und nicht Dritte von dem Kontoinhalt Kenntnis erlangen.
+
+01:04:54.177 --> 01:04:59.357
+<v Andre Meister>Und das heißt jetzt nicht generell, dass das eine Freigabe ist,
+
+01:04:59.957 --> 01:05:06.117
+<v Andre Meister>sämtliche Nachrichten auch an Externe rauszugeben, aber eben im Fall der Nachlassverwalter
+
+01:05:06.117 --> 01:05:10.457
+<v Andre Meister>der Erben, der Eltern dieser Tochter führt das dazu,
+
+01:05:10.657 --> 01:05:16.897
+<v Andre Meister>dass eben Erben, die auch Briefe und Tagebucheinträge lesen dürfen,
+
+01:05:16.977 --> 01:05:20.617
+<v Andre Meister>mit dieser Begründung auch die Facebook-Nachrichten lesen dürfen.
+
+01:05:21.137 --> 01:05:23.697
+<v Linus Neumann>Also da bin ich ja überhaupt nicht für.
+
+01:05:24.557 --> 01:05:28.357
+<v Andre Meister>Wenn Facebook hat, würde jetzt entgegnen, dass sie dafür die Möglichkeit haben,
+
+01:05:28.477 --> 01:05:32.017
+<v Andre Meister>dass du in deinem Account selbst bestimmen kannst, was passiert, wenn du tot bist.
+
+01:05:32.277 --> 01:05:32.837
+<v Linus Neumann>Haben sie.
+
+01:05:32.877 --> 01:05:36.457
+<v Andre Meister>Du kannst das wohl festlegen in verschiedenen Stufen. Da kommt niemand rein
+
+01:05:36.457 --> 01:05:38.417
+<v Andre Meister>oder das wird gelöscht oder irgend sowas.
+
+01:05:38.597 --> 01:05:41.397
+<v Andre Meister>Ich kenne mich damit nicht aus. Ich habe nicht nur kein Facebook Account,
+
+01:05:41.597 --> 01:05:43.817
+<v Andre Meister>sondern ich würde auch nicht mal anfangen wollen zu versuchen,
+
+01:05:43.917 --> 01:05:47.017
+<v Andre Meister>diese ganzen Optionen und Einstellungen in diesem Facebook verstehen zu wollen.
+
+01:05:47.157 --> 01:05:52.357
+<v Andre Meister>Wie ich höre, sind die sehr verzweigt. Aber es gibt da wohl irgendwo in Formular
+
+01:05:52.357 --> 01:05:56.537
+<v Andre Meister>B23 in Untergruppe auch Häkchen, was passiert,
+
+01:05:56.717 --> 01:06:02.377
+<v Andre Meister>wenn du stirbst und Facebook das mitbekommt und wer dann welche Dinge von dir bekommt oder so.
+
+01:06:02.497 --> 01:06:07.177
+<v Andre Meister>Und ich nehme an, nach diesem Urteil wird das Facebook jetzt nochmal genauer machen.
+
+01:06:07.177 --> 01:06:11.797
+<v Andre Meister>Das Problem ist nur, dass 99% aller Menschen sich nicht damit beschäftigen und
+
+01:06:11.797 --> 01:06:15.177
+<v Andre Meister>das vorher nie so wirklich einrichten, sondern man ist halt irgendwann,
+
+01:06:15.397 --> 01:06:20.417
+<v Andre Meister>stirbt man ehemals erwartet und dafür plant und dann dafür sind halt die Fälle
+
+01:06:20.417 --> 01:06:22.837
+<v Andre Meister>von was passiert, wenn jemand nicht dafür vorgesorgt hat.
+
+01:06:22.837 --> 01:06:27.857
+<v Linus Neumann>Vor allem, also ich denke,
+
+01:06:27.957 --> 01:06:34.377
+<v Linus Neumann>es wäre auf jeden Fall notwendig, dass solche dann doch sehr fundamentalen Fragen
+
+01:06:34.377 --> 01:06:38.997
+<v Linus Neumann>nicht durch BGH-Urteile geklärt werden, sondern …,
+
+01:06:40.051 --> 01:06:44.211
+<v Linus Neumann>Dass wir hier eine ernsthafte gesetzliche Regelung zu haben,
+
+01:06:44.351 --> 01:06:51.491
+<v Linus Neumann>wo einfach drinsteht, was weiß ich, wenn du, was passiert im Erbrecht mit Daten.
+
+01:06:53.451 --> 01:06:58.851
+<v Linus Neumann>Das könnte sein, dass man Telemediendienste verpflichtet, dafür Lösungen anzubieten,
+
+01:06:58.891 --> 01:07:01.791
+<v Linus Neumann>dass man das irgendwie vorher sagt.
+
+01:07:01.791 --> 01:07:05.491
+<v Linus Neumann>Es gibt natürlich auch andere Fragen, die das digitale Erbe betreffen,
+
+01:07:05.491 --> 01:07:10.611
+<v Linus Neumann>zum Beispiel wie E-Books oder MP3s, die man gekauft hat, die an irgendwelche
+
+01:07:10.611 --> 01:07:11.771
+<v Linus Neumann>Accounts gebunden sind,
+
+01:07:11.971 --> 01:07:17.471
+<v Linus Neumann>wo ja dann die Betreiber natürlich auch eigentlich die Ansicht vertreten,
+
+01:07:17.511 --> 01:07:20.911
+<v Linus Neumann>nee, nix, das wird nicht vererbt, der Account ist jetzt zu, die Person gibt
+
+01:07:20.911 --> 01:07:24.311
+<v Linus Neumann>es nicht mehr und fertig, die nimmt ihre E-Books mit ins Grab.
+
+01:07:25.211 --> 01:07:32.391
+<v Linus Neumann>Während man natürlich auch sagen könnte, nee, wieso, hier, das Kapital bei Amazon,
+
+01:07:32.531 --> 01:07:37.331
+<v Linus Neumann>das haben wir bezahlt und dieser, das möchten wir jetzt lesen,
+
+01:07:37.331 --> 01:07:39.811
+<v Linus Neumann>das ist ja immerhin die Ausgabe von meinem Vater. Vater.
+
+01:07:41.451 --> 01:07:48.091
+<v Linus Neumann>Keine Ahnung. Da sind Sachen zu klären und das ist irgendwie so ein philosophisches
+
+01:07:48.091 --> 01:07:51.931
+<v Linus Neumann>Thema, was irgendwie dann auch leider solche tragischen Fälle braucht,
+
+01:07:52.091 --> 01:07:58.191
+<v Linus Neumann>bis es mal da wirklich eben ein gesteigertes Interesse von Personen dran gibt.
+
+01:07:58.191 --> 01:08:05.211
+<v Linus Neumann>Ich persönlich habe schon, glaube ich, ein Konzept dafür, welche Daten ich mit
+
+01:08:05.211 --> 01:08:06.871
+<v Linus Neumann>ins Grab nehmen möchte und welche nicht.
+
+01:08:07.851 --> 01:08:15.351
+<v Linus Neumann>Und es ist natürlich wichtig, dafür im Moment eben privat vorzusorgen.
+
+01:08:15.751 --> 01:08:18.151
+<v Linus Neumann>Das ist ja bei allen anderen Vorsorgen auch so.
+
+01:08:18.231 --> 01:08:19.751
+<v Tim Pritlove>Ich will da eine Trojaner-Sammlung haben.
+
+01:08:20.411 --> 01:08:24.431
+<v Linus Neumann>Ach, die kannst du doch dann auch nur noch ins Museum tun. Außerdem,
+
+01:08:24.671 --> 01:08:25.891
+<v Linus Neumann>die habe ich ja verteilt.
+
+01:08:26.511 --> 01:08:28.011
+<v Tim Pritlove>Ins Linus-Talman-Musik.
+
+01:08:28.111 --> 01:08:31.751
+<v Andre Meister>Hast du das Konzept in deinem Kopf oder hast du das irgendwo notiert?
+
+01:08:32.051 --> 01:08:37.371
+<v Linus Neumann>Das Konzept manifestiert sich in der Form, wer welche Kryptokies kriegt.
+
+01:08:37.531 --> 01:08:37.971
+<v Andre Meister>Okay.
+
+01:08:38.511 --> 01:08:43.051
+<v Tim Pritlove>Der klickt hier auch einmal am Tag auf die Totmann-Taste. Und wenn er das...
+
+01:08:46.629 --> 01:08:47.549
+<v Linus Neumann>Ganz normal.
+
+01:08:47.969 --> 01:08:50.609
+<v Andre Meister>Was passiert, wenn du im Urlaub bist und er hier nicht mehr reinkommt?
+
+01:08:50.849 --> 01:08:55.169
+<v Tim Pritlove>Also kleiner Nachtrag, ich habe jetzt hier etwas hilflos in diesem Hilfe-Bereich
+
+01:08:55.169 --> 01:08:57.209
+<v Tim Pritlove>von Facebook rumgeklickt, wenn ich das richtig verstehe,
+
+01:08:57.309 --> 01:09:03.429
+<v Tim Pritlove>man kann wohl einen sogenannten Nachlasskontakt bestimmen, selbst wenn man das
+
+01:09:03.429 --> 01:09:06.929
+<v Tim Pritlove>gemacht hat, dann ist sozusagen im eigenen Todesfall klar, wer diesen,
+
+01:09:08.489 --> 01:09:14.649
+<v Tim Pritlove>Account dann quasi im Gedenkzustand kontrollieren kann, mit den den entsprechenden
+
+01:09:14.649 --> 01:09:16.789
+<v Tim Pritlove>Einschränkungen, die du schon genannt hast, also Profilbild,
+
+01:09:17.029 --> 01:09:20.609
+<v Tim Pritlove>irgendwie neue Freundschaftsanfragen, Handhaben etc., so kleinere Sachen,
+
+01:09:21.309 --> 01:09:23.109
+<v Tim Pritlove>aber eben nicht mehr viel und schon gar nichts ändern.
+
+01:09:24.749 --> 01:09:29.669
+<v Tim Pritlove>Und die Frage, wie kann denn dieser Gedenkzustand überhaupt erfolgen?
+
+01:09:29.709 --> 01:09:33.989
+<v Tim Pritlove>Da ist ja von die Rede halt so Familien oder Freunde und es gibt so ein Formular,
+
+01:09:34.009 --> 01:09:37.589
+<v Tim Pritlove>da trägst du Namen, Datum ein und optional eine Sterbeurkunde.
+
+01:09:39.869 --> 01:09:40.329
+<v Linus Neumann>Optional.
+
+01:09:41.829 --> 01:09:42.229
+<v Tim Pritlove>Also,
+
+01:09:44.689 --> 01:09:48.089
+<v Tim Pritlove>das riecht so ein bisschen danach, als ob ja irgendwie auch schnell mal Leute
+
+01:09:48.089 --> 01:09:52.029
+<v Tim Pritlove>digital versterben könnten, die vielleicht im echten Leben noch völlig herumlaufen.
+
+01:09:53.149 --> 01:09:55.689
+<v Tim Pritlove>Unklar, schwieriges Thema. Rein,
+
+01:09:57.709 --> 01:10:02.149
+<v Tim Pritlove>moralisch kann ich das hier alles nachvollziehen irgendwie, auch was die Familie da so fühlt.
+
+01:10:02.169 --> 01:10:05.509
+<v Tim Pritlove>Das ist einfach eine große Lehre, glaube ich, die man da,
+
+01:10:06.149 --> 01:10:10.389
+<v Tim Pritlove>hat, wenn man irgendwie so ein Kind verliert, vor allem in so einem jungen Alter
+
+01:10:10.389 --> 01:10:15.669
+<v Tim Pritlove>und natürlich macht man sich halt Gedanken darüber, warum ist das jetzt passiert
+
+01:10:15.669 --> 01:10:18.149
+<v Tim Pritlove>und will an jede Information kommen.
+
+01:10:20.749 --> 01:10:22.689
+<v Tim Pritlove>Also an der Stelle sind dann halt die,
+
+01:10:24.889 --> 01:10:31.549
+<v Tim Pritlove>gibt es halt verschiedene Ansprüche quasi an die entstandenen Kommunikationen
+
+01:10:31.549 --> 01:10:35.489
+<v Tim Pritlove>und Rechte müssen hier miteinander abgeglichen werden.
+
+01:10:38.289 --> 01:10:43.209
+<v Linus Neumann>Genau das ist der Punkt, warum ich argumentieren würde, es wäre besser,
+
+01:10:43.289 --> 01:10:48.289
+<v Linus Neumann>dass wirklich jetzt, dass das gesetzlich klar ist, wo jeder Mensch weiß,
+
+01:10:48.389 --> 01:10:49.649
+<v Linus Neumann>so und so ist die Rechtslage, das
+
+01:10:49.649 --> 01:10:53.089
+<v Linus Neumann>wird passieren, damit solche Fragen halt hoffentlich auch nicht aufkommen.
+
+01:10:53.749 --> 01:10:58.629
+<v Andre Meister>Zumal das dann auch bei allen Plattformen einheitlich ist, weil jetzt betrifft
+
+01:10:58.629 --> 01:11:02.409
+<v Andre Meister>dieses Urteil Facebook und vielleicht ein paar andere dieses ähnlich Verhalten.
+
+01:11:02.409 --> 01:11:05.289
+<v Tim Pritlove>Ja, bei Twitter kann ich jetzt keinen Nachlasskontakt einstellen.
+
+01:11:05.489 --> 01:11:06.789
+<v Andre Meister>Gibt es da einen Gedenkzustand?
+
+01:11:07.649 --> 01:11:08.669
+<v Tim Pritlove>Wär mir auch neu.
+
+01:11:09.609 --> 01:11:18.789
+<v Linus Neumann>Nee, gibt's nicht, weil regelmäßig dann auch alte Accounts von Verstorbenen aufgemacht werden.
+
+01:11:20.224 --> 01:11:23.564
+<v Linus Neumann>Zum Beispiel Schiermachers Account ist auch schon wieder länger her.
+
+01:11:24.024 --> 01:11:28.764
+<v Linus Neumann>Hat Frank Schiermacher auf einmal irgendwie Spam scheiße getwittert,
+
+01:11:28.764 --> 01:11:30.244
+<v Linus Neumann>weil den halt irgendeiner aufgemacht hatte.
+
+01:11:31.564 --> 01:11:36.044
+<v Tim Pritlove>I'm back from the dead sozusagen. Ja, da musste man dann mal bei Twitter Bescheid
+
+01:11:36.044 --> 01:11:37.084
+<v Tim Pritlove>sagen und dann haben die das,
+
+01:11:38.524 --> 01:11:43.104
+<v Tim Pritlove>auch wieder gelöscht und den Account irgendwie so den Ja, also ich meine,
+
+01:11:43.124 --> 01:11:46.824
+<v Tim Pritlove>klingt alles ganz lustig, aber so tendenziell wird natürlich das,
+
+01:11:46.924 --> 01:11:52.424
+<v Tim Pritlove>was wir so digital vorrätig haben auf all diesen Plattformen auch immer signifikanter werden.
+
+01:11:52.724 --> 01:12:00.444
+<v Linus Neumann>Ich stelle mir gerade so vor, meine Eltern sind gestorben und was hast du geerbt? Zwei Terabyte.
+
+01:12:04.524 --> 01:12:08.024
+<v Linus Neumann>Also man muss tatsächlich mal, es geht ja auch um die Geräte.
+
+01:12:09.464 --> 01:12:13.584
+<v Linus Neumann>Also primär bei mir geht es um Geräte, weil ich irgendwie keine nennenswerten Cloud-Präsenzen habe.
+
+01:12:13.584 --> 01:12:20.044
+<v Tim Pritlove>Es geht auch um Zugriff auf Verträge, Policen, Unterlagen.
+
+01:12:22.164 --> 01:12:25.564
+<v Tim Pritlove>Systeme, die irgendwie im Betrieb gehalten werden müssen, die von anderen Leuten
+
+01:12:25.564 --> 01:12:31.404
+<v Tim Pritlove>weiter administriert werden sollen genau Deine Buchhaltung, wer bekommt eine Buchhaltung?
+
+01:12:31.424 --> 01:12:34.604
+<v Tim Pritlove>Ja, ich meine, es sind alles so Sachen, wo es halt auf jeden Fall auch,
+
+01:12:34.764 --> 01:12:40.924
+<v Tim Pritlove>wo Leute davon, wo anderer Leute Leben potenziell in Gefahr gerät,
+
+01:12:40.944 --> 01:12:44.044
+<v Tim Pritlove>dass auf einmal dieser Zugriff auf diese Daten nicht mehr möglich ist,
+
+01:12:44.264 --> 01:12:47.164
+<v Tim Pritlove>also klar kann man kritisieren, dass das vorher schon von einer anderen Person
+
+01:12:47.164 --> 01:12:52.624
+<v Tim Pritlove>Aber so sind die Dinge eben, es entwickelt sich immer so und das ist sicherlich
+
+01:12:52.624 --> 01:12:55.724
+<v Tim Pritlove>ein Thema für die nächsten Jahre,
+
+01:12:55.864 --> 01:13:01.724
+<v Tim Pritlove>mal darüber nachzudenken, wie man solche Prozesse auf allen Ebenen machen kann.
+
+01:13:01.724 --> 01:13:06.404
+<v Tim Pritlove>Also allein, dass es vielleicht auch mal so eine Art strukturierten Speicher
+
+01:13:06.404 --> 01:13:07.604
+<v Tim Pritlove>gibt mit, was habe ich eigentlich.
+
+01:13:08.224 --> 01:13:14.184
+<v Tim Pritlove>Also dass quasi so mein digitales Eigentum sich auch in irgendeiner Form vererbbar
+
+01:13:14.184 --> 01:13:16.044
+<v Tim Pritlove>überhaupt niederschreiben lässt.
+
+01:13:16.044 --> 01:13:22.824
+<v Tim Pritlove>Wenn ich jetzt hier irgendwie ablebig werde, dann wisst ihr ja noch nicht mal,
+
+01:13:22.884 --> 01:13:27.424
+<v Tim Pritlove>wo hat denn der Tim überhaupt einen Account gehabt, wo liegen denn die Bitcoins
+
+01:13:27.424 --> 01:13:30.204
+<v Tim Pritlove>rum, die vererbt werden sollen etc.
+
+01:13:30.704 --> 01:13:35.724
+<v Tim Pritlove>Pp. Das ist schwierig und ich glaube, wenn ich mich selber mal abtelefonieren
+
+01:13:35.724 --> 01:13:39.884
+<v Tim Pritlove>müsste und mal durch meine ganzen Accounts durchgehen müsste,
+
+01:13:39.984 --> 01:13:44.804
+<v Tim Pritlove>um mal alles einzusammeln, was macht mich eigentlich aus und was würde ich davon jetzt.
+
+01:13:45.504 --> 01:13:50.864
+<v Tim Pritlove>An meine Kinder weiterreichen oder wem auch immer oder eben auch an die Öffentlichkeit,
+
+01:13:50.904 --> 01:13:53.944
+<v Tim Pritlove>da hätte ich doch einiges mit zu tun.
+
+01:13:54.284 --> 01:13:58.944
+<v Linus Neumann>Ja, macht euch da mal Gedanken drüber, liebe Hörerinnen und Hörer.
+
+01:13:59.584 --> 01:14:03.104
+<v Tim Pritlove>Genau, da würden mich auch mal eure Gedanken sehr zu interessieren.
+
+01:14:03.124 --> 01:14:06.424
+<v Tim Pritlove>Da gibt es sicherlich viele Aspekte, die wir jetzt auch noch nicht mal angekriegt haben.
+
+01:14:08.929 --> 01:14:11.189
+<v Linus Neumann>Wir kommen langsam in den Bereich der Kurzmeldungen.
+
+01:14:11.609 --> 01:14:15.449
+<v Tim Pritlove>Uuuuh, die populären Ecken dieses Podcasts.
+
+01:14:15.469 --> 01:14:23.049
+<v Linus Neumann>Ein Thema, was wir hier auch immer mal wieder behandelt haben, war diese Idee,
+
+01:14:23.369 --> 01:14:34.869
+<v Linus Neumann>durch die Durchsuchung von Mobilgeräten von Geflüchteten, Auskunft über deren Identität zu erlangen.
+
+01:14:34.869 --> 01:14:41.969
+<v Linus Neumann>Also Argumentation war oder ist, die geflüchtete Person kommt im,
+
+01:14:42.129 --> 01:14:49.329
+<v Linus Neumann>wie heißen die Zentren, Auffangzentrum an der Grenze an und möchte,
+
+01:14:49.509 --> 01:14:50.809
+<v Linus Neumann>wie heißen die denn nochmal?
+
+01:14:51.509 --> 01:14:54.469
+<v Andre Meister>Du meinst jetzt die neuen Transitzentren.
+
+01:14:54.529 --> 01:14:55.009
+<v Linus Neumann>Transitzentren.
+
+01:14:55.029 --> 01:14:56.869
+<v Andre Meister>Bisher kommen sie ja da ja nicht an.
+
+01:14:56.869 --> 01:15:01.749
+<v Linus Neumann>In Zukunft. Die geflüchtete Person wird im Transitzentrum gefangen gehalten
+
+01:15:01.749 --> 01:15:08.049
+<v Linus Neumann>und muss Auskunft über ihre Identität geben, hat jetzt aber dummerweise im Rahmen
+
+01:15:08.049 --> 01:15:11.049
+<v Linus Neumann>der Seenotrettung leider den Pass verloren.
+
+01:15:11.049 --> 01:15:17.129
+<v Linus Neumann>Ja, und jetzt ist die Frage, wie kann sie denn jetzt eben nachweisen,
+
+01:15:17.229 --> 01:15:19.349
+<v Linus Neumann>wer sie ist und woher sie kommt,
+
+01:15:19.509 --> 01:15:28.889
+<v Linus Neumann>weil davon abhängig der durchaus ist, die Entscheidung über ihre Aufnahmemöglichkeit
+
+01:15:28.889 --> 01:15:32.389
+<v Linus Neumann>einen Antrag auf Asyl zu stellen oder sonstiges. ist. So.
+
+01:15:34.169 --> 01:15:39.489
+<v Linus Neumann>Bisher wurde das dann gelöst darüber, dass sie mit quasi ortskundigen Menschen
+
+01:15:39.489 --> 01:15:45.409
+<v Linus Neumann>und Menschen, die kundig in der Region sind, Unterhaltungen geführt haben.
+
+01:15:45.509 --> 01:15:48.469
+<v Linus Neumann>Das heißt, da sagst du dann, ich komme aus dem und dem Land und dann kam halt
+
+01:15:48.469 --> 01:15:51.849
+<v Linus Neumann>jemand, der auch aus diesem Land ist, der deinen Akzent beurteilen konnte,
+
+01:15:52.049 --> 01:15:56.529
+<v Linus Neumann>der dir dann vielleicht ein paar Fragen dazu gestellt hat, wie das Leben sich dort gestaltet,
+
+01:15:57.689 --> 01:16:02.529
+<v Linus Neumann>um die Geschichte, die diese Person erzählt, irgendwie zu Das halte ich für
+
+01:16:02.529 --> 01:16:07.809
+<v Linus Neumann>ein durchaus sinnvolles Verfahren, das natürlich die Herausforderung hat,
+
+01:16:07.889 --> 01:16:09.309
+<v Linus Neumann>dass es nicht besonders gut skaliert
+
+01:16:09.309 --> 01:16:15.509
+<v Linus Neumann>und zu starken Verzögerungen in der Behandlung dieser Fälle führt.
+
+01:16:17.849 --> 01:16:21.129
+<v Linus Neumann>Lösungsvorschlag von, ich weiß gar nicht, ob öffentlich ist,
+
+01:16:21.169 --> 01:16:26.509
+<v Linus Neumann>wer diese Idee ursprünglich hatte, auf jeden Fall nicht direkt die Bundesregierung,
+
+01:16:27.029 --> 01:16:33.169
+<v Linus Neumann>war, nehmt doch die Mobilgeräte von den Leuten und lest die Daten aus,
+
+01:16:33.269 --> 01:16:34.949
+<v Linus Neumann>die sich darauf befinden.
+
+01:16:34.949 --> 01:16:40.809
+<v Linus Neumann>Im Sinne von, was sind da für Fotos, die Fotos werden in der Regel mit Metadaten
+
+01:16:40.809 --> 01:16:45.009
+<v Linus Neumann>versehen, in welcher Sprache finden sich Nachrichten,
+
+01:16:45.269 --> 01:16:50.949
+<v Linus Neumann>was hat dieses Mobiltelefon alles an Metadaten gespeichert, die irgendwie über
+
+01:16:50.949 --> 01:16:54.189
+<v Linus Neumann>die Aufenthaltsorte dieser Person Auskunft geben.
+
+01:16:55.620 --> 01:16:59.040
+<v Linus Neumann>Und das findet sich jetzt auch im Einsatz.
+
+01:16:59.340 --> 01:17:05.720
+<v Linus Neumann>Es gibt viele verschiedene Architekturen, wie man so etwas bauen könnte.
+
+01:17:05.860 --> 01:17:08.320
+<v Linus Neumann>Es gibt aber natürlich einfach Software
+
+01:17:08.320 --> 01:17:12.780
+<v Linus Neumann>zur Datenauslese, die primär von Strafverfolgungsbehörden verwendet wird.
+
+01:17:12.780 --> 01:17:19.080
+<v Linus Neumann>Das heißt, man konnte das jetzt auf die Privatsphäre respektierende oder weniger
+
+01:17:19.080 --> 01:17:22.580
+<v Linus Neumann>respektierende Art machen und vor allem konnte man sich auch überlegen,
+
+01:17:22.600 --> 01:17:24.320
+<v Linus Neumann>ist das jetzt eine Standardmaßnahme,
+
+01:17:24.440 --> 01:17:30.300
+<v Linus Neumann>die man andauernd macht oder eine, die man eben nur selten zum Einsatz bringt.
+
+01:17:30.300 --> 01:17:37.640
+<v Linus Neumann>Die Linksfraktion hat da mal eine kleine Anfrage zugestellt und primäres Ergebnis ist,
+
+01:17:37.740 --> 01:17:40.760
+<v Linus Neumann>der Verdacht, dass bei der Angabe
+
+01:17:40.760 --> 01:17:45.580
+<v Linus Neumann>der Identität im großen Umfang Betrug vorkommt, bestätigt sich nicht.
+
+01:17:46.480 --> 01:17:53.460
+<v Linus Neumann>Nicht. Es ist irgendwie in der Phase vom September 2017 bis Mai 2018,
+
+01:17:53.680 --> 01:17:59.180
+<v Linus Neumann>ich glaube September 2017 ist dieses System so gefühlt in den Produktivbetrieb gegangen,
+
+01:17:59.360 --> 01:18:06.960
+<v Linus Neumann>zwischen September und Mai knapp 15.000 Betroffene, die keine Papiere vorlegen
+
+01:18:06.960 --> 01:18:12.660
+<v Linus Neumann>konnten und bei denen wurden dann eben Mobiltelefone, Pads, Laptops oder was
+
+01:18:12.660 --> 01:18:14.060
+<v Linus Neumann>auch immer sie hatten ausgelesen.
+
+01:18:15.680 --> 01:18:19.960
+<v Linus Neumann>Der Zugriff soll nur dann stattfinden, wenn es keine milderen Mittel zur Feststellung
+
+01:18:19.960 --> 01:18:24.460
+<v Linus Neumann>der Identität mehr gibt, wie zum Beispiel ein Gespräch. In ca.
+
+01:18:24.720 --> 01:18:30.360
+<v Linus Neumann>5000 Fällen, also ca. ein Drittel dieser Fälle, wurden also dann Daten ausgelesen
+
+01:18:30.360 --> 01:18:38.200
+<v Linus Neumann>und die Daten haben die Angaben gestützt.
+
+01:18:40.200 --> 01:18:47.480
+<v Linus Neumann>Zwei Drittel ließen keinen relevanten Informationsgehalt erkennen hinsichtlich
+
+01:18:47.480 --> 01:18:54.860
+<v Linus Neumann>der Identität und nur in 100 Fällen von eben 15.000 widersprachen die Daten dem,
+
+01:18:54.920 --> 01:18:58.100
+<v Linus Neumann>was die Personen bei der Befragung gesagt hatten.
+
+01:18:58.100 --> 01:19:02.860
+<v Linus Neumann>In dem Zeitraum wurde über ca.
+
+01:19:03.180 --> 01:19:09.960
+<v Linus Neumann>230.000 Asylanträge entschieden. Nicht angenommen, lieber AfDler.
+
+01:19:10.060 --> 01:19:16.880
+<v Linus Neumann>Über 230.000 Anträge entschieden. Das heißt, ein großer Teil davon kam einfach mit Papieren.
+
+01:19:16.920 --> 01:19:25.020
+<v Linus Neumann>Bei 15.000 hatten keine Papiere und von den 15.000 wurden 100 falschen Angaben überführt.
+
+01:19:25.100 --> 01:19:29.420
+<v Linus Neumann>Das System hat irgendwie sowas wie 4,8 Millionen Euro gekostet.
+
+01:19:30.919 --> 01:19:37.979
+<v Linus Neumann>Ähm, entscheidender Punkt hier ist, dass es natürlich ein Dammbruch war,
+
+01:19:38.019 --> 01:19:45.699
+<v Linus Neumann>dass Menschen ihre Identität darüber ausweisen,
+
+01:19:45.819 --> 01:19:48.679
+<v Linus Neumann>dass sie eben sich einmal komplett gläsern machen,
+
+01:19:48.819 --> 01:19:52.479
+<v Linus Neumann>was ihr digitales Leben angeht.
+
+01:19:52.479 --> 01:19:58.199
+<v Linus Neumann>Und im Artikel von Leo Thür, Alexandra Fanta und Chris Köwer auf Netzpolitik.org
+
+01:19:58.199 --> 01:20:03.839
+<v Linus Neumann>steht eben auch wichtig, vom gläsernen Geflüchteten zum gläsernen Bürger ist
+
+01:20:03.839 --> 01:20:05.679
+<v Linus Neumann>es nur ein kurzer Schritt.
+
+01:20:07.219 --> 01:20:10.539
+<v Linus Neumann>Insbesondere, wenn man sich deren Realitäten anschaut.
+
+01:20:10.639 --> 01:20:16.199
+<v Linus Neumann>Also ich halte das nach wie vor für ein ethisch durchaus sehr fragwürdiges Instrument.
+
+01:20:16.199 --> 01:20:20.759
+<v Andre Meister>Ja, wir hatten ja vorhin schon, wie diese modernen Geräte, die wir rumtragen,
+
+01:20:20.759 --> 01:20:26.119
+<v Andre Meister>unsere ausgelagerten Gehirne sind und teilweise mehr Informationen über uns
+
+01:20:26.119 --> 01:20:29.939
+<v Andre Meister>gespeichert haben, als uns selber teilweise bewusst ist.
+
+01:20:29.939 --> 01:20:36.479
+<v Andre Meister>Und jetzt werden Leute eben gezwungen, sich komplett nackig zu machen dafür,
+
+01:20:36.659 --> 01:20:42.119
+<v Andre Meister>obwohl in den allermeisten Fällen die ganz normale BAMF-Anhörung und Befragung
+
+01:20:42.119 --> 01:20:46.479
+<v Andre Meister>mit Dolmetschern und regionalen Experten immer noch das bessere,
+
+01:20:46.559 --> 01:20:52.559
+<v Andre Meister>mildere und auch genauere Mittel ist. Ich meine, die Leute werden ja eh angehört.
+
+01:20:53.159 --> 01:20:58.179
+<v Andre Meister>Aber prophylaktisch werden ja eben von 15.000 Leuten schon mal die Handys ausgelesen,
+
+01:20:58.179 --> 01:21:00.419
+<v Andre Meister>weil man könnte es ja in 100 Fällen auch brauchen.
+
+01:21:00.939 --> 01:21:05.419
+<v Linus Neumann>Und das ist eben eine Grundrechtsverletzung, denn nicht umsonst haben wir gerade
+
+01:21:05.419 --> 01:21:08.659
+<v Linus Neumann>über das Recht auf die Gewährleistung der Vertraulichkeit
+
+01:21:08.659 --> 01:21:12.939
+<v Linus Neumann>und Integrität informationsverarbeitender Systeme gesprochen.
+
+01:21:15.495 --> 01:21:19.855
+<v Linus Neumann>Soviel zum Zwischenstand dazu. Eine Nachricht, die heute eigentlich kaum noch
+
+01:21:19.855 --> 01:21:22.855
+<v Linus Neumann>jemanden interessiert, ja, so merkt man, das läuft so unter ferner Liefen,
+
+01:21:22.855 --> 01:21:24.395
+<v Linus Neumann>ne Tim, jetzt hast du zu weit gescrollt.
+
+01:21:28.335 --> 01:21:34.815
+<v Linus Neumann>Mindestens seit 2000 hat der BND mehrere Filialen und Tochtergesellschaften
+
+01:21:34.815 --> 01:21:38.375
+<v Linus Neumann>deutscher Unternehmen im europäischen Ausland ausspioniert.
+
+01:21:38.375 --> 01:21:42.755
+<v Linus Neumann>Wir erinnern uns, der BND ist der Auslandsgeheimdienst, der darf gegen alle
+
+01:21:42.755 --> 01:21:44.935
+<v Linus Neumann>spionieren, die nicht Deutschland sind.
+
+01:21:46.095 --> 01:21:53.395
+<v Linus Neumann>Darunter war jetzt eine spanische Filiale eines Weiterbildungsbetriebs für die Automobilbranche,
+
+01:21:53.575 --> 01:21:59.295
+<v Linus Neumann>die österreichische Filiale eines Hamburger Schleifmittelherstellers,
+
+01:21:59.395 --> 01:22:01.355
+<v Linus Neumann>die niederländische Firma eines
+
+01:22:01.355 --> 01:22:05.935
+<v Linus Neumann>Spezialtransportunternehmens und ein Chemieunternehmen aus Österreich,
+
+01:22:06.415 --> 01:22:12.035
+<v Linus Neumann>das seit 2001 einer hundertprozentigen Tochter des deutschen Bayer-Konzerns gehört.
+
+01:22:12.975 --> 01:22:15.995
+<v Andre Meister>Ja, das ist die Funktionsträger-Theorie. Die durften ja auch Günther Oettinger
+
+01:22:15.995 --> 01:22:19.655
+<v Andre Meister>abhören, wenn er in seiner Funktion als EU-Kommissar auf Englisch mit seiner
+
+01:22:19.655 --> 01:22:22.275
+<v Andre Meister>.eu E-Mail-Adresse geschrieben hat.
+
+01:22:23.175 --> 01:22:27.115
+<v Andre Meister>Bis es dann irgendwann rauskam, sie einen Aufriss gekriegt haben und das ändern
+
+01:22:27.115 --> 01:22:30.035
+<v Andre Meister>mussten. Aber das war ja lange Zeit deren Gedankenmodell.
+
+01:22:30.675 --> 01:22:32.195
+<v Linus Neumann>Warum haben die nichts gegen den unternommen?
+
+01:22:33.763 --> 01:22:38.723
+<v Andre Meister>Das ist nicht deren Aufgabe. Ich meine, wenn er Englisch redet,
+
+01:22:38.723 --> 01:22:40.343
+<v Andre Meister>unternimmt er, naja, genug.
+
+01:22:41.883 --> 01:22:46.003
+<v Linus Neumann>Angesprochen auf dieses Thema teilt der BND mit zu operativen Aspekten nachrichtendienstlicher
+
+01:22:46.003 --> 01:22:50.023
+<v Linus Neumann>Arbeit, nimmt die Bundesregierung grundsätzlich nur gegenüber den zuständigen
+
+01:22:50.023 --> 01:22:52.403
+<v Linus Neumann>geheimtagenden Gremien des Deutschen Bundestages Stellung.
+
+01:22:52.543 --> 01:22:55.403
+<v Andre Meister>Die Antwort kann ich auswendig, die kriege ich auch jedes Mal genauso,
+
+01:22:55.663 --> 01:22:58.643
+<v Andre Meister>diesen selben Satz immer, bei jeder Anfrage an den BND.
+
+01:22:58.643 --> 01:23:02.843
+<v Linus Neumann>Der BND berichtet an die Bundesregierung, die Bundesregierung berichtet in den
+
+01:23:02.843 --> 01:23:04.923
+<v Linus Neumann>geheimtagenden Gremien gegenüber,
+
+01:23:05.263 --> 01:23:09.423
+<v Linus Neumann>also es ist doch eigentlich nur ein geheimtagendes Gremium, oder?
+
+01:23:09.503 --> 01:23:14.203
+<v Andre Meister>Es gibt vor allem das PKGR, es gibt aber auch das Vertrauensgremium,
+
+01:23:14.283 --> 01:23:16.723
+<v Andre Meister>was manche Haushaltsdinge entscheidet und so.
+
+01:23:17.123 --> 01:23:17.743
+<v Linus Neumann>Ah, okay.
+
+01:23:18.503 --> 01:23:20.023
+<v Andre Meister>Aber ja, vor allem das PKGR.
+
+01:23:20.423 --> 01:23:25.383
+<v Linus Neumann>Wir bleiben in Österreich, auch so eine Meldung, die in Deutschland weniger
+
+01:23:25.383 --> 01:23:28.223
+<v Linus Neumann>Aufsehen erregt hat als in Österreich.
+
+01:23:28.643 --> 01:23:34.443
+<v Linus Neumann>Der deutsche Geheimdienst hat zwischen 1999 und 2006 zentrale Einrichtungen
+
+01:23:34.443 --> 01:23:38.323
+<v Linus Neumann>in Österreich überwacht in der Telekommunikation, Ministerien,
+
+01:23:38.403 --> 01:23:41.883
+<v Linus Neumann>Polizeibehörden, Universitäten, Botschaften und Unternehmen,
+
+01:23:42.183 --> 01:23:44.063
+<v Linus Neumann>ebenso wie Waffenhändler und Terrorverdächtige.
+
+01:23:44.183 --> 01:23:52.463
+<v Linus Neumann>Mehr als 2000 E-Mail-Konten, Telefonfax und Handynummern befinden sich unter den Selektoren.
+
+01:23:53.663 --> 01:23:57.943
+<v Linus Neumann>Gegenüber dem österreichischen Standard wurde von mehreren Quellen bestätigt,
+
+01:23:57.943 --> 01:23:59.823
+<v Linus Neumann>dass diese Selektoren, die da vorgelegt wurden,
+
+01:24:00.023 --> 01:24:04.803
+<v Linus Neumann>authentisch sind und auch hier natürlich wieder ja, da sind die schon sieben
+
+01:24:04.803 --> 01:24:10.003
+<v Linus Neumann>Jahre überwachen die Ministerien in Österreich und wen haben sie jetzt als Kanzler?
+
+01:24:10.603 --> 01:24:16.903
+<v Linus Neumann>So, hat auch wieder nichts gebracht. Ich frage mich so, wo bleibt hier mal der Wirksamkeitsbeweis?
+
+01:24:17.003 --> 01:24:22.783
+<v Linus Neumann>Es ist natürlich eine Katastrophe für das das deutsch-österreichische Verhältnis.
+
+01:24:24.443 --> 01:24:25.603
+<v Andre Meister>Ausspähen unter Freunden.
+
+01:24:25.643 --> 01:24:26.743
+<v Linus Neumann>Das geht gar nicht.
+
+01:24:26.943 --> 01:24:27.443
+<v Tim Pritlove>Überhaupt nicht.
+
+01:24:27.623 --> 01:24:32.563
+<v Linus Neumann>Geht überhaupt nicht. Und liebe österreichischen Hörerinnen und Hörer,
+
+01:24:32.563 --> 01:24:33.883
+<v Linus Neumann>wir finden das nicht gut.
+
+01:24:35.219 --> 01:24:42.139
+<v Linus Neumann>Und wir entschuldigen uns für unseren BND. Wir versuchen alles Mögliche gegen den zu unternehmen.
+
+01:24:43.879 --> 01:24:47.379
+<v Linus Neumann>Aber auch unsere Zeit ist begrenzt.
+
+01:24:48.899 --> 01:24:53.919
+<v Linus Neumann>Denn wir müssen demonstrieren. Wir mussten demonstrieren. Wir haben ja aufgerufen.
+
+01:24:54.819 --> 01:24:57.279
+<v Linus Neumann>Nee, haben wir nicht. Da haben wir noch einen für offensack bekommen.
+
+01:24:57.599 --> 01:24:59.259
+<v Linus Neumann>Ich glaube, wir haben es in der Sendung davor aber getan.
+
+01:25:00.539 --> 01:25:04.119
+<v Linus Neumann>Demonstrationen gegen das Polizeigesetz in NRW. Ich glaube, wir haben in der
+
+01:25:04.119 --> 01:25:05.739
+<v Linus Neumann>Sendung vor der letzten dazu aufgerufen.
+
+01:25:05.739 --> 01:25:07.159
+<v Tim Pritlove>Ich glaube, wir haben das sogar zweimal erwähnt.
+
+01:25:07.259 --> 01:25:12.879
+<v Linus Neumann>Ja, wir haben deswegen auch 18.000 Teilnehmerinnen und Teilnehmer in der Düsseldorfer
+
+01:25:12.879 --> 01:25:17.199
+<v Linus Neumann>Innenstadt und bis vor den Landtags sind sie marschiert,
+
+01:25:17.239 --> 01:25:22.359
+<v Linus Neumann>um zu demonstrieren gegen die Einführung einer Quellentelekommunikationsüberwachung,
+
+01:25:25.159 --> 01:25:29.759
+<v Linus Neumann>von einer Gefährderhaft, wo man bis zu einem Monat in Gewahrsam kommen kann,
+
+01:25:29.879 --> 01:25:33.499
+<v Linus Neumann>weil man als Gefährder identifiziert wird.
+
+01:25:33.539 --> 01:25:36.179
+<v Linus Neumann>Gefährder, wie gesagt, keinerlei Beweise.
+
+01:25:37.819 --> 01:25:41.739
+<v Linus Neumann>Und dann kommst du mal einen Monat in Haft zur Sicherheit.
+
+01:25:41.979 --> 01:25:45.699
+<v Linus Neumann>Diese Polizeigesetznummer, die wird jetzt in jedem einzelnen Bundesland kommen.
+
+01:25:45.919 --> 01:25:50.139
+<v Linus Neumann>Also wenn ihr nicht in Bayern oder Nordrhein-Westfalen lebt,
+
+01:25:50.139 --> 01:25:54.919
+<v Linus Neumann>sondern zum Beispiel in Brandenburg, dann könnt ihr euch freuen,
+
+01:25:55.099 --> 01:25:57.239
+<v Linus Neumann>das wird auch dorthin kommen.
+
+01:25:57.359 --> 01:26:04.419
+<v Linus Neumann>Das wird jetzt mehr oder weniger in jedes Bundesland kommen.
+
+01:26:05.119 --> 01:26:09.519
+<v Tim Pritlove>Was haben wir jetzt gerade aktuell für eine Regierungskonstellation in Brandenburg?
+
+01:26:10.399 --> 01:26:11.559
+<v Linus Neumann>Brandenburg weiß ich nicht.
+
+01:26:11.679 --> 01:26:19.359
+<v Andre Meister>Rot-Rot. SPD hat aber das Innenministerium und die wollen das mit Trojanern und allem Pipapo.
+
+01:26:20.199 --> 01:26:25.199
+<v Andre Meister>Die Linken finden das nicht so gut, aber das ist wie in Hessen,
+
+01:26:25.299 --> 01:26:28.319
+<v Andre Meister>wo manche Grüne das auch nicht ganz so gut finden,
+
+01:26:28.419 --> 01:26:34.239
+<v Andre Meister>aber die Union treibt die so sehr und die Grünen sind so klein und die Fraktionsspitze
+
+01:26:34.239 --> 01:26:38.999
+<v Andre Meister>hält sich dann an den Fraktionszwang und die gemeinsame Regierungs-whatever-blub.
+
+01:26:38.999 --> 01:26:43.459
+<v Andre Meister>Also die brauchen einen ordentlichen Gegenwind von ihrer Basis und der Öffentlichkeit,
+
+01:26:43.479 --> 01:26:50.259
+<v Andre Meister>damit eben auch die Linke in Brandenburg und die Grünen in Hessen sich dagegen
+
+01:26:50.259 --> 01:26:52.859
+<v Andre Meister>stimmen können. Obwohl Hessen ist glaube ich durch, das ist beschlossen.
+
+01:26:53.199 --> 01:26:54.359
+<v Tim Pritlove>Auch ein PAG schon.
+
+01:26:56.059 --> 01:26:57.019
+<v Tim Pritlove>Oder redest du von der Trojaner-Geschichte?
+
+01:26:57.019 --> 01:27:00.679
+<v Linus Neumann>In Hessen war es halt die gesamte Hessen-Trojaner-Nummer.
+
+01:27:00.819 --> 01:27:04.139
+<v Tim Pritlove>Ja gut, aber jetzt rede ich ja spezifisch von dieser, also was ich an diesen
+
+01:27:04.139 --> 01:27:09.419
+<v Tim Pritlove>Polizeigesetzen wirklich so furchtbar finde, ist, dass es einfach mal so dermaßen
+
+01:27:09.419 --> 01:27:13.919
+<v Tim Pritlove>offensichtlich gegen meiner Auffassung nach die Verfassung,
+
+01:27:16.079 --> 01:27:21.859
+<v Tim Pritlove>verstößt, weil es einfach nicht sein kann, dass man einfach ohne Beweise Leute weg schließt.
+
+01:27:22.039 --> 01:27:26.459
+<v Andre Meister>Die eigentliche Begründung für die ganzen ganzen Polizeigesetz-Novellen ist
+
+01:27:26.459 --> 01:27:31.799
+<v Andre Meister>ja nicht nur die Datenschutz-Grundverordnung, sondern auch die in dem Zuge passierte,
+
+01:27:32.959 --> 01:27:37.599
+<v Andre Meister>Richtlinie, wie wir eben die Behördendaten zu verarbeiten haben und man könnte
+
+01:27:37.599 --> 01:27:41.179
+<v Andre Meister>das einfach in einer Formalität anpassen, so wie das Bundesdatenschutzgesetz
+
+01:27:41.179 --> 01:27:44.399
+<v Andre Meister>auch angepasst wurde an die Datenschutz-Grundverordnung.
+
+01:27:44.539 --> 01:27:47.959
+<v Andre Meister>Also, dass alle Bundesländer ran müssen, das ist eigentlich vorgegeben.
+
+01:27:48.019 --> 01:27:52.019
+<v Andre Meister>Aber eben in fast allen Bundesländern sagen wir, ah, wir fassen unser Polizeigesetz
+
+01:27:52.019 --> 01:27:55.839
+<v Andre Meister>an, dann machen wir hier doch mal den Wunschkatalog auf und schieben da alles
+
+01:27:55.839 --> 01:27:58.679
+<v Andre Meister>rein, was wir schon immer mal haben wollten oder uns vorstellen konnten.
+
+01:28:00.139 --> 01:28:02.819
+<v Tim Pritlove>Ja, und das ist halt genau das. Also ich meine, ich kann mir nicht vorstellen,
+
+01:28:02.899 --> 01:28:04.299
+<v Tim Pritlove>dass das in Berlin irgendeine Chance hat.
+
+01:28:05.639 --> 01:28:11.139
+<v Andre Meister>Da würde ich mit definitiven Aussagen in der Politik würde ich mich zurückhalten.
+
+01:28:11.359 --> 01:28:13.819
+<v Andre Meister>Prognosen sind schwierig, besonders wenn sie die Zukunft betreffen.
+
+01:28:13.899 --> 01:28:20.379
+<v Tim Pritlove>Ja, das ist richtig, aber ich glaube, das Widerstandspotenzial in Berlin dürfte da signifikant sein.
+
+01:28:20.579 --> 01:28:25.299
+<v Andre Meister>Es gibt auch zwei Arten von Berlin. Es gibt ja auch Gedanken zu dem sogenannten
+
+01:28:25.299 --> 01:28:31.519
+<v Andre Meister>Muster-Polizeigesetz, um auf Bundesebene quasi eine vereinheitlichte gesetzliche
+
+01:28:31.519 --> 01:28:35.559
+<v Andre Meister>Lösung für Landespolizeigesetze zu machen, im Aufgabenbereich von Horst Seehofer.
+
+01:28:37.419 --> 01:28:41.959
+<v Andre Meister>Alter, also das wird irgendwann auch noch auf uns zukommen.
+
+01:28:42.659 --> 01:28:47.879
+<v Andre Meister>Aber im Land Berlin ist es zumindest nicht so präsierend wie eben gerade in
+
+01:28:47.879 --> 01:28:49.759
+<v Andre Meister>NRW oder auch Bayern gewesen.
+
+01:28:50.019 --> 01:28:52.759
+<v Tim Pritlove>Linus, wir können André nicht so oft einladen. Ich kann hier meine Rolle als
+
+01:28:52.759 --> 01:28:58.219
+<v Tim Pritlove>Optimismusbeauftragter nicht uneingeschränkt durchführen, wenn er hier mit seinen
+
+01:28:58.219 --> 01:29:00.279
+<v Tim Pritlove>Realitätseinblicken kommt.
+
+01:29:00.799 --> 01:29:01.999
+<v Andre Meister>Realität ist schuld, nicht ich.
+
+01:29:02.219 --> 01:29:04.999
+<v Tim Pritlove>Ja, ja, ich weiß. Aber du hast das hier auf den Tisch gelegt,
+
+01:29:05.059 --> 01:29:06.799
+<v Tim Pritlove>also wirst du dafür auch verhaftet.
+
+01:29:10.379 --> 01:29:10.819
+<v Linus Neumann>Tim.
+
+01:29:11.039 --> 01:29:11.479
+<v Tim Pritlove>Ja.
+
+01:29:12.779 --> 01:29:18.359
+<v Linus Neumann>Du hast doch bestimmt gesehen, dass jetzt die Stadt vollgestellt wurde mit diesen Leihfahrrädern.
+
+01:29:18.419 --> 01:29:21.419
+<v Tim Pritlove>In allen Farben, die der Regenbogen so bietet, außer lila.
+
+01:29:21.679 --> 01:29:23.959
+<v Linus Neumann>Aber ich würde jetzt eigentlich gerne die Gelegenheit nutzen,
+
+01:29:24.179 --> 01:29:32.879
+<v Linus Neumann>dass du von dem fundamental großartigen ersten Leihfahrrad-Hack des CCC berichtest.
+
+01:29:33.819 --> 01:29:39.459
+<v Tim Pritlove>Doch, des CCC. Der war so geil. Das Umfeld. Das waren wir nicht.
+
+01:29:40.639 --> 01:29:41.779
+<v Andre Meister>Kennt hier jemand jemand?
+
+01:29:42.079 --> 01:29:46.219
+<v Tim Pritlove>Das wurde in der Datenschleuder publiziert irgendwie eben.
+
+01:29:52.215 --> 01:29:58.675
+<v Tim Pritlove>Und naja, auf jeden Fall, man muss ja mal sagen, da war ja die Bahn interessanterweise
+
+01:29:58.675 --> 01:30:02.475
+<v Tim Pritlove>wirklich sehr visionär unterwegs und hat schon vor vielen, vielen Jahren,
+
+01:30:02.715 --> 01:30:05.655
+<v Tim Pritlove>vielleicht könnt ihr das mal nachschlagen, wann das jetzt eigentlich war.
+
+01:30:05.655 --> 01:30:06.495
+<v Linus Neumann>Ich schaue gerade schon.
+
+01:30:08.735 --> 01:30:11.235
+<v Tim Pritlove>Gab es die, wie hießen die Dinger jetzt nochmal?
+
+01:30:11.815 --> 01:30:14.155
+<v Andre Meister>Call-A-Bike. Hacker-Bike.
+
+01:30:14.375 --> 01:30:23.715
+<v Tim Pritlove>Call-A-Bike. Call-A-Bike-Fahrräder mit eigener Elektronik, mit GPS-Ortung, Netzverbindung etc.
+
+01:30:24.335 --> 01:30:30.675
+<v Tim Pritlove>Mit so einem kleinen Bordcomputer, mit einem fernauslösbaren Schloss auf die
+
+01:30:30.675 --> 01:30:35.055
+<v Tim Pritlove>Straße gebracht und man konnte das halt mit dem Mobiltelefon freischalten,
+
+01:30:35.055 --> 01:30:38.695
+<v Tim Pritlove>indem man da irgendwo angerufen hat, sich eine Nummer hat durchgeben lassen,
+
+01:30:38.755 --> 01:30:42.495
+<v Tim Pritlove>die in dieses Bike eingegeben hat und dann war das Bike aufgeschlossen.
+
+01:30:42.675 --> 01:30:47.695
+<v Linus Neumann>Und die Nummer rotierte natürlich, damit man sich die nicht merkt,
+
+01:30:47.695 --> 01:30:51.275
+<v Linus Neumann>wenn man immer dieses Fahrrad nimmt und dann wurde das berechnet,
+
+01:30:51.455 --> 01:30:54.955
+<v Linus Neumann>ich glaube so grob 50 Cent für jetzt eine normale Fahrt oder so.
+
+01:30:55.335 --> 01:30:59.175
+<v Tim Pritlove>Ich weiß es gar nicht mehr. Also es war auf jeden Fall ein sehr interessanter
+
+01:30:59.175 --> 01:31:01.775
+<v Tim Pritlove>Dienst und in gewisser Hinsicht auch total, wann war das?
+
+01:31:02.115 --> 01:31:04.495
+<v Andre Meister>2004, Hack a Bike war die Aktion.
+
+01:31:04.495 --> 01:31:13.215
+<v Tim Pritlove>Vier, alter Schwede. Also an der Stelle auch gleich mal Lob an das Unternehmen,
+
+01:31:13.455 --> 01:31:15.615
+<v Tim Pritlove>was das ursprünglich mal realisiert hat.
+
+01:31:15.715 --> 01:31:19.795
+<v Tim Pritlove>Die waren schon ganz gut und das wäre auch fast hackerfest gewesen.
+
+01:31:20.235 --> 01:31:23.935
+<v Tim Pritlove>Allerdings haben sie einen Fehler gemacht, nee zwei Fehler gemacht.
+
+01:31:23.935 --> 01:31:31.915
+<v Tim Pritlove>Der erste Fehler war, dass sie nicht bei allen Fahrrädern ein bestimmtes Bit gesetzt haben,
+
+01:31:32.015 --> 01:31:38.155
+<v Tim Pritlove>so ein Lock-Bit, was das einfache neue Flächen des E-Proms oder des entsprechenden
+
+01:31:38.155 --> 01:31:42.755
+<v Tim Pritlove>Speichers auf der Elektronik des Gerätes hätten verhindern können oder zumindest
+
+01:31:42.755 --> 01:31:44.975
+<v Tim Pritlove>den Prozess hätten deutlich erschweren können.
+
+01:31:44.975 --> 01:31:48.995
+<v Tim Pritlove>Und der zweite Fehler war gar nicht von diesem Unternehmen, sondern von der Bahn,
+
+01:31:49.135 --> 01:31:55.755
+<v Tim Pritlove>die halt breitbeinig in der Hauszeitschrift glaube ich damals über Callabike
+
+01:31:55.755 --> 01:31:59.135
+<v Tim Pritlove>berichtet haben und dann auch irgendjemand zitiert haben mit dem Satz,
+
+01:31:59.155 --> 01:32:01.395
+<v Tim Pritlove>die wären ja auch nicht hackbar.
+
+01:32:02.275 --> 01:32:08.715
+<v Tim Pritlove>Das war leider, also den Spruch hätte man sich wahrscheinlich sparen können,
+
+01:32:08.875 --> 01:32:11.395
+<v Tim Pritlove>aber ihr könnt euch vorstellen, was dann passiert ist.
+
+01:32:12.015 --> 01:32:18.255
+<v Tim Pritlove>Menschen sind dann mal dieser Technik ein wenig auf die Spur gekommen,
+
+01:32:18.515 --> 01:32:23.795
+<v Tim Pritlove>da wurden dann Analysen durchgeführt, auch auf einem professionellen Level.
+
+01:32:23.795 --> 01:32:26.795
+<v Tim Pritlove>Du hast es ja damals glaube ich noch nicht mitbekommen Linus,
+
+01:32:26.835 --> 01:32:32.875
+<v Tim Pritlove>aber ich kann dir sagen das hätte dir viel Freude bereitet dieser Prozess den zu begleiten,
+
+01:32:32.955 --> 01:32:38.835
+<v Tim Pritlove>also da ist nach allen Maßgaben der Hackerkunst vorgegangen worden also da wurde
+
+01:32:38.835 --> 01:32:43.695
+<v Tim Pritlove>wirklich das große Besteck rausgeholt und die Dinger wurden einfach seziert
+
+01:32:43.695 --> 01:32:47.815
+<v Tim Pritlove>mit dem Ergebnis, dass halt hier Lücken gefunden wurden und am Ende.
+
+01:32:48.815 --> 01:32:50.755
+<v Tim Pritlove>Fahrräder sich durch ein,
+
+01:32:52.055 --> 01:32:57.075
+<v Tim Pritlove>auffälliges Blinken auf der Straße verraten haben, dass man hier nicht einen
+
+01:32:57.075 --> 01:33:01.795
+<v Tim Pritlove>Code erst abrufen muss, sondern dass hier quasi eine universelle PIN galt und
+
+01:33:01.795 --> 01:33:05.635
+<v Tim Pritlove>dementsprechend waren dann viele dieser Fahrräder fahrscheinlos.
+
+01:33:07.075 --> 01:33:12.895
+<v Tim Pritlove>Ein fahrscheinloser persönlicher Nahverkehr wurde dort implementiert.
+
+01:33:12.975 --> 01:33:16.695
+<v Tim Pritlove>Das ist alles ganz lustig. Natürlich kann man jetzt über die Moralität dieser
+
+01:33:16.695 --> 01:33:20.155
+<v Tim Pritlove>Maßnahme auch streiten und das ist auch gestritten worden,
+
+01:33:20.395 --> 01:33:27.455
+<v Tim Pritlove>weil hier ein paar Leute auch so ein bisschen mit den Pferden durchgegangen
+
+01:33:27.455 --> 01:33:31.615
+<v Tim Pritlove>sind, weil nun ist es ja Hacker-Ehre, dass man so etwas durchführt und dann
+
+01:33:31.615 --> 01:33:33.715
+<v Tim Pritlove>dokumentiert und aufzeigt und öffentlich macht.
+
+01:33:33.715 --> 01:33:37.455
+<v Tim Pritlove>Und hier gucke mal, wir haben das irgendwie geschafft und macht doch mal eure Dinger dicht.
+
+01:33:37.875 --> 01:33:43.695
+<v Tim Pritlove>Aber die pure Nützlichkeit dieser Fahrräder hat sie dann doch dazu verleitet,
+
+01:33:43.775 --> 01:33:48.615
+<v Tim Pritlove>hier die Zahlen in anderen Bereichen nach oben zu treiben.
+
+01:33:48.615 --> 01:33:57.455
+<v Tim Pritlove>Ich glaube am Ende war sowas wie 10 oder 20 Prozent der Flotte wurde sozusagen dynamisch befreit.
+
+01:33:59.195 --> 01:34:02.535
+<v Tim Pritlove>Und Leute haben sich hier eine eigene Infrastruktur gemacht und noch schlimmer,
+
+01:34:02.595 --> 01:34:05.055
+<v Tim Pritlove>Leute konnten dann natürlich irgendwie auch das Maul nie halten.
+
+01:34:05.235 --> 01:34:07.555
+<v Tim Pritlove>Und irgendwann hatte sich das dann in Berlin so weit rumgesprochen,
+
+01:34:07.595 --> 01:34:12.455
+<v Tim Pritlove>dass das natürlich dann auch den Betreibern auffiel und dann gab es Diskussionen.
+
+01:34:13.175 --> 01:34:15.835
+<v Linus Neumann>Das war ja auch vor allem das Problem, dass die Leute dann mit irgendwie raus
+
+01:34:15.835 --> 01:34:17.835
+<v Linus Neumann>aufs Land gefahren sind zu Partys.
+
+01:34:17.835 --> 01:34:20.615
+<v Tim Pritlove>Die waren dann auf Partys angeschlossen in Berlin und so weiter.
+
+01:34:20.615 --> 01:34:23.975
+<v Linus Neumann>Weil die Schlösser brauchten, weil die wussten, dass das Fahrrad sich durch sein Blinken verrät.
+
+01:34:24.475 --> 01:34:31.155
+<v Tim Pritlove>Also es war, also öffentlichkeitstechnisch finde ich, ist die Nummer nicht gut
+
+01:34:31.155 --> 01:34:33.655
+<v Tim Pritlove>gelaufen. Technisch war es ein Meisterwerk.
+
+01:34:35.135 --> 01:34:38.355
+<v Tim Pritlove>Okay, aber lass mal so als Ausblick.
+
+01:34:38.575 --> 01:34:43.455
+<v Linus Neumann>Die Backdoor erlaubt, das Hackebike mit einem von uns festgelegten Ausleihcode einfach zu öffnen.
+
+01:34:43.555 --> 01:34:47.355
+<v Linus Neumann>Wenn man das Hackebike dann wieder abgibt, ist es ganz normal wieder ausleihbar.
+
+01:34:47.835 --> 01:34:51.995
+<v Linus Neumann>Es hatte einfach einen festprogrammierten Standardcode und durch das Blinken
+
+01:34:51.995 --> 01:34:54.855
+<v Linus Neumann>der LED machte es sich sogar bemerkbar.
+
+01:34:55.075 --> 01:34:56.995
+<v Tim Pritlove>Also die Dinger haben immer geblinkt, wenn sie verfügbar waren.
+
+01:34:57.095 --> 01:35:00.595
+<v Tim Pritlove>Die blinken immer so regelmäßig so bing, bing, bing.
+
+01:35:00.595 --> 01:35:01.375
+<v Linus Neumann>Grüne LED, ne?
+
+01:35:01.395 --> 01:35:06.035
+<v Tim Pritlove>Und wenn das achte Blinken, jedes achte Blinken aussetzte, wusstest du,
+
+01:35:06.055 --> 01:35:08.135
+<v Tim Pritlove>dieses Fahrrad war auch anders.
+
+01:35:11.575 --> 01:35:12.795
+<v Andre Meister>Und das gibt's jetzt wieder.
+
+01:35:14.955 --> 01:35:18.055
+<v Tim Pritlove>Jetzt stehen auf jeden Fall auf einmal mal eine ganze Menge von diesen Dingern rum.
+
+01:35:18.895 --> 01:35:23.655
+<v Tim Pritlove>Interessant, dass es jetzt 30 Jahre dauert, bis hier ein Boom einsetzt,
+
+01:35:23.715 --> 01:35:25.055
+<v Tim Pritlove>aber jetzt geht's ja gerade richtig los.
+
+01:35:25.355 --> 01:35:29.355
+<v Linus Neumann>Also die Deutsche Bahn hat das ja einfach nur verkackt mit diesem Call-A-Bike.
+
+01:35:29.475 --> 01:35:34.975
+<v Linus Neumann>Sie hatten, das war wunderschön, du hattest natürlich die unschönen Phänomene von irgendwelchen ähm,
+
+01:35:37.286 --> 01:35:40.006
+<v Linus Neumann>Gründungen der Schöpfung, die diese Fahrräder dann halt beschädigen,
+
+01:35:40.006 --> 01:35:45.186
+<v Linus Neumann>wegwerfen und also quasi, ich meine, ist eine Sache dann ein schönes Kunstwerk
+
+01:35:45.186 --> 01:35:50.046
+<v Linus Neumann>aus einem Fahrradstapel zu machen, ist ein anderes, das Fahrrad irgendwie halt zu beschädigen.
+
+01:35:50.146 --> 01:35:54.406
+<v Linus Neumann>Das war, Vandalismus war da ein Problem, die landeten regelmäßig in irgendwelchen
+
+01:35:54.406 --> 01:35:57.806
+<v Linus Neumann>Müllcontainern vom Bau und dann waren sie halt auf die Gnade der Bauarbeiter
+
+01:35:57.806 --> 01:36:03.826
+<v Linus Neumann>angewiesen, die Fahrräder wieder rauszuholen und insgesamt fand ich das eigentlich großartig.
+
+01:36:03.826 --> 01:36:06.066
+<v Linus Neumann>Die Flotte war ein bisschen zu klein, hätte noch größer sein können.
+
+01:36:06.166 --> 01:36:09.186
+<v Linus Neumann>Man musste mitunter relativ weit zu einem Fahrrad latschen.
+
+01:36:10.346 --> 01:36:15.146
+<v Linus Neumann>Und dann haben sie es nach ein paar Jahren umgeschaltet auf diese Stationsfahrräder.
+
+01:36:15.226 --> 01:36:15.986
+<v Tim Pritlove>Ganz schlechte Idee.
+
+01:36:16.086 --> 01:36:23.026
+<v Linus Neumann>Was der Tod wiederum war des Bike-Meetings, des Bike-Rentals,
+
+01:36:23.086 --> 01:36:28.886
+<v Linus Neumann>weil in Berlin gab es vielleicht irgendwie gefühlt sechs,
+
+01:36:29.126 --> 01:36:31.366
+<v Linus Neumann>vielleicht auch nur fünf solcher Stationen.
+
+01:36:31.366 --> 01:36:37.726
+<v Linus Neumann>Es funktioniert in Städten wie New York oder Paris mit diesen Stationen,
+
+01:36:37.726 --> 01:36:43.306
+<v Linus Neumann>weil die dafür sorgen, dass an jedem fucking U-Bahnhof so eine Station ist.
+
+01:36:43.506 --> 01:36:47.026
+<v Linus Neumann>Und das ist wiederum genau das, das ist akzeptabel für Menschen,
+
+01:36:47.066 --> 01:36:52.626
+<v Linus Neumann>die diese Systeme nutzen wollen, weil die eben mit den U-Bahn-Stationen ohnehin vertraut sind.
+
+01:36:52.626 --> 01:36:56.086
+<v Linus Neumann>Das heißt, die wissen, wo sie hinfahren müssen und unterwegs gab es dann auch
+
+01:36:56.086 --> 01:36:59.346
+<v Linus Neumann>nochmal irgendwie so Stationen. Also ich bin in Paris regelmäßig mit diesen
+
+01:36:59.346 --> 01:37:04.566
+<v Linus Neumann>Dingern unterwegs und kann da nicht klagen, weil wirklich an jeder Ecke so eine Ausleihstation ist.
+
+01:37:04.726 --> 01:37:08.146
+<v Linus Neumann>Das ist wirklich, das ist in Ordnung. In Deutschland wurde es halt mit diesen
+
+01:37:08.146 --> 01:37:08.926
+<v Linus Neumann>Stationswesen verkackt.
+
+01:37:08.926 --> 01:37:13.386
+<v Tim Pritlove>Und die standen da auch gerade Level 2, indem sie das A massiv noch weiter ausbauen
+
+01:37:13.386 --> 01:37:14.786
+<v Tim Pritlove>und B auch überall noch stromt.
+
+01:37:15.686 --> 01:37:19.546
+<v Linus Neumann>Ja, also die haben funktionierende Infrastruktur, diese Länder.
+
+01:37:20.126 --> 01:37:23.466
+<v Linus Neumann>Deutschland hat halt keine funktionierende Infrastruktur. Das haben wir nicht.
+
+01:37:25.186 --> 01:37:25.726
+<v Andre Meister>Mobilfunk.
+
+01:37:25.846 --> 01:37:30.106
+<v Linus Neumann>Ich warte ja noch, dass irgendwie O-Bike oder so irgendwie mit Pauken und Trompeten,
+
+01:37:30.746 --> 01:37:34.206
+<v Linus Neumann>eine Station eröffnet in Klessengörne.
+
+01:37:36.406 --> 01:37:42.386
+<v Linus Neumann>Kannst damit zum See fahren. Ja, in Berlin ist jetzt in den letzten Jahren,
+
+01:37:42.386 --> 01:37:45.706
+<v Linus Neumann>Ich glaube, im letzten Jahr sieben waren das, glaube ich.
+
+01:37:45.866 --> 01:37:46.266
+<v Tim Pritlove>Sieben?
+
+01:37:46.446 --> 01:37:53.726
+<v Linus Neumann>Es gibt Mobike, O-Bike, Ofo, Lime E, Lidl.
+
+01:37:54.506 --> 01:37:56.226
+<v Tim Pritlove>Das ist das alte Kolle-Bike?
+
+01:37:56.446 --> 01:37:57.546
+<v Linus Neumann>Genau, Nextbike.
+
+01:37:59.546 --> 01:38:01.366
+<v Linus Neumann>Und jetzt habe ich wahrscheinlich noch eins vergessen. Es gibt wahrscheinlich
+
+01:38:01.366 --> 01:38:03.586
+<v Linus Neumann>sogar acht. Heise hat sechs.
+
+01:38:05.046 --> 01:38:07.666
+<v Tim Pritlove>Ja, aber so die Kategorie ...
+
+01:38:09.201 --> 01:38:16.861
+<v Tim Pritlove>Und all diese ganzen Anbieter versuchen sich halt jetzt hier den Markt unter die Finger zu reißen.
+
+01:38:16.921 --> 01:38:19.541
+<v Tim Pritlove>In anderen Städten funktioniert es teilweise schon sehr gut.
+
+01:38:19.661 --> 01:38:25.361
+<v Tim Pritlove>Also insbesondere in China ist das Fahrrad da wiederentdeckt worden und chinesische
+
+01:38:25.361 --> 01:38:26.941
+<v Tim Pritlove>Unternehmen sind da auch sehr weit vorne.
+
+01:38:27.201 --> 01:38:30.561
+<v Tim Pritlove>Mobike, wobei ich jetzt von ihren Fahrrädern nicht so begeistert bin,
+
+01:38:30.641 --> 01:38:31.661
+<v Tim Pritlove>die sind mir einfach zu klein.
+
+01:38:31.661 --> 01:38:36.301
+<v Linus Neumann>Die Mowbike-Fahrräder haben den Sattel zu klein und wenn es kalt ist,
+
+01:38:36.361 --> 01:38:40.181
+<v Linus Neumann>rutscht die Sattelstange runter und dann fährst du dir mit den Dingern die Knie kaputt.
+
+01:38:40.261 --> 01:38:44.461
+<v Linus Neumann>Die haben Antrieb über eine Kardanwelle. Also ich sag mal, für eine längere Tour sind die nicht gut.
+
+01:38:44.461 --> 01:38:50.581
+<v Linus Neumann>Aber ich muss trotzdem sagen, dass ich immer mal wieder mich in einer Situation
+
+01:38:50.581 --> 01:38:55.841
+<v Linus Neumann>wiederfinde, häufig, wenn der Tag mit Regeln beginnt und ich gezwungen bin,
+
+01:38:56.541 --> 01:39:03.661
+<v Linus Neumann>die Dienste, das ist ein großes Wort, der Berliner Verkehrsbetriebe in Anspruch
+
+01:39:03.661 --> 01:39:09.981
+<v Linus Neumann>zu nehmen und dann nicht erwischt werde, dass ich die in Anspruch genommen habe.
+
+01:39:09.981 --> 01:39:16.681
+<v Linus Neumann>Und auf dem Rückweg sagt, ach jetzt scheint die Sonne und man entfernt sich
+
+01:39:16.681 --> 01:39:20.161
+<v Linus Neumann>dann halt vom Ort des Geschehens mit so einem Leihrad,
+
+01:39:20.281 --> 01:39:25.241
+<v Linus Neumann>das ist Mietfahrrad, Leiden ist ja nicht verfallt, dann ist das schon ganz in Ordnung.
+
+01:39:25.241 --> 01:39:31.581
+<v Linus Neumann>Und Heise hat einen sehr schönen Test gemacht von allen Anbietern und haben
+
+01:39:31.581 --> 01:39:34.241
+<v Linus Neumann>dann eben die geratet und haben dann auch wirklich mal gesagt,
+
+01:39:34.321 --> 01:39:36.041
+<v Linus Neumann>bei denen schleift regelmäßig die Bremse.
+
+01:39:36.421 --> 01:39:39.741
+<v Linus Neumann>Viele von den Rädern haben übrigens Hartgummi-Reifen, was dann auch natürlich
+
+01:39:39.741 --> 01:39:46.561
+<v Linus Neumann>den Komfort ein bisschen schmälert. und jetzt waren die alle oder mehrere dieser
+
+01:39:46.561 --> 01:39:50.581
+<v Linus Neumann>Anbieter von kuriosen Schwachstellen gesegnet.
+
+01:39:50.681 --> 01:39:56.461
+<v Linus Neumann>Und zwar war dieses Ofo, war das glaube ich, wo du jetzt hoffentlich brichst
+
+01:39:56.461 --> 01:40:00.541
+<v Linus Neumann>du dich durcheinander, Ofo haben diese komplett gelben Fahrräder gehabt.
+
+01:40:01.241 --> 01:40:07.041
+<v Linus Neumann>Und es begab sich dann, dass du merktest, dass insbesondere sehr junge Menschen.
+
+01:40:09.527 --> 01:40:17.847
+<v Linus Neumann>Mit diesen Ofo-Fahrrädern rumfuhren und vor allem, die fielen dadurch auf, dass sie so ziellos.
+
+01:40:19.367 --> 01:40:24.207
+<v Linus Neumann>Rumfuhren und die Dinge, an denen sie sich im Park liegen hatten und so und
+
+01:40:24.207 --> 01:40:26.667
+<v Linus Neumann>da gab es, die hatten direkt zwei wunderbare Schwachstellen.
+
+01:40:26.887 --> 01:40:30.887
+<v Linus Neumann>Du konntest nämlich den Anmeldeprozess, beim Anmeldeprozess durch mehrmaliges
+
+01:40:30.887 --> 01:40:35.547
+<v Linus Neumann>Drücken auf dem Display umgehen, dass du eine Kreditkarte angeben musstest,
+
+01:40:35.547 --> 01:40:39.667
+<v Linus Neumann>bevor du deine erste die erste kostenlose Fahrt in Anspruch nehmen konntest.
+
+01:40:39.867 --> 01:40:44.987
+<v Linus Neumann>Und wenn du dann die erste kostenlose Fahrt ohne Angabe eines Zahlungsmittels
+
+01:40:44.987 --> 01:40:48.467
+<v Linus Neumann>oder einer E-Mail-Adresse in Anspruch nehmen konntest, dann konntest du diese
+
+01:40:48.467 --> 01:40:49.707
+<v Linus Neumann>Fahrt einfach nicht beenden,
+
+01:40:49.927 --> 01:40:53.887
+<v Linus Neumann>sodass diese Dinger überall unabgeschlossen in der Gegend rumstanden,
+
+01:40:54.107 --> 01:40:56.927
+<v Linus Neumann>was super praktisch war, weil dann musstest du es ja nicht bezahlen.
+
+01:40:57.567 --> 01:41:01.167
+<v Linus Neumann>Weil du hast einfach deine erste kostenlose Fahrt nie beendet und so wurden
+
+01:41:01.167 --> 01:41:05.527
+<v Linus Neumann>halt eins nach dem anderen von diesen Rädern aufgemacht und wurden dann eben auch, sag ich mal,
+
+01:41:05.627 --> 01:41:11.207
+<v Linus Neumann>ein bisschen zeitsouveräner genutzt, wenn du jetzt irgendwie gegen die 30-Minuten-Schranke
+
+01:41:11.207 --> 01:41:13.627
+<v Linus Neumann>bis zur nächsten Bezahlung anfahren musst als Jugendlicher,
+
+01:41:13.767 --> 01:41:18.427
+<v Linus Neumann>dann hast du da einfach ein anderes Fahrgefühl auch,
+
+01:41:18.587 --> 01:41:22.047
+<v Linus Neumann>als wenn du weißt, das Fahrrad kann ich nicht so lange fahren,
+
+01:41:22.127 --> 01:41:23.607
+<v Linus Neumann>wie ich will, weil es ist offen.
+
+01:41:23.607 --> 01:41:29.067
+<v Linus Neumann>Andere hatten nicht so gute Befestigungen dieser Schließsysteme,
+
+01:41:30.229 --> 01:41:35.009
+<v Linus Neumann>Sodass du da mit einem kleinen Schraubenzieher vom Konrad oder einem langen
+
+01:41:35.009 --> 01:41:38.629
+<v Linus Neumann>Ast dieses Schloss dann auch entfernen konntest.
+
+01:41:39.849 --> 01:41:43.369
+<v Linus Neumann>Insofern, diese standen halt bei mir in der Gegend, wo relativ viele von den
+
+01:41:43.369 --> 01:41:44.809
+<v Linus Neumann>Fahrrädern rumstanden, die waren
+
+01:41:44.809 --> 01:41:49.709
+<v Linus Neumann>ruckzuck auch wieder wie damals alle mit Abus-Schlössern ausgestattet.
+
+01:41:50.749 --> 01:41:53.989
+<v Linus Neumann>Weil das Blöde ist natürlich, wenn dir jemand sein Fahrrad wieder wegnimmt,
+
+01:41:54.029 --> 01:41:58.849
+<v Linus Neumann>du brauchst ja ein Schloss weil das Schloss ist ja in dem Moment auf und so
+
+01:41:58.849 --> 01:42:05.069
+<v Linus Neumann>ist dann jetzt auch einer dieser Anbieter nämlich O-Bike in die.
+
+01:42:07.189 --> 01:42:11.469
+<v Linus Neumann>Insolvenz gegangen sind nicht mehr erreichbar die Fahrräder von denen stehen
+
+01:42:11.469 --> 01:42:18.349
+<v Linus Neumann>in mehreren Metropolen dieser Welt und in Berlin rum und da gibt es jetzt eine
+
+01:42:18.349 --> 01:42:21.569
+<v Linus Neumann>wunderschöne eine Anleitung, wie man die upcyclen kann.
+
+01:42:22.009 --> 01:42:27.249
+<v Linus Neumann>Denn O-Bike ist so pleite, dass sie noch nicht einmal mehr die ursprüngliche
+
+01:42:27.249 --> 01:42:31.669
+<v Linus Neumann>Sign-Up-Fee von 75 Dollar, die sie irgendwie in Singapur abgenommen haben,
+
+01:42:31.909 --> 01:42:35.749
+<v Linus Neumann>ihren Kunden zurückzahlen können, geschweige denn ihren Schrott jetzt aus dieser
+
+01:42:35.749 --> 01:42:36.929
+<v Linus Neumann>Stadt wieder rausholen können.
+
+01:42:37.209 --> 01:42:39.609
+<v Linus Neumann>Und jetzt stehen überall diese O-Bikes rum.
+
+01:42:40.309 --> 01:42:43.829
+<v Linus Neumann>Und da gibt es eine wunderschöne Webseite mit dem mit der URL,
+
+01:42:45.189 --> 01:42:52.329
+<v Linus Neumann>librebike.info wo erklärt wird, wie man diese Fahrräder mithilfe eines Schraubenziehers,
+
+01:42:52.369 --> 01:42:59.929
+<v Linus Neumann>eines Lötkolbens oder eines Akkuschraubers sowie eines Holz-Chopsticks,
+
+01:43:00.149 --> 01:43:09.249
+<v Linus Neumann>die essen Stäbchen, befreien kann und aus diesen Leih- und Mieträdern wieder
+
+01:43:09.249 --> 01:43:11.449
+<v Linus Neumann>echtes Bikesharing machen kann.
+
+01:43:13.449 --> 01:43:14.049
+<v Linus Neumann>Glaubst du, es gibt Ärger?
+
+01:43:17.149 --> 01:43:17.589
+<v Andre Meister>Von wem denn?
+
+01:43:17.689 --> 01:43:18.209
+<v Tim Pritlove>Von O-Bike?
+
+01:43:18.449 --> 01:43:19.209
+<v Andre Meister>Ich denke, die sind dicht.
+
+01:43:22.935 --> 01:43:26.395
+<v Andre Meister>Müsste schon O-Bike sich beschweren, aber dann sollen die erst mal ihre Kaution
+
+01:43:26.395 --> 01:43:27.815
+<v Andre Meister>den Leuten wieder zahlen.
+
+01:43:29.455 --> 01:43:33.335
+<v Linus Neumann>Das haben sie in Deutschland glaube ich nicht abgenommen, das war nur in anderen Ländern.
+
+01:43:33.675 --> 01:43:41.215
+<v Andre Meister>Libre-Bike hat den Unterschied zu den bisherigen Aktionen, Tim hat erzählt,
+
+01:43:41.355 --> 01:43:45.175
+<v Andre Meister>dass man beim CCC einen Code wissen musste, um die zu entsperren.
+
+01:43:45.315 --> 01:43:46.735
+<v Linus Neumann>Der war jetzt nicht so schwer zu erraten.
+
+01:43:46.735 --> 01:43:53.815
+<v Andre Meister>Und ja, das musste man aber trotzdem erstmal wissen und man musste da auf den Blinken achten.
+
+01:43:54.735 --> 01:43:58.195
+<v Andre Meister>LibreBike versteht sich als ziemlich politische Aktion,
+
+01:43:58.295 --> 01:44:05.175
+<v Andre Meister>auch in Tradition von irgendwie dem weißen Fahrradplan von Anarchisten in Holland
+
+01:44:05.175 --> 01:44:11.095
+<v Andre Meister>aus den 60ern, wirklich öffentlichen, kostenlosen Fahrradnahverkehr für alle
+
+01:44:11.095 --> 01:44:12.135
+<v Andre Meister>zur Verfügung zu stellen.
+
+01:44:12.655 --> 01:44:16.535
+<v Andre Meister>Das heißt, die bieten Sticker an, Vorlagen auf der Webseite,
+
+01:44:16.675 --> 01:44:18.995
+<v Andre Meister>die man dann auf befreite Fahrräder kleben kann.
+
+01:44:19.115 --> 01:44:22.235
+<v Andre Meister>Von das ist jetzt kein Oberg mehr, sondern ein Libre-Bike.
+
+01:44:22.695 --> 01:44:26.475
+<v Andre Meister>Nutze es doch, teile es mit anderen und schließe es nicht ab.
+
+01:44:26.755 --> 01:44:31.255
+<v Andre Meister>Sie sind dafür da, mit allen geteilt zu werden. Wir unterstützen keinen Diebstahl.
+
+01:44:31.335 --> 01:44:33.455
+<v Andre Meister>Wenn du dir eins ausborgst, dann bitte verschließe es nicht,
+
+01:44:33.575 --> 01:44:36.215
+<v Andre Meister>zerstöre es nicht und bringe es nicht außer Reichweite von anderen.
+
+01:44:36.355 --> 01:44:40.255
+<v Andre Meister>Lass es einfach im öffentlichen Raum stehen, damit die nächste Person es benutzen kann.
+
+01:44:40.255 --> 01:44:43.375
+<v Linus Neumann>Ja, und das wäre, das ist eigentlich so einfach, ne?
+
+01:44:44.375 --> 01:44:48.535
+<v Linus Neumann>Wäre so einfach, wenn die Menschen das befolgen würden.
+
+01:44:48.695 --> 01:44:51.495
+<v Tim Pritlove>Ja, ich meine, man könnte sich ja eh überlegen, ob es nicht eine Investition
+
+01:44:51.495 --> 01:44:57.075
+<v Tim Pritlove>für die Stadt wäre, einfach mal Fahrräder zu kaufen und so lange in die Stadt
+
+01:44:57.075 --> 01:45:00.255
+<v Tim Pritlove>reinzupumpen, bis sie einfach genug da sind und dann hat immer jeder eins.
+
+01:45:03.715 --> 01:45:06.915
+<v Linus Neumann>Fahrrad, Fahrräder zu fördern, ohnehin eine sehr sinnvolle Idee, ne?
+
+01:45:06.915 --> 01:45:11.875
+<v Tim Pritlove>Also ich meine, die Radläden würden wahrscheinlich anfangen.
+
+01:45:13.670 --> 01:45:17.510
+<v Andre Meister>Die Kutscher beschweren sich über die Fahrräder.
+
+01:45:17.570 --> 01:45:20.770
+<v Tim Pritlove>Ja, dann liegen die halt auch überall rum. Also es ist auch wieder mal so ein
+
+01:45:20.770 --> 01:45:22.910
+<v Tim Pritlove>etwas schwieriger Bereich.
+
+01:45:23.330 --> 01:45:26.130
+<v Andre Meister>Die machen dann die ganze Behandlung, die Fahrrädleinen für die Dinge.
+
+01:45:26.330 --> 01:45:28.590
+<v Andre Meister>Also ich finde das eine echt coole Idee.
+
+01:45:29.270 --> 01:45:32.390
+<v Andre Meister>Vor allem, ihr habt es ja erzählt, dass ihr das gerne nutzt.
+
+01:45:32.430 --> 01:45:37.430
+<v Andre Meister>Ich habe noch nie so ein Fahrrad benutzt, weil ich bin ein bisschen Aluhut-Nerd.
+
+01:45:37.570 --> 01:45:41.230
+<v Andre Meister>Also ich muss da in mir einen Account machen, ich muss da eine Kreditkarte angeben,
+
+01:45:41.270 --> 01:45:45.210
+<v Andre Meister>ich muss wahrscheinlich mit irgendeiner App Dann mich mit einer ID registrieren
+
+01:45:45.210 --> 01:45:50.690
+<v Andre Meister>und dann gibt es in irgendeinem Online-Dienst, in irgendeiner Cloud ein Bewegungsprofil in China.
+
+01:45:51.590 --> 01:45:55.450
+<v Andre Meister>Die hatten doch auch da ein Datenreichtum, so eins dieser Anbieter,
+
+01:45:55.470 --> 01:46:00.010
+<v Andre Meister>hat der Heise auch berichtet. war da die Datenbank weg und so.
+
+01:46:00.270 --> 01:46:04.030
+<v Andre Meister>Also da steht dann mein Bewegungsprofil, meine Kreditkarte, mein Real Name,
+
+01:46:05.290 --> 01:46:07.130
+<v Andre Meister>gebunden an die Telefonnummer oder so.
+
+01:46:07.550 --> 01:46:10.690
+<v Andre Meister>Deswegen habe ich sowas noch nie mitgebracht. So eine stadtweite,
+
+01:46:10.690 --> 01:46:14.410
+<v Andre Meister>freie Fahrradinitiative, Fahrradkommunismus für alle, wer sich eins nimmt.
+
+01:46:15.490 --> 01:46:18.170
+<v Andre Meister>Wer eins braucht, der nimmt sich eins, stellt es dann wieder hin,
+
+01:46:18.270 --> 01:46:21.550
+<v Andre Meister>statt irgendwie die längste Zeit das ohnehin angesperrt zu lassen,
+
+01:46:21.670 --> 01:46:25.770
+<v Andre Meister>nur weil man auf das Privateigentum steht. Fände ich eine echt coole Initiative.
+
+01:46:26.490 --> 01:46:29.590
+<v Andre Meister>Ähnlich wie fahrscheinloser Nahverkehr in ÖPNV.
+
+01:46:31.490 --> 01:46:38.950
+<v Tim Pritlove>Ja, das ist alles ein Problem. Nichtsdestotrotz ist es besser,
+
+01:46:39.010 --> 01:46:40.890
+<v Tim Pritlove>als wenn es diese Systeme nicht gäbe.
+
+01:46:41.910 --> 01:46:45.430
+<v Andre Meister>Wir müssen jetzt nur aufpassen, dass die Cops nicht bei Cloudflare einreiten
+
+01:46:45.430 --> 01:46:49.870
+<v Andre Meister>und da Server beschlagnahmen, weil da liegt nämlich diese LibreBike-Seite.
+
+01:46:50.130 --> 01:46:52.950
+<v Andre Meister>Nicht, dass das wieder Aufruf zu Straftaten ist oder sowas.
+
+01:46:54.370 --> 01:46:57.250
+<v Linus Neumann>Ja, das muss man noch dazu sagen.
+
+01:46:58.110 --> 01:47:02.070
+<v Tim Pritlove>Auch hier rieche ich schon wieder eine interessante, angeregte Diskussion.
+
+01:47:08.052 --> 01:47:10.632
+<v Linus Neumann>Jetzt aber wirklich zur letzten Sache.
+
+01:47:10.632 --> 01:47:11.672
+<v Tim Pritlove>Weil es wird Zeit.
+
+01:47:12.032 --> 01:47:17.372
+<v Linus Neumann>Es wird Zeit. Und die einzige Frage, die sich stellt, ist, in welcher Zeitzone
+
+01:47:17.372 --> 01:47:20.052
+<v Linus Neumann>und in welcher Zeit? Sommer oder Winter?
+
+01:47:20.692 --> 01:47:24.092
+<v Linus Neumann>Es gibt eine öffentliche Konsultation zur Sommerzeitregelung,
+
+01:47:24.152 --> 01:47:27.452
+<v Linus Neumann>die abgehalten wird von der EU.
+
+01:47:29.492 --> 01:47:37.752
+<v Linus Neumann>Die gerne wissen möchte, wie denn wir oder ihr zur Sommerzeit stehen.
+
+01:47:38.052 --> 01:47:42.672
+<v Linus Neumann>Und nach mehreren Tagen Dauerüberlastung funktioniert diese Seite jetzt.
+
+01:47:42.852 --> 01:47:47.352
+<v Linus Neumann>Und da soll unter Umständen darüber entschieden, soll halt geprüft und bewertet
+
+01:47:47.352 --> 01:47:54.892
+<v Linus Neumann>werden, ob man die derzeitigen Sommerzeitregelungen der EU beibehält oder ob man sie ändert.
+
+01:47:55.812 --> 01:47:58.452
+<v Linus Neumann>Und André, was meinst du?
+
+01:47:59.872 --> 01:48:04.172
+<v Andre Meister>Ich bin für mehr Sommerzeit. Mein Problem mit der Umfrage ist,
+
+01:48:04.312 --> 01:48:06.052
+<v Andre Meister>Leute sind gegen Zeitumstellung,
+
+01:48:06.732 --> 01:48:12.692
+<v Andre Meister>aber denen ist es dann egal, welche Zeit ist quasi die wären auch zufrieden
+
+01:48:12.692 --> 01:48:16.892
+<v Andre Meister>damit wenn einfach das ganze Jahr über Winterzeit ist ich nenne das immer Dunkelzeit und ich hasse das,
+
+01:48:17.972 --> 01:48:23.452
+<v Andre Meister>für Spätaufsteher Leute, die nicht irgendwie schon 6 Uhr morgens aufstehen ist
+
+01:48:23.452 --> 01:48:29.372
+<v Andre Meister>Winterzeit echt gruselig irgendwie fällt auch noch damit zusammen, dass ohnehin,
+
+01:48:30.392 --> 01:48:33.912
+<v Andre Meister>die Tageslichtdauer sehr kurz ist wenn die,
+
+01:48:35.652 --> 01:48:38.892
+<v Andre Meister>Wenn die Standardzeit zur Winterzeit wird und die jetzt auch noch im Sommer
+
+01:48:38.892 --> 01:48:42.152
+<v Andre Meister>ist, dann bin ich da eigentlich gar nicht so gegen diese Zeitumstellung,
+
+01:48:42.272 --> 01:48:43.372
+<v Andre Meister>die nervt mich gar nicht so sehr.
+
+01:48:43.532 --> 01:48:47.072
+<v Andre Meister>Es ist aber natürlich eine Chance, wir könnten jetzt die Zeitumstellung abschaffen
+
+01:48:47.072 --> 01:48:50.932
+<v Andre Meister>und Sommerzeit zur Normalzeit machen, das wäre natürlich cool.
+
+01:48:51.992 --> 01:48:58.232
+<v Andre Meister>Dann wird es auch im Winter eine Stunde später hell, dann quasi um halb acht
+
+01:48:58.232 --> 01:48:59.512
+<v Andre Meister>oder so statt halb sieben.
+
+01:48:59.512 --> 01:49:03.872
+<v Andre Meister>Dafür aber nicht mehr, wann ist das hier dunkel im Winter, irgendwie halb fünf,
+
+01:49:03.992 --> 01:49:08.312
+<v Andre Meister>16.30 ist schon wieder kommst du aus der Arbeit und es ist schon dunkel,
+
+01:49:08.352 --> 01:49:10.312
+<v Andre Meister>wäre geil, wenn das eine Stunde später wäre.
+
+01:49:10.392 --> 01:49:11.832
+<v Tim Pritlove>Du möchtest die russische Lösung haben.
+
+01:49:12.152 --> 01:49:14.892
+<v Andre Meister>Ne, die russische Lösung haben wir da vorne schon, die haben neun Zeitzonen
+
+01:49:14.892 --> 01:49:18.032
+<v Andre Meister>und überall ist Moskau-Zeit und du musst das immer umrechnen.
+
+01:49:18.352 --> 01:49:21.732
+<v Tim Pritlove>Russland hatte bis vor mehreren Jahren, vor drei Jahren oder so,
+
+01:49:21.912 --> 01:49:26.412
+<v Tim Pritlove>auch Sommerzeit und Winterzeit hat es abgeschafft und ist bei Sommerzeit geblieben.
+
+01:49:26.532 --> 01:49:29.732
+<v Andre Meister>Ja, das wäre ja, wenn das dieses Outcome ist, dann bin ich zufrieden.
+
+01:49:29.752 --> 01:49:32.412
+<v Andre Meister>Wenn der Outcome ist über Winterzeit, dann bin ich lieber für die Zeitumstellung.
+
+01:49:33.992 --> 01:49:41.012
+<v Tim Pritlove>Also dazu muss man natürlich wissen, es gibt keine EU-einheitliche Zeitzone.
+
+01:49:41.192 --> 01:49:46.352
+<v Tim Pritlove>Auch wenn das irgendwie in dieser Umfrage so ein bisschen suggeriert wird,
+
+01:49:46.392 --> 01:49:48.012
+<v Tim Pritlove>wenn ich das richtig in Erinnerung habe.
+
+01:49:48.312 --> 01:49:52.732
+<v Tim Pritlove>Also da ist zumindest von einer EU-weiten Regelung die Rede.
+
+01:49:53.152 --> 01:49:54.512
+<v Andre Meister>Eine Regelung zur Sommerzeit.
+
+01:49:54.572 --> 01:49:59.492
+<v Tim Pritlove>Ja, zur Sommerzeit ist richtig. Genau. Also Also stimmt, darum geht es.
+
+01:50:00.092 --> 01:50:06.072
+<v Tim Pritlove>Auf jeden Fall, Tatsache ist, Finnland und die baltischen Länder,
+
+01:50:06.252 --> 01:50:09.632
+<v Tim Pritlove>Rumänien, Bulgarien, Griechenland sind plus zwei.
+
+01:50:11.232 --> 01:50:19.032
+<v Tim Pritlove>Zentraleuropa mit Ausnahme Portugal ist plus eins und eben Portugal,
+
+01:50:19.352 --> 01:50:24.012
+<v Tim Pritlove>UK, Irland und Island sind auf Greenwich Meantime.
+
+01:50:25.612 --> 01:50:33.452
+<v Tim Pritlove>Und einheitliche Zeit heißt ja auch von Polen bis Spanien also wenn man sozusagen auf Sommerzeit geht,
+
+01:50:33.692 --> 01:50:37.852
+<v Tim Pritlove>muss ich kurz nochmal nachdenken also Sommerzeit heißt wir schieben die Zeit
+
+01:50:37.852 --> 01:50:44.372
+<v Tim Pritlove>nach hinten wie man so schön sagt, es bleibt abends länger hell oder das helle heißt jetzt Abend,
+
+01:50:45.532 --> 01:50:47.892
+<v Tim Pritlove>das war alles eine Definitionssache,
+
+01:50:49.412 --> 01:50:53.012
+<v Tim Pritlove>dann verschiebt sich das natürlich in diesem kompletten Block Block.
+
+01:50:55.132 --> 01:50:57.552
+<v Tim Pritlove>Und das wäre für...
+
+01:51:05.223 --> 01:51:09.043
+<v Linus Neumann>Warum muss denn diese Zeit innerhalb von Europa vereinheitlicht werden?
+
+01:51:10.343 --> 01:51:13.403
+<v Tim Pritlove>Also die Umstellung von einer Winterzeit auf eine Sommerzeit,
+
+01:51:13.503 --> 01:51:15.563
+<v Tim Pritlove>die muss auf jeden Fall einheitlich sein.
+
+01:51:16.003 --> 01:51:20.703
+<v Tim Pritlove>Weil das wäre nun der totale Terror, dass du was weiß ich, in Niedersachsen
+
+01:51:20.703 --> 01:51:23.483
+<v Tim Pritlove>hast du irgendwie noch Winterzeit, dann fährst du nach Holland und dann ist
+
+01:51:23.483 --> 01:51:25.703
+<v Tim Pritlove>da auf einmal Sommerzeit, da blickt ja keiner mehr durch.
+
+01:51:25.983 --> 01:51:29.863
+<v Tim Pritlove>Aber ich finde halt auch grundsätzlich hat sich einfach dieses Winterzeit-Sommerzeit-Modell
+
+01:51:29.863 --> 01:51:32.783
+<v Tim Pritlove>einfach komplett überholt, beziehungsweise war eigentlich noch nie eine richtig
+
+01:51:32.783 --> 01:51:37.083
+<v Tim Pritlove>gute Idee. Es gibt da ja verschiedene Mythen, warum das irgendwie alles mal
+
+01:51:37.083 --> 01:51:38.083
+<v Tim Pritlove>eingeführt werden soll.
+
+01:51:38.183 --> 01:51:41.283
+<v Tim Pritlove>Da gibt es irgendwie so diesen offiziellen Mythos mit dem Energiesparen,
+
+01:51:41.343 --> 01:51:44.723
+<v Tim Pritlove>weil wenn es ja länger hell ist und so weiter, das hat sich aber durch keine
+
+01:51:44.723 --> 01:51:46.823
+<v Tim Pritlove>Studie jemals belegen lassen.
+
+01:51:46.983 --> 01:51:50.583
+<v Tim Pritlove>Ganz im Gegenteil, der ganze Aufwand, den man damit hat, führt tendenziell eher
+
+01:51:50.583 --> 01:51:52.663
+<v Tim Pritlove>noch zu mehr Energieversorgung.
+
+01:51:52.663 --> 01:51:56.503
+<v Tim Pritlove>Wir kennen das alles aus der Computersystemadministration, da ist es die totale
+
+01:51:56.503 --> 01:51:59.063
+<v Tim Pritlove>Hölle, also dass ein Computer sozusagen,
+
+01:51:59.223 --> 01:52:04.683
+<v Tim Pritlove>dass derselbe Moment zweimal existiert, ja,
+
+01:52:04.783 --> 01:52:10.363
+<v Tim Pritlove>man sich das eben immer in diesen Umstellungszeiträumen dann eben doppelt merken
+
+01:52:10.363 --> 01:52:14.723
+<v Tim Pritlove>muss und Logfiles entsprechend anpassen muss, Software dann eben nicht aus der Spur geraten darf.
+
+01:52:14.723 --> 01:52:18.203
+<v Tim Pritlove>Das ist immer wieder total anstrengend und im Prinzip ist Sommerzeit,
+
+01:52:18.283 --> 01:52:23.023
+<v Tim Pritlove>Winterzeit einfach ein Ding, was weltweit fallen müsste und wenn die EU sich
+
+01:52:23.023 --> 01:52:27.463
+<v Tim Pritlove>da bewegt, dann kann ich mir auch durchaus vorstellen, dass das Welle macht
+
+01:52:27.463 --> 01:52:29.223
+<v Tim Pritlove>in andere Länder hinein.
+
+01:52:29.223 --> 01:52:34.543
+<v Tim Pritlove>Also Zeitzonen sind schon ein Problem, aber zumindest ist die Zeit klar und.
+
+01:52:37.543 --> 01:52:43.683
+<v Tim Pritlove>Sommerzeit und Winterzeit nervt einfach nur, bringt nix Winterzeit nervt Biorhythmus
+
+01:52:43.683 --> 01:52:48.843
+<v Tim Pritlove>durcheinander am Ende ist es ja auch egal welche Uhrzeit ist,
+
+01:52:49.423 --> 01:52:54.543
+<v Tim Pritlove>weil wenn du der Meinung bist, es ist noch nicht hell genug damit dein Laden aufmachen kann,
+
+01:52:54.683 --> 01:52:59.383
+<v Tim Pritlove>mein Gott dann machst du ihn halt später auf und hast länger offen Also man
+
+01:52:59.383 --> 01:53:01.883
+<v Tim Pritlove>hat ja auch die Flexibilität,
+
+01:53:01.943 --> 01:53:05.943
+<v Tim Pritlove>hier geht es ja darum die Synchronisation der Kernarbeitszeiten hinzubekommen
+
+01:53:05.943 --> 01:53:10.783
+<v Tim Pritlove>und zumindest übertragbare Meetingzeiten zu haben und dann ist es irgendwie
+
+01:53:10.783 --> 01:53:12.323
+<v Tim Pritlove>auch letztendlich egal wie man es nennt.
+
+01:53:12.323 --> 01:53:16.003
+<v Andre Meister>Wann Schulen anfangen und Behörden, das wird sich dadurch nicht ändern und da
+
+01:53:16.003 --> 01:53:20.623
+<v Andre Meister>fahren die Busfahrpläne, danach ist der öffentliche Tagesablauf,
+
+01:53:20.763 --> 01:53:23.063
+<v Andre Meister>so Kernzeit, danach kommt die Tagesschau und so,
+
+01:53:23.243 --> 01:53:26.903
+<v Andre Meister>das wird, ich meine, man hängt da schon auch von anderen Menschen ab,
+
+01:53:26.983 --> 01:53:30.203
+<v Andre Meister>nicht nur wann man seinen Laden aufmacht und sein Leben gestaltet.
+
+01:53:30.463 --> 01:53:33.243
+<v Tim Pritlove>Ja, was möchtest du gerne? Ich hätte gerne immer Sommerzeit.
+
+01:53:34.363 --> 01:53:36.403
+<v Tim Pritlove>Ja, aber was ist denn an der Sommerzeit jetzt?
+
+01:53:36.883 --> 01:53:41.903
+<v Andre Meister>Es ist abends länger hell, es ist nicht im Winter schon 16.30 Uhr dunkel, ich hasse das.
+
+01:53:41.903 --> 01:53:43.583
+<v Linus Neumann>Es wäre doch mal gut, wenn es 17.30.
+
+01:53:43.583 --> 01:53:44.243
+<v Andre Meister>Uhr dunkel wäre.
+
+01:53:44.243 --> 01:53:45.363
+<v Tim Pritlove>Ist doch egal, wie die Uhr in der Nähe ist.
+
+01:53:45.363 --> 01:53:50.743
+<v Linus Neumann>Wer im Dunkeln aufstehen will, kann das gerne machen. Ich will abends länger hell.
+
+01:53:52.143 --> 01:53:52.583
+<v Andre Meister>Genau.
+
+01:53:55.035 --> 01:53:57.635
+<v Linus Neumann>Dass ich persönlich dann auch noch so lange schlafe, bis es hell wird,
+
+01:53:57.855 --> 01:54:01.255
+<v Linus Neumann>ist meine persönliche...
+
+01:54:01.835 --> 01:54:05.955
+<v Tim Pritlove>Okay, wir halten fest, Sommerzeit und Winterzeit-Umstellung finden wir alle
+
+01:54:05.955 --> 01:54:07.915
+<v Tim Pritlove>doof. Die Nerds hätten es gerne länger hell.
+
+01:54:08.435 --> 01:54:12.255
+<v Tim Pritlove>Die Eltern werden vielleicht eine andere Position haben und die Schulen und so weiter.
+
+01:54:12.375 --> 01:54:14.655
+<v Tim Pritlove>Aber das ist ein anderes Thema, das werden wir jetzt ja auch nicht lösen.
+
+01:54:14.715 --> 01:54:23.655
+<v Tim Pritlove>Wir schreiben den Link zu dieser Konsultation der Europäischen Kommission in unsere Show Notes.
+
+01:54:23.655 --> 01:54:27.435
+<v Linus Neumann>Falls ihr da meine Meinung vertretet, seid ihr herzlich eingeladen, daran teilzunehmen.
+
+01:54:28.495 --> 01:54:32.555
+<v Andre Meister>Ich habe auch noch einen netzpolitischen Aspekt. Die binden Google ein,
+
+01:54:32.755 --> 01:54:37.415
+<v Andre Meister>die EU-Kommission, und zwar Recapture, und haben das nicht in ihrer Datenschutzerklärung stehen.
+
+01:54:39.075 --> 01:54:41.835
+<v Andre Meister>Können wir gleich mit DSGVO Beschwerde machen.
+
+01:54:42.195 --> 01:54:45.135
+<v Linus Neumann>Wenn die Konsultation nicht zu dem Ergebnis führt, was wir wollen,
+
+01:54:45.155 --> 01:54:48.015
+<v Linus Neumann>dann können wir die platt machen.
+
+01:54:49.675 --> 01:54:52.775
+<v Linus Neumann>Okay, super. Dann ist das Ding auf jeden Fall erstmal safe.
+
+01:54:52.775 --> 01:54:55.735
+<v Tim Pritlove>Zeitumstellung ungültig wegen DSGV.
+
+01:54:56.955 --> 01:54:59.455
+<v Linus Neumann>So, damit wären wir dann bei den,
+
+01:55:01.835 --> 01:55:02.555
+<v Linus Neumann>Terminen.
+
+01:55:11.807 --> 01:55:18.707
+<v Linus Neumann>Am 27.07. feiert Systemly seine, ich glaube inzwischen jährlich stattfindende
+
+01:55:18.707 --> 01:55:22.347
+<v Linus Neumann>Benefiz-Party im About-Blank-Systemly.
+
+01:55:23.087 --> 01:55:30.927
+<v Linus Neumann>Ein Anbieter von E-Mail, Hosting, Jabba und Sonstigem für die Massen und kostenlos und frei.
+
+01:55:32.507 --> 01:55:38.387
+<v Linus Neumann>Deswegen unterstützenswert. Die Party findet statt unter dem Motto Dance Like Nobody Is Watching.
+
+01:55:38.627 --> 01:55:39.727
+<v Tim Pritlove>In Berlin im Übrigen.
+
+01:55:39.907 --> 01:55:40.907
+<v Linus Neumann>In Übrigen, habe ich gesagt.
+
+01:55:41.147 --> 01:55:41.607
+<v Tim Pritlove>Hast du gesagt?
+
+01:55:41.807 --> 01:55:44.067
+<v Linus Neumann>Ja, im About Blank, aber nicht im übrigen.
+
+01:55:44.727 --> 01:55:50.527
+<v Tim Pritlove>Ach, ha, ha, ha, ha. Naja, aber wenn ich in Berlin feiern möchte,
+
+01:55:50.627 --> 01:55:54.427
+<v Tim Pritlove>hätte die Gelegenheit in der Nähe von Braunschweig, zwischen Braunschweig und,
+
+01:55:56.287 --> 01:56:01.907
+<v Tim Pritlove>Wolfsburg, genauer in Röttgesbüttel, das Hacken Open Air zu besuchen.
+
+01:56:01.947 --> 01:56:07.107
+<v Tim Pritlove>Feinstes Hackercamping, ausgerichtet vom Hackerspace Stratum 0 für Braunschweig
+
+01:56:07.107 --> 01:56:12.327
+<v Tim Pritlove>und Umgebung und ja, dort kann man basteln, diskutieren, grillen,
+
+01:56:12.327 --> 01:56:16.107
+<v Tim Pritlove>was man auf so einem Hacker-Open-Air eben so macht. Das findet statt vom 2.
+
+01:56:16.387 --> 01:56:20.927
+<v Tim Pritlove>Bis 5. August 2018 in Röttgesbüttel.
+
+01:56:21.587 --> 01:56:26.287
+<v Linus Neumann>Dann gibt es noch vom 26.9. bis 3.10.
+
+01:56:26.587 --> 01:56:30.847
+<v Linus Neumann>Wird geplant eine Privacy Week in Berlin stattfinden.
+
+01:56:31.267 --> 01:56:37.087
+<v Linus Neumann>Ein vielfältiges Programm mit Vorträgen und Workshops, Kunst, Kultur ist geplant.
+
+01:56:37.647 --> 01:56:41.327
+<v Linus Neumann>Man kann daran teilnehmen. Kontakt gibt es auf der Webseite,
+
+01:56:42.507 --> 01:56:49.887
+<v Linus Neumann>und da ist also dann noch einmal nach Berlin geladen, um hier das Modell der
+
+01:56:49.887 --> 01:56:53.807
+<v Linus Neumann>österreichischen, wienerischen Privacy Week ein bisschen zu kopieren.
+
+01:56:53.907 --> 01:56:55.387
+<v Tim Pritlove>Und wir fahren dann nach Wien oder was?
+
+01:56:56.027 --> 01:56:57.787
+<v Linus Neumann>Die ist ja nicht zur gleichen Zeit, oder?
+
+01:56:57.947 --> 01:56:59.027
+<v Tim Pritlove>Nö, das nicht.
+
+01:56:59.287 --> 01:57:04.327
+<v Linus Neumann>Wir fahren nach Wien und somit sei das jetzt hier auch empfohlen,
+
+01:57:04.327 --> 01:57:05.867
+<v Linus Neumann>macht, dass sie passiert.
+
+01:57:09.350 --> 01:57:12.870
+<v Tim Pritlove>Ja, damit sind wir am Ende der Sendung angekommen.
+
+01:57:13.850 --> 01:57:14.310
+<v Linus Neumann>Ja.
+
+01:57:14.770 --> 01:57:16.470
+<v Tim Pritlove>Privacy Weeks ohne Ende sozusagen.
+
+01:57:17.330 --> 01:57:19.670
+<v Linus Neumann>Das ganze Jahr muss Privacy Weeks sein.
+
+01:57:20.210 --> 01:57:22.510
+<v Tim Pritlove>Privacy Year, das Jahr der Privatsphäre.
+
+01:57:22.590 --> 01:57:26.490
+<v Linus Neumann>Das ist aber lange her, ne? Das Jahr der Privatsphäre.
+
+01:57:26.710 --> 01:57:30.030
+<v Tim Pritlove>Ja, das müssen wir einfach mal ausrufen. So was macht man heutzutage.
+
+01:57:30.090 --> 01:57:35.390
+<v Tim Pritlove>Es gibt ja, was weiß ich, den Tag der Büroklammer und der gewaschene Unterwäsche.
+
+01:57:35.790 --> 01:57:37.550
+<v Linus Neumann>Tag des Borkenkäfers.
+
+01:57:37.550 --> 01:57:41.330
+<v Tim Pritlove>Ja, so macht man das einfach. Man ruft es einfach aus. Das könnte auch der CCC mal tun.
+
+01:57:41.530 --> 01:57:47.210
+<v Tim Pritlove>Zum Beispiel, dass man einfach sagt, das ist der internationale Tag des Schutzes der Privatsphäre.
+
+01:57:47.710 --> 01:57:51.950
+<v Tim Pritlove>Das ist einfach so. Das weiß man ja. Das ist ja auch schon immer so gewesen.
+
+01:57:52.370 --> 01:57:57.670
+<v Tim Pritlove>Und anlässlich dessen muss auf Arte eine entsprechende Dokumentation laufen
+
+01:57:57.670 --> 01:58:02.590
+<v Tim Pritlove>und bei ZDF und ARD eine Aktuelle Stunde einberufen werden oder im Bundestag.
+
+01:58:02.590 --> 01:58:09.250
+<v Linus Neumann>Und ich fordere, dass zum internationalen Tag der Privatsphäre irgendwo in der
+
+01:58:09.250 --> 01:58:12.710
+<v Linus Neumann>Pampa eine temporäre Funkzelle aufgebaut wird unter großem Pomp.
+
+01:58:15.550 --> 01:58:18.430
+<v Tim Pritlove>Ohne Vorratsdatenspeicherung die Privatsphäre zu schützen.
+
+01:58:20.090 --> 01:58:25.430
+<v Linus Neumann>Und die Journalisten werden mit Bussen dahin gekarrt. Ohne WLAN.
+
+01:58:27.310 --> 01:58:35.110
+<v Linus Neumann>So, damit sind wir am Ende dieses Desasters. des Desasters der diesigen Woche.
+
+01:58:37.310 --> 01:58:39.910
+<v Linus Neumann>André, vielen herzlichen Dank, dass du uns mal wieder beehrt hast hier.
+
+01:58:40.530 --> 01:58:41.070
+<v Andre Meister>Danke euch.
+
+01:58:43.344 --> 01:58:47.204
+<v Linus Neumann>Lustig war es. Tim bastelt jetzt weiter am Datenelch.
+
+01:58:49.084 --> 01:58:50.044
+<v Tim Pritlove>Libre Elch.
+
+01:58:50.404 --> 01:58:59.404
+<v Linus Neumann>Libre Elch. Und ich danke Manuel, Tim, Das wäre doch nicht nötig gewesen.
+
+01:59:00.204 --> 01:59:07.604
+<v Linus Neumann>Steffen sehr besonders und dem langjährigen Wiederholungstäter Bernd auch äußerst
+
+01:59:07.604 --> 01:59:08.904
+<v Linus Neumann>besonders. Vielen herzlichen Dank.
+
+01:59:09.164 --> 01:59:14.244
+<v Tim Pritlove>Ja, ich danke auch allen Leuten, die sich an der tollen neuen Aktion 1001 Tower-Aufträge
+
+01:59:14.244 --> 01:59:16.244
+<v Tim Pritlove>für die Meta-Ebene beteiligen.
+
+01:59:16.444 --> 01:59:20.964
+<v Tim Pritlove>Ist das so? Ja, habe ich in der letzten Freakshow mal etwas ausführlicher dargelegt,
+
+01:59:20.984 --> 01:59:27.204
+<v Tim Pritlove>wie sich das alles so mit Hörerzahlen und Supporterquoten und so weiter verhält.
+
+01:59:27.344 --> 01:59:29.164
+<v Tim Pritlove>Da werde ich auch noch mal was zu bloggen.
+
+01:59:29.404 --> 01:59:32.644
+<v Linus Neumann>Die letzte Freakshow habe ich noch gar nicht gehört, weil da war ja hoher Besuch.
+
+01:59:32.704 --> 01:59:36.144
+<v Linus Neumann>Da war ja hoher Besuch. Die habe ich mir aufbewahrt, extra nicht zum Einschlafen hören.
+
+01:59:37.304 --> 01:59:40.484
+<v Linus Neumann>Monkeydom, ne? Genau. Lange nicht gesehen, weil der war ja weg gewesen.
+
+01:59:40.484 --> 01:59:43.404
+<v Linus Neumann>Genau, bei Äpfel Computing.
+
+01:59:43.404 --> 01:59:46.844
+<v Tim Pritlove>Und hat in der Sendung dann auch mal ausführlich berichtet, wie es so ist,
+
+01:59:46.924 --> 01:59:52.824
+<v Tim Pritlove>bei Äpfel Computing und in den USA der Neuzeit so zu arbeiten.
+
+01:59:53.164 --> 01:59:56.484
+<v Linus Neumann>Ist er wenigstens aus sympathischen politischen Gründen wieder gegangen?
+
+01:59:56.684 --> 02:00:01.584
+<v Tim Pritlove>Es gab eine Gemengelage an Gründen, die ihn letzten Endes zur Rückkehr bewogen haben.
+
+02:00:01.964 --> 02:00:07.524
+<v Linus Neumann>Okay, bin ich sehr gespannt. auf die Sendung. Also Monkeydom und Neutrinos aus
+
+02:00:07.524 --> 02:00:14.224
+<v Linus Neumann>der Meta-Ebene und dazu der Aufruf uns zumindest einen Daten-Elch zu spenden.
+
+02:00:14.264 --> 02:00:16.204
+<v Linus Neumann>Der Tim hat einen kleinen Landsitz.
+
+02:00:16.584 --> 02:00:22.084
+<v Linus Neumann>Wenn der da nicht reinpasst, dann machen wir das bei Clemens und der Clemens
+
+02:00:22.084 --> 02:00:23.724
+<v Linus Neumann>baut auf jeden Fall schön Daten-Elchen.
+
+02:00:23.784 --> 02:00:27.604
+<v Tim Pritlove>Treibt die Elche zu Clemens, der baut sie zu Daten-Elchen um und treibt sie
+
+02:00:27.604 --> 02:00:28.924
+<v Tim Pritlove>dann durch die brandenburgische Pampa.
+
+02:00:30.544 --> 02:00:36.404
+<v Linus Neumann>Und wenn der Daten-Elch leer ist, wird er wieder aufgeladen von Clemens am Supercharger.
+
+02:00:40.724 --> 02:00:43.804
+<v Tim Pritlove>Das ist schon wieder los.

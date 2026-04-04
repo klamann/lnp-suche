@@ -1,0 +1,1877 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP169 Unsere Freiheit wird auch an der Firewall verteidigt
+Publishing Date: 2016-01-22T13:49:54+01:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp169-unsere-freiheit-wird-auch-an-der-firewall-verteidigt
+
+00:00:00.005 --> 00:00:01.844
+<v Tim Pritlove>Guten Morgen Linus.
+
+00:00:00.006 --> 00:00:03.040
+<v Linus Neumann>Morgen, Liebe. Guten Morgen, Tim.
+
+00:00:08.208 --> 00:00:15.419
+<v Linus Neumann>Ich äh bin irgendwie immer noch so auf Pluto eingestellt und komme da irgendwie noch nicht so ganz,
+
+00:00:15.557 --> 00:00:22.822
+<v Linus Neumann>zurecht, aber ich merke natürlich schon äh wie die Gravitationswellen hier einiges in Wallung gebracht haben.
+
+00:00:44.070 --> 00:00:54.363
+<v Tim Pritlove>Netzpolitik hundertneunundsechzig äh live aus dem Raumfahrtkulturzentrum im Preslauer Berg,
+
+00:00:54.971 --> 00:01:04.326
+<v Tim Pritlove>Ja, habe schon immer geahnt. Jetzt äh jetzt haben wir, jetzt haben wir so ein äh können wir mal gucken, wie wir das Ding nennen, ne? Kann ja jeder auch einen Vorschlag machen.
+
+00:01:05.853 --> 00:01:09.200
+<v Tim Pritlove>Ne, er ist ja eher äh IX.
+
+00:01:09.098 --> 00:01:10.598
+<v Linus Neumann>Ja, Pech gehabt.
+
+00:01:12.273 --> 00:01:14.073
+<v Linus Neumann>Tut's allen wieder leid.
+
+00:01:13.773 --> 00:01:18.103
+<v Tim Pritlove>Nee, was der andere Name, oder sowas, ne, bei den.
+
+00:01:17.937 --> 00:01:19.541
+<v Linus Neumann>Ich habe noch nicht genau geguckt, also.
+
+00:01:19.291 --> 00:01:21.560
+<v Tim Pritlove>Den Lunis gibt's dann immer so verschiedene.
+
+00:01:21.903 --> 00:01:34.215
+<v Linus Neumann>Also nach wem könnte man jetzt gerade meinen Planeten benennen? Jetzt ärgert man sich natürlich, dass wir Lemmy Kirmes da schon für dieses äh für dieses chemische Element äh verballern wollen.
+
+00:01:31.836 --> 00:01:39.341
+<v Tim Pritlove>Das Element vorgeschlagen. Ja, mal gucken, ne? Ne, ich meine, David Boey würde sich noch anbieten.
+
+00:01:39.143 --> 00:01:44.389
+<v Linus Neumann>Bowie. Ja, das wäre schon, also der hat Bowie ein.
+
+00:01:44.089 --> 00:01:50.344
+<v Tim Pritlove>Könnte schon mal Planet ja einfach Planet Bowie. Warum nicht?
+
+00:01:57.014 --> 00:02:03.708
+<v Tim Pritlove>Naja, wir haben das wahrscheinlich am Ende wieder nicht äh zu entscheiden, wie immer. Nee, wir haben so gute.
+
+00:02:01.647 --> 00:02:04.880
+<v Linus Neumann>Uns fragt wieder keiner. Keiner fragt die Basis.
+
+00:02:04.580 --> 00:02:15.203
+<v Tim Pritlove>Die Basis ist raus. Nee, das äh die wahren Entscheidungen werden immer in kleinen Kreisen gefällt. Weißt du, wie das ist, ne? Ist schlimm.
+
+00:02:17.698 --> 00:02:26.549
+<v Tim Pritlove>Genau. Aber immerhin äh wir arbeiten dran unsere Basis äh zu verbreitern und die Zirkel etwas aufzubrechen und äh haben heute noch einen Gast an Bord.
+
+00:02:27.017 --> 00:02:30.238
+<v Tim Pritlove>Den Alexander Alexander Sander, hallo,
+
+00:02:30.653 --> 00:02:34.649
+<v Tim Pritlove>Willkommen bei Logbuch Netzpolitik. Ähm.
+
+00:02:36.013 --> 00:02:44.173
+<v Tim Pritlove>Alex, du bist ähm ja, du bist äh aktiv und zwar bei der digitalen Gesellschaft.
+
+00:02:45.898 --> 00:02:49.245
+<v Tim Pritlove>Vielleicht kannst du ja mal selber,
+
+00:02:49.317 --> 00:02:55.825
+<v Tim Pritlove>erzählen, was da so euer äh Zentral eure zentralen Inhalte und Aktivitäten sind.
+
+00:03:29.596 --> 00:03:33.514
+<v Tim Pritlove>Eure primäre, wie soll ich sagen, also,
+
+00:03:33.682 --> 00:03:38.249
+<v Tim Pritlove>was siehst du so als euren Hauptwirkungsvektor?
+
+00:03:49.552 --> 00:03:51.318
+<v Tim Pritlove>Würdest du die.
+
+00:05:06.582 --> 00:05:17.320
+<v Tim Pritlove>Ja, dazu gehört natürlich auch so ein gewisser Früherkennungsaspekt, also man muss dann eben auch die Nase schon äh längst im Wind haben, wenn die Düfte anfangen herüberzuziehen,
+
+00:05:17.513 --> 00:05:18.456
+<v Tim Pritlove>häufig
+
+00:05:18.444 --> 00:05:32.950
+<v Tim Pritlove>Wird man ja oder wurde sagen wir der Aktivismus auch immer ganz gerne überrollt von mehr oder weniger fertigen Ergebnissen mit Klassiker ist immer so, oh der Bundestag will morgen über irgendwas abstimmen, äh das gefällt uns aber gar nicht, da sind wir ja jetzt mal kurz dagegen,
+
+00:05:33.143 --> 00:05:40.083
+<v Tim Pritlove>äh bringt natürlich herzlich wenig. Was würdest du sagen, ist so der Zeitpunkt, wo man eigentlich spätestens.
+
+00:05:41.381 --> 00:05:42.618
+<v Tim Pritlove>Bekommen haben sollte.
+
+00:07:08.825 --> 00:07:23.354
+<v Tim Pritlove>Und würdest du sagen, dass derzeit der Trend deutlich hin mehr zu europäischer Aktivität geht oder ist das äh hält sich das noch die Waage oder hat man dann letzten Endes doch National den größeren Hebel, weil man da besser verankert ist.
+
+00:08:12.305 --> 00:08:19.984
+<v Tim Pritlove>Also die gegessen ist auch unterstützendes Mitglied beim Etri. Hm und mit wie viel Leuten seid ihr so am Start?
+
+00:08:35.716 --> 00:08:49.410
+<v Tim Pritlove>Mhm. Ihr macht ja auch äh hier so eine Veranstaltungsreihe in Berlin, gehe ich mal gerne hin. Äh erster Dienstag im Monat, ne, äh in der Seabase. Finde ich eigentlich immer ganz ähm.
+
+00:08:50.517 --> 00:08:55.281
+<v Tim Pritlove>Soll ich sagen? Also sehr beständig. Ich weiß gar nicht, wie lange läuft das jetzt schon?
+
+00:09:04.409 --> 00:09:08.044
+<v Tim Pritlove>So lange wie wir jetzt hier unseren Podcast machen und
+
+00:09:07.997 --> 00:09:14.108
+<v Tim Pritlove>Regelmäßigkeit ist äh auf jeden Fall immer mit fast die Größe äh Herausforderung bei sowas. Ich weiß, dass
+
+00:09:13.958 --> 00:09:28.992
+<v Tim Pritlove>wohl, aber sind wir sehr unterschiedliche Themen, zwei, drei, manchmal auch ein paar mehr Vorträge, mal mehr Diskussionen, mal mehr einfach nur so Updates über über was auch immer, so ähnlich wie wir das dann eben auch hier machen, aber auf jeden Fall auch immer so ein
+
+00:09:28.836 --> 00:09:33.421
+<v Tim Pritlove>Sammelpunkt dieser sag mal nutzpolitisch bewegten Szene und,
+
+00:09:33.578 --> 00:09:41.425
+<v Tim Pritlove>Grad an dem Event habe ich auch mal ganz gut gesehen, also korrigiere mich, wenn du einen anderen Eindruck hast, aber soweit ich mich erinnere, das war so vor vier, fünf Jahren,
+
+00:09:42.038 --> 00:09:47.716
+<v Tim Pritlove>Da saßen da so zwanzig, dreißig Leute rum und mittlerweile ist eigentlich die Seabase immer voll.
+
+00:10:09.247 --> 00:10:14.637
+<v Tim Pritlove>Ja ich auch, vor allem weil's dann auch verhältnismäßig kompakt ist. Es läuft zwei Stunden, ne?
+
+00:10:20.671 --> 00:10:25.976
+<v Tim Pritlove>Und uns hat halt auch, ich meine auch zu, manchmal komme ich hin und
+
+00:10:25.922 --> 00:10:41.059
+<v Tim Pritlove>ist eh so voll und und nutz einfach mal die Gelegenheit einfach nur, weil du einfach, ich weiß, da stehen dann irgendwie zehn, zwanzig Leute rum, wenn ich mir die alle zusammen telefonieren sollte, eh, über die Woche, eh, hätte ich da sehr viel mehr mit zu tun. Und da kann man dann halt mal eben schnell
+
+00:10:42.231 --> 00:10:48.330
+<v Tim Pritlove>Sachen klären, ne, so äh Einladung aussprechen, Hintergründe abfragen et cetera und von daher,
+
+00:10:48.402 --> 00:10:52.061
+<v Tim Pritlove>erfüllt das natürlich hier auch eine gewisse soziale,
+
+00:10:52.711 --> 00:10:53.353
+<v Tim Pritlove>Rolle.
+
+00:10:54.652 --> 00:11:08.701
+<v Tim Pritlove>Ja, über PNR wollen wir dann auch gleich noch reden, aber ich glaube, äh zunächst einmal müssen wir uns noch hier in eine kleine Feedback äh Schleife begeben und einen kleinen Nachtrag liefern zu einem Thema des letzten Lokboos.
+
+00:11:08.449 --> 00:11:22.155
+<v Linus Neumann>Genau, da ging's um Binge und äh wir hatten ja erst auch selber im Laufe der Sendung den Verdacht erhärtet, wie das denn funktioniert und sind dann relativ,
+
+00:11:22.228 --> 00:11:25.496
+<v Linus Neumann>erst zum Ende hin, dass auf die,
+
+00:11:25.653 --> 00:11:32.851
+<v Linus Neumann>plumpste Idee gekommen, nämlich dass man einfach den Traffic bei diesen Videostreams
+
+00:11:32.737 --> 00:11:43.577
+<v Linus Neumann>drosselt und dadurch dabei auf das auf die adaptive Bandbreitenanpassung setzt, also im Prinzip der Nutzer geht hin und klickt einen.
+
+00:11:44.293 --> 00:11:54.153
+<v Linus Neumann>HD Stream, dann äh ist dazwischen T-Mobile und begrenzt, aber die Bandbreite auf anderthalb MB, der
+
+00:11:54.076 --> 00:11:58.240
+<v Linus Neumann>Server, der die Datei streamt und bereitstellt, merkt,
+
+00:11:58.306 --> 00:12:03.900
+<v Linus Neumann>er nicht schnell genug senden kann und schaltet automatisch runter. Sieht man auch
+
+00:12:07.722 --> 00:12:14.200
+<v Linus Neumann>Tagesschau aus der Mediathek schaut und dann mit so einem äh Unterschichten Provider wie ich unterwegs ist, so dann
+
+00:12:14.062 --> 00:12:22.744
+<v Linus Neumann>merkt man halt so, dass ruckelt ganz schön und da wird halt alles gedrosselt was was,
+
+00:12:23.135 --> 00:12:25.989
+<v Linus Neumann>So, genau.
+
+00:12:26.320 --> 00:12:29.685
+<v Linus Neumann>Und jetzt hat die das Problem wäre natürlich, was,
+
+00:12:36.061 --> 00:12:38.086
+<v Linus Neumann>Anpassung hat,
+
+00:12:38.549 --> 00:12:48.595
+<v Linus Neumann>Ja, also was, sagen wir mal, ein äh naiver Streamingserver, der gar nicht das kann, ja, der vielleicht gar nicht in nicht HD bereitstellen kann,
+
+00:12:48.698 --> 00:12:53.703
+<v Linus Neumann>Und genau das hat die IFF jetzt auch nochmal untersucht und hat gesagt, naja okay, wir haben mal geguckt.
+
+00:12:54.821 --> 00:12:59.430
+<v Linus Neumann>Ähm wenn man ein paar Test Cases gemacht und uns so eine Karte geholt von T-Mobile und,
+
+00:12:59.478 --> 00:13:03.113
+<v Linus Neumann>und sagen OK also erstens,
+
+00:13:03.396 --> 00:13:10.222
+<v Linus Neumann>diese Limitierung auf anderthalb äh Megabit passiert bei Videodateien.
+
+00:13:11.599 --> 00:13:17.289
+<v Linus Neumann>Ob die Anbieter wollen oder nicht. Also es ist eine Drosselung, die einfach mal für alle gilt. Ähm,
+
+00:13:17.463 --> 00:13:28.249
+<v Linus Neumann>funktioniert auch, wenn die HTTP-Headers einen anderen Dateitypen definieren, was so ein bisschen unklar ist, das heißt, woher merken die jetzt genau, dass es sich um Videoinhalte handelt so?
+
+00:13:28.021 --> 00:13:32.996
+<v Linus Neumann>Das kann die IFF auch selber nicht genau sagen, also das wäre.
+
+00:13:32.847 --> 00:13:45.970
+<v Tim Pritlove>Kann mir nur vorstellen, dass sie damit einer arbeiten. Also äh die werden da einfach eine Liste pflegen, wo draufsteht das sind für uns die Videodienste, die wir kennen. Wenn du jetzt von irgendeinem Server da einen Video bereitstellst, dann ist das bestimmt nicht.
+
+00:13:46.764 --> 00:13:48.121
+<v Tim Pritlove>Spezifisch gedrosselt so.
+
+00:13:47.821 --> 00:13:52.592
+<v Linus Neumann>Das wäre jetzt auch meine Hypothese, allerdings haben sie dann einen Server, haben sie.
+
+00:13:51.276 --> 00:13:54.094
+<v Tim Pritlove>Entschuldigung. Blacklist meine ich natürlich, ne?
+
+00:13:53.794 --> 00:14:05.896
+<v Linus Neumann>Ja. Aber dann haben sie, haben sie einen Server aufgestellt, der keine keine adaptive äh Bandbreitenanpassung macht und der ruckelte dann einfach.
+
+00:14:06.852 --> 00:14:10.505
+<v Linus Neumann>Das heißt, da hat wurde auch auf anderthalb Mbit gedrosselt.
+
+00:14:16.328 --> 00:14:20.035
+<v Linus Neumann>Dieser Hypothese sind sie auch äh nachgegangen,
+
+00:14:20.204 --> 00:14:34.613
+<v Linus Neumann>und haben äh einen normalen Datei-Download gemacht und haben damit äh sehr viel höhere Bandbreiten erzielt. Also quasi drei Test Cases, du streamst ein Video, du lädst eine eine Datei herunter und du.
+
+00:14:35.437 --> 00:14:44.979
+<v Linus Neumann>Du du lädst dir ein Video herunter, gibst aber im im HTTP Header nicht an, dass es sich um ein Video handelt. Und in in den,
+
+00:14:52.341 --> 00:14:58.968
+<v Linus Neumann>und in den anderen äh also Streaming im Browser Direct download und direct download,
+
+00:14:59.040 --> 00:15:06.654
+<v Linus Neumann>Non-Video wurden gedrosselt. Also irgendwie erkennen sie's doch ganz gut. Ja, also.
+
+00:15:06.582 --> 00:15:19.032
+<v Tim Pritlove>Anschauen und darauf irgendwelche, ja, wie sollen sie es sonst wissen? Ich meine, wenn da alles über harte TPS rübergeht, wie wie.
+
+00:15:17.693 --> 00:15:21.286
+<v Linus Neumann>Der, der, na ja, also genau, erstens,
+
+00:15:21.569 --> 00:15:34.488
+<v Linus Neumann>Ja, es war nicht nur HTPS, wir hatten ja auch elaboriert, dass wenn es HTPS ist, dann müssen sie mehr oder weniger einfach auf Basis des Anbieters gehen oder halt auf Größe der Datei oder ne, also, aber.
+
+00:15:34.188 --> 00:15:35.353
+<v Tim Pritlove>Die kennen sie auch nicht.
+
+00:15:36.880 --> 00:15:46.584
+<v Linus Neumann>Na ja, sie sehen ja, dass da auf einmal ein Stream stattfindet. Also nichts ist so einfach zu erkennen, wie ein Videostream oder ein Skype-Telefonat. An der.
+
+00:15:46.326 --> 00:15:51.169
+<v Tim Pritlove>Ach so, du meinst, dass sie das sozusagen so so Trafficanalyse machen und so, also das ist okay.
+
+00:15:50.923 --> 00:15:55.598
+<v Linus Neumann>Punkt, auf den ich hinaus will, ist, die haben es untersucht und können keine hundertprozentige,
+
+00:15:55.862 --> 00:16:09.449
+<v Linus Neumann>Aussage treffen und ich ey, ich schildere deren Ergebnisse. Wir können da jetzt noch ein bisschen drüber spekulieren, aber die haben das schon ganz gut untersucht. So, ja. Und sie sagen also, sie wissen nicht ganz genau, wie es geht. Und dieser der interessante Fall ist eben
+
+00:16:09.431 --> 00:16:13.763
+<v Linus Neumann>bei diesen, wenn der harte TP hätte er nicht stimmt und sage ich mal, keine.
+
+00:16:18.985 --> 00:16:24.838
+<v Linus Neumann>Dafür da sind, dass es sich um einen Videostream handelt, funktioniert dieses diese Binge on Drossel doch,
+
+00:16:25.049 --> 00:16:32.860
+<v Linus Neumann>Trotzdem, ja? Also, ob sie jetzt irgendwie nach Markern wie Video ähm.
+
+00:16:33.660 --> 00:16:40.738
+<v Linus Neumann>Äh was weiß ich wie in dem Video Code in dem übertragenen Teil nach irgendwelchen Markern suchen oder nicht, ist irgendwie unklar,
+
+00:16:41.177 --> 00:16:52.972
+<v Linus Neumann>Also ist nicht ganz so einfach, dass sie einfach nur sagen, okay, YouTube grundsätzlich nur anderthalb Mbit. Das haben sie wahrscheinlich auch, aber ihr, was auch immer sie da jetzt einsetzen kann, auch,
+
+00:16:53.478 --> 00:16:57.377
+<v Linus Neumann>sage ich mal, bei der Tele,
+
+00:16:57.425 --> 00:17:01.223
+<v Linus Neumann>nicht bekannten Videostreaming angeboten,
+
+00:17:01.500 --> 00:17:07.502
+<v Linus Neumann>erkennen, dass es sich um ein Video-Streaming-Angebot handelt und das sogar auch, wenn,
+
+00:17:08.073 --> 00:17:17.760
+<v Linus Neumann>das ein bisschen verfälscht und jetzt nicht, sage ich mal, die offensichtlichen Marker dran sind, wie HTP Header oder Filextension, die jetzt einfach erkennbar wären.
+
+00:17:20.506 --> 00:17:26.244
+<v Linus Neumann>Also mit anderen Worten, das würde auch bei äh wie gesagt, bei MediaZ, sagen wir mal.
+
+00:17:27.086 --> 00:17:28.201
+<v Tim Pritlove>Wäre mal interessant.
+
+00:17:27.951 --> 00:17:30.222
+<v Linus Neumann>Media CTC würde das eben auch einfach,
+
+00:17:30.668 --> 00:17:35.967
+<v Linus Neumann>bei WDR CCA, wobei ich nicht weiß, ob Media CCC DE,
+
+00:17:36.063 --> 00:17:38.882
+<v Linus Neumann>automatische Bandbreitenanpassung macht,
+
+00:17:39.435 --> 00:17:44.008
+<v Linus Neumann>Da bin ich gerade nicht im Bilde, weil ich in der Regel einfach HD beste Qualität.
+
+00:17:54.668 --> 00:18:09.311
+<v Tim Pritlove>Ist vielleicht gar nicht so das Ding oder ist halt eher die Frage Streaming, in dem Moment, wo du halt HLS äh Streaming machst, also also adaptive ich halte mehrere Bandbreiten äh vor und bilde das aus, was am besten oder beziehungsweise der der Klein wählt ja aus, was äh,
+
+00:18:09.847 --> 00:18:17.826
+<v Tim Pritlove>Was sozusagen äh letztlich abgefragt wird, weil er merkt, dass äh die anderen Häppchen nicht schnell genug kommen. Schaltet der Kleint ja dann selber runter,
+
+00:18:17.989 --> 00:18:24.773
+<v Tim Pritlove>Muss man sehen. Äh sicherlich noch ein paar Tests wert. So oder so ist es vollkommen offensichtlich, dass hier T-Mobile USA halt
+
+00:18:24.641 --> 00:18:28.907
+<v Tim Pritlove>einfach mal genau das macht, was äh Kritiker einer
+
+00:18:28.721 --> 00:18:36.551
+<v Tim Pritlove>Netzneutralitätsregelung, also eine antinetz Neutralitätsregelung immer kritisiert haben. Und das, obwohl es jetzt eben
+
+00:18:36.347 --> 00:18:45.318
+<v Tim Pritlove>die eigentlich äh korrekte ähm Definition für Netzneutralität äh ja eigentlich geschafft hat in den USA
+
+00:18:45.174 --> 00:18:49.446
+<v Tim Pritlove>Jetzt wird's natürlich spannend zu sein, zu sehen, ob die FCC hier auch
+
+00:18:52.108 --> 00:18:56.771
+<v Tim Pritlove>Regeln nicht nur auf dem Papier stehen, sondern sich eben auch real im Netz messen lassen.
+
+00:18:56.549 --> 00:19:01.428
+<v Linus Neumann>Jo, was noch ganz schön ist, dass sie dann eben Mitte in,
+
+00:19:01.567 --> 00:19:06.596
+<v Linus Neumann>telefoniert haben mit weil ja,
+
+00:19:06.801 --> 00:19:12.827
+<v Linus Neumann>der John Leger ja groß erzählt, dass optimiert, optimiert, optimiert und so, ne? Und dann haben sie halt
+
+00:19:12.684 --> 00:19:25.434
+<v Linus Neumann>weil Timo, weil angerufen haben gesagt, ja äh wie sieht's denn hier aus so was seit's irgendwie so von Optimierung wen ich jetzt unbedingt zu erkennen und da haben eben auch am Telefon die Antwort bekommen, dass da jetzt nix großartig,
+
+00:19:25.531 --> 00:19:29.202
+<v Linus Neumann>optimiert wird, ja. Also,
+
+00:19:29.256 --> 00:19:33.643
+<v Linus Neumann>Sie haben da offensichtlich mal jemanden ans Telefon bekommen, der.
+
+00:19:35.548 --> 00:19:43.570
+<v Linus Neumann>Der weiß was Sache ist und sagte so also irgendeine Umkudierung oder Optimierung oder sonst was äh findet da nicht statt, was ja meine,
+
+00:19:43.919 --> 00:19:56.880
+<v Linus Neumann>ursprüngliche Prothese war in meinem äh naiven, in meiner naiven Leichtgläubigkeit, wenn jemand sagt, wir optimieren etwas, dass ich dachte, ah okay, äh der nimmt das und optimiert das, aber äh machen's einfach nur kaputt. Also.
+
+00:19:56.592 --> 00:19:59.494
+<v Tim Pritlove>Jetzt ist es die eigentliche Bedeutung von Optimier.
+
+00:19:59.464 --> 00:20:02.174
+<v Linus Neumann>Sie optimieren das für sich.
+
+00:20:02.300 --> 00:20:04.361
+<v Tim Pritlove>Optimieren das in Grund und Boden.
+
+00:20:04.422 --> 00:20:14.889
+<v Linus Neumann>Und dann hatten wir ja in der letzten Sendung ähm gesagt, man man möge doch bitte den äh Soprano's Clusterfuck mal visualisieren.
+
+00:20:15.575 --> 00:20:21.295
+<v Linus Neumann>Das haben äh zwei höhere gemacht, nämlich einmal,
+
+00:20:21.776 --> 00:20:26.727
+<v Linus Neumann>Nelako, das Bild von ihm haben wir auch schon direkt ähm.
+
+00:20:27.719 --> 00:20:32.309
+<v Linus Neumann>In der in den zur Sendung hundertachtundsechzig eingebunden,
+
+00:20:32.815 --> 00:20:45.529
+<v Linus Neumann>und wir haben noch eine zweite Einreichung bekommen, die wir bis jetzt noch nicht veröffentlicht hatten, die kam von Ben, äh und Ben hat das noch so angereichert mit den.
+
+00:20:46.419 --> 00:20:49.015
+<v Linus Neumann>Mit äh Aquarellen von.
+
+00:20:50.205 --> 00:20:55.787
+<v Linus Neumann>Stella, den Nachnamen sage ich jetzt nicht, weil der sehr schwer ist. Ich glaube, er ist fängt mit S an,
+
+00:20:58.636 --> 00:21:00.684
+<v Linus Neumann>Auf, Schiff,
+
+00:21:00.865 --> 00:21:09.271
+<v Linus Neumann>Auf jeden Fall die Stella, die auch äh immer mal wieder bei dem äh Podcast technische Aufklärung zu Gast ist,
+
+00:21:09.338 --> 00:21:15.659
+<v Linus Neumann>die sich immer in den NSA Untersuchungsausschuss setzt und dort Zeichnungen von den,
+
+00:21:17.041 --> 00:21:25.844
+<v Linus Neumann>Insassen äh anfertigt und somit Aquarellfarben auch koloriert, weil man da ja nicht fotografieren darf.
+
+00:21:25.899 --> 00:21:27.430
+<v Linus Neumann>Ähm.
+
+00:21:27.954 --> 00:21:31.961
+<v Tim Pritlove>Ich gehe da mal ganz steil voran und sage Stella Shiftschick.
+
+00:21:31.872 --> 00:21:35.369
+<v Linus Neumann>Weil sie das auf ihrer Seite nochmal in Lautschrift stehen hat.
+
+00:21:35.069 --> 00:21:42.189
+<v Tim Pritlove>Nö, das steht jetzt hier so im Text, aber das äh ich bin halt mutig, ne? Ja. Bin äh ich gehe voran einfach.
+
+00:21:38.728 --> 00:21:44.412
+<v Linus Neumann>Ja, okay. Mal gucken, ob ob der Ben nach dieser Sendung die Bilder immer noch benutzen.
+
+00:21:44.473 --> 00:21:47.921
+<v Tim Pritlove>Da kenne ich einfach kein halten.
+
+00:21:47.621 --> 00:21:51.972
+<v Linus Neumann>Gut, also da haben wir eine Visualisierung und da sieht man äh sehr schön, wie,
+
+00:21:52.032 --> 00:21:56.737
+<v Linus Neumann>so verschiedene Personen wie also halt Klaus-Dieter äh,
+
+00:21:57.969 --> 00:22:08.022
+<v Linus Neumann>Vizepräsident des Bundesamtes für Verfassungsschutz war, dann Geheimdienstkoordinator, dann Staatssekretär im Innenministerium, dann,
+
+00:22:08.425 --> 00:22:09.133
+<v Linus Neumann>ähm,
+
+00:22:09.422 --> 00:22:19.006
+<v Linus Neumann>zwei Jahre lang gar, also keine keine der aufgezählten Posten und dann eben äh Beauftragter für die Nachrichtendienste im Bundeskanzleramt,
+
+00:22:19.103 --> 00:22:25.376
+<v Linus Neumann>Also das ist echt ganz geil, was dieser bunte Reigen, der da entsteht.
+
+00:22:26.176 --> 00:22:29.817
+<v Linus Neumann>Dass sie so in allen in allen Positionen mal äh rotieren.
+
+00:22:34.570 --> 00:22:37.933
+<v Tim Pritlove>Genau, ich denke, da ist visualisierungstechnisch auch noch ein bisschen was zu holen.
+
+00:22:37.701 --> 00:22:38.872
+<v Linus Neumann>Ja genau, also es.
+
+00:22:38.622 --> 00:22:44.467
+<v Tim Pritlove>Indem man mehr so den die Verlaufs und Zusammenhangslinien äh äh noch deutlicher macht und vielleicht.
+
+00:22:44.167 --> 00:22:49.412
+<v Linus Neumann>Genau, ich hatte auch vorgeschlagen, man könnte das jetzt so mit mit HTML fünf oder so, dass man.
+
+00:22:51.113 --> 00:22:55.163
+<v Linus Neumann>Quasi wechseln kann jetzt haben wir halt die Linien.
+
+00:22:55.638 --> 00:22:57.296
+<v Tim Pritlove>Es ist gerne interaktiv.
+
+00:22:57.507 --> 00:23:00.601
+<v Linus Neumann>Ja unter also Multimedia auf jeden Fall.
+
+00:23:00.301 --> 00:23:04.081
+<v Tim Pritlove>Genau, surfen,
+
+00:23:04.171 --> 00:23:07.956
+<v Tim Pritlove>filmen durch die Welt mit Multi Media.
+
+00:23:07.656 --> 00:23:12.451
+<v Linus Neumann>Genau, wir haben auf jeden Fall verschiedene äh oder wir haben zwei Visualisierungen, wenn die auch,
+
+00:23:16.664 --> 00:23:24.962
+<v Linus Neumann>herzlich für diese Beiträge, die wir da erhalten haben und das ist tatsächlich sehr schön in beiden dargestellt.
+
+00:23:25.461 --> 00:23:32.588
+<v Tim Pritlove>So, das bringt uns zu unserem Hauptthema heute.
+
+00:23:33.033 --> 00:23:34.186
+<v Linus Neumann>Genau.
+
+00:23:34.883 --> 00:23:37.930
+<v Tim Pritlove>Das Hauptthema ist äh.
+
+00:23:38.663 --> 00:23:51.378
+<v Tim Pritlove>Birgt sich hinter dem kurzen, kryptischen ähm äh Kürzel P N R, das steht für Passenger Name Records, heißt aber eigentlich,
+
+00:23:56.684 --> 00:24:01.275
+<v Tim Pritlove>besser, also gemeint sind natürlich die Daten, die anfallen,
+
+00:24:01.407 --> 00:24:04.916
+<v Tim Pritlove>Ähm die gespeichert werden müssen über die Passagiere,
+
+00:24:05.223 --> 00:24:16.562
+<v Tim Pritlove>von äh Flugzeugen des zivilen Luftverkehrs, des Linienverkehrs, wo halt äh drinsteht, wer fliegt hier? Wo kommt der her? Äh wo wir da hin,
+
+00:24:16.851 --> 00:24:26.309
+<v Tim Pritlove>Was für ein äh na, Nationalität ist am Start und natürlich ganz wichtig, äh was für ein Essen wurde bestellt.
+
+00:24:26.465 --> 00:24:31.032
+<v Tim Pritlove>Ähm Alexander, vielleicht kannst du mal so ein bisschen deine Perspektive da,
+
+00:24:31.495 --> 00:24:35.490
+<v Tim Pritlove>dem Thema ausrollen, was ist da eigentlich bisher,
+
+00:24:35.575 --> 00:24:41.115
+<v Tim Pritlove>gelaufen. Das Thema ist ja nicht neu, sondern das wollte uns jetzt auch schon so ein bisschen länger,
+
+00:24:41.307 --> 00:24:45.571
+<v Tim Pritlove>und ähm erzähl doch mal, warum ihr da so aktiv seid und was.
+
+00:25:45.420 --> 00:25:46.752
+<v Tim Pritlove>Was ist das sonst noch so?
+
+00:27:17.706 --> 00:27:20.289
+<v Tim Pritlove>Also kein MacBook, sondern mhm.
+
+00:29:34.394 --> 00:29:35.493
+<v Tim Pritlove>Fünfzehn.
+
+00:30:47.969 --> 00:30:50.552
+<v Tim Pritlove>Welcher Ausschuss äh beschäftigt sich damit?
+
+00:31:11.026 --> 00:31:13.135
+<v Tim Pritlove>Die normale VDS.
+
+00:31:16.140 --> 00:31:18.164
+<v Tim Pritlove>Okay, gegen Penner schon, okay. Mhm.
+
+00:31:30.916 --> 00:31:36.384
+<v Tim Pritlove>Rahmen welches Prozesses haben die dagegen äh gestimmt, also was stand,
+
+00:31:36.510 --> 00:31:40.398
+<v Tim Pritlove>an der gab's dann auch schon einen Vorschlag von von der Kommission.
+
+00:31:44.821 --> 00:31:46.040
+<v Tim Pritlove>Genau und das Parlament.
+
+00:31:47.868 --> 00:31:49.207
+<v Tim Pritlove>Dagegen gestimmt.
+
+00:31:56.563 --> 00:32:02.643
+<v Tim Pritlove>Aber im Wesentlichen sozusagen die Negierung der, der, der, der Kernziele. Und jetzt kommt es sozusagen nochmal.
+
+00:33:45.135 --> 00:33:53.499
+<v Tim Pritlove>Das ist ja eine sehr, sehr ungewöhnliche Konstellation. Das A, das Plenum jetzt einerseits dem dem Ausschuss nicht folgt. Das ist ja schon.
+
+00:33:54.172 --> 00:34:07.175
+<v Tim Pritlove>Eher selten und dass dann sozusagen das jetzt sozusagen so lange nochmal weiter beraten wird, bis bis wirklich der der Ausschuss eine komplette andere Richtung hat. Müssen wir mal kurz darüber nachdenken. Zweitausendelf sagst du,
+
+00:34:07.560 --> 00:34:12.505
+<v Tim Pritlove>Wann waren denn jetzt nochmal die EU-Wahlen? Also haben wir da zwischendurch.
+
+00:34:13.744 --> 00:34:22.120
+<v Tim Pritlove>Wir hatten da sozusagen eine Parlamentsänderung. Das heißt, das hat's in der Legislaturperiode dann nicht mehr geschafft und dann mit der neuen Bestückung
+
+00:34:22.012 --> 00:34:31.506
+<v Tim Pritlove>einer neuen Zusammensetzung. Und was hat sich äh hast du irgendwie einen Eindruck? Äh was genau an dieser Zusammensetzung dieses Ausschusses dazu geführt haben
+
+00:34:31.410 --> 00:34:38.122
+<v Tim Pritlove>also gab's da jetzt irgendwie eine Verschiebung in der Parteienlandschaft oder andere.
+
+00:34:39.030 --> 00:34:41.193
+<v Tim Pritlove>Ist es noch der selbe Berichterstatter.
+
+00:35:06.900 --> 00:35:08.738
+<v Tim Pritlove>Aber der war auch schon bei der ersten.
+
+00:35:53.632 --> 00:35:55.849
+<v Tim Pritlove>Jetzt läuft die Wirtschaft wieder ein bisschen und mehr Terror.
+
+00:36:42.805 --> 00:36:47.317
+<v Tim Pritlove>Für wie wahrscheinlich hältst du das das Parlament dann wiederum äh dem Vorschlag,
+
+00:36:47.486 --> 00:36:51.427
+<v Tim Pritlove>Innenausschusses nicht folgen möchte und vielleicht diesmal in die andere Richtung marschiert.
+
+00:37:03.560 --> 00:37:08.295
+<v Tim Pritlove>Gibt's denn überhaupt Fraktionen, die da sich klar positioniert haben gegen so eine Verschärfung?
+
+00:37:32.788 --> 00:37:37.108
+<v Tim Pritlove>Na die sind ja immer sehr prinzipientreu unterwegs.
+
+00:37:40.263 --> 00:37:41.373
+<v Tim Pritlove>Fragt sich nur gerade, was.
+
+00:37:42.206 --> 00:37:43.298
+<v Tim Pritlove>Des Tages ist.
+
+00:38:05.015 --> 00:38:12.147
+<v Tim Pritlove>Wie organisiert ihr jetzt sozusagen die nächsten zwei Wochen? Was sind eure Aktivitätsziele?
+
+00:39:48.786 --> 00:39:52.661
+<v Tim Pritlove>Hm. Ähm.
+
+00:39:53.917 --> 00:40:03.104
+<v Linus Neumann>Vielleicht können wir nochmal ein bisschen auf die Daten eingehen. Soll da auch gespeichert werden, wann ich wohin geflogen bin?
+
+00:40:48.383 --> 00:40:53.893
+<v Linus Neumann>Und der wird aufbewahrt für wie lange? Fünf Jahre.
+
+00:42:37.586 --> 00:42:42.219
+<v Tim Pritlove>Gibt's denn in irgendeiner Form im Rahmen dieser ähm,
+
+00:42:42.309 --> 00:42:46.389
+<v Tim Pritlove>Diskussion im Innenausschuss,
+
+00:42:46.504 --> 00:42:51.731
+<v Tim Pritlove>oder auch bei der Kommission, also in irgendeiner Form an der Stelle, wo über Änderungen diskutiert wird, auch,
+
+00:42:51.858 --> 00:42:56.923
+<v Tim Pritlove>konkrete Bedenken im Hinblick auf diese Anonymisierung, also,
+
+00:42:56.936 --> 00:43:03.990
+<v Tim Pritlove>gibt's gibt's irgendwelche abfedernden Aspekte, die da überhaupt noch mit drin sind? Oder ist der derzeitige,
+
+00:43:04.423 --> 00:43:16.795
+<v Tim Pritlove>Beschluss eher so mit, wir speichern alles, wir werten alles aus, wir speichern es ewig und äh seid mal ruhig, weil wir müssen ja hier was gegen Terror tun oder sind da irgendwelche Abwägungen drin?
+
+00:43:37.202 --> 00:43:38.512
+<v Tim Pritlove>Tastaturbenutzung.
+
+00:44:38.591 --> 00:44:39.624
+<v Tim Pritlove>Erfasst.
+
+00:44:46.415 --> 00:44:51.762
+<v Tim Pritlove>Aber nicht nicht als standardisierter Rekord, das steht da nicht drin jetzt.
+
+00:44:59.240 --> 00:45:01.629
+<v Tim Pritlove>Fleisch essen. Mhm.
+
+00:46:09.424 --> 00:46:15.300
+<v Tim Pritlove>Ja, ich denke, die rufen dann Herrn Graulich an und der setzt sich da in den Keller und äh blättert da äh das alles durch.
+
+00:47:23.125 --> 00:47:30.984
+<v Tim Pritlove>Ja. Umfeld nochmal etwas klarer zu machen, wohin die Daten zu welchem Zeitpunkt gehen. Also ich kaufe mir ein Ticket,
+
+00:47:31.514 --> 00:47:39.151
+<v Tim Pritlove>Da fallen ja schon mal Daten an, weiß nicht, ob das sozusagen schon Teil dieser Speicherung ist zu diesem Zeitpunkt, kann sein, wahrscheinlich ja.
+
+00:47:39.115 --> 00:47:42.540
+<v Tim Pritlove>Spätestens, wenn ich einchecke, ist ja sozusagen der Fakt,
+
+00:47:42.769 --> 00:47:46.903
+<v Tim Pritlove>will da jetzt mitfliegen auch erfasst. Ähm.
+
+00:47:48.411 --> 00:47:52.792
+<v Tim Pritlove>Dann sitze ich im Flugzeug. Ist das der Zeitpunkt? Also,
+
+00:47:58.200 --> 00:48:11.540
+<v Tim Pritlove>ist ja dieser soll ja dieser Datensatz in gewisser Hinsicht schon verfügbar sein. Das war ja insbesondere der Wunsch der Amerikaner, dass da sozusagen am besten gar nicht erst jemand auch nur ins Flugzeug gelassen wird, der, der äh was machen könnte, richtig?
+
+00:48:46.279 --> 00:48:48.910
+<v Tim Pritlove>Also wenn jemand umgebucht wird und so was, das passiert.
+
+00:48:52.504 --> 00:48:57.393
+<v Tim Pritlove>Okay, das heißt, in dem Moment, wo die Tür zugeht, so und was ist das für eine Organisation, diese was hast du gerade gesagt?
+
+00:48:59.038 --> 00:49:04.083
+<v Tim Pritlove>Okay und wer betreibt die dann? Oder soll betreiben? Die gibt's derzeit noch nicht so, ne?
+
+00:49:28.781 --> 00:49:34.453
+<v Tim Pritlove>Könnte beim Innenministerium landen, könnte beim Geheimdienst landen, könnte bei der.
+
+00:49:39.916 --> 00:49:41.057
+<v Tim Pritlove>Keine Vorgabe so.
+
+00:49:49.133 --> 00:49:55.152
+<v Tim Pritlove>Ist eigentlich schon mal interessant, ne, dass an der Stelle auch noch nicht mal so in Richtlinie ist das eine Richtlinie eigentlich? Ja, ne?
+
+00:50:02.023 --> 00:50:07.197
+<v Tim Pritlove>Gibt's diese Informationsstellen, die sammeln die sozusagen erstmal so als Proxi ein oder sind das,
+
+00:50:07.708 --> 00:50:09.576
+<v Tim Pritlove>Also sind ihnen dann nur zu einem,
+
+00:50:09.901 --> 00:50:18.019
+<v Tim Pritlove>Es geht's da drum, die zentral zu speichern, gibt's dann auf EU-Ebene nochmal eine zentrale Sammelstelle oder verbleibt das erstmal äh in.
+
+00:51:03.051 --> 00:51:08.333
+<v Tim Pritlove>Aber von separaten Identitäten immer auf Basis von expliziten Anfragen ist es jetzt noch nicht soweit.
+
+00:51:09.012 --> 00:51:12.840
+<v Tim Pritlove>Da ein Verbundenes hat, wo jeder jede Datenbank jederzeit anfragen.
+
+00:51:22.833 --> 00:51:25.495
+<v Tim Pritlove>Okay, aber Europol kriegt auch immer eine Kopie.
+
+00:51:48.059 --> 00:51:52.055
+<v Tim Pritlove>So ein gewisser Level an Auffälligkeit sozusagen erreicht ist. Mhm.
+
+00:52:48.066 --> 00:52:58.515
+<v Tim Pritlove>Wer eure Kritik ist ja im Prinzip des Missbrauchspotential, weil es sich ja hier letztlich auch nur um eine Vorratsdatenspeicherung äh handelt, wenn jetzt auch mit einer anderen Ausrichtung und Ansiedlung
+
+00:52:58.293 --> 00:53:08.610
+<v Tim Pritlove>Ich denke, was auch noch so ein bisschen im Raum steht, ist so diese generelle Angst, dass in dem Moment, wo das für Flugdaten mal eingeführt ist, dass wir da nicht mehr lange brauchen, bis wir das dann auch für
+
+00:53:08.407 --> 00:53:13.111
+<v Tim Pritlove>keine Ahnung, Mautstrecken et cetera auch haben.
+
+00:53:56.257 --> 00:54:06.159
+<v Tim Pritlove>Also sie sind hier so noch nicht Teil dieser Abstimmung, da geht's jetzt wirklich nur ums Flugverkehr, aber man weiß die Daten sind ja da, ne? Mhm. Carsharing.
+
+00:54:12.547 --> 00:54:17.342
+<v Tim Pritlove>Weil das kann ja nicht sein, dass und so weiter. Ja.
+
+00:54:21.525 --> 00:54:25.046
+<v Tim Pritlove>Läuft's. Linus.
+
+00:54:27.396 --> 00:54:31.518
+<v Tim Pritlove>Ein Aspekt den du gerne noch äh beleuchten möchtest oder.
+
+00:54:31.218 --> 00:54:34.810
+<v Linus Neumann>Bin seit Jahren.
+
+00:54:36.415 --> 00:54:37.779
+<v Tim Pritlove>Deine Daten oder was?
+
+00:54:47.941 --> 00:54:51.828
+<v Tim Pritlove>Was heißt denn das? Die personalisiert, bei wem werden sie DPD.
+
+00:55:28.568 --> 00:55:33.297
+<v Linus Neumann>Also wir nur angezeigt, wenn man's möchte. Genau.
+
+00:56:08.126 --> 00:56:09.279
+<v Linus Neumann>Werden immer.
+
+00:56:32.276 --> 00:56:35.701
+<v Tim Pritlove>Ja, du weißt doch, wenn auch nur ein Opfer geschützt werden kann, dann.
+
+00:56:37.534 --> 00:56:40.971
+<v Tim Pritlove>Dann dann das alles, dann war's das alles wert, ja.
+
+00:57:04.497 --> 00:57:10.313
+<v Tim Pritlove>Ja, ich meine, wir machen ja immer gerne äh die äh die Witze mit dem Heu und,
+
+00:57:10.380 --> 00:57:15.169
+<v Tim Pritlove>stehen äh Stecknadeln. War ganz stolz, dass Sascha Loh auch äh,
+
+00:57:15.788 --> 00:57:23.227
+<v Tim Pritlove>mein äh ruft nach mehr Heu jetzt äh in seine Kolumne getragen hat. Ähm.
+
+00:57:24.705 --> 00:57:29.710
+<v Tim Pritlove>Andererseits wissen wir natürlich auch, dass die ähm,
+
+00:57:35.353 --> 00:57:39.247
+<v Tim Pritlove>Deep-Learning und so weiter, lassen ja durchaus auch
+
+00:57:39.211 --> 00:57:42.835
+<v Tim Pritlove>Absehen, dass sagen wir mal die potenzielle Informations,
+
+00:57:42.882 --> 00:57:46.247
+<v Tim Pritlove>aus solchen Datenmengen
+
+00:57:46.056 --> 00:57:50.153
+<v Tim Pritlove>dass sich das auch mal ändern kann, ja? Ich meine, man macht ja immer ganz gerne mal so
+
+00:57:49.986 --> 00:58:07.147
+<v Tim Pritlove>sein was wollt ihr denn mit den ganzen Daten? Ihr seid doch eh zu doof da irgendwelche nennenswerten Schlussfolgerungen draus zu ziehen, das ist ja äh in unseren Kreisen auch sehr beliebt, aber ich glaube die sehr viel größere Gefahr liegt dadrin, dass sich das nämlich dann auch mal ändert. Das eben sehr wohl,
+
+00:58:13.162 --> 00:58:19.544
+<v Tim Pritlove>Ich mag auch gar nicht ausschließen, dass sowas vielleicht auch mal wirklich zu einer Aufspürung,
+
+00:58:19.622 --> 00:58:25.096
+<v Tim Pritlove>Verdächtiger oder vielleicht eben auch konkret gefährlicher Menschen führen kann.
+
+00:59:15.062 --> 00:59:15.837
+<v Tim Pritlove>Weil,
+
+00:59:15.879 --> 00:59:22.819
+<v Tim Pritlove>auch da glaube ich, dass die, ich will das jetzt gar nicht schön reden, aber nur mal so auch dieser politischen Argumentation, der anderen Seite ein bisschen folgen zu können,
+
+00:59:24.508 --> 00:59:32.950
+<v Tim Pritlove>die das anders sehen, dass die sozusagen dieses, nur weil die Daten da jetzt mal mit untersucht werden und mit in diesen Algorithmus einfließen,
+
+00:59:33.420 --> 00:59:36.207
+<v Tim Pritlove>geht da ja noch nicht automatisch einen Verdacht
+
+00:59:36.081 --> 00:59:43.082
+<v Tim Pritlove>hervor, im Sinne eines ähm rechtsrelevanten Prozesses, es ist ja nicht so, dass sie,
+
+00:59:43.130 --> 00:59:51.278
+<v Tim Pritlove>an deine Tür klopft, nur weil die Daten da jetzt mitprozessiert werden. Das ist äh äh sicherlich nachvollziehbar.
+
+00:59:51.098 --> 00:59:56.861
+<v Tim Pritlove>Ähm trotzdem die Frage ist natürlich auch,
+
+01:00:01.915 --> 01:00:12.712
+<v Tim Pritlove>und wie viel Zutrauen kann man so einem Algorithmus letzten Endes äh auch äh gewähren, weil in dem Moment, wo dann eben die Lampe aufleuchtet und sagt,
+
+01:00:12.797 --> 01:00:17.207
+<v Tim Pritlove>ist gefährlich, weil unser Computer hat das gesagt
+
+01:00:16.985 --> 01:00:25.374
+<v Tim Pritlove>sehen wir ja auch schon, wie diese Gläubigkeit in, in, in solche Systeme, weil hat ja schon mal funktioniert oder zumindest haben die Programmierer immer gesagt,
+
+01:00:25.416 --> 01:00:29.718
+<v Tim Pritlove>das funktionieren würde und wenn's mal die Lampe leuchtet, dann ist das schon relevant. Das
+
+01:00:29.652 --> 01:00:31.551
+<v Tim Pritlove>Das ist dann auch sehr schwer ist.
+
+01:00:32.074 --> 01:00:45.083
+<v Tim Pritlove>Sich diesem auch noch in irgendeiner Form zu entziehen. Also dann ist ja sozusagen auch ein Verdacht ausgesprochen, der dann auch wirklich äh konkret wird und und und konkrete Auswirkungen haben kann, dem man fast gar nichts entgegen äh setzen kann.
+
+01:01:08.934 --> 01:01:18.211
+<v Tim Pritlove>Fly, also nur auf der No-Fly-Liste zu landen, alleine, das schließt einem ja im Prinzip von äh Reisen, Geschäftsbeziehungen, et cetera,
+
+01:01:18.332 --> 01:01:25.416
+<v Tim Pritlove>auch nur politische Aktivität eigentlich äh aus, also auch in Europa wäre jetzt was weiß ich, wenn du jetzt nicht mehr fliegen könntest.
+
+01:01:25.915 --> 01:01:27.651
+<v Tim Pritlove>Immer noch äh E-Mail und
+
+01:01:27.604 --> 01:01:32.892
+<v Tim Pritlove>äh den Zug aber so richtig spannend wäre es nicht. Und wenn es sich dann halt auch noch auf Mietwagen,
+
+01:01:32.946 --> 01:01:38.877
+<v Tim Pritlove>Carsharing, Züge und Schiffe auch noch ausdehnt in dem Moment, ist man ja im Prinzip schon.
+
+01:03:35.098 --> 01:03:40.759
+<v Tim Pritlove>So, was kann man tun äh wenn man.
+
+01:03:42.219 --> 01:03:48.895
+<v Tim Pritlove>Sache jetzt noch unterstützen möchte, insbesondere in den nächsten zwei Wochen, dann geht man zum No P NR Punkt ORG.
+
+01:04:30.983 --> 01:04:33.536
+<v Tim Pritlove>Vielen Dank Alexander erstmal für,
+
+01:04:33.609 --> 01:04:39.095
+<v Tim Pritlove>die Ausführung hier zu PNR wollten wir schon immer mal ein bisschen ausführlicher behandeln,
+
+01:04:39.678 --> 01:04:42.586
+<v Tim Pritlove>jetzt auch mal gemacht,
+
+01:04:43.043 --> 01:04:46.894
+<v Tim Pritlove>Was haben wir denn äh sonst noch auf der Agenda?
+
+01:04:46.979 --> 01:04:49.232
+<v Linus Neumann>Mobilfunküberwachung haben wir.
+
+01:04:48.932 --> 01:04:50.734
+<v Tim Pritlove>Mal was ganz anderes.
+
+01:04:50.434 --> 01:04:56.196
+<v Linus Neumann>Das ist, glaube ich, so ein so ein Klassiker, der
+
+01:04:56.059 --> 01:05:10.720
+<v Linus Neumann>Standardsituationen der kleinen Anfragen der Linksfraktion, die erkundigen sich in regelmäßigen Abständen nach den Überwachungsmaßnahmen im Mithilfebereich. Ähm das geht, glaube ich, immer so von Andre
+
+01:05:18.845 --> 01:05:24.439
+<v Linus Neumann>Und da haben sie sich nach äh mehreren Maßnahmen erkundigt. Erstens,
+
+01:05:24.656 --> 01:05:29.120
+<v Linus Neumann>die nach der Verwendung der stillen SMS.
+
+01:05:30.845 --> 01:05:39.612
+<v Linus Neumann>Stille SMS. Ähm ich hatte das hier schon öfter mal erklärt, aber der Vollständigkeit halber erkläre ich's nochmal. Das ist eine äh quasi ein.
+
+01:05:40.351 --> 01:05:45.230
+<v Linus Neumann>Standard, den es in der Definition von SMS gibt,
+
+01:05:45.309 --> 01:05:50.867
+<v Linus Neumann>Da gibt es verschiedene SMS-Nachrichten, Typen, über die das,
+
+01:05:51.203 --> 01:05:55.031
+<v Linus Neumann>deren Empfang das Telefon den Nutzer nicht in Kenntnis setzt,
+
+01:05:55.290 --> 01:05:59.123
+<v Linus Neumann>ist es vorgesehen. Ähm die haben,
+
+01:05:59.635 --> 01:06:09.537
+<v Linus Neumann>Unterschiedliche, es gibt unterschiedliche Möglichkeiten, stille SMS zu schicken. Das eine ist irgendwie einfach Typ null und dann die wird einfach den Empfang wird einfach,
+
+01:06:09.886 --> 01:06:16.291
+<v Linus Neumann>Bestätigt und dann ist gut. Ähm man kann aber auch binäre SMS an die SIM-Karte schicken und damit,
+
+01:06:16.400 --> 01:06:19.999
+<v Linus Neumann>keine sinnvolle Aktion auslösen, aber es gibt also,
+
+01:06:23.617 --> 01:06:27.486
+<v Linus Neumann>ein ein Standard konformes Mobiltelefon wird,
+
+01:06:27.552 --> 01:06:33.700
+<v Linus Neumann>Empfang dem Netz gegenüber bestätigen, aber äh den Nutzern nicht anzeigen. Es gibt auch
+
+01:06:33.646 --> 01:06:38.140
+<v Linus Neumann>Darauf habe ich, glaube ich, auch mehrmals hingewiesen. Ähm,
+
+01:06:38.555 --> 01:06:46.048
+<v Linus Neumann>Möglichkeiten, sein Telefon dazu zu bringen, zumindest zu warnen, dass eine solche SMS gekommen ist,
+
+01:06:46.650 --> 01:06:51.409
+<v Linus Neumann>ähm das äh können die Apps,
+
+01:06:51.517 --> 01:06:55.993
+<v Linus Neumann>Ketchup, Ketchup und ähm Snoops,
+
+01:06:56.108 --> 01:07:06.299
+<v Linus Neumann>an deren Entwicklung ich nicht vollständig unbeteiligt war, weil sie aus einem von einem Team entwickelt wurden, mit dem ich ähm,
+
+01:07:06.576 --> 01:07:07.999
+<v Linus Neumann>zu tun habe.
+
+01:07:07.699 --> 01:07:11.809
+<v Tim Pritlove>Immer am Bahnhof gesoffen hast.
+
+01:07:10.463 --> 01:07:17.223
+<v Linus Neumann>Man muss das ja als Disclaimer dazu sagen, wenn das aus der eigenen Schmiede kommt. Ähm.
+
+01:07:19.152 --> 01:07:27.439
+<v Linus Neumann>Und diese warum macht man, warum setzten Straffverfolgungsbehörden die ein? Ähm man würde ja eigentlich meinen, ist völlig ähm,
+
+01:07:27.547 --> 01:07:31.477
+<v Linus Neumann>uninteressant, aber letztendlich ist die Gesetzeslage so,
+
+01:07:31.748 --> 01:07:35.034
+<v Linus Neumann>Dass eine Strafverfolgungsbehörde nicht,
+
+01:07:35.293 --> 01:07:39.950
+<v Linus Neumann>so einfach zum ähm zu einem,
+
+01:07:40.455 --> 01:07:46.307
+<v Linus Neumann>Mobilfunknetz gehen durfte und sagen durfte, sag uns doch mal bitte, äh wo der Nutzer gerade ist.
+
+01:07:46.187 --> 01:07:52.911
+<v Linus Neumann>Das geht zwar auch, auch das habe ich, glaube ich, hier schon öfter erzählt, das Telefon das Mobilfunknetz weiß, wo ihr seid, damit es
+
+01:07:52.791 --> 01:08:05.536
+<v Linus Neumann>eure Transaktionen, über die Zellen abwickeln kann, in denen ihr euch tatsächlich auch befindet, also euer Mobiltelefon, sagt dem Mobilfunknetz auch immer, wo ihr seid, aber auf diese Daten gibt es keinen.
+
+01:08:11.948 --> 01:08:15.421
+<v Linus Neumann>Wann ihr eine äh Transaktion durchgeführt habt,
+
+01:08:15.734 --> 01:08:21.430
+<v Linus Neumann>so eingehende oder ausgehende Nachrichten oder Anrufe oder Internet oder so
+
+01:08:21.407 --> 01:08:32.589
+<v Linus Neumann>und dann natürlich auch, über welche Zelle die abgewickelt wurden. Und was der der quasi der juristische Hack war, den Strafverfolgungsbehörden und Geheimdienste da zur Anwendung bringen, ist
+
+01:08:32.535 --> 01:08:40.022
+<v Linus Neumann>Naja, wenn wir die Daten nur kriegen, wenn's eine Transaktion gibt, dann machen wir halt eine Transaktion, also schicken wir stille SMS.
+
+01:08:41.207 --> 01:08:48.087
+<v Linus Neumann>In Zeitabständen, die wir für für richtig halten und am Ende des Monats holen wir uns dann eben die Transaktionsdaten,
+
+01:08:48.171 --> 01:08:58.518
+<v Linus Neumann>dann sieht man in den Transaktionsdaten eben, ja, hat, äh, weiß ich nicht, ein paar hundert SMS bekommen und war zu dem Zeitpunkt, wo er diese SMS bekommen hat, jeweils in diesen Zellen und dann kannst du wieder mappen
+
+01:08:58.326 --> 01:09:06.312
+<v Linus Neumann>wo wo diese Zellen waren, dann kannst du damit quasi Location-Tracking machen, etwas, was eigentlich eben den nicht.
+
+01:09:07.160 --> 01:09:08.559
+<v Linus Neumann>Direkt erlaubt ist.
+
+01:09:09.575 --> 01:09:18.661
+<v Linus Neumann>So und jetzt hat das BKA im zweiten Halbjahr zweitausendfünfzehn insgesamt einhundertsechzehntausendneunhundertachtundvierzig stille SMS versendet,
+
+01:09:18.889 --> 01:09:20.199
+<v Linus Neumann>Ähm.
+
+01:09:21.882 --> 01:09:30.078
+<v Linus Neumann>Diese Zahl ist natürlich jetzt halt interessant. So, die Frage ist, mit welcher also die Zahl sagt erstmal nichts aus, weil,
+
+01:09:30.229 --> 01:09:37.745
+<v Linus Neumann>Grob überschlagen, hättest du wenn du die einfach sehr schnell sendest, hättest die auch alle an eine Person schicken können, ja? Ähm,
+
+01:09:37.752 --> 01:09:45.900
+<v Linus Neumann>und sie werden sich halt verschiedene zeitliche Auflösungen für unterschiedliche Zielpersonen gesetzt haben. Man weiß auch nicht, ob sie die einfach rund um die Uhr schicken
+
+01:09:47.949 --> 01:09:53.831
+<v Linus Neumann>bei Interesse, mal gucken, oh, wo war der zu dem Zeitpunkt, war der bei der Demo oder nicht? Ne, also.
+
+01:09:53.531 --> 01:10:03.764
+<v Tim Pritlove>Also salopp gesagt, es könnte sein, dass sie hunderttausend Mal bei hunderttausend Leuten einmal wissen wollten, wo die sind, aber es kann auch sein, dass sie bei einer Person hunderttausend Mal wissen wollten, wo die ist.
+
+01:10:03.464 --> 01:10:07.003
+<v Linus Neumann>Irgendwo dazwischen wird, die wird sich die Wahrheit ähm.
+
+01:10:08.211 --> 01:10:12.508
+<v Linus Neumann>Verbergen interessant ist aber im zweiten Halbjahr,
+
+01:10:12.580 --> 01:10:19.076
+<v Linus Neumann>zweitausendvierzehn, also im gleichen Zeitraum ein Jahr vorher, haben sie sechsundzwanzigtausend verschickt. Das heißt, sie haben das,
+
+01:10:19.419 --> 01:10:24.148
+<v Linus Neumann>verfünffacht. Ja, in zwei, im und im ersten Halbjahr zweitausendfünfzehn,
+
+01:10:24.659 --> 01:10:35.240
+<v Linus Neumann>Also hatten sie, haben sie zweiundzwanzigtausend verschickt? Also irgendwas ging echt mal hoch im zweiten Halbjahr zweitausendfünfzehn, nämlich sie haben auf einmal fünfmal so viele SMS versendet.
+
+01:10:36.376 --> 01:10:39.789
+<v Linus Neumann>Äh der Verfassungsschutz hat äh.
+
+01:10:44.489 --> 01:10:48.220
+<v Linus Neumann>Er äh hatte der Verfassungsschutz hundertzweiundvierzigtausend verschickt,
+
+01:10:48.286 --> 01:10:55.118
+<v Linus Neumann>Und jetzt im zweiten Halbjahr zweitausendfünfzehn nur noch fünfundvierzigtausend. Also irgendwie das BKA hat mehr gemacht, der Verfassungsschutz weniger.
+
+01:10:56.104 --> 01:11:03.020
+<v Linus Neumann>Zoll, Bundesnachrichtendienst und der militärische Abschirmdienst nutzen die auch, geben aber ihre Zahlen nicht raus.
+
+01:11:03.573 --> 01:11:07.172
+<v Tim Pritlove>Und alle sagen vor allem auch jetzt nicht, wie viele Personen davon betroffen war.
+
+01:11:07.335 --> 01:11:14.173
+<v Linus Neumann>Wie viele Personen sagen sie nicht? Sie sagen nur, die Gesamtzahl dieser äh dieser SMS und die gesagt, diese diese,
+
+01:11:14.306 --> 01:11:19.395
+<v Linus Neumann>Zahl ist wenig aussagekräftig, aber wenn man jetzt mal,
+
+01:11:19.563 --> 01:11:24.569
+<v Linus Neumann>zu Grunde legt, dass die im Zweifelsfall halbwegs,
+
+01:11:24.750 --> 01:11:31.287
+<v Linus Neumann>Rational mit diesem Ding umgehen und die nicht zu oft verschenken und nicht zu wenig würde ich,
+
+01:11:31.317 --> 01:11:45.672
+<v Linus Neumann>eigentlich eher damit rechnen, dass sie sowas wie ein wie fünf, dreißig oder sechzig Minuten als zeitliche Auflösung nehmen. Ja, also du willst ja, dich interessiert ja nicht unbedingt, wo ist die Person langgefahren, ja?
+
+01:11:45.961 --> 01:11:49.897
+<v Linus Neumann>Ich habe aber auch schon mal im Rahmen einer ähm.
+
+01:11:52.698 --> 01:11:58.749
+<v Linus Neumann>Also ich habe mal Einsicht in solche äh Protokolle bekommen. Da war die zeitliche Auflösung auch so im,
+
+01:11:58.850 --> 01:12:02.636
+<v Linus Neumann>etwas also im Mehr, mehrere Minutenbereich.
+
+01:12:02.577 --> 01:12:09.624
+<v Tim Pritlove>Wie sind die räumliche Auflösung? Also ist da jetzt eine Triankulation möglich oder kriegt man im Prinzip nur eine Zelle mit?
+
+01:12:09.324 --> 01:12:23.553
+<v Linus Neumann>Kriegst nur die und die übersetzt im Prinzip erstmal nur in einen in ein hundertzwanzig Grad Winkel abgehend von dem Standort der Antenne.
+
+01:12:34.755 --> 01:12:37.116
+<v Tim Pritlove>Mehrere Antennen oder mehrere.
+
+01:12:36.816 --> 01:12:47.121
+<v Linus Neumann>Nee, wenn du also wenn du mehrere solche Messungen hast, ne, dann siehst du natürlich, okay, weil also deshalb interessiert dich unter Umständen vielleicht auch schon ein Weg,
+
+01:12:47.548 --> 01:13:02.475
+<v Linus Neumann>Eine Straße, weil die jetzt von der Einzelmessung nicht weiß, welche welche Straße ist sie jetzt wohl gefahren, aber wenn du halt einfach sage ich mal zwanzig Zellen hast, die entlang der Autobahn stehen, dann kannst du die halt relativ einfach ausmalen. Okay, Person wird jetzt da.
+
+01:13:02.830 --> 01:13:07.967
+<v Tim Pritlove>Auf der Butter gefahren sein. Was natürlich auch äh ein Grund sein kann, warum mehr,
+
+01:13:08.123 --> 01:13:20.928
+<v Tim Pritlove>SMS gesendet werden, weil sie einfach gesehen haben, wir umso häufiger wir abfragen, umso genauere Tracks können wir daraus äh nachvollziehen. Also von daher, interessante Zahl, schwer zu interpretieren.
+
+01:13:20.634 --> 01:13:27.767
+<v Linus Neumann>Interessanter, also interessanter wird die vor allem, wenn dich, wenn dich Zusammenkünfte von Personen interessieren,
+
+01:13:28.019 --> 01:13:32.363
+<v Linus Neumann>dann kann's natürlich einfach sagen, okay, die sind echt einfach, weißt du?
+
+01:13:32.496 --> 01:13:36.311
+<v Tim Pritlove>Aus verschiedenen Richtungen gekommen. Stundenlang zusammengehangen.
+
+01:13:33.470 --> 01:13:48.168
+<v Linus Neumann>Die sind aus verschiedenen Richtungen gekommen und dann war der eine zwei Stunden in dieser E Plus Zelle und der andere zwei Stunden in der Tim-Mobile-Zelle, die daneben steht und dann sind die zum gleichen Zeitpunkt dann wieder aus dem Bereich raus, der eine in die eine und der andere in die andere Richtung, ja?
+
+01:13:49.303 --> 01:13:50.631
+<v Linus Neumann>Ähm.
+
+01:14:00.847 --> 01:14:02.571
+<v Linus Neumann>Stille SMS heißt ich.
+
+01:14:03.455 --> 01:14:15.767
+<v Linus Neumann>Ich habe diese Person, ich will die Person im Auge behalten und ich mache ich verwandle im Prinzip ihr Mobiltelefon, was sie in der Tasche hat, in eine Ortungswanze. Ja, also,
+
+01:14:16.056 --> 01:14:22.821
+<v Linus Neumann>Das ist das, obwohl ich das eigentlich, obwohl die Rechtsprechung mir das im Prinzip nicht erlaubt,
+
+01:14:23.230 --> 01:14:35.128
+<v Linus Neumann>habe ich halt quasi diesen juristischen Hack und äh hole mir am Ende des Monats oder vielleicht sogar früher die Transaktionsrecords, ja? Und missbrauche ähm quasi die,
+
+01:14:35.309 --> 01:14:42.099
+<v Linus Neumann>Telekommunikationsüberwachung zur Location-Überwachung. Spielt ja dann auch nochmal wieder eine Rolle
+
+01:14:41.991 --> 01:14:45.308
+<v Linus Neumann>im Rahmen der Vorratsdatenspeicherung, wo er jetzt auch,
+
+01:14:45.380 --> 01:14:51.407
+<v Linus Neumann>anfallen. Das heißt, da wird's auch nochmal interessant, ob eventuell jetzt die,
+
+01:14:51.683 --> 01:14:55.409
+<v Linus Neumann>Vorratsdatenspeicherung nicht
+
+01:14:55.403 --> 01:15:09.080
+<v Linus Neumann>Letztendlich in der Umsetzung das Ende des Versandes stiller SMS bedeutet, weil der ganze Kram ja ehm mehrere Wochen gespeichert werden soll. Also da weiß ich nicht genau wie die Strafverfolgungsbehörden da in Zukunft agieren werden.
+
+01:15:08.960 --> 01:15:13.322
+<v Linus Neumann>Vermutlich werden sie aber weiterhin stille SMS brauchen.
+
+01:15:14.086 --> 01:15:20.124
+<v Linus Neumann>Weil ja in der Vorratsdatenspeicherung auch nur gespeichert wird, wenn eine Transaktion anfällt.
+
+01:15:28.159 --> 01:15:29.264
+<v Linus Neumann>Ja nur noch um.
+
+01:15:33.951 --> 01:15:36.511
+<v Tim Pritlove>So.
+
+01:15:36.289 --> 01:15:45.999
+<v Linus Neumann>Also die, die Personen, es gibt auch noch, also wie gesagt, das Feld des Location-Tracking ist groß und wenn ich hier kurz ein bisschen Eigenwerbung machen darf unter äh GSM Map Punkt ORG,
+
+01:15:46.011 --> 01:15:51.311
+<v Linus Neumann>kann man sich für für alle Länder auch noch so Berichte anschauen, also brauchst du auch echt jetzt nicht unbedingt,
+
+01:15:51.378 --> 01:15:55.752
+<v Linus Neumann>stille SMS, um herauszufinden, wo sich jemand aufhält. Ja, das geht eleganter.
+
+01:15:56.341 --> 01:16:01.592
+<v Linus Neumann>Ähm kann ich gleich hier auch mal kurz zeigen, wenn wir nicht mehr podcasten. Aber ähm,
+
+01:16:02.188 --> 01:16:11.676
+<v Linus Neumann>Genau, da haben wir, haben wir auf jeden Fall so ein bisschen so Angriffe erklärt. So, die andere Sache ist, Insi-Catcher und der Insi-Catcher ist quasi etwas ein Gerät, das sagt, ich bin.
+
+01:16:12.566 --> 01:16:21.657
+<v Linus Neumann>Ein ich bin dein Mobilfunknetz. Ja und das Telefon authentifiziert sich dann bei diesem,
+
+01:16:21.801 --> 01:16:26.278
+<v Linus Neumann>Weil das Signal stark ist, ja? Also das das Telefon fährt,
+
+01:16:26.362 --> 01:16:31.025
+<v Linus Neumann>die Lande und während es so und kriegt halt die ganze Zeit
+
+01:16:30.858 --> 01:16:34.643
+<v Linus Neumann>Signale von den unterschiedlichen Zellen des Mobilfunknetzes,
+
+01:16:41.325 --> 01:16:49.322
+<v Linus Neumann>einer Zelle nach der anderen an. Und zwar immer bei der, die das äh stärkste Signal hat. Und,
+
+01:16:49.888 --> 01:17:03.041
+<v Linus Neumann>geht im Prinzip hin und sagt, hallo, ich bin eine Zelle von deinem Mobilfunknetz, ich sende dir, wie du merkst, ein sehr starkes Signal und das Telefon sagt, ah super, dann gehe ich doch jetzt mal in diese Zelle.
+
+01:17:09.916 --> 01:17:18.797
+<v Linus Neumann>Jetzt unterscheidet sich das auch wieder nach zwei G, drei G und vier G, ich will da aber nicht zu sehr ins Detail gehen. Ähm letztendlich sagt das Telefon hallo, hier bin ich,
+
+01:17:19.122 --> 01:17:31.735
+<v Linus Neumann>Ich darf das, hier ist meine Sim und so weiter, hier sind, hier ist meine lass uns mal hier 'ne Dingensauthentifizierung, das Mobilfunknetz sagt dann, das gefälschte Mobilfunknetz,
+
+01:17:32.023 --> 01:17:37.701
+<v Linus Neumann>kann dann auf unterschiedlichen Wegen reagieren, zum Beispiel kann es sagen, ah wunderbar, alles klar, dann bleib mal hier.
+
+01:17:38.688 --> 01:17:44.655
+<v Linus Neumann>Ähm oder es sagt halt, ja, alles klar, wunderbar, du bist das, äh aber ich nehme dich nicht an, ja?
+
+01:17:44.744 --> 01:17:50.447
+<v Linus Neumann>Kann man auf verschiedene Wegen machen, da hab ich zusammen mit Luka und Deckstar beim Camp,
+
+01:17:50.790 --> 01:18:00.272
+<v Linus Neumann>ein äh einen kleinen Workshop artigen Vortrag zu gehalten im BER Village, äh wo ich nochmal die verschiedenen Typen von ihm sehe. Ähm,
+
+01:18:00.645 --> 01:18:10.493
+<v Linus Neumann>erklärt habe. Aber ein sagt quasi am Ende, der liefert am Ende die Daten folgende ähm im süß,
+
+01:18:10.770 --> 01:18:19.200
+<v Linus Neumann>haben sich bei mir angemeldet. Ähm das heißt, da hast du quasi zu einer Location.
+
+01:18:19.940 --> 01:18:26.255
+<v Linus Neumann>Die Opfer, ja, wird äh gerne mal eingesetzt bei äh.
+
+01:18:27.090 --> 01:18:36.831
+<v Linus Neumann>Bei Demos wird aber zum Beispiel auch, dass es immer die Legende, mit der der Einsatz von von oder die Anschaffung von INCE catchern äh gerechtfertigt wird,
+
+01:18:36.951 --> 01:18:44.252
+<v Linus Neumann>Ja, wir haben ja andauernd äh Selbstmorde, äh die sich irgendwie, die am Telefon sagen, sie bringen sich jetzt um
+
+01:18:44.084 --> 01:19:00.507
+<v Linus Neumann>und dann müssen wir mit dem die orten, weil die sind dann im Wald, im dunklen Wald und dann haben wir quasi so einen Imseketcher mit einer Richtantenne und dann dann catchen wir die und dann mit der Richtantenne gehen wir dann dahin, dass das Signal stärker wird und dann retten wir deren Leben. Das ist so
+
+01:19:00.333 --> 01:19:06.360
+<v Linus Neumann>ernsthaft die die Legende, die du immer wieder hörst, wo die die Polizei dir erzählt, warum sie diese brauchen.
+
+01:19:06.083 --> 01:19:10.939
+<v Tim Pritlove>Auf diese Methode schon aus dem Wald gezogen.
+
+01:19:10.639 --> 01:19:22.518
+<v Linus Neumann>Weiß ich nicht, wahrscheinlich haben die Selbstmorder äh Ketchup, Ketchup oder Snoops und sehen dann, dass dann ist und schalten ihr Telefon aus. Also ich habe keine Ahnung. Das ist doch, ich meine, auf so einen Quatsch braucht man sich da gar nicht einzulassen.
+
+01:19:22.218 --> 01:19:29.080
+<v Tim Pritlove>Na ja, vor allem stehen die nicht häufiger auf der Autobahnbrücke, als im Wald.
+
+01:19:35.732 --> 01:19:38.280
+<v Linus Neumann>Die Bundespolizei dreißig Mal.
+
+01:19:39.188 --> 01:19:45.196
+<v Linus Neumann>Das sind ungefähr die Zahlen aus dem äh vorherigen Halbjahr. Und.
+
+01:19:45.972 --> 01:19:49.625
+<v Linus Neumann>Dann ist ja aber im Prinzip der INSE-Katcher.
+
+01:19:50.599 --> 01:19:53.615
+<v Linus Neumann>Komplett uninteressant.
+
+01:19:54.282 --> 01:20:02.196
+<v Linus Neumann>Wenn du dir nämlich über die Funkzellenabfrage Gedanken machst. Das Einzige, was der IMSE-Catcher noch hat, ist, du könntest den jetzt halt so konfigurieren, dass er halt,
+
+01:20:02.310 --> 01:20:04.810
+<v Linus Neumann>sehr viel genauere Auflösung hat
+
+01:20:04.804 --> 01:20:07.917
+<v Linus Neumann>Örtlich, ne? Du weißt einfach, wo der steht, wie stark der sendet
+
+01:20:07.760 --> 01:20:15.548
+<v Linus Neumann>und wer da äh wer da gecatcht wird, da kannst du halt dann nochmal, sage ich mal, genauer sein als jetzt zum Beispiel mit einer Funkzelle, die irgendwo aufm Land steht.
+
+01:20:20.752 --> 01:20:23.679
+<v Linus Neumann>Im Prinzip vor ein paar Jahren so.
+
+01:20:24.333 --> 01:20:28.696
+<v Linus Neumann>Recherchiert und der Öffentlichkeit zugetragen hat, nämlich dass sie.
+
+01:20:29.796 --> 01:20:43.111
+<v Linus Neumann>Verstrafverfolgungsbehörden zum Provider gehen und sagen, ey, Kollege, wir wollen gerne wissen, alle, die sich zu diesem, in diesem Zeitraum in dieser definierten Zelle eingebucht haben.
+
+01:20:43.845 --> 01:20:49.253
+<v Linus Neumann>Und ähm da hat man natürlich so ein ähm.
+
+01:20:50.558 --> 01:21:02.960
+<v Linus Neumann>Mitunter halt viele hundert oder viele tausend Leute, ne? Wir hatten das ähm die zwei großen, interessanten Fälle waren einmal, dass die äh dass das in Dresden bei den Demonstrationen zum.
+
+01:21:08.001 --> 01:21:11.832
+<v Linus Neumann>Spinner da aufmarschieren. Nee, das ist ja das sind ja auch die besorgten Bürger, aber die
+
+01:21:11.832 --> 01:21:15.663
+<v Linus Neumann>Nazis, wo man auch weiß, wo die auch Nazis heißen, glaube ich,
+
+01:21:15.789 --> 01:21:19.449
+<v Linus Neumann>Nee, was sind das immer in Dresden? Das sind dann.
+
+01:21:20.650 --> 01:21:24.815
+<v Linus Neumann>Die gedenken dem Bombenterror oder irgendwie sowas, ne? Die besorgten Bomben
+
+01:21:24.719 --> 01:21:36.436
+<v Linus Neumann>Terroristen oder sowas ist das, wo die dann der Bombardierung Dresdens gedenken, ne, und den Heldentod, den da alle geschoren sind und so. Das ist doch bei im Rahmen dieser Aktion sind ja dann immer große äh,
+
+01:21:36.983 --> 01:21:43.791
+<v Linus Neumann>große Proteste und da hat haben dann die Strafverfolgungsbehörden auch äh Funkzellenabfragen gemacht,
+
+01:21:44.020 --> 01:21:53.550
+<v Linus Neumann>in der kompletten Dresdner Innenstadt und hatten damit einfach mal alle, die bei dieser Demonstration waren. Ja, oder bei beiden, ja,
+
+01:21:53.755 --> 01:22:00.190
+<v Linus Neumann>also konnten einfach mal, haben die haben einfach eine Liste aller Personen, die zu dem Zeitpunkt in Dresden waren,
+
+01:22:00.786 --> 01:22:03.801
+<v Linus Neumann>auch eine sehr, sehr grundrechtschonende Maß.
+
+01:22:03.501 --> 01:22:13.764
+<v Tim Pritlove>Aller, aller Personen, die ein Mobiltelefon dabei hatten und äh plus alle Leute, die da zwar waren, aber damit nichts zu tun hatten und oben stehen.
+
+01:22:13.464 --> 01:22:28.138
+<v Linus Neumann>Ja, sie haben einfach eine Liste aller Mobiltelefone aller Mobiltelefon, Identitäten, also es ist ja nicht das Mobiltelefon, sondern eher also es geht ja eher um die Sim, weil die Sim ja gebunden ist an die Telefonnummer und die Telefonnummer wiederum an die Person.
+
+01:22:38.450 --> 01:22:40.908
+<v Linus Neumann>Massenüberwachung. Ähm,
+
+01:22:41.557 --> 01:22:46.767
+<v Linus Neumann>einundvierzig Mal zum Einsatz gekommen,
+
+01:22:47.091 --> 01:22:57.517
+<v Linus Neumann>Von der Bundespolizei und vom Zoll neununddreißig Mal zum Einsatz gekommen im zweiten Halbjahr zweitausendfünfzehn. Das heißt insgesamt also,
+
+01:22:57.818 --> 01:23:03.406
+<v Linus Neumann>BKA zwanzig Mal, das heißt ähm hundert Einsätze in.
+
+01:23:04.289 --> 01:23:12.197
+<v Linus Neumann>Hundert Funkzellen abfragen in einem halben Jahr. Ne, dreihundertfünfundsechzig Tage.
+
+01:23:12.984 --> 01:23:18.831
+<v Linus Neumann>Durch zwei gleich hundertzweiundachtzig einhalb in hundertachtzig Tagen,
+
+01:23:18.873 --> 01:23:24.683
+<v Linus Neumann>einhundert Funzellen abfragen. Das heißt schon so ungefähr jeden zweiten Tag.
+
+01:23:27.256 --> 01:23:32.020
+<v Tim Pritlove>Ist ja auch eine Menge los, also die da immer wieder Leute auf die Straße.
+
+01:23:31.979 --> 01:23:46.484
+<v Linus Neumann>Na und bei jeder Funktion Abfrage, wie gesagt, da hast du halt, wenn du sowas jetzt hier in Berlin machst, wie sie's damals gemacht haben, als hier dieser äh dieser Frust hier rumgerannt ist und Autos angezündet hat, haben sie auch Funkzellenabfragen gemacht. Wenn das in inner Stadt wie Berlin Master,
+
+01:23:51.358 --> 01:23:55.468
+<v Linus Neumann>Gleichzeitig ähm Hass,
+
+01:23:55.582 --> 01:23:59.470
+<v Linus Neumann>hast du da natürlich auch eine relativ effektive.
+
+01:24:00.787 --> 01:24:05.912
+<v Linus Neumann>Ähm Methode, um eine Person zu ermitteln, ne, also die haben halt im Prinzip einfach,
+
+01:24:05.984 --> 01:24:12.480
+<v Linus Neumann>wenn er so ein Auto gebrannt hat, haben sich kurz die Funkzellendaten geholt, das machst du dreimal, dann bleibt einfach nur eine
+
+01:24:12.372 --> 01:24:20.370
+<v Linus Neumann>eine Identität über die an allen drei Orten waren, ne? Das ist einfach über zufällig nicht mehr zu erklären,
+
+01:24:20.454 --> 01:24:29.521
+<v Linus Neumann>Jeweils nachts eine Person sich in der Stadt aufhält, vor allem wenn du das dann an unterschiedlichen, in unterschiedlichen Stadtteilen machst und so, ne? Das ist halt relativ.
+
+01:24:30.771 --> 01:24:32.015
+<v Linus Neumann>Relativ zügig.
+
+01:24:32.520 --> 01:24:35.447
+<v Tim Pritlove>Aber so so richtig aufgeklärt wurde, doch darüber.
+
+01:24:36.684 --> 01:24:48.930
+<v Linus Neumann>Äh ich glaube, sie waren dann irgendwie nicht klug genug, das richtig auszuwerten. Am Ende haben sie den irgendwie, glaube ich, über eine Überwachungskamera oder sowas gefunden, aber der die Funkzellenabfrage hatte auch eine Rolle gespielt. Worauf ich hinaus will, ist so dieses.
+
+01:24:49.940 --> 01:24:56.767
+<v Linus Neumann>Mobilfunk, so große Sache, ne? Also Mobil äh Funkellenabfrage jeden zweiten Tag.
+
+01:24:58.269 --> 01:25:04.290
+<v Linus Neumann>Im Sequetcher stehen überall äh rum, weil wie gesagt, die eigentlich relativ selten zur Anwendung kommen und ich auch,
+
+01:25:13.802 --> 01:25:18.400
+<v Linus Neumann>Im Sequetcher zum Einsatz zu bringen. Der ist der Einsatz eines ist einfach,
+
+01:25:18.616 --> 01:25:23.320
+<v Linus Neumann>zu aufwendig im Vergleich zu den anderen Methoden, die die dir zur Verfügung stehen.
+
+01:25:27.029 --> 01:25:41.300
+<v Linus Neumann>So viel zur Mobilfunküber zu dem neuesten Kennzahlen der äh Mobilfunk Überwachung. Dann haben wir ein ganz interessantes äh Urteil des in,
+
+01:25:41.871 --> 01:25:48.324
+<v Linus Neumann>Im Vereinigten Königreich. Wir erinnern uns, dass äh David Miranda.
+
+01:25:49.022 --> 01:25:53.468
+<v Linus Neumann>Der, ich glaube, inzwischen ehe man von ähm.
+
+01:25:58.073 --> 01:25:59.736
+<v Tim Pritlove>Heftig gerne auf die Sprünge.
+
+01:25:59.436 --> 01:26:08.941
+<v Linus Neumann>Vielen Dank von Glen Green World. Ja, äh in an einem Flughafen lange Zeit festgehalten wurde, nämlich äh neun Stunden,
+
+01:26:09.224 --> 01:26:20.190
+<v Linus Neumann>Das auf Basis eines Terrorgesetzes aus dem Jahr zweitausend, das es den Sicherheitsbehörden erlaubt, Reisende zu befragen, um herauszufinden, ob sie Terroristen sind.
+
+01:26:21.747 --> 01:26:25.010
+<v Linus Neumann>Fragst du einfach. Ne.
+
+01:26:26.181 --> 01:26:30.070
+<v Linus Neumann>Dabei haben die Personen weder das Recht, zu schweigen.
+
+01:26:30.971 --> 01:26:35.297
+<v Linus Neumann>Noch das Recht auf juristische Beratung. Das sind also das,
+
+01:26:35.616 --> 01:26:47.501
+<v Linus Neumann>Das Recht zu schweigen und das Recht auf juristische Beratung sind ähm fundamentale Errungenschaften des Rechtsstaates, ja? Ähm.
+
+01:26:49.900 --> 01:26:57.260
+<v Linus Neumann>Die hast du dann eben nicht. Und du kannst bis zu neun Stunden festgehalten werden.
+
+01:26:58.775 --> 01:27:01.623
+<v Linus Neumann>Ähm und.
+
+01:27:02.825 --> 01:27:09.495
+<v Linus Neumann>Dagegen hatte eben der David Miranda geklagt, weil er ja als äh Journalist und so da festgehalten wurde.
+
+01:27:10.986 --> 01:27:12.716
+<v Linus Neumann>Und ähm.
+
+01:27:14.152 --> 01:27:19.969
+<v Linus Neumann>Hatte sich eben dagegen gewehrt und dann hatte stand das vor dem, hat der äh der Hykord hat,
+
+01:27:20.035 --> 01:27:24.794
+<v Linus Neumann>Festnahme für Gesetzmäßig erklärt, weil es ja eben eine Gesetzmäßige Grundlage gibt,
+
+01:27:25.239 --> 01:27:29.072
+<v Linus Neumann>Nämlich dieses Terrorgesetz aus zweitausend,
+
+01:27:29.470 --> 01:27:36.939
+<v Linus Neumann>und da dagegen ist er eben in Berufung gegangen und hat jetzt hat dieser Court of Peel gesagt, ja,
+
+01:27:37.468 --> 01:27:41.487
+<v Linus Neumann>was da geschehen ist, war in Ordnung. Es gibt eine rechtliche Grundlage dafür.
+
+01:27:42.761 --> 01:27:48.343
+<v Linus Neumann>Aber diese rechtliche Grundlage ist nicht rechtmäßig, denn wenn diese Bestimmung.
+
+01:27:49.246 --> 01:27:52.725
+<v Linus Neumann>In Verbindung mit journalistischen Material genutzt werden,
+
+01:27:52.959 --> 01:27:57.183
+<v Linus Neumann>es ging denn ja darum, wo sind die Snowden-Dokumente? Äh,
+
+01:27:57.430 --> 01:28:09.333
+<v Linus Neumann>dann ist das nicht mit Artikel zehn der europäischen Menschenrechtskonvention vereinbar. Ähm und deswegen sei diese gesetzliche Grundlage, die den.
+
+01:28:10.139 --> 01:28:17.223
+<v Linus Neumann>Nicht beschuldigten eine einen Anwalt unters Recht zu schweigen entzieht,
+
+01:28:17.668 --> 01:28:27.439
+<v Linus Neumann>Setz dich nicht aus gegen gegen willkürliche nicht ausreichend gegen äh Willkür äh abgesichert. Was äh total skurril ist,
+
+01:28:27.571 --> 01:28:31.873
+<v Linus Neumann>aber wie gesagt, das Recht zu schweigen und das Recht auf juristische Beratung,
+
+01:28:32.048 --> 01:28:35.562
+<v Linus Neumann>sind sehr fundamentale Errungenschaften des Rechtsstaat
+
+01:28:35.455 --> 01:28:40.905
+<v Linus Neumann>und das finde ich, das war mir schon immer irgendwie äh aufgefallen, deswegen wollte ich diesen Spaßfakt jetzt mal kurz,
+
+01:28:40.983 --> 01:28:45.015
+<v Linus Neumann>äh hier nochmal anmerken,
+
+01:28:45.046 --> 01:28:53.193
+<v Linus Neumann>Es gibt nämlich das sogenannte und das ist das, was äh US-Polizisten, die ihren Gefangenen
+
+01:28:53.013 --> 01:29:04.887
+<v Linus Neumann>sagen müssen, wenn sie sie verhaften. Nämlich so, sie haben das Recht zu schweigen, sie haben das Recht zu einem Anwalt, wenn sie sich keinen Anwalt leisten können, wird ihnen äh von Gericht jemand gestellt und dann gibt's noch einige weitere,
+
+01:29:04.948 --> 01:29:13.306
+<v Linus Neumann>Ja genau.
+
+01:29:13.126 --> 01:29:16.695
+<v Linus Neumann>Ähm wenn es kein, wenn du keinen leisten kannst, geben wir dir den.
+
+01:29:17.489 --> 01:29:21.592
+<v Linus Neumann>Ähm wenn du Fragen beantwortest,
+
+01:29:21.647 --> 01:29:25.630
+<v Linus Neumann>dass ein Anwalt da ist, kannst du jederzeit trotzdem aufhören.
+
+01:29:26.484 --> 01:29:31.460
+<v Linus Neumann>Und dann musst du sagen, sie äh hast du diese Rechte verstanden,
+
+01:29:31.610 --> 01:29:34.433
+<v Linus Neumann>und,
+
+01:29:34.963 --> 01:29:39.049
+<v Linus Neumann>Diese Warnung müssen Polizisten in den USA aussprechen.
+
+01:29:40.431 --> 01:29:49.612
+<v Linus Neumann>Die heißen Miranda, weil es nämlich mal ein äh eine Person gab, die äh verhaftet wurde.
+
+01:29:50.707 --> 01:29:51.620
+<v Linus Neumann>Ähm.
+
+01:29:52.377 --> 01:29:57.936
+<v Linus Neumann>Und sich dieser Rechte nicht bewusst war. Und da gab's einen Supreme Quad Discision und deswegen gibt es halt,
+
+01:29:58.061 --> 01:30:05.254
+<v Linus Neumann>Verpflichtung von Polizisten, dass sie das einer Person, eine Person darüber ähm belehren müssen,
+
+01:30:05.820 --> 01:30:09.635
+<v Linus Neumann>und äh das finde ich halt ein ein Spaßeffekt,
+
+01:30:09.803 --> 01:30:12.838
+<v Linus Neumann>müsst ihr auch noch machen. Das ist Miranda und Miranda, so.
+
+01:30:12.820 --> 01:30:15.416
+<v Tim Pritlove>Genau, das war mir ein Ernesto Miranda,
+
+01:30:15.993 --> 01:30:29.020
+<v Tim Pritlove>und das äh fand halt in den USA statt äh in Arizona und ja, ausgerechnet David Miranda werden dann sozusagen diese Miranda Rechte nicht zugestanden. Ist schon äh.
+
+01:30:30.192 --> 01:30:32.084
+<v Tim Pritlove>Kann man schon gar nicht mehr toppen irgendwie.
+
+01:30:33.197 --> 01:30:48.706
+<v Linus Neumann>Ja, aber okay, da kann man also jetzt sehen, da wird also jetzt tatsächlich ein Gesetz, wo man sagt, du kannst neun Stunden ohne Anschuldigung festgehalten werden, hast nicht das Recht zu schweigen und nicht das Recht auf einen Anwalt. Da wird jetzt also vorsichtig angemerkt, dass das Gesetz nicht ausreichend dagegen abgesichert ist.
+
+01:30:48.460 --> 01:30:53.748
+<v Linus Neumann>Willkürlich angewendet zu werden, also was willst du dazu noch sagen?
+
+01:30:54.324 --> 01:30:59.000
+<v Tim Pritlove>Genau, also dieser Code of the Peel ist in äh England im Übrigen, ähm,
+
+01:30:59.264 --> 01:31:04.822
+<v Tim Pritlove>ein Berufungsgericht äh auf höchster Ebene, also der hat sich da,
+
+01:31:04.829 --> 01:31:10.790
+<v Tim Pritlove>Heilkraut aufs äh sozusagen das oberste Zivilgericht, das hat sich ja äh anders also hat gesagt,
+
+01:31:11.150 --> 01:31:16.582
+<v Tim Pritlove>und dieses Berufungsgericht hat halt jetzt gesagt, na ja, äh.
+
+01:31:20.151 --> 01:31:25.433
+<v Tim Pritlove>Aber das Gesetz selber ist halt braun und muss äh geändert werden so.
+
+01:31:25.440 --> 01:31:35.979
+<v Linus Neumann>Was ich auch interessant finde eigentlich oder so würde man, ich hätte erwartet, dass in also in Deutschland hätte ich erwartet, dass man sagt, na ja okay,
+
+01:31:36.322 --> 01:31:42.613
+<v Linus Neumann>Das war auf Basis eines Gesetzes, das nicht gesetzmäßig ist, also war's auch grundsätzlich, Mist.
+
+01:31:43.635 --> 01:31:46.207
+<v Tim Pritlove>Ja, würde damit hinfällig werden. Ich weiß ja nicht,
+
+01:31:46.285 --> 01:31:52.426
+<v Tim Pritlove>jetzt schon äh das letzte Wort ist in dem ganzen Spiel. Auf jeden Fall sagt das ja im Prinzip, dass dieses Gesetz weg muss.
+
+01:31:52.132 --> 01:31:52.949
+<v Linus Neumann>Ja
+
+01:31:54.842 --> 01:32:07.034
+<v Linus Neumann>Oder es muss noch irgendeine Klausel rein, um um ein absolutes Willkürgesetz, wo man keine Begründung, keine Beschuldigung, kein gar nix haben muss, äh irgendwie gegen Willkür abzusichern. Viel Spaß dabei.
+
+01:32:08.344 --> 01:32:11.427
+<v Linus Neumann>Ja dann.
+
+01:32:11.127 --> 01:32:13.169
+<v Tim Pritlove>Letzter Teil.
+
+01:32:12.869 --> 01:32:18.992
+<v Linus Neumann>Neues, Nähe, Vorletzter Teil. Neues aus dem äh aus der Generalbundesanwaltschaft,
+
+01:32:19.089 --> 01:32:29.051
+<v Linus Neumann>Ähm Hacking ist not anout in the Bundestag. Ist jetzt äh Peter Frank,
+
+01:32:29.154 --> 01:32:34.513
+<v Linus Neumann>losgegangen und hat die Ermittlungen übernommen. Ähm.
+
+01:32:34.376 --> 01:32:35.643
+<v Tim Pritlove>Wer ist Peter Frank.
+
+01:32:35.349 --> 01:32:37.656
+<v Linus Neumann>Peter Frank ist der Generalbundesanwalt.
+
+01:32:37.639 --> 01:32:43.798
+<v Tim Pritlove>Der Neue, der Nachfolger, der der Alte, der Alte ist ja weggebrochen.
+
+01:32:43.882 --> 01:32:46.388
+<v Linus Neumann>Der eine war irgendwas mit Landesverrat.
+
+01:32:46.088 --> 01:32:50.593
+<v Tim Pritlove>War irgendwas, irgendein Abgrund in den er hineingestürzt ist. Tja,
+
+01:32:50.715 --> 01:33:01.795
+<v Tim Pritlove>Da ist Herr Frank noch nicht ganz gelandet, äh deswegen entscheidet er sich jetzt halt auch mal irgendwann mal Ermittlungen auch aufzunehmen. Äh wir erinnern uns, der alte Bundesanwalt hatte ja
+
+01:33:01.615 --> 01:33:08.435
+<v Tim Pritlove>Probleme, zum Beispiel mal Ermittlungen aufzunehmen wegen dieses Spionageskandals in Deutschland, von dem man immer wieder mal hört,
+
+01:33:08.718 --> 01:33:14.030
+<v Tim Pritlove>weil da gab's ja irgendwie nicht so viele Anzeichen. Also da wird nur seit Jahren drüber berichtet, aber das äh heißt ja noch,
+
+01:33:14.096 --> 01:33:19.942
+<v Tim Pritlove>nichts. Aber hier wurde zumindest einmal bemerkt, dass doch tatsächlich so eine Hackattacke gab und jetzt äh
+
+01:33:19.774 --> 01:33:26.739
+<v Tim Pritlove>Ja, jetzt können äh die Bösewichter halt einpacken, weil der Generalbundesanwalt hat angekündigt, sich drum zu kümmern.
+
+01:33:26.439 --> 01:33:28.788
+<v Linus Neumann>Er
+
+01:33:29.605 --> 01:33:32.573
+<v Linus Neumann>Bereits also die zuständige,
+
+01:33:32.820 --> 01:33:36.756
+<v Linus Neumann>Fachabteilung zu Bekämpfung von Spionagedelikten,
+
+01:33:37.099 --> 01:33:40.391
+<v Linus Neumann>Also die Fachabteilung der Bund-Generalbundesanwalt,
+
+01:33:40.710 --> 01:33:45.372
+<v Linus Neumann>führt bereits seit Mitte Januar. Wir haben gerade Mitte Januar,
+
+01:33:45.499 --> 01:33:51.682
+<v Linus Neumann>ein Strafverfahren gegen unbekannt. Es geht um den Verdacht der geheimdienstlichen Agententätigkeit und,
+
+01:33:51.784 --> 01:33:58.850
+<v Linus Neumann>Man hat natürlich immer noch keine Angabe über konkrete Spuren, aber der Finger zeigt nach Russland.
+
+01:33:59.615 --> 01:34:12.461
+<v Linus Neumann>Das klingt alles wie so ein bisschen Neuigkeiten aus dem letzten Jahr, sind's auch. Wir hatten das damals auch äh ausführlich behandelt. Jetzt äh ist es auch bis zum Generalbundesanwalt durchgedrungen.
+
+01:34:12.486 --> 01:34:17.340
+<v Linus Neumann>Muss aber auch dazu sagen, es gab quasi vorher eine ein,
+
+01:34:17.696 --> 01:34:22.329
+<v Linus Neumann>LKA, wenn ich das jetzt richtig stehe, was sich damit schon auseinandergesetzt hat,
+
+01:34:22.442 --> 01:34:27.123
+<v Linus Neumann>hatte jetzt übernommen, ja? Ähm.
+
+01:34:27.875 --> 01:34:34.604
+<v Linus Neumann>Wenn ich das äh richtig verstehe. Aber okay, also der kann jetzt, es kann sich nur noch um Jahre handeln.
+
+01:34:35.399 --> 01:34:40.511
+<v Linus Neumann>Und dann haben wir noch eine letzte Kurzmeldung aus der aus der Bundeswehr.
+
+01:34:41.336 --> 01:34:53.383
+<v Linus Neumann>Wir hatten ja beim äh Camp eine eine Sendung mit den Gästen Julia Reeder und Andre Meister und Andre hat sich ja dann damals äh,
+
+01:34:53.930 --> 01:35:04.055
+<v Linus Neumann>mit dem Thema auseinandergesetzt, dass die Bundeswehr jetzt in den Cyber will und dass die Bundeswehr sagt, okay, es gibt äh Land, Luft und See.
+
+01:35:04.879 --> 01:35:08.051
+<v Linus Neumann>Das sind unsere traditionellen Einsatzgebiete und jetzt,
+
+01:35:08.106 --> 01:35:12.474
+<v Linus Neumann>ein viertes dazu und das heißt Cyber. Und äh.
+
+01:35:13.183 --> 01:35:22.810
+<v Linus Neumann>Die Bundeswehr hat ja, wer im Namen und will sich verteidigen und hat irgendwie die ganze Zeit von ähm.
+
+01:35:23.597 --> 01:35:30.477
+<v Linus Neumann>Von defensiven äh kleidet sich mit defensivem Gedanken gut
+
+01:35:30.346 --> 01:35:39.160
+<v Linus Neumann>Wir erinnern uns an die Debatten der, die so in den letzten zehn, zwanzig Jahren die Bundesrepublik beschäftigt haben
+
+01:35:39.052 --> 01:35:42.423
+<v Linus Neumann>wo die wo die Bundeswehr überall,
+
+01:35:42.586 --> 01:35:47.946
+<v Linus Neumann>unsere Freiheit verteidigt und so, mit welche Länder sie dafür reist. Ähm.
+
+01:35:47.736 --> 01:35:50.251
+<v Tim Pritlove>Also zum Beispiel am Hindukusch.
+
+01:35:50.001 --> 01:35:51.821
+<v Linus Neumann>Kuschelt unsere Freiheit verteidigt und.
+
+01:35:51.865 --> 01:35:53.648
+<v Tim Pritlove>Demnächst halt auch an der Firewall.
+
+01:35:53.420 --> 01:35:58.696
+<v Linus Neumann>Unsere Freiheit wird auch an der Feierruhr verteidigt.
+
+01:35:56.563 --> 01:36:00.949
+<v Tim Pritlove>Firewall verteidigt.
+
+01:35:59.916 --> 01:36:01.496
+<v Linus Neumann>Ähm.
+
+01:36:02.662 --> 01:36:08.562
+<v Linus Neumann>Ja und da war aber immer noch so von passivem, von passiver Abwehr die Rede,
+
+01:36:08.671 --> 01:36:15.671
+<v Linus Neumann>jetzt stellt sich raus, man will natürlich auch äh sich auf Cyber-Attacken vorbereiten.
+
+01:36:16.387 --> 01:36:19.926
+<v Linus Neumann>Ähm.
+
+01:36:19.626 --> 01:36:22.768
+<v Tim Pritlove>Nicht die nicht die Abwehr, sondern die Durchführung von.
+
+01:36:23.802 --> 01:36:30.964
+<v Linus Neumann>Genau, die also laut in einem Sachbestandsbericht informierte das Verteidigungsministerium,
+
+01:36:31.097 --> 01:36:36.493
+<v Linus Neumann>den Bundestag darüber, dass Abwehrkonzepte, die über den Rhein,
+
+01:36:36.559 --> 01:36:45.945
+<v Linus Neumann>passiven Schutz zur Minimierung der Auswirkungen eines Cyber-Angriffes hinausgehen. Und diese würden bereits von der NATO unter
+
+01:36:45.940 --> 01:36:52.555
+<v Linus Neumann>sucht. Und sobald die rechtlichen Rahmenbedingungen für solche
+
+01:36:52.459 --> 01:37:02.879
+<v Linus Neumann>Cyber Defense Operation gegeben sein, würden die Möglichkeiten zur Unterbindung und Beendigung eines Angriffs bei der Bundeswehr geplant und ungesetzt.
+
+01:37:03.336 --> 01:37:09.020
+<v Linus Neumann>Also ja, das ist wieder natürlich sehr schön in sehr schönen,
+
+01:37:09.621 --> 01:37:15.498
+<v Linus Neumann>sehr schöne Wort, Worte, die da sind, also man man bleibt natürlich dabei, wir werden,
+
+01:37:15.546 --> 01:37:19.019
+<v Linus Neumann>im Angriffsfall uns verteidigen mit,
+
+01:37:19.296 --> 01:37:29.000
+<v Linus Neumann>Angriffen, denn Angriffe sind ja die beste Verteidigung. Das scheint das irgendwie zu heißen. Es ist auch ganz interessant, dass sie sagen, sobald die rechtlichen Rahmenbedingungen geschaffen sind,
+
+01:37:29.385 --> 01:37:36.998
+<v Linus Neumann>glaube doch eigentlich, dass der Bundestag die rechtlichen Rahmenbedingungen setzt für die Bundeswehreinsätze oder nicht?
+
+01:37:36.812 --> 01:37:43.500
+<v Tim Pritlove>Na also äh wenn wenn der Einsatz ähm also wenn ein Einsatz.
+
+01:37:44.216 --> 01:37:53.421
+<v Tim Pritlove>Vorgenommen werden soll, muss der Erhalt äh in der Regel von Bundestag abgesegnet werden. Weiß nicht, ob die da jetzt über einzelne IP äh.
+
+01:37:56.924 --> 01:37:58.018
+<v Linus Neumann>Fünf Jahre sein.
+
+01:37:59.515 --> 01:38:02.056
+<v Tim Pritlove>Aber nur in einem bestimmten IP-Adressraum.
+
+01:38:03.372 --> 01:38:11.153
+<v Tim Pritlove>Ja, wir teilen euch jetzt hier mal ein Subnetz zu. Da könnt ihr dann äh ja, schwierig.
+
+01:38:12.061 --> 01:38:19.061
+<v Tim Pritlove>Ja, also ich meine, es ist ja irgendwie auch ähm.
+
+01:38:19.879 --> 01:38:29.673
+<v Tim Pritlove>Nachvollziehbar, dass hier Besorgnis herrscht, ne? Aber äh Angriff als Verteidigung, da gehe ich nicht mit.
+
+01:38:31.164 --> 01:38:38.284
+<v Linus Neumann>Na, sie werden das halt ach, ich weiß es auch nicht.
+
+01:38:42.221 --> 01:38:46.353
+<v Linus Neumann>Also sie stehen auf jeden Fall irgendwie ähm.
+
+01:38:47.100 --> 01:38:48.128
+<v Tim Pritlove>Gewehr bei Fuß.
+
+01:38:50.490 --> 01:38:53.804
+<v Tim Pritlove>Sagt man? Das ist digital.
+
+01:38:53.554 --> 01:38:54.936
+<v Linus Neumann>Tastatur im Anschlag.
+
+01:38:54.685 --> 01:39:01.558
+<v Tim Pritlove>Die Tastatur im Anschlag. Haben wir's?
+
+01:39:02.886 --> 01:39:08.414
+<v Linus Neumann>Ja ich ich bin mit meinem Latein am Ende.
+
+01:39:08.114 --> 01:39:11.960
+<v Tim Pritlove>Bist mit deinem Datei am Ende.
+
+01:39:13.600 --> 01:39:19.591
+<v Tim Pritlove>Am Ende auch nicht.
+
+01:39:21.190 --> 01:39:26.255
+<v Tim Pritlove>Am Anfang. Ja, also was soll auch nur so Astrid Latein so.
+
+01:39:28.202 --> 01:39:30.041
+<v Tim Pritlove>Ja
+
+01:39:30.341 --> 01:39:38.105
+<v Tim Pritlove>äh weiß nicht, haben wir noch irgendwelche Termine anzukündigen, liegt irgendwas an? Von Abend, der ist dann äh bei.
+
+01:39:40.179 --> 01:39:42.191
+<v Tim Pritlove>In zwei Wochen der.
+
+01:39:45.412 --> 01:39:48.681
+<v Tim Pritlove>Der Dienstag im Monat, genau, ich dachte, wir machen's jetzt einfach mal konkret,
+
+01:39:48.976 --> 01:39:54.924
+<v Tim Pritlove>also in Berlin ist und äh sich da beteiligen will, dass der zweite. Zweite Februar,
+
+01:39:55.490 --> 01:39:59.678
+<v Tim Pritlove>Ja, vielen Dank für die Ausführung hier,
+
+01:39:59.870 --> 01:40:05.188
+<v Tim Pritlove>PN und ähm haben wir sonst noch was anzukündigen Linus?
+
+01:40:06.835 --> 01:40:12.880
+<v Linus Neumann>Mir fällt gerade nix ein. Bestimmt, aber ich hab's nicht. Hast du was?
+
+01:40:12.718 --> 01:40:17.837
+<v Tim Pritlove>Ich könnte nochmal in eigener Sache darauf hinweisen, wenn ihr auf äh
+
+01:40:17.711 --> 01:40:35.864
+<v Tim Pritlove>Ebene ME geht. Ich äh habe jetzt vor ein Meter Podcast, den ich schon vor einiger Zeit mal so angefangen habe, häufiger zu pflegen und da auch mal immer äh in regelmäßigen Abständen darüber zu berichten, was so in den anderen Podcasts, die ich äh mache und begleite
+
+01:40:35.708 --> 01:40:40.503
+<v Tim Pritlove>wo ich vielleicht auch mal zu Gast war, äh passiert ist und warum
+
+01:40:40.461 --> 01:40:44.355
+<v Tim Pritlove>hier vielleicht mal weniger passiert und da äh mehr passiert oder auch,
+
+01:40:44.763 --> 01:40:49.709
+<v Tim Pritlove>Sendung ich persönlich für besonders gelungen und empfehlenswert erhalte.
+
+01:40:50.815 --> 01:40:52.059
+<v Linus Neumann>Netzbild.
+
+01:40:52.486 --> 01:40:58.181
+<v Tim Pritlove>Wie zum Beispiel auch Netzpolitik, genau, das halte ich für besonders empfehlenswert, das solltet ihr euch unbedingt mal anhören.
+
+01:40:59.168 --> 01:41:06.865
+<v Tim Pritlove>Aber äh da würde ich mich äh freuen, dass dann auch äh nicht so epische Längen, wie wir sie heute zum Beispiel wieder
+
+01:41:06.745 --> 01:41:10.013
+<v Tim Pritlove>haben, sondern dass da mal so zehn, fünfzehn Minuten und das war's dann.
+
+01:41:09.978 --> 01:41:13.402
+<v Linus Neumann>Wir brauchen irgendwann mal Logbuch light.
+
+01:41:17.478 --> 01:41:20.596
+<v Tim Pritlove>Meinst du jetzt mehr so von der Länge oder mehr von von Inhalten.
+
+01:41:20.296 --> 01:41:23.240
+<v Linus Neumann>Von der Länge, wir könnten auch, was wir auch machen könnten, was ich aber.
+
+01:41:22.940 --> 01:41:27.542
+<v Tim Pritlove>Promi-Lockbuch könnten wir machen. Logbuch, Panorama oder so.
+
+01:41:27.542 --> 01:41:28.786
+<v Linus Neumann>Oder so.
+
+01:41:28.498 --> 01:41:42.835
+<v Tim Pritlove>Nee, wo wir einfach mal nicht immer diese ganzen schweren, tiefen Themen mit Zukunft und Welt und Drama und Krisen und, und, und, und, und, und Krieg und so, einfach mal auch was fürs Herz, ja?
+
+01:41:44.271 --> 01:41:48.027
+<v Tim Pritlove>Gossip, ja, neues äh,
+
+01:41:48.532 --> 01:41:52.057
+<v Tim Pritlove>oder wer mag wählen nicht mehr.
+
+01:41:51.807 --> 01:41:53.658
+<v Linus Neumann>Die Bunte.
+
+01:41:53.515 --> 01:41:57.347
+<v Tim Pritlove>Ja, genau, die Bunte, die Bunte, bunte Tüte für.
+
+01:41:57.047 --> 01:42:01.728
+<v Linus Neumann>Ja, vielleicht fällt es dir was ein. Hm?
+
+01:42:02.029 --> 01:42:03.722
+<v Tim Pritlove>Scheiß auch nicht so ganz überzeugt.
+
+01:42:04.246 --> 01:42:13.470
+<v Linus Neumann>Was ich überlege ist, ob wir nicht so dieses dieses Deutschlandfunkkonzept, ich finde das ja immer so geil, wenn du Nachrichten auf den Deutschlandfunk hörst, die Nachrichten im Überblick,
+
+01:42:13.807 --> 01:42:17.736
+<v Linus Neumann>dann lesen sie erstmal so grob die Nachricht vor, da lesen sie die Nachrichten vor,
+
+01:42:18.367 --> 01:42:21.846
+<v Linus Neumann>dann kommt nochmal der Zusammenfassung, ne, dann lesen wir nochmal die Nachricht.
+
+01:42:21.546 --> 01:42:22.549
+<v Tim Pritlove>Ach so, am Schluss.
+
+01:42:22.315 --> 01:42:26.172
+<v Linus Neumann>Ja, damit ihr auch wirklich verstanden hast, das finde ich eigentlich ganz gut.
+
+01:42:24.719 --> 01:42:30.930
+<v Tim Pritlove>Ach so. Ach so, ne, das können wir doch hier auch einführen. Also Sie hörten heute.
+
+01:42:32.460 --> 01:42:37.205
+<v Tim Pritlove>Heute bei sie hörten gerade.
+
+01:42:37.939 --> 01:42:45.498
+<v Linus Neumann>Genau, Alexander, das haben wir noch nicht gefragt. Who the fuck are you.
+
+01:42:42.403 --> 01:42:46.880
+<v Tim Pritlove>Ach ja stimmt, genau, das wollte ich auch noch fragen, genau.
+
+01:42:48.292 --> 01:42:52.420
+<v Linus Neumann>Wer bist du und wer bezahlt dich? Ja. Was sind deine Interessen.
+
+01:42:49.482 --> 01:42:54.203
+<v Tim Pritlove>Deine Treppe. Das hat man ja eigentlich schon, ne?
+
+01:42:55.710 --> 01:42:57.293
+<v Tim Pritlove>Aber wer euch bezahlt hat oder nicht gesagt.
+
+01:43:06.128 --> 01:43:07.130
+<v Linus Neumann>Ist, ob ein.
+
+01:43:14.570 --> 01:43:15.591
+<v Linus Neumann>Wieso das denn?
+
+01:43:27.393 --> 01:43:30.510
+<v Tim Pritlove>Okay. Auch nicht schlecht. Was ist denn da?
+
+01:43:32.465 --> 01:43:35.283
+<v Linus Neumann>Mit Facebook Geld verdi.
+
+01:43:38.408 --> 01:43:52.565
+<v Tim Pritlove>So, ich merke schon hier mit der Themenzusammenfassung, das wird nichts. Da müssen wir nochmal dran äh üben. Von daher äh verbleiben wir einfach so wie immer und sagen äh tschüss, bis bald. Danke Alexander, danke fürs Zuhören. Äh wir machen jetzt hier Schluss.
+
+01:43:52.397 --> 01:43:53.592
+<v Linus Neumann>Ciao ciao.
+
+01:43:53.292 --> 01:43:54.211
+<v Tim Pritlove>Tschüss.

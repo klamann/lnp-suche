@@ -1,0 +1,1334 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP104 Sekundäre Darlegungslast
+Publishing Date: 2014-06-10T00:04:59+02:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp104-sekundaere-darlegungslast
+
+00:00:00.005 --> 00:00:02.269
+<v Tim Pritlove>Guten Morgen Linus.
+
+00:00:02.019 --> 00:00:03.340
+<v Linus Neumann>Guten Morgen Tim.
+
+00:00:03.090 --> 00:00:05.257
+<v Tim Pritlove>Gesichtsbuch Netzpolitik.
+
+00:00:06.712 --> 00:00:15.479
+<v Linus Neumann>Facebook Like Strike, werdet Fan der Seite und die kriegt immer neu.
+
+00:00:36.000 --> 00:00:42.123
+<v Tim Pritlove>Lokbuchnetzpolitik, es nimmt kein Ende. Äh
+
+00:00:41.967 --> 00:00:53.125
+<v Tim Pritlove>Heute haben wir was, hundertvier, hundert äh vierte Ausgabe von äh diesem außergewöhnlichen Format, was äh mal der Anspruch hatte wöchentlich zu erscheinen. Wir sind äh.
+
+00:00:52.868 --> 00:00:54.742
+<v Linus Neumann>Diesen Anspruch versucht zu erfüllen,
+
+00:00:54.869 --> 00:01:09.218
+<v Linus Neumann>Da du hast ja gesagt, wir sollen nicht über Facebook reden, aber ich will ganz kurz noch was sagen. Ähm es wurde ja in der letzten Folge dann kommentiert, dass ähm meine Äußerungen zu Facebook von einer gewissen äh Überheblichkeit gekennzeichnet wären.
+
+00:01:09.206 --> 00:01:10.834
+<v Tim Pritlove>Womit? Mit Recht.
+
+00:01:10.606 --> 00:01:15.413
+<v Linus Neumann>Nein, diesem äh dieser dem möchte ich entschieden widersprechen, denn,
+
+00:01:15.612 --> 00:01:23.261
+<v Linus Neumann>Wenn jemand mit so viel äh Computerhype wissen wie ich an einem Ding scheitert, dann äh,
+
+00:01:23.862 --> 00:01:38.290
+<v Linus Neumann>dann äh denke ich, ist das äh ist das erwähnenswert. Und ich habe mir, ich habe da heute nochmal drüber nachgedacht und mir ist völlig unklar, weil ich heute auch nochmal versucht habe, da was zu Facebooken. Ähm wie Menschen dieses Ding bedienen können,
+
+00:01:38.494 --> 00:01:51.053
+<v Linus Neumann>Und damit ist mir klar geworden, warum die Digitalisierung unserer Gesellschaft so schleppend vorangeht, warum die Menschen irgendwie die ganze Zeit mit Computer und Internet und so, alles diese verstehe ich nicht, verstehe ich nicht, verstehe ich nicht. Die benutzen Windows und Facebook.
+
+00:01:51.252 --> 00:01:51.954
+<v Linus Neumann>Und,
+
+00:01:52.363 --> 00:02:00.866
+<v Linus Neumann>und dann und wenn sie dann mich fragen so ja ähm also das sehe ich natürlich ganz andere Dinge mit Computern realisieren kann,
+
+00:02:01.792 --> 00:02:12.649
+<v Linus Neumann>wenn man sich, sage ich mal, schon einfache Dinge so kompliziert macht, dann verstehe ich auch so diesen gesamten Nimbus, der dann so diesen Hacker, die Sage umwogene Hacker, der macht mit einem Computer etwas
+
+00:02:12.530 --> 00:02:17.499
+<v Linus Neumann>oder vielleicht sogar mit einem Computer nicht ihm selber gehört oder passiert was unter und zwar etwas, was er
+
+00:02:17.385 --> 00:02:29.877
+<v Linus Neumann>beabsichtigt hat, ja? Und nicht irgendwie so ein random äh Ding, also mir ist völlig unklar. Aber das ein das ein äh ein ein Verständnisdefizit auf meiner Seite, denn Windows hat sich durchgesetzt, Facebook hat sich durchgesetzt,
+
+00:02:29.884 --> 00:02:32.714
+<v Linus Neumann>Und ich bisher nur teilweise.
+
+00:02:32.426 --> 00:02:36.522
+<v Tim Pritlove>Den würde ich auch widersprechen wollen.
+
+00:02:36.272 --> 00:02:38.182
+<v Linus Neumann>Und der aber das das Ding.
+
+00:02:37.932 --> 00:02:39.989
+<v Tim Pritlove>Linus, du bist auch schon längst.
+
+00:02:41.724 --> 00:02:42.755
+<v Tim Pritlove>Ja
+
+00:02:42.553 --> 00:02:45.573
+<v Linus Neumann>Bei bei ADN oder was?
+
+00:02:45.417 --> 00:02:49.467
+<v Tim Pritlove>Ähm na sonst halt so in der anderen Welt eben. Also äh.
+
+00:02:49.167 --> 00:02:57.471
+<v Linus Neumann>Ja. Bei, bei, bei, bei, bei, ähm, beim Deutschland Radio war ich letztens. Anlässlich anlässlich, äh, ein Jahr, äh, snowen,
+
+00:02:57.790 --> 00:03:12.638
+<v Linus Neumann>habe ich äh habe ich äh wurde mir äh angeboten, doch den zur Prime Time, ja? Sagen sie, das ist unsere beste Sendezeit. Oh, super, beste Sendezeit, wann ist das denn? Ja, um zehn vor sieben. Darf's dann erstmal Wecker stellen?
+
+00:03:12.440 --> 00:03:20.624
+<v Tim Pritlove>Ein Grund warum Hacker so wenig Präsenz in bestimmten Medien.
+
+00:03:20.342 --> 00:03:27.541
+<v Linus Neumann>Aber ist übrigens ein ein Geheimnis, warum der, warum der Wolfgang Bosbach immer seinen Scheiß im Deutschlandradio zählen darf? Der steht früh auf.
+
+00:03:26.033 --> 00:03:40.154
+<v Tim Pritlove>Steht früh auf. Na ja. Ne, ist auch generell, wenn man so äh Aktionismus äh machen will so und da muss man halt auch mal so ein Morgenmagazin irgendwie durch äh ziehen und das heißt halt früh aufstehen.
+
+00:03:39.920 --> 00:03:49.666
+<v Linus Neumann>Habe ich gemacht. Die haben ja aber trotzdem nur acht Minuten gegeben und ich war dann grade mal so irgendwie wach und warmted. Äh und dann meinten sie jetzt zu Nachrichten oder so. Na ja, da.
+
+00:03:49.456 --> 00:03:52.670
+<v Tim Pritlove>Minuten. Das ist viel. Na ja.
+
+00:03:50.105 --> 00:03:57.099
+<v Linus Neumann>Acht Minuten. Das ist viel, ne? Zur zur besten Sendezeit, keine Sau, daher sieben Uhr. Ich bitte dich.
+
+00:03:56.799 --> 00:04:00.446
+<v Tim Pritlove>Na gut, aber ist so acht Prozent einer Stunde, das ist schon da äh relativ.
+
+00:04:00.146 --> 00:04:14.219
+<v Linus Neumann>Acht Prozent, acht Minuten sind nicht acht Prozent einer Stunde. Stunde hat sechzig Minuten. Oh, das sind aber jetzt ganz, ganz großes Roll-Eis. Gibt's das bei Facebook so ein Roll-Eyes.
+
+00:04:12.801 --> 00:04:21.562
+<v Tim Pritlove>Gibt's bestimmt ein Emoji dazu. Mit Emoji-Tastatur.
+
+00:04:21.472 --> 00:04:25.432
+<v Linus Neumann>Acht durch sechzig. Das waren.
+
+00:04:23.473 --> 00:04:37.775
+<v Tim Pritlove>Ja. Sollte jetzt jemand den Eindruck haben, dass wir uns auf Erde überhebliche Art und Weise über Facebook irgendwie erheben und lächerlich machen, ja? Und das Ganze einfach abgehoben und äh eingebildet, kommentieren.
+
+00:04:37.829 --> 00:04:46.674
+<v Linus Neumann>Ja. Okay. Bevor wir anfangen hier mit äh ernsthaft? Team, meinst du? Themen.
+
+00:04:44.956 --> 00:04:51.085
+<v Tim Pritlove>Meinst du? Tolle äh äh tolle Idee? Ja, lass mal anfangen mit äh Themen.
+
+00:04:51.890 --> 00:05:03.836
+<v Linus Neumann>Wir haben drei drei Gerichts äh Urteile aus dem Bereich des Urheberrechts, die äh irgendwie so ihren Weg durch das Internet an Facebook vorbei zu uns gefunden haben,
+
+00:05:04.383 --> 00:05:08.385
+<v Linus Neumann>Das Erste ist ein, ich kann jeweils zu den Urteilen gar nicht so viel sagen, weil
+
+00:05:08.265 --> 00:05:22.584
+<v Linus Neumann>Allein schon das erste, äh der Rechtsstreit bei diesem EuGH, dass also das erste Urteil, das wir besprechen, ist ein Urteil des äh EuGH, der äh eine quasi eine Urheberrechtsausnahme postuliert für Webserver,
+
+00:05:22.717 --> 00:05:30.372
+<v Linus Neumann>Websurfer. Tschuldigung. Das wäre schön.
+
+00:05:30.583 --> 00:05:40.389
+<v Linus Neumann>Sie sagen, wer geschützte Werke im Web nur betrachtet, also nicht ausdruckt oder herunterlädt, verstößt dadurch nicht gegen das Urheberrecht
+
+00:05:40.377 --> 00:05:52.834
+<v Linus Neumann>Daher war irgendwie eine sehr skurrile ähm ein sehr skurriler Rechtsstreit äh der Hintergrund zwischen der Public Relations Consultants Association und der News Paper Lifestyle Agency
+
+00:05:52.738 --> 00:05:56.902
+<v Linus Neumann>den ich nicht verstanden habe. Aber der entscheidende Punkt ist natürlich hier,
+
+00:05:57.581 --> 00:06:04.612
+<v Linus Neumann>Dieses Übliche und das äh das ist der der, der entscheidende Streithund, der da berührt wird, wenn also eine,
+
+00:06:04.738 --> 00:06:11.636
+<v Linus Neumann>Webseite, sagen wir, in dem Fall ging es auch tatsächlich um Webseiten, den Weg auf unseren Bildschirm findet, dann
+
+00:06:11.625 --> 00:06:18.432
+<v Linus Neumann>ist sie natürlich auch im Rahmen unseres Computers vertreten und das kann man technisch als eine.
+
+00:06:19.154 --> 00:06:23.090
+<v Linus Neumann>Kopie bezeichnen. Ähm aber.
+
+00:06:24.196 --> 00:06:36.814
+<v Linus Neumann>Diese Kopie zum Cashing, ja oder das gibt's ja dann auch nochmal, wird wahrscheinlich auch nochmal als Cashdatei offen auf der Festplatte abgelegt. Man weiß es nicht, das ist ja alles sowieso Magie. Ähm und aber sie sagen, diese Kopie,
+
+00:06:37.398 --> 00:06:45.485
+<v Linus Neumann>technisch tatsächlich stattgefunden habende Kopie. Ähm ist vorübergehend flüchtig,
+
+00:06:46.075 --> 00:06:51.494
+<v Linus Neumann>oder begleitend und ein integraler und wesentlicher Teil eines technischen Verfahrens.
+
+00:06:51.381 --> 00:07:05.820
+<v Linus Neumann>Ja? Denn du kannst nicht eine Webseite anschauen ohne das streng genommen eine Kopie stattfindet. Nämlich die Kopie von dem Webserver, wo sie ist, zu deinem Computer und dort ist sie dann im Rahmen oder im Cash auf der Festplatte auf jeden Fall Zeit
+
+00:07:05.730 --> 00:07:12.430
+<v Linus Neumann>für eine kurze Zeit vertreten. Aber diese Kopie ist eben Teil eines technischen Verfahrens und deswegen nicht eine Kopie,
+
+00:07:12.671 --> 00:07:21.672
+<v Linus Neumann>Und deswegen, das war auch lange Zeit der Streit. Wir erinnern uns da an andere Verfahren äh und äh Rechtsstreitereien, auf die ich dann gleich auch nochmal zu sprechen komme. Das hat also der EUGH,
+
+00:07:22.472 --> 00:07:33.191
+<v Linus Neumann>Das ist schon mal ganz schön, wenn der EuGH das sagt, weil das ja dann auch ähm für ganz eu geht, ne, für für ganz Europa oder was oder für alle, die sich an diesen EuGH berufen wollen würden.
+
+00:07:34.093 --> 00:07:42.505
+<v Linus Neumann>Im Prinzip das gleiche Urteil bekommt zum zweiten, hat gefällt, das Amtsgericht Hannover,
+
+00:07:42.716 --> 00:07:51.170
+<v Linus Neumann>Ähm und die haben gesagt, das Anschauen eines Streams ist nur bei offensichtlich rechtswidriger Vorlage,
+
+00:07:51.970 --> 00:07:53.760
+<v Linus Neumann>als als strafbar zu beanstanden,
+
+00:07:53.911 --> 00:08:07.509
+<v Linus Neumann>oder als illegal zu veranstalten. Und da geht es nämlich um diese Red Tube Abmahnungen. Wir erinnern uns, das war ein Thema, was wir relativ lange hier auch äh oder relativ häufig hier behandelt haben, wo es um die Abmahnungen ging,
+
+00:08:08.231 --> 00:08:22.358
+<v Linus Neumann>von Menschen, die Streams angeschaut haben. Das war sehr äh und bis heute bleibt es nebulös, wie der äh die abmahnende Firma, wie hieß sie noch gleich,
+
+00:08:23.007 --> 00:08:33.558
+<v Linus Neumann>irgendwie diese abmahnende Firma ist überhaupt herausgefunden hat, dass die Leute die Streams angeschaut haben mit den Schaukelvideos,
+
+00:08:33.889 --> 00:08:34.460
+<v Linus Neumann>aber.
+
+00:08:34.160 --> 00:08:38.336
+<v Tim Pritlove>Auch nicht so richtig, wo es auch nicht so richtig eine Aufklärungsbereitschaft gab, hatte ich so.
+
+00:08:38.036 --> 00:08:46.466
+<v Linus Neumann>Genau das haben sie auch vermieden. Ähm aber sie haben sich genau auf das Gleiche berufen, nämlich darauf, dass eine Kopie stattgefunden hätte.
+
+00:08:47.218 --> 00:08:49.729
+<v Linus Neumann>Ja? Und ähm,
+
+00:08:50.360 --> 00:08:57.727
+<v Linus Neumann>ähm dass äh Amtsgericht Hannover war's glaube ich, ja, das Amtsgericht Hannover hat gesagt,
+
+00:08:58.220 --> 00:09:08.261
+<v Linus Neumann>Streaming ist nach Ansicht des Amtsgerichtes jedenfalls dann nach Paragraph vierundvierzig A Nummer Absatz zwei äh Urheberrecht zulässig,
+
+00:09:08.910 --> 00:09:18.056
+<v Linus Neumann>Wenn kurzfristig eine nicht offensichtliche, eine nicht offensichtlich rechtswidrige Vorlage gestreamt wird.
+
+00:09:19.342 --> 00:09:28.307
+<v Linus Neumann>Und das Gericht sagt, offensichtlich rechtswidrig ist eine Vorlage dann oder ein Video dann, wenn es ein
+
+00:09:28.283 --> 00:09:39.941
+<v Linus Neumann>aktueller Kinofilm ist oder ein äh oder eine Fernsehserie, die noch vor ihrem offiziellen äh Start steht, ja, also man sagt, okay ähm,
+
+00:09:40.626 --> 00:09:52.632
+<v Linus Neumann>Quasi das Streaming von Breaking Bad äh würde darunter fallen, weil es offensichtlich noch nicht für Deutschland ähm äh erhältlich ist. Ein Kinofilm, der der sich aktuell im Kino befindet,
+
+00:09:53.227 --> 00:10:04.361
+<v Linus Neumann>würde darunter fallen, aber äh sowas wie ein ein drei Jahre altes äh Schaukelvideo eben nicht. Ja, weil da kann ja keiner wissen, ob das jetzt gerade ähm.
+
+00:10:06.165 --> 00:10:15.833
+<v Linus Neumann>Ob das nicht vielleicht einfach schon äh so alt ist, dass man's frei zugänglich macht oder ob sich vielleicht von vorneherein einen Creative Communes Schaukelvideo war. Und äh.
+
+00:10:13.634 --> 00:10:16.638
+<v Tim Pritlove>Und gibt's die denn auch schon?
+
+00:10:17.834 --> 00:10:27.665
+<v Linus Neumann>Weiß ich nicht. Ich äh es gab mal irgendwie so eine es gab mal irgendwie so ein drei D Ding da, müssen wir beim Netz für Tik Or gucken, ist schon ein paar Jahre her.
+
+00:10:27.431 --> 00:10:28.644
+<v Tim Pritlove>Drei D gleich.
+
+00:10:28.434 --> 00:10:32.971
+<v Linus Neumann>Ja, ja, ich glaube, die haben das aber irgendwie auf Creative, müsste man nochmal schauen. Müssen wir nochmal schauen.
+
+00:10:33.650 --> 00:10:36.925
+<v Tim Pritlove>3D, CC Jokelvideos.
+
+00:10:36.739 --> 00:10:39.701
+<v Linus Neumann>Ja. Das ist die Zukunft.
+
+00:10:39.401 --> 00:10:46.233
+<v Tim Pritlove>Auf jeden Fall.
+
+00:10:44.286 --> 00:10:55.367
+<v Linus Neumann>So und dann äh das war so das Urteil ist aber äh des Amtsgerichts Hannover äh zu den Abmahnungen. Auch hier natürlich zu begrüßen äh grundsätzlich. Und,
+
+00:10:55.968 --> 00:11:02.043
+<v Linus Neumann>Dann gab es noch ein Urteil und jetzt muss ich kurz schauen ähm.
+
+00:11:03.503 --> 00:11:10.437
+<v Linus Neumann>Welches äh welches Gericht das war. Äh da genau, das war ein sehr, sehr wichtiges Gericht, nämlich der Bundesgerichtshof,
+
+00:11:11.081 --> 00:11:23.675
+<v Linus Neumann>Über dieses Urteil hatten wir auch schon besprochen äh gesprochen. Das war das Urteil, welches sie am achten Januar gefällt haben. Da ging es um ein Familienvater, der nicht für die Rechtsverletzung seines,
+
+00:11:23.784 --> 00:11:31.265
+<v Linus Neumann>Stiefsohns haften wollte. Ja, da ging's also um die Frage der Störerhaftung, Lokbuchnetzpolitik berichtete.
+
+00:11:32.647 --> 00:11:36.919
+<v Linus Neumann>Ähm und da geht also jetzt diese Urteilsbegründung,
+
+00:11:37.412 --> 00:11:52.176
+<v Linus Neumann>noch über dieses Familienverhältnis hinaus und der Rechtsanwalt also da wird also gesagt wird über ein so der Bundesgerichtshof wird über einen Internetanschluss eine Rechtsverletzung begangen,
+
+00:11:52.261 --> 00:11:57.110
+<v Linus Neumann>Ist eine tatsächliche Vermutung für die Täterschaft des Anschlussanhabers nicht begründet,
+
+00:11:57.152 --> 00:12:02.854
+<v Linus Neumann>Wenn zum Zeitpunkt der Rechtsverletzung auch andere Personen diesen Anschluss benutzen konnten,
+
+00:12:03.318 --> 00:12:15.245
+<v Linus Neumann>Dies ist insbesondere dann der Fall, wenn der Internetanschluss zum Zeitpunkt der Rechtsverletzung nicht hinreichend gesichert war oder bewusst anderen Personen zur Nutzung überlassen wurde. Das heißt, hier gehen wir sehr konkret,
+
+00:12:16.207 --> 00:12:19.307
+<v Linus Neumann>auf die Störerhaftung ein, Störerhaftung
+
+00:12:19.133 --> 00:12:31.554
+<v Linus Neumann>der Grund, warum wir verhindern wollen, dass unsere Nachbarn, unser unser WLAN mitbenutzen, nämlich weil sie dann äh Urheberrechts äh Verletzungen oder andere äh Probleme
+
+00:12:31.536 --> 00:12:39.822
+<v Linus Neumann>damit in die Welt setzen könnten, für die wir dann haftbar gemacht werden. Stich äh Stichwort an dieser Stelle, wie gesagt, die sogenannte Störerhaftung, die,
+
+00:12:39.871 --> 00:12:49.449
+<v Linus Neumann>Wir erinnern uns auch vor einigen Jahr, vor etwas über einem Jahr, hier in Berlin auch zu so einer Welle der äh WLAN-Schließungen in den Cafes geführt hatte.
+
+00:12:50.939 --> 00:12:52.303
+<v Linus Neumann>Ähm.
+
+00:12:53.746 --> 00:13:07.999
+<v Linus Neumann>Und die also eine große äh Rechtsunsicherheit für alle war, wenn man sagte, okay, wenn du ein oder die Urteile bis dahin in die Richtung ging, wenn du irgendwie ein WLAN, anderen Leuten frei zugänglich machst und die damit Mist bauen, dann bist du daran schuld.
+
+00:13:08.005 --> 00:13:15.029
+<v Linus Neumann>Beziehungsweise zumindest für den Mist, den sie bauen, haftbar. Und dem widerspricht an dieser Stelle äh,
+
+00:13:15.426 --> 00:13:28.117
+<v Linus Neumann>wiederholt und äh ausdrücklich der Bundesgerichtshof und auch das ist natürlich eine sehr schöne Sache, weil das äh in konsequent ausgelegt dieses Urteil ähm es uns vielleicht auch wieder mehr ermöglichen wird,
+
+00:13:28.983 --> 00:13:39.829
+<v Linus Neumann>ähm anderen Menschen Internetzugang zu geben ohne äh eine ein besonders ausführliches Vertrauensverhältnis äh zu ihnen äh haben zu müssen.
+
+00:13:40.130 --> 00:13:50.573
+<v Tim Pritlove>Also, ich meine, ist das nicht im Prinzip vielleicht deute ich das jetzt äh falsch, aber diese diese kryptischen, äh juristischen Formulierungen klingen für mich so ein bisschen nach,
+
+00:13:50.742 --> 00:14:00.248
+<v Tim Pritlove>solange man jetzt äh offiziell also nachweisen kann, dass man explizit dritten Zugang gegeben hat,
+
+00:14:01.306 --> 00:14:05.307
+<v Tim Pritlove>ist genau diese Störerhaftung gar nicht mehr gültig,
+
+00:14:05.620 --> 00:14:18.263
+<v Tim Pritlove>womit sie ja eigentlich komplett adopsur dumm ist, weil das war ja der Sinn der Störerhaftung, genau das sagen zu können. Du bist immer haftbar, selbst wenn du anderen Leuten Zugang gibst, also eigentlich ist ja diese Entscheidung.
+
+00:14:19.471 --> 00:14:26.297
+<v Tim Pritlove>Vielleicht lese ich da jetzt was falsches rein, aber für mich riecht das halt einfach nach die Störerhaftung widerspricht sich selbst und ist eigentlich ungültig.
+
+00:14:26.027 --> 00:14:37.780
+<v Linus Neumann>Der Rechtsanwalt Christian Solmecke, wir zitiert mit, das bedeutet, dass der Anschlussinhaber in einem Fallsharing-Verfahren lediglich vortragen muss, dass dritte Zugriff auf den Anschluss hatten
+
+00:14:37.612 --> 00:14:44.697
+<v Linus Neumann>oder der Anschluss nicht hinreichend gesichert war, um seiner sekundären Darlegungslast zu genügen.
+
+00:14:44.823 --> 00:14:48.879
+<v Linus Neumann>Diese Konstellation ist auch auf Wohngemeinschaften übertragbar.
+
+00:14:48.903 --> 00:14:53.410
+<v Tim Pritlove>Sekundäre Darlegungslast.
+
+00:14:50.802 --> 00:15:04.124
+<v Linus Neumann>Genau das. Naja, das weiß ich nicht genau, was das ist. Da hat er äh ausführlich zugeblockt. Wir werden das auch nochmal verlinken. Also es sieht im Moment danach aus, tatsächlich. Das ist der ähm also der Stand.
+
+00:15:05.146 --> 00:15:13.757
+<v Tim Pritlove>Ist auch auf Wohngemeinschaften übertragbar. Ich meine, im Prinzip ist das nichts anderes als die Akzeptanz der Realität, aber damit äh tut sich ja dann so die Öffentlichkeit eh immer ein bisschen schwer.
+
+00:15:13.715 --> 00:15:16.683
+<v Linus Neumann>Ja, ich würde, ich würde befürchten,
+
+00:15:17.615 --> 00:15:29.717
+<v Linus Neumann>dass dann sowas stattfindet wie im ähm im dass es endet, wie bei so etwas wie im Straßenverkehr, ne. Du kannst irgendwie dein Auto ähm anderen Personen äh zugänglich machen.
+
+00:15:29.441 --> 00:15:31.003
+<v Tim Pritlove>Wir mussten Fahrtenbuch führen.
+
+00:15:31.051 --> 00:15:39.962
+<v Linus Neumann>Genau, also musst du nicht, aber wenn, wenn das dann zum wiederholten Male, dann kriegst du ja so eine Fahrtenbuchauflage. Ich könnte mir vorstellen, dass das so in diese Richtung geht, ne.
+
+00:15:39.662 --> 00:15:40.833
+<v Tim Pritlove>Internetfahrtenbuch.
+
+00:15:40.533 --> 00:15:46.494
+<v Linus Neumann>Ey, keine Ahnung, aber du weißt, was ich meine, ja. Also die Sache ist, wenn du ernsthaft, wenn du glaubhaft
+
+00:15:46.476 --> 00:16:01.420
+<v Linus Neumann>versichern kannst, dass jemand mit deinem Fahrzeug gefahren ist zu diesem Zeitpunkt und du nicht genau weißt, wer das ist und diese Person sogar noch nicht einmal auf einem Foto erkennen kannst, beziehungsweise diese Person zwar auf einem Foto siehst, aber von deinem Zeugnis Verweigerungsrecht Gebrauch machst,
+
+00:16:01.914 --> 00:16:12.291
+<v Linus Neumann>Klammer auf, bringt nix. Ich habe trotzdem die Punkte bekommen, als ich mit dem Auto von meiner Mutter mal in so eine kleine äh Situation kam. Da kam dann die äh äh Polizisten auch äh zu Hause vorbei.
+
+00:16:12.105 --> 00:16:13.967
+<v Tim Pritlove>Ja
+
+00:16:13.709 --> 00:16:16.882
+<v Linus Neumann>Ja? Na also äh bringt nix. Aber ähm,
+
+00:16:17.573 --> 00:16:29.032
+<v Linus Neumann>Ich denke, dass es in dass es so am Ende in diese Richtung geht, weil letztendlich wird, werden sich natürlich nicht alle Abmahnungen damit äh,
+
+00:16:29.123 --> 00:16:37.932
+<v Linus Neumann>abbügeln lassen, dass man sagt, wieso muss ich das denn gewesen sein? Ich habe ja nur eine Sohn äh habe ich noch einen Sohn und eine Frau. Ne, und eine Tochter.
+
+00:16:37.920 --> 00:16:42.805
+<v Tim Pritlove>Ja oder ich habe meinen, äh wie heißt das so schön? Ich habe den Anschluss nicht hinreichend gesichert.
+
+00:16:42.739 --> 00:16:47.504
+<v Linus Neumann>Ja und da gab's ja früher dann auch schon Urteile, die das eben anders gesehen haben,
+
+00:16:48.117 --> 00:16:58.849
+<v Linus Neumann>und das quasi als zu einer Art äh Bürger äh Pflicht machen wollten. Aber wie gesagt, hier jetzt ähm äh Bundesgerichtshof in einer sehr ähm.
+
+00:17:00.184 --> 00:17:05.718
+<v Linus Neumann>Schönen Einlassung. Also es sieht danach aus, dass diese Störerhaftung äh da eventuell.
+
+00:17:08.602 --> 00:17:11.420
+<v Linus Neumann>Ne, dann doch mal äh.
+
+00:17:11.120 --> 00:17:19.592
+<v Tim Pritlove>Genau, also wir würden uns hier um juristische äh äh Kommentare auch freuen, wie ihr das so einschätzt. Wir denken jetzt mal, ausnahmsweise mal gute Nachrichten.
+
+00:17:19.419 --> 00:17:33.822
+<v Linus Neumann>Also das auf jeden Fall, diese, was, was, äh, diese ganzen Urheberrechtssachen angeht, haben wir in den drei Urteilen denke ich auf jeden Fall erstmal positive Nachricht positive Nachrichten, dann werden wir mal sehen, äh, wie sich das dann.
+
+00:17:35.541 --> 00:17:38.387
+<v Linus Neumann>In der in der Realität niederschlägt.
+
+00:17:38.269 --> 00:17:40.168
+<v Tim Pritlove>Realität, immer diese Realität.
+
+00:17:39.917 --> 00:17:50.233
+<v Linus Neumann>Da müssen jetzt erstmal alle möglichen Abmahnanwälte erstmal wieder gucken wie sie da äh in Zukunft dran dann drum herum äh ruhten um dieses Problem.
+
+00:17:50.101 --> 00:17:55.749
+<v Tim Pritlove>Gut, schauen wir doch mal auf unsere Lieblingsthemen äh.
+
+00:17:56.561 --> 00:17:57.894
+<v Linus Neumann>Ortszeitenspeicherung.
+
+00:17:57.612 --> 00:18:10.940
+<v Tim Pritlove>Ist ja mittlerweile nicht mehr ganz so verkrampftes ähm Thema. Jetzt wo auch international das so langsam kippt. Ich weiß nicht, hatten wir die Meldung, dass Dänemark äh was ist das letzte Mal dran?
+
+00:18:11.030 --> 00:18:14.191
+<v Linus Neumann>Nee, haben wir nicht äh erwähnt.
+
+00:18:13.020 --> 00:18:25.494
+<v Tim Pritlove>Ja. Weil das ist ja sozusagen jetzt dem Ganzen noch vorhergegangen, also nach dem ja in Deutschland jetzt schon im Wesentlichen so die Ausgangslage sich so entwickelt mit na ja,
+
+00:18:25.915 --> 00:18:31.761
+<v Tim Pritlove>Jetzt gibt's irgendwie keine Richtlinie mehr, weil ist ja weg und so und äh wir machen das nicht, ob wir es immer noch eine Gruppe,
+
+00:18:32.104 --> 00:18:37.686
+<v Tim Pritlove>machen würde, hat man sich, glaube ich, in Dänemark äh in der Regierung mittlerweile dazu durchgerungen, keine.
+
+00:18:39.087 --> 00:18:44.945
+<v Linus Neumann>Also, das war mir nicht bekannt. Ähm ich kenne also auch in Deutschland ist es natürlich so, dass der.
+
+00:18:44.645 --> 00:18:45.943
+<v Tim Pritlove>Mal den Link raus.
+
+00:18:45.817 --> 00:18:51.748
+<v Linus Neumann>Das ist super, dann äh verlinken wir das. Ähm Thomas de Maizire sagt
+
+00:18:51.610 --> 00:19:07.509
+<v Linus Neumann>äh ja nach wie vor, er hätte gerne eine kluge Verfassungsgemäße und mehrheitsfähige Neuregelung. Wir erinnern uns an seinen kleinen Konflikt mit dem äh Justizminister Heiko Maas, äh den er dann da äh irgendwann zu gegebener Stunde einmal
+
+00:19:07.318 --> 00:19:11.403
+<v Linus Neumann>offensichtlich sehr zu sau gemacht haben muss nach hinter verschlossenen Türen.
+
+00:19:12.840 --> 00:19:22.526
+<v Linus Neumann>Ähm aber wir wir sind noch gar nicht beim beim Thema. Anfang April wurde die äh Vorratsdatenspeicherungsrichtlinie gekippt.
+
+00:19:23.608 --> 00:19:30.849
+<v Linus Neumann>Zwei Monate später hat die Justizministerin von Dänemark bekannt gegeben, dass auch bei
+
+00:19:30.807 --> 00:19:39.862
+<v Linus Neumann>sich irgendwie fallen zu lassen, sehe ich gerade auf dem Bildschirm. So live wird das hier reingereicht und ähm die Cecilia Mainström,
+
+00:19:40.391 --> 00:19:48.738
+<v Linus Neumann>bekannt als eine vehemente Verfechterin dieser ganzen Angelegenheit und so die treibende Kraft für die Vorratsdatenspeicherung hat jetzt auch.
+
+00:19:51.851 --> 00:20:01.170
+<v Linus Neumann>Verlauten lassen, dass sie den Beschluss der luxemburger Richter sorgfältig analysiert hat und sich entschieden hat, keine neue Richtlinie vorzulegen.
+
+00:20:01.585 --> 00:20:07.684
+<v Linus Neumann>Das würde sie allenfalls tun, wenn denn dann auch die Datenschutzrichtlinie verabschiedet ist.
+
+00:20:09.499 --> 00:20:13.423
+<v Linus Neumann>Und mit der ist ja erst äh frühestens zweitausendfünfzehn zu rechnen.
+
+00:20:14.799 --> 00:20:29.263
+<v Linus Neumann>Und unsere Bundesregierung, währenddessen, erinnern wir uns, haben wir auch schon gesagt, prüft und überlegt und äh versucht, ja? Ähnlich wie Generalbundesanwalt, Harald Ranger. Der prüft auch.
+
+00:20:29.029 --> 00:20:32.688
+<v Tim Pritlove>Wesentliche noch nur.
+
+00:20:32.388 --> 00:20:38.042
+<v Linus Neumann>Genau, allerdings wird bei der Bundesregierung kann man eigentlich davon ausgehen, dass die nochmal irgendwann mit irgendeinem Mist um die Ecke kommen,
+
+00:20:38.235 --> 00:20:47.741
+<v Linus Neumann>nämlich mit einer klugen, verfassungsgemäßen und mehrheitsfähigen Neuregelung. Ich war bei der Meldung so ein bisschen, ich hatte, muss ich ganz ehrlich sagen, diese Dänemark-Nummer nicht aufm Schirm,
+
+00:20:48.510 --> 00:20:49.850
+<v Linus Neumann>Ähm.
+
+00:20:51.130 --> 00:21:03.659
+<v Linus Neumann>Und mein eigentlicher, mein eigentlicher Eindruck war, dass die meinem Ström sich ja jetzt eigentlich auch zurücklehnen kann, weil so gut wie jeder europäische äh Mitgliedsstaat EU-Mitgliedsstaat das ja auch getan hat. Die haben die ja eh umgesetzt,
+
+00:21:04.549 --> 00:21:12.877
+<v Linus Neumann>bis auf wenige Länder. Das heißt, sie hat ja quasi äh ihre Tat zu achtzig Prozent vollbracht,
+
+00:21:13.178 --> 00:21:25.598
+<v Linus Neumann>Ja, die äh die die Europäische Union äh mit diesem Unsinn äh zu segnen. Das heißt, sie braucht sich jetzt eigentlich auch nicht mehr großartig die Blöße zu geben, noch eine neue ähm,
+
+00:21:26.295 --> 00:21:30.333
+<v Linus Neumann>derartige Richtlinie zu verfassen, weil der Schaden ist ja jetzt da,
+
+00:21:30.874 --> 00:21:42.243
+<v Linus Neumann>und andere äh andere Länder, wie wir wissen, verhandeln gerade über Verlängerung. Ihr habt das ausführlich ähm okay, jetzt mit mit Erik besprochen. Die Schweiz ist da kein gutes Beispiel.
+
+00:21:43.277 --> 00:21:45.175
+<v Tim Pritlove>Ja und äh,
+
+00:21:45.200 --> 00:21:56.515
+<v Tim Pritlove>um diesen Artikel nochmal etwas näher zu führen. Hier ist ja auch davon die Rede, dass in der Slowakei auch äh das Gesetz zur Vorratsdatenspeicherung äh suspendiert wurde. Österreich steht jetzt äh die Tage, wo
+
+00:21:56.389 --> 00:22:03.431
+<v Tim Pritlove>Woche an und äh da das ja nun alles auch von Österreich ausgegangen ist, nehme ich mal an, wird das eine ganze Menge Welle,
+
+00:22:03.449 --> 00:22:09.133
+<v Tim Pritlove>machen, da können wir dann vielleicht auch Thomas nochmal äh zu befragen. Ja, also,
+
+00:22:09.981 --> 00:22:23.177
+<v Tim Pritlove>Ich will hier nicht zu viel Optimismus verbreiten, aber nachdem es jetzt einfach jahrelang immer alles immer nur bedrohlicher geworden ist, ist jetzt zumindest mal so ein bisschen Ausatmen äh angesagt und ähm,
+
+00:22:24.102 --> 00:22:31.691
+<v Tim Pritlove>die Augen, ja, dass auf einmal zumindest ausgewählte äh äh Regierungen der Meinung sind, ach.
+
+00:22:33.050 --> 00:22:34.798
+<v Tim Pritlove>Jetzt gibt's keine Richtlinie,
+
+00:22:34.889 --> 00:22:46.907
+<v Tim Pritlove>Übrigens, wir haben uns das jetzt mal wirklich angeschaut und festgestellt, es hat auch keinen Nutzen, sondern es kostet einfach nur eine Menge Geld, nichts anderes haben wir bisher alle Studien darüber, äh, gesagt, ja? Äh von Zeit zu Zeit
+
+00:22:46.859 --> 00:22:56.335
+<v Tim Pritlove>scheint es dann doch so zu sein, dass man in der Exekutive das ein oder anderen Staates sich auch mal nach der Realität richtet. Ist ja auch was Schönes. Ob das jetzt ähm,
+
+00:22:57.333 --> 00:23:04.609
+<v Tim Pritlove>Hobbycharakter hat, kann ich nicht sagen. Grundsätzlich ähm sind die Skandinavia ja ohnehin so,
+
+00:23:05.547 --> 00:23:10.847
+<v Tim Pritlove>Dänemark kann ich jetzt ehrlich gesagt nicht so gut einschätzen. Schweden ist da nochmal so ein anderes Thema, ja also,
+
+00:23:10.865 --> 00:23:23.267
+<v Tim Pritlove>so die äh das Selbstverständnis der Verdatung der Gesellschaft ist da einfach ein anderes, ja? So mit offenen Einnahme äh Verzeichnissen et cetera. Das äh ist ja einfach,
+
+00:23:23.400 --> 00:23:31.806
+<v Tim Pritlove>etwas ist dort Normalität, was zum Beispiel bei uns einfach Hassobjekt Nummer eins wäre, ne. Nun denn.
+
+00:23:31.687 --> 00:23:41.247
+<v Linus Neumann>Ja, also wir wir können da gespannt schauen, was sich noch anmerken möchte ist, ähm dass sie,
+
+00:23:41.980 --> 00:23:54.310
+<v Linus Neumann>ähm dass die äh dänische Justizministerin Karen das auch da mit also auf einer Evidenzbasierten Analyse begründet und sagt, es scheint,
+
+00:23:55.254 --> 00:24:00.055
+<v Linus Neumann>nicht das Ziel zu dem Ziel zu dienen, irgendwie bei der Strafverfolgung sinnvoll zu sein?
+
+00:24:00.007 --> 00:24:08.209
+<v Linus Neumann>Das heißt, sie macht da nicht den den bürgerrechtler und sagt äh äh so einen Mist haben wir nicht nötig, sondern sie ähm macht das evidenzbasiert,
+
+00:24:08.312 --> 00:24:19.398
+<v Linus Neumann>und das war übrigens auch etwas, was ich äh in meinem Bundestagsausschuss digitale Agenda ähm Stellungnahme sehr ausführlich dargestellt habe, dass äh man sich bei solchen
+
+00:24:19.212 --> 00:24:24.217
+<v Linus Neumann>Grundrechtsbeschränkenden einschränkenden äh Gesetzgebungen. Doch bitte,
+
+00:24:25.083 --> 00:24:31.374
+<v Linus Neumann>auf äh auf Empirie auch verlassen sollen müsste und vor allem äh,
+
+00:24:31.801 --> 00:24:45.826
+<v Linus Neumann>zum Beispiel solche Gesetze für einen, wenn überhaupt, nur auf eine bestimmte Zeit zu beschließen und zu sagen, nach so und so vielen Jahren kommt das Gesetz ob seiner äh Effektivität auf den Prüfstand,
+
+00:24:46.223 --> 00:24:49.522
+<v Linus Neumann>und wenn es nichts bringt oder nur wenig bringt,
+
+00:24:50.075 --> 00:25:00.338
+<v Linus Neumann>oder der Nutzen eben den Kosten äh zu den Kosten in keinerlei sinnvollen Verhältnis steht, dann ist es eben vorbei, dann wird's nicht verlängert. Also Gesetze mit äh Ablaufdatum. Auch schön.
+
+00:25:00.483 --> 00:25:14.459
+<v Tim Pritlove>Genau, also vor allem mit einem definierten Ende und man muss explizit beschließen, dass man's weiterführt. Es gibt ja auch so ein bisschen das Gegenteil mit äh wir wir planen in zehn Jahren noch mal zu prüfen, ob wir es noch brauchen so, ja und wenn nichts getan wird, bleibt's.
+
+00:25:14.388 --> 00:25:18.509
+<v Linus Neumann>Genau, ja. Naja, also äh spannend.
+
+00:25:20.613 --> 00:25:21.430
+<v Tim Pritlove>Ja
+
+00:25:21.935 --> 00:25:31.429
+<v Tim Pritlove>Auch spannend sind Veröffentlichungen von äh Vodafone. Man gewinnt auch hier so ein wenig den Eindruck, dass äh trotz aller allgemeinen Blindheit gegenüber der
+
+00:25:31.381 --> 00:25:40.394
+<v Tim Pritlove>aufgedeckten im letzten Jahr aufgedeckten Überwachungsskandale schon hier und da, zumindest im Businessbereich, ähm das eine Wirkung erzielt,
+
+00:25:40.473 --> 00:25:42.287
+<v Tim Pritlove>Nur so jetzt im,
+
+00:25:42.955 --> 00:25:50.568
+<v Tim Pritlove>Internet-Cloud-Bereich, wo die Firmen ja so ein bisschen Panik haben, ihre Dienste überhaupt noch an äh den Mann und die Frau zu bringen.
+
+00:25:51.115 --> 00:26:04.455
+<v Tim Pritlove>Sondern auch die Mobilfunker sehen sich wohl in zunehmenden Maße äh unter Druck. Und so hat äh Vodafone, ich weiß gar nicht, ob sie das angekündigt hatten, dass sie das tun würden.
+
+00:26:05.176 --> 00:26:07.974
+<v Linus Neumann>Ich glaube nicht, dass sie's angekündigt haben.
+
+00:26:07.838 --> 00:26:09.502
+<v Tim Pritlove>Nichts von gehört, zumindest.
+
+00:26:09.499 --> 00:26:15.139
+<v Linus Neumann>Das Entscheidende ist, Vodafone Group. Nicht äh Vodafone Deutschland oder so, sondern direkt.
+
+00:26:14.238 --> 00:26:16.984
+<v Tim Pritlove>Das Vodafone aller Vodafones.
+
+00:26:16.936 --> 00:26:18.306
+<v Linus Neumann>Die Mutter aller Vodafone.
+
+00:26:18.006 --> 00:26:26.436
+<v Tim Pritlove>Vodafone und äh haben einen Bericht herausgebracht über Love for Interception. Ähm,
+
+00:26:27.416 --> 00:26:39.319
+<v Tim Pritlove>wo sie Einblicke geben, jetzt bin ich grade am Schwimmen, weil ich das nicht gelesen habe, sondern nur berichte dadrüber, nennen sie Länder oder sagen sie nur allgemein, es gibt Länder, das ist.
+
+00:26:39.019 --> 00:26:50.947
+<v Linus Neumann>Also ein für jedes einzelne ihrer Länder. Das heißt, sie sie schreiben äh für jedes Land, in dem sie vertreten sind. Ähm,
+
+00:26:51.038 --> 00:26:58.723
+<v Linus Neumann>relativ ausführlich, wie es dort aussieht in Sachen Loveul Intersept. Und ähm.
+
+00:26:59.991 --> 00:27:07.322
+<v Linus Neumann>Sie schreiben dann auch relativ ausführlich darüber, in welchen Ländern sie wozu keine Aussage treffen konnten.
+
+00:27:08.163 --> 00:27:13.000
+<v Linus Neumann>Und da ist es zum Beispiel ganz äh ganz interessant zu sehen,
+
+00:27:13.451 --> 00:27:19.892
+<v Linus Neumann>Ich komme ja auch mit den Fenstern auch nicht zurecht. Ähm dass sie sagen, ähm in einigen Ländern,
+
+00:27:20.332 --> 00:27:31.797
+<v Linus Neumann>haben die Behörden direkten Zugang zu den Netzen. Also es geht dabei jetzt hauptsächlich um das ähm Abhören von mobiler Telefonie mit Hilfe,
+
+00:27:31.983 --> 00:27:32.632
+<v Linus Neumann>der,
+
+00:27:32.837 --> 00:27:47.480
+<v Linus Neumann>Infrastruktur des Anbieters, ja? Du könntest ja auch einen Imse-Katcher benutzen oder ähm ähm andere Möglichkeiten, vielleicht ein ein Virus auf dem Handy, aber du kannst natürlich auch immer sehr schön zu dem Anbieter selber gehen,
+
+00:27:48.202 --> 00:27:50.076
+<v Linus Neumann>und ähm das,
+
+00:27:50.305 --> 00:28:01.992
+<v Linus Neumann>sogenannte äh betrifft also die Abhörmöglichkeiten, Abheuerkapazitäten, technischen äh Möglichkeiten, die diese Anbieter,
+
+00:28:02.245 --> 00:28:10.080
+<v Linus Neumann>bereithalten für solche Fälle. Von denen sie natürlich sehr viele äh Anfragen bekommen.
+
+00:28:11.301 --> 00:28:12.394
+<v Linus Neumann>Und
+
+00:28:12.202 --> 00:28:26.383
+<v Linus Neumann>darüber hat ja ursprünglich vor ein paar Wochen dann die Deutsche Telekom in Deutschland zum ersten Mal so eine Art Transparenzbericht verfasst, wo wir dann gesehen haben, wie viele zehntausend äh verschiedene Anfragen, die jeweils bekommen haben
+
+00:28:26.245 --> 00:28:35.655
+<v Linus Neumann>Und Vodafone hat jetzt das Gleiche getan für im Prinzip alle Länder, äh in denen sie vertreten sind. Ähm,
+
+00:28:36.040 --> 00:28:42.812
+<v Linus Neumann>Deutschland, sagen sie, äh gehört nicht zu den Ländern, wo die Behörden direkten Zugang zu den Netzen hätten?
+
+00:28:44.116 --> 00:28:49.854
+<v Linus Neumann>Mhm. Ähm in anderen Ländern ist das der Fall. Ähm jedes Land aber.
+
+00:28:49.554 --> 00:29:02.431
+<v Tim Pritlove>Direkt heißt, dass quasi der Staat selber per technischer Fernwirkung, Daten und Zugriff sofort erlangen kann, versus es gibt einen bürokratischen Prozess, wo man einen solchen Zugriff,
+
+00:29:03.159 --> 00:29:09.829
+<v Tim Pritlove>ähm ja, entweder durchführen lassen kann oder äh nach Absprache herstellt, was auch immer.
+
+00:29:09.529 --> 00:29:21.366
+<v Linus Neumann>Genau. Und da gibt's äh da gibt's in der Tat unterschiedliche unterschiedliche Regelungen, ne, also was ähm oder unterschiedliche Lösungen, die dann die Provider auch bereitstellen. Ähm,
+
+00:29:21.769 --> 00:29:30.199
+<v Linus Neumann>Schön ist halt, so was, wenn man einfach nur wirklich einen port dupliziert und das alles wegpeilt äh zu den zu den Behörden, die schon wissen, was sie tun,
+
+00:29:30.783 --> 00:29:35.181
+<v Linus Neumann>sieht man auch in in einigen europäischen Ländern.
+
+00:29:36.287 --> 00:29:48.509
+<v Linus Neumann>Schön sind auch, kenne ich einen Fall, äh der gehört nicht zur Vodafone-Gruppe, wo ähm sich der Anbieter zumindest die das Befolgen dieser Anfragen dann auch bezahlen lässt,
+
+00:29:49.525 --> 00:29:58.135
+<v Linus Neumann>Das heißt, sie haben äh haben im Prinzip eine Preisliste, die sie die der Polizei dann auch äh äh entsprechend bekannt ist.
+
+00:29:59.296 --> 00:30:05.280
+<v Linus Neumann>Weil sie sagen, na ja, dieses ganze Op, Abhör-Equipment, was wir hier aufstellen, das kostet ja auch ein Schweinegeld, das muss hier irgendwie refinanzieren.
+
+00:30:05.359 --> 00:30:21.565
+<v Linus Neumann>Gehst also ganz ganz unterschiedliche Regelungen und äh wo davon hat das jetzt mal sehr ausführlich äh äh dargestellt. Und da kann man eigentlich davon ausgehen, da wurde von irgendwie in über zwanzig Ländern vertreten ist, dass das, was Vodafone dafür ein einzelnes Land schildert
+
+00:30:21.409 --> 00:30:30.596
+<v Linus Neumann>in der Regel dann wahrscheinlich für alle anderen Provider in diesen in diesem Land ebenfalls so ähm,
+
+00:30:31.582 --> 00:30:32.808
+<v Linus Neumann>der Fall ist.
+
+00:30:33.163 --> 00:30:40.391
+<v Tim Pritlove>Was mich ja mal interessieren würde, ich weiß jetzt nicht, ob das schon stattgefunden hat, sieht jetzt gerade auf den ersten Blick,
+
+00:30:40.764 --> 00:30:50.354
+<v Tim Pritlove>Ah doch hier, genau, hier, genau, das ist so eine genauso eine Tabelle, wollte ich gerade sehen. Hat also schon jemand gemacht, die Tabelle war aber jetzt so nicht Teil dieses Berichts, oder?
+
+00:30:50.114 --> 00:30:55.462
+<v Linus Neumann>Ähm dann habe ich die wahrscheinlich, habe ich nicht alle vollständigen Links, ja, also müssen wir mal gucken.
+
+00:30:55.979 --> 00:31:01.303
+<v Tim Pritlove>Ja, aber das ist natürlich mal jetzt sehr interessant. Das ist äh halt ein Überblick,
+
+00:31:01.844 --> 00:31:11.446
+<v Tim Pritlove>überhaupt von welchen Ländern, in welcher Größenordnung äh geholt wird. Also das geht hier von Vodafone Metadata, Vodafone Content,
+
+00:31:12.516 --> 00:31:25.237
+<v Tim Pritlove>nicht ganz genau, was äh Vodafone-Content jetzt ist, National Meterdater heißt das, dass dann sozusagen auch hier so äh die eigentlichen Userkonten das damit gemeint?
+
+00:31:25.189 --> 00:31:30.705
+<v Linus Neumann>Da müssten wir dann den diesen Guardian Artikel, den wir gerade vor uns haben, dann auch schon durchaus gelesen haben.
+
+00:31:28.296 --> 00:31:33.710
+<v Tim Pritlove>Ja. Ja, man sollte vorher wissen, was man.
+
+00:31:35.849 --> 00:31:44.003
+<v Tim Pritlove>Ja, aber sehr interessant sind natürlich auch so Linda wie Katar, äh Rumänien, Südafrika, Türkei,
+
+00:31:44.731 --> 00:31:50.769
+<v Tim Pritlove>Einschränkungen auch äh Malta, Ungarn, Indien,
+
+00:31:51.215 --> 00:31:56.256
+<v Tim Pritlove>Ägypten und Albanien, das sind nämlich jetzt die, wo hier dicker, schwarzer Balken ist, wo einfach steht
+
+00:31:56.142 --> 00:32:11.074
+<v Tim Pritlove>Es ist verboten, irgendetwas darüber zu sagen, ne, also so ähnlich wie das auch in den USA ist und dann finde ich das auch schon mal ganz spannend, dass sie also auch schon mal ähm zwei Mitglieder der Europäischen Union, die drei sogar dabei sind, ne, also.
+
+00:32:10.774 --> 00:32:12.198
+<v Linus Neumann>Ist sogar noch spannender.
+
+00:32:11.898 --> 00:32:18.351
+<v Tim Pritlove>Von Ungarn ist man das jetzt schon mittlerweile gewohnt. Rumänien noch nicht ganz so. Malta hatte ich noch keine Vorstellung.
+
+00:32:18.406 --> 00:32:26.920
+<v Linus Neumann>Es gibt einmal die Länder, in denen sie überhaupt nichts darüber sagen dürfen und es gibt, ist eigentlich ein sehr schöner äh Nebensatz zu diesem Bericht ist, es gibt,
+
+00:32:27.744 --> 00:32:39.515
+<v Linus Neumann>also in über einige Anfragen darf nicht berichtet werden und wird auch in diesen äh Bericht nicht berichtet. Ja, also es äh,
+
+00:32:40.381 --> 00:32:41.276
+<v Linus Neumann>interessant.
+
+00:32:41.198 --> 00:32:44.154
+<v Tim Pritlove>Aber es gibt auch Länder, in denen sozusagen nichts stattfindet.
+
+00:32:44.521 --> 00:32:48.631
+<v Linus Neumann>Na ja, ähm was ist das, Motz.
+
+00:32:49.557 --> 00:32:57.012
+<v Tim Pritlove>Weiß ich nicht, aber äh es gibt hier Kenia, Ghana, wo irgendwie.
+
+00:32:56.912 --> 00:32:58.197
+<v Linus Neumann>Nichts drin steht.
+
+00:32:58.097 --> 00:33:04.194
+<v Tim Pritlove>Ja wo nichts steht. Also aber ich meine, wenn sie jetzt darüber berichten.
+
+00:33:07.506 --> 00:33:10.786
+<v Tim Pritlove>Was ist das? Mosambik.
+
+00:33:10.684 --> 00:33:18.352
+<v Linus Neumann>Kann sein. Okay, also spannend, schön sind, man sieht immer wieder schöne, große Zahlen. Ähm und was
+
+00:33:18.310 --> 00:33:27.918
+<v Linus Neumann>Was dann natürlich auch sehr ähm ne, dreiundzwanzigtausend Mal äh Content anfragen und was der,
+
+00:33:28.345 --> 00:33:34.877
+<v Linus Neumann>Teil war, der jetzt zu meiner allgemeinen Überraschung für äh allgemeine Überraschungen sorgte,
+
+00:33:35.364 --> 00:33:39.401
+<v Linus Neumann>war, dass sie solche Schnittstellen vorhalten.
+
+00:33:40.616 --> 00:33:50.043
+<v Linus Neumann>Das war also so die Meldung wie Vodafone äh erklärt, dass sie sowas vorhalten müssen, natürlich. Ist auch eingebaut in die meisten Geräte. Ja, das ist immer bei,
+
+00:33:50.284 --> 00:33:57.290
+<v Linus Neumann>hatte ich ja schon mal angesprochen, als äh Sigmar Gabriel, dann sagte, ja hier äh Abhör äh Equipment darf nicht mehr exportiert werden,
+
+00:33:57.393 --> 00:34:01.371
+<v Linus Neumann>Diese Funktionalität ist natürlich ähm in der Regel auch eingebaut
+
+00:34:01.329 --> 00:34:08.131
+<v Linus Neumann>Ja, das heißt, da da kriegst du die jetzt nicht ein äh Mobilfunknetzkern, den man nicht abhören könnte.
+
+00:34:09.285 --> 00:34:19.332
+<v Tim Pritlove>Ja, wahrscheinlich wird's äh diese diese Versuch, das alles zu verbieten darin am Gipfeln, dass halt irgendwie die Software zwar ausgeliefert wird, wie sonst auch, aber diese Konfigurationsdatei schaltet das Feature aus.
+
+00:34:20.798 --> 00:34:31.698
+<v Linus Neumann>Ja, mal schauen, also aber ich denke, wir brauchen da jetzt auch nicht so weiter drüber zu reden, so ist ganz klar äh Provider kooperieren. Es geht in jedem äh Land Gesetze, die sie dazu zwingen,
+
+00:34:31.957 --> 00:34:37.371
+<v Linus Neumann>ähm eigentlich alles nichts Neues. Das Schöne ist, dass da jetzt mal sehr ausführlich Zahlen genannt wurden.
+
+00:34:37.624 --> 00:34:40.886
+<v Tim Pritlove>Naja, also wir Linken hier auf jeden Fall auch noch auf den Guardian Artikel, ja.
+
+00:34:40.586 --> 00:34:42.503
+<v Linus Neumann>Ja, ist schon längst geschehen.
+
+00:34:42.203 --> 00:34:54.623
+<v Tim Pritlove>Und äh vielleicht kann ja jemand auch nochmal mit ein bisschen mehr Verständnis dadrüber schauen und ein paar Schlussfolgerungen daraus ziehen. Äh was ich mal sehr interessant fände und was auch die Tabelle des Guardians so nicht hergibt, ist,
+
+00:34:54.876 --> 00:35:03.054
+<v Tim Pritlove>inwiefern sich eben jetzt die hier aufgeführten Zugriffsarten und Mengen äh gegebenenfalls noch etwas zisilierter
+
+00:35:02.904 --> 00:35:09.916
+<v Tim Pritlove>visualisieren lässt, also gar nicht mal nur so so das wie viel, sondern auch welche Art von Zugriff überhaupt
+
+00:35:09.899 --> 00:35:24.025
+<v Tim Pritlove>äh gewährt wird und auch gerade diese Unterscheidung mit äh direkter Zugriff nicht direkter Zugriff. Das wäre doch mal sehr interessant, um sich einfach ein besseres Bild äh zu machen und das Ganze dann vielleicht auch auf so eine kleine Heatmap äh auf die einzelnen Länder
+
+00:35:24.008 --> 00:35:24.999
+<v Tim Pritlove>umzusetzen.
+
+00:35:24.699 --> 00:35:35.118
+<v Linus Neumann>Haben einige versucht ähm ja also wie gesagt, dieses ich bin diesem Thema gegenüber so ein bisschen ähm.
+
+00:35:37.150 --> 00:35:39.745
+<v Linus Neumann>Indifferent das jetzt noch irgendwie weiter zu,
+
+00:35:39.890 --> 00:35:52.719
+<v Linus Neumann>irgendwie darstellungsmäßig zu vertiefen. Tatsache ist, äh dass diese Schnittstellen da sind und dass es jetzt ein Fakt, der mir persönlich ähm,
+
+00:35:53.086 --> 00:35:55.681
+<v Linus Neumann>seit sehr langer Zeit so bekannt ist.
+
+00:35:55.586 --> 00:35:57.556
+<v Tim Pritlove>Ja gut, aber etwas.
+
+00:35:56.577 --> 00:35:58.884
+<v Linus Neumann>Ich auch ausführlich schon berichtet habe.
+
+00:35:58.584 --> 00:36:07.687
+<v Tim Pritlove>Genau, aber das ist ja das das generelle Dilemma in diesen Debatten. Da ist einigen Experten einiges mögliches erkannt, ja? Äh bekannt.
+
+00:36:07.994 --> 00:36:18.521
+<v Tim Pritlove>Nur ein offizielles PDF von Vodafone, wo drinsteht äh hier, wir tun das. Ja, das kann man einfach Leuten auch auf den Tisch knallen und sagen, hier Realität.
+
+00:36:18.252 --> 00:36:31.195
+<v Linus Neumann>Schön ist vor allem, dass man jetzt hoffentlich davon ausgehen kann, dass Vodafone es äh Google gleich tun wird, die diesen Transparency Report ja nicht nur veröffentlichen, sondern jährlich veröffentlichen. Und mit Trends versehen.
+
+00:36:31.057 --> 00:36:38.658
+<v Linus Neumann>Und das denke ich, da werden dann äh so Dinge auch nochmal äh interessant. Sie nämlich in so einer
+
+00:36:38.484 --> 00:36:53.549
+<v Linus Neumann>im Lenkschnitt auch zu sehen. Wie hat sich das wie hat sich denn die Anzahl der Anfragen in den Ländern entwickelt? Sie ist natürlich gestiegen, wie stark ist sie gestiegen? Ist sie stärker in der Türkei gestiegen als im im Vereinigten Königreich? Und sowas, ne? Wer ähm,
+
+00:36:54.498 --> 00:37:03.553
+<v Linus Neumann>Wie ist der ähm wie ist der Anstieg der Neuüberwachung oder wie wir das mal genannt? Wie ist die, wurde die die Neuüberwachung gedeckelt und sowas, ne?
+
+00:37:03.253 --> 00:37:13.174
+<v Tim Pritlove>Ja. Gut. Ähm was mal was mal einen anderen Programmpunkt stark macht.
+
+00:37:12.874 --> 00:37:22.680
+<v Linus Neumann>Genau, Bundeswehr? Bundeswehr. Schön, Bundeswehr. Verteidigungsministerium hat am äh fünften äh Februar März eine,
+
+00:37:23.186 --> 00:37:32.373
+<v Linus Neumann>Kleine Anfrage der Abgeordneten André Hunkow, Wolfgang Gerke und Annette Groth und einigen anderen Mitgliedern der Linkspartei äh beantwortet,
+
+00:37:33.437 --> 00:37:41.369
+<v Linus Neumann>Und in dieser kleinen Anfrage wurde unter anderem die Frage gestellt, ob denn irgendwie Bestrebungen bestünden ähm,
+
+00:37:41.862 --> 00:37:51.181
+<v Linus Neumann>Twitter und Facebook auszuwerten, irgendwie soziale Medien zu untersuchen, auch über diese Antwort hatten wir über diese kleine Anfrage hatten wir äh hier berichtet
+
+00:37:51.128 --> 00:38:03.789
+<v Linus Neumann>Und da wurde also gesagt, wo dann von der Bundesregierung, die ja diese kleine Anfrage beantwortet hat, gesagt, nö, da haben wir also keine ähm haben wir keine Bestrebungen im Moment, da äh soziale Netze irgendwie auszuwerten.
+
+00:38:04.913 --> 00:38:15.560
+<v Linus Neumann>Und jetzt äh wurde diese Aussage zwei Monate später berichtigt, denn es gab huch ein Büroversehen. Es gab ein Büro versehen, huch.
+
+00:38:12.965 --> 00:38:16.798
+<v Tim Pritlove>Es gab ein Büro versehen. Büroversehen.
+
+00:38:16.498 --> 00:38:27.632
+<v Linus Neumann>Genau, denn das Verteidigungsministerium unterstützt mit eins Komma drei fünf Millionen Euro. Ein Fraunhofer-Forschungsprojekt, das sich mit der Wissenserschließung aus offenen Quellen,
+
+00:38:28.234 --> 00:38:30.685
+<v Linus Neumann>befasst.
+
+00:38:32.386 --> 00:38:42.349
+<v Linus Neumann>W wissen nee, nee, also wer wissenserschließung offenen Quellen.
+
+00:38:43.809 --> 00:38:46.783
+<v Tim Pritlove>Ja, das ist eine dieser schönen Abkürzungen.
+
+00:38:48.034 --> 00:38:56.362
+<v Tim Pritlove>Das ist so in Deutschland werden immer so blöde Abkürzungen gesucht und danach versucht man noch irgendwas zu deuteln, wie man das jetzt,
+
+00:38:56.368 --> 00:39:01.103
+<v Tim Pritlove>noch nicht mal passiert. Hier würde einfach nur eine Abkürzung für irgend so eine komische Formulierung genommen.
+
+00:39:01.494 --> 00:39:08.819
+<v Tim Pritlove>Da sollte man sich mal bei der NSA wirklich mal ein Beispiel nehmen, ja? Ich meine, die haben da wirklich Flammenschwerter und äh.
+
+00:39:09.985 --> 00:39:17.868
+<v Tim Pritlove>Andere wirklich gewichtige äh Götter am Start so. Das macht einfach was her. Wo bleibt denn die PR?
+
+00:39:18.999 --> 00:39:22.808
+<v Tim Pritlove>Ja, also was war denn jetzt genau das Büro versehen, dass man darauf geantwortet hat.
+
+00:39:22.508 --> 00:39:27.423
+<v Linus Neumann>Behauptet hat, soziale Medien würden nicht betrachtet,
+
+00:39:28.300 --> 00:39:43.137
+<v Linus Neumann>Gleichzeitig aber das Verteidigungsministerium ein Forschungsprojekt finanziert unterhält, in dem die Erforschung sozialer Medien zu Zwecken der Verteidigung ähm stattfindet.
+
+00:39:43.468 --> 00:39:46.057
+<v Tim Pritlove>Also was ist denn nun? Findet's jetzt statt oder nicht?
+
+00:39:46.238 --> 00:40:00.232
+<v Linus Neumann>Sie investieren zumindest also ich kann's ja nochmal wiederholen. Es wurde gefragt, macht ihr das oder beabsichtigt ihr das zu tun? Es wurde geantwortet mit nein. Und zwei Monate und das war ein Büro versehen. Das war Büro versehen. Huch,
+
+00:40:00.635 --> 00:40:01.795
+<v Linus Neumann>Büro versehen.
+
+00:40:01.495 --> 00:40:04.775
+<v Tim Pritlove>Da sagten sie, sie machen's eigentlich nicht, aber es gibt zumindest dieses Projekt.
+
+00:40:04.559 --> 00:40:15.327
+<v Linus Neumann>So und jetzt haben sie diese kleine Anfrage quasi äh zwei Monate später äh dann irgendwie noch so gesagt, ah übrigens uns ist da ein Büroversehen aufgefallen.
+
+00:40:17.389 --> 00:40:25.891
+<v Linus Neumann>Unsere Antwort auf die äh kleine Anfrage war aufgrund eines Büroversehens nicht. Wahrheitsgemäß.
+
+00:40:28.181 --> 00:40:42.416
+<v Linus Neumann>Und das äh interessant, weil die Anfragen der Linksfraktion, das sind wirklich ähm ich zitiere die ja relativ häufig und wir haben dafür schon äh dadurch sehr viele Dinge ähm,
+
+00:40:42.681 --> 00:40:48.100
+<v Linus Neumann>über diesen Politikbetrieb äh und über Sachen, die verheimlicht äh wurden.
+
+00:40:49.579 --> 00:40:55.804
+<v Linus Neumann>Ähm oder die wir auf anderem Wege nicht ans Licht bekommen hätten, erfahren.
+
+00:40:56.976 --> 00:41:00.395
+<v Linus Neumann>Wir hatten auch schon mal darüber gesprochen, dass ja äh,
+
+00:41:01.165 --> 00:41:07.371
+<v Linus Neumann>gezielt gestreut wurde, die Linksfraktion äh mache,
+
+00:41:07.402 --> 00:41:18.729
+<v Linus Neumann>betreibe damit irgendwie eine Unterstützung von terroristischen oder militanten Umtrieben in Deutschland, in dem sie diese Anfragen stellt, deren Antworten dann öffentlich frei verfügbar sind.
+
+00:41:20.892 --> 00:41:28.770
+<v Linus Neumann>Und wenn da jetzt, wenn sie jetzt da irgendwie auch noch unwahre Antworten bekommen, dann ist das schon eine sehr starke ähm,
+
+00:41:29.726 --> 00:41:36.017
+<v Linus Neumann>sehr starkes Stück und seine eine sehr äh erstaunliche Behinderung der Arbeit,
+
+00:41:36.882 --> 00:41:41.425
+<v Linus Neumann>der Opposition. Denn diese kleinen Anfragen sind mit,
+
+00:41:41.456 --> 00:41:55.829
+<v Linus Neumann>einzige warum so eine Oppositionsarbeit auch nach wie vor sinnvoll ist, warum es sich überhaupt, warum es überhaupt sinnvoll ist, sich in der Opposition zu unterhalten in einem Parlament, wo äh ja ohnehin in dieser Debatte im Parlament nicht stattfindet. Das heißt, wenn die sowieso nicht da sind,
+
+00:41:55.763 --> 00:42:00.522
+<v Linus Neumann>in der Willensbildung im Prinzip die ganze Zeit nicht vertreten sind,
+
+00:42:00.750 --> 00:42:13.183
+<v Linus Neumann>Dann könnte man sicher auch sagen, komm, wir sparen uns die Kohle. Aber kleine Anfragen sind unter anderem eben ein sehr wirkungsvolles Mittel und ähm sind äh sind immer zu begrüßen.
+
+00:42:13.604 --> 00:42:19.198
+<v Linus Neumann>Und es ist natürlich sehr übel, wenn wenn da äh irgendwie mit Verarsche äh reagiert wird.
+
+00:42:20.028 --> 00:42:23.302
+<v Tim Pritlove>Ja, wir begrüßen es auf jeden Fall.
+
+00:42:23.567 --> 00:42:24.991
+<v Linus Neumann>Klar, die Antwort natürlich nicht.
+
+00:42:25.688 --> 00:42:36.576
+<v Linus Neumann>Denn, also finde ich auch interessant, Fraunhofer, ne, alle finden immer Fraunhofer toll. Eins Komma drei fünf Millionen, um irgendwie soziale Netzwerke auszuforschen. Äh wird äh wird finanziell nicht reichen,
+
+00:42:37.106 --> 00:42:44.136
+<v Linus Neumann>Ist aber natürlich trotzdem schade um das Geld. Ja, weil das jetzt weg. Da ist er jetzt bei denen.
+
+00:42:43.836 --> 00:42:49.568
+<v Tim Pritlove>Tja, ja, so ist das. Kurz, kommen wir, wissen.
+
+00:42:49.274 --> 00:42:50.608
+<v Linus Neumann>Zum letzten Thema, ja.
+
+00:42:50.308 --> 00:42:59.122
+<v Tim Pritlove>Wir kommen zum letzten Thema und das finde ich das ist irgendwie das ist ein.
+
+00:43:00.625 --> 00:43:07.222
+<v Tim Pritlove>Delikatesse der Open Source, nee, Open Source, ist ja gar nicht. Ist es?
+
+00:43:09.344 --> 00:43:14.500
+<v Tim Pritlove>Ähm ja, diese Katisse der Softwareentwicklung, also,
+
+00:43:15.023 --> 00:43:20.106
+<v Tim Pritlove>Ich hab's noch nicht so ganz verstanden, aber es gibt ein Produkt, das heißt True Cript,
+
+00:43:21.062 --> 00:43:30.712
+<v Tim Pritlove>was ich sagen wir mal auch der Kryptogemeinde recht großer Beliebtheit erfreut hat kann man so sagen oder?
+
+00:43:31.872 --> 00:43:38.470
+<v Tim Pritlove>Weil ich das wirklich noch nie verwendet habe. Äh zum Verschlüsseln von Festplatten. Es gibt schon ein bisschen mehr,
+
+00:43:39.089 --> 00:43:45.500
+<v Tim Pritlove>und das kann man halt benutzen, um so eine Festplatte zu verschlüsseln. Was ja erstmal eine tolle Sache ist, weil.
+
+00:43:46.690 --> 00:43:57.008
+<v Tim Pritlove>Könnt ihr mal versuchen, drauf zu schauen und offensichtlich haben das auch viele Leute verwendet. Und äh vor ein paar Wochen, wie lange ist das jetzt her? Eine Woche.
+
+00:43:56.708 --> 00:43:57.777
+<v Linus Neumann>Einer Woche ungefähr.
+
+00:43:57.477 --> 00:44:02.266
+<v Tim Pritlove>Einer Woche, genau, gab's dann auf einmal, ob's pure Meldungen,
+
+00:44:02.927 --> 00:44:08.840
+<v Tim Pritlove>von dieser Entwicklergemeinde so nach dem Motto ja äh,
+
+00:44:09.008 --> 00:44:13.497
+<v Tim Pritlove>Übrigens, Warnung, Warnung, Druckkript ist nicht sicher
+
+00:44:13.329 --> 00:44:24.229
+<v Tim Pritlove>weil es irgendwie äh nicht behobene Sicherheitsfehler enthält und äh benutzt auch besser äh das entsprechende Produkt von äh Windows, wie heißt das noch gleich? Ich bin
+
+00:44:24.163 --> 00:44:27.095
+<v Tim Pritlove>Bitlocker,
+
+00:44:27.240 --> 00:44:38.560
+<v Tim Pritlove>Und ja und das war's so. Außerdem sind die alten Versionen vom Netz genommen worden. Es gab nur eine aktuelle Version, die nur noch äh Daten wiederherstellen kann,
+
+00:44:38.993 --> 00:44:43.638
+<v Tim Pritlove>und keine Erklärung, nix irgendwie alles total im Unklaren.
+
+00:44:43.500 --> 00:44:51.696
+<v Linus Neumann>Kleiner, kurzer äh Exkurs noch. Aufgrund der nicht unter einer der anerkannten,
+
+00:44:51.865 --> 00:44:55.915
+<v Linus Neumann>Open Source die Zinsen veröffentlicht ist, geht es,
+
+00:44:55.927 --> 00:45:02.194
+<v Linus Neumann>äh Anhängern der Reihen leere nicht als Open Source Software, weil ich gerade so leichtfertig sagte, doch das ist Open Source,
+
+00:45:02.249 --> 00:45:10.354
+<v Linus Neumann>ja. Aber ähm das nur am Rande. Genau, dieses da haben das haben sehr viele Menschen äh genutzt
+
+00:45:10.277 --> 00:45:23.304
+<v Linus Neumann>Container. Hatte unter anderem auch diese schöne, also es hatte eine Funktion, um die gesamte Festplatte zu verschlüsseln, also unter anderem für äh für Windows-Rechner. Es hatte eine,
+
+00:45:23.857 --> 00:45:24.776
+<v Linus Neumann>ähm,
+
+00:45:24.867 --> 00:45:35.238
+<v Linus Neumann>ein äh schönes äh die schöne Möglichkeit eines versteckten Volumes. Das heißt, man konnte einen erstellen und in diesem einen weiteren äh Versteck
+
+00:45:35.112 --> 00:45:42.521
+<v Linus Neumann>was so auf diese Julian Assange äh Nummer zurückging mit dem mit dem Gummiknüppel, ne, das heißt ähm.
+
+00:45:42.221 --> 00:45:44.660
+<v Tim Pritlove>Loggen sie sich mal ein am Flughafen und so und dann.
+
+00:45:44.360 --> 00:45:49.516
+<v Linus Neumann>Die wissen ja, die wissen ja immerhin, dass du einen hast, ja, also können sie dich auch mit der,
+
+00:45:49.522 --> 00:46:01.582
+<v Linus Neumann>Zange zwingen, den das Passwort dazu herauszurücken, aber wenn nicht nachweisbar ist, dass sich darin noch ein weiterer versteckter befindet, dann kannst du wenigstens diesen plausibel ähm,
+
+00:46:01.690 --> 00:46:15.210
+<v Linus Neumann>verneinen die Existenz dieses Zweiten. Das heißt, du machst irgendwie so ein bisschen Alibi Porn in einen äh Container und in den Rest äh in in den Freibleibenden Speicherplatz, dieses Containers, der natürlich Zufall ist,
+
+00:46:15.691 --> 00:46:23.936
+<v Linus Neumann>damit sein dadrin versteckst du eine zweite Verschlüsselung in der du dann Dokumente hast. Zum Beispiel,
+
+00:46:24.429 --> 00:46:35.257
+<v Linus Neumann>All solche schönen Features und alle haben irgendwie auf dieses auf dieses Tool geschwört und erst vor kurzem ähm gab es auch ein ein Audit. Da wurde ähm,
+
+00:46:35.281 --> 00:46:43.303
+<v Linus Neumann>wenn ich mich recht entsinne, dafür gesammelt, weil man nämlich sagte, Moment mal, wenn jetzt hier NSA und so, dann sollten wir doch mal
+
+00:46:43.153 --> 00:46:52.713
+<v Linus Neumann>ein Audit äh dieser Software durchführen, auf die wir uns so sehr verlassen. Nicht, dass sich dadrin nachher noch ein kleiner versteckt oder so. Wobei das Lied,
+
+00:46:52.821 --> 00:46:56.168
+<v Linus Neumann>Da gab's also einen Audit und da der Audit-Bericht war ähm.
+
+00:46:57.010 --> 00:47:11.347
+<v Linus Neumann>So wie man ihn erwartet, da wurden ein paar äh sage ich mal Best Practice Verletzungen drin gefunden, aber irgendwie kein äh kein offenes Scheunentor, was jetzt alle zu Panik veranlasst hätte. Und es stand auch schon der zweite Teil dieses Audits, äh bevor,
+
+00:47:11.672 --> 00:47:16.539
+<v Linus Neumann>ja? Und ähm war oder ist äh
+
+00:47:16.521 --> 00:47:22.987
+<v Linus Neumann>immer sowas gewesen, wo man wo man sagt, ja so, das haben wir noch, ne? Wir haben noch.
+
+00:47:25.048 --> 00:47:27.367
+<v Linus Neumann>Und ähm jetzt das.
+
+00:47:28.636 --> 00:47:35.221
+<v Tim Pritlove>Ja, vor allem mit dieser merkwürdigen Mail. Also, es war einfach sehr, sehr unklar. Mittlerweile gibt's ein paar nach äh,
+
+00:47:36.129 --> 00:47:50.839
+<v Tim Pritlove>gereichte Meldungen, die auch genauso unklar sind, unter anderem habe ein Entwickler gegenüber diesem auditierenden Menschen äh erklärt. Es gebe jetzt kein Interesse mehr, äh diese Software weiterzuentwickeln,
+
+00:47:51.542 --> 00:48:02.496
+<v Tim Pritlove>Bei den äh Autoren so und äh sie werden jetzt auch nicht besonders begeistert bei dem Gedanken, dass eine Community diese Arbeit jetzt ähm übernehmen könnte, sollte,
+
+00:48:03.008 --> 00:48:09.503
+<v Tim Pritlove>Was ja wohl dann eben auch noch eine wo wahrscheinlich gegebenenfalls noch eine Lizenzänderung erforderlich ist,
+
+00:48:09.599 --> 00:48:18.547
+<v Tim Pritlove>Ähm mir ist nicht so ganz klar, wo die Einschränkungen dieser Lizenz ist, dass sie nicht äh einer der allgemein akzeptierten Open-Sours-Lizenzen entspricht.
+
+00:48:18.264 --> 00:48:21.840
+<v Linus Neumann>Es ist mir jetzt im im Detail auch nicht bekannt.
+
+00:48:21.540 --> 00:48:31.664
+<v Tim Pritlove>Ja, also auf jeden Fall äh gibt's da auf jeden Fall Fragen und ja, die die Entwickler ziehen sich zurück und meinen, so Nix hält ewig und ja, was wollt ihr denn überhaupt?
+
+00:48:32.638 --> 00:48:34.234
+<v Linus Neumann>Ja, es äh also was.
+
+00:48:33.984 --> 00:48:35.041
+<v Tim Pritlove>Sehr merkwürdig.
+
+00:48:34.791 --> 00:48:43.003
+<v Linus Neumann>Sie sie auf dieser nun verbleibenden Seite steht zweimal in Rot. Ist insecure.
+
+00:48:44.650 --> 00:48:46.044
+<v Tim Pritlove>Ja
+
+00:48:46.177 --> 00:48:49.367
+<v Linus Neumann>So, das ist also, wenn man jetzt mal
+
+00:48:49.241 --> 00:49:01.626
+<v Linus Neumann>wir wir müssen natürlich jetzt ein bisschen spekulieren, ne? Aber wenn sie das zweimal rot da drauf schreiben als Entwickler, die jahrelang an diesem Projekt äh gearbeitet haben, was eine sehr große Verbreitung gefunden hat
+
+00:49:01.464 --> 00:49:08.944
+<v Linus Neumann>ähm dann denke ich, dass sie äh einen entscheidenden Grund dazu haben, diese Äußerung dort so einzubringen.
+
+00:49:08.945 --> 00:49:12.929
+<v Tim Pritlove>Freies Warum haben sie keinen entscheidenden Grund, diese Äußerungen auch mal zu konkretisieren?
+
+00:49:13.939 --> 00:49:18.199
+<v Linus Neumann>So und das wird doch im Zweifel damit zu tun haben.
+
+00:49:19.046 --> 00:49:20.248
+<v Tim Pritlove>Dass sie es nicht sagen können.
+
+00:49:19.948 --> 00:49:21.942
+<v Linus Neumann>Dass sie es nicht sagen dürfen.
+
+00:49:22.345 --> 00:49:23.787
+<v Tim Pritlove>Sie dürfen nicht sagen, dass.
+
+00:49:23.739 --> 00:49:28.925
+<v Linus Neumann>Sein, dass sich äh also ne, dass sie einer,
+
+00:49:29.406 --> 00:49:39.663
+<v Linus Neumann>Einem solchen Gag-Order unterliegen oder irgendwie Post bekommen haben oder Besuch von irgendeiner Regierungsstelle, die sagt, übrigens äh wir möchten bitte.
+
+00:49:41.364 --> 00:49:48.340
+<v Linus Neumann>Du eine Hintertür einbaust oder wir möchten bitte, dass du eine Hintertür ausnutzt oder sonstiges,
+
+00:49:48.515 --> 00:49:56.506
+<v Linus Neumann>Und das ist ja so das äh der Fachbegriff, der sich dafür äh ja so ein bisschen her äh herausstilisiert hat, ist der eines,
+
+00:49:56.549 --> 00:50:06.091
+<v Linus Neumann>eines Kanarienvogels. Äh in Anlehnung an die äh Kanarienvögel, die Minenarbeiter mitgenommen haben in äh früher,
+
+00:50:06.692 --> 00:50:13.283
+<v Linus Neumann>Weil diese Vögel irgendwie reagiert haben, wenn zu viel Grubengas da war. Das heißt, es herrscht Explosionsgefahr. Ähm,
+
+00:50:13.374 --> 00:50:21.882
+<v Linus Neumann>Das heißt, es war ein warnendes Ding. Solange der irgendwie der Kanarienvogel da irgendwie sich normal verhalten hat, war auch alles in Ordnung. Ähm,
+
+00:50:22.574 --> 00:50:25.055
+<v Linus Neumann>Und worüber sich Menschen Gedanken machen, ist,
+
+00:50:25.374 --> 00:50:37.548
+<v Linus Neumann>wie kann ich denn dafür sorgen, dass ein, wenn ich einmal auf einmal von den National Security Letter bekomme und auf einmal das FBI vor der Tür steht und sagt, hier alles rausrücken, du darfst aber nichts erzählen.
+
+00:50:38.666 --> 00:50:43.882
+<v Linus Neumann>Ähm wie kann ich dafür sorgen, dass diese Information trotzdem,
+
+00:50:44.087 --> 00:50:58.364
+<v Linus Neumann>anderen Menschen, meinen Nutzern mitgeteilt wird. Was einige machen, ist zum Beispiel, dass sie äh jetzt irgendwie wöchentlich oder im zweiwöchentlichen Abstand ähm eine PGP signierte Nachricht schreiben und sagen, in den letzten beiden Wochen haben.
+
+00:50:58.064 --> 00:50:59.536
+<v Tim Pritlove>Keine Anfragen.
+
+00:50:59.236 --> 00:51:03.465
+<v Linus Neumann>Gab es keine Anfragen. Ja und jetzt könnten jetzt,
+
+00:51:04.043 --> 00:51:10.316
+<v Linus Neumann>Die graue Theorie will es, dass sie jetzt sich einbilden, dass wenn sie einen National Security Letter bekommen.
+
+00:51:11.440 --> 00:51:13.693
+<v Tim Pritlove>Dass sie das dann einfach sein lassen dürfen.
+
+00:51:13.393 --> 00:51:23.199
+<v Linus Neumann>Sein lassen, ja? Und nicht jemand mit einem Gummiknüppel da steht und sagt, Freundchen, gib mal dem, mit dem du das alles unterzeichnet hast, so wir sind ja nicht blöd. So,
+
+00:51:23.302 --> 00:51:32.171
+<v Linus Neumann>Aber so und da werden also unterschiedliche Verfahren äh gewählt äh um um einen solchen Cannay ähm.
+
+00:51:33.535 --> 00:51:41.172
+<v Linus Neumann>So ein Kanarienvogel zu implementieren. Und hatte jetzt meines Wissens einen solchen nicht. Und jetzt könnte es natürlich sein,
+
+00:51:41.389 --> 00:51:49.675
+<v Linus Neumann>wenn man sie zu völlig irre Verschwörungstheorie äh entfalten möchte, dass sich tatsächlich in eine äh eine Sicherheitslücke befindet,
+
+00:51:50.505 --> 00:51:55.089
+<v Linus Neumann>Und die Entwickler ähm vielleicht auch gar nicht wissen, welche das ist.
+
+00:51:57.409 --> 00:52:05.707
+<v Linus Neumann>Oder eine sehr großen, ein sehr klaren Anlass haben, diese Sicherheitslücke nicht zu fixen.
+
+00:52:07.865 --> 00:52:18.086
+<v Linus Neumann>Und deswegen sagen, okay, dann machen wir das ganze Ding zu. Ähnlich wie dieser. Äh äh Gründer, der gesagt hat, okay, wenn das so ist.
+
+00:52:18.609 --> 00:52:19.841
+<v Tim Pritlove>Dann kann ich hier überhaupt.
+
+00:52:19.541 --> 00:52:28.458
+<v Linus Neumann>Dann mache ich hier, dann lösche ich all eure E-Mails, Kunden, liebe Kunden, macht den Dienst sofort zu und handle somit in eurem Interesse.
+
+00:52:30.946 --> 00:52:32.141
+<v Linus Neumann>Ähm.
+
+00:52:34.750 --> 00:52:44.748
+<v Linus Neumann>Andererseits würde man, und das ist natürlich der, der andere entscheidende Punkt, wenn ich als Trucryp Entwickler, sage ich mal, mit Daumenschrauben und allem, äh,
+
+00:52:45.368 --> 00:52:54.405
+<v Linus Neumann>gefangen bin und nicht ähm verraten darf, dass sich in wie die Sicherheitslücke gestaltet ist, die sich in meinem Produkt befindet,
+
+00:52:54.730 --> 00:52:57.403
+<v Linus Neumann>Aber wenn ich trotzdem Kenntnis über diese Sicherheitslücke hätte
+
+00:52:57.314 --> 00:53:10.858
+<v Linus Neumann>dann würden mir ja irgendwelche Wege einfallen, dass irgendeine unbekannter Security-Researcher plötzlich auf ähm mal kurz schreibt, ach guck mal, was ich hier äh herausgefunden habe.
+
+00:53:12.090 --> 00:53:15.184
+<v Linus Neumann>Und ist natürlich schon erstaunlich, dass sie diesen Weg,
+
+00:53:15.545 --> 00:53:25.033
+<v Linus Neumann>nicht gehen und das lässt natürlich so ein bisschen das öffnet jetzt irgendwie für alle Arten von Spekulationen, äh Tür und Tor.
+
+00:53:27.984 --> 00:53:33.248
+<v Tim Pritlove>Die Spekulationen, die haben auch gerade erst so richtig äh angefangen,
+
+00:53:34.035 --> 00:53:47.369
+<v Tim Pritlove>Es ist einfach äh noch unvollendet diese ganze Debatte. Wir werden das vielleicht begleiten, wenn sich da irgendwas Interessantes ergibt. Ja, für Leute, die Druckkript einsetzen ist auch sehr schwer zu sagen, was man da jetzt überhaupt empfehlen soll,
+
+00:53:48.180 --> 00:53:56.887
+<v Tim Pritlove>Ja, ich meine, gibt's denn überhaupt noch eine andere äh Plattenverschlüsselung, die Open Source ist, die in irgendeiner Form Vertrauen hat.
+
+00:53:57.765 --> 00:54:02.421
+<v Linus Neumann>Mir ist jetzt nicht unbedingt eine bekannt.
+
+00:54:04.345 --> 00:54:16.453
+<v Linus Neumann>Ähm wie gesagt, die Betriebssysteme haben inzwischen selbst eine eine mitgelieferte, aber das sind äh die großen Betriebssysteme, Hersteller sind äh.
+
+00:54:18.202 --> 00:54:27.762
+<v Linus Neumann>Auf der Prison Liste Microsoft und Apple. Ähm ich weiß, dass auch eine voll das anrät und die basiert nicht auf Turpt,
+
+00:54:27.870 --> 00:54:33.909
+<v Linus Neumann>sondern äh man, wie heißt er, ich glaube oder sowas. Ich ähm,
+
+00:54:34.853 --> 00:54:38.398
+<v Linus Neumann>aktiviere das immer nur kurz und weiß nicht genau, äh.
+
+00:54:38.278 --> 00:54:46.468
+<v Tim Pritlove>Du schaltest da einfach irgendwas ein und weißt nicht so ganz genau, was das ist, aber stand sicher drauf, passt schon.
+
+00:54:44.846 --> 00:54:50.680
+<v Linus Neumann>Ja, mal gucken, was mit ähm,
+
+00:54:51.708 --> 00:54:59.958
+<v Linus Neumann>oder Krypto Loop. Okay, es gibt verschiedene Fahnen, Verfahren für Linox, die also machen. Wobei ich aber äh also
+
+00:54:59.749 --> 00:55:14.927
+<v Linus Neumann>Hatte natürlich eine starke Verbreitung, weil sie eben für Windows gemacht haben. Das ist ja so ein kleines Problem, dass wir dann äh den Bootloder irgendwie nochmal selber schreiben musst, damit der das Ding irgendwie entschlüsselt und das System in einen butbaren Zustand ähm versetzt,
+
+00:55:15.937 --> 00:55:17.433
+<v Linus Neumann>ähm aber ich,
+
+00:55:17.673 --> 00:55:27.035
+<v Linus Neumann>mein Eindruck war eigentlich das hauptsächlich wegen dieser Containerfalls genutzt wurde. Also für es war immer ganz angenehm. Du konntest irgendwie und äh App
+
+00:55:26.976 --> 00:55:33.062
+<v Linus Neumann>äh auf einen USB-Stick haben, der neben dem Container und du hattest irgendwie einen schönen äh verschlüsselten USB-Stick,
+
+00:55:33.195 --> 00:55:40.802
+<v Linus Neumann>den du einer anderen Person geben konntest, Nico von dem USB-Stick starten, um das äh um die Inhalte zu entschlüsseln, ne. Ähm,
+
+00:55:41.085 --> 00:55:48.986
+<v Linus Neumann>Das waren schon immer ganz, ganz feine Sachen. Es kursiert natürlich auch noch die Überlegung, ob die vielleicht einfach nur gehackt wurden und jemand, den einen sehr, sehr üblen Streich spielt.
+
+00:55:49.335 --> 00:55:52.952
+<v Tim Pritlove>Ja, es ist äh unklar.
+
+00:55:54.203 --> 00:56:04.189
+<v Linus Neumann>Aber man ist halt sehr, man, man, so wie's jetzt aussieht, ähm werden natürlich äh sehr, sehr viele Spekulationen,
+
+00:56:05.013 --> 00:56:09.693
+<v Linus Neumann>äh können jetzt getätigt werden, die ähm.
+
+00:56:11.755 --> 00:56:16.196
+<v Linus Neumann>Allen möglichen Nährboden haben in dem, was was man dort vorfindet.
+
+00:56:15.896 --> 00:56:18.497
+<v Tim Pritlove>Na, wir hatten ja auch schon lange keine neuen Verschwörungstheorien mehr.
+
+00:56:18.197 --> 00:56:29.470
+<v Linus Neumann>Das wäre, das ist aber jetzt echt mal ja, also ich weiß ja gar nicht genau, was ich davon äh was ich davon denke, also so irgendwie dieses knallrote und so.
+
+00:56:28.274 --> 00:56:33.051
+<v Tim Pritlove>Ja und jetzt.
+
+00:56:33.123 --> 00:56:41.157
+<v Linus Neumann>Nächste Woche stellen wir den Distanzrekord auf. Kündige ich jetzt hier mal vollmundig an.
+
+00:56:40.911 --> 00:56:44.769
+<v Tim Pritlove>Hm, denn wie weit sind wir auseinander ähm.
+
+00:56:43.092 --> 00:56:46.661
+<v Linus Neumann>Casting, Podcasting, Distanzrekord.
+
+00:56:47.503 --> 00:56:57.321
+<v Tim Pritlove>Na, das sind ja Versprechungen, die wir hier machen. Ob's leere Versprechungen sein werden, das werdet ihr dann äh irgendwann nächste Woche feststellen.
+
+00:56:58.896 --> 00:57:02.754
+<v Tim Pritlove>Tschüss, was? Ciao, ciao. Bis bald.

@@ -824,8 +824,10 @@
     async function autoLoadIfNeeded() {
       if (!searchCtx || searchCtx.processedIndex >= searchCtx.searchResults.length) return;
       if (countVisible(currentHits) >= displayLimit) return;
+      const generation = searchGeneration;
       resultCountEl.innerHTML = '<span class="spinner"></span>Lade mehr Ergebnisse…';
       await loadUntilFull();
+      if (generation !== searchGeneration) return;
       applyFiltersAndSort(currentHits);
     }
 
@@ -838,9 +840,11 @@
         applyFiltersAndSort(currentHits);
         return;
       }
+      const generation = searchGeneration;
       loadMoreBtn.style.display = "none";
       resultCountEl.innerHTML = '<span class="spinner"></span>Lade mehr Ergebnisse…';
       await loadUntilFull();
+      if (generation !== searchGeneration) return;
       applyFiltersAndSort(currentHits);
     });
 
@@ -877,7 +881,7 @@
       // Extract search terms from the query for proximity ranking.
       // Handles quoted phrases as single units, e.g. '"foo bar" baz' → ["foo bar", "baz"]
       const searchTerms = [];
-      const strippedQuery = normalizedQuery.replace(/"([^"]+)"/g, (_, p) => { searchTerms.push(p.toLowerCase()); return ""; });
+      const strippedQuery = normalizedQuery.replace(/"([^"]*)"/g, (_, p) => { if (p) searchTerms.push(p.toLowerCase()); return ""; });
       for (const t of strippedQuery.split(/\s+/)) { if (t) searchTerms.push(t.toLowerCase()); }
 
       // Lazily fetch data — only start fetches as needed in loadUntilFull,
@@ -900,7 +904,7 @@
       syncUrl();
       if (!hits.length) {
         resultsContainer.innerHTML = "";
-        resultCountEl.textContent = "";
+        resultCountEl.textContent = input.value.trim() ? "Keine Ergebnisse gefunden." : "";
         loadMoreBtn.style.display = "none";
         updateSpeakerCounts([]);
         return;
@@ -1036,7 +1040,9 @@
         if (cb.checked) checkedCount++;
       }
       // Update button label
-      if (checkedCount === 0 || checkedCount === SPEAKERS.length) {
+      if (checkedCount === 0) {
+        speakerBtn.textContent = "Sprecher: Keine";
+      } else if (checkedCount === SPEAKERS.length) {
         speakerBtn.textContent = "Sprecher: Alle";
       } else {
         speakerBtn.textContent = `Sprecher: ${checkedCount}/${SPEAKERS.length}`;

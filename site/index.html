@@ -579,7 +579,7 @@
       }
 
       const pages = await Promise.all(
-        search.results.slice(0, 20).map(r => r.data())
+        search.results.map(r => r.data())
       );
 
       // Extract search terms from the query for proximity ranking.
@@ -706,9 +706,10 @@
               + (windows[windows.length - 1].end < paraWords.length ? " …" : "");
           }
 
+          const normedPara = paraWords.map(w => norm(w));
           const termCount = searchTerms.filter(t => {
             const parts = t.split(/\s+/);
-            return parts.every(p => paraLocs.some(l => norm(words[l]) === p));
+            return parts.every(p => normedPara.includes(p));
           }).length;
           const totalHits = paraLocs.length;
 
@@ -747,8 +748,13 @@
         }
       }
 
-      currentHits = hits;
-      applyFiltersAndSort(hits);
+      // AND semantics: only show paragraphs containing all search terms
+      const filtered = searchTerms.length > 0
+        ? hits.filter(h => h.termCount === searchTerms.length)
+        : hits;
+
+      currentHits = filtered;
+      applyFiltersAndSort(filtered);
     }
 
     // --- Filter, sort, render ---

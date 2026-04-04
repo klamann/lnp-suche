@@ -216,20 +216,18 @@ for (let i = 0; i < top.length; i++) {
   console.log(`  [${i}] tc=${r.termCount} ${r.title} | ${r.snippet.substring(0, 60).trim()}`);
 }
 
-// termCount distribution
-const tcCounts = {};
-for (const r of multiResults) tcCounts[r.termCount] = (tcCounts[r.termCount] || 0) + 1;
-console.log(`\n  termCount distribution: ${JSON.stringify(tcCounts)}`);
-
-// All termCount=2 results should appear before any termCount=1
-const firstTc1 = multiResults.findIndex(r => r.termCount < 2);
-const lastTc2 = multiResults.map(r => r.termCount).lastIndexOf(2);
-console.log(`  first tc<2 at index: ${firstTc1}, last tc=2 at index: ${lastTc2}`);
+// AND semantics: all results must contain both search terms
+const allHaveBothTerms = multiResults.every(r => r.termCount === 2);
+assert(
+  "all results contain both search terms (AND)",
+  allHaveBothTerms,
+  `found results with termCount < 2`,
+);
 
 assert(
-  "all multi-term hits sorted before single-term hits",
-  lastTc2 < firstTc1 || lastTc2 === -1,
-  `last tc=2 at ${lastTc2}, first tc<2 at ${firstTc1}`,
+  "multi-term search returns results",
+  multiResults.length > 0,
+  "got 0 results",
 );
 
 // ---- Test: snippet quality — multi-term snippets should show all terms ----
@@ -494,6 +492,22 @@ assert(
   "quoted phrase search returns results",
   quotedResults.length > 0,
   "got 0 results",
+);
+
+// Quoted phrase search must return <= unquoted (it's stricter)
+assert(
+  "quoted results <= unquoted results",
+  quotedResults.length <= unquotedResults.length,
+  `quoted=${quotedResults.length}, unquoted=${unquotedResults.length}`,
+);
+
+// Reverse word order should return same count as forward order
+const reverseResults = await searchAndReadDOM(page, "blockchains fünf");
+console.log(`  Reverse "blockchains fünf": ${reverseResults.length} results`);
+assert(
+  "reverse word order returns same count",
+  reverseResults.length === unquotedResults.length,
+  `forward=${unquotedResults.length}, reverse=${reverseResults.length}`,
 );
 
 // Every result from a quoted search should contain the exact phrase

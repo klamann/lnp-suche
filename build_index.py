@@ -152,6 +152,9 @@ def main() -> None:
     parser.add_argument(
         "--dist-dir", default="dist", help="Output directory (default: dist)"
     )
+    parser.add_argument(
+        "--skip-index", action="store_true", help="Skip Pagefind index rebuild (reuse existing index)"
+    )
     args = parser.parse_args()
 
     metadata_file = Path(args.metadata_file)
@@ -170,7 +173,19 @@ def main() -> None:
 
     # 2. Clean and create dist directory
     if dist_dir.exists():
-        shutil.rmtree(dist_dir)
+        if args.skip_index:
+            # Preserve existing Pagefind index, only clean generated content
+            episodes_dir = dist_dir / "episodes"
+            if episodes_dir.exists():
+                shutil.rmtree(episodes_dir)
+            for item in dist_dir.iterdir():
+                if item.name != "pagefind":
+                    if item.is_dir():
+                        shutil.rmtree(item)
+                    else:
+                        item.unlink()
+        else:
+            shutil.rmtree(dist_dir)
     episodes_dir = dist_dir / "episodes"
     episodes_dir.mkdir(parents=True)
 
@@ -216,15 +231,18 @@ def main() -> None:
         print(f"Injected {len(speakers)} speakers into {index_html}")
 
     # 6. Run Pagefind
-    npx = shutil.which("npx")
-    if npx is None and sys.platform == "win32":
-        npx = shutil.which("npx.cmd")
-    if npx is None:
-        npx = "npx"
+    if args.skip_index:
+        print("Skipping Pagefind index rebuild (--skip-index)")
+    else:
+        npx = shutil.which("npx")
+        if npx is None and sys.platform == "win32":
+            npx = shutil.which("npx.cmd")
+        if npx is None:
+            npx = "npx"
 
-    cmd = [npx, "pagefind", "--site", str(dist_dir), "--force-language", "de"]
-    print(f"Running: {' '.join(cmd)}")
-    result = subprocess.run(cmd, check=True)
+        cmd = [npx, "pagefind", "--site", str(dist_dir), "--force-language", "de"]
+        print(f"Running: {' '.join(cmd)}")
+        result = subprocess.run(cmd, check=True)
 
 
 if __name__ == "__main__":

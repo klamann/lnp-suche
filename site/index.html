@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>LNP Suche — Logbuch:Netzpolitik Transkript-Suche</title>
+  <title>LNP Suche</title>
   <style>
     body {
       max-width: 800px;
@@ -21,13 +21,59 @@
       margin-top: 0;
     }
 
+    #search-wrapper {
+      position: relative;
+    }
+
     #search-input {
       width: 100%;
       font-size: 1.2em;
       padding: 12px;
+      padding-right: 40px;
       border-radius: 8px;
       border: 2px solid #ccc;
       box-sizing: border-box;
+      transition: border-color 0.15s;
+    }
+
+    #search-input:focus {
+      outline: none;
+      border-color: #4a90d9;
+      box-shadow: 0 0 0 3px rgba(74, 144, 217, 0.15);
+    }
+
+    #clear-btn {
+      position: absolute;
+      right: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      font-size: 1.2em;
+      color: #999;
+      cursor: pointer;
+      padding: 4px 8px;
+      line-height: 1;
+      display: none;
+    }
+
+    #clear-btn:hover {
+      color: #333;
+    }
+
+    #sticky-bar {
+      position: sticky;
+      top: 0;
+      background: #fff;
+      z-index: 20;
+      padding: 0.75rem 0;
+      margin: 0 -1rem;
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+
+    #sticky-bar.scrolled {
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     }
 
     #controls {
@@ -35,16 +81,25 @@
       flex-wrap: wrap;
       gap: 0.5em;
       margin-top: 0.75em;
-      align-items: flex-start;
+      align-items: center;
     }
 
-    #controls select {
-      padding: 6px 10px;
+    #controls select, #date-range input[type="date"] {
+      height: 34px;
+      padding: 0 10px;
       border-radius: 6px;
       border: 2px solid #ccc;
       font-size: 0.9em;
       background: #fff;
       cursor: pointer;
+      box-sizing: border-box;
+      transition: border-color 0.15s;
+    }
+
+    #controls select:focus, #date-range input[type="date"]:focus {
+      outline: none;
+      border-color: #4a90d9;
+      box-shadow: 0 0 0 3px rgba(74, 144, 217, 0.15);
     }
 
     #date-range {
@@ -57,25 +112,27 @@
       display: flex;
     }
 
-    #date-range input[type="date"] {
-      padding: 5px 8px;
-      border-radius: 6px;
-      border: 2px solid #ccc;
-      font-size: 0.85em;
-    }
-
     #speaker-filter {
       position: relative;
     }
 
     #speaker-btn {
-      padding: 6px 10px;
+      height: 34px;
+      padding: 0 10px;
       border-radius: 6px;
       border: 2px solid #ccc;
       font-size: 0.9em;
       background: #fff;
       cursor: pointer;
       white-space: nowrap;
+      box-sizing: border-box;
+      transition: border-color 0.15s;
+    }
+
+    #speaker-btn:focus {
+      outline: none;
+      border-color: #4a90d9;
+      box-shadow: 0 0 0 3px rgba(74, 144, 217, 0.15);
     }
 
     #speaker-panel {
@@ -163,6 +220,11 @@
 
     .result-title a {
       color: #1a0dab;
+      text-decoration: none;
+    }
+
+    .result-title a:hover {
+      text-decoration: underline;
     }
 
     .result-date {
@@ -189,7 +251,7 @@
     }
 
     .result-snippet a:hover {
-      text-decoration: underline;
+      text-decoration: none;
     }
 
     footer {
@@ -203,33 +265,38 @@
 </head>
 <body>
   <header>
-    <h1>Logbuch:Netzpolitik Suche</h1>
-    <p>Volltextsuche in Podcast-Transkripten</p>
+    <h1><a href="/" id="home-link" style="color: inherit; text-decoration: none;">Logbuch:Netzpolitik Suche</a></h1>
+    <p>Volltextsuche in Podcast-Transkripten. Inoffizielles Fan-Projekt.</p>
   </header>
 
   <main>
-    <input type="search" id="search-input" placeholder="Suchbegriff eingeben…" autofocus>
-    <div id="controls">
-      <select id="sort-select">
-        <option value="relevance" selected>Relevanz</option>
-        <option value="date-desc">Neueste zuerst</option>
-        <option value="date-asc">Älteste zuerst</option>
-      </select>
-      <select id="date-filter">
-        <option value="all" selected>Zeitraum: Alle</option>
-        <option value="week">Letzte Woche</option>
-        <option value="month">Letzter Monat</option>
-        <option value="year">Letztes Jahr</option>
-        <option value="custom">Benutzerdefiniert…</option>
-      </select>
-      <div id="date-range">
-        <input type="date" id="date-from" title="Von">
-        <span>–</span>
-        <input type="date" id="date-to" title="Bis">
+    <div id="sticky-bar">
+      <div id="search-wrapper">
+        <input type="search" id="search-input" placeholder="Suchbegriff eingeben…" autofocus>
+        <button id="clear-btn" type="button" title="Suche leeren (Esc)">&#x2715;</button>
       </div>
-      <div id="speaker-filter">
-        <button id="speaker-btn" type="button">Sprecher: Alle</button>
-        <div id="speaker-panel"></div>
+      <div id="controls">
+        <select id="sort-select">
+          <option value="relevance" selected>Relevanz</option>
+          <option value="date-desc">Neueste zuerst</option>
+          <option value="date-asc">Älteste zuerst</option>
+        </select>
+        <select id="date-filter">
+          <option value="all" selected>Zeitraum: Alle</option>
+          <option value="week">Letzte Woche</option>
+          <option value="month">Letzter Monat</option>
+          <option value="year">Letztes Jahr</option>
+          <option value="custom">Benutzerdefiniert…</option>
+        </select>
+        <div id="date-range">
+          <input type="date" id="date-from" title="Von">
+          <span>–</span>
+          <input type="date" id="date-to" title="Bis">
+        </div>
+        <div id="speaker-filter">
+          <button id="speaker-btn" type="button">Sprecher: Alle</button>
+          <div id="speaker-panel"></div>
+        </div>
       </div>
     </div>
     <div id="result-count"></div>
@@ -239,7 +306,7 @@
   <footer>
     <p>
       Podcast: <a href="https://logbuch-netzpolitik.de" target="_blank" rel="noopener">logbuch-netzpolitik.de</a>
-      — Die Transkripte werden automatisch erstellt und können Fehler enthalten.
+      - Die Transkripte werden automatisch erstellt und können Fehler enthalten.
     </p>
   </footer>
 
@@ -258,6 +325,8 @@
     }
 
     const input = document.getElementById("search-input");
+    const clearBtn = document.getElementById("clear-btn");
+    const stickyBar = document.getElementById("sticky-bar");
     const resultsContainer = document.getElementById("results");
     const resultCountEl = document.getElementById("result-count");
     const sortSelect = document.getElementById("sort-select");
@@ -270,12 +339,69 @@
 
     let currentHits = [];
 
+    // --- Clear button ---
+    function updateClearBtn() {
+      clearBtn.style.display = input.value ? "block" : "none";
+    }
+    function clearSearch() {
+      suppressHistory = true;
+      input.value = "";
+      updateClearBtn();
+      resultsContainer.innerHTML = "";
+      resultCountEl.textContent = "";
+      currentHits = [];
+      updateSpeakerCounts([]);
+      updateTitle();
+      suppressHistory = false;
+      clearTimeout(historyTimer);
+      isTyping = false;
+      history.pushState(null, "", buildUrl());
+      lastPushedSearch = new URL(location.href).search;
+      input.focus();
+    }
+    clearBtn.addEventListener("click", clearSearch);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && input.value) clearSearch();
+    });
+
+    // --- Home link: clear everything ---
+    document.getElementById("home-link").addEventListener("click", (e) => {
+      e.preventDefault();
+      suppressHistory = true;
+      input.value = "";
+      updateClearBtn();
+      sortSelect.value = "relevance";
+      dateFilter.value = "all";
+      dateRange.classList.remove("visible");
+      dateFrom.value = "";
+      dateTo.value = "";
+      for (const cb of speakerPanel.querySelectorAll("input[type=checkbox]")) cb.checked = true;
+      resultsContainer.innerHTML = "";
+      resultCountEl.textContent = "";
+      currentHits = [];
+      updateSpeakerCounts([]);
+      updateTitle();
+      suppressHistory = false;
+      clearTimeout(historyTimer);
+      isTyping = false;
+      history.pushState(null, "", location.pathname);
+      lastPushedSearch = "";
+      input.focus();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+
+    // --- Sticky bar scroll shadow ---
+    window.addEventListener("scroll", () => {
+      stickyBar.classList.toggle("scrolled", window.scrollY > 10);
+    }, { passive: true });
+
     // --- Speaker panel setup ---
     function setSpeakerChecks(checked) {
       for (const cb of speakerPanel.querySelectorAll("input[type=checkbox]")) {
         cb.checked = checked;
       }
       applyFiltersAndSort(currentHits);
+      commitHistory();
     }
 
     function populateSpeakerPanel() {
@@ -297,7 +423,7 @@
         cb.type = "checkbox";
         cb.checked = true;
         cb.value = name;
-        cb.addEventListener("change", () => applyFiltersAndSort(currentHits));
+        cb.addEventListener("change", () => { applyFiltersAndSort(currentHits); commitHistory(); });
         const nameSpan = document.createElement("span");
         nameSpan.className = "speaker-name";
         nameSpan.textContent = " " + name;
@@ -328,17 +454,82 @@
     dateFilter.addEventListener("change", () => {
       dateRange.classList.toggle("visible", dateFilter.value === "custom");
       applyFiltersAndSort(currentHits);
+      commitHistory();
     });
-    dateFrom.addEventListener("change", () => applyFiltersAndSort(currentHits));
-    dateTo.addEventListener("change", () => applyFiltersAndSort(currentHits));
+    dateFrom.addEventListener("change", () => { applyFiltersAndSort(currentHits); commitHistory(); });
+    dateTo.addEventListener("change", () => { applyFiltersAndSort(currentHits); commitHistory(); });
 
     // Sort change
-    sortSelect.addEventListener("change", () => applyFiltersAndSort(currentHits));
+    sortSelect.addEventListener("change", () => { applyFiltersAndSort(currentHits); commitHistory(); });
+
+    // --- URL state / history ---
+    // Track the query string of the last stabilized history entry so we know
+    // when a new entry is needed.  `isTyping` prevents replaceState from
+    // overwriting the *previous* entry: on the first change after stabilization
+    // we pushState (creating a fresh entry), then replaceState updates only
+    // the new entry while typing continues.
+    let lastPushedSearch = location.search;
+    let historyTimer;
+    let isTyping = false;
+    let suppressHistory = false;
+
+    function buildUrl() {
+      const params = new URLSearchParams();
+      if (input.value.trim()) params.set("q", input.value.trim());
+      if (sortSelect.value !== "relevance") params.set("sort", sortSelect.value);
+      if (dateFilter.value !== "all") params.set("date", dateFilter.value);
+      if (dateFilter.value === "custom") {
+        if (dateFrom.value) params.set("from", dateFrom.value);
+        if (dateTo.value) params.set("to", dateTo.value);
+      }
+      const checked = speakerPanel.querySelectorAll("input[type=checkbox]");
+      const unchecked = [...checked].filter(cb => !cb.checked).map(cb => cb.value);
+      if (unchecked.length > 0 && unchecked.length < SPEAKERS.length) {
+        params.set("exclude", unchecked.join(","));
+      } else if (unchecked.length === SPEAKERS.length) {
+        params.set("exclude", "*");
+      }
+      const qs = params.toString();
+      return qs ? `?${qs}` : location.pathname;
+    }
+
+    function updateTitle() {
+      const q = input.value.trim();
+      document.title = q ? `${q} - LNP Suche` : "LNP Suche";
+    }
+
+    function syncUrl() {
+      updateTitle();
+      if (suppressHistory) return;
+      const url = buildUrl();
+      const newSearch = new URL(url, location.href).search;
+      if (newSearch !== lastPushedSearch && !isTyping) {
+        // First change since last stabilization — push to preserve previous entry
+        isTyping = true;
+        history.pushState(null, "", url);
+      } else {
+        // Subsequent changes while typing — update the current (new) entry
+        history.replaceState(null, "", url);
+      }
+      clearTimeout(historyTimer);
+      historyTimer = setTimeout(() => {
+        isTyping = false;
+        lastPushedSearch = new URL(location.href).search;
+      }, 1500);
+    }
+
+    function commitHistory() {
+      // Finalize for discrete actions — syncUrl already pushed if needed
+      clearTimeout(historyTimer);
+      isTyping = false;
+      lastPushedSearch = new URL(location.href).search;
+    }
 
     // --- Search ---
     let debounceTimer;
     input.addEventListener("input", () => {
       clearTimeout(debounceTimer);
+      updateClearBtn();
       debounceTimer = setTimeout(() => performSearch(input.value), 200);
     });
 
@@ -346,7 +537,11 @@
       resultsContainer.innerHTML = "";
       resultCountEl.textContent = "";
       currentHits = [];
-      if (!query.trim() || !pagefind) return;
+      if (!query.trim() || !pagefind) {
+        syncUrl();
+        return;
+      }
+      window.scrollTo({ top: 0, behavior: "smooth" });
 
       const search = await pagefind.search(query);
 
@@ -458,6 +653,7 @@
 
     // --- Filter, sort, render ---
     function applyFiltersAndSort(hits) {
+      syncUrl();
       if (!hits.length) {
         resultsContainer.innerHTML = "";
         resultCountEl.textContent = "";
@@ -615,6 +811,42 @@
     function escapeAttr(text) {
       return text.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
     }
+
+    // --- Restore state from URL ---
+    function restoreFromUrl() {
+      const params = new URLSearchParams(location.search);
+      const q = params.get("q") || "";
+      sortSelect.value = params.get("sort") || "relevance";
+      dateFilter.value = params.get("date") || "all";
+      dateRange.classList.toggle("visible", dateFilter.value === "custom");
+      dateFrom.value = params.get("from") || "";
+      dateTo.value = params.get("to") || "";
+      const exclude = params.get("exclude");
+      const excluded = exclude ? (exclude === "*" ? new Set(SPEAKERS) : new Set(exclude.split(","))) : new Set();
+      for (const cb of speakerPanel.querySelectorAll("input[type=checkbox]")) {
+        cb.checked = !excluded.has(cb.value);
+      }
+      input.value = q;
+      updateClearBtn();
+      if (q) {
+        performSearch(q);
+      } else {
+        resultsContainer.innerHTML = "";
+        resultCountEl.textContent = "";
+        currentHits = [];
+      }
+    }
+
+    // Back/forward navigation
+    window.addEventListener("popstate", () => {
+      lastPushedSearch = location.search;
+      isTyping = false;
+      restoreFromUrl();
+    });
+
+    // Initial load
+    restoreFromUrl();
+    lastPushedSearch = location.search;
   </script>
 </body>
 </html>

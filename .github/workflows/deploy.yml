@@ -28,7 +28,7 @@ jobs:
         uses: astral-sh/setup-uv@v4
 
       - name: Fetch transcripts and metadata
-        run: uv run fetch_transcripts.py --feed-file feed.xml --metadata-file meta.json
+        run: uv run fetch_transcripts.py --feed-file feed.xml --metadata-file meta.json --limit 10
 
       - name: Commit new transcripts and metadata
         run: |

@@ -210,24 +210,46 @@ def download_transcripts(
     )
 
 
+VOICE_TAG_RE = re.compile(r"<v\s+([^>]+)>")
+
+
+def collect_speakers(output_dir: Path) -> list[dict]:
+    """Scan all VTT files and count cues per speaker, sorted by frequency."""
+    counts: dict[str, int] = {}
+    for vtt_path in sorted(output_dir.glob("*.vtt")):
+        for line in vtt_path.read_text(encoding="utf-8").splitlines():
+            m = VOICE_TAG_RE.search(line)
+            if m:
+                counts[m.group(1)] = counts.get(m.group(1), 0) + 1
+    return [
+        {"name": name, "cue_count": count}
+        for name, count in sorted(counts.items(), key=lambda x: x[1], reverse=True)
+    ]
+
+
 def write_metadata(episodes: list[Episode], metadata_file: Path, output_dir: Path) -> None:
-    data = []
+    episode_data = []
     for ep in sorted(episodes, key=lambda e: e.number, reverse=True):
         vtt_path = output_dir / f"{ep.number:03d}.vtt"
         has_transcript = vtt_path.exists() and vtt_path.stat().st_size > 0
-        data.append({
+        episode_data.append({
             "number": ep.number,
             "title": ep.title,
             "url": ep.url,
             "date": ep.date,
             "has_transcript": has_transcript,
         })
+    speakers = collect_speakers(output_dir)
+    data = {
+        "episodes": episode_data,
+        "speakers": speakers,
+    }
     metadata_file.parent.mkdir(parents=True, exist_ok=True)
     metadata_file.write_text(
         json.dumps(data, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    print(f"Metadata written to {metadata_file} ({len(data)} episodes)")
+    print(f"Metadata written to {metadata_file} ({len(episode_data)} episodes, {len(speakers)} speakers)")
 
 
 def main(
@@ -237,7 +259,7 @@ def main(
     limit: int = typer.Option(0, help="Max episodes to process (0 = all)"),
     feed_file: Optional[Path] = typer.Option(None, help="Save RSS XML to this path"),
     metadata_file: Optional[Path] = typer.Option(
-        Path("episodes.json"), help="Write episode metadata JSON to this path"
+        Path("meta.json"), help="Write episode metadata JSON to this path"
     ),
 ) -> None:
     print(f"Fetching feed from {FEED_URL} ...")

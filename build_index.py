@@ -141,7 +141,7 @@ def main() -> None:
         description="Convert VTT transcripts to HTML and build Pagefind search index."
     )
     parser.add_argument(
-        "--metadata-file", default="episodes.json", help="Episode metadata JSON (default: episodes.json)"
+        "--metadata-file", default="meta.json", help="Episode metadata JSON (default: meta.json)"
     )
     parser.add_argument(
         "--transcripts-dir", default="transcripts", help="VTT files directory (default: transcripts)"
@@ -159,12 +159,14 @@ def main() -> None:
     site_dir = Path(args.site_dir)
     dist_dir = Path(args.dist_dir)
 
-    # 1. Read episodes.json
+    # 1. Read meta.json
     if not metadata_file.exists():
         print(f"Error: metadata file not found: {metadata_file}", file=sys.stderr)
         sys.exit(1)
 
-    episodes = json.loads(metadata_file.read_text(encoding="utf-8"))
+    meta = json.loads(metadata_file.read_text(encoding="utf-8"))
+    episodes = meta["episodes"]
+    speakers = [s["name"] for s in meta.get("speakers", [])]
 
     # 2. Clean and create dist directory
     if dist_dir.exists():
@@ -204,7 +206,16 @@ def main() -> None:
     else:
         print(f"Warning: site directory not found: {site_dir}", file=sys.stderr)
 
-    # 5. Run Pagefind
+    # 5. Inject speaker data into index.html
+    index_html = dist_dir / "index.html"
+    if index_html.exists() and speakers:
+        content = index_html.read_text(encoding="utf-8")
+        speakers_json = json.dumps(speakers, ensure_ascii=False)
+        content = content.replace("/*SPEAKERS_DATA*/[]", speakers_json)
+        index_html.write_text(content, encoding="utf-8")
+        print(f"Injected {len(speakers)} speakers into {index_html}")
+
+    # 6. Run Pagefind
     npx = shutil.which("npx")
     if npx is None and sys.platform == "win32":
         npx = shutil.which("npx.cmd")

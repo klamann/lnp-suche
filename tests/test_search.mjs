@@ -229,6 +229,167 @@ assert(
   `last tc=2 at ${lastTc2}, first tc<2 at ${firstTc1}`,
 );
 
+// ---- Test: sort by date ----
+
+console.log("\n== DOM test: sort by date ==");
+
+// Search, then switch to date-desc
+const sortResults = await searchAndReadDOM(page, "chatkontrolle");
+console.log(`  Results before sort change: ${sortResults.length}`);
+
+await page.select("#sort-select", "date-desc");
+await new Promise(r => setTimeout(r, 500));
+const dateDescResults = await page.evaluate(() => {
+  return Array.from(document.querySelectorAll(".result-item")).map(el => ({
+    date: el.querySelector(".result-date")?.textContent || "",
+  }));
+});
+
+let dateDescOk = true;
+for (let i = 1; i < dateDescResults.length; i++) {
+  if (dateDescResults[i].date > dateDescResults[i - 1].date) {
+    dateDescOk = false;
+    break;
+  }
+}
+console.log(`  date-desc results: ${dateDescResults.length}`);
+assert("date-desc: dates are non-increasing", dateDescOk);
+
+// Switch to date-asc
+await page.select("#sort-select", "date-asc");
+await new Promise(r => setTimeout(r, 500));
+const dateAscResults = await page.evaluate(() => {
+  return Array.from(document.querySelectorAll(".result-item")).map(el => ({
+    date: el.querySelector(".result-date")?.textContent || "",
+  }));
+});
+
+let dateAscOk = true;
+for (let i = 1; i < dateAscResults.length; i++) {
+  if (dateAscResults[i].date < dateAscResults[i - 1].date) {
+    dateAscOk = false;
+    break;
+  }
+}
+assert("date-asc: dates are non-decreasing", dateAscOk);
+
+// Reset sort
+await page.select("#sort-select", "relevance");
+await new Promise(r => setTimeout(r, 500));
+
+// ---- Test: date filter ----
+
+console.log("\n== DOM test: date filter ==");
+
+// Filter to last year
+await page.select("#date-filter", "year");
+await new Promise(r => setTimeout(r, 500));
+const yearResults = await page.evaluate(() => {
+  return Array.from(document.querySelectorAll(".result-item")).map(el => ({
+    date: el.querySelector(".result-date")?.textContent || "",
+  }));
+});
+
+const oneYearAgo = new Date();
+oneYearAgo.setFullYear(oneYearAgo.getFullYear() - 1);
+const oneYearAgoStr = oneYearAgo.toISOString().slice(0, 10);
+const allDatesInRange = yearResults.every(r => r.date >= oneYearAgoStr);
+console.log(`  year filter results: ${yearResults.length}, cutoff: ${oneYearAgoStr}`);
+assert("date filter 'year': all dates within last year", allDatesInRange);
+
+// Reset to all
+await page.select("#date-filter", "all");
+await new Promise(r => setTimeout(r, 500));
+const allResults = await page.evaluate(() => {
+  return Array.from(document.querySelectorAll(".result-item")).map(el => ({
+    date: el.querySelector(".result-date")?.textContent || "",
+  }));
+});
+
+const dates = allResults.map(r => r.date).filter(Boolean);
+const dateSpan = dates.length > 0 ? dates[0] > dates[dates.length - 1] : false;
+const minDate = dates.reduce((a, b) => a < b ? a : b, "9999");
+const maxDate = dates.reduce((a, b) => a > b ? a : b, "0000");
+const spanDays = (new Date(maxDate) - new Date(minDate)) / 86400000;
+console.log(`  all filter results: ${allResults.length}, date range: ${minDate} to ${maxDate} (${Math.round(spanDays)} days)`);
+assert("date filter 'all': results span more than 1 year", spanDays > 365);
+
+assert("year filter returns fewer results than all", yearResults.length < allResults.length);
+
+// ---- Test: speaker filter ----
+
+console.log("\n== DOM test: speaker filter ==");
+
+// Get speaker counts from panel
+const speakerInfo = await page.evaluate(() => {
+  const labels = document.querySelectorAll("#speaker-panel label");
+  return Array.from(labels).slice(0, 5).map(l => ({
+    name: l.querySelector(".speaker-name")?.textContent?.trim() || "",
+    count: l.querySelector(".speaker-count")?.textContent?.trim() || "",
+    checked: l.querySelector("input")?.checked || false,
+  }));
+});
+console.log(`  Top speakers: ${speakerInfo.map(s => `${s.name} ${s.count}`).join(", ")}`);
+
+assert(
+  "speaker counts shown after search",
+  speakerInfo.some(s => s.count && s.count !== "(0)"),
+  `counts: ${speakerInfo.map(s => s.count).join(", ")}`,
+);
+
+// Uncheck all speakers, then check only one
+const targetSpeaker = "Linus Neumann";
+await page.evaluate((target) => {
+  const cbs = document.querySelectorAll("#speaker-panel input[type=checkbox]");
+  for (const cb of cbs) {
+    cb.checked = cb.value === target;
+  }
+  // Trigger change on last one to re-render
+  cbs[0].dispatchEvent(new Event("change"));
+}, targetSpeaker);
+await new Promise(r => setTimeout(r, 500));
+
+const filteredResults = await page.evaluate(() => {
+  return Array.from(document.querySelectorAll(".result-item")).map(el => ({
+    snippet: el.querySelector(".result-snippet")?.textContent || "",
+  }));
+});
+
+console.log(`  Filtered to "${targetSpeaker}": ${filteredResults.length} results`);
+
+const allMatchSpeaker = filteredResults.every(r => {
+  const parts = r.snippet.split(": ");
+  return parts.length >= 2 && parts[0].trim() === targetSpeaker;
+});
+assert(
+  `all filtered results are by ${targetSpeaker}`,
+  allMatchSpeaker,
+  `first non-match: ${filteredResults.find(r => !r.snippet.startsWith(targetSpeaker))?.snippet?.substring(0, 80)}`,
+);
+
+assert(
+  "speaker filter reduces result count",
+  filteredResults.length < allResults.length,
+  `filtered: ${filteredResults.length}, all: ${allResults.length}`,
+);
+
+// Re-check all speakers
+await page.evaluate(() => {
+  const cbs = document.querySelectorAll("#speaker-panel input[type=checkbox]");
+  for (const cb of cbs) cb.checked = true;
+  cbs[0].dispatchEvent(new Event("change"));
+});
+await new Promise(r => setTimeout(r, 500));
+
+const restoredCount = await page.evaluate(() =>
+  document.querySelectorAll(".result-item").length
+);
+assert(
+  "re-checking all speakers restores full results",
+  restoredCount === allResults.length,
+  `restored: ${restoredCount}, expected: ${allResults.length}`,
+);
+
 // ---- Cleanup ----
 
 await browser.close();

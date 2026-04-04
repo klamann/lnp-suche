@@ -1,7 +1,7 @@
 .PHONY: fetch build test serve install-test-deps
 
 fetch:
-	uv run fetch_transcripts.py --feed-file feed.xml --metadata-file episodes.json
+	uv run fetch_transcripts.py --feed-file feed.xml --metadata-file meta.json
 
 build:
 	uv run build_index.py

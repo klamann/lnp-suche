@@ -30,6 +30,116 @@
       box-sizing: border-box;
     }
 
+    #controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5em;
+      margin-top: 0.75em;
+      align-items: flex-start;
+    }
+
+    #controls select {
+      padding: 6px 10px;
+      border-radius: 6px;
+      border: 2px solid #ccc;
+      font-size: 0.9em;
+      background: #fff;
+      cursor: pointer;
+    }
+
+    #date-range {
+      display: none;
+      gap: 0.4em;
+      align-items: center;
+    }
+
+    #date-range.visible {
+      display: flex;
+    }
+
+    #date-range input[type="date"] {
+      padding: 5px 8px;
+      border-radius: 6px;
+      border: 2px solid #ccc;
+      font-size: 0.85em;
+    }
+
+    #speaker-filter {
+      position: relative;
+    }
+
+    #speaker-btn {
+      padding: 6px 10px;
+      border-radius: 6px;
+      border: 2px solid #ccc;
+      font-size: 0.9em;
+      background: #fff;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    #speaker-panel {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      margin-top: 4px;
+      background: #fff;
+      border: 2px solid #ccc;
+      border-radius: 6px;
+      padding: 0.5em;
+      max-height: 300px;
+      overflow-y: auto;
+      z-index: 10;
+      min-width: 220px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    #speaker-panel.open {
+      display: block;
+    }
+
+    #speaker-toggle {
+      display: flex;
+      gap: 0.5em;
+      padding: 2px 4px 6px;
+      border-bottom: 1px solid #eee;
+      margin-bottom: 4px;
+      font-size: 0.85em;
+    }
+
+    #speaker-toggle a {
+      color: #1a0dab;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    #speaker-toggle a:hover {
+      text-decoration: underline;
+    }
+
+    #speaker-panel label {
+      display: block;
+      padding: 3px 4px;
+      cursor: pointer;
+      white-space: nowrap;
+      font-size: 0.9em;
+      border-radius: 3px;
+    }
+
+    #speaker-panel label:hover {
+      background: #f5f5f5;
+    }
+
+    #speaker-panel label.zero-results {
+      color: #aaa;
+    }
+
+    .speaker-count {
+      color: #999;
+      font-size: 0.85em;
+    }
+
     #result-count {
       color: #666;
       font-size: 0.9em;
@@ -99,6 +209,29 @@
 
   <main>
     <input type="search" id="search-input" placeholder="Suchbegriff eingeben…" autofocus>
+    <div id="controls">
+      <select id="sort-select">
+        <option value="relevance" selected>Relevanz</option>
+        <option value="date-desc">Neueste zuerst</option>
+        <option value="date-asc">Älteste zuerst</option>
+      </select>
+      <select id="date-filter">
+        <option value="all" selected>Zeitraum: Alle</option>
+        <option value="week">Letzte Woche</option>
+        <option value="month">Letzter Monat</option>
+        <option value="year">Letztes Jahr</option>
+        <option value="custom">Benutzerdefiniert…</option>
+      </select>
+      <div id="date-range">
+        <input type="date" id="date-from" title="Von">
+        <span>–</span>
+        <input type="date" id="date-to" title="Bis">
+      </div>
+      <div id="speaker-filter">
+        <button id="speaker-btn" type="button">Sprecher: Alle</button>
+        <div id="speaker-panel"></div>
+      </div>
+    </div>
     <div id="result-count"></div>
     <div id="results"></div>
   </main>
@@ -111,6 +244,9 @@
   </footer>
 
   <script type="module">
+    // Speaker list injected at build time by build_index.py
+    const SPEAKERS = /*SPEAKERS_DATA*/[];
+
     // Load Pagefind - wrap in try/catch for local dev without index
     let pagefind;
     try {
@@ -123,18 +259,93 @@
 
     const input = document.getElementById("search-input");
     const resultsContainer = document.getElementById("results");
+    const resultCountEl = document.getElementById("result-count");
+    const sortSelect = document.getElementById("sort-select");
+    const dateFilter = document.getElementById("date-filter");
+    const dateRange = document.getElementById("date-range");
+    const dateFrom = document.getElementById("date-from");
+    const dateTo = document.getElementById("date-to");
+    const speakerBtn = document.getElementById("speaker-btn");
+    const speakerPanel = document.getElementById("speaker-panel");
 
+    let currentHits = [];
+
+    // --- Speaker panel setup ---
+    function setSpeakerChecks(checked) {
+      for (const cb of speakerPanel.querySelectorAll("input[type=checkbox]")) {
+        cb.checked = checked;
+      }
+      applyFiltersAndSort(currentHits);
+    }
+
+    function populateSpeakerPanel() {
+      speakerPanel.innerHTML = "";
+      const toggleDiv = document.createElement("div");
+      toggleDiv.id = "speaker-toggle";
+      const selectAll = document.createElement("a");
+      selectAll.textContent = "Alle";
+      selectAll.addEventListener("click", () => setSpeakerChecks(true));
+      const selectNone = document.createElement("a");
+      selectNone.textContent = "Keine";
+      selectNone.addEventListener("click", () => setSpeakerChecks(false));
+      toggleDiv.appendChild(selectAll);
+      toggleDiv.appendChild(selectNone);
+      speakerPanel.appendChild(toggleDiv);
+      for (const name of SPEAKERS) {
+        const label = document.createElement("label");
+        const cb = document.createElement("input");
+        cb.type = "checkbox";
+        cb.checked = true;
+        cb.value = name;
+        cb.addEventListener("change", () => applyFiltersAndSort(currentHits));
+        const nameSpan = document.createElement("span");
+        nameSpan.className = "speaker-name";
+        nameSpan.textContent = " " + name;
+        const countSpan = document.createElement("span");
+        countSpan.className = "speaker-count";
+        label.appendChild(cb);
+        label.appendChild(nameSpan);
+        label.appendChild(countSpan);
+        speakerPanel.appendChild(label);
+      }
+    }
+    populateSpeakerPanel();
+
+    // Toggle speaker panel
+    speakerBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      speakerPanel.classList.toggle("open");
+    });
+
+    // Close speaker panel on outside click
+    document.addEventListener("click", (e) => {
+      if (!speakerPanel.contains(e.target) && e.target !== speakerBtn) {
+        speakerPanel.classList.remove("open");
+      }
+    });
+
+    // --- Date filter: show/hide custom range ---
+    dateFilter.addEventListener("change", () => {
+      dateRange.classList.toggle("visible", dateFilter.value === "custom");
+      applyFiltersAndSort(currentHits);
+    });
+    dateFrom.addEventListener("change", () => applyFiltersAndSort(currentHits));
+    dateTo.addEventListener("change", () => applyFiltersAndSort(currentHits));
+
+    // Sort change
+    sortSelect.addEventListener("change", () => applyFiltersAndSort(currentHits));
+
+    // --- Search ---
     let debounceTimer;
     input.addEventListener("input", () => {
       clearTimeout(debounceTimer);
       debounceTimer = setTimeout(() => performSearch(input.value), 200);
     });
 
-    const resultCountEl = document.getElementById("result-count");
-
     async function performSearch(query) {
       resultsContainer.innerHTML = "";
       resultCountEl.textContent = "";
+      currentHits = [];
       if (!query.trim() || !pagefind) return;
 
       const search = await pagefind.search(query);
@@ -142,6 +353,7 @@
       if (search.results.length === 0) {
         resultCountEl.textContent = "";
         resultsContainer.innerHTML = "<p>Keine Ergebnisse gefunden.</p>";
+        updateSpeakerCounts([]);
         return;
       }
 
@@ -240,13 +452,41 @@
         }
       }
 
-      // Sort so paragraphs matching more distinct terms appear first;
-      // preserve Pagefind's page rank ordering for ties.
-      hits.sort((a, b) => (b.termCount || 0) - (a.termCount || 0));
+      currentHits = hits;
+      applyFiltersAndSort(hits);
+    }
 
-      resultCountEl.textContent = `${hits.length} Treffer`;
+    // --- Filter, sort, render ---
+    function applyFiltersAndSort(hits) {
+      if (!hits.length) {
+        resultsContainer.innerHTML = "";
+        resultCountEl.textContent = "";
+        updateSpeakerCounts([]);
+        return;
+      }
 
-      for (const hit of hits) {
+      // Date filter
+      let filtered = filterByDate(hits);
+
+      // Update speaker counts from date-filtered (but not speaker-filtered) hits
+      updateSpeakerCounts(filtered);
+
+      // Speaker filter
+      filtered = filterBySpeaker(filtered);
+
+      // Sort
+      sortHits(filtered);
+
+      // Render
+      resultCountEl.textContent = `${filtered.length} Treffer`;
+      resultsContainer.innerHTML = "";
+
+      if (filtered.length === 0) {
+        resultsContainer.innerHTML = "<p>Keine Ergebnisse nach Filterung.</p>";
+        return;
+      }
+
+      for (const hit of filtered) {
         const transcriptLink = buildTranscriptLink(hit.episodeUrl, hit.excerpt);
         const speaker = hit.speaker ? `<strong>${escapeHtml(hit.speaker)}:</strong> ` : "";
 
@@ -263,6 +503,75 @@
           </div>
         `;
         resultsContainer.appendChild(item);
+      }
+    }
+
+    function filterByDate(hits) {
+      const mode = dateFilter.value;
+      if (mode === "all") return hits;
+
+      let from, to;
+      const today = new Date();
+      if (mode === "week") {
+        from = new Date(today); from.setDate(from.getDate() - 7);
+      } else if (mode === "month") {
+        from = new Date(today); from.setDate(from.getDate() - 30);
+      } else if (mode === "year") {
+        from = new Date(today); from.setFullYear(from.getFullYear() - 1);
+      } else if (mode === "custom") {
+        from = dateFrom.value ? new Date(dateFrom.value) : null;
+        to = dateTo.value ? new Date(dateTo.value) : null;
+      }
+
+      const fromStr = from ? from.toISOString().slice(0, 10) : "";
+      const toStr = to ? to.toISOString().slice(0, 10) : "9999-12-31";
+      const toFinal = mode === "custom" ? toStr : "9999-12-31";
+      const fromFinal = fromStr || "0000-01-01";
+
+      return hits.filter(h => h.date >= fromFinal && h.date <= toFinal);
+    }
+
+    function filterBySpeaker(hits) {
+      const checked = new Set();
+      for (const cb of speakerPanel.querySelectorAll("input[type=checkbox]")) {
+        if (cb.checked) checked.add(cb.value);
+      }
+      // If all checked, no filtering needed
+      if (checked.size === SPEAKERS.length) return hits;
+      return hits.filter(h => !h.speaker || checked.has(h.speaker));
+    }
+
+    function sortHits(hits) {
+      const mode = sortSelect.value;
+      if (mode === "relevance") {
+        hits.sort((a, b) => (b.termCount || 0) - (a.termCount || 0));
+      } else if (mode === "date-desc") {
+        hits.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+      } else if (mode === "date-asc") {
+        hits.sort((a, b) => (a.date || "").localeCompare(b.date || ""));
+      }
+    }
+
+    function updateSpeakerCounts(hits) {
+      const counts = {};
+      for (const h of hits) {
+        if (h.speaker) counts[h.speaker] = (counts[h.speaker] || 0) + 1;
+      }
+      let checkedCount = 0;
+      const labels = speakerPanel.querySelectorAll("label");
+      for (const label of labels) {
+        const cb = label.querySelector("input");
+        const countSpan = label.querySelector(".speaker-count");
+        const count = counts[cb.value] || 0;
+        countSpan.textContent = hits.length > 0 ? ` (${count})` : "";
+        label.classList.toggle("zero-results", hits.length > 0 && count === 0);
+        if (cb.checked) checkedCount++;
+      }
+      // Update button label
+      if (checkedCount === 0 || checkedCount === SPEAKERS.length) {
+        speakerBtn.textContent = "Sprecher: Alle";
+      } else {
+        speakerBtn.textContent = `Sprecher: ${checkedCount}/${SPEAKERS.length}`;
       }
     }
 

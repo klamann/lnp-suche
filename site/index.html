@@ -554,7 +554,16 @@
       }
       window.scrollTo({ top: 0, behavior: "smooth" });
 
-      const search = await pagefind.search(query);
+      // Pagefind's German stemmer normalizes some umlauts during indexing
+      // (e.g. fünf→funf, über→uber) but doesn't apply the same normalization
+      // to search queries, so "fünf" finds nothing while "funf" finds 489
+      // results. Work around this by normalizing umlauts in the query.
+      const normalizedQuery = query
+        .replace(/ä/g, "a").replace(/Ä/g, "A")
+        .replace(/ö/g, "o").replace(/Ö/g, "O")
+        .replace(/ü/g, "u").replace(/Ü/g, "U")
+        .replace(/ß/g, "ss");
+      const search = await pagefind.search(normalizedQuery);
 
       if (search.results.length === 0) {
         resultCountEl.textContent = "";

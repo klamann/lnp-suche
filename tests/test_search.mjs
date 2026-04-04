@@ -390,6 +390,37 @@ assert(
   `restored: ${restoredCount}, expected: ${allResults.length}`,
 );
 
+// ---- Test: quoted phrase search "fünf blockchains" ----
+
+console.log("\n== DOM test: quoted phrase search ==");
+
+// Unquoted search should find results containing both terms
+const unquotedResults = await searchAndReadDOM(page, "fünf blockchains");
+console.log(`  Unquoted "fünf blockchains": ${unquotedResults.length} results`);
+assert(
+  "unquoted 'fünf blockchains' returns results",
+  unquotedResults.length > 0,
+);
+
+// Quoted search must also return results (Pagefind supports quoted phrase search)
+const quotedResults = await searchAndReadDOM(page, '"fünf blockchains"');
+console.log(`  Quoted '"fünf blockchains"': ${quotedResults.length} results`);
+assert(
+  "quoted phrase search returns results",
+  quotedResults.length > 0,
+  "got 0 results",
+);
+
+// Every result from a quoted search should contain the exact phrase
+for (const r of quotedResults) {
+  const text = r.snippet.replace(/^[^:]+:\s*/, "").toLowerCase();
+  assert(
+    `quoted result contains exact phrase: ${r.title}`,
+    text.includes("fünf blockchains"),
+    `"${r.snippet.substring(0, 100).trim()}"`,
+  );
+}
+
 // ---- Cleanup ----
 
 await browser.close();

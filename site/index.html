@@ -646,24 +646,65 @@
           const paraLocs = locations.filter(l => l >= para.start && l < para.end);
           const offsets = new Set(paraLocs.map(l => l - para.start));
 
-          // Build excerpt, trimming long paragraphs around first match
-          let snippetWords, snippetOffsets, prefix = "", suffix = "";
-          if (paraWords.length > 40) {
-            const first = Math.min(...offsets);
-            const start = Math.max(0, first - 15);
-            const end = Math.min(paraWords.length, first + 25);
-            snippetWords = paraWords.slice(start, end);
-            snippetOffsets = new Set(paraLocs.map(l => l - para.start - start).filter(o => o >= 0 && o < snippetWords.length));
-            if (start > 0) prefix = "… ";
-            if (end < paraWords.length) suffix = " …";
+          // Build excerpt: for short paragraphs show everything, for long ones
+          // show up to 3 match windows (context ±5 words) separated by " … ".
+          let excerpt;
+          if (paraWords.length <= 40) {
+            excerpt = paraWords.map((w, i) =>
+              offsets.has(i) ? `<mark>${escapeHtml(w)}</mark>` : escapeHtml(w)
+            ).join(" ");
           } else {
-            snippetWords = paraWords;
-            snippetOffsets = offsets;
+            // Group nearby offsets into clusters (merge if gap ≤ 3 words)
+            const sorted = [...offsets].sort((a, b) => a - b);
+            const clusters = [];
+            for (const off of sorted) {
+              const last = clusters[clusters.length - 1];
+              if (last && off - last[last.length - 1] <= 3) {
+                last.push(off);
+              } else {
+                clusters.push([off]);
+              }
+            }
+            // Select up to 3 clusters, prioritizing term diversity then match count.
+            // Greedily pick clusters that cover the most uncovered search terms.
+            const best = [];
+            const coveredTerms = new Set();
+            const remaining = [...clusters];
+            while (best.length < 3 && remaining.length > 0) {
+              remaining.sort((a, b) => {
+                const aNew = a.filter(o => !coveredTerms.has(norm(paraWords[o]))).length;
+                const bNew = b.filter(o => !coveredTerms.has(norm(paraWords[o]))).length;
+                return bNew - aNew || b.length - a.length;
+              });
+              const pick = remaining.shift();
+              best.push(pick);
+              for (const o of pick) coveredTerms.add(norm(paraWords[o]));
+            }
+            best.sort((a, b) => a[0] - b[0]);
+            // Dynamic context: distribute ~40 words evenly across clusters
+            const context = Math.max(3, Math.floor(20 / best.length));
+            // Build windows, then merge overlapping/adjacent ones
+            let windows = best.map(cluster => ({
+              start: Math.max(0, cluster[0] - context),
+              end: Math.min(paraWords.length, cluster[cluster.length - 1] + context + 1),
+              matches: new Set(cluster),
+            }));
+            for (let i = 1; i < windows.length; i++) {
+              if (windows[i].start <= windows[i - 1].end + 3) {
+                windows[i - 1].end = Math.max(windows[i - 1].end, windows[i].end);
+                for (const m of windows[i].matches) windows[i - 1].matches.add(m);
+                windows.splice(i--, 1);
+              }
+            }
+            const fragments = windows.map(w =>
+              paraWords.slice(w.start, w.end).map((word, i) =>
+                w.matches.has(w.start + i) ? `<mark>${escapeHtml(word)}</mark>` : escapeHtml(word)
+              ).join(" ")
+            );
+            excerpt = (windows[0].start > 0 ? "… " : "")
+              + fragments.join(" … ")
+              + (windows[windows.length - 1].end < paraWords.length ? " …" : "");
           }
-
-          const excerpt = prefix + snippetWords.map((w, i) =>
-            snippetOffsets.has(i) ? `<mark>${escapeHtml(w)}</mark>` : escapeHtml(w)
-          ).join(" ") + suffix;
 
           const termCount = searchTerms.filter(t => {
             const parts = t.split(/\s+/);

@@ -232,6 +232,41 @@ assert(
   `last tc=2 at ${lastTc2}, first tc<2 at ${firstTc1}`,
 );
 
+// ---- Test: snippet quality — multi-term snippets should show all terms ----
+
+console.log("\n== DOM test: snippet quality ==");
+
+// For results with termCount=2, the snippet should generally contain both terms.
+// Hyphenated variants like "Chat-Kontrolle" may not match the plain text check.
+const tc2Results = multiResults.filter(r => r.termCount === 2);
+console.log(`  Checking ${tc2Results.length} results with termCount=2`);
+let bothTermsCount = 0;
+for (const r of tc2Results) {
+  const text = r.snippet.toLowerCase();
+  const hasBoth = (text.includes("chatkontrolle") || text.includes("chat-kontrolle"))
+    && text.includes("johansson");
+  if (hasBoth) bothTermsCount++;
+  console.log(`  ${hasBoth ? "ok" : "MISS"} ${r.title} | ${r.snippet.substring(0, 100).trim()}`);
+}
+assert(
+  "most tc=2 snippets show both search terms",
+  bothTermsCount >= Math.ceil(tc2Results.length * 0.8),
+  `${bothTermsCount}/${tc2Results.length} snippets show both terms`,
+);
+
+// For "kilo koks", all snippets should show both terms (they always appear together)
+const kiloSnippetCheck = await searchAndReadDOM(page, "kilo koks");
+const kiloTc2 = kiloSnippetCheck.filter(r => r.termCount === 2);
+console.log(`  "kilo koks" results with termCount=2: ${kiloTc2.length}`);
+for (const r of kiloTc2) {
+  const text = r.snippet.toLowerCase();
+  assert(
+    `"kilo koks" snippet shows both terms: ${r.title}`,
+    text.includes("kilo") && text.includes("koks"),
+    `"${r.snippet.substring(0, 120).trim()}"`,
+  );
+}
+
 // ---- Test: sort by date ----
 
 console.log("\n== DOM test: sort by date ==");
@@ -397,8 +432,20 @@ assert(
 
 console.log("\n== DOM test: quoted phrase search ==");
 
+// No snippet should contain duplicate ellipsis ("… …")
+const snippetCheckResults = await searchAndReadDOM(page, "fünf blockchains");
+const dupeEllipsis = snippetCheckResults.filter(r => r.snippet.includes("… …"));
+for (const r of dupeEllipsis) {
+  console.log(`  DUPE: ${r.snippet.substring(0, 120).trim()}`);
+}
+assert(
+  "no snippets with duplicate ellipsis",
+  dupeEllipsis.length === 0,
+  `${dupeEllipsis.length} snippets have "… …"`,
+);
+
 // Unquoted search should find results, with exact phrase matches ranked first
-const unquotedResults = await searchAndReadDOM(page, "fünf blockchains");
+const unquotedResults = snippetCheckResults;
 console.log(`  Unquoted "fünf blockchains": ${unquotedResults.length} results`);
 assert(
   "unquoted 'fünf blockchains' returns results",

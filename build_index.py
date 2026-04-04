@@ -113,16 +113,18 @@ def generate_episode_html(episode: dict, paragraphs: list[dict]) -> str:
         '<body>',
         '<div data-pagefind-body>',
         f'  <h1 data-pagefind-meta="title">{title}</h1>',
-        f'  <span data-pagefind-meta="number" style="display:none">{number}</span>',
-        f'  <span data-pagefind-meta="url" style="display:none">{url}</span>',
-        f'  <span data-pagefind-meta="date" style="display:none">{date}</span>',
+        f'  <div data-pagefind-ignore style="display:none">',
+        f'    <span data-pagefind-meta="number">{number}</span>',
+        f'    <span data-pagefind-meta="url">{url}</span>',
+        f'    <span data-pagefind-meta="date">{date}</span>',
+        f'  </div>',
     ]
 
     for i, para in enumerate(paragraphs):
         ts = html.escape(para["timestamp"])
         speaker = html.escape(para["speaker"])
         text = html.escape(para["text"])
-        parts.append(f'  <h6 id="p{i}" style="display:none">{speaker}</h6>')
+        parts.append(f'  <h6 id="p{i}" data-pagefind-weight="0">{speaker}</h6>')
         parts.append(f'  <p data-timestamp="{ts}">{text}</p>')
 
     parts.extend([

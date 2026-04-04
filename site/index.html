@@ -134,7 +134,7 @@
         search.results.slice(0, 20).map(r => r.data())
       );
 
-      // Build paragraph-scoped hits using anchors (h6 headings) and word locations
+      // Build paragraph-scoped hits using anchors and word locations
       const hits = [];
       for (const page of pages) {
         const title = page.meta?.title || "Unbekannte Episode";
@@ -149,13 +149,17 @@
           continue;
         }
 
-        // Each h6 anchor marks a speaker paragraph boundary
-        const paragraphs = anchors.map((a, i) => ({
-          id: a.id,
-          speaker: a.text || "",
-          start: a.location,
-          end: i + 1 < anchors.length ? anchors[i + 1].location : words.length,
-        }));
+        // Each h6 anchor marks a speaker paragraph boundary.
+        // Skip heading text words so excerpts contain only paragraph content.
+        const paragraphs = anchors.map((a, i) => {
+          const headingWords = a.text ? a.text.split(/\s+/).length : 0;
+          return {
+            id: a.id,
+            speaker: a.text || "",
+            start: a.location + headingWords,
+            end: i + 1 < anchors.length ? anchors[i + 1].location : words.length,
+          };
+        });
 
         // Find all paragraphs that contain at least one match
         const seen = new Set();
@@ -189,6 +193,11 @@
 
           hits.push({ title, episodeUrl, date, speaker: para.speaker, excerpt });
         }
+
+        // Fallback: page matched but no paragraph-level hits (e.g. title match)
+        if (!seen.size) {
+          hits.push({ title, episodeUrl, date, excerpt: page.excerpt || "" });
+        }
       }
 
       for (const hit of hits) {
@@ -213,8 +222,14 @@
     function buildTranscriptLink(episodeUrl, excerptHtml) {
       const baseUrl = episodeUrl + "?podlove_template_page=episode-transcript-html";
 
-      const plainText = excerptHtml.replace(/<[^>]+>/g, "");
-      const markMatch = excerptHtml.match(/<mark>([^<]+)<\/mark>/);
+      // Strip HTML tags and ellipsis markers to get clean plain text
+      const plainText = excerptHtml
+        .replace(/<[^>]+>/g, "")
+        .replace(/^\s*…\s*/, "")
+        .replace(/\s*…\s*$/, "")
+        .trim();
+
+      const markMatch = excerptHtml.match(/<mark>(.*?)<\/mark>/);
       if (!markMatch) return baseUrl;
 
       const matchedText = markMatch[1];
@@ -224,9 +239,7 @@
       const before = plainText.substring(0, idx).trim().split(/\s+/).slice(-3).join(" ");
       const after = plainText.substring(idx + matchedText.length).trim().split(/\s+/).slice(0, 3).join(" ");
 
-      let phrase = [before, matchedText, after].filter(Boolean).join(" ").trim();
-      phrase = phrase.replace(/[…]/g, "").replace(/\.{3}/g, "").trim();
-
+      const phrase = [before, matchedText, after].filter(Boolean).join(" ").trim();
       if (!phrase) return baseUrl;
 
       return baseUrl + "#:~:text=" + encodeTextFragment(phrase);

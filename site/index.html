@@ -30,10 +30,20 @@
       box-sizing: border-box;
     }
 
+    #result-count {
+      color: #666;
+      font-size: 0.9em;
+      margin: 0.5em 0;
+    }
+
     .result-item {
       margin-bottom: 1.5em;
       padding-bottom: 1em;
       border-bottom: 1px solid #eee;
+    }
+
+    .result-item:last-child {
+      border-bottom: none;
     }
 
     .result-title {
@@ -89,6 +99,7 @@
 
   <main>
     <input type="search" id="search-input" placeholder="Suchbegriff eingeben…" autofocus>
+    <div id="result-count"></div>
     <div id="results"></div>
   </main>
 
@@ -119,13 +130,17 @@
       debounceTimer = setTimeout(() => performSearch(input.value), 200);
     });
 
+    const resultCountEl = document.getElementById("result-count");
+
     async function performSearch(query) {
       resultsContainer.innerHTML = "";
+      resultCountEl.textContent = "";
       if (!query.trim() || !pagefind) return;
 
       const search = await pagefind.search(query);
 
       if (search.results.length === 0) {
+        resultCountEl.textContent = "";
         resultsContainer.innerHTML = "<p>Keine Ergebnisse gefunden.</p>";
         return;
       }
@@ -162,8 +177,15 @@
             }
           }
         }
-        // Fall back to rawLocations if expansion found nothing (e.g. stemmed matches)
+        // Fall back: scan content for all occurrences of each matched term
+        if (locations.length === 0) {
+          const terms = new Set(rawLocations.map(l => norm(words[l] || "")).filter(Boolean));
+          words.forEach((w, i) => { if (terms.has(norm(w))) locations.push(i); });
+        }
         if (locations.length === 0) locations.push(...rawLocations);
+
+        // Collect distinct matched terms for per-paragraph relevance sorting
+        const uniqueTerms = new Set(locations.map(l => norm(words[l] || "")).filter(Boolean));
 
         // Each h6 anchor marks a speaker paragraph boundary.
         // Skip heading text words so excerpts contain only paragraph content.
@@ -207,7 +229,9 @@
             snippetOffsets.has(i) ? `<mark>${escapeHtml(w)}</mark>` : escapeHtml(w)
           ).join(" ") + suffix;
 
-          hits.push({ title, episodeUrl, date, speaker: para.speaker, excerpt });
+          const hitTerms = new Set(paraLocs.map(l => norm(words[l])));
+          const termCount = [...uniqueTerms].filter(t => hitTerms.has(t)).length;
+          hits.push({ title, episodeUrl, date, speaker: para.speaker, excerpt, termCount });
         }
 
         // Fallback: page matched but no paragraph-level hits (e.g. title match)
@@ -216,12 +240,19 @@
         }
       }
 
+      // Sort so paragraphs matching more distinct terms appear first;
+      // preserve Pagefind's page rank ordering for ties.
+      hits.sort((a, b) => (b.termCount || 0) - (a.termCount || 0));
+
+      resultCountEl.textContent = `${hits.length} Treffer`;
+
       for (const hit of hits) {
         const transcriptLink = buildTranscriptLink(hit.episodeUrl, hit.excerpt);
         const speaker = hit.speaker ? `<strong>${escapeHtml(hit.speaker)}:</strong> ` : "";
 
         const item = document.createElement("div");
         item.className = "result-item";
+        item.dataset.termCount = hit.termCount || 0;
         item.innerHTML = `
           <div class="result-title">
             <a href="${escapeAttr(hit.episodeUrl)}" target="_blank" rel="noopener">${escapeHtml(hit.title)}</a>

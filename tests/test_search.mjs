@@ -108,6 +108,7 @@ async function searchAndReadDOM(page, query) {
       snippet: el.querySelector(".result-snippet")?.textContent || "",
       snippetHtml: el.querySelector(".result-snippet")?.innerHTML || "",
       link: el.querySelector(".result-snippet a")?.href || "",
+      termCount: parseInt(el.dataset.termCount || "0"),
     }));
   });
 }
@@ -196,6 +197,36 @@ assert(
   "chatkontrolle returns results from multiple episodes",
   chatEpisodes.size >= 3,
   `got ${chatEpisodes.size} episodes`,
+);
+
+// ---- Test: multi-term ranking — both terms should appear before single terms ----
+
+console.log("\n== DOM test: 'chatkontrolle johansson' ranking ==");
+
+const multiResults = await searchAndReadDOM(page, "chatkontrolle johansson");
+console.log(`  Total DOM results: ${multiResults.length}`);
+
+// Show first 15 results with their termCount
+const top = multiResults.slice(0, 15);
+for (let i = 0; i < top.length; i++) {
+  const r = top[i];
+  console.log(`  [${i}] tc=${r.termCount} ${r.title} | ${r.snippet.substring(0, 60).trim()}`);
+}
+
+// termCount distribution
+const tcCounts = {};
+for (const r of multiResults) tcCounts[r.termCount] = (tcCounts[r.termCount] || 0) + 1;
+console.log(`\n  termCount distribution: ${JSON.stringify(tcCounts)}`);
+
+// All termCount=2 results should appear before any termCount=1
+const firstTc1 = multiResults.findIndex(r => r.termCount < 2);
+const lastTc2 = multiResults.map(r => r.termCount).lastIndexOf(2);
+console.log(`  first tc<2 at index: ${firstTc1}, last tc=2 at index: ${lastTc2}`);
+
+assert(
+  "all multi-term hits sorted before single-term hits",
+  lastTc2 < firstTc1 || lastTc2 === -1,
+  `last tc=2 at ${lastTc2}, first tc<2 at ${firstTc1}`,
 );
 
 // ---- Cleanup ----

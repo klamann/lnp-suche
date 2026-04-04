@@ -305,11 +305,11 @@
 
   <footer>
     <p>
-      Podcast: <a href="https://logbuch-netzpolitik.de" target="_blank" rel="noopener">logbuch-netzpolitik.de</a>
+      Podcast: <a href="https://logbuch-netzpolitik.de">logbuch-netzpolitik.de</a>
       - Die Transkripte werden automatisch erstellt und können Fehler enthalten.
     </p>
     <p>
-      Quellcode und weitere Informationen <a href="https://github.com/klamann/lnp-suche" target="_blank" rel="noopener">auf GitHub</a>.
+      Quellcode und weitere Informationen <a href="https://github.com/klamann/lnp-suche">auf GitHub</a>.
     </p>
   </footer>
 
@@ -694,11 +694,11 @@
         item.dataset.termCount = hit.termCount || 0;
         item.innerHTML = `
           <div class="result-title">
-            <a href="${escapeAttr(hit.episodeUrl)}" target="_blank" rel="noopener">${escapeHtml(hit.title)}</a>
+            <a href="${escapeAttr(hit.episodeUrl)}">${escapeHtml(hit.title)}</a>
             <span class="result-date">${escapeHtml(hit.date)}</span>
           </div>
           <div class="result-snippet">
-            <a href="${escapeAttr(transcriptLink)}" target="_blank" rel="noopener">${speaker}${hit.excerpt}</a>
+            <a href="${escapeAttr(transcriptLink)}">${speaker}${hit.excerpt}</a>
           </div>
         `;
         resultsContainer.appendChild(item);

@@ -11,6 +11,7 @@
 
 from __future__ import annotations
 
+import json
 import re
 import time
 import xml.etree.ElementTree as ET
@@ -33,6 +34,8 @@ class Episode:
     number: int
     title: str
     transcript_url: str | None
+    url: str       # episode page URL from RSS <link>
+    date: str      # ISO date YYYY-MM-DD from RSS pubDate
 
 
 def has_cues(webvtt_text: str) -> bool:
@@ -110,7 +113,11 @@ def parse_episodes(
         if transcript_url is None:
             transcript_url = xml_transcripts.get(ep_str)
 
-        episodes.append(Episode(number=number, title=title, transcript_url=transcript_url))
+        url = entry.get("link", "")
+        published_parsed = entry.get("published_parsed")
+        date = time.strftime("%Y-%m-%d", published_parsed) if published_parsed else ""
+
+        episodes.append(Episode(number=number, title=title, transcript_url=transcript_url, url=url, date=date))
 
     return episodes
 
@@ -203,12 +210,35 @@ def download_transcripts(
     )
 
 
+def write_metadata(episodes: list[Episode], metadata_file: Path, output_dir: Path) -> None:
+    data = []
+    for ep in sorted(episodes, key=lambda e: e.number, reverse=True):
+        vtt_path = output_dir / f"{ep.number:03d}.vtt"
+        has_transcript = vtt_path.exists() and vtt_path.stat().st_size > 0
+        data.append({
+            "number": ep.number,
+            "title": ep.title,
+            "url": ep.url,
+            "date": ep.date,
+            "has_transcript": has_transcript,
+        })
+    metadata_file.parent.mkdir(parents=True, exist_ok=True)
+    metadata_file.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    print(f"Metadata written to {metadata_file} ({len(data)} episodes)")
+
+
 def main(
     output_dir: Path = typer.Option(Path("transcripts"), help="Folder for .vtt files"),
     pause: float = typer.Option(1.0, help="Seconds between downloads"),
     timeout: float = typer.Option(30.0, help="HTTP request timeout in seconds"),
     limit: int = typer.Option(0, help="Max episodes to process (0 = all)"),
     feed_file: Optional[Path] = typer.Option(None, help="Save RSS XML to this path"),
+    metadata_file: Optional[Path] = typer.Option(
+        Path("episodes.json"), help="Write episode metadata JSON to this path"
+    ),
 ) -> None:
     print(f"Fetching feed from {FEED_URL} ...")
     feed, raw_xml = fetch_feed(timeout=timeout, feed_file=feed_file)
@@ -219,6 +249,9 @@ def main(
 
     print(f"Downloading transcripts to {output_dir}/ ...")
     download_transcripts(episodes, output_dir, pause, timeout, limit)
+
+    if metadata_file is not None:
+        write_metadata(episodes, metadata_file, output_dir)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LNP Suche — Logbuch:Netzpolitik Transkript-Suche</title>
+  <style>
+    body {
+      max-width: 800px;
+      margin: 0 auto;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      padding: 1rem;
+    }
+
+    header h1 {
+      margin-bottom: 0.2em;
+    }
+
+    header p {
+      color: #666;
+      margin-top: 0;
+    }
+
+    #search-input {
+      width: 100%;
+      font-size: 1.2em;
+      padding: 12px;
+      border-radius: 8px;
+      border: 2px solid #ccc;
+      box-sizing: border-box;
+    }
+
+    .result-item {
+      margin-bottom: 1.5em;
+      padding-bottom: 1em;
+      border-bottom: 1px solid #eee;
+    }
+
+    .result-title {
+      font-size: 1.1em;
+      font-weight: bold;
+    }
+
+    .result-title a {
+      color: #1a0dab;
+    }
+
+    .result-date {
+      color: #666;
+      font-size: 0.85em;
+      font-weight: normal;
+      margin-left: 0.5em;
+    }
+
+    .result-snippet {
+      margin-top: 0.5em;
+      line-height: 1.6;
+    }
+
+    .result-snippet mark {
+      background-color: #fff3cd;
+      padding: 0 2px;
+      border-radius: 2px;
+    }
+
+    .result-snippet a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .result-snippet a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      margin-top: 3em;
+      color: #999;
+      font-size: 0.85em;
+      border-top: 1px solid #eee;
+      padding-top: 1em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Logbuch:Netzpolitik Suche</h1>
+    <p>Volltextsuche in Podcast-Transkripten</p>
+  </header>
+
+  <main>
+    <input type="search" id="search-input" placeholder="Suchbegriff eingeben…" autofocus>
+    <div id="results"></div>
+  </main>
+
+  <footer>
+    <p>
+      Podcast: <a href="https://logbuch-netzpolitik.de" target="_blank" rel="noopener">logbuch-netzpolitik.de</a>
+      — Die Transkripte werden automatisch erstellt und können Fehler enthalten.
+    </p>
+  </footer>
+
+  <script type="module">
+    // Load Pagefind - wrap in try/catch for local dev without index
+    let pagefind;
+    try {
+      pagefind = await import("/pagefind/pagefind.js");
+      await pagefind.init();
+    } catch (e) {
+      document.getElementById("results").innerHTML =
+        "<p>Suchindex konnte nicht geladen werden.</p>";
+    }
+
+    const input = document.getElementById("search-input");
+    const resultsContainer = document.getElementById("results");
+
+    let debounceTimer;
+    input.addEventListener("input", () => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => performSearch(input.value), 200);
+    });
+
+    async function performSearch(query) {
+      resultsContainer.innerHTML = "";
+      if (!query.trim() || !pagefind) return;
+
+      const search = await pagefind.search(query);
+
+      if (search.results.length === 0) {
+        resultsContainer.innerHTML = "<p>Keine Ergebnisse gefunden.</p>";
+        return;
+      }
+
+      const pages = await Promise.all(
+        search.results.slice(0, 20).map(r => r.data())
+      );
+
+      // Build paragraph-scoped hits using anchors (h6 headings) and word locations
+      const hits = [];
+      for (const page of pages) {
+        const title = page.meta?.title || "Unbekannte Episode";
+        const episodeUrl = page.meta?.url || "#";
+        const date = page.meta?.date || "";
+        const words = (page.content || "").split(/\s+/);
+        const anchors = (page.anchors || []).filter(a => a.element === "h6");
+        const locations = page.locations || [];
+
+        if (anchors.length === 0 || locations.length === 0) {
+          hits.push({ title, episodeUrl, date, excerpt: page.excerpt || "" });
+          continue;
+        }
+
+        // Each h6 anchor marks a speaker paragraph boundary
+        const paragraphs = anchors.map((a, i) => ({
+          id: a.id,
+          speaker: a.text || "",
+          start: a.location,
+          end: i + 1 < anchors.length ? anchors[i + 1].location : words.length,
+        }));
+
+        // Find all paragraphs that contain at least one match
+        const seen = new Set();
+        for (const loc of locations) {
+          const para = paragraphs.find(p => loc >= p.start && loc < p.end);
+          if (!para || seen.has(para.id)) continue;
+          seen.add(para.id);
+
+          const paraWords = words.slice(para.start, para.end);
+          const paraLocs = locations.filter(l => l >= para.start && l < para.end);
+          const offsets = new Set(paraLocs.map(l => l - para.start));
+
+          // Build excerpt, trimming long paragraphs around first match
+          let snippetWords, snippetOffsets, prefix = "", suffix = "";
+          if (paraWords.length > 40) {
+            const first = Math.min(...offsets);
+            const start = Math.max(0, first - 15);
+            const end = Math.min(paraWords.length, first + 25);
+            snippetWords = paraWords.slice(start, end);
+            snippetOffsets = new Set(paraLocs.map(l => l - para.start - start).filter(o => o >= 0 && o < snippetWords.length));
+            if (start > 0) prefix = "… ";
+            if (end < paraWords.length) suffix = " …";
+          } else {
+            snippetWords = paraWords;
+            snippetOffsets = offsets;
+          }
+
+          const excerpt = prefix + snippetWords.map((w, i) =>
+            snippetOffsets.has(i) ? `<mark>${escapeHtml(w)}</mark>` : escapeHtml(w)
+          ).join(" ") + suffix;
+
+          hits.push({ title, episodeUrl, date, speaker: para.speaker, excerpt });
+        }
+      }
+
+      for (const hit of hits) {
+        const transcriptLink = buildTranscriptLink(hit.episodeUrl, hit.excerpt);
+        const speaker = hit.speaker ? `<strong>${escapeHtml(hit.speaker)}:</strong> ` : "";
+
+        const item = document.createElement("div");
+        item.className = "result-item";
+        item.innerHTML = `
+          <div class="result-title">
+            <a href="${escapeAttr(hit.episodeUrl)}" target="_blank" rel="noopener">${escapeHtml(hit.title)}</a>
+            <span class="result-date">${escapeHtml(hit.date)}</span>
+          </div>
+          <div class="result-snippet">
+            <a href="${escapeAttr(transcriptLink)}" target="_blank" rel="noopener">${speaker}${hit.excerpt}</a>
+          </div>
+        `;
+        resultsContainer.appendChild(item);
+      }
+    }
+
+    function buildTranscriptLink(episodeUrl, excerptHtml) {
+      const baseUrl = episodeUrl + "?podlove_template_page=episode-transcript-html";
+
+      const plainText = excerptHtml.replace(/<[^>]+>/g, "");
+      const markMatch = excerptHtml.match(/<mark>([^<]+)<\/mark>/);
+      if (!markMatch) return baseUrl;
+
+      const matchedText = markMatch[1];
+      const idx = plainText.indexOf(matchedText);
+      if (idx === -1) return baseUrl;
+
+      const before = plainText.substring(0, idx).trim().split(/\s+/).slice(-3).join(" ");
+      const after = plainText.substring(idx + matchedText.length).trim().split(/\s+/).slice(0, 3).join(" ");
+
+      let phrase = [before, matchedText, after].filter(Boolean).join(" ").trim();
+      phrase = phrase.replace(/[…]/g, "").replace(/\.{3}/g, "").trim();
+
+      if (!phrase) return baseUrl;
+
+      return baseUrl + "#:~:text=" + encodeTextFragment(phrase);
+    }
+
+    function encodeTextFragment(text) {
+      // encodeURIComponent doesn't encode dashes, but Text Fragment spec requires it
+      return encodeURIComponent(text).replace(/-/g, "%2D");
+    }
+
+    function escapeHtml(text) {
+      const div = document.createElement("div");
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    function escapeAttr(text) {
+      return text.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    }
+  </script>
+</body>
+</html>

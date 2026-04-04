@@ -406,10 +406,16 @@ assert(
   `first non-match: ${filteredResults.find(r => !r.snippet.startsWith(targetSpeaker))?.snippet?.substring(0, 80)}`,
 );
 
+// With pagination + auto-loading, both filtered and unfiltered may show PAGE_SIZE results.
+// Verify filtering works by checking no other speakers appear.
+const otherSpeakers = filteredResults.filter(r => {
+  const parts = r.snippet.split(": ");
+  return parts.length >= 2 && parts[0].trim() !== targetSpeaker;
+});
 assert(
-  "speaker filter reduces result count",
-  filteredResults.length < allResults.length,
-  `filtered: ${filteredResults.length}, all: ${allResults.length}`,
+  "speaker filter excludes other speakers",
+  otherSpeakers.length === 0,
+  `found ${otherSpeakers.length} results from other speakers`,
 );
 
 // Re-check all speakers
@@ -424,9 +430,9 @@ const restoredCount = await page.evaluate(() =>
   document.querySelectorAll(".result-item").length
 );
 assert(
-  "re-checking all speakers restores full results",
-  restoredCount === allResults.length,
-  `restored: ${restoredCount}, expected: ${allResults.length}`,
+  "re-checking all speakers restores results",
+  restoredCount >= allResults.length,
+  `restored: ${restoredCount}, expected at least: ${allResults.length}`,
 );
 
 // ---- Test: quoted phrase search "fünf blockchains" ----

@@ -570,7 +570,18 @@
       .replace(/[üÜ]/g, m => m === "ü" ? "u" : "U")
       .replace(/ß/g, "ss");
     // Normalize a word for matching: lowercase, strip punctuation and umlauts.
-    const norm = w => stripUmlauts(w.toLowerCase().replace(/[.,;:!?"'()]/g, ""));
+    // Results are cached — podcast transcripts reuse the same vocabulary heavily,
+    // so most words are only normalized once across all pages.
+    const _normMap = { "ä": "a", "ö": "o", "ü": "u", "ß": "ss" };
+    const _normCache = new Map();
+    function norm(w) {
+      let r = _normCache.get(w);
+      if (r === undefined) {
+        r = w.toLowerCase().replace(/[.,;:!?"'()äöüß]/g, m => _normMap[m] ?? "");
+        _normCache.set(w, r);
+      }
+      return r;
+    }
 
     function processPage(page, pageIdx, searchTerms, hits) {
       const title = page.meta?.title || "Unbekannte Episode";
@@ -588,6 +599,7 @@
       // Pagefind's locations may only contain the best match for phrase
       // searches. Expand by finding all content positions where the same
       // sequence of normalized terms appears, so every paragraph is shown.
+      // norm() results are cached, so repeated lookups are cheap Map hits.
       const pattern = rawLocations.map(l => norm(words[l] || "")).filter(Boolean);
       const locations = [];
       if (pattern.length > 0) {
@@ -660,13 +672,13 @@
           const remaining = [...clusters];
           while (best.length < 3 && remaining.length > 0) {
             remaining.sort((a, b) => {
-              const aNew = a.filter(o => !coveredTerms.has(norm(paraWords[o]))).length;
-              const bNew = b.filter(o => !coveredTerms.has(norm(paraWords[o]))).length;
+              const aNew = a.filter(o => !coveredTerms.has(norm(words[para.start + o]))).length;
+              const bNew = b.filter(o => !coveredTerms.has(norm(words[para.start + o]))).length;
               return bNew - aNew || b.length - a.length;
             });
             const pick = remaining.shift();
             best.push(pick);
-            for (const o of pick) coveredTerms.add(norm(paraWords[o]));
+            for (const o of pick) coveredTerms.add(norm(words[para.start + o]));
           }
           best.sort((a, b) => a[0] - b[0]);
           // Dynamic context: distribute ~40 words evenly across clusters
@@ -694,7 +706,7 @@
             + (windows[windows.length - 1].end < paraWords.length ? " …" : "");
         }
 
-        const normedPara = paraWords.map(w => norm(w));
+        const normedPara = words.slice(para.start, para.end).map(w => norm(w));
         const termCount = searchTerms.filter(t => {
           const parts = t.split(/\s+/);
           return parts.every(p => normedPara.includes(p));
@@ -705,10 +717,9 @@
         let hasOrderedPhrase = false;
         let hasAdjacentTerms = false;
         if (searchTerms.length > 1) {
-          const normed = paraWords.map(w => norm(w));
           // Check ordered: all terms appear as consecutive sequence in order
-          for (let i = 0; i <= normed.length - searchTerms.length; i++) {
-            if (searchTerms.every((t, j) => normed[i + j] === t)) {
+          for (let i = 0; i <= normedPara.length - searchTerms.length; i++) {
+            if (searchTerms.every((t, j) => normedPara[i + j] === t)) {
               hasOrderedPhrase = true;
               hasAdjacentTerms = true;
               break;
@@ -716,8 +727,8 @@
           }
           // Check adjacent in any order: all terms within a window of searchTerms.length
           if (!hasAdjacentTerms) {
-            for (let i = 0; i <= normed.length - searchTerms.length; i++) {
-              const window = normed.slice(i, i + searchTerms.length);
+            for (let i = 0; i <= normedPara.length - searchTerms.length; i++) {
+              const window = normedPara.slice(i, i + searchTerms.length);
               if (searchTerms.every(t => window.includes(t))) {
                 hasAdjacentTerms = true;
                 break;
@@ -769,14 +780,14 @@
       const strippedQuery = normalizedQuery.replace(/"([^"]+)"/g, (_, p) => { searchTerms.push(p.toLowerCase()); return ""; });
       for (const t of strippedQuery.split(/\s+/)) { if (t) searchTerms.push(t.toLowerCase()); }
 
-      // Fetch and process results in batches to avoid blocking the main thread.
-      // Each batch fetches page data, processes it into hits, then yields to
-      // the event loop so the browser can handle pending keystrokes.
+      // Start all data fetches immediately (I/O-bound: decompression),
+      // then process in batches with yields so the browser stays responsive
+      // and fetching overlaps with processing.
       const BATCH = 50;
+      const dataPromises = search.results.map(r => r.data());
       const hits = [];
-      for (let i = 0; i < search.results.length; i += BATCH) {
-        const batch = search.results.slice(i, i + BATCH);
-        const pages = await Promise.all(batch.map(r => r.data()));
+      for (let i = 0; i < dataPromises.length; i += BATCH) {
+        const pages = await Promise.all(dataPromises.slice(i, i + BATCH));
         if (generation !== searchGeneration) return;
 
         for (let j = 0; j < pages.length; j++) {

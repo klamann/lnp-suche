@@ -122,7 +122,10 @@ const serverProc = await startServer();
 console.log(`npx serve running on http://localhost:${PORT}`);
 console.log(`Serving: ${DIST_DIR}`);
 
-const browser = await puppeteer.launch({ headless: true });
+const browser = await puppeteer.launch({
+  headless: true,
+  args: process.env.CI ? ["--no-sandbox", "--disable-setuid-sandbox"] : [],
+});
 const page = await browser.newPage();
 
 // Log ALL browser console messages for debugging
@@ -518,6 +521,85 @@ for (const r of quotedResults) {
     text.includes("fünf blockchains"),
     `"${r.snippet.substring(0, 100).trim()}"`,
   );
+}
+
+// ---- Test: search performance ----
+
+console.log("\n== Performance test ==");
+
+// Measure search time by calling performSearch directly, bypassing debounce.
+// Returns { duration, resultCount }.
+async function measureSearch(page, query) {
+  await page.evaluate(() => {
+    document.getElementById("search-input").value = "";
+    document.getElementById("results").innerHTML = "";
+    document.getElementById("result-count").textContent = "";
+  });
+  const timing = await page.evaluate(async (q) => {
+    const input = document.getElementById("search-input");
+    input.value = q;
+    const t0 = performance.now();
+    await performSearch(q);
+    const t1 = performance.now();
+    const count = document.querySelectorAll(".result-item").length;
+    return { duration: Math.round(t1 - t0), resultCount: count };
+  }, query);
+  return timing;
+}
+
+// performSearch is defined inside a module script, so it's not on window by
+// default. Expose it for timing tests.
+await page.evaluate(() => {
+  // If performSearch is already global (e.g. from a non-module script), skip.
+  if (typeof window.performSearch === "function") return;
+});
+
+// Check if performSearch is accessible
+const canMeasure = await page.evaluate(() => typeof performSearch === "function");
+if (!canMeasure) {
+  // performSearch is inside a module scope — fall back to typing-based measurement
+  console.log("  performSearch not global, using input-based timing");
+
+  async function measureSearchViaInput(page, query) {
+    await page.evaluate(() => {
+      document.getElementById("search-input").value = "";
+      document.getElementById("results").innerHTML = "";
+      document.getElementById("result-count").textContent = "";
+    });
+    const t0 = Date.now();
+    await page.type("#search-input", query);
+    try {
+      await page.waitForFunction(
+        () => {
+          const count = document.getElementById("result-count")?.textContent || "";
+          return count.includes("Treffer") || document.querySelector(".result-item");
+        },
+        { timeout: 30000 },
+      );
+      // Wait for search to fully settle
+      await new Promise(r => setTimeout(r, 1500));
+    } catch {
+      console.log(`  [timeout] Search did not complete for "${query}"`);
+    }
+    const t1 = Date.now();
+    const count = await page.evaluate(() =>
+      document.querySelectorAll(".result-item").length
+    );
+    // Subtract approximate debounce time (300ms)
+    return { duration: t1 - t0 - 300, resultCount: count };
+  }
+
+  const queries = ["fünf", "chatkontrolle", "kilo koks", "vorratsdatenspeicherung"];
+  for (const q of queries) {
+    const { duration, resultCount } = await measureSearchViaInput(page, q);
+    console.log(`  "${q}": ${duration}ms (${resultCount} results)`);
+  }
+} else {
+  const queries = ["fünf", "chatkontrolle", "kilo koks", "vorratsdatenspeicherung"];
+  for (const q of queries) {
+    const { duration, resultCount } = await measureSearch(page, q);
+    console.log(`  "${q}": ${duration}ms (${resultCount} results)`);
+  }
 }
 
 // ---- Cleanup ----

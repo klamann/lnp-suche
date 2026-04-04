@@ -320,7 +320,7 @@
     // Load Pagefind - wrap in try/catch for local dev without index
     let pagefind;
     try {
-      pagefind = await import("/pagefind/pagefind.js");
+      pagefind = await import("./pagefind/pagefind.js");
       await pagefind.init();
     } catch (e) {
       document.getElementById("results").innerHTML =

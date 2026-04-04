@@ -600,7 +600,7 @@
         const rawLocations = page.locations || [];
 
         if (anchors.length === 0 || rawLocations.length === 0) {
-          hits.push({ title, episodeUrl, date, pageRank: pageIdx, excerpt: page.excerpt || "" });
+          hits.push({ title, episodeUrl, date, pageIndex: pageIdx, excerpt: page.excerpt || "" });
           continue;
         }
 
@@ -622,9 +622,6 @@
           words.forEach((w, i) => { if (terms.has(norm(w))) locations.push(i); });
         }
         if (locations.length === 0) locations.push(...rawLocations);
-
-        // Collect distinct matched terms for per-paragraph relevance sorting
-        const uniqueTerms = new Set(locations.map(l => norm(words[l] || "")).filter(Boolean));
 
         // Each h6 anchor marks a speaker paragraph boundary.
         // Skip heading text words so excerpts contain only paragraph content.
@@ -668,8 +665,10 @@
             snippetOffsets.has(i) ? `<mark>${escapeHtml(w)}</mark>` : escapeHtml(w)
           ).join(" ") + suffix;
 
-          const hitTerms = new Set(paraLocs.map(l => norm(words[l])));
-          const termCount = [...uniqueTerms].filter(t => hitTerms.has(t)).length;
+          const termCount = searchTerms.filter(t => {
+            const parts = t.split(/\s+/);
+            return parts.every(p => paraLocs.some(l => norm(words[l]) === p));
+          }).length;
           const totalHits = paraLocs.length;
 
           // Check if all search terms appear adjacent and in order
@@ -698,12 +697,12 @@
           }
 
           hits.push({ title, episodeUrl, date, speaker: para.speaker, excerpt,
-            termCount, totalHits, hasOrderedPhrase, hasAdjacentTerms, pageRank: pageIdx });
+            termCount, totalHits, hasOrderedPhrase, hasAdjacentTerms, pageIndex: pageIdx });
         }
 
         // Fallback: page matched but no paragraph-level hits (e.g. title match)
         if (!seen.size) {
-          hits.push({ title, episodeUrl, date, pageRank: pageIdx, excerpt: page.excerpt || "" });
+          hits.push({ title, episodeUrl, date, pageIndex: pageIdx, excerpt: page.excerpt || "" });
         }
       }
 
@@ -750,6 +749,7 @@
         item.className = "result-item";
         item.dataset.termCount = hit.termCount || 0;
         item.dataset.totalHits = hit.totalHits || 0;
+        item.dataset.pageIndex = hit.pageIndex ?? "";
         item.dataset.orderedPhrase = hit.hasOrderedPhrase ? "1" : "0";
         item.dataset.adjacentTerms = hit.hasAdjacentTerms ? "1" : "0";
         item.innerHTML = `
@@ -809,7 +809,7 @@
           (b.hasOrderedPhrase ? 1 : 0) - (a.hasOrderedPhrase ? 1 : 0) ||
           (b.hasAdjacentTerms ? 1 : 0) - (a.hasAdjacentTerms ? 1 : 0) ||
           (b.termCount || 0) - (a.termCount || 0) ||
-          (a.pageRank ?? 999) - (b.pageRank ?? 999) ||
+          (a.pageIndex ?? 999) - (b.pageIndex ?? 999) ||
           (b.totalHits || 0) - (a.totalHits || 0)
         );
       } else if (mode === "date-desc") {

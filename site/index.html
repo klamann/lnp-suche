@@ -210,6 +210,22 @@
       margin: 0.5em 0;
     }
 
+    .spinner {
+      display: inline-block;
+      width: 0.8em;
+      height: 0.8em;
+      border: 2px solid #ccc;
+      border-top-color: #666;
+      border-radius: 50%;
+      animation: spin 0.6s linear infinite;
+      vertical-align: -0.1em;
+      margin-right: 0.4em;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
     .result-item {
       margin-bottom: 1.5em;
       padding-bottom: 1em;
@@ -556,6 +572,170 @@
     // Normalize a word for matching: lowercase, strip punctuation and umlauts.
     const norm = w => stripUmlauts(w.toLowerCase().replace(/[.,;:!?"'()]/g, ""));
 
+    function processPage(page, pageIdx, searchTerms, hits) {
+      const title = page.meta?.title || "Unbekannte Episode";
+      const episodeUrl = page.meta?.url || "#";
+      const date = page.meta?.date || "";
+      const words = (page.content || "").split(/\s+/);
+      const anchors = (page.anchors || []).filter(a => a.element === "h6");
+      const rawLocations = page.locations || [];
+
+      if (anchors.length === 0 || rawLocations.length === 0) {
+        hits.push({ title, episodeUrl, date, pageIndex: pageIdx, excerpt: page.excerpt || "" });
+        return;
+      }
+
+      // Pagefind's locations may only contain the best match for phrase
+      // searches. Expand by finding all content positions where the same
+      // sequence of normalized terms appears, so every paragraph is shown.
+      const pattern = rawLocations.map(l => norm(words[l] || "")).filter(Boolean);
+      const locations = [];
+      if (pattern.length > 0) {
+        for (let i = 0; i <= words.length - pattern.length; i++) {
+          if (pattern.every((t, j) => norm(words[i + j]) === t)) {
+            for (let j = 0; j < pattern.length; j++) locations.push(i + j);
+          }
+        }
+      }
+      // Fall back: scan content for all occurrences of each matched term
+      if (locations.length === 0) {
+        const terms = new Set(rawLocations.map(l => norm(words[l] || "")).filter(Boolean));
+        words.forEach((w, i) => { if (terms.has(norm(w))) locations.push(i); });
+      }
+      if (locations.length === 0) locations.push(...rawLocations);
+
+      // Each h6 anchor marks a speaker paragraph boundary.
+      // Skip heading text words so excerpts contain only paragraph content.
+      const paragraphs = anchors.map((a, i) => {
+        const headingWords = a.text ? a.text.split(/\s+/).length : 0;
+        return {
+          id: a.id,
+          speaker: a.text || "",
+          start: a.location + headingWords,
+          end: i + 1 < anchors.length ? anchors[i + 1].location : words.length,
+        };
+      });
+
+      // Find all paragraphs that contain at least one match
+      const seen = new Set();
+      for (const loc of locations) {
+        // Binary search for the paragraph containing this location
+        let lo = 0, hi = paragraphs.length - 1, para = null;
+        while (lo <= hi) {
+          const mid = (lo + hi) >> 1;
+          if (loc < paragraphs[mid].start) hi = mid - 1;
+          else if (loc >= paragraphs[mid].end) lo = mid + 1;
+          else { para = paragraphs[mid]; break; }
+        }
+        if (!para || seen.has(para.id)) continue;
+        seen.add(para.id);
+
+        const paraWords = words.slice(para.start, para.end);
+        const paraLocs = locations.filter(l => l >= para.start && l < para.end);
+        const offsets = new Set(paraLocs.map(l => l - para.start));
+
+        // Build excerpt: for short paragraphs show everything, for long ones
+        // show up to 3 match windows (context ±5 words) separated by " … ".
+        let excerpt;
+        if (paraWords.length <= 40) {
+          excerpt = paraWords.map((w, i) =>
+            offsets.has(i) ? `<mark>${escapeHtml(w)}</mark>` : escapeHtml(w)
+          ).join(" ");
+        } else {
+          // Group nearby offsets into clusters (merge if gap ≤ 3 words)
+          const sorted = [...offsets].sort((a, b) => a - b);
+          const clusters = [];
+          for (const off of sorted) {
+            const last = clusters[clusters.length - 1];
+            if (last && off - last[last.length - 1] <= 3) {
+              last.push(off);
+            } else {
+              clusters.push([off]);
+            }
+          }
+          // Select up to 3 clusters, prioritizing term diversity then match count.
+          // Greedily pick clusters that cover the most uncovered search terms.
+          const best = [];
+          const coveredTerms = new Set();
+          const remaining = [...clusters];
+          while (best.length < 3 && remaining.length > 0) {
+            remaining.sort((a, b) => {
+              const aNew = a.filter(o => !coveredTerms.has(norm(paraWords[o]))).length;
+              const bNew = b.filter(o => !coveredTerms.has(norm(paraWords[o]))).length;
+              return bNew - aNew || b.length - a.length;
+            });
+            const pick = remaining.shift();
+            best.push(pick);
+            for (const o of pick) coveredTerms.add(norm(paraWords[o]));
+          }
+          best.sort((a, b) => a[0] - b[0]);
+          // Dynamic context: distribute ~40 words evenly across clusters
+          const context = Math.max(3, Math.floor(20 / best.length));
+          // Build windows, then merge overlapping/adjacent ones
+          let windows = best.map(cluster => ({
+            start: Math.max(0, cluster[0] - context),
+            end: Math.min(paraWords.length, cluster[cluster.length - 1] + context + 1),
+            matches: new Set(cluster),
+          }));
+          for (let i = 1; i < windows.length; i++) {
+            if (windows[i].start <= windows[i - 1].end + 3) {
+              windows[i - 1].end = Math.max(windows[i - 1].end, windows[i].end);
+              for (const m of windows[i].matches) windows[i - 1].matches.add(m);
+              windows.splice(i--, 1);
+            }
+          }
+          const fragments = windows.map(w =>
+            paraWords.slice(w.start, w.end).map((word, i) =>
+              w.matches.has(w.start + i) ? `<mark>${escapeHtml(word)}</mark>` : escapeHtml(word)
+            ).join(" ")
+          );
+          excerpt = (windows[0].start > 0 ? "… " : "")
+            + fragments.join(" … ")
+            + (windows[windows.length - 1].end < paraWords.length ? " …" : "");
+        }
+
+        const normedPara = paraWords.map(w => norm(w));
+        const termCount = searchTerms.filter(t => {
+          const parts = t.split(/\s+/);
+          return parts.every(p => normedPara.includes(p));
+        }).length;
+        const totalHits = paraLocs.length;
+
+        // Check if all search terms appear adjacent and in order
+        let hasOrderedPhrase = false;
+        let hasAdjacentTerms = false;
+        if (searchTerms.length > 1) {
+          const normed = paraWords.map(w => norm(w));
+          // Check ordered: all terms appear as consecutive sequence in order
+          for (let i = 0; i <= normed.length - searchTerms.length; i++) {
+            if (searchTerms.every((t, j) => normed[i + j] === t)) {
+              hasOrderedPhrase = true;
+              hasAdjacentTerms = true;
+              break;
+            }
+          }
+          // Check adjacent in any order: all terms within a window of searchTerms.length
+          if (!hasAdjacentTerms) {
+            for (let i = 0; i <= normed.length - searchTerms.length; i++) {
+              const window = normed.slice(i, i + searchTerms.length);
+              if (searchTerms.every(t => window.includes(t))) {
+                hasAdjacentTerms = true;
+                break;
+              }
+            }
+          }
+        }
+
+        hits.push({ title, episodeUrl, date, speaker: para.speaker, excerpt,
+          termCount, totalHits, hasOrderedPhrase, hasAdjacentTerms, pageIndex: pageIdx });
+      }
+
+      // Fallback: page matched but no paragraph-level hits (e.g. title match)
+      if (!seen.size) {
+        hits.push({ title, episodeUrl, date, pageIndex: pageIdx, excerpt: page.excerpt || "" });
+      }
+    }
+
     async function performSearch(query) {
       const generation = searchGeneration;
       resultsContainer.innerHTML = "";
@@ -566,6 +746,7 @@
         return;
       }
       window.scrollTo({ top: 0, behavior: "smooth" });
+      resultCountEl.innerHTML = '<span class="spinner"></span>Suche läuft…';
 
       // Pagefind's German stemmer normalizes some umlauts during indexing
       // (e.g. fünf→funf, über→uber) but doesn't apply the same normalization
@@ -582,182 +763,28 @@
         return;
       }
 
-      const pages = await Promise.all(
-        search.results.map(r => r.data())
-      );
-      if (generation !== searchGeneration) return;
-
       // Extract search terms from the query for proximity ranking.
       // Handles quoted phrases as single units, e.g. '"foo bar" baz' → ["foo bar", "baz"]
       const searchTerms = [];
       const strippedQuery = normalizedQuery.replace(/"([^"]+)"/g, (_, p) => { searchTerms.push(p.toLowerCase()); return ""; });
       for (const t of strippedQuery.split(/\s+/)) { if (t) searchTerms.push(t.toLowerCase()); }
 
-      // Build paragraph-scoped hits using anchors and word locations
+      // Fetch and process results in batches to avoid blocking the main thread.
+      // Each batch fetches page data, processes it into hits, then yields to
+      // the event loop so the browser can handle pending keystrokes.
+      const BATCH = 50;
       const hits = [];
-      for (let pageIdx = 0; pageIdx < pages.length; pageIdx++) {
-        const page = pages[pageIdx];
-        const title = page.meta?.title || "Unbekannte Episode";
-        const episodeUrl = page.meta?.url || "#";
-        const date = page.meta?.date || "";
-        const words = (page.content || "").split(/\s+/);
-        const anchors = (page.anchors || []).filter(a => a.element === "h6");
-        const rawLocations = page.locations || [];
+      for (let i = 0; i < search.results.length; i += BATCH) {
+        const batch = search.results.slice(i, i + BATCH);
+        const pages = await Promise.all(batch.map(r => r.data()));
+        if (generation !== searchGeneration) return;
 
-        if (anchors.length === 0 || rawLocations.length === 0) {
-          hits.push({ title, episodeUrl, date, pageIndex: pageIdx, excerpt: page.excerpt || "" });
-          continue;
+        for (let j = 0; j < pages.length; j++) {
+          processPage(pages[j], i + j, searchTerms, hits);
         }
 
-        // Pagefind's locations may only contain the best match for phrase
-        // searches. Expand by finding all content positions where the same
-        // sequence of normalized terms appears, so every paragraph is shown.
-        const pattern = rawLocations.map(l => norm(words[l] || "")).filter(Boolean);
-        const locations = [];
-        if (pattern.length > 0) {
-          for (let i = 0; i <= words.length - pattern.length; i++) {
-            if (pattern.every((t, j) => norm(words[i + j]) === t)) {
-              for (let j = 0; j < pattern.length; j++) locations.push(i + j);
-            }
-          }
-        }
-        // Fall back: scan content for all occurrences of each matched term
-        if (locations.length === 0) {
-          const terms = new Set(rawLocations.map(l => norm(words[l] || "")).filter(Boolean));
-          words.forEach((w, i) => { if (terms.has(norm(w))) locations.push(i); });
-        }
-        if (locations.length === 0) locations.push(...rawLocations);
-
-        // Each h6 anchor marks a speaker paragraph boundary.
-        // Skip heading text words so excerpts contain only paragraph content.
-        const paragraphs = anchors.map((a, i) => {
-          const headingWords = a.text ? a.text.split(/\s+/).length : 0;
-          return {
-            id: a.id,
-            speaker: a.text || "",
-            start: a.location + headingWords,
-            end: i + 1 < anchors.length ? anchors[i + 1].location : words.length,
-          };
-        });
-
-        // Find all paragraphs that contain at least one match
-        const seen = new Set();
-        for (const loc of locations) {
-          // Binary search for the paragraph containing this location
-          let lo = 0, hi = paragraphs.length - 1, para = null;
-          while (lo <= hi) {
-            const mid = (lo + hi) >> 1;
-            if (loc < paragraphs[mid].start) hi = mid - 1;
-            else if (loc >= paragraphs[mid].end) lo = mid + 1;
-            else { para = paragraphs[mid]; break; }
-          }
-          if (!para || seen.has(para.id)) continue;
-          seen.add(para.id);
-
-          const paraWords = words.slice(para.start, para.end);
-          const paraLocs = locations.filter(l => l >= para.start && l < para.end);
-          const offsets = new Set(paraLocs.map(l => l - para.start));
-
-          // Build excerpt: for short paragraphs show everything, for long ones
-          // show up to 3 match windows (context ±5 words) separated by " … ".
-          let excerpt;
-          if (paraWords.length <= 40) {
-            excerpt = paraWords.map((w, i) =>
-              offsets.has(i) ? `<mark>${escapeHtml(w)}</mark>` : escapeHtml(w)
-            ).join(" ");
-          } else {
-            // Group nearby offsets into clusters (merge if gap ≤ 3 words)
-            const sorted = [...offsets].sort((a, b) => a - b);
-            const clusters = [];
-            for (const off of sorted) {
-              const last = clusters[clusters.length - 1];
-              if (last && off - last[last.length - 1] <= 3) {
-                last.push(off);
-              } else {
-                clusters.push([off]);
-              }
-            }
-            // Select up to 3 clusters, prioritizing term diversity then match count.
-            // Greedily pick clusters that cover the most uncovered search terms.
-            const best = [];
-            const coveredTerms = new Set();
-            const remaining = [...clusters];
-            while (best.length < 3 && remaining.length > 0) {
-              remaining.sort((a, b) => {
-                const aNew = a.filter(o => !coveredTerms.has(norm(paraWords[o]))).length;
-                const bNew = b.filter(o => !coveredTerms.has(norm(paraWords[o]))).length;
-                return bNew - aNew || b.length - a.length;
-              });
-              const pick = remaining.shift();
-              best.push(pick);
-              for (const o of pick) coveredTerms.add(norm(paraWords[o]));
-            }
-            best.sort((a, b) => a[0] - b[0]);
-            // Dynamic context: distribute ~40 words evenly across clusters
-            const context = Math.max(3, Math.floor(20 / best.length));
-            // Build windows, then merge overlapping/adjacent ones
-            let windows = best.map(cluster => ({
-              start: Math.max(0, cluster[0] - context),
-              end: Math.min(paraWords.length, cluster[cluster.length - 1] + context + 1),
-              matches: new Set(cluster),
-            }));
-            for (let i = 1; i < windows.length; i++) {
-              if (windows[i].start <= windows[i - 1].end + 3) {
-                windows[i - 1].end = Math.max(windows[i - 1].end, windows[i].end);
-                for (const m of windows[i].matches) windows[i - 1].matches.add(m);
-                windows.splice(i--, 1);
-              }
-            }
-            const fragments = windows.map(w =>
-              paraWords.slice(w.start, w.end).map((word, i) =>
-                w.matches.has(w.start + i) ? `<mark>${escapeHtml(word)}</mark>` : escapeHtml(word)
-              ).join(" ")
-            );
-            excerpt = (windows[0].start > 0 ? "… " : "")
-              + fragments.join(" … ")
-              + (windows[windows.length - 1].end < paraWords.length ? " …" : "");
-          }
-
-          const normedPara = paraWords.map(w => norm(w));
-          const termCount = searchTerms.filter(t => {
-            const parts = t.split(/\s+/);
-            return parts.every(p => normedPara.includes(p));
-          }).length;
-          const totalHits = paraLocs.length;
-
-          // Check if all search terms appear adjacent and in order
-          let hasOrderedPhrase = false;
-          let hasAdjacentTerms = false;
-          if (searchTerms.length > 1) {
-            const normed = paraWords.map(w => norm(w));
-            // Check ordered: all terms appear as consecutive sequence in order
-            for (let i = 0; i <= normed.length - searchTerms.length; i++) {
-              if (searchTerms.every((t, j) => normed[i + j] === t)) {
-                hasOrderedPhrase = true;
-                hasAdjacentTerms = true;
-                break;
-              }
-            }
-            // Check adjacent in any order: all terms within a window of searchTerms.length
-            if (!hasAdjacentTerms) {
-              for (let i = 0; i <= normed.length - searchTerms.length; i++) {
-                const window = normed.slice(i, i + searchTerms.length);
-                if (searchTerms.every(t => window.includes(t))) {
-                  hasAdjacentTerms = true;
-                  break;
-                }
-              }
-            }
-          }
-
-          hits.push({ title, episodeUrl, date, speaker: para.speaker, excerpt,
-            termCount, totalHits, hasOrderedPhrase, hasAdjacentTerms, pageIndex: pageIdx });
-        }
-
-        // Fallback: page matched but no paragraph-level hits (e.g. title match)
-        if (!seen.size) {
-          hits.push({ title, episodeUrl, date, pageIndex: pageIdx, excerpt: page.excerpt || "" });
-        }
+        await new Promise(r => setTimeout(r, 0));
+        if (generation !== searchGeneration) return;
       }
 
       // AND semantics: only show paragraphs containing all search terms

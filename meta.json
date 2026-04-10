@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "number": 551,
+      "title": "LNP551 Schöne Fotos vom Weltuntergang",
+      "url": "https://logbuch-netzpolitik.de/lnp551-schoene-fotos-vom-weltuntergang",
+      "date": "2026-04-09",
+      "has_transcript": true
+    },
+    {
       "number": 550,
       "title": "LNP550 Wes Brot ich ess, des Lied ich sing",
       "url": "https://logbuch-netzpolitik.de/lnp550-wes-brot-ich-ess-des-lied-ich-sing",
@@ -3861,11 +3868,11 @@
   "speakers": [
     {
       "name": "Linus Neumann",
-      "cue_count": 223351
+      "cue_count": 224242
     },
     {
       "name": "Tim Pritlove",
-      "cue_count": 131952
+      "cue_count": 132375
     },
     {
       "name": "Thomas Lohninger",

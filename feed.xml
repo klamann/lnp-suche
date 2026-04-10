@@ -7,7 +7,7 @@
     <title>Logbuch:Netzpolitik</title>
     <link>https://logbuch-netzpolitik.de</link>
     <description><![CDATA[Einblicke und Ausblicke in das netzpolitische Geschehen]]></description>
-    <lastBuildDate>Mon, 06 Apr 2026 13:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 20:15:39 +0000</lastBuildDate>
     <image>
       <url>https://media.metaebene.me/media/lnp/lnp-logo-600x600.jpg</url>
       <title>Logbuch:Netzpolitik</title>
@@ -38,6 +38,225 @@
     <itunes:explicit>false</itunes:explicit>
     <podcast:funding url="https://metaebene.me/support">Spenden für die Metaebene</podcast:funding>
     <podcast:license url="http://creativecommons.org/licenses/by-nc-sa/3.0/de/deed.en">cc-by-nc-sa-3.0-de</podcast:license>
+    <item>
+      <title>LNP551 Schöne Fotos vom Weltuntergang</title>
+      <link>https://logbuch-netzpolitik.de/lnp551-schoene-fotos-vom-weltuntergang</link>
+      <pubDate>Thu, 09 Apr 2026 20:15:37 +0000</pubDate>
+      <guid isPermaLink="false">8b056a72-07d3-4d10-a89a-b57c4ea90e63</guid>
+      <description><![CDATA[Neben den drei großen Themen der Sendung gibt es heute erst mal Begriffsklärung in punkto Kunst und ihr dürft in Tims Schulzeit eintauchen. Danach ein Nachtrag zum Thema Digitale Gewalt und wir reflektieren kurz die jüngste Recherche der New York Times, die glaubt, dem Bitcoin-Erfinder auf die Schliche gekommen zu sein, der nur unter dem Pseudonym Satoshi Nakamoto bekannt ist. Den Rest der Sendung widmen wir der Ankündigung des neuen KI-Modells von Anthropic "Mythos", das wohl das Zeug dazu hat, die Cybersicherheit von Open Source Software grundlegend aufzumischen.]]></description>
+      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp551-schoene-fotos-vom-weltuntergang#"/>
+      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/9063/s/feed/c/mp3/lnp551-schoene-fotos-vom-weltuntergang.mp3" length="69521353" type="audio/mpeg"/>
+      <itunes:duration>01:55:48</itunes:duration>
+      <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
+      <itunes:subtitle>MERZ — Digitale Gewalt — Satoshi Nakamoto — Claude Mythos</itunes:subtitle>
+      <itunes:episode>551</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary><![CDATA[Neben den drei großen Themen der Sendung gibt es heute erst mal Begriffsklärung in punkto Kunst und ihr dürft in Tims Schulzeit eintauchen. Danach ein Nachtrag zum Thema Digitale Gewalt und wir reflektieren kurz die jüngste Recherche der New York Times, die glaubt, dem Bitcoin-Erfinder auf die Schliche gekommen zu sein, der nur unter dem Pseudonym Satoshi Nakamoto bekannt ist. Den Rest der Sendung widmen wir der Ankündigung des neuen KI-Modells von Anthropic &quot;Mythos&quot;, das wohl das Zeug dazu hat, die Cybersicherheit von Open Source Software grundlegend aufzumischen.]]></itunes:summary>
+      <itunes:image href="https://media.metaebene.me/media/lnp/lnp551-schoene-fotos-vom-weltuntergang.jpg"/>
+      <content:encoded><![CDATA[
+
+<p>Feedback zur Sendung?<br/>
+<strong><a href="https://logbuch-netzpolitik.de/lnp551-schoene-fotos-vom-weltuntergang#comments">Schreibe uns einen Kommentar</a></strong></p>
+
+
+
+<p><strong>MERZ — Digitale Gewalt — Satoshi Nakamoto — Claude Mythos</strong></p>
+
+<a href="https://media.metaebene.me/media/lnp/lnp551-schoene-fotos-vom-weltuntergang.jpg">
+<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535312d7363686f656e652d666f746f732d766f6d2d77656c74756e74657267616e672e6a7067/600/0/0/lnp551-schoene-fotos-vom-weltuntergang" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535312d7363686f656e652d666f746f732d766f6d2d77656c74756e74657267616e672e6a7067/600/0/0/lnp551-schoene-fotos-vom-weltuntergang 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535312d7363686f656e652d666f746f732d766f6d2d77656c74756e74657267616e672e6a7067/1200/0/0/lnp551-schoene-fotos-vom-weltuntergang 2x"/>
+</a>
+
+<p class="episode-summary">Neben den drei großen Themen der Sendung gibt es heute erst mal Begriffsklärung in punkto Kunst und ihr dürft in Tims Schulzeit eintauchen. Danach ein Nachtrag zum Thema Digitale Gewalt und wir reflektieren kurz die jüngste Recherche der New York Times, die glaubt, dem Bitcoin-Erfinder auf die Schliche gekommen zu sein, der nur unter dem Pseudonym Satoshi Nakamoto bekannt ist. Den Rest der Sendung widmen wir der Ankündigung des neuen KI-Modells von Anthropic &quot;Mythos&quot;, das wohl das Zeug dazu hat, die Cybersicherheit von Open Source Software grundlegend aufzumischen.</p>
+
+
+<div>
+
+<ul>
+<li>
+<strong>Linus Neumann</strong>
+<ul>
+<li>
+<a href="https://linus-neumann.de/">linus-neumann.de</a>
+</li>
+<li>
+<a href="https://23.social/@linuzifer">@linuzifer@23.social</a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/Linuzifer">@linuzifer@youtube.com</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/in/linus-neumann/">Linus Neumann</a>
+</li>
+<li>
+<a href="https://twitter.com/linuzifer">@linuzifer@twitter.com</a>
+</li>
+<li>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5U2Z7B6A8MHCE">Paypal</a>
+</li>
+<li>
+<a href="https://amzn.to/3r2hVqc">Amazon Wishlist</a>
+</li>
+</ul>
+</li>
+<li>
+<strong>Tim Pritlove</strong>
+<ul>
+<li>
+<a href="https://twitter.com/timpritlove">Twitter</a>
+</li>
+<li>
+<a href="https://mastodon.social/@timpritlove">Mastodon</a>
+</li>
+<li>
+<a href="https://metaebene.me">Website</a>
+</li>
+<li>
+<a href="https://liberapay.com/timpritlove">Liberapay</a>
+</li>
+<li>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BQTHPPWX5VQDW">Paypal</a>
+</li>
+</ul>
+</li>
+</ul>
+
+
+</div>
+
+    <hr/>
+
+    <div style="display: flex; margin-right: 20px">
+        <div class="transcript-logo">
+                    </div>
+        <div class="transcript-text" style="flex: 1; margin-left: 20px;">
+            <p>
+                Für diese Episode von Logbuch:Netzpolitik liegt auch ein <strong>vollständiges Transkript</strong>
+                mit Zeitmarken und Sprecheridentifikation vor.
+            </p>
+            <p>
+                Bitte beachten: das Transkript wurde automatisiert erzeugt und wurde nicht nachträglich gegengelesen oder korrigiert.
+                Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
+                Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
+                Formate:
+                <a href="https://logbuch-netzpolitik.de/lnp551-schoene-fotos-vom-weltuntergang?podlove_template_page=episode-transcript-html" download="lnp551-schoene-fotos-vom-weltuntergang.transcript.html">HTML</a>,
+                <a href="https://logbuch-netzpolitik.de/lnp551-schoene-fotos-vom-weltuntergang?podlove_transcript=webvtt" download="lnp551-schoene-fotos-vom-weltuntergang.transcript.vtt">WEBVTT</a>.
+            </p>
+        </div>
+    </div>
+
+    
+
+    <hr/>
+    
+
+
+
+
+
+
+
+<h1>Shownotes</h1>
+
+<h2>
+Prolog</h2>
+<ul>
+  <li>
+23: <a href="https://23.social/@linuzifer/116365036350195077">linuzifer (@linuzifer@23.social)</a>  </li>
+  <li>
+NASA: <a href="https://www.nasa.gov/image-article/earthset/">Earthset &#8211; NASA</a>  </li>
+  <li>
+NASA: <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/">NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth &#8211; NASA</a>  </li>
+  <li>
+de.wikipedia.org: <a href="https://de.wikipedia.org/wiki/Datei:Artemis_II_in_Eclipse.jpg">Datei:Artemis II in Eclipse.jpg – Wikipedia</a>  </li>
+</ul>
+<h2>
+MERZ</h2>
+<ul>
+  <li>
+Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Merz_(Kunstbegriff)">Merz (Kunstbegriff)</a>  </li>
+  <li>
+Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Merzbau">Merzbau</a>  </li>
+  <li>
+Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Kurt_Schwitters">Kurt Schwitters</a>  </li>
+  <li>
+Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Ursonate">Ursonate</a>  </li>
+</ul>
+<h2>
+Digitale Gewalt</h2>
+<ul>
+  <li>
+antistalking.haecksen.org: <a href="https://antistalking.haecksen.org/">Technische Hilfe gegen Cyberstalking | antistalking.haecksen.org</a>  </li>
+  <li>
+c-tube: <a href="https://c-tube.c-base.org/videos/browse?sort=-publishedAt">c-tube</a>  </li>
+</ul>
+<h2>
+Illegale Chatkontrolle</h2>
+<ul>
+  <li>
+netzpolitik.org: <a href="https://netzpolitik.org/2026/freiwillige-chatkontrolle-big-tech-will-ohne-rechtsgrundlage-weiterscannen/">Freiwillige Chatkontrolle: Big Tech will ohne Rechtsgrundlage weiterscannen</a>  </li>
+</ul>
+<h2>
+AI-Recherche zu Satoshi Nakamoto</h2>
+<ul>
+  <li>
+www.nytimes.com: <a href="https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html">Link to www.nytimes.com</a>  </li>
+  <li>
+heise online: <a href="https://www.heise.de/news/Bitcoin-Erfinder-enttarnt-Britischer-Unternehmer-widerspricht-New-York-Times-11248791.html">Bitcoin-Erfinder enttarnt? Britischer Unternehmer widerspricht New York Times</a>  </li>
+  <li>
+Wikipedia (en): <a href="https://en.wikipedia.org/wiki/Cypherpunk">Cypherpunk</a>  </li>
+  <li>
+Wikipedia (de): <a href="https://de.wikipedia.org/wiki/John_Gilmore_(B%C3%BCrgerrechtler)">John Gilmore (Bürgerrechtler)</a>  </li>
+</ul>
+<h2>
+Claude Mythos</h2>
+<ul>
+  <li>
+red.anthropic.com: <a href="https://red.anthropic.com/2026/mythos-preview/">Claude Mythos Preview \ red.anthropic.com</a>  </li>
+  <li>
+Zero Day Clock: <a href="https://zerodayclock.com/">Zero Day Clock</a>  </li>
+  <li>
+www.anthropic.com: <a href="https://www.anthropic.com/glasswing">Project Glasswing: Securing critical software for the AI era</a>  </li>
+  <li>
+Süddeutsche.de: <a href="https://www.sueddeutsche.de/wirtschaft/ki-modell-cybersicherheit-claude-mythos-glasswing-li.3464862">Claude Mythos: Anthropics neues KI-Modell ist angeblich zu gefährlich für Öffentlichkeit</a>  </li>
+  <li>
+www-cdn.anthropic.com: <a href="https://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf">System Card: Claude Mythos Preview [PDF]</a>  </li>
+  <li>
+Zero Day Clock: <a href="https://zerodayclock.com/call-to-action">Zero Day Clock</a>  </li>
+</ul>
+<h2>
+Bonus Track</h2>
+<ul>
+  <li>
+YouTube: <a href="https://www.youtube.com/watch?v=OarzWaVYZ-s">Charlotte de Montcassin &#8211; URSONATE &#8211; Kurt Schwitters (1887 &#8211; 1948)</a>  </li>
+  <li>
+YouTube: <a href="https://www.youtube.com/watch?v=1qLKu3R8no4">Kurt Schwitters  Ursonate  1932</a>  </li>
+</ul>
+
+]]></content:encoded>
+      <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+        <psc:chapter start="00:00:00.009" title="Intro"/>
+        <psc:chapter start="00:00:29.671" title="Prolog"/>
+        <psc:chapter start="00:06:55.383" title="MERZ"/>
+        <psc:chapter start="00:19:14.124" title="Digitale Gewalt"/>
+        <psc:chapter start="00:34:31.513" title="Satoshi Nakamoto"/>
+        <psc:chapter start="00:52:50.085" title="Claude Mythos"/>
+        <psc:chapter start="01:50:04.541" title="Epilog"/>
+        <psc:chapter start="01:52:08.235" title="Bonus Track"/>
+      </psc:chapters>
+      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp551-schoene-fotos-vom-weltuntergang?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp551-schoene-fotos-vom-weltuntergang?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp551-schoene-fotos-vom-weltuntergang?podlove_transcript=json_podcastindex" type="application/json"/>
+      <atom:contributor>
+        <atom:name>Linus Neumann</atom:name>
+        <atom:uri>http://www.linus-neumann.de/</atom:uri>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>Tim Pritlove</atom:name>
+        <atom:uri>http://tim.pritlove.org/</atom:uri>
+      </atom:contributor>
+      <podcast:person img="https://media.metaebene.me/media/metaebene/contributors/linus-neumann.jpg">Linus Neumann</podcast:person>
+      <podcast:person img="https://logbuch-netzpolitik.de/files/2020/11/IMG_4799.jpeg">Tim Pritlove</podcast:person>
+    </item>
     <item>
       <title>LNP550 Wes Brot ich ess, des Lied ich sing</title>
       <link>https://logbuch-netzpolitik.de/lnp550-wes-brot-ich-ess-des-lied-ich-sing</link>

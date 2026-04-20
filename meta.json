@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "number": 552,
+      "title": "LNP552 Walkampf",
+      "url": "https://logbuch-netzpolitik.de/lnp552-walkampf",
+      "date": "2026-04-20",
+      "has_transcript": true
+    },
+    {
       "number": 551,
       "title": "LNP551 Schöne Fotos vom Weltuntergang",
       "url": "https://logbuch-netzpolitik.de/lnp551-schoene-fotos-vom-weltuntergang",
@@ -3868,15 +3875,15 @@
   "speakers": [
     {
       "name": "Linus Neumann",
-      "cue_count": 224242
+      "cue_count": 225234
     },
     {
       "name": "Tim Pritlove",
-      "cue_count": 132375
+      "cue_count": 132797
     },
     {
       "name": "Thomas Lohninger",
-      "cue_count": 20574
+      "cue_count": 22452
     },
     {
       "name": "Andre Meister",

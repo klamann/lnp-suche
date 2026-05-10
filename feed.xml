@@ -7,7 +7,7 @@
     <title>Logbuch:Netzpolitik</title>
     <link>https://logbuch-netzpolitik.de</link>
     <description><![CDATA[Einblicke und Ausblicke in das netzpolitische Geschehen]]></description>
-    <lastBuildDate>Tue, 28 Apr 2026 11:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 18:39:42 +0000</lastBuildDate>
     <image>
       <url>https://media.metaebene.me/media/lnp/lnp-logo-600x600.jpg</url>
       <title>Logbuch:Netzpolitik</title>
@@ -38,6 +38,400 @@
     <itunes:explicit>false</itunes:explicit>
     <podcast:funding url="https://metaebene.me/support">Spenden für die Metaebene</podcast:funding>
     <podcast:license url="http://creativecommons.org/licenses/by-nc-sa/3.0/de/deed.en">cc-by-nc-sa-3.0-de</podcast:license>
+    <item>
+      <title>LNP553 Lokale Märkte Alternativer Anbieter</title>
+      <link>https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter</link>
+      <pubDate>Sat, 09 May 2026 14:00:04 +0000</pubDate>
+      <guid isPermaLink="false">0528d1f1-a785-4e8c-b57d-3fdcd6b3510f</guid>
+      <description><![CDATA[kantorkel ist zu Gast und berichtet von seiner Klage im Fall PimEyes und wir sprechen mit ihm auch ausführlich über die Pläne in Deutschland Fluggesellschaften direkten Zugriff auf hoheitliche Ausweise und die Pläne der EU, der USA direkten Zugriff auf unsere persönlichen Daten zu geben. Dazu klären wir kurz auf, was  der Rummel um die angeblichen Angriffe auf den Signal-Messenger bedeutet (Hint: war keiner) und schauen auf das finale Urteil im Fall Moses Pelham gegen Kraftwerk, was ggf. Bedeutung für die Nutzung von Samples in der Musik haben könnte.]]></description>
+      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter#"/>
+      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/9074/s/feed/c/mp3/lnp553-lokale-maerkte-alternativer-anbieter.mp3" length="76675246" type="audio/mpeg"/>
+      <itunes:duration>02:07:44</itunes:duration>
+      <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
+      <itunes:subtitle>DENIC — PimEyes — Digitale Fluggastabfertigung — US-Visumsdaten — Fun Facts — DID — Signal-Angriffe — Kraftwerk vs. Pelham — Termine</itunes:subtitle>
+      <itunes:episode>553</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary><![CDATA[kantorkel ist zu Gast und berichtet von seiner Klage im Fall PimEyes und wir sprechen mit ihm auch ausführlich über die Pläne in Deutschland Fluggesellschaften direkten Zugriff auf hoheitliche Ausweise und die Pläne der EU, der USA direkten Zugriff auf unsere persönlichen Daten zu geben. Dazu klären wir kurz auf, was  der Rummel um die angeblichen Angriffe auf den Signal-Messenger bedeutet (Hint: war keiner) und schauen auf das finale Urteil im Fall Moses Pelham gegen Kraftwerk, was ggf. Bedeutung für die Nutzung von Samples in der Musik haben könnte.]]></itunes:summary>
+      <itunes:image href="https://media.metaebene.me/media/lnp/lnp553-lokale-maerkte-alternativer-anbieter.jpg"/>
+      <content:encoded><![CDATA[
+
+<p>Feedback zur Sendung?<br/>
+<strong><a href="https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter#comments">Schreibe uns einen Kommentar</a></strong></p>
+
+
+
+<p><strong>DENIC — PimEyes — Digitale Fluggastabfertigung — US-Visumsdaten — Fun Facts — DID — Signal-Angriffe — Kraftwerk vs. Pelham — Termine</strong></p>
+
+<a href="https://media.metaebene.me/media/lnp/lnp553-lokale-maerkte-alternativer-anbieter.jpg">
+<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535332d6c6f6b616c652d6d6165726b74652d616c7465726e6174697665722d616e6269657465722e6a7067/600/0/0/lnp553-lokale-maerkte-alternativer-anbieter" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535332d6c6f6b616c652d6d6165726b74652d616c7465726e6174697665722d616e6269657465722e6a7067/600/0/0/lnp553-lokale-maerkte-alternativer-anbieter 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535332d6c6f6b616c652d6d6165726b74652d616c7465726e6174697665722d616e6269657465722e6a7067/1200/0/0/lnp553-lokale-maerkte-alternativer-anbieter 2x"/>
+</a>
+
+<p class="episode-summary">kantorkel ist zu Gast und berichtet von seiner Klage im Fall PimEyes und wir sprechen mit ihm auch ausführlich über die Pläne in Deutschland Fluggesellschaften direkten Zugriff auf hoheitliche Ausweise und die Pläne der EU, der USA direkten Zugriff auf unsere persönlichen Daten zu geben. Dazu klären wir kurz auf, was  der Rummel um die angeblichen Angriffe auf den Signal-Messenger bedeutet (Hint: war keiner) und schauen auf das finale Urteil im Fall Moses Pelham gegen Kraftwerk, was ggf. Bedeutung für die Nutzung von Samples in der Musik haben könnte.</p>
+
+
+<div>
+
+<ul>
+<li>
+<strong>Linus Neumann</strong>
+<ul>
+<li>
+<a href="https://linus-neumann.de/">linus-neumann.de</a>
+</li>
+<li>
+<a href="https://23.social/@linuzifer">@linuzifer@23.social</a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/Linuzifer">@linuzifer@youtube.com</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/in/linus-neumann/">Linus Neumann</a>
+</li>
+<li>
+<a href="https://twitter.com/linuzifer">@linuzifer@twitter.com</a>
+</li>
+<li>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5U2Z7B6A8MHCE">Paypal</a>
+</li>
+<li>
+<a href="https://amzn.to/3r2hVqc">Amazon Wishlist</a>
+</li>
+</ul>
+</li>
+<li>
+<strong>Tim Pritlove</strong>
+<ul>
+<li>
+<a href="https://twitter.com/timpritlove">Twitter</a>
+</li>
+<li>
+<a href="https://mastodon.social/@timpritlove">Mastodon</a>
+</li>
+<li>
+<a href="https://metaebene.me">Website</a>
+</li>
+<li>
+<a href="https://liberapay.com/timpritlove">Liberapay</a>
+</li>
+<li>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BQTHPPWX5VQDW">Paypal</a>
+</li>
+</ul>
+</li>
+<li>
+<strong>kantorkel</strong>
+<ul>
+<li>
+<a href="https://www.inf.uni-hamburg.de/inst/ab/snp/team/marx.html">Website</a>
+</li>
+<li>
+<a href="https://social.bau-ha.us/kantorkel">Mastodon</a>
+</li>
+</ul>
+</li>
+</ul>
+
+
+</div>
+
+    <hr/>
+
+    <div style="display: flex; margin-right: 20px">
+        <div class="transcript-logo">
+                    </div>
+        <div class="transcript-text" style="flex: 1; margin-left: 20px;">
+            <p>
+                Für diese Episode von Logbuch:Netzpolitik liegt auch ein <strong>vollständiges Transkript</strong>
+                mit Zeitmarken und Sprecheridentifikation vor.
+            </p>
+            <p>
+                Bitte beachten: das Transkript wurde automatisiert erzeugt und wurde nicht nachträglich gegengelesen oder korrigiert.
+                Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
+                Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
+                Formate:
+                <a href="https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?podlove_template_page=episode-transcript-html" download="lnp553-lokale-maerkte-alternativer-anbieter.transcript.html">HTML</a>,
+                <a href="https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?podlove_transcript=webvtt" download="lnp553-lokale-maerkte-alternativer-anbieter.transcript.vtt">WEBVTT</a>.
+            </p>
+        </div>
+    </div>
+
+    
+
+    <hr/>
+    
+
+
+
+
+
+
+
+<h1>Shownotes</h1>
+
+<h2>
+Prolog</h2>
+<ul>
+  <li>
+The Independent: <a href="https://www.the-independent.com/tech/ai-policy-south-africa-withdraw-b2966866.html">South Africa withdraws AI policy after it was found written by AI</a>  </li>
+</ul>
+<h2>
+kantorkel</h2>
+<ul>
+  <li>
+Logbuch:Netzpolitik: <a href="https://logbuch-netzpolitik.de/lnp492-oelverschmierte-haende">LNP492 Ölverschmierte Hände</a>  </li>
+  <li>
+Logbuch:Netzpolitik: <a href="https://logbuch-netzpolitik.de/lnp422-bundesverdienstcoin">LNP422 Bundesverdienstcoin</a>  </li>
+</ul>
+<h2>
+.de-fail</h2>
+<ul>
+  <li>
+heise online: <a href="https://www.heise.de/news/Probleme-mit-de-Domains-Was-bisher-bekannt-ist-11284320.html">Probleme mit .de-Domains: Was bisher bekannt ist</a>  </li>
+  <li>
+heise online: <a href="https://www.heise.de/news/DNS-Probleme-de-Domains-nicht-erreichbar-11283192.html">DNS-Probleme: .de-Domains nicht erreichbar</a>  </li>
+  <li>
+DENIC Blog: <a href="https://blog.denic.de/technische-storung-bei-de-domains-behoben/">Technische Störung bei .de-Domains behoben</a>  </li>
+  <li>
+www.spiegel.de: <a href="https://www.spiegel.de/netzwelt/netzpolitik/domain-name-system-dns-in-deutschland-das-sind-die-vier-unterschaetzten-schwachstellen-des-internets-a-57a9b43e-c7d5-4dbb-9f9c-bcfbc942d58b">(S+) Störung beim deutschen Domain Name System (DNS): Die vier unterschätzten Schwachstellen des Internets</a>  </li>
+  <li>
+YouTube: <a href="https://www.youtube.com/watch?v=fpqhjEtznVk">Wie funktioniert das Internet?</a>  </li>
+</ul>
+<h2>
+PIM Eyes</h2>
+<ul>
+  <li>
+pimeyes.com: <a href="https://pimeyes.com/">PIM Eyes</a>  </li>
+  <li>
+noyb.eu: <a href="https://noyb.eu/de/no-action-taken-against-pimeyes-noyb-lawsuit-against-hamburg-dpa">Kein Einschreiten gegen PimEyes: Klage gegen Hamburger Datenschutzbehörde</a>  </li>
+  <li>
+www.ccc.de: <a href="https://www.ccc.de/de/updates/2026/biometrische-massenuberwachung-nicht-langer-dulden-klage-gegen-hamburger-datenschutzbehorde">CCC | Biometrische Massenüberwachung nicht länger dulden: Klage gegen Hamburger Datenschutzbehörde</a>  </li>
+  <li>
+MillernTon: <a href="https://millernton.de/2026/03/25/bwh-ccc-ki-ueberwachung-im-fussball/">BWH &amp; CCC: KI-Überwachung im Fußball? &#8211; MillernTon</a>  </li>
+  <li>
+www.spiegel.de: <a href="https://www.spiegel.de/netzwelt/netzpolitik/g20-in-hamburg-polizei-darf-datenbank-fuer-gesichtsabgleich-nutzen-a-1293187.html">G20 in Hamburg: Polizei darf Datenbank für Gesichtsabgleich nutzen</a>  </li>
+</ul>
+<h2>
+Digitale Fluggastabfertigung</h2>
+<ul>
+  <li>
+www.ccc.de: <a href="https://www.ccc.de/de/updates/2017/chip-zappen">CCC | Heute mal ohne Biometrie: Reisepass „well done“</a>  </li>
+  <li>
+bundestagszusammenfasser.de: <a href="https://bundestagszusammenfasser.de/details?docid=1184">BTZusFas: Gesetzes zur Ermöglichung der digitalen Fluggastabfertigung</a>  </li>
+</ul>
+<h2>
+US-Visumsdaten</h2>
+<ul>
+  <li>
+www.statewatch.org: <a href="https://www.statewatch.org/analyses/2026/eu-us-data-exchange-proposal-in-conflict-with-eu-laws/">Statewatch | EU-US data exchange proposal in conflict with EU laws</a>  </li>
+  <li>
+www.golem.de: <a href="https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fvisaprogramm-so-weit-geht-der-geplante-datenaustausch-mit-den-usa-2605-208304.html">So weit geht der geplante Datenaustausch mit den USA</a>  </li>
+  <li>
+www.statewatch.org: <a href="https://www.statewatch.org/media/5360/wk_5183_2026pdf.pdf">Framework Agreement between the European Union and the United States of America on the reciprocal exchange of information for identity verification, and screening and vetting, relating to border procedures and applications for travel authorizations and visas [PDF]</a>  </li>
+</ul>
+<h2>
+Fun Facts</h2>
+<ul>
+  <li>
+Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Kreuzberg_61">Kreuzberg 61</a>  </li>
+  <li>
+X (formerly Twitter): <a href="https://x.com/PalantirTech/status/2045574398573453312">Palantir (@PalantirTech) on X</a>  </li>
+  <li>
+WeAct: <a href="https://weact.campact.de/petitions/stoppt-dobrindts-uberwachungsplane">Stoppt Dobrindts Überwachungspläne!</a>  </li>
+  <li>
+The Nerd Reich: <a href="https://www.thenerdreich.com/how-to-purge-palantir/">Purge Palantir: The Campaign Against Peter Thiel’s Spy Firm</a>  </li>
+  <li>
+www.patreon.com: <a href="https://www.patreon.com/posts/156426905">Why Alex Karp Decided It Was Time to Tell Everyone Palantir is in the Fascism Business</a>  </li>
+  <li>
+www.spiegel.de: <a href="https://www.spiegel.de/politik/deutschland/alex-karp-die-tech-mogule-setzen-auf-regime-change-meinung-a-dc685491-db1a-4cc6-b668-ab6c3ca30c75?sara_ref=re-so-app-sh">(S+) Meinung: Die Techmogule setzen auf Regime-Change – Meinung</a>  </li>
+</ul>
+<h3>
+Folge mit Linus</h3>
+<ul>
+  <li>
+Fun Facts: <a href="https://tube.funfacts.de/w/qiXXUYMGCqncf26YFDnaCN">Gefahr: Wie du von KI überwacht wirst | Fun Facts mit Linus Neumann</a>  </li>
+  <li>
+YouTube: <a href="https://www.youtube.com/watch?v=4irWwINfk98">Das ist Peter Thiels Dystopie | Fun Facts mit Linus Neumann &amp; Marc-Uwe Kling</a>  </li>
+</ul>
+<h3>
+Folge mit Oliver Kalkofe</h3>
+<ul>
+  <li>
+Fun Facts: <a href="https://tube.funfacts.de/w/76Pi4WVxmMdaw1gZoBmANR">Wie Milliardäre rechte Medien finanzieren | Fun Facts mit Oliver Kalkofe</a>  </li>
+  <li>
+YouTube: <a href="https://www.youtube.com/watch?v=XsoUL99Tkow">Wie Milliardäre rechte Medien finanzieren | Fun Facts mit Oliver Kalkofe</a>  </li>
+  <li>
+Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Fr%C3%BChstyxradio">Frühstyxradio</a>  </li>
+  <li>
+Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Oliver_Kalkofe">Oliver Kalkofe</a>  </li>
+  <li>
+Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Oliver_Welke">Oliver Welke</a>  </li>
+  <li>
+Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Dietmar_Wischmeyer">Dietmar Wischmeyer</a>  </li>
+</ul>
+<h3>
+Zentrum für politische Schönheit</h3>
+<ul>
+  <li>
+politicalbeauty.de: <a href="https://politicalbeauty.de/">Start | Zentrum für Politische Schönheit</a>  </li>
+  <li>
+der-adenauer.de: <a href="https://der-adenauer.de/schulen/">Für Schulen &amp; Eltern – Der Adenauer SRP+</a>  </li>
+</ul>
+<h3>
+Esels Alptraum</h3>
+<ul>
+  <li>
+www.eselsalptraum.de: <a href="https://www.eselsalptraum.de/">Esels Alptraum – Das antikapitalistische Jodelduo</a>  </li>
+  <li>
+www.eselsalptraum.de: <a href="https://www.eselsalptraum.de/in-aktion/">In Aktion! – Esels Alptraum</a>  </li>
+</ul>
+<h3>
+Fun Facts</h3>
+<ul>
+  <li>
+Fun Facts.: <a href="https://www.funfacts.de/">Fun Facts. &#8211; witzig, wichtig, richtig!</a>  </li>
+  <li>
+bande.funfacts.de: <a href="https://bande.funfacts.de/join">Unterstütze Fun Facts</a>  </li>
+  <li>
+Fun Facts.: <a href="https://www.funfacts.de/tickets-kaufen">Tickets | Fun Facts.</a>  </li>
+</ul>
+<h3>
+Folge mit Raul Krauthausen</h3>
+<ul>
+  <li>
+Fun Facts: <a href="https://tube.funfacts.de/w/oYG2fkGC4WSaazvA73P8XQ">Warum Deutschland Menschen mit Behinderung behindert | Fun Facts mit Raul Krauthausen</a>  </li>
+  <li>
+YouTube: <a href="https://www.youtube.com/watch?v=oGTzzZX_Dt4">Warum Deutschland Menschen mit Behinderung behindert | Fun Facts mit Raul Krauthausen</a>  </li>
+  <li>
+www.sozialhelden.de: <a href="https://www.sozialhelden.de/news/wie-barrierefrei-ist-deutschland">Wie barrierefrei ist Deutschland? &#8211; Sozialheld*innen</a>  </li>
+  <li>
+beta.a11yscore.org: <a href="https://beta.a11yscore.org/">a11y-Score</a>  </li>
+  <li>
+CRE: Technik, Kultur, Gesellschaft: <a href="https://cre.fm/cre168-wheelmap">CRE168 Wheelmap</a>  </li>
+  <li>
+wheelmap.org: <a href="https://wheelmap.org/">Access For Everybody</a>  </li>
+</ul>
+<h2>
+DID</h2>
+<ul>
+  <li>
+netzpolitik.org: <a href="https://netzpolitik.org/2026/neue-welle-spd-linke-und-gruene-verlassen-musks-plattform-x/">SPD, Linke und Grüne verlassen Musks Plattform X</a>  </li>
+  <li>
+lmaa.space: <a href="https://lmaa.space/">lmaa.space – Lokale Märkte. Alternative Anbieter.</a>  </li>
+  <li>
+diday.fediserve.de: <a href="https://diday.fediserve.de/">DiDay &#8211; Digital Independence Day</a>  </li>
+  <li>
+www.kuketz-blog.de: <a href="https://www.kuketz-blog.de/?s=%23unplug">Kuketz IT-Security Blog</a>  </li>
+  <li>
+diday.org: <a href="https://diday.org/en/">Digital Independence Day</a>  </li>
+  <li>
+events.diday.org: <a href="https://events.diday.org/">Digital Independence Day Veranstaltungen – immer am ersten Sonntag im Monat #DIDit #DUTgemacht</a>  </li>
+  <li>
+doeidag.nl: <a href="https://doeidag.nl/">Doeidag</a>  </li>
+</ul>
+<h3>
+Buch</h3>
+<ul>
+  <li>
+genialokal.de: <a href="https://www.genialokal.de/Produkt/Marc-Uwe-Kling/Die-Kaenguru-Rebellion_lid_57122447.html">Die Känguru-Rebellion</a>  </li>
+  <li>
+genialokal.de: <a href="https://www.genialokal.de/Produkt/Marc-Uwe-Kling/Die-Kaenguru-Rebellion-Die-Kaenguru-Werke-5_lid_57120837.html">Die Känguru-Rebellion (Die Känguru-Werke 5)</a>  </li>
+  <li>
+genialokal.de: <a href="https://www.genialokal.de/Produkt/Marc-Uwe-Kling/Die-Kaenguru-Rebellion_lid_57123100.html">Die Känguru-Rebellion</a>  </li>
+</ul>
+<h2>
+Signal-Angriffe</h2>
+<ul>
+  <li>
+www.tagesanzeiger.ch: <a href="https://www.tagesanzeiger.ch/signal-russischer-geheimdienst-hackt-deutsche-politiker-375274937575">www.tagesanzeiger.ch</a>  </li>
+  <li>
+netzpolitik.org: <a href="https://netzpolitik.org/2026/attacke-auf-politik-und-journalismus-signal-phishing-gegen-julia-kloeckner-erfolgreich/">Signal-Phishing gegen Julia Klöckner erfolgreich</a>  </li>
+  <li>
+www.golem.de: <a href="https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2F2604%2F207968.html">Golem</a>  </li>
+  <li>
+www.golem.de: <a href="https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fstaatspolitik-per-messenger-was-der-kloeckner-signal-fall-wirklich-offenlegt-2604-207968.html">Was der Klöckner-Signal-Fall wirklich offenlegt</a>  </li>
+  <li>
+www.spiegel.de: <a href="https://www.spiegel.de/politik/signal-spionage-erreicht-bundesregierung-auch-ministerinnen-betroffen-a-a4ad5e41-c595-41d3-bcab-87a522925838">(S+) Signal: Spionage erreicht Bundesregierung – auch Ministerinnen betroffen</a>  </li>
+</ul>
+<h2>
+Kraftwerk vs. Pelham nach 30 Jahren entschieden</h2>
+<ul>
+  <li>
+FAZEmag: <a href="https://www.fazemag.de/kraftwerk-verlieren-30-jaehrigen-urheberstreit-gegen-moses-pelham/">Kraftwerk verlieren 30-jährigen Urheberstreit gegen Moses Pelham</a>  </li>
+  <li>
+Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Moses_Pelham">Moses Pelham</a>  </li>
+  <li>
+Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Rechtsstreit_zwischen_Moses_Pelham_und_Kraftwerk">Rechtsstreit zwischen Moses Pelham und Kraftwerk</a>  </li>
+  <li>
+Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Pastiche">Pastiche</a>  </li>
+</ul>
+<h2>
+Termine</h2>
+<h3>
+Aktivsymposium München</h3>
+<ul>
+  <li>
+muc.ccc.de: <a href="https://muc.ccc.de/de/blog/2026/04/15/aktiv-symposium-m%C3%BCnchen-asm26-call-for-participation/">Aktiv Symposium München (ASM26): Call for Participation</a>  </li>
+</ul>
+<h3>
+Sicherheit ohne Überwachung</h3>
+<ul>
+  <li>
+sicherheit-ohne-ueberwachung.org: <a href="https://sicherheit-ohne-ueberwachung.org/2026/04/29/demo-am-13-juni-2026/">Demo am 13. Juni 2026 – Sicherheit ohne Überwachung</a>  </li>
+</ul>
+<h2>
+Hack an der Ruhr</h2>
+<ul>
+  <li>
+hadr.un-hack-bar.de: <a href="https://hadr.un-hack-bar.de/">Hack an der Ruhr 2026</a>  </li>
+  <li>
+pretalx.un-hack-bar.de: <a href="https://pretalx.un-hack-bar.de/hadr26/">Hack an der Ruhr 2026</a>  </li>
+</ul>
+<h3>
+InselChaos</h3>
+<ul>
+  <li>
+www.inselchaos.de: <a href="https://www.inselchaos.de/">InselChaos 2026</a>  </li>
+  <li>
+tickets.inselchaos.de: <a href="https://tickets.inselchaos.de/">InselChaos</a>  </li>
+  <li>
+talks.inselchaos.de: <a href="https://talks.inselchaos.de/inselchaos-2026/">InselChaos 2026</a>  </li>
+</ul>
+
+]]></content:encoded>
+      <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+        <psc:chapter start="00:00:00.000" title="Intro"/>
+        <psc:chapter start="00:00:32.647" title="Prolog"/>
+        <psc:chapter start="00:05:15.420" title="kantorkel"/>
+        <psc:chapter start="00:07:04.868" title=".de-fail"/>
+        <psc:chapter start="00:15:21.166" title="PimEyes"/>
+        <psc:chapter start="00:43:25.162" title="Digitale Fluggastabfertigung"/>
+        <psc:chapter start="00:55:16.686" title="US-Visumsdaten"/>
+        <psc:chapter start="01:03:51.475" title="Fun Facts"/>
+        <psc:chapter start="01:22:19.062" title="DID"/>
+        <psc:chapter start="01:31:05.244" title="Signal-Angriffe"/>
+        <psc:chapter start="01:44:18.115" title="Kraftwerk vs. Pelham"/>
+        <psc:chapter start="01:54:20.060" title="Termine"/>
+        <psc:chapter start="02:00:43.711" title="Epilog"/>
+        <psc:chapter start="02:05:15.532" title="Bonus Track"/>
+      </psc:chapters>
+      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?podlove_transcript=json_podcastindex" type="application/json"/>
+      <atom:contributor>
+        <atom:name>Linus Neumann</atom:name>
+        <atom:uri>http://www.linus-neumann.de/</atom:uri>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>Tim Pritlove</atom:name>
+        <atom:uri>http://tim.pritlove.org/</atom:uri>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>kantorkel</atom:name>
+      </atom:contributor>
+      <podcast:person img="https://media.metaebene.me/media/metaebene/contributors/linus-neumann.jpg">Linus Neumann</podcast:person>
+      <podcast:person img="https://logbuch-netzpolitik.de/files/2020/11/IMG_4799.jpeg">Tim Pritlove</podcast:person>
+      <podcast:person img="https://logbuch-netzpolitik.de/files/2022/02/kantorkel-marx64.png">kantorkel</podcast:person>
+    </item>
     <item>
       <title>LNP552 Walkampf</title>
       <link>https://logbuch-netzpolitik.de/lnp552-walkampf</link>

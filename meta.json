@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "number": 553,
+      "title": "LNP553 Lokale Märkte Alternativer Anbieter",
+      "url": "https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter",
+      "date": "2026-05-09",
+      "has_transcript": true
+    },
+    {
       "number": 552,
       "title": "LNP552 Walkampf",
       "url": "https://logbuch-netzpolitik.de/lnp552-walkampf",
@@ -3875,11 +3882,11 @@
   "speakers": [
     {
       "name": "Linus Neumann",
-      "cue_count": 225234
+      "cue_count": 226146
     },
     {
       "name": "Tim Pritlove",
-      "cue_count": 132797
+      "cue_count": 133210
     },
     {
       "name": "Thomas Lohninger",

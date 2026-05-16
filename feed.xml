@@ -17,9 +17,9 @@
     <atom:link rel="alternate" type="application/rss+xml" title="Logbuch:Netzpolitik (Opus Audio)" href="https://logbuch-netzpolitik.de/feed/opus"/>
     <atom:link rel="first" href="https://logbuch-netzpolitik.de/feed/mp3"/>
     <language>de</language>
-    <fyyd:verify xmlns:fyyd="https://fyyd.de/fyyd-ns/">p3kw2jdKsfAFQPqg9dqktkni49cwypc5qvFqrdgw</fyyd:verify>
     <atom:link rel="hub" href="https://metaebene.superfeedr.com"/>
-    <generator>Podlove Podcast Publisher v4.4.2</generator>
+    <fyyd:verify xmlns:fyyd="https://fyyd.de/fyyd-ns/">p3kw2jdKsfAFQPqg9dqktkni49cwypc5qvFqrdgw</fyyd:verify>
+    <generator>Podlove Podcast Publisher v4.5.0</generator>
     <podcast:guid>1a5d8a2e-ea12-442a-8ddc-670bdacdea83</podcast:guid>
     <copyright>Metaebene Personal Media</copyright>
     <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>

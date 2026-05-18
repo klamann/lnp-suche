@@ -1,8 +1,15 @@
 {
   "episodes": [
     {
+      "number": 554,
+      "title": "LNP554 Scheißidee, aber wenigstens mal eine andere",
+      "url": "https://logbuch-netzpolitik.de/lnp554-scheissidee-aber-wenigstens-mal-eine-andere",
+      "date": "2026-05-17",
+      "has_transcript": true
+    },
+    {
       "number": 553,
-      "title": "LNP553 Lokale Märkte. Alternative Anbieter",
+      "title": "LNP553 Lokale Märkte. Alternative Anbieter.",
       "url": "https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter",
       "date": "2026-05-09",
       "has_transcript": true
@@ -3882,11 +3889,11 @@
   "speakers": [
     {
       "name": "Linus Neumann",
-      "cue_count": 226146
+      "cue_count": 226551
     },
     {
       "name": "Tim Pritlove",
-      "cue_count": 133210
+      "cue_count": 133606
     },
     {
       "name": "Thomas Lohninger",

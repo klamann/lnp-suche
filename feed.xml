@@ -7,7 +7,7 @@
     <title>Logbuch:Netzpolitik</title>
     <link>https://logbuch-netzpolitik.de</link>
     <description><![CDATA[Einblicke und Ausblicke in das netzpolitische Geschehen]]></description>
-    <lastBuildDate>Sun, 17 May 2026 11:52:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 21:37:02 +0000</lastBuildDate>
     <image>
       <url>https://media.metaebene.me/media/lnp/lnp-logo-600x600.jpg</url>
       <title>Logbuch:Netzpolitik</title>
@@ -230,13 +230,7 @@ heise online: <a href="https://www.heise.de/news/Anthropic-findet-Antwort-Darum-
 www.anthropic.com: <a href="https://www.anthropic.com/research/teaching-claude-why">Teaching Claude why</a>  </li>
 </ul>
 <h2>
-Von der Leyen braucht keine Expert*innnen</h2>
-<ul>
-  <li>
-netzpolitik.org: <a href="https://netzpolitik.org/2026/es-ist-meine-ueberzeugung-von-der-leyen-kommt-eigenen-fachleuten-zuvor-und-will-social-media-verbot/">Von der Leyen kommt eigenen Fachleuten zuvor und will Social-Media-Verbot</a>  </li>
-</ul>
-<h2>
-Christian Ulmen</h2>
+Schertz-Bergmann</h2>
 <ul>
   <li>
 www.spiegel.de: <a href="https://www.spiegel.de/netzwelt/netzpolitik/fall-collien-fernandes-christian-ulmen-scheitert-vor-gericht-spiegel-bericht-bleibt-praktisch-unangetastet-a-29ed994a-d092-49d5-8a9b-afe135fceeb5">Fall Collien Fernandes: Christian Ulmen scheitert vor Gericht – SPIEGEL-Bericht bleibt praktisch unangetastet</a>  </li>
@@ -63424,8 +63418,8 @@ die gegen Artikel 13 stimmen und ‘Nein’ zu Upload-Filtern sagen</a></li>
       <pubDate>Wed, 27 Feb 2019 17:23:02 +0000</pubDate>
       <guid isPermaLink="false">podlove-2019-02-27t16:00:31+00:00-b57834552e10eb3</guid>
       <description><![CDATA[Jetzt ist es – wirklich – fünf vor zwölf und Thomas präsentiert die neue Aktion gegen Uploadfilter: Abgeordnete anrufen, im echten Leben. Es ist gar nicht so schlimm!]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp288-wir-nennen-namen#"/>
-      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/6629/s/feed/c/mp3/lnp288-wir-nennen-namen.mp3" length="35370830" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp288-wir-nennen-namen#"/>
+      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/6629/s/feed/c/mp3/lnp288-wir-nennen-namen.mp3" length="35370830" type="audio/mpeg"/>
       <itunes:duration>00:58:56</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Copyright Directive — Demonstration — Petition — Telefon — Termine</itunes:subtitle>
@@ -63435,7 +63429,7 @@ die gegen Artikel 13 stimmen und ‘Nein’ zu Upload-Filtern sagen</a></li>
       <content:encoded><![CDATA[<p>
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="http://logbuch-netzpolitik.de/lnp288-wir-nennen-namen#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="https://logbuch-netzpolitik.de/lnp288-wir-nennen-namen#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -63514,8 +63508,8 @@ die gegen Artikel 13 stimmen und ‘Nein’ zu Upload-Filtern sagen</a></li>
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="http://logbuch-netzpolitik.de/lnp288-wir-nennen-namen?podlove_template_page=episode-transcript-html" download="lnp288-wir-nennen-namen.transcript.html">HTML</a>,
-                <a href="http://logbuch-netzpolitik.de/lnp288-wir-nennen-namen?podlove_transcript=webvtt" download="lnp288-wir-nennen-namen.transcript.vtt">WEBVTT</a>.
+                <a href="https://logbuch-netzpolitik.de/lnp288-wir-nennen-namen?podlove_template_page=episode-transcript-html" download="lnp288-wir-nennen-namen.transcript.html">HTML</a>,
+                <a href="https://logbuch-netzpolitik.de/lnp288-wir-nennen-namen?podlove_transcript=webvtt" download="lnp288-wir-nennen-namen.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -63592,9 +63586,9 @@ die gegen Artikel 13 stimmen und ‘Nein’ zu Upload-Filtern sagen</a></li>
         <psc:chapter start="00:54:10.467" title="Epilog"/>
         <psc:chapter start="00:54:52.550" title="Bonus: &quot;Uploadfilter Erklärt&quot;"/>
       </psc:chapters>
-      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp288-wir-nennen-namen?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp288-wir-nennen-namen?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp288-wir-nennen-namen?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp288-wir-nennen-namen?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp288-wir-nennen-namen?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp288-wir-nennen-namen?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -63611,8 +63605,8 @@ die gegen Artikel 13 stimmen und ‘Nein’ zu Upload-Filtern sagen</a></li>
       <pubDate>Thu, 21 Feb 2019 17:00:21 +0000</pubDate>
       <guid isPermaLink="false">podlove-2019-02-21t16:44:42+00:00-4a99638147ad998</guid>
       <description><![CDATA[Die fortgesetzte dystopische Grundstimmung treibt uns heute in den Bunker und wir diskutieren erneut das aktuelle Aufregerthema rund um die EU-Urheberrechtsreform, die zunehmend aus dem Ruder läuft. Wir verteilen auch noch mal ein paar Klapse auf den Hinterkopf für Leute, die immer noch glauben, Computer und Wahlen wären in irgendeiner Form füreinander gedacht (Hint: sind sie nicht) und blicken noch auf eine misslungene Studie zu Social Bots und die misslungenen Pläne für das IT-Sicherheitsgesetz, das vieles angeht, nur nicht die eigentlichen Probleme.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp287-it-sicherheitsgesetz-3-11-fuer-workgroups#"/>
-      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/6619/s/feed/c/mp3/lnp287-it-sicherheitsgesetz-3.11-fuer-workgroups.mp3" length="58968004" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp287-it-sicherheitsgesetz-3-11-fuer-workgroups#"/>
+      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/6619/s/feed/c/mp3/lnp287-it-sicherheitsgesetz-3.11-fuer-workgroups.mp3" length="58968004" type="audio/mpeg"/>
       <itunes:duration>01:37:42</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Artikel 13 — Social Bots — Cybervoting — 5G — IT-Sicherheitsgesetz — Staatliche Audits — Digitalpakt — Fingerabdruck im Ausweis — Termine</itunes:subtitle>
@@ -63622,7 +63616,7 @@ die gegen Artikel 13 stimmen und ‘Nein’ zu Upload-Filtern sagen</a></li>
       <content:encoded><![CDATA[<p>
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="http://logbuch-netzpolitik.de/lnp287-it-sicherheitsgesetz-3-11-fuer-workgroups#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="https://logbuch-netzpolitik.de/lnp287-it-sicherheitsgesetz-3-11-fuer-workgroups#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -63701,8 +63695,8 @@ die gegen Artikel 13 stimmen und ‘Nein’ zu Upload-Filtern sagen</a></li>
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="http://logbuch-netzpolitik.de/lnp287-it-sicherheitsgesetz-3-11-fuer-workgroups?podlove_template_page=episode-transcript-html" download="lnp287-it-sicherheitsgesetz-3.11-fuer-workgroups.transcript.html">HTML</a>,
-                <a href="http://logbuch-netzpolitik.de/lnp287-it-sicherheitsgesetz-3-11-fuer-workgroups?podlove_transcript=webvtt" download="lnp287-it-sicherheitsgesetz-3.11-fuer-workgroups.transcript.vtt">WEBVTT</a>.
+                <a href="https://logbuch-netzpolitik.de/lnp287-it-sicherheitsgesetz-3-11-fuer-workgroups?podlove_template_page=episode-transcript-html" download="lnp287-it-sicherheitsgesetz-3.11-fuer-workgroups.transcript.html">HTML</a>,
+                <a href="https://logbuch-netzpolitik.de/lnp287-it-sicherheitsgesetz-3-11-fuer-workgroups?podlove_transcript=webvtt" download="lnp287-it-sicherheitsgesetz-3.11-fuer-workgroups.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -63719,16 +63713,16 @@ die gegen Artikel 13 stimmen und ‘Nein’ zu Upload-Filtern sagen</a></li>
     <h3>Verwandte Episoden</h3>
     <ul>
             <li>
-            <a href="http://logbuch-netzpolitik.de/lnp004-turboboost">LNP004 TurboBoost</a>
+            <a href="https://logbuch-netzpolitik.de/lnp004-turboboost">LNP004 TurboBoost</a>
         </li>
             <li>
-            <a href="http://logbuch-netzpolitik.de/lnp150-kampf-in-der-fuenften-dimension">LNP150 Kampf in der fünften Dimension</a>
+            <a href="https://logbuch-netzpolitik.de/lnp150-kampf-in-der-fuenften-dimension">LNP150 Kampf in der fünften Dimension</a>
         </li>
             <li>
-            <a href="http://logbuch-netzpolitik.de/lnp239-faktenfaktura">LNP239 Faktenfaktura</a>
+            <a href="https://logbuch-netzpolitik.de/lnp239-faktenfaktura">LNP239 Faktenfaktura</a>
         </li>
             <li>
-            <a href="http://logbuch-netzpolitik.de/lnp259-stell-dir-vor-es-ist-standard-und-keiner-macht-mit">LNP259 Stell Dir vor es ist Standard und keiner macht mit</a>
+            <a href="https://logbuch-netzpolitik.de/lnp259-stell-dir-vor-es-ist-standard-und-keiner-macht-mit">LNP259 Stell Dir vor es ist Standard und keiner macht mit</a>
         </li>
         </ul>
 
@@ -63843,9 +63837,9 @@ die gegen Artikel 13 stimmen und ‘Nein’ zu Upload-Filtern sagen</a></li>
         <psc:chapter start="01:25:29.683" title="Epilog"/>
         <psc:chapter start="01:33:36.619" title="Bonus Track"/>
       </psc:chapters>
-      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp287-it-sicherheitsgesetz-3-11-fuer-workgroups?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp287-it-sicherheitsgesetz-3-11-fuer-workgroups?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp287-it-sicherheitsgesetz-3-11-fuer-workgroups?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp287-it-sicherheitsgesetz-3-11-fuer-workgroups?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp287-it-sicherheitsgesetz-3-11-fuer-workgroups?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp287-it-sicherheitsgesetz-3-11-fuer-workgroups?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -64296,8 +64290,8 @@ Seminargebäude der TU Chemnitz: <a href="https://chemnitzer.linux-tage.de/2019/
       <pubDate>Mon, 28 Jan 2019 15:29:30 +0000</pubDate>
       <guid isPermaLink="false">podlove-2019-01-28t15:14:53+00:00-9e4086919263e4f</guid>
       <description><![CDATA[Wird gerade nix mit kurzen Sendungen, der dystopische Druck ist leider so groß, dass wir so einigen Dampf vom Kessel lassen müssen und so gibt es neben einer ausführlichen Feedback-Runde samt Ehrenrettung der deutschen Dichter und Denker einen tiefen Einblick in allerlei Polizei: Datenaustausch, Polizeigesetze und Nazis am Polizeicomputer halten uns auf Trab.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp284-urteil-des-bundesverfassungsschutzes#"/>
-      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/6575/s/feed/c/mp3/lnp284-urteil-des-bundesverfassungsschutzes.mp3" length="99825244" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp284-urteil-des-bundesverfassungsschutzes#"/>
+      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/6575/s/feed/c/mp3/lnp284-urteil-des-bundesverfassungsschutzes.mp3" length="99825244" type="audio/mpeg"/>
       <itunes:duration>02:46:17</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback —  Collection 2-5 — BfVS vs. AfD — Facebook — Kampf gegen Fake News — CitizenLab — Eurotrojaner — Schweiz gegen E-Voting — Polizeigesetze — Smart Meter —5G</itunes:subtitle>
@@ -64307,7 +64301,7 @@ Seminargebäude der TU Chemnitz: <a href="https://chemnitzer.linux-tage.de/2019/
       <content:encoded><![CDATA[<p>
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="http://logbuch-netzpolitik.de/lnp284-urteil-des-bundesverfassungsschutzes#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="https://logbuch-netzpolitik.de/lnp284-urteil-des-bundesverfassungsschutzes#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -64386,8 +64380,8 @@ Seminargebäude der TU Chemnitz: <a href="https://chemnitzer.linux-tage.de/2019/
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="http://logbuch-netzpolitik.de/lnp284-urteil-des-bundesverfassungsschutzes?podlove_template_page=episode-transcript-html" download="lnp284-urteil-des-bundesverfassungsschutzes.transcript.html">HTML</a>,
-                <a href="http://logbuch-netzpolitik.de/lnp284-urteil-des-bundesverfassungsschutzes?podlove_transcript=webvtt" download="lnp284-urteil-des-bundesverfassungsschutzes.transcript.vtt">WEBVTT</a>.
+                <a href="https://logbuch-netzpolitik.de/lnp284-urteil-des-bundesverfassungsschutzes?podlove_template_page=episode-transcript-html" download="lnp284-urteil-des-bundesverfassungsschutzes.transcript.html">HTML</a>,
+                <a href="https://logbuch-netzpolitik.de/lnp284-urteil-des-bundesverfassungsschutzes?podlove_transcript=webvtt" download="lnp284-urteil-des-bundesverfassungsschutzes.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -64522,9 +64516,9 @@ Seminargebäude der TU Chemnitz: <a href="https://chemnitzer.linux-tage.de/2019/
         <psc:chapter start="02:39:24.723" title="5G-Auktion"/>
         <psc:chapter start="02:44:21.394" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp284-urteil-des-bundesverfassungsschutzes?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp284-urteil-des-bundesverfassungsschutzes?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp284-urteil-des-bundesverfassungsschutzes?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp284-urteil-des-bundesverfassungsschutzes?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp284-urteil-des-bundesverfassungsschutzes?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp284-urteil-des-bundesverfassungsschutzes?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -64542,8 +64536,8 @@ Seminargebäude der TU Chemnitz: <a href="https://chemnitzer.linux-tage.de/2019/
       <pubDate>Tue, 22 Jan 2019 10:23:37 +0000</pubDate>
       <guid isPermaLink="false">podlove-2019-01-22t09:23:57+00:00-d96d2093023ae74</guid>
       <description><![CDATA[Die aktuellen Ereignisse bringen uns dazu, Passwort-Entscheidungen der Vergangenheit zu beschmunzeln, die Hoffnung auf eine Wende in der Frage des EU-Urheberrechts noch nicht ganz aufzugeben, den Kopf über deutsche und österreichische Minister zu schütteln und nebenbei wieder mal das eine oder andere technische Detail aufzudröseln.  Tim klatscht derweil mit dem Bundespräsiadialamt ab und verkündet die Verfügbarkeit der Tickets für die SUBSCRIBE 10 in Köln.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp283-23bonobo42#"/>
-      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/6553/s/feed/c/mp3/lnp283-23bonobo42.mp3" length="59209282" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp283-23bonobo42#"/>
+      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/6553/s/feed/c/mp3/lnp283-23bonobo42.mp3" length="59209282" type="audio/mpeg"/>
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — EU-Urheberrechtsreform — Seehofer — Collection 1 — MAC-Adressen — TKÜ — Handy-Tracking — Registrierungspflicht in AT — Frank-Walter ist Tims Homie — SUBSCRIBE 10</itunes:subtitle>
@@ -64553,7 +64547,7 @@ Seminargebäude der TU Chemnitz: <a href="https://chemnitzer.linux-tage.de/2019/
       <content:encoded><![CDATA[<p>
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="http://logbuch-netzpolitik.de/lnp283-23bonobo42#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="https://logbuch-netzpolitik.de/lnp283-23bonobo42#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -64632,8 +64626,8 @@ Seminargebäude der TU Chemnitz: <a href="https://chemnitzer.linux-tage.de/2019/
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="http://logbuch-netzpolitik.de/lnp283-23bonobo42?podlove_template_page=episode-transcript-html" download="lnp283-23bonobo42.transcript.html">HTML</a>,
-                <a href="http://logbuch-netzpolitik.de/lnp283-23bonobo42?podlove_transcript=webvtt" download="lnp283-23bonobo42.transcript.vtt">WEBVTT</a>.
+                <a href="https://logbuch-netzpolitik.de/lnp283-23bonobo42?podlove_template_page=episode-transcript-html" download="lnp283-23bonobo42.transcript.html">HTML</a>,
+                <a href="https://logbuch-netzpolitik.de/lnp283-23bonobo42?podlove_transcript=webvtt" download="lnp283-23bonobo42.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -64729,9 +64723,9 @@ Seminargebäude der TU Chemnitz: <a href="https://chemnitzer.linux-tage.de/2019/
         <psc:chapter start="01:35:35.963" title="SUBSCRIBE 10: Tickets verfügbar"/>
         <psc:chapter start="01:36:35.579" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp283-23bonobo42?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp283-23bonobo42?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp283-23bonobo42?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp283-23bonobo42?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp283-23bonobo42?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp283-23bonobo42?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -68335,8 +68329,8 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
       <pubDate>Sat, 08 Sep 2018 21:30:02 +0000</pubDate>
       <guid isPermaLink="false">podlove-2018-09-08t15:49:31+00:00-8e21e3c5a0e73c1</guid>
       <description><![CDATA[Nachdem es uns letzte Woche in England leider nicht gelungen ist, eine Sendung aufzunehmen, liefern wir natürlich wieder in Überlänge nach. Es gibt so einiges abzuklappern und natürlich schweifen wir bei jedem Thema ordentlich ab, wie es sich gehört. Und irgendwie entwickeln wir im Laufe der Sendung einen Film mit dem Erlkönig.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp266-datenlos-durch-die-nacht#"/>
-      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/6223/s/feed/c/mp3/lnp266-datenlos-durch-die-nacht.mp3" length="76783709" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp266-datenlos-durch-die-nacht#"/>
+      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/6223/s/feed/c/mp3/lnp266-datenlos-durch-die-nacht.mp3" length="76783709" type="audio/mpeg"/>
       <itunes:duration>02:07:53</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Chemnitz — Maaßen — Infowars — Copyright — beA — Five Eyes — Google &amp;amp; Mastercard — Durchsuchungen in Dortmund &amp;amp; Augsburg — Open Access — PNR — Cybersicherheit</itunes:subtitle>
@@ -68346,7 +68340,7 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
       <content:encoded><![CDATA[<p>
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="http://logbuch-netzpolitik.de/lnp266-datenlos-durch-die-nacht#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="https://logbuch-netzpolitik.de/lnp266-datenlos-durch-die-nacht#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -68425,8 +68419,8 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="http://logbuch-netzpolitik.de/lnp266-datenlos-durch-die-nacht?podlove_template_page=episode-transcript-html" download="lnp266-datenlos-durch-die-nacht.transcript.html">HTML</a>,
-                <a href="http://logbuch-netzpolitik.de/lnp266-datenlos-durch-die-nacht?podlove_transcript=webvtt" download="lnp266-datenlos-durch-die-nacht.transcript.vtt">WEBVTT</a>.
+                <a href="https://logbuch-netzpolitik.de/lnp266-datenlos-durch-die-nacht?podlove_template_page=episode-transcript-html" download="lnp266-datenlos-durch-die-nacht.transcript.html">HTML</a>,
+                <a href="https://logbuch-netzpolitik.de/lnp266-datenlos-durch-die-nacht?podlove_transcript=webvtt" download="lnp266-datenlos-durch-die-nacht.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -68541,9 +68535,9 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
         <psc:chapter start="01:54:12.510" title="Epilog"/>
         <psc:chapter start="02:03:36.202" title="Bonus Track"/>
       </psc:chapters>
-      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp266-datenlos-durch-die-nacht?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp266-datenlos-durch-die-nacht?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp266-datenlos-durch-die-nacht?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp266-datenlos-durch-die-nacht?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp266-datenlos-durch-die-nacht?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp266-datenlos-durch-die-nacht?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -68800,8 +68794,8 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
       <pubDate>Fri, 10 Aug 2018 23:32:09 +0000</pubDate>
       <guid isPermaLink="false">podlove-2018-08-10t23:02:58+00:00-3bcdfe06450b0a9</guid>
       <description><![CDATA[Nach einer kurzen Auszeit geht es weiter und wir widmen uns den Blöcken dies mal ausführlich mit einigen Metadiskussionen.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp264-heute-schon-an-die-apokalypse-denken#"/>
-      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/6202/s/feed/c/mp3/lnp264-heute-schon-an-die-apokalypse-denken.mp3" length="78143446" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp264-heute-schon-an-die-apokalypse-denken#"/>
+      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/6202/s/feed/c/mp3/lnp264-heute-schon-an-die-apokalypse-denken.mp3" length="78143446" type="audio/mpeg"/>
       <itunes:duration>02:10:09</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Maaßen — Alex Jones — Staatstrojaner — Urheberrecht und EuGH — Hacksport — Termine</itunes:subtitle>
@@ -68811,7 +68805,7 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
       <content:encoded><![CDATA[<p>
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="http://logbuch-netzpolitik.de/lnp264-heute-schon-an-die-apokalypse-denken#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="https://logbuch-netzpolitik.de/lnp264-heute-schon-an-die-apokalypse-denken#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -68890,8 +68884,8 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="http://logbuch-netzpolitik.de/lnp264-heute-schon-an-die-apokalypse-denken?podlove_template_page=episode-transcript-html" download="lnp264-heute-schon-an-die-apokalypse-denken.transcript.html">HTML</a>,
-                <a href="http://logbuch-netzpolitik.de/lnp264-heute-schon-an-die-apokalypse-denken?podlove_transcript=webvtt" download="lnp264-heute-schon-an-die-apokalypse-denken.transcript.vtt">WEBVTT</a>.
+                <a href="https://logbuch-netzpolitik.de/lnp264-heute-schon-an-die-apokalypse-denken?podlove_template_page=episode-transcript-html" download="lnp264-heute-schon-an-die-apokalypse-denken.transcript.html">HTML</a>,
+                <a href="https://logbuch-netzpolitik.de/lnp264-heute-schon-an-die-apokalypse-denken?podlove_transcript=webvtt" download="lnp264-heute-schon-an-die-apokalypse-denken.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -68992,9 +68986,9 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
         <psc:chapter start="02:04:49.188" title="Epilog"/>
         <psc:chapter start="02:07:15.445" title="Bonus Track"/>
       </psc:chapters>
-      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp264-heute-schon-an-die-apokalypse-denken?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp264-heute-schon-an-die-apokalypse-denken?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp264-heute-schon-an-die-apokalypse-denken?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp264-heute-schon-an-die-apokalypse-denken?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp264-heute-schon-an-die-apokalypse-denken?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp264-heute-schon-an-die-apokalypse-denken?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -69012,8 +69006,8 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
       <pubDate>Sat, 28 Jul 2018 06:47:51 +0000</pubDate>
       <guid isPermaLink="false">podlove-2018-07-28t06:39:34+00:00-69ad562b796c6c8</guid>
       <description><![CDATA[Urlaubsbedingt eine Aufnahme über die verwundenen Wege des Internets, aber eine Sendung. Wir sprechen über die Transparenzberichte zum Thema NetzDG von facebook, Twitter und Google, knifflige Entscheidungen zur Störerhaftung, das bevorstehende Ende des Aufenthalts von Julio Assanchez in der ecuadorianisischen Botschaft in London und Österreichs Versuchen, die ePrivacy-Richtlinie auf den letzten Metern zu verhindern. Dazu gibt es noch etwas Boulevardmeldungen und ein paar frische Termine.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp263-der-putsch-daemon#"/>
-      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/6190/s/feed/c/mp3/lnp263-der-putsch-daemon.mp3" length="47861545" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp263-der-putsch-daemon#"/>
+      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/6190/s/feed/c/mp3/lnp263-der-putsch-daemon.mp3" length="47861545" type="audio/mpeg"/>
       <itunes:duration>01:19:41</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>NetzDG — Störerhaftung — Julio Assanchez — ePrivacy-Richtlinie — Putins &amp;quot;Spionage-Chip&amp;quot; — Termine</itunes:subtitle>
@@ -69023,7 +69017,7 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
       <content:encoded><![CDATA[<p>
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="http://logbuch-netzpolitik.de/lnp263-der-putsch-daemon#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="https://logbuch-netzpolitik.de/lnp263-der-putsch-daemon#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -69102,8 +69096,8 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="http://logbuch-netzpolitik.de/lnp263-der-putsch-daemon?podlove_template_page=episode-transcript-html" download="lnp263-der-putsch-daemon.transcript.html">HTML</a>,
-                <a href="http://logbuch-netzpolitik.de/lnp263-der-putsch-daemon?podlove_transcript=webvtt" download="lnp263-der-putsch-daemon.transcript.vtt">WEBVTT</a>.
+                <a href="https://logbuch-netzpolitik.de/lnp263-der-putsch-daemon?podlove_template_page=episode-transcript-html" download="lnp263-der-putsch-daemon.transcript.html">HTML</a>,
+                <a href="https://logbuch-netzpolitik.de/lnp263-der-putsch-daemon?podlove_transcript=webvtt" download="lnp263-der-putsch-daemon.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -69120,7 +69114,7 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
     <h3>Verwandte Episoden</h3>
     <ul>
             <li>
-            <a href="http://logbuch-netzpolitik.de/lnp204-factbook-oder-fakebook-das-ist-hier-die-frage">LNP204 Factbook oder Fakebook, das ist hier die Frage</a>
+            <a href="https://logbuch-netzpolitik.de/lnp204-factbook-oder-fakebook-das-ist-hier-die-frage">LNP204 Factbook oder Fakebook, das ist hier die Frage</a>
         </li>
         </ul>
 
@@ -69187,9 +69181,9 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
         <psc:chapter start="01:11:56.316" title="Termine"/>
         <psc:chapter start="01:14:44.268" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp263-der-putsch-daemon?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp263-der-putsch-daemon?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp263-der-putsch-daemon?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp263-der-putsch-daemon?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp263-der-putsch-daemon?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp263-der-putsch-daemon?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -69207,8 +69201,8 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
       <pubDate>Sat, 21 Jul 2018 10:21:30 +0000</pubDate>
       <guid isPermaLink="false">podlove-2018-07-21t09:52:23+00:00-d8b2c41cb173ed0</guid>
       <description><![CDATA[Wir sitzen in einer leicht unterurbanen Region und leiden unter Funkloch. Trotz latentem Urlaubsmodus tragen wir ein wenig Feedback zusammen und diskutieren Entscheidungen der EU-Kartellbehörde und des Bundesverfassungsgerichts sowie die Klage gegen den Biometrieabgleich, der von der GFF vorangetrieben wird.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp262-alces-datae#"/>
-      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/6172/s/feed/c/mp3/lnp262-alces-datae.mp3" length="47617820" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp262-alces-datae#"/>
+      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/6172/s/feed/c/mp3/lnp262-alces-datae.mp3" length="47617820" type="audio/mpeg"/>
       <itunes:duration>01:19:16</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Mobilfunkausbau — EU-Kartellstrafe für Google — Rundfunkbeitrag — Verfassungsbeschwerde gegen Biometrieabgleich</itunes:subtitle>
@@ -69218,7 +69212,7 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
       <content:encoded><![CDATA[<p>
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="http://logbuch-netzpolitik.de/lnp262-alces-datae#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="https://logbuch-netzpolitik.de/lnp262-alces-datae#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -69297,8 +69291,8 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="http://logbuch-netzpolitik.de/lnp262-alces-datae?podlove_template_page=episode-transcript-html" download="lnp262-alces-datae.transcript.html">HTML</a>,
-                <a href="http://logbuch-netzpolitik.de/lnp262-alces-datae?podlove_transcript=webvtt" download="lnp262-alces-datae.transcript.vtt">WEBVTT</a>.
+                <a href="https://logbuch-netzpolitik.de/lnp262-alces-datae?podlove_template_page=episode-transcript-html" download="lnp262-alces-datae.transcript.html">HTML</a>,
+                <a href="https://logbuch-netzpolitik.de/lnp262-alces-datae?podlove_transcript=webvtt" download="lnp262-alces-datae.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -69315,7 +69309,7 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
 
 
 <h1>Shownotes</h1>
-<div id="attachment_4073" style="width: 594px" class="wp-caption aligncenter"><a href="https://logbuch-netzpolitik.de/files/2018/07/max-alces-datae-lnp.jpg"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-4073" class="wp-image-4073 size-large" src="https://logbuch-netzpolitik.de/files/2018/07/max-alces-datae-lnp-790x1024.jpg" alt="" width="584" height="757" srcset="http://logbuch-netzpolitik.de/files/2018/07/max-alces-datae-lnp-790x1024.jpg 790w, http://logbuch-netzpolitik.de/files/2018/07/max-alces-datae-lnp-231x300.jpg 231w, http://logbuch-netzpolitik.de/files/2018/07/max-alces-datae-lnp-768x995.jpg 768w" sizes="auto, (max-width: 584px) 100vw, 584px" /></a><p id="caption-attachment-4073" class="wp-caption-text">hart am amüsieren&#8230; (by Max)</p></div></p>
+<div id="attachment_4073" style="width: 594px" class="wp-caption aligncenter"><a href="https://logbuch-netzpolitik.de/files/2018/07/max-alces-datae-lnp.jpg"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-4073" class="wp-image-4073 size-large" src="https://logbuch-netzpolitik.de/files/2018/07/max-alces-datae-lnp-790x1024.jpg" alt="" width="584" height="757" srcset="https://logbuch-netzpolitik.de/files/2018/07/max-alces-datae-lnp-790x1024.jpg 790w, https://logbuch-netzpolitik.de/files/2018/07/max-alces-datae-lnp-231x300.jpg 231w, https://logbuch-netzpolitik.de/files/2018/07/max-alces-datae-lnp-768x995.jpg 768w" sizes="auto, (max-width: 584px) 100vw, 584px" /></a><p id="caption-attachment-4073" class="wp-caption-text">hart am amüsieren&#8230; (by Max)</p></div></p>
 <p>￼</p>
 <p>￼</p>
 <h2>EU-Kartellstrafe für Google</h2>
@@ -69356,9 +69350,9 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
         <psc:chapter start="01:09:37.266" title="Termine"/>
         <psc:chapter start="01:12:14.716" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp262-alces-datae?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp262-alces-datae?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp262-alces-datae?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp262-alces-datae?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp262-alces-datae?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp262-alces-datae?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -69376,8 +69370,8 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
       <pubDate>Fri, 13 Jul 2018 13:59:44 +0000</pubDate>
       <guid isPermaLink="false">podlove-2018-07-13t08:42:40+00:00-e1cad641a9679f1</guid>
       <description><![CDATA[Wir begrüßen nach langer Zeit mal wieder André Meister in unserer Runde und gehen gemeinsam die Nachrichtenlage durch. Neben den ganzen klassischen dystopischen Themen haben wir aber auch was zu feiern: Kleßen-Görne ist endlich mit der Restwelt verbunden und wir feiern diesen großen Tag mit weiteren Bestandsaufnahme der traurigen deutschen Digitalinfrastruktur, bei dem kein Auge trocken bleibt.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung#"/>
-      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/6150/s/feed/c/mp3/lnp261-elchtest-fuer-die-bundesregierung.mp3" length="72513595" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung#"/>
+      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/6150/s/feed/c/mp3/lnp261-elchtest-fuer-die-bundesregierung.mp3" length="72513595" type="audio/mpeg"/>
       <itunes:duration>02:00:46</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Funkzelle in Kleßen-Görne — Trojaner-Hersteller schämen sich — BGH-Urteil zum Digitalen Erbe — Handy-Durchsuchung — BND hört deutsche Unternehmen ab — Polizeigesetz NRW — Mieträder zu Bike-Sharing — Sommer-/Winterzeit — Termine</itunes:subtitle>
@@ -69387,7 +69381,7 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
       <content:encoded><![CDATA[<p>
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="http://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="https://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -69480,8 +69474,8 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="http://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung?podlove_template_page=episode-transcript-html" download="lnp261-elchtest-fuer-die-bundesregierung.transcript.html">HTML</a>,
-                <a href="http://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung?podlove_transcript=webvtt" download="lnp261-elchtest-fuer-die-bundesregierung.transcript.vtt">WEBVTT</a>.
+                <a href="https://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung?podlove_template_page=episode-transcript-html" download="lnp261-elchtest-fuer-die-bundesregierung.transcript.html">HTML</a>,
+                <a href="https://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung?podlove_transcript=webvtt" download="lnp261-elchtest-fuer-die-bundesregierung.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -69498,10 +69492,10 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
     <h3>Verwandte Episoden</h3>
     <ul>
             <li>
-            <a href="http://logbuch-netzpolitik.de/lnp208-verbesserungsgesetz">LNP208 Verbesserungsgesetz</a>
+            <a href="https://logbuch-netzpolitik.de/lnp208-verbesserungsgesetz">LNP208 Verbesserungsgesetz</a>
         </li>
             <li>
-            <a href="http://logbuch-netzpolitik.de/lnp223-was-damals-unrecht-war-muss-heute-recht-sein">LNP223 Was damals Unrecht war, muss heute Recht sein</a>
+            <a href="https://logbuch-netzpolitik.de/lnp223-was-damals-unrecht-war-muss-heute-recht-sein">LNP223 Was damals Unrecht war, muss heute Recht sein</a>
         </li>
         </ul>
 
@@ -69594,9 +69588,9 @@ Kleinere thematische Abstecher in die Themenbereiche Wahlcomputer, Hass im Netz 
         <psc:chapter start="01:54:56.565" title="Termine"/>
         <psc:chapter start="01:57:08.993" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp261-elchtest-fuer-die-bundesregierung?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -74321,8 +74315,8 @@ Leider ist ein Backup-Recording von Felix&#8216; Tonspur fehlgeschlagen und die 
       <pubDate>Tue, 09 Jan 2018 14:53:28 +0000</pubDate>
       <guid isPermaLink="false">podlove-2018-01-09t13:58:30+00:00-7ff3ee4de2a9ffc</guid>
       <description><![CDATA[Wie angekündigt hat Linus eine kleine Auszeit und Tim und Thomas werden die nächsten Wochen bei Logbuch:Netzpolitik gestalten. Wenig überraschend werden wir das Jahr mit einem ausführlichen, ersten Blick auf den 34. Chaos Communication Congress starten, der Ende Dezember 2017 in Leipzig stattfand. Der Nachrichtenlage geschuldet wenden wir uns aber zunächst noch dem Chaos, dass durch Einführung des Netzwerkdurchsetzungsgesetz in Deutschland verursacht wurde, der Katastrophe namens "Besonderes elektronisches Anwaltspostfach" und der Agenda der neuen Regierung in Österreich zu.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp238-was-macht-ihr-da-eigentlich#"/>
-      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/5713/s/feed/c/mp3/lnp238-was-macht-ihr-da-eigentlich.mp3" length="77986984" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp238-was-macht-ihr-da-eigentlich#"/>
+      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/5713/s/feed/c/mp3/lnp238-was-macht-ihr-da-eigentlich.mp3" length="77986984" type="audio/mpeg"/>
       <itunes:duration>02:09:53</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>NetzDG verursacht Chaos — Besonderes elektronisches Anwaltspostfach — Neue Regierung in Österreich — 34C3 Review</itunes:subtitle>
@@ -74332,7 +74326,7 @@ Leider ist ein Backup-Recording von Felix&#8216; Tonspur fehlgeschlagen und die 
       <content:encoded><![CDATA[<p>
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="http://logbuch-netzpolitik.de/lnp238-was-macht-ihr-da-eigentlich#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="https://logbuch-netzpolitik.de/lnp238-was-macht-ihr-da-eigentlich#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -74405,8 +74399,8 @@ Leider ist ein Backup-Recording von Felix&#8216; Tonspur fehlgeschlagen und die 
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="http://logbuch-netzpolitik.de/lnp238-was-macht-ihr-da-eigentlich?podlove_template_page=episode-transcript-html" download="lnp238-was-macht-ihr-da-eigentlich.transcript.html">HTML</a>,
-                <a href="http://logbuch-netzpolitik.de/lnp238-was-macht-ihr-da-eigentlich?podlove_transcript=webvtt" download="lnp238-was-macht-ihr-da-eigentlich.transcript.vtt">WEBVTT</a>.
+                <a href="https://logbuch-netzpolitik.de/lnp238-was-macht-ihr-da-eigentlich?podlove_template_page=episode-transcript-html" download="lnp238-was-macht-ihr-da-eigentlich.transcript.html">HTML</a>,
+                <a href="https://logbuch-netzpolitik.de/lnp238-was-macht-ihr-da-eigentlich?podlove_transcript=webvtt" download="lnp238-was-macht-ihr-da-eigentlich.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -74497,9 +74491,9 @@ Leider ist ein Backup-Recording von Felix&#8216; Tonspur fehlgeschlagen und die 
         <psc:chapter start="01:59:57.392" title="34C3: Zukunft und Organisation"/>
         <psc:chapter start="02:09:13.508" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp238-was-macht-ihr-da-eigentlich?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp238-was-macht-ihr-da-eigentlich?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp238-was-macht-ihr-da-eigentlich?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp238-was-macht-ihr-da-eigentlich?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp238-was-macht-ihr-da-eigentlich?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp238-was-macht-ihr-da-eigentlich?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Tim Pritlove</atom:name>
         <atom:uri>http://tim.pritlove.org/</atom:uri>
@@ -74729,8 +74723,8 @@ Leider ist ein Backup-Recording von Felix&#8216; Tonspur fehlgeschlagen und die 
       <pubDate>Sat, 25 Nov 2017 14:17:52 +0000</pubDate>
       <guid isPermaLink="false">podlove-2017-11-24t14:13:47+00:00-6f6834a3225ee53</guid>
       <description><![CDATA[Weitere Unzulänglichkeiten in Behördensoftware, gehackte und in der Cloud "liegengelassene" Daten, die Netzneutralität in den USA und eine besonders beeindruckende Form von Zivilcourage stehen im Mittelpunkt dieser Sendung. Für jeden was dabei und wir haben auch eine neue Frage auf unseren Anrufbeantworter gepackt. Eine durchaus unterhaltsame Ausgabe vom Logbuch, wie wir finden. Viel Spaß damit.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp236-marktgerechte-bepreisung#"/>
-      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/5677/s/feed/c/mp3/lnp236-marktgerechte-bepreisung.mp3" length="66212523" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp236-marktgerechte-bepreisung#"/>
+      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/5677/s/feed/c/mp3/lnp236-marktgerechte-bepreisung.mp3" length="66212523" type="audio/mpeg"/>
       <itunes:duration>01:50:16</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Rathaus-Hack — Uber — FCC und Netzneutralität — Internetzugang in D — Stelen für Höcke — Geheimdienst in der Cloud — Anrufbeantworter</itunes:subtitle>
@@ -74740,7 +74734,7 @@ Leider ist ein Backup-Recording von Felix&#8216; Tonspur fehlgeschlagen und die 
       <content:encoded><![CDATA[<p>
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="http://logbuch-netzpolitik.de/lnp236-marktgerechte-bepreisung#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="https://logbuch-netzpolitik.de/lnp236-marktgerechte-bepreisung#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -74819,8 +74813,8 @@ Leider ist ein Backup-Recording von Felix&#8216; Tonspur fehlgeschlagen und die 
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="http://logbuch-netzpolitik.de/lnp236-marktgerechte-bepreisung?podlove_template_page=episode-transcript-html" download="lnp236-marktgerechte-bepreisung.transcript.html">HTML</a>,
-                <a href="http://logbuch-netzpolitik.de/lnp236-marktgerechte-bepreisung?podlove_transcript=webvtt" download="lnp236-marktgerechte-bepreisung.transcript.vtt">WEBVTT</a>.
+                <a href="https://logbuch-netzpolitik.de/lnp236-marktgerechte-bepreisung?podlove_template_page=episode-transcript-html" download="lnp236-marktgerechte-bepreisung.transcript.html">HTML</a>,
+                <a href="https://logbuch-netzpolitik.de/lnp236-marktgerechte-bepreisung?podlove_transcript=webvtt" download="lnp236-marktgerechte-bepreisung.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -74837,7 +74831,7 @@ Leider ist ein Backup-Recording von Felix&#8216; Tonspur fehlgeschlagen und die 
     <h3>Verwandte Episoden</h3>
     <ul>
             <li>
-            <a href="http://logbuch-netzpolitik.de/lnp228-interessierte-buerger">LNP228 Interessierte Bürger</a>
+            <a href="https://logbuch-netzpolitik.de/lnp228-interessierte-buerger">LNP228 Interessierte Bürger</a>
         </li>
         </ul>
 
@@ -74901,9 +74895,9 @@ Leider ist ein Backup-Recording von Felix&#8216; Tonspur fehlgeschlagen und die 
         <psc:chapter start="01:40:27.156" title="Anrufbeantworter"/>
         <psc:chapter start="01:46:44.412" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp236-marktgerechte-bepreisung?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp236-marktgerechte-bepreisung?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp236-marktgerechte-bepreisung?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp236-marktgerechte-bepreisung?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp236-marktgerechte-bepreisung?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp236-marktgerechte-bepreisung?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>

@@ -286,8 +286,8 @@ media.ccc.de: <a href="https://media.ccc.de/v/froscon2025-3406-20_jahre_froscon"
       <pubDate>Sat, 09 May 2026 14:00:04 +0000</pubDate>
       <guid isPermaLink="false">0528d1f1-a785-4e8c-b57d-3fdcd6b3510f</guid>
       <description><![CDATA[kantorkel ist zu Gast und berichtet von seiner Klage im Fall PimEyes und wir sprechen mit ihm auch ausführlich über die Pläne in Deutschland Fluggesellschaften direkten Zugriff auf hoheitliche Ausweise und die Pläne der EU, der USA direkten Zugriff auf unsere persönlichen Daten zu geben. Dazu klären wir kurz auf, was  der Rummel um die angeblichen Angriffe auf den Signal-Messenger bedeutet (Hint: war keiner) und schauen auf das finale Urteil im Fall Moses Pelham gegen Kraftwerk, was ggf. Bedeutung für die Nutzung von Samples in der Musik haben könnte.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/9074/s/feed/c/mp3/lnp553-lokale-maerkte-alternative-anbieter.mp3" length="76675246" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/9074/s/feed/c/mp3/lnp553-lokale-maerkte-alternative-anbieter.mp3" length="76675246" type="audio/mpeg"/>
       <itunes:duration>02:07:44</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>DENIC — PimEyes — Digitale Fluggastabfertigung — US-Visumsdaten — Fun Facts — DID — Signal-Angriffe — Kraftwerk vs. Pelham — Termine</itunes:subtitle>
@@ -298,14 +298,14 @@ media.ccc.de: <a href="https://media.ccc.de/v/froscon2025-3406-20_jahre_froscon"
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>DENIC — PimEyes — Digitale Fluggastabfertigung — US-Visumsdaten — Fun Facts — DID — Signal-Angriffe — Kraftwerk vs. Pelham — Termine</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp553-lokale-maerkte-alternative-anbieter.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535332d6c6f6b616c652d6d6165726b74652d616c7465726e61746976652d616e6269657465722e6a7067/600/0/0/lnp553-lokale-maerkte-alternative-anbieter" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535332d6c6f6b616c652d6d6165726b74652d616c7465726e61746976652d616e6269657465722e6a7067/600/0/0/lnp553-lokale-maerkte-alternative-anbieter 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535332d6c6f6b616c652d6d6165726b74652d616c7465726e61746976652d616e6269657465722e6a7067/1200/0/0/lnp553-lokale-maerkte-alternative-anbieter 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535332d6c6f6b616c652d6d6165726b74652d616c7465726e61746976652d616e6269657465722e6a7067/600/0/0/lnp553-lokale-maerkte-alternative-anbieter" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535332d6c6f6b616c652d6d6165726b74652d616c7465726e61746976652d616e6269657465722e6a7067/600/0/0/lnp553-lokale-maerkte-alternative-anbieter 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535332d6c6f6b616c652d6d6165726b74652d616c7465726e61746976652d616e6269657465722e6a7067/1200/0/0/lnp553-lokale-maerkte-alternative-anbieter 2x"/>
 </a>
 
 <p class="episode-summary">kantorkel ist zu Gast und berichtet von seiner Klage im Fall PimEyes und wir sprechen mit ihm auch ausführlich über die Pläne in Deutschland Fluggesellschaften direkten Zugriff auf hoheitliche Ausweise und die Pläne der EU, der USA direkten Zugriff auf unsere persönlichen Daten zu geben. Dazu klären wir kurz auf, was  der Rummel um die angeblichen Angriffe auf den Signal-Messenger bedeutet (Hint: war keiner) und schauen auf das finale Urteil im Fall Moses Pelham gegen Kraftwerk, was ggf. Bedeutung für die Nutzung von Samples in der Musik haben könnte.</p>
@@ -391,8 +391,8 @@ media.ccc.de: <a href="https://media.ccc.de/v/froscon2025-3406-20_jahre_froscon"
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?podlove_template_page=episode-transcript-html" download="lnp553-lokale-maerkte-alternative-anbieter.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?podlove_transcript=webvtt" download="lnp553-lokale-maerkte-alternative-anbieter.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?podlove_template_page=episode-transcript-html" download="lnp553-lokale-maerkte-alternative-anbieter.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?podlove_transcript=webvtt" download="lnp553-lokale-maerkte-alternative-anbieter.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -656,9 +656,9 @@ talks.inselchaos.de: <a href="https://talks.inselchaos.de/inselchaos-2026/">Inse
         <psc:chapter start="02:00:43.711" title="Epilog"/>
         <psc:chapter start="02:05:15.532" title="Bonus Track"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp553-lokale-maerkte-alternativer-anbieter?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -680,8 +680,8 @@ talks.inselchaos.de: <a href="https://talks.inselchaos.de/inselchaos-2026/">Inse
       <pubDate>Mon, 20 Apr 2026 01:28:27 +0000</pubDate>
       <guid isPermaLink="false">7dd1443c-a292-4b76-bdfa-e991b60f52f2</guid>
       <description><![CDATA[Thomas Lohninger ist wieder dabei und wir reden dieses Mal ausführlich über seine langjährige Begleitung des politischen Prozesses der eIDAS-Verordnung der EU, dem Wettbewerb um die EUDI-Wallet der Bundesagentur für Sprunginnovationen und wie es in dieser Geschichte weitergeht. Thomas stellt in dem Zusammenhang auch das Projekt whoidentifies.me von Epicenter.works vor, dass über öffentlich verfügbare Daten des eIDAS-Prozesses Transparenz schaffen soll. Zum Schluss reden wir noch über seinen Auftritt bei der Telekom-Hauptversammlung und Initiativen zum Absichern von Ethical Hacking in Österreich.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp552-walkampf#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/9066/s/feed/c/mp3/lnp552-walkampf.mp3" length="92460970" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp552-walkampf#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/9066/s/feed/c/mp3/lnp552-walkampf.mp3" length="92460970" type="audio/mpeg"/>
       <itunes:duration>02:34:02</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>eIDAS Rückblende — whoidentifies.me — Telekom Hauptversammlung — Ethical Hacking — PCs für alle</itunes:subtitle>
@@ -692,14 +692,14 @@ talks.inselchaos.de: <a href="https://talks.inselchaos.de/inselchaos-2026/">Inse
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp552-walkampf#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp552-walkampf#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>eIDAS Rückblende — whoidentifies.me — Telekom Hauptversammlung — Ethical Hacking — PCs für alle</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp552-walkampf.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535322d77616c6b616d70662e6a7067/600/0/0/lnp552-walkampf" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535322d77616c6b616d70662e6a7067/600/0/0/lnp552-walkampf 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535322d77616c6b616d70662e6a7067/1200/0/0/lnp552-walkampf 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535322d77616c6b616d70662e6a7067/600/0/0/lnp552-walkampf" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535322d77616c6b616d70662e6a7067/600/0/0/lnp552-walkampf 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703535322d77616c6b616d70662e6a7067/1200/0/0/lnp552-walkampf 2x"/>
 </a>
 
 <p class="episode-summary">Thomas Lohninger ist wieder dabei und wir reden dieses Mal ausführlich über seine langjährige Begleitung des politischen Prozesses der eIDAS-Verordnung der EU, dem Wettbewerb um die EUDI-Wallet der Bundesagentur für Sprunginnovationen und wie es in dieser Geschichte weitergeht. Thomas stellt in dem Zusammenhang auch das Projekt whoidentifies.me von Epicenter.works vor, dass über öffentlich verfügbare Daten des eIDAS-Prozesses Transparenz schaffen soll. Zum Schluss reden wir noch über seinen Auftritt bei der Telekom-Hauptversammlung und Initiativen zum Absichern von Ethical Hacking in Österreich.</p>
@@ -794,8 +794,8 @@ talks.inselchaos.de: <a href="https://talks.inselchaos.de/inselchaos-2026/">Inse
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp552-walkampf?podlove_template_page=episode-transcript-html" download="lnp552-walkampf.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp552-walkampf?podlove_transcript=webvtt" download="lnp552-walkampf.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp552-walkampf?podlove_template_page=episode-transcript-html" download="lnp552-walkampf.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp552-walkampf?podlove_transcript=webvtt" download="lnp552-walkampf.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -948,9 +948,9 @@ ctalx.c-base.org: <a href="https://ctalx.c-base.org/fediday-2026/">FediDay 2026<
         <psc:chapter start="02:22:37.441" title="Termine"/>
         <psc:chapter start="02:27:24.051" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp552-walkampf?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp552-walkampf?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp552-walkampf?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp552-walkampf?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp552-walkampf?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp552-walkampf?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -2581,8 +2581,8 @@ epicenter.works: <a href="https://epicenter.works/content/were-hiring-junior-pol
       <pubDate>Wed, 04 Feb 2026 20:34:13 +0000</pubDate>
       <guid isPermaLink="false">b1847301-8ecc-45b8-a220-fbfe128d16a2</guid>
       <description><![CDATA[Linus ist wieder dabei und wir sprechen über die ganz eigene Unabhängigkeit-Maßnahme der USA, in dem sie Bytedance zum Verkauf der US-Niederlassung von TikTok zwingt. Dann schauen wir nach Frankreich, wo jetzt Ernst gemacht wird in Bezug auf X und die Verbreitung von KiPo und Lügen. Der zweite DID lief ganz erfolgreich und verbreitet sich langsam in Europa, wobei jetzt auch der Bundestag und die große Unternehmen wie die Schwarz-Gruppe anfangen, sich langsam von Microsoft loszusagen. Microsoft wiederum stellt der US-Regierung geheime Bitlocker-Schlüssel seiner Kunden zur Verfügung.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp545-even-monkeys-fall-from-trees#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/9038/s/feed/c/mp3/lnp545-even-monkeys-fall-from-trees.mp3" length="61764775" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp545-even-monkeys-fall-from-trees#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/9038/s/feed/c/mp3/lnp545-even-monkeys-fall-from-trees.mp3" length="61764775" type="audio/mpeg"/>
       <itunes:duration>01:42:52</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>TikTok US — Frankreich vs. X — DID 2 — OpenClaw und Moltbook — ESTA-Fields — GdP verbreitet KI-Fake — Microsoft verbreitet Bitlocker-Keys — Kabul Calls — Termine</itunes:subtitle>
@@ -2593,14 +2593,14 @@ epicenter.works: <a href="https://epicenter.works/content/were-hiring-junior-pol
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp545-even-monkeys-fall-from-trees#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp545-even-monkeys-fall-from-trees#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>TikTok US — Frankreich vs. X — DID 2 — OpenClaw und Moltbook — ESTA-Fields — GdP verbreitet KI-Fake — Microsoft verbreitet Bitlocker-Keys — Kabul Calls — Termine</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp545-even-monkeys-fall-from-trees.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703534352d6576656e2d6d6f6e6b6579732d66616c6c2d66726f6d2d74726565732e6a7067/600/0/0/lnp545-even-monkeys-fall-from-trees" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703534352d6576656e2d6d6f6e6b6579732d66616c6c2d66726f6d2d74726565732e6a7067/600/0/0/lnp545-even-monkeys-fall-from-trees 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703534352d6576656e2d6d6f6e6b6579732d66616c6c2d66726f6d2d74726565732e6a7067/1200/0/0/lnp545-even-monkeys-fall-from-trees 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703534352d6576656e2d6d6f6e6b6579732d66616c6c2d66726f6d2d74726565732e6a7067/600/0/0/lnp545-even-monkeys-fall-from-trees" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703534352d6576656e2d6d6f6e6b6579732d66616c6c2d66726f6d2d74726565732e6a7067/600/0/0/lnp545-even-monkeys-fall-from-trees 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703534352d6576656e2d6d6f6e6b6579732d66616c6c2d66726f6d2d74726565732e6a7067/1200/0/0/lnp545-even-monkeys-fall-from-trees 2x"/>
 </a>
 
 <p class="episode-summary">Linus ist wieder dabei und wir sprechen über die ganz eigene Unabhängigkeit-Maßnahme der USA, in dem sie Bytedance zum Verkauf der US-Niederlassung von TikTok zwingt. Dann schauen wir nach Frankreich, wo jetzt Ernst gemacht wird in Bezug auf X und die Verbreitung von KiPo und Lügen. Der zweite DID lief ganz erfolgreich und verbreitet sich langsam in Europa, wobei jetzt auch der Bundestag und die große Unternehmen wie die Schwarz-Gruppe anfangen, sich langsam von Microsoft loszusagen. Microsoft wiederum stellt der US-Regierung geheime Bitlocker-Schlüssel seiner Kunden zur Verfügung. </p>
@@ -2675,8 +2675,8 @@ epicenter.works: <a href="https://epicenter.works/content/were-hiring-junior-pol
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp545-even-monkeys-fall-from-trees?podlove_template_page=episode-transcript-html" download="lnp545-even-monkeys-fall-from-trees.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp545-even-monkeys-fall-from-trees?podlove_transcript=webvtt" download="lnp545-even-monkeys-fall-from-trees.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp545-even-monkeys-fall-from-trees?podlove_template_page=episode-transcript-html" download="lnp545-even-monkeys-fall-from-trees.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp545-even-monkeys-fall-from-trees?podlove_transcript=webvtt" download="lnp545-even-monkeys-fall-from-trees.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -2855,9 +2855,9 @@ YouTube: <a href="https://www.youtube.com/watch?v=DZ47gksnesc">Das Leben des Bri
         <psc:chapter start="01:35:32.804" title="Epilog"/>
         <psc:chapter start="01:41:17.123" title="Bonus Track"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp545-even-monkeys-fall-from-trees?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp545-even-monkeys-fall-from-trees?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp545-even-monkeys-fall-from-trees?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp545-even-monkeys-fall-from-trees?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp545-even-monkeys-fall-from-trees?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp545-even-monkeys-fall-from-trees?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -5355,8 +5355,8 @@ www.informationsfreiheit.at: <a href="https://www.informationsfreiheit.at/wer-wi
       <pubDate>Tue, 30 Sep 2025 22:33:56 +0000</pubDate>
       <guid isPermaLink="false">08c38530-5aa1-4073-b56d-97c9555af1b9</guid>
       <description><![CDATA[Während der Disney-Konzern nach seinen Zensurmaßnahmen schnell die Quittung von seinen Kunden bekam und Jimmy Kimmel wieder auf Sendung schickte macht die Trump-Mafia weiter wie zuvor und übt weiterhin Druck auf die Medien aus. Jetzt kippt auch noch YouTube um und liefert dem Präsidenten neue Beute. Darüberhinaus wird jetzt auch noch der lose Begriff "Antifa" als Terrororganisation ausgerufen, um die Gesellschaft weiter unter Druck zu setzen. In Europa wird weiter fleissig die Chatkontrolle gepusht und die elektronische Patientenakte wird trotz immer noch bestehender Sicherheitsbedenken zunehmend durchgesetzt.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp534-phonetischer-sumpf#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8991/s/feed/c/mp3/lnp534-phonetischer-sumpf.mp3" length="43274253" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp534-phonetischer-sumpf#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8991/s/feed/c/mp3/lnp534-phonetischer-sumpf.mp3" length="43274253" type="audio/mpeg"/>
       <itunes:duration>01:12:03</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Jimmy Kimmel — Trump-Mafia — Terrororganisation Antifa — Chatkontrolle — ePA — Termine</itunes:subtitle>
@@ -5367,14 +5367,14 @@ www.informationsfreiheit.at: <a href="https://www.informationsfreiheit.at/wer-wi
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp534-phonetischer-sumpf#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp534-phonetischer-sumpf#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Feedback — Jimmy Kimmel — Trump-Mafia — Terrororganisation Antifa — Chatkontrolle — ePA — Termine</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp534-phonetischer-sumpf.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703533342d70686f6e65746973636865722d73756d70662e6a7067/600/0/0/lnp534-phonetischer-sumpf" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703533342d70686f6e65746973636865722d73756d70662e6a7067/600/0/0/lnp534-phonetischer-sumpf 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703533342d70686f6e65746973636865722d73756d70662e6a7067/1200/0/0/lnp534-phonetischer-sumpf 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703533342d70686f6e65746973636865722d73756d70662e6a7067/600/0/0/lnp534-phonetischer-sumpf" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703533342d70686f6e65746973636865722d73756d70662e6a7067/600/0/0/lnp534-phonetischer-sumpf 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703533342d70686f6e65746973636865722d73756d70662e6a7067/1200/0/0/lnp534-phonetischer-sumpf 2x"/>
 </a>
 
 <p class="episode-summary">Während der Disney-Konzern nach seinen Zensurmaßnahmen schnell die Quittung von seinen Kunden bekam und Jimmy Kimmel wieder auf Sendung schickte macht die Trump-Mafia weiter wie zuvor und übt weiterhin Druck auf die Medien aus. Jetzt kippt auch noch YouTube um und liefert dem Präsidenten neue Beute. Darüberhinaus wird jetzt auch noch der lose Begriff &quot;Antifa&quot; als Terrororganisation ausgerufen, um die Gesellschaft weiter unter Druck zu setzen. In Europa wird weiter fleissig die Chatkontrolle gepusht und die elektronische Patientenakte wird trotz immer noch bestehender Sicherheitsbedenken zunehmend durchgesetzt.</p>
@@ -5449,8 +5449,8 @@ www.informationsfreiheit.at: <a href="https://www.informationsfreiheit.at/wer-wi
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp534-phonetischer-sumpf?podlove_template_page=episode-transcript-html" download="lnp534-phonetischer-sumpf.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp534-phonetischer-sumpf?podlove_transcript=webvtt" download="lnp534-phonetischer-sumpf.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp534-phonetischer-sumpf?podlove_template_page=episode-transcript-html" download="lnp534-phonetischer-sumpf.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp534-phonetischer-sumpf?podlove_transcript=webvtt" download="lnp534-phonetischer-sumpf.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -5613,9 +5613,9 @@ YouTube: <a href="https://www.youtube.com/watch?v=ILkKLzZndqk">Die anonyme Gidda
         <psc:chapter start="01:06:30.285" title="Bonus Track 1"/>
         <psc:chapter start="01:08:32.811" title="Bonus Track 2"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp534-phonetischer-sumpf?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp534-phonetischer-sumpf?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp534-phonetischer-sumpf?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp534-phonetischer-sumpf?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp534-phonetischer-sumpf?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp534-phonetischer-sumpf?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -8963,8 +8963,8 @@ Vimeo: <a href="https://vimeo.com/1076546045">myASS-Crew: Send the Billionaires 
       <pubDate>Fri, 18 Apr 2025 08:13:16 +0000</pubDate>
       <guid isPermaLink="false">53faaa8b-d23e-4bda-ad4e-368a70660239</guid>
       <description><![CDATA[Heute mal ein kürzeres Update. Wir tauchen durchs Feedback und geben Updates zur elektronischen Patientenakte. Dann blicken wir auf neue pfiffige Tricks, wie man dem neuen Programmiertrend Vibe Coding Steine vor die Füße werfen kann. Dann gehen wir auf ein paar Punkte des Koalitionsvertrag ein, dessen netzpolitische Aspekte Linus gestern schon in der Parlamentsrevue diskutiert hat. In den USA macht Trump alles nieder, neueste Opfer sind die Sicherheitsbehörde CISA und die MITRE-Company, die u.a. für die Sicherheitslückendatenbank CVE zuständig ist.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp520-surfen-heisst-jetzt-doomscrolling#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8911/s/feed/c/mp3/lnp520-surfen-heisst-jetzt-doomscrolling.mp3" length="38915248" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp520-surfen-heisst-jetzt-doomscrolling#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8911/s/feed/c/mp3/lnp520-surfen-heisst-jetzt-doomscrolling.mp3" length="38915248" type="audio/mpeg"/>
       <itunes:duration>01:04:48</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — AI Coding Backdoors — Koalitionsvertrag — CISA und MITRE vs. Trump</itunes:subtitle>
@@ -8975,14 +8975,14 @@ Vimeo: <a href="https://vimeo.com/1076546045">myASS-Crew: Send the Billionaires 
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp520-surfen-heisst-jetzt-doomscrolling#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp520-surfen-heisst-jetzt-doomscrolling#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Feedback — AI Coding Backdoors — Koalitionsvertrag — CISA und MITRE vs. Trump</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp520-surfen-heisst-jetzt-doomscrolling.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703532302d73757266656e2d6865697373742d6a65747a742d646f6f6d7363726f6c6c696e672e6a7067/600/0/0/lnp520-surfen-heisst-jetzt-doomscrolling" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703532302d73757266656e2d6865697373742d6a65747a742d646f6f6d7363726f6c6c696e672e6a7067/600/0/0/lnp520-surfen-heisst-jetzt-doomscrolling 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703532302d73757266656e2d6865697373742d6a65747a742d646f6f6d7363726f6c6c696e672e6a7067/1200/0/0/lnp520-surfen-heisst-jetzt-doomscrolling 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703532302d73757266656e2d6865697373742d6a65747a742d646f6f6d7363726f6c6c696e672e6a7067/600/0/0/lnp520-surfen-heisst-jetzt-doomscrolling" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703532302d73757266656e2d6865697373742d6a65747a742d646f6f6d7363726f6c6c696e672e6a7067/600/0/0/lnp520-surfen-heisst-jetzt-doomscrolling 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703532302d73757266656e2d6865697373742d6a65747a742d646f6f6d7363726f6c6c696e672e6a7067/1200/0/0/lnp520-surfen-heisst-jetzt-doomscrolling 2x"/>
 </a>
 
 <p class="episode-summary">Heute mal ein kürzeres Update. Wir tauchen durchs Feedback und geben Updates zur elektronischen Patientenakte. Dann blicken wir auf neue pfiffige Tricks, wie man dem neuen Programmiertrend Vibe Coding Steine vor die Füße werfen kann. Dann gehen wir auf ein paar Punkte des Koalitionsvertrag ein, dessen netzpolitische Aspekte Linus gestern schon in der Parlamentsrevue diskutiert hat. In den USA macht Trump alles nieder, neueste Opfer sind die Sicherheitsbehörde CISA und die MITRE-Company, die u.a. für die Sicherheitslückendatenbank CVE zuständig ist. </p>
@@ -9057,8 +9057,8 @@ Vimeo: <a href="https://vimeo.com/1076546045">myASS-Crew: Send the Billionaires 
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp520-surfen-heisst-jetzt-doomscrolling?podlove_template_page=episode-transcript-html" download="lnp520-surfen-heisst-jetzt-doomscrolling.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp520-surfen-heisst-jetzt-doomscrolling?podlove_transcript=webvtt" download="lnp520-surfen-heisst-jetzt-doomscrolling.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp520-surfen-heisst-jetzt-doomscrolling?podlove_template_page=episode-transcript-html" download="lnp520-surfen-heisst-jetzt-doomscrolling.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp520-surfen-heisst-jetzt-doomscrolling?podlove_transcript=webvtt" download="lnp520-surfen-heisst-jetzt-doomscrolling.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -9075,7 +9075,7 @@ Vimeo: <a href="https://vimeo.com/1076546045">myASS-Crew: Send the Billionaires 
     <h3>Verwandte Episoden</h3>
     <ul>
             <li>
-            <a href="https://logbuch-netzpolitik.de/lnp489-das-kabinett-ist-nicht-maschinenlesbar">LNP489 Das Kabinett ist nicht maschinenlesbar</a>
+            <a href="http://logbuch-netzpolitik.de/lnp489-das-kabinett-ist-nicht-maschinenlesbar">LNP489 Das Kabinett ist nicht maschinenlesbar</a>
         </li>
         </ul>
 
@@ -9201,9 +9201,9 @@ YouTube: <a href="https://www.youtube.com/watch?v=yFPQbnraeVg">Eurocats &#8211; 
         <psc:chapter start="00:59:32.303" title="Epilog"/>
         <psc:chapter start="01:01:47.649" title="Bonus Track"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp520-surfen-heisst-jetzt-doomscrolling?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp520-surfen-heisst-jetzt-doomscrolling?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp520-surfen-heisst-jetzt-doomscrolling?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp520-surfen-heisst-jetzt-doomscrolling?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp520-surfen-heisst-jetzt-doomscrolling?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp520-surfen-heisst-jetzt-doomscrolling?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -9221,8 +9221,8 @@ YouTube: <a href="https://www.youtube.com/watch?v=yFPQbnraeVg">Eurocats &#8211; 
       <pubDate>Sat, 05 Apr 2025 22:36:15 +0000</pubDate>
       <guid isPermaLink="false">1fa2dec7-cf24-4906-b15d-83324c483d16</guid>
       <description><![CDATA[Heute gibt es wieder diverses Feedback und dann reden wir natürlich über das "Signalgate", was ja eigentlich mehr ein USA-Gate ist und dann nehmen wir Philipp Amthor in den Fokus, der recht unumwunden fordert, das Informationsfreiheitsgesetz "in der heutigen Form" abzuschaffen. In Anbetracht seiner eigenen Lobbytätigkeiten, die durch das IFG erst Chatkontrolle, die neuen Speicher- und Analysewut der Polizei und ein Ausblick auf einer Thema der nächsten Sendung.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp519-die-hermeneutik-des-misstrauens#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8905/s/feed/c/mp3/lnp519-die-hermeneutik-des-misstrauens.mp3" length="58783344" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp519-die-hermeneutik-des-misstrauens#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8905/s/feed/c/mp3/lnp519-die-hermeneutik-des-misstrauens.mp3" length="58783344" type="audio/mpeg"/>
       <itunes:duration>01:37:58</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Signalgate — Informationsfreiheitsgesetz — Open Technology Fund — Chatkontrolle — Palantir — Altersverifikation</itunes:subtitle>
@@ -9233,14 +9233,14 @@ YouTube: <a href="https://www.youtube.com/watch?v=yFPQbnraeVg">Eurocats &#8211; 
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp519-die-hermeneutik-des-misstrauens#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp519-die-hermeneutik-des-misstrauens#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Feedback — Signalgate — Informationsfreiheitsgesetz — Open Technology Fund — Chatkontrolle — Palantir — Altersverifikation</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp519-die-hermeneutik-des-misstrauens.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531392d6469652d6865726d656e657574696b2d6465732d6d69737374726175656e732e6a7067/600/0/0/lnp519-die-hermeneutik-des-misstrauens" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531392d6469652d6865726d656e657574696b2d6465732d6d69737374726175656e732e6a7067/600/0/0/lnp519-die-hermeneutik-des-misstrauens 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531392d6469652d6865726d656e657574696b2d6465732d6d69737374726175656e732e6a7067/1200/0/0/lnp519-die-hermeneutik-des-misstrauens 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531392d6469652d6865726d656e657574696b2d6465732d6d69737374726175656e732e6a7067/600/0/0/lnp519-die-hermeneutik-des-misstrauens" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531392d6469652d6865726d656e657574696b2d6465732d6d69737374726175656e732e6a7067/600/0/0/lnp519-die-hermeneutik-des-misstrauens 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531392d6469652d6865726d656e657574696b2d6465732d6d69737374726175656e732e6a7067/1200/0/0/lnp519-die-hermeneutik-des-misstrauens 2x"/>
 </a>
 
 <p class="episode-summary">Heute gibt es wieder diverses Feedback und dann reden wir natürlich über das &quot;Signalgate&quot;, was ja eigentlich mehr ein USA-Gate ist und dann nehmen wir Philipp Amthor in den Fokus, der recht unumwunden fordert, das Informationsfreiheitsgesetz &quot;in der heutigen Form&quot; abzuschaffen. In Anbetracht seiner eigenen Lobbytätigkeiten, die durch das IFG erst Chatkontrolle, die neuen Speicher- und Analysewut der Polizei und ein Ausblick auf einer Thema der nächsten Sendung.</p>
@@ -9315,8 +9315,8 @@ YouTube: <a href="https://www.youtube.com/watch?v=yFPQbnraeVg">Eurocats &#8211; 
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp519-die-hermeneutik-des-misstrauens?podlove_template_page=episode-transcript-html" download="lnp519-die-hermeneutik-des-misstrauens.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp519-die-hermeneutik-des-misstrauens?podlove_transcript=webvtt" download="lnp519-die-hermeneutik-des-misstrauens.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp519-die-hermeneutik-des-misstrauens?podlove_template_page=episode-transcript-html" download="lnp519-die-hermeneutik-des-misstrauens.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp519-die-hermeneutik-des-misstrauens?podlove_transcript=webvtt" download="lnp519-die-hermeneutik-des-misstrauens.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -9464,9 +9464,9 @@ netzpolitik.org: <a href="https://netzpolitik.org/2025/eu-konzept-so-sollen-die-
         <psc:chapter start="01:28:31.147" title="Altersverifikation"/>
         <psc:chapter start="01:34:11.469" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp519-die-hermeneutik-des-misstrauens?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp519-die-hermeneutik-des-misstrauens?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp519-die-hermeneutik-des-misstrauens?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp519-die-hermeneutik-des-misstrauens?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp519-die-hermeneutik-des-misstrauens?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp519-die-hermeneutik-des-misstrauens?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -9484,8 +9484,8 @@ netzpolitik.org: <a href="https://netzpolitik.org/2025/eu-konzept-so-sollen-die-
       <pubDate>Mon, 24 Mar 2025 04:52:33 +0000</pubDate>
       <guid isPermaLink="false">2561c3e0-c58e-4eec-9fb4-34ea6c7d3271</guid>
       <description><![CDATA[Das Wirken der neuen US-Regierung liefert weiter neue Opfer. Jetzt muss auch der Open Tech Fund darunter leiden. Im Feedback kommen wir mit Bill Gates in Reine und klären, wohin die OK-Buttons gehören. Die neue Bundesregierung bleibt weiter im Unklaren, wir stellen schon mal einen Rahmen für ein mögliches neues Digitalministerium auf und klären, wen wir für ungeeignet halten, es zu führen. Dazu gibt es noch ein paar schlechte Nachrichten aus UK und der Quelle "Internet".]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp518-verstaendnis-fuer-it#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8902/s/feed/c/mp3/lnp518-verstaendnis-fuer-it.mp3" length="52482209" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp518-verstaendnis-fuer-it#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8902/s/feed/c/mp3/lnp518-verstaendnis-fuer-it.mp3" length="52482209" type="audio/mpeg"/>
       <itunes:duration>01:27:24</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Open Tech Fund — Feedback — Neue Bundesregierung — Digitalministerium — Snooper&amp;#039;s Charter — Chatbot-Manipulation</itunes:subtitle>
@@ -9496,14 +9496,14 @@ netzpolitik.org: <a href="https://netzpolitik.org/2025/eu-konzept-so-sollen-die-
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp518-verstaendnis-fuer-it#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp518-verstaendnis-fuer-it#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Open Tech Fund — Feedback — Neue Bundesregierung — Digitalministerium — Snooper's Charter — Chatbot-Manipulation</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp518-verstaendnis-fuer-it.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531382d766572737461656e646e69732d667565722d69742e6a7067/600/0/0/lnp518-verstaendnis-fuer-it" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531382d766572737461656e646e69732d667565722d69742e6a7067/600/0/0/lnp518-verstaendnis-fuer-it 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531382d766572737461656e646e69732d667565722d69742e6a7067/1200/0/0/lnp518-verstaendnis-fuer-it 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531382d766572737461656e646e69732d667565722d69742e6a7067/600/0/0/lnp518-verstaendnis-fuer-it" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531382d766572737461656e646e69732d667565722d69742e6a7067/600/0/0/lnp518-verstaendnis-fuer-it 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531382d766572737461656e646e69732d667565722d69742e6a7067/1200/0/0/lnp518-verstaendnis-fuer-it 2x"/>
 </a>
 
 <p class="episode-summary">Das Wirken der neuen US-Regierung liefert weiter neue Opfer. Jetzt muss auch der Open Tech Fund darunter leiden. Im Feedback kommen wir mit Bill Gates in Reine und klären, wohin die OK-Buttons gehören. Die neue Bundesregierung bleibt weiter im Unklaren, wir stellen schon mal einen Rahmen für ein mögliches neues Digitalministerium auf und klären, wen wir für ungeeignet halten, es zu führen. Dazu gibt es noch ein paar schlechte Nachrichten aus UK und der Quelle &quot;Internet&quot;.</p>
@@ -9578,8 +9578,8 @@ netzpolitik.org: <a href="https://netzpolitik.org/2025/eu-konzept-so-sollen-die-
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp518-verstaendnis-fuer-it?podlove_template_page=episode-transcript-html" download="lnp518-verstaendnis-fuer-it.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp518-verstaendnis-fuer-it?podlove_transcript=webvtt" download="lnp518-verstaendnis-fuer-it.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp518-verstaendnis-fuer-it?podlove_template_page=episode-transcript-html" download="lnp518-verstaendnis-fuer-it.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp518-verstaendnis-fuer-it?podlove_transcript=webvtt" download="lnp518-verstaendnis-fuer-it.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -9689,9 +9689,9 @@ Bluesky Social: <a href="https://bsky.app/profile/skiles.bsky.social/post/3lkwck
         <psc:chapter start="00:59:24.306" title="Chatbot-Manipulation"/>
         <psc:chapter start="01:25:04.018" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp518-verstaendnis-fuer-it?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp518-verstaendnis-fuer-it?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp518-verstaendnis-fuer-it?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp518-verstaendnis-fuer-it?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp518-verstaendnis-fuer-it?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp518-verstaendnis-fuer-it?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -10400,8 +10400,8 @@ DearMEP: <a href="https://dearmep.eu/">DearMEP</a>  </li>
       <pubDate>Mon, 17 Feb 2025 07:53:31 +0000</pubDate>
       <guid isPermaLink="false">198bf1df-d7fa-4513-9249-3072da4a2e1c</guid>
       <description><![CDATA[Heute gibt es nicht nur viel Feedback, wir arbeiten vor allem die Beschwerden über unseren Podcast ab und machen Werbung für Bier und Politik. Ja, soweit ist es schon gekommen. Das Feedback führt uns dabei zu einigen tieferen Betrachtungen des Umgangs mit Politik, Parteien und der Gesellschaft. Im Blick auf die kommenden Wahlen versuchen wir unseren Pessimismus in Grenzen zu halten. Wir sprechen aber auch viel über die internationale politische Situation, weil, geht ja nicht anders.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8880/s/feed/c/mp3/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt.mp3" length="68204721" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8880/s/feed/c/mp3/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt.mp3" length="68204721" type="audio/mpeg"/>
       <itunes:duration>01:53:37</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Golf von Mexico — Feedback — Kanzlerduell — Münchner Sicherheitskonferenz — KI-Gipfel — Adenauer-Beschlagnahme</itunes:subtitle>
@@ -10412,14 +10412,14 @@ DearMEP: <a href="https://dearmep.eu/">DearMEP</a>  </li>
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Golf von Mexico — Feedback — Kanzlerduell — Münchner Sicherheitskonferenz — KI-Gipfel — Adenauer-Beschlagnahme</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531342d616c6c65732d6761722d6e696368742d736f2d726f7369672d7769652d65696e656d2d6461732d696d6d65722d736f2d766f726b6f6d6d742e6a7067/600/0/0/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531342d616c6c65732d6761722d6e696368742d736f2d726f7369672d7769652d65696e656d2d6461732d696d6d65722d736f2d766f726b6f6d6d742e6a7067/600/0/0/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531342d616c6c65732d6761722d6e696368742d736f2d726f7369672d7769652d65696e656d2d6461732d696d6d65722d736f2d766f726b6f6d6d742e6a7067/1200/0/0/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531342d616c6c65732d6761722d6e696368742d736f2d726f7369672d7769652d65696e656d2d6461732d696d6d65722d736f2d766f726b6f6d6d742e6a7067/600/0/0/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531342d616c6c65732d6761722d6e696368742d736f2d726f7369672d7769652d65696e656d2d6461732d696d6d65722d736f2d766f726b6f6d6d742e6a7067/600/0/0/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703531342d616c6c65732d6761722d6e696368742d736f2d726f7369672d7769652d65696e656d2d6461732d696d6d65722d736f2d766f726b6f6d6d742e6a7067/1200/0/0/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt 2x"/>
 </a>
 
 <p class="episode-summary">Heute gibt es nicht nur viel Feedback, wir arbeiten vor allem die Beschwerden über unseren Podcast ab und machen Werbung für Bier und Politik. Ja, soweit ist es schon gekommen. Das Feedback führt uns dabei zu einigen tieferen Betrachtungen des Umgangs mit Politik, Parteien und der Gesellschaft. Im Blick auf die kommenden Wahlen versuchen wir unseren Pessimismus in Grenzen zu halten. Wir sprechen aber auch viel über die internationale politische Situation, weil, geht ja nicht anders.</p>
@@ -10494,8 +10494,8 @@ DearMEP: <a href="https://dearmep.eu/">DearMEP</a>  </li>
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt?podlove_template_page=episode-transcript-html" download="lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt?podlove_transcript=webvtt" download="lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt?podlove_template_page=episode-transcript-html" download="lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt?podlove_transcript=webvtt" download="lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -10596,9 +10596,9 @@ YouTube: <a href="https://www.youtube.com/watch?v=bgY3m4LLMvM">Schutz vor Wahlbe
         <psc:chapter start="01:43:20.117" title="Epilog"/>
         <psc:chapter start="01:50:00.995" title="Bonus Track"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp514-alles-gar-nicht-so-rosig-wie-einem-das-immer-so-vorkommt?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -11827,8 +11827,8 @@ pretalx.c3voc.de: <a href="https://pretalx.c3voc.de/38c3-sendezentrum/cfp">38C3:
       <pubDate>Thu, 05 Dec 2024 13:03:03 +0000</pubDate>
       <guid isPermaLink="false">podlove-2024-12-05t12:32:40+00:00-c1508834c95072e</guid>
       <description><![CDATA[Thomas ist heute mit dabei und natürlich müssen wir über Österreich reden, wo die Regierungsbildung nach den Wahlen erwartungsgemäß unter Schwierigkeiten und sehr langsam voranschreitet. Dann wurde die neue EU-Kommission vorgestellt. Wir schauen auf die neuen Player, die wohl künftig in der netzpolitischen Auseinandersetzung eine Rolle spielen werden. Wir debattieren das Wohl und Wehe eines Social-Media-Verbots, wie es Australien jetzt gerade für seine Unter-16-Jährigen beschlossen hat und reden auch noch mal ausführlich über das Wesen und die Notwendigkeit Community-basierter Finanzierung, die jetzt gerade epicenter.works den Arsch gerettet hat.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp508-hello-kitty-koalition#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8840/s/feed/c/mp3/lnp508-hello-kitty-koalition.mp3" length="57884197" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp508-hello-kitty-koalition#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8840/s/feed/c/mp3/lnp508-hello-kitty-koalition.mp3" length="57884197" type="audio/mpeg"/>
       <itunes:duration>01:36:24</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Regierungsbildung in Österreich — Neue EU-Kommission — Australien verbietet Social Media — eIDAS — Community-basierte Finanzierung</itunes:subtitle>
@@ -11839,14 +11839,14 @@ pretalx.c3voc.de: <a href="https://pretalx.c3voc.de/38c3-sendezentrum/cfp">38C3:
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp508-hello-kitty-koalition#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp508-hello-kitty-koalition#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Feedback — Regierungsbildung in Österreich — Neue EU-Kommission — Australien verbietet Social Media — eIDAS — Community-basierte Finanzierung</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp508-hello-kitty-koalition.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703530382d68656c6c6f2d6b697474792d6b6f616c6974696f6e2e6a7067/600/0/0/lnp508-hello-kitty-koalition" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703530382d68656c6c6f2d6b697474792d6b6f616c6974696f6e2e6a7067/600/0/0/lnp508-hello-kitty-koalition 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703530382d68656c6c6f2d6b697474792d6b6f616c6974696f6e2e6a7067/1200/0/0/lnp508-hello-kitty-koalition 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703530382d68656c6c6f2d6b697474792d6b6f616c6974696f6e2e6a7067/600/0/0/lnp508-hello-kitty-koalition" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703530382d68656c6c6f2d6b697474792d6b6f616c6974696f6e2e6a7067/600/0/0/lnp508-hello-kitty-koalition 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703530382d68656c6c6f2d6b697474792d6b6f616c6974696f6e2e6a7067/1200/0/0/lnp508-hello-kitty-koalition 2x"/>
 </a>
 
 <p class="episode-summary">Thomas ist heute mit dabei und natürlich müssen wir über Österreich reden, wo die Regierungsbildung nach den Wahlen erwartungsgemäß unter Schwierigkeiten und sehr langsam voranschreitet. Dann wurde die neue EU-Kommission vorgestellt. Wir schauen auf die neuen Player, die wohl künftig in der netzpolitischen Auseinandersetzung eine Rolle spielen werden. Wir debattieren das Wohl und Wehe eines Social-Media-Verbots, wie es Australien jetzt gerade für seine Unter-16-Jährigen beschlossen hat und reden auch noch mal ausführlich über das Wesen und die Notwendigkeit Community-basierter Finanzierung, die jetzt gerade epicenter.works den Arsch gerettet hat.</p>
@@ -11915,8 +11915,8 @@ pretalx.c3voc.de: <a href="https://pretalx.c3voc.de/38c3-sendezentrum/cfp">38C3:
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp508-hello-kitty-koalition?podlove_template_page=episode-transcript-html" download="lnp508-hello-kitty-koalition.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp508-hello-kitty-koalition?podlove_transcript=webvtt" download="lnp508-hello-kitty-koalition.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp508-hello-kitty-koalition?podlove_template_page=episode-transcript-html" download="lnp508-hello-kitty-koalition.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp508-hello-kitty-koalition?podlove_transcript=webvtt" download="lnp508-hello-kitty-koalition.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -12034,9 +12034,9 @@ metaebene.me: <a href="https://metaebene.me/support/">Unterstütze die Metaebene
         <psc:chapter start="01:22:09.702" title="Community-basierte Finanzierung"/>
         <psc:chapter start="01:34:27.275" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp508-hello-kitty-koalition?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp508-hello-kitty-koalition?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp508-hello-kitty-koalition?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp508-hello-kitty-koalition?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp508-hello-kitty-koalition?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp508-hello-kitty-koalition?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Tim Pritlove</atom:name>
         <atom:uri>http://tim.pritlove.org/</atom:uri>
@@ -16826,8 +16826,8 @@ Hintergrund des „EMS-Skandals“ </a></li>
       <pubDate>Tue, 19 Mar 2024 11:19:54 +0000</pubDate>
       <guid isPermaLink="false">podlove-2024-03-19t08:55:05+00:00-9ad4f9e88a78597</guid>
       <description><![CDATA[Heute ist das Kernteam wieder beisammen und wir beschäftigen uns eingehend mit Eurem Feedback. Dann schauen wir anläßlich seiner Beendigung seiner Arbeit für netzpolitik.org auf den Beitrag von Markus Beckedahl zum netzpolitischen Bereich, den er in den letzten 20 Jahren nachhaltig geprägt hat, auf die ungewöhnliche Entdeckung der untergetauchten RAF-Terroristin Daniela Klette durch AI-Tools, den AI Act und eine Entscheidung des Europäischen Gerichtshofs zur Frage der freien Veröffentlichung von Normen die Bestandteil von EU-Gesetzen sind. Zum Schluß diskutieren wir die Auswirkungen eines TV-Berichts zum "Anzeigenhauptmeister" der dem Internet wieder alles abverlangt.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp487-das-internet-ist-undankbar#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8713/s/feed/c/mp3/lnp487-das-internet-ist-undankbar.mp3" length="78466572" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp487-das-internet-ist-undankbar#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8713/s/feed/c/mp3/lnp487-das-internet-ist-undankbar.mp3" length="78466572" type="audio/mpeg"/>
       <itunes:duration>02:10:43</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Markus Beckedahl — Daniela Klette — AI Act — Bundeswehr-Webkonferenz — EU-Normen — Anzeigenhauptmeister</itunes:subtitle>
@@ -16838,14 +16838,14 @@ Hintergrund des „EMS-Skandals“ </a></li>
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp487-das-internet-ist-undankbar#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp487-das-internet-ist-undankbar#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Feedback — Markus Beckedahl — Daniela Klette — AI Act — Bundeswehr-Webkonferenz — EU-Normen — Anzeigenhauptmeister</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp487-das-internet-ist-undankbar.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438372d6461732d696e7465726e65742d6973742d756e64616e6b6261722e6a7067/600/0/0/lnp487-das-internet-ist-undankbar" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438372d6461732d696e7465726e65742d6973742d756e64616e6b6261722e6a7067/600/0/0/lnp487-das-internet-ist-undankbar 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438372d6461732d696e7465726e65742d6973742d756e64616e6b6261722e6a7067/1200/0/0/lnp487-das-internet-ist-undankbar 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438372d6461732d696e7465726e65742d6973742d756e64616e6b6261722e6a7067/600/0/0/lnp487-das-internet-ist-undankbar" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438372d6461732d696e7465726e65742d6973742d756e64616e6b6261722e6a7067/600/0/0/lnp487-das-internet-ist-undankbar 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438372d6461732d696e7465726e65742d6973742d756e64616e6b6261722e6a7067/1200/0/0/lnp487-das-internet-ist-undankbar 2x"/>
 </a>
 
 <p class="episode-summary">Heute ist das Kernteam wieder beisammen und wir beschäftigen uns eingehend mit Eurem Feedback. Dann schauen wir anläßlich seiner Beendigung seiner Arbeit für netzpolitik.org auf den Beitrag von Markus Beckedahl zum netzpolitischen Bereich, den er in den letzten 20 Jahren nachhaltig geprägt hat, auf die ungewöhnliche Entdeckung der untergetauchten RAF-Terroristin Daniela Klette durch AI-Tools, den AI Act und eine Entscheidung des Europäischen Gerichtshofs zur Frage der freien Veröffentlichung von Normen die Bestandteil von EU-Gesetzen sind. Zum Schluß diskutieren wir die Auswirkungen eines TV-Berichts zum &quot;Anzeigenhauptmeister&quot; der dem Internet wieder alles abverlangt.</p>
@@ -16920,8 +16920,8 @@ Hintergrund des „EMS-Skandals“ </a></li>
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp487-das-internet-ist-undankbar?podlove_template_page=episode-transcript-html" download="lnp487-das-internet-ist-undankbar.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp487-das-internet-ist-undankbar?podlove_transcript=webvtt" download="lnp487-das-internet-ist-undankbar.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp487-das-internet-ist-undankbar?podlove_template_page=episode-transcript-html" download="lnp487-das-internet-ist-undankbar.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp487-das-internet-ist-undankbar?podlove_transcript=webvtt" download="lnp487-das-internet-ist-undankbar.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -17047,9 +17047,9 @@ Hintergrund des „EMS-Skandals“ </a></li>
         <psc:chapter start="01:36:08.760" title="Anzeigenhauptmeister"/>
         <psc:chapter start="02:08:27.001" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp487-das-internet-ist-undankbar?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp487-das-internet-ist-undankbar?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp487-das-internet-ist-undankbar?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp487-das-internet-ist-undankbar?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp487-das-internet-ist-undankbar?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp487-das-internet-ist-undankbar?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -17067,8 +17067,8 @@ Hintergrund des „EMS-Skandals“ </a></li>
       <pubDate>Thu, 14 Mar 2024 12:01:22 +0000</pubDate>
       <guid isPermaLink="false">podlove-2024-03-14t10:46:47+00:00-42bf21d9b3e2894</guid>
       <description><![CDATA[Die heutige Folge ist ein Spezial zur aktuellen EU-Gesetzgebung. Tim und Thomas besprechen mit Ralf Bendrath und Arnika Zinke, die beide für die Grüne Fraktion in der EU an der Gesetzgebung mitarbeiten, gerade bzw. bald beschlossene neue Richtlinien und Verordnungen. Einen besonderen Schwerpunkt legen wir dabei auf den AI Act und diskutieren seine Entstehung und konkrete Ausgestaltung.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp486-das-fuenfte-element#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8707/s/feed/c/mp3/lnp486-das-fuenfte-element.mp3" length="77040631" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp486-das-fuenfte-element#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8707/s/feed/c/mp3/lnp486-das-fuenfte-element.mp3" length="77040631" type="audio/mpeg"/>
       <itunes:duration>02:08:18</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Product Liability Directive — Cyber Resilience Act — Platform Workers Directive — European Health Data Space — AI Act</itunes:subtitle>
@@ -17079,14 +17079,14 @@ Hintergrund des „EMS-Skandals“ </a></li>
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp486-das-fuenfte-element#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp486-das-fuenfte-element#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Product Liability Directive — Cyber Resilience Act — Platform Workers Directive — European Health Data Space — AI Act</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp486-das-fuenfte-element.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438362d6461732d6675656e6674652d656c656d656e742e6a7067/600/0/0/lnp486-das-fuenfte-element" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438362d6461732d6675656e6674652d656c656d656e742e6a7067/600/0/0/lnp486-das-fuenfte-element 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438362d6461732d6675656e6674652d656c656d656e742e6a7067/1200/0/0/lnp486-das-fuenfte-element 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438362d6461732d6675656e6674652d656c656d656e742e6a7067/600/0/0/lnp486-das-fuenfte-element" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438362d6461732d6675656e6674652d656c656d656e742e6a7067/600/0/0/lnp486-das-fuenfte-element 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438362d6461732d6675656e6674652d656c656d656e742e6a7067/1200/0/0/lnp486-das-fuenfte-element 2x"/>
 </a>
 
 <p class="episode-summary">Die heutige Folge ist ein Spezial zur aktuellen EU-Gesetzgebung. Tim und Thomas besprechen mit Ralf Bendrath und Arnika Zinke, die beide für die Grüne Fraktion in der EU an der Gesetzgebung mitarbeiten, gerade bzw. bald beschlossene neue Richtlinien und Verordnungen. Einen besonderen Schwerpunkt legen wir dabei auf den AI Act und diskutieren seine Entstehung und konkrete Ausgestaltung.</p>
@@ -17186,8 +17186,8 @@ Hintergrund des „EMS-Skandals“ </a></li>
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp486-das-fuenfte-element?podlove_template_page=episode-transcript-html" download="lnp486-das-fuenfte-element.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp486-das-fuenfte-element?podlove_transcript=webvtt" download="lnp486-das-fuenfte-element.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp486-das-fuenfte-element?podlove_template_page=episode-transcript-html" download="lnp486-das-fuenfte-element.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp486-das-fuenfte-element?podlove_transcript=webvtt" download="lnp486-das-fuenfte-element.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -17254,9 +17254,9 @@ Hintergrund des „EMS-Skandals“ </a></li>
         <psc:chapter start="02:05:35.200" title="Ausblick auf die EU"/>
         <psc:chapter start="02:14:48.024" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp486-das-fuenfte-element?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp486-das-fuenfte-element?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp486-das-fuenfte-element?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp486-das-fuenfte-element?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp486-das-fuenfte-element?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp486-das-fuenfte-element?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Tim Pritlove</atom:name>
         <atom:uri>http://tim.pritlove.org/</atom:uri>
@@ -18409,8 +18409,8 @@ Wir sprechen mit Jean Peters von correctiv, der an der Recherche beteiligt war u
       <pubDate>Mon, 15 Jan 2024 01:14:25 +0000</pubDate>
       <guid isPermaLink="false">podlove-2024-01-15t00:27:53+00:00-d8634fa9e3509bc</guid>
       <description><![CDATA[Nach einer kurzen Pause setzen wir unser Programm fort und wie zu erwarten war blicken wir unter anderem ausführlich auf den 37. Chaos Communication Congress zurück und geben diverse Tips für Vorträge, die man nachschauen kann, Natürlich nimmt auch die aktuelle AfD-Debatte Raum ein und wir schauen auch auf Großbritannien wo ein Softwarefehler unendlich viel Leid erzeugt hat. Dazu noch Informationen rund um Funkzellenabfrage, noyb, Regenschirme und Rohrpostsysteme. Alles drin also.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp481-lorem-ipsum-war-gestern#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8667/s/feed/c/mp3/lnp481-lorem-ipsum-war-gestern.mp3" length="94397533" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp481-lorem-ipsum-war-gestern#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8667/s/feed/c/mp3/lnp481-lorem-ipsum-war-gestern.mp3" length="94397533" type="audio/mpeg"/>
       <itunes:duration>02:34:54</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Rohrpost — Regenschirme — Grüße aus dem Faschismus — Feedback — AfD — 37C3 — Justizirrtum in Großbritannien — Überwachungsgesamtrechnung — Funkzellenabfrage — noyb</itunes:subtitle>
@@ -18421,14 +18421,14 @@ Wir sprechen mit Jean Peters von correctiv, der an der Recherche beteiligt war u
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp481-lorem-ipsum-war-gestern#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp481-lorem-ipsum-war-gestern#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Rohrpost — Regenschirme — Grüße aus dem Faschismus — Feedback — AfD — 37C3 — Justizirrtum in Großbritannien — Überwachungsgesamtrechnung — Funkzellenabfrage — noyb</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp481-lorem-ipsum-war-gestern.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438312d6c6f72656d2d697073756d2d7761722d6765737465726e2e6a7067/600/0/0/lnp481-lorem-ipsum-war-gestern" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438312d6c6f72656d2d697073756d2d7761722d6765737465726e2e6a7067/600/0/0/lnp481-lorem-ipsum-war-gestern 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438312d6c6f72656d2d697073756d2d7761722d6765737465726e2e6a7067/1200/0/0/lnp481-lorem-ipsum-war-gestern 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438312d6c6f72656d2d697073756d2d7761722d6765737465726e2e6a7067/600/0/0/lnp481-lorem-ipsum-war-gestern" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438312d6c6f72656d2d697073756d2d7761722d6765737465726e2e6a7067/600/0/0/lnp481-lorem-ipsum-war-gestern 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438312d6c6f72656d2d697073756d2d7761722d6765737465726e2e6a7067/1200/0/0/lnp481-lorem-ipsum-war-gestern 2x"/>
 </a>
 
 <p class="episode-summary">Nach einer kurzen Pause setzen wir unser Programm fort und wie zu erwarten war blicken wir unter anderem ausführlich auf den 37. Chaos Communication Congress zurück und geben diverse Tips für Vorträge, die man nachschauen kann, Natürlich nimmt auch die aktuelle AfD-Debatte Raum ein und wir schauen auch auf Großbritannien wo ein Softwarefehler unendlich viel Leid erzeugt hat. Dazu noch Informationen rund um Funkzellenabfrage, noyb, Regenschirme und Rohrpostsysteme. Alles drin also.</p>
@@ -18503,8 +18503,8 @@ Wir sprechen mit Jean Peters von correctiv, der an der Recherche beteiligt war u
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp481-lorem-ipsum-war-gestern?podlove_template_page=episode-transcript-html" download="lnp481-lorem-ipsum-war-gestern.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp481-lorem-ipsum-war-gestern?podlove_transcript=webvtt" download="lnp481-lorem-ipsum-war-gestern.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp481-lorem-ipsum-war-gestern?podlove_template_page=episode-transcript-html" download="lnp481-lorem-ipsum-war-gestern.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp481-lorem-ipsum-war-gestern?podlove_transcript=webvtt" download="lnp481-lorem-ipsum-war-gestern.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -18678,9 +18678,9 @@ Wir sprechen mit Jean Peters von correctiv, der an der Recherche beteiligt war u
         <psc:chapter start="02:25:10.105" title="noyb vs Meta “Pay or Okay”"/>
         <psc:chapter start="02:32:27.336" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp481-lorem-ipsum-war-gestern?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp481-lorem-ipsum-war-gestern?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp481-lorem-ipsum-war-gestern?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp481-lorem-ipsum-war-gestern?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp481-lorem-ipsum-war-gestern?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp481-lorem-ipsum-war-gestern?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -18700,8 +18700,8 @@ Wir sprechen mit Jean Peters von correctiv, der an der Recherche beteiligt war u
       <description><![CDATA[Und da ist sie, die letzte Sendung dieses Jahres. Nicht sonderlich weihnachtlich, aber immerhin mit viel Eingeständnissen unserer Unkenntnis bestimmter Dinge. Dafür soll es ja dann Geschenke geben, haben wir gehört.
 
 Wir danken Euch für die wohlwollende und unterstützende Begleitung in diesem Jahr und freuen uns auf ein gemeinsames weiteres Podcast-Jahr 2024.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp480-einfach-nur-geil#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8659/s/feed/c/mp3/lnp480-einfach-nur-geil.mp3" length="51866521" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp480-einfach-nur-geil#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8659/s/feed/c/mp3/lnp480-einfach-nur-geil.mp3" length="51866521" type="audio/mpeg"/>
       <itunes:duration>01:26:21</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback —  Lanz — 37C3 — Lapsus GTA Leak — Porn und DSA — EU vs. X</itunes:subtitle>
@@ -18714,14 +18714,14 @@ Wir danken Euch für die wohlwollende und unterstützende Begleitung in diesem J
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp480-einfach-nur-geil#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp480-einfach-nur-geil#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Feedback —  Lanz — 37C3 — Lapsus GTA Leak — Porn und DSA — EU vs. X</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp480-einfach-nur-geil.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438302d65696e666163682d6e75722d6765696c2e6a7067/600/0/0/lnp480-einfach-nur-geil" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438302d65696e666163682d6e75722d6765696c2e6a7067/600/0/0/lnp480-einfach-nur-geil 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438302d65696e666163682d6e75722d6765696c2e6a7067/1200/0/0/lnp480-einfach-nur-geil 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438302d65696e666163682d6e75722d6765696c2e6a7067/600/0/0/lnp480-einfach-nur-geil" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438302d65696e666163682d6e75722d6765696c2e6a7067/600/0/0/lnp480-einfach-nur-geil 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703438302d65696e666163682d6e75722d6765696c2e6a7067/1200/0/0/lnp480-einfach-nur-geil 2x"/>
 </a>
 
 <p class="episode-summary">Und da ist sie, die letzte Sendung dieses Jahres. Nicht sonderlich weihnachtlich, aber immerhin mit viel Eingeständnissen unserer Unkenntnis bestimmter Dinge. Dafür soll es ja dann Geschenke geben, haben wir gehört.<br />
@@ -18798,8 +18798,8 @@ Wir danken Euch für die wohlwollende und unterstützende Begleitung in diesem J
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp480-einfach-nur-geil?podlove_template_page=episode-transcript-html" download="lnp480-einfach-nur-geil.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp480-einfach-nur-geil?podlove_transcript=webvtt" download="lnp480-einfach-nur-geil.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp480-einfach-nur-geil?podlove_template_page=episode-transcript-html" download="lnp480-einfach-nur-geil.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp480-einfach-nur-geil?podlove_transcript=webvtt" download="lnp480-einfach-nur-geil.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -18918,9 +18918,9 @@ Wir danken Euch für die wohlwollende und unterstützende Begleitung in diesem J
         <psc:chapter start="01:18:23.304" title="Epilog"/>
         <psc:chapter start="01:22:13.375" title="Bonus Track"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp480-einfach-nur-geil?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp480-einfach-nur-geil?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp480-einfach-nur-geil?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp480-einfach-nur-geil?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp480-einfach-nur-geil?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp480-einfach-nur-geil?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -18938,8 +18938,8 @@ Wir danken Euch für die wohlwollende und unterstützende Begleitung in diesem J
       <pubDate>Sat, 16 Dec 2023 00:26:19 +0000</pubDate>
       <guid isPermaLink="false">podlove-2023-12-16t00:24:13+00:00-9fd6fcce6a40d6f</guid>
       <description><![CDATA[Tim hat Corona und macht Quarantäne in der Metaebene. Da kann man auch gleich mal ne Folge LNP aufnehmen. Ansonsten behandeln wir einige thematische Wiedergänger und erklären auch mal ausführlich, wie Push Notifications funktionieren und warum sie ein potentielles Problem für die Privatsphäre sein können. Dazu noch ein paar lustige Meldungen rund um AI, Crypto-Bros und anderen Hype.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp479-prokrastination-ist-fortschritt#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8654/s/feed/c/mp3/lnp479-prokrastination-ist-fortschritt.mp3" length="53347680" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp479-prokrastination-ist-fortschritt#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8654/s/feed/c/mp3/lnp479-prokrastination-ist-fortschritt.mp3" length="53347680" type="audio/mpeg"/>
       <itunes:duration>01:28:49</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Chatkontrole — Push Notifications — Google vs. Epic — AI Act — e-Rezept und Patientenakte — Binance — Woke Grok — ChatGPT liest BILD</itunes:subtitle>
@@ -18950,14 +18950,14 @@ Wir danken Euch für die wohlwollende und unterstützende Begleitung in diesem J
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp479-prokrastination-ist-fortschritt#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp479-prokrastination-ist-fortschritt#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Feedback — Chatkontrole — Push Notifications — Google vs. Epic — AI Act — e-Rezept und Patientenakte — Binance — Woke Grok — ChatGPT liest BILD</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp479-prokrastination-ist-fortschritt.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437392d70726f6b72617374696e6174696f6e2d6973742d666f7274736368726974742e6a7067/600/0/0/lnp479-prokrastination-ist-fortschritt" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437392d70726f6b72617374696e6174696f6e2d6973742d666f7274736368726974742e6a7067/600/0/0/lnp479-prokrastination-ist-fortschritt 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437392d70726f6b72617374696e6174696f6e2d6973742d666f7274736368726974742e6a7067/1200/0/0/lnp479-prokrastination-ist-fortschritt 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437392d70726f6b72617374696e6174696f6e2d6973742d666f7274736368726974742e6a7067/600/0/0/lnp479-prokrastination-ist-fortschritt" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437392d70726f6b72617374696e6174696f6e2d6973742d666f7274736368726974742e6a7067/600/0/0/lnp479-prokrastination-ist-fortschritt 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437392d70726f6b72617374696e6174696f6e2d6973742d666f7274736368726974742e6a7067/1200/0/0/lnp479-prokrastination-ist-fortschritt 2x"/>
 </a>
 
 <p class="episode-summary">Tim hat Corona und macht Quarantäne in der Metaebene. Da kann man auch gleich mal ne Folge LNP aufnehmen. Ansonsten behandeln wir einige thematische Wiedergänger und erklären auch mal ausführlich, wie Push Notifications funktionieren und warum sie ein potentielles Problem für die Privatsphäre sein können. Dazu noch ein paar lustige Meldungen rund um AI, Crypto-Bros und anderen Hype.</p>
@@ -19032,8 +19032,8 @@ Wir danken Euch für die wohlwollende und unterstützende Begleitung in diesem J
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp479-prokrastination-ist-fortschritt?podlove_template_page=episode-transcript-html" download="lnp479-prokrastination-ist-fortschritt.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp479-prokrastination-ist-fortschritt?podlove_transcript=webvtt" download="lnp479-prokrastination-ist-fortschritt.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp479-prokrastination-ist-fortschritt?podlove_template_page=episode-transcript-html" download="lnp479-prokrastination-ist-fortschritt.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp479-prokrastination-ist-fortschritt?podlove_transcript=webvtt" download="lnp479-prokrastination-ist-fortschritt.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -19157,9 +19157,9 @@ online child sexual abuse </a></li>
         <psc:chapter start="01:23:21.276" title="Epilog"/>
         <psc:chapter start="01:26:29.628" title="Bonus Track"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp479-prokrastination-ist-fortschritt?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp479-prokrastination-ist-fortschritt?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp479-prokrastination-ist-fortschritt?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp479-prokrastination-ist-fortschritt?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp479-prokrastination-ist-fortschritt?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp479-prokrastination-ist-fortschritt?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -19181,8 +19181,8 @@ online child sexual abuse </a></li>
 Dazu klären wir auch die Frage, wer in Deutschland eigentlich wirklich witzig ist und erhalten Besuch von einem renommierten Tierforscher der siebziger Jahre.
 
 Abschließend blicken wir auf das Vortragsprogramm des kommenden 37. Chaos Communication Congress in Hamburg.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp478-hackerschein-fuer-scheinhacker#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8647/s/feed/c/mp3/lnp478-hackerschein-fuer-scheinhacker.mp3" length="80894697" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp478-hackerschein-fuer-scheinhacker#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8647/s/feed/c/mp3/lnp478-hackerschein-fuer-scheinhacker.mp3" length="80894697" type="audio/mpeg"/>
       <itunes:duration>02:14:44</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Werbeträger-Versorgung — Feedback — OpenAI — Ermittlungen gegen Frag den Staat — KI-erzeugte Gesetze — Hackerparagraph — Quad 9 — noyb — Chatkontrolle — Züge mit Killswitch — 37C3 Vorschau</itunes:subtitle>
@@ -19197,14 +19197,14 @@ Abschließend blicken wir auf das Vortragsprogramm des kommenden 37. Chaos Commu
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp478-hackerschein-fuer-scheinhacker#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp478-hackerschein-fuer-scheinhacker#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Werbeträger-Versorgung — Feedback — OpenAI — Ermittlungen gegen Frag den Staat — KI-erzeugte Gesetze — Hackerparagraph — Quad 9 — noyb — Chatkontrolle — Züge mit Killswitch — 37C3 Vorschau</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp478-hackerschein-fuer-scheinhacker.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437382d6861636b657273636865696e2d667565722d73636865696e6861636b65722e6a7067/600/0/0/lnp478-hackerschein-fuer-scheinhacker" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437382d6861636b657273636865696e2d667565722d73636865696e6861636b65722e6a7067/600/0/0/lnp478-hackerschein-fuer-scheinhacker 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437382d6861636b657273636865696e2d667565722d73636865696e6861636b65722e6a7067/1200/0/0/lnp478-hackerschein-fuer-scheinhacker 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437382d6861636b657273636865696e2d667565722d73636865696e6861636b65722e6a7067/600/0/0/lnp478-hackerschein-fuer-scheinhacker" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437382d6861636b657273636865696e2d667565722d73636865696e6861636b65722e6a7067/600/0/0/lnp478-hackerschein-fuer-scheinhacker 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437382d6861636b657273636865696e2d667565722d73636865696e6861636b65722e6a7067/1200/0/0/lnp478-hackerschein-fuer-scheinhacker 2x"/>
 </a>
 
 <p class="episode-summary">Nach der letzten Spezialfolge tauchen wir heute wieder in die Nachrichten-Berichterstattung ein und bringen auch das Feedback zur vorletzten Folge. Dabei betrachten wir auch noch mal wie die Geschichte um OpenAI weiterging und  vor allem gibt es einige Nachhilfe in Rechtskunde und diverse weitere Entscheidungen und Revisionen vor deutschen Gerichten. <br />
@@ -19283,8 +19283,8 @@ Abschließend blicken wir auf das Vortragsprogramm des kommenden 37. Chaos Commu
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp478-hackerschein-fuer-scheinhacker?podlove_template_page=episode-transcript-html" download="lnp478-hackerschein-fuer-scheinhacker.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp478-hackerschein-fuer-scheinhacker?podlove_transcript=webvtt" download="lnp478-hackerschein-fuer-scheinhacker.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp478-hackerschein-fuer-scheinhacker?podlove_template_page=episode-transcript-html" download="lnp478-hackerschein-fuer-scheinhacker.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp478-hackerschein-fuer-scheinhacker?podlove_transcript=webvtt" download="lnp478-hackerschein-fuer-scheinhacker.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -19474,9 +19474,9 @@ Abschließend blicken wir auf das Vortragsprogramm des kommenden 37. Chaos Commu
         <psc:chapter start="02:09:07.421" title="Epilog"/>
         <psc:chapter start="02:12:28.960" title="Bonus Track"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp478-hackerschein-fuer-scheinhacker?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp478-hackerschein-fuer-scheinhacker?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp478-hackerschein-fuer-scheinhacker?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp478-hackerschein-fuer-scheinhacker?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp478-hackerschein-fuer-scheinhacker?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp478-hackerschein-fuer-scheinhacker?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -19498,8 +19498,8 @@ Abschließend blicken wir auf das Vortragsprogramm des kommenden 37. Chaos Commu
 Wir besprechen mit Stefan wie es zu dieser Aktion kam, welche organisatorischen und technischen Hürden übersprungen werden mussten, wie die Reaktion AfD und Kanzleramt bisher ausfiel und welche sonstigen lustigen Begleitumstände bisher zum Tragen kamen. 
 
 Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen das in der kommenden Zeit noch haben könnte.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp477-die-anwaelte-sind-die-wahren-kuenstler#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8644/s/feed/c/mp3/lnp477-die-anwaelte-sind-die-wahren-kuenstler.mp3" length="79120555" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp477-die-anwaelte-sind-die-wahren-kuenstler#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8644/s/feed/c/mp3/lnp477-die-anwaelte-sind-die-wahren-kuenstler.mp3" length="79120555" type="audio/mpeg"/>
       <itunes:duration>02:11:46</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Logbuch:Netzpolitik Spezial: die Aktion &amp;quot;AfD-Verbot&amp;quot; des Zentrums für politische Schönheit</itunes:subtitle>
@@ -19515,14 +19515,14 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp477-die-anwaelte-sind-die-wahren-kuenstler#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp477-die-anwaelte-sind-die-wahren-kuenstler#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Logbuch:Netzpolitik Spezial: die Aktion "AfD-Verbot" des Zentrums für politische Schönheit</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp477-die-anwaelte-sind-die-wahren-kuenstler.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437372d6469652d616e7761656c74652d73696e642d6469652d77616872656e2d6b75656e73746c65722e6a7067/600/0/0/lnp477-die-anwaelte-sind-die-wahren-kuenstler" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437372d6469652d616e7761656c74652d73696e642d6469652d77616872656e2d6b75656e73746c65722e6a7067/600/0/0/lnp477-die-anwaelte-sind-die-wahren-kuenstler 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437372d6469652d616e7761656c74652d73696e642d6469652d77616872656e2d6b75656e73746c65722e6a7067/1200/0/0/lnp477-die-anwaelte-sind-die-wahren-kuenstler 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437372d6469652d616e7761656c74652d73696e642d6469652d77616872656e2d6b75656e73746c65722e6a7067/600/0/0/lnp477-die-anwaelte-sind-die-wahren-kuenstler" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437372d6469652d616e7761656c74652d73696e642d6469652d77616872656e2d6b75656e73746c65722e6a7067/600/0/0/lnp477-die-anwaelte-sind-die-wahren-kuenstler 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437372d6469652d616e7761656c74652d73696e642d6469652d77616872656e2d6b75656e73746c65722e6a7067/1200/0/0/lnp477-die-anwaelte-sind-die-wahren-kuenstler 2x"/>
 </a>
 
 <p class="episode-summary">Heute begrüßen wir in der Sendung Stefan Pelzer, einer der federführenden Aktivistinnen im Kollektiv &quot;Zentrum für politische Schönheit&quot;, die jüngst mit der neuen Aktion &quot;AfD-Verbot&quot; auf sich und vor allem auf die AfD aufmerksam macht. Denn nicht nur wirbelt es mit seiner bewussten Verwendung von Deep Fakes die Medienöffentlichkeit auf sondern liefert der Allgemeinheit durch ihren Online-Datenbank von Meinungsäußerungen von AfD-Mitgliedern handfestes Beweismaterial, dass für ein tatsächliches Verbot der Partei herangezogen werden kann.<br />
@@ -19621,8 +19621,8 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp477-die-anwaelte-sind-die-wahren-kuenstler?podlove_template_page=episode-transcript-html" download="lnp477-die-anwaelte-sind-die-wahren-kuenstler.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp477-die-anwaelte-sind-die-wahren-kuenstler?podlove_transcript=webvtt" download="lnp477-die-anwaelte-sind-die-wahren-kuenstler.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp477-die-anwaelte-sind-die-wahren-kuenstler?podlove_template_page=episode-transcript-html" download="lnp477-die-anwaelte-sind-die-wahren-kuenstler.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp477-die-anwaelte-sind-die-wahren-kuenstler?podlove_transcript=webvtt" download="lnp477-die-anwaelte-sind-die-wahren-kuenstler.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -19639,14 +19639,14 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
     <h3>Verwandte Episoden</h3>
     <ul>
             <li>
-            <a href="https://logbuch-netzpolitik.de/lnp516-man-darf-alles-auf-dem-dach-haben">LNP516 Man darf alles auf dem Dach haben</a>
+            <a href="http://logbuch-netzpolitik.de/lnp516-man-darf-alles-auf-dem-dach-haben">LNP516 Man darf alles auf dem Dach haben</a>
         </li>
         </ul>
 
 
 <h1>Shownotes</h1>
 
-<figure class="wp-block-image size-large"><a href="https://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-scaled.jpg"><img loading="lazy" decoding="async" width="680" height="1024" src="https://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-680x1024.jpg" alt="" class="wp-image-5761" srcset="https://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-680x1024.jpg 680w, https://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-199x300.jpg 199w, https://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-768x1157.jpg 768w, https://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-1019x1536.jpg 1019w, https://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-1359x2048.jpg 1359w, https://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-scaled.jpg 1699w" sizes="auto, (max-width: 680px) 100vw, 680px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-scaled.jpg"><img loading="lazy" decoding="async" width="680" height="1024" src="https://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-680x1024.jpg" alt="" class="wp-image-5761" srcset="http://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-680x1024.jpg 680w, http://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-199x300.jpg 199w, http://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-768x1157.jpg 768w, http://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-1019x1536.jpg 1019w, http://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-1359x2048.jpg 1359w, http://logbuch-netzpolitik.de/files/2023/12/datenelch-clean-scaled.jpg 1699w" sizes="auto, (max-width: 680px) 100vw, 680px" /></a></figure>
 
 
 
@@ -19761,9 +19761,9 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
         <psc:chapter start="01:55:17.076" title="Deep Fakes"/>
         <psc:chapter start="02:04:52.692" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp477-die-anwaelte-sind-die-wahren-kuenstler?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp477-die-anwaelte-sind-die-wahren-kuenstler?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp477-die-anwaelte-sind-die-wahren-kuenstler?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp477-die-anwaelte-sind-die-wahren-kuenstler?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp477-die-anwaelte-sind-die-wahren-kuenstler?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp477-die-anwaelte-sind-die-wahren-kuenstler?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -19785,8 +19785,8 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
       <pubDate>Tue, 21 Nov 2023 15:02:17 +0000</pubDate>
       <guid isPermaLink="false">podlove-2023-11-21t12:17:34+00:00-e5100b455996cf3</guid>
       <description><![CDATA[Da die Nachrichtenlage zum Ende des Jahres doch etwas ausdünnt nehmen wir uns heute extra viel Zeit für Euer Feedback und steigen dabei noch mal hart in die Karnevalsgeschichte ein, mutmaßen über mögliche Paralleluniversen des Zeitreisens und anderen Quatsch. Dazu ein paar Updates aus der juristischen und gesetzgeberischen Front und sehr viel Kopfschütteln über den vollkommen Zukunftsbegriff der Konservativen.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8636/s/feed/c/mp3/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind.mp3" length="71319222" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8636/s/feed/c/mp3/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind.mp3" length="71319222" type="audio/mpeg"/>
       <itunes:duration>01:58:46</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Fasching — Karneval — CloudFlare — Passkeys — Chatkontrolle — OpenAI Shakeup — Funkloch-Bußgeld — Schulhof-Entkriminalisierung</itunes:subtitle>
@@ -19797,14 +19797,14 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Feedback — Fasching — Karneval — CloudFlare — Passkeys — Chatkontrolle — OpenAI Shakeup — Funkloch-Bußgeld — Schulhof-Entkriminalisierung</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437362d7a65686e2d6b6f6d696b65722d6469652d667565722d696872656e2d68756d6f722d62656b616e6e742d73696e642e6a7067/600/0/0/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437362d7a65686e2d6b6f6d696b65722d6469652d667565722d696872656e2d68756d6f722d62656b616e6e742d73696e642e6a7067/600/0/0/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437362d7a65686e2d6b6f6d696b65722d6469652d667565722d696872656e2d68756d6f722d62656b616e6e742d73696e642e6a7067/1200/0/0/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437362d7a65686e2d6b6f6d696b65722d6469652d667565722d696872656e2d68756d6f722d62656b616e6e742d73696e642e6a7067/600/0/0/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437362d7a65686e2d6b6f6d696b65722d6469652d667565722d696872656e2d68756d6f722d62656b616e6e742d73696e642e6a7067/600/0/0/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437362d7a65686e2d6b6f6d696b65722d6469652d667565722d696872656e2d68756d6f722d62656b616e6e742d73696e642e6a7067/1200/0/0/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind 2x"/>
 </a>
 
 <p class="episode-summary">Da die Nachrichtenlage zum Ende des Jahres doch etwas ausdünnt nehmen wir uns heute extra viel Zeit für Euer Feedback und steigen dabei noch mal hart in die Karnevalsgeschichte ein, mutmaßen über mögliche Paralleluniversen des Zeitreisens und anderen Quatsch. Dazu ein paar Updates aus der juristischen und gesetzgeberischen Front und sehr viel Kopfschütteln über den vollkommen Zukunftsbegriff der Konservativen.</p>
@@ -19879,8 +19879,8 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind?podlove_template_page=episode-transcript-html" download="lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind?podlove_transcript=webvtt" download="lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind?podlove_template_page=episode-transcript-html" download="lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind?podlove_transcript=webvtt" download="lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -20065,9 +20065,9 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
         <psc:chapter start="01:55:16.548" title="Bonus Track 2"/>
         <psc:chapter start="01:56:59.800" title="Outro"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp476-zehn-komiker-die-fuer-ihren-humor-bekannt-sind?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -20085,8 +20085,8 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
       <pubDate>Sun, 12 Nov 2023 00:07:22 +0000</pubDate>
       <guid isPermaLink="false">podlove-2023-11-12t00:01:26+00:00-84783b1e74ba44f</guid>
       <description><![CDATA[Heute haben wir mal wieder Thomas Lohninger zu Gast, der uns ausführlich von den Trilog-Verhandlungen der EU um die finale Version der eIDAS-Verordnung zu beschließen. Der aktuelle Vorschlag enthält ein paar hochgradig problematische Regelungen, die staatliche Umgehung von Verschlüsselung ermöglichen könnten. Bessere Nachrichten gibt es aus dem Lager der Chatkontrolle-Verhandlungen, wo der letzte Entwurf deutlich entschärft wurde. Doch auch hier steht noch die finale Entscheidung aus. Dazu ein paar Kurznachrichten und viel Diskussion um Karneval und den Wiener Opernball. Ganz so wie man es von einem Netzpolitik erwartet.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8630/s/feed/c/mp3/lnp475-deutsch-aber-lustig.mp3" length="89403036" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8630/s/feed/c/mp3/lnp475-deutsch-aber-lustig.mp3" length="89403036" type="audio/mpeg"/>
       <itunes:duration>02:28:55</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — eIDAS — Chatkontrolle — UN Cybercrime Convention — Bundestrojaner Österreich — Cloudflare — Jobs — Termine</itunes:subtitle>
@@ -20097,14 +20097,14 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Feedback — eIDAS — Chatkontrolle — UN Cybercrime Convention — Bundestrojaner Österreich — Cloudflare — Jobs — Termine</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp475-deutsch-aber-lustig.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437352d646575747363682d616265722d6c75737469672e6a7067/600/0/0/lnp475-deutsch-aber-lustig" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437352d646575747363682d616265722d6c75737469672e6a7067/600/0/0/lnp475-deutsch-aber-lustig 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437352d646575747363682d616265722d6c75737469672e6a7067/1200/0/0/lnp475-deutsch-aber-lustig 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437352d646575747363682d616265722d6c75737469672e6a7067/600/0/0/lnp475-deutsch-aber-lustig" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437352d646575747363682d616265722d6c75737469672e6a7067/600/0/0/lnp475-deutsch-aber-lustig 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437352d646575747363682d616265722d6c75737469672e6a7067/1200/0/0/lnp475-deutsch-aber-lustig 2x"/>
 </a>
 
 <p class="episode-summary">Heute haben wir mal wieder Thomas Lohninger zu Gast, der uns ausführlich von den Trilog-Verhandlungen der EU um die finale Version der eIDAS-Verordnung zu beschließen. Der aktuelle Vorschlag enthält ein paar hochgradig problematische Regelungen, die staatliche Umgehung von Verschlüsselung ermöglichen könnten. Bessere Nachrichten gibt es aus dem Lager der Chatkontrolle-Verhandlungen, wo der letzte Entwurf deutlich entschärft wurde. Doch auch hier steht noch die finale Entscheidung aus. Dazu ein paar Kurznachrichten und viel Diskussion um Karneval und den Wiener Opernball. Ganz so wie man es von einem Netzpolitik erwartet.</p>
@@ -20199,8 +20199,8 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig?podlove_template_page=episode-transcript-html" download="lnp475-deutsch-aber-lustig.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig?podlove_transcript=webvtt" download="lnp475-deutsch-aber-lustig.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig?podlove_template_page=episode-transcript-html" download="lnp475-deutsch-aber-lustig.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig?podlove_transcript=webvtt" download="lnp475-deutsch-aber-lustig.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -20369,9 +20369,9 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
         <psc:chapter start="02:20:09.167" title="Epilog"/>
         <psc:chapter start="02:25:34.728" title="Bonus Track"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -20393,8 +20393,8 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
       <pubDate>Fri, 03 Nov 2023 16:32:35 +0000</pubDate>
       <guid isPermaLink="false">podlove-2023-11-03t15:44:34+00:00-b33bff874b85052</guid>
       <description><![CDATA[Da der Rücklauf in Kommentaren zur letzten Sendung so umfangreich war gehen wir heute wieder ausführlich auf Euer Feedback ein und führen dabei den einen oder anderen Gedanken weiter. Dabei geht es natürlich im Schwerpunkt wieder um diverse Aspekte der KI und wir haben auch den Eindruck, dass diese Debatte noch lange nicht abgeschlossen ist. Dazu noch ein paar Kurzmeldungen, eine Diskussion um erzwungene Werbung und ein paar musikalische Leckerbissen und eine Überraschung am Ende.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp474-autobahnkreuzigung#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8626/s/feed/c/mp3/lnp474-autobahnkreuzigung.mp3" length="72721739" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp474-autobahnkreuzigung#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8626/s/feed/c/mp3/lnp474-autobahnkreuzigung.mp3" length="72721739" type="audio/mpeg"/>
       <itunes:duration>02:01:07</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Kommissionspropaganda — Google zahlt für #1 — Meta und personalisierte Werbung — Jabber.ru MITM</itunes:subtitle>
@@ -20405,14 +20405,14 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp474-autobahnkreuzigung#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp474-autobahnkreuzigung#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Feedback — Kommissionspropaganda — Google zahlt für #1 — Meta und personalisierte Werbung — Jabber.ru MITM</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp474-autobahnkreuzigung.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437342d6175746f6261686e6b7265757a6967756e672e6a7067/600/0/0/lnp474-autobahnkreuzigung" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437342d6175746f6261686e6b7265757a6967756e672e6a7067/600/0/0/lnp474-autobahnkreuzigung 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437342d6175746f6261686e6b7265757a6967756e672e6a7067/1200/0/0/lnp474-autobahnkreuzigung 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437342d6175746f6261686e6b7265757a6967756e672e6a7067/600/0/0/lnp474-autobahnkreuzigung" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437342d6175746f6261686e6b7265757a6967756e672e6a7067/600/0/0/lnp474-autobahnkreuzigung 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437342d6175746f6261686e6b7265757a6967756e672e6a7067/1200/0/0/lnp474-autobahnkreuzigung 2x"/>
 </a>
 
 <p class="episode-summary">Da der Rücklauf in Kommentaren zur letzten Sendung so umfangreich war gehen wir heute wieder ausführlich auf Euer Feedback ein und führen dabei den einen oder anderen Gedanken weiter. Dabei geht es natürlich im Schwerpunkt wieder um diverse Aspekte der KI und wir haben auch den Eindruck, dass diese Debatte noch lange nicht abgeschlossen ist. Dazu noch ein paar Kurzmeldungen, eine Diskussion um erzwungene Werbung und ein paar musikalische Leckerbissen und eine Überraschung am Ende.</p>
@@ -20487,8 +20487,8 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp474-autobahnkreuzigung?podlove_template_page=episode-transcript-html" download="lnp474-autobahnkreuzigung.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp474-autobahnkreuzigung?podlove_transcript=webvtt" download="lnp474-autobahnkreuzigung.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp474-autobahnkreuzigung?podlove_template_page=episode-transcript-html" download="lnp474-autobahnkreuzigung.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp474-autobahnkreuzigung?podlove_transcript=webvtt" download="lnp474-autobahnkreuzigung.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -20597,9 +20597,9 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
         <psc:chapter start="01:50:24.342" title="Epilog"/>
         <psc:chapter start="01:56:08.728" title="Bonus Track"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp474-autobahnkreuzigung?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp474-autobahnkreuzigung?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp474-autobahnkreuzigung?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp474-autobahnkreuzigung?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp474-autobahnkreuzigung?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp474-autobahnkreuzigung?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -20617,8 +20617,8 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
       <pubDate>Fri, 27 Oct 2023 08:00:34 +0000</pubDate>
       <guid isPermaLink="false">podlove-2023-10-27t01:21:41+00:00-b098e75bb0bd7b7</guid>
       <description><![CDATA[Heute müssen wir mal wieder ein wenig ausholen und aus verschiedenen internen und externen Gründen reden wir ausführlich über technische Details von und politische Überlegungen zur Künstlichen Intelligenz.  Der Teil ist dann etwas länger geworden, aber was soll's. Dazu noch ein paar gut aussehende Nachrichten von der Chatkontrolle, bei der jetzt vom Europäischen Parlament ein ganz passabler Kompromiss vorgelegt wurde und jetzt in die Trilog-Abschlussverhandlungen geht.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp473-enkeltrick-beim-hacker-silberruecken#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8612/s/feed/c/mp3/lnp473-enkeltrick-beim-hacker-silberruecken.mp3" length="101776606" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp473-enkeltrick-beim-hacker-silberruecken#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8612/s/feed/c/mp3/lnp473-enkeltrick-beim-hacker-silberruecken.mp3" length="101776606" type="audio/mpeg"/>
       <itunes:duration>02:49:32</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Künstliche Intelligenz — Chatkontrolle — Ylva Johannson — noch mehr Künstliche Intelligenz — NFTs</itunes:subtitle>
@@ -20629,14 +20629,14 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp473-enkeltrick-beim-hacker-silberruecken#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp473-enkeltrick-beim-hacker-silberruecken#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Feedback — Künstliche Intelligenz — Chatkontrolle — Ylva Johannson — noch mehr Künstliche Intelligenz — NFTs</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp473-enkeltrick-beim-hacker-silberruecken.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437332d656e6b656c747269636b2d6265696d2d6861636b65722d73696c626572727565636b656e2e6a7067/600/0/0/lnp473-enkeltrick-beim-hacker-silberruecken" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437332d656e6b656c747269636b2d6265696d2d6861636b65722d73696c626572727565636b656e2e6a7067/600/0/0/lnp473-enkeltrick-beim-hacker-silberruecken 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437332d656e6b656c747269636b2d6265696d2d6861636b65722d73696c626572727565636b656e2e6a7067/1200/0/0/lnp473-enkeltrick-beim-hacker-silberruecken 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437332d656e6b656c747269636b2d6265696d2d6861636b65722d73696c626572727565636b656e2e6a7067/600/0/0/lnp473-enkeltrick-beim-hacker-silberruecken" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437332d656e6b656c747269636b2d6265696d2d6861636b65722d73696c626572727565636b656e2e6a7067/600/0/0/lnp473-enkeltrick-beim-hacker-silberruecken 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437332d656e6b656c747269636b2d6265696d2d6861636b65722d73696c626572727565636b656e2e6a7067/1200/0/0/lnp473-enkeltrick-beim-hacker-silberruecken 2x"/>
 </a>
 
 <p class="episode-summary">Heute müssen wir mal wieder ein wenig ausholen und aus verschiedenen internen und externen Gründen reden wir ausführlich über technische Details von und politische Überlegungen zur Künstlichen Intelligenz.  Der Teil ist dann etwas länger geworden, aber was soll&#039;s. Dazu noch ein paar gut aussehende Nachrichten von der Chatkontrolle, bei der jetzt vom Europäischen Parlament ein ganz passabler Kompromiss vorgelegt wurde und jetzt in die Trilog-Abschlussverhandlungen geht.</p>
@@ -20711,8 +20711,8 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp473-enkeltrick-beim-hacker-silberruecken?podlove_template_page=episode-transcript-html" download="lnp473-enkeltrick-beim-hacker-silberruecken.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp473-enkeltrick-beim-hacker-silberruecken?podlove_transcript=webvtt" download="lnp473-enkeltrick-beim-hacker-silberruecken.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp473-enkeltrick-beim-hacker-silberruecken?podlove_template_page=episode-transcript-html" download="lnp473-enkeltrick-beim-hacker-silberruecken.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp473-enkeltrick-beim-hacker-silberruecken?podlove_transcript=webvtt" download="lnp473-enkeltrick-beim-hacker-silberruecken.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -20829,9 +20829,9 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
         <psc:chapter start="02:43:47.057" title="NFTs steigen im Wert"/>
         <psc:chapter start="02:48:57.378" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp473-enkeltrick-beim-hacker-silberruecken?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp473-enkeltrick-beim-hacker-silberruecken?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp473-enkeltrick-beim-hacker-silberruecken?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp473-enkeltrick-beim-hacker-silberruecken?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp473-enkeltrick-beim-hacker-silberruecken?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp473-enkeltrick-beim-hacker-silberruecken?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -20849,8 +20849,8 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
       <pubDate>Thu, 12 Oct 2023 12:45:14 +0000</pubDate>
       <guid isPermaLink="false">podlove-2023-10-12t12:23:58+00:00-7b1f8b7d4d3da18</guid>
       <description><![CDATA[Heute gehen wir wieder sehr ausführlich auf Euer hilfreiches und zahlreiches Feedback ein und lassen uns in dem Zuge auch belehren, wie das in der DDR eigentlich so war. Dazu noch weitere Ausführungen über Farben und ihre Bedeutung für Gruppendemokratie. Dann ein paar Updates von der Chatkontrolle-Front, das Drama um Twitter/X und die Diskussion um den neu entflammten Gaza-Konflikt und wir schauen auf einige der Hacks von Erpressergruppen der letzten Zeit.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp472-prophetisches-perfekt#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8596/s/feed/c/mp3/lnp472-prophetisches-perfekt.mp3" length="47987651" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp472-prophetisches-perfekt#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8596/s/feed/c/mp3/lnp472-prophetisches-perfekt.mp3" length="47987651" type="audio/mpeg"/>
       <itunes:duration>01:23:42</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Wahlergebnisse — Chatkontrolle — Israel und X — Hotel-Hacks</itunes:subtitle>
@@ -20861,14 +20861,14 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp472-prophetisches-perfekt#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp472-prophetisches-perfekt#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Feedback — Wahlergebnisse — Chatkontrolle — Israel und X — Hotel-Hacks</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp472-prophetisches-perfekt.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437322d70726f706865746973636865732d70657266656b742e6a7067/600/0/0/lnp472-prophetisches-perfekt" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437322d70726f706865746973636865732d70657266656b742e6a7067/600/0/0/lnp472-prophetisches-perfekt 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437322d70726f706865746973636865732d70657266656b742e6a7067/1200/0/0/lnp472-prophetisches-perfekt 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437322d70726f706865746973636865732d70657266656b742e6a7067/600/0/0/lnp472-prophetisches-perfekt" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437322d70726f706865746973636865732d70657266656b742e6a7067/600/0/0/lnp472-prophetisches-perfekt 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437322d70726f706865746973636865732d70657266656b742e6a7067/1200/0/0/lnp472-prophetisches-perfekt 2x"/>
 </a>
 
 <p class="episode-summary">Heute gehen wir wieder sehr ausführlich auf Euer hilfreiches und zahlreiches Feedback ein und lassen uns in dem Zuge auch belehren, wie das in der DDR eigentlich so war. Dazu noch weitere Ausführungen über Farben und ihre Bedeutung für Gruppendemokratie. Dann ein paar Updates von der Chatkontrolle-Front, das Drama um Twitter/X und die Diskussion um den neu entflammten Gaza-Konflikt und wir schauen auf einige der Hacks von Erpressergruppen der letzten Zeit.</p>
@@ -20943,8 +20943,8 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp472-prophetisches-perfekt?podlove_template_page=episode-transcript-html" download="lnp472-prophetisches-perfekt.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp472-prophetisches-perfekt?podlove_transcript=webvtt" download="lnp472-prophetisches-perfekt.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp472-prophetisches-perfekt?podlove_template_page=episode-transcript-html" download="lnp472-prophetisches-perfekt.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp472-prophetisches-perfekt?podlove_transcript=webvtt" download="lnp472-prophetisches-perfekt.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -21079,9 +21079,9 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
         <psc:chapter start="01:15:33.183" title="MGM-Hack"/>
         <psc:chapter start="01:17:36.234" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp472-prophetisches-perfekt?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp472-prophetisches-perfekt?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp472-prophetisches-perfekt?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp472-prophetisches-perfekt?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp472-prophetisches-perfekt?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp472-prophetisches-perfekt?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -21099,8 +21099,8 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
       <pubDate>Fri, 06 Oct 2023 10:50:53 +0000</pubDate>
       <guid isPermaLink="false">podlove-2023-10-06t10:10:25+00:00-eef199e4b9fed05</guid>
       <description><![CDATA[Wie das immer so ist: dachten wir zu Beginn der Sendung, dass wir kaum Themen haben wurde es eine extra lange Sendung weil wir uns einerseits wieder lange mit Eurem Feedback beschäftigt haben und dazu auch ein paar Themen der letzten Sendungen noch mal neu aufgegriffen haben und andererseits weil wir zum Schluss uns noch mal richtig auf die "Metaebene" begeben haben und diesen Podcast und die im Raum stehenden Finanzierungsmodelle noch mal hinterfragt und diskutiert haben. In dem Zuge geben wir ein paar Einblicke in unseren modus operandi und was die Motivation hinter der inhaltlichen und zeitlichen Gestaltung dieses Formats steht.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp471-der-fuehrer-sitzt-im-fernsehen#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8595/s/feed/c/mp3/lnp471-der-fuehrer-sitzt-im-fernsehen.mp3" length="98442940" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp471-der-fuehrer-sitzt-im-fernsehen#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8595/s/feed/c/mp3/lnp471-der-fuehrer-sitzt-im-fernsehen.mp3" length="98442940" type="audio/mpeg"/>
       <itunes:duration>02:43:59</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Social Media und TwiX — 37C3 — Chatkontrolle — Hinweisgeberschutzgesetz — Post NFTs — Podcasts und Finanzierungsmodelle im Wandel</itunes:subtitle>
@@ -21111,14 +21111,14 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp471-der-fuehrer-sitzt-im-fernsehen#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp471-der-fuehrer-sitzt-im-fernsehen#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
 <p><strong>Feedback — Social Media und TwiX — 37C3 — Chatkontrolle — Hinweisgeberschutzgesetz — Post NFTs — Podcasts und Finanzierungsmodelle im Wandel</strong></p>
 
 <a href="https://media.metaebene.me/media/lnp/lnp471-der-fuehrer-sitzt-im-fernsehen.jpg">
-<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437312d6465722d667565687265722d7369747a742d696d2d6665726e736568656e2e6a7067/600/0/0/lnp471-der-fuehrer-sitzt-im-fernsehen" srcset="https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437312d6465722d667565687265722d7369747a742d696d2d6665726e736568656e2e6a7067/600/0/0/lnp471-der-fuehrer-sitzt-im-fernsehen 1x, https://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437312d6465722d667565687265722d7369747a742d696d2d6665726e736568656e2e6a7067/1200/0/0/lnp471-der-fuehrer-sitzt-im-fernsehen 2x"/>
+<img decoding="async" width="600" src="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437312d6465722d667565687265722d7369747a742d696d2d6665726e736568656e2e6a7067/600/0/0/lnp471-der-fuehrer-sitzt-im-fernsehen" srcset="http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437312d6465722d667565687265722d7369747a742d696d2d6665726e736568656e2e6a7067/600/0/0/lnp471-der-fuehrer-sitzt-im-fernsehen 1x, http://logbuch-netzpolitik.de/podlove/image/68747470733a2f2f6d656469612e6d6574616562656e652e6d652f6d656469612f6c6e702f6c6e703437312d6465722d667565687265722d7369747a742d696d2d6665726e736568656e2e6a7067/1200/0/0/lnp471-der-fuehrer-sitzt-im-fernsehen 2x"/>
 </a>
 
 <p class="episode-summary">Wie das immer so ist: dachten wir zu Beginn der Sendung, dass wir kaum Themen haben wurde es eine extra lange Sendung weil wir uns einerseits wieder lange mit Eurem Feedback beschäftigt haben und dazu auch ein paar Themen der letzten Sendungen noch mal neu aufgegriffen haben und andererseits weil wir zum Schluss uns noch mal richtig auf die &quot;Metaebene&quot; begeben haben und diesen Podcast und die im Raum stehenden Finanzierungsmodelle noch mal hinterfragt und diskutiert haben. In dem Zuge geben wir ein paar Einblicke in unseren modus operandi und was die Motivation hinter der inhaltlichen und zeitlichen Gestaltung dieses Formats steht.</p>
@@ -21193,8 +21193,8 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp471-der-fuehrer-sitzt-im-fernsehen?podlove_template_page=episode-transcript-html" download="lnp471-der-fuehrer-sitzt-im-fernsehen.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp471-der-fuehrer-sitzt-im-fernsehen?podlove_transcript=webvtt" download="lnp471-der-fuehrer-sitzt-im-fernsehen.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp471-der-fuehrer-sitzt-im-fernsehen?podlove_template_page=episode-transcript-html" download="lnp471-der-fuehrer-sitzt-im-fernsehen.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp471-der-fuehrer-sitzt-im-fernsehen?podlove_transcript=webvtt" download="lnp471-der-fuehrer-sitzt-im-fernsehen.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -21318,9 +21318,9 @@ Dazu sprechen wir noch über Deep Fakes im Allgemeinen und welche Auswirkungen d
         <psc:chapter start="02:36:29.646" title="Epilog"/>
         <psc:chapter start="02:39:18.471" title="Bonus Track"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp471-der-fuehrer-sitzt-im-fernsehen?chapters_format=pijson" type="application/json+chapters"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp471-der-fuehrer-sitzt-im-fernsehen?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp471-der-fuehrer-sitzt-im-fernsehen?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp471-der-fuehrer-sitzt-im-fernsehen?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp471-der-fuehrer-sitzt-im-fernsehen?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp471-der-fuehrer-sitzt-im-fernsehen?podlove_transcript=json_podcastindex" type="application/json"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -26717,7 +26717,7 @@ Und leider viel zu spät für den Gabentisch, aber nichtsdestotrotz ganz wunderw
 <div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-medium is-style-rounded"><a href="https://shop.metaebene.me/product/53471/einhornstandarte"><img loading="lazy" decoding="async" width="300" height="300" data-id="5608" src="https://logbuch-netzpolitik.de/files/2022/12/einhornstandarte-shirt-300x300.jpeg" alt="" class="wp-image-5608" srcset="https://logbuch-netzpolitik.de/files/2022/12/einhornstandarte-shirt-300x300.jpeg 300w, https://logbuch-netzpolitik.de/files/2022/12/einhornstandarte-shirt-150x150.jpeg 150w, https://logbuch-netzpolitik.de/files/2022/12/einhornstandarte-shirt-768x768.jpeg 768w, https://logbuch-netzpolitik.de/files/2022/12/einhornstandarte-shirt.jpeg 1000w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-element-caption">Einhornstandarte T-Shirt</figcaption></figure>
 
 

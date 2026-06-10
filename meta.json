@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "number": 555,
+      "title": "LNP555 Deutsche wollen Akten",
+      "url": "https://logbuch-netzpolitik.de/lnp555-deutsche-wollen-akten",
+      "date": "2026-06-09",
+      "has_transcript": true
+    },
+    {
       "number": 554,
       "title": "LNP554 Scheißidee, aber wenigstens mal eine andere",
       "url": "https://logbuch-netzpolitik.de/lnp554-scheissidee-aber-wenigstens-mal-eine-andere",
@@ -3889,11 +3896,11 @@
   "speakers": [
     {
       "name": "Linus Neumann",
-      "cue_count": 226551
+      "cue_count": 227563
     },
     {
       "name": "Tim Pritlove",
-      "cue_count": 133606
+      "cue_count": 134135
     },
     {
       "name": "Thomas Lohninger",

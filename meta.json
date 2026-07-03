@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "number": 556,
+      "title": "LNP556 Einer der schlechteren Tage auffe Arbeit",
+      "url": "https://logbuch-netzpolitik.de/lnp556-einer-der-schlechteren-tage-auffe-arbeit",
+      "date": "2026-07-02",
+      "has_transcript": true
+    },
+    {
       "number": 555,
       "title": "LNP555 Deutsche wollen Akten",
       "url": "https://logbuch-netzpolitik.de/lnp555-deutsche-wollen-akten",
@@ -3896,11 +3903,11 @@
   "speakers": [
     {
       "name": "Linus Neumann",
-      "cue_count": 227563
+      "cue_count": 228286
     },
     {
       "name": "Tim Pritlove",
-      "cue_count": 134135
+      "cue_count": 134396
     },
     {
       "name": "Thomas Lohninger",

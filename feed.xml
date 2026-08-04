@@ -37752,8 +37752,8 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
       <pubDate>Mon, 30 Aug 2021 07:50:00 +0000</pubDate>
       <guid isPermaLink="false">podlove-2021-08-29t22:09:06+00:00-ad09c8fdc1a43b4</guid>
       <description><![CDATA[Anders als Ihr es vermutlich erwartet habt findet Ihr eine neue Sendung vor und wir gehen heute noch mal genauer auf den Fall rund um den DNS-Provider "Quad 9" ein. Dazu begrüßen wir ein weiteres Mal Felix Reda in unserer Runde, der mit der GFF gerade eine Klage gegen das Urteil des Hamburger Landgerichts anstrebt, um gegen die verordnete Sperrung von Websites vorzugehen. Die Sendung runden wir mit ein paar Meldungen ab.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp404-sie-haben-ihr-ziel-erreicht#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8236/s/feed/c/mp3/lnp404-sie-haben-ihr-ziel-erreicht.mp3" length="57012406" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp404-sie-haben-ihr-ziel-erreicht#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8236/s/feed/c/mp3/lnp404-sie-haben-ihr-ziel-erreicht.mp3" length="57012406" type="audio/mpeg"/>
       <itunes:duration>01:34:56</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Quad 9 — Terror-Kunst — Biometrie und die Taliban — Folterknast-Hack — noyb vs. &amp;quot;PUR&amp;quot;-Abos — Cyber-Security-Pact</itunes:subtitle>
@@ -37763,7 +37763,7 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp404-sie-haben-ihr-ziel-erreicht#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp404-sie-haben-ihr-ziel-erreicht#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -37853,8 +37853,8 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp404-sie-haben-ihr-ziel-erreicht?podlove_template_page=episode-transcript-html" download="lnp404-sie-haben-ihr-ziel-erreicht.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp404-sie-haben-ihr-ziel-erreicht?podlove_transcript=webvtt" download="lnp404-sie-haben-ihr-ziel-erreicht.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp404-sie-haben-ihr-ziel-erreicht?podlove_template_page=episode-transcript-html" download="lnp404-sie-haben-ihr-ziel-erreicht.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp404-sie-haben-ihr-ziel-erreicht?podlove_transcript=webvtt" download="lnp404-sie-haben-ihr-ziel-erreicht.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -37939,7 +37939,7 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
         <psc:chapter start="01:26:45.374" title="USA: Cyber-Security Pact"/>
         <psc:chapter start="01:34:15.707" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp404-sie-haben-ihr-ziel-erreicht?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp404-sie-haben-ihr-ziel-erreicht?chapters_format=pijson" type="application/json+chapters"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -37954,8 +37954,8 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
       <podcast:person img="https://media.metaebene.me/media/metaebene/contributors/linus-neumann.jpg">Linus Neumann</podcast:person>
       <podcast:person img="https://logbuch-netzpolitik.de/files/2020/11/IMG_4799.jpeg">Tim Pritlove</podcast:person>
       <podcast:person img="https://logbuch-netzpolitik.de/files/2022/01/felix.png" role="guest">Felix Reda</podcast:person>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp404-sie-haben-ihr-ziel-erreicht?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp404-sie-haben-ihr-ziel-erreicht?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp404-sie-haben-ihr-ziel-erreicht?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp404-sie-haben-ihr-ziel-erreicht?podlove_transcript=json_podcastindex" type="application/json"/>
     </item>
     <item>
       <title>LNP403 Leichte Schläge auf den Hinterkopf</title>
@@ -37963,8 +37963,8 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
       <pubDate>Mon, 16 Aug 2021 23:17:21 +0000</pubDate>
       <guid isPermaLink="false">podlove-2021-08-16t23:03:34+00:00-dfd29a913cd9153</guid>
       <description><![CDATA[Neben Eurem Feedback nehmen wir uns heute viel Zeit die umstrittene "Child Safety" Initiative von Apple unter die Lupe zu nehmen. Wir stellen vor, mit welcher Technik Apple sich auf die Suche nach "Child Sexual Abuse Material (CSAM)" machen möchte und welche Implikationen das hat. Ist das System der Türöffner für Hintertüren oder verhindert das ausgeklügelte Kryptosystem deren Einführung. Auch wir sind da nicht unbedingt einer Meinung und diskutieren über Technik und Moral.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp403-leichte-schlaege-auf-den-hinterkopf#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8231/s/feed/c/mp3/lnp403-leichte-schlaege-auf-den-hinterkopf.mp3" length="56670264" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp403-leichte-schlaege-auf-den-hinterkopf#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8231/s/feed/c/mp3/lnp403-leichte-schlaege-auf-den-hinterkopf.mp3" length="56670264" type="audio/mpeg"/>
       <itunes:duration>01:34:22</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Impfzertifikate — Apples Child Safety Initiative — Lucafails — DSGVO-Strafe für veraltete Software</itunes:subtitle>
@@ -37974,7 +37974,7 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp403-leichte-schlaege-auf-den-hinterkopf#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp403-leichte-schlaege-auf-den-hinterkopf#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -38053,8 +38053,8 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp403-leichte-schlaege-auf-den-hinterkopf?podlove_template_page=episode-transcript-html" download="lnp403-leichte-schlaege-auf-den-hinterkopf.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp403-leichte-schlaege-auf-den-hinterkopf?podlove_transcript=webvtt" download="lnp403-leichte-schlaege-auf-den-hinterkopf.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp403-leichte-schlaege-auf-den-hinterkopf?podlove_template_page=episode-transcript-html" download="lnp403-leichte-schlaege-auf-den-hinterkopf.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp403-leichte-schlaege-auf-den-hinterkopf?podlove_transcript=webvtt" download="lnp403-leichte-schlaege-auf-den-hinterkopf.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -38161,7 +38161,7 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
         <psc:chapter start="01:28:44.579" title="DSGVO-Strafe für veraltete Software"/>
         <psc:chapter start="01:33:12.287" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp403-leichte-schlaege-auf-den-hinterkopf?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp403-leichte-schlaege-auf-den-hinterkopf?chapters_format=pijson" type="application/json+chapters"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -38172,8 +38172,8 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
       </atom:contributor>
       <podcast:person img="https://media.metaebene.me/media/metaebene/contributors/linus-neumann.jpg">Linus Neumann</podcast:person>
       <podcast:person img="https://logbuch-netzpolitik.de/files/2020/11/IMG_4799.jpeg">Tim Pritlove</podcast:person>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp403-leichte-schlaege-auf-den-hinterkopf?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp403-leichte-schlaege-auf-den-hinterkopf?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp403-leichte-schlaege-auf-den-hinterkopf?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp403-leichte-schlaege-auf-den-hinterkopf?podlove_transcript=json_podcastindex" type="application/json"/>
     </item>
     <item>
       <title>LNP402 Katastrophe Pro</title>
@@ -38181,8 +38181,8 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
       <pubDate>Fri, 06 Aug 2021 14:50:36 +0000</pubDate>
       <guid isPermaLink="false">podlove-2021-08-06t12:47:56+00:00-94d36b627e49feb</guid>
       <description><![CDATA[Heute gibt es ganz viel Feedback zur letzten Sendung (danke dafür). Danach berichten wir von der neuen EU-Verordnung zur Chatkontrolle und deren drohender Verschärfung in Richtung. Die CDU wiederum sieht sich im Cyberkrieg gut aufgestellt und verzichtet künftig freiwillig auf die Unterstützung unabhängiger Sicherheitsforscherinnen. Die schlechten Nachrichten runden wir ab mit einem Blick auf die jetzt in Kraft getretene Reform des Urheberrechts und ein paar skurille Ransomware-Fälle.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp402-katastrophe-pro#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8226/s/feed/c/mp3/lnp402-katastrophe-pro.mp3" length="65278232" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp402-katastrophe-pro#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8226/s/feed/c/mp3/lnp402-katastrophe-pro.mp3" length="65278232" type="audio/mpeg"/>
       <itunes:duration>01:48:42</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Feedback — Chatkontrolle — CDU will nicht mehr gewarnt werden — UHG-Reform in D — Sony vs. Quad9 — Kaseya / REvil — Anhalt-Bitterfeld</itunes:subtitle>
@@ -38192,7 +38192,7 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp402-katastrophe-pro#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp402-katastrophe-pro#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -38271,8 +38271,8 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp402-katastrophe-pro?podlove_template_page=episode-transcript-html" download="lnp402-katastrophe-pro.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp402-katastrophe-pro?podlove_transcript=webvtt" download="lnp402-katastrophe-pro.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp402-katastrophe-pro?podlove_template_page=episode-transcript-html" download="lnp402-katastrophe-pro.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp402-katastrophe-pro?podlove_transcript=webvtt" download="lnp402-katastrophe-pro.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -38426,7 +38426,7 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
         <psc:chapter start="01:44:24.188" title="Hack Anhalt-Bitterfeld"/>
         <psc:chapter start="01:47:35.570" title="Epilog"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp402-katastrophe-pro?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp402-katastrophe-pro?chapters_format=pijson" type="application/json+chapters"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -38437,8 +38437,8 @@ Ansonsten klappern wir wieder einiges Unangenehmes ab: die Facebook Files erzäh
       </atom:contributor>
       <podcast:person img="https://media.metaebene.me/media/metaebene/contributors/linus-neumann.jpg">Linus Neumann</podcast:person>
       <podcast:person img="https://logbuch-netzpolitik.de/files/2020/11/IMG_4799.jpeg">Tim Pritlove</podcast:person>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp402-katastrophe-pro?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp402-katastrophe-pro?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp402-katastrophe-pro?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp402-katastrophe-pro?podlove_transcript=json_podcastindex" type="application/json"/>
     </item>
     <item>
       <title>LNP401 Gespaltenes Verhältnis zu Sonderzeichen</title>
@@ -38452,8 +38452,8 @@ Heute gehen wir auf die Premiere des Films "Alles ist eins, außer der 0" ein, d
 Linus geht ausführlich auf die jüngsten Publikationen rund um die israelische NSO Pegasus Software ein, bei der zahlreiche Oppositionspolitiker, Aktivisten und Journalisten weltweit Abhörziel von Regierungen wurden.
 
 Dann sprechen wir noch über die vorübergehende Aussetzung der Aussetzung der Erstellung von Impfzertifikaten in Apotheken, weil mal wieder zu wenig über die Sicherheit nachgedacht wurde, über ein paar neue lustige Fehler der Luca App und gratulieren dem Projekt "Frag den Staat" zum zehnjährigen Geburtstag.]]></description>
-      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen#"/>
-      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/8222/s/feed/c/mp3/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen.mp3" length="64672366" type="audio/mpeg"/>
+      <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen#"/>
+      <enclosure url="http://logbuch-netzpolitik.de/podlove/file/8222/s/feed/c/mp3/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen.mp3" length="64672366" type="audio/mpeg"/>
       <itunes:duration>01:47:41</itunes:duration>
       <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
       <itunes:subtitle>Filmpremiere: Alles ist eins — NSO Pegasus — Cell Broadcast Flutkatastrophe — Impfzertifikate-Apotheken-Hack — Lucafails — 10 Jahre Frag den Staat</itunes:subtitle>
@@ -38469,7 +38469,7 @@ Dann sprechen wir noch über die vorübergehende Aussetzung der Aussetzung der E
       <content:encoded><![CDATA[
 
 <p>Feedback zur Sendung?<br/>
-<strong><a href="https://logbuch-netzpolitik.de/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen#comments">Schreibe uns einen Kommentar</a></strong></p>
+<strong><a href="http://logbuch-netzpolitik.de/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen#comments">Schreibe uns einen Kommentar</a></strong></p>
 
 
 
@@ -38554,8 +38554,8 @@ Dann sprechen wir noch über die vorübergehende Aussetzung der Aussetzung der E
                 Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
                 Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
                 Formate:
-                <a href="https://logbuch-netzpolitik.de/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen?podlove_template_page=episode-transcript-html" download="lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen.transcript.html">HTML</a>,
-                <a href="https://logbuch-netzpolitik.de/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen?podlove_transcript=webvtt" download="lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen.transcript.vtt">WEBVTT</a>.
+                <a href="http://logbuch-netzpolitik.de/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen?podlove_template_page=episode-transcript-html" download="lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen.transcript.html">HTML</a>,
+                <a href="http://logbuch-netzpolitik.de/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen?podlove_transcript=webvtt" download="lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen.transcript.vtt">WEBVTT</a>.
             </p>
         </div>
     </div>
@@ -38685,7 +38685,7 @@ Dann sprechen wir noch über die vorübergehende Aussetzung der Aussetzung der E
         <psc:chapter start="01:42:11.881" title="Epilog"/>
         <psc:chapter start="01:43:33.180" title="Bonus Track"/>
       </psc:chapters>
-      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:chapters url="http://logbuch-netzpolitik.de/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen?chapters_format=pijson" type="application/json+chapters"/>
       <atom:contributor>
         <atom:name>Linus Neumann</atom:name>
         <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -38696,8 +38696,8 @@ Dann sprechen wir noch über die vorübergehende Aussetzung der Aussetzung der E
       </atom:contributor>
       <podcast:person img="https://media.metaebene.me/media/metaebene/contributors/linus-neumann.jpg">Linus Neumann</podcast:person>
       <podcast:person img="https://logbuch-netzpolitik.de/files/2020/11/IMG_4799.jpeg">Tim Pritlove</podcast:person>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen?podlove_transcript=webvtt" type="text/vtt"/>
-      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen?podlove_transcript=json_podcastindex" type="application/json"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="http://logbuch-netzpolitik.de/lnp401-gespaltenes-verhaeltnis-zu-sonderzeichen?podlove_transcript=json_podcastindex" type="application/json"/>
     </item>
     <item>
       <title>LNP400 Experimenteller Zustand</title>

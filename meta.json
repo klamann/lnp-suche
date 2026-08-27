@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "number": 557,
+      "title": "LNP557 Vom Unfall zum Normalfall",
+      "url": "https://logbuch-netzpolitik.de/lnp557-vom-unfall-zum-normalfall",
+      "date": "2026-08-27",
+      "has_transcript": true
+    },
+    {
       "number": 556,
       "title": "LNP556 Einer der schlechteren Tage auffe Arbeit",
       "url": "https://logbuch-netzpolitik.de/lnp556-einer-der-schlechteren-tage-auffe-arbeit",
@@ -3903,11 +3910,11 @@
   "speakers": [
     {
       "name": "Linus Neumann",
-      "cue_count": 228286
+      "cue_count": 229019
     },
     {
       "name": "Tim Pritlove",
-      "cue_count": 134396
+      "cue_count": 134805
     },
     {
       "name": "Thomas Lohninger",

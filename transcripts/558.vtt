@@ -1,0 +1,4184 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP558 Negatives Nachtatverhalten
+Publishing Date: 2026-09-04T22:48:26+02:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp558-negatives-nachtatverhalten
+
+00:00:00.411 --> 00:00:01.385
+<v Tim Pritlove>Guten Morgen Linus.
+
+00:00:01.385 --> 00:00:02.333
+<v Linus Neumann>Guten Morgen Tim.
+
+00:00:02.983 --> 00:00:05.845
+<v Tim Pritlove>Wetten, dass wir diese Sendung auf jeden Fall überziehen werden?
+
+00:00:06.054 --> 00:00:07.685
+<v Linus Neumann>Top! Die Wette gilt.
+
+00:00:28.867 --> 00:00:34.922
+<v Tim Pritlove>Logbuch Netzpolitik Nummer 558 vom, was haben wir heute?
+
+00:00:35.404 --> 00:00:41.714
+<v Tim Pritlove>Na, 3. September 2026 und wir sind live auf der Bühne.
+
+00:00:42.155 --> 00:00:43.597
+<v Linus Neumann>Bei der Attention.
+
+00:00:52.039 --> 00:00:58.597
+<v Tim Pritlove>Genau. Mit nur ganz wenig technischen Problemen, die bestimmt überhaupt kein Problem sein werden.
+
+00:00:58.957 --> 00:01:02.577
+<v Linus Neumann>Das ist auch bei anderen Sendungen nicht, Tim. Das ist das erste Mal,
+
+00:01:02.577 --> 00:01:04.557
+<v Linus Neumann>dass ich das sehe, dass du mit dem Kram da nicht klarkommst.
+
+00:01:04.557 --> 00:01:04.897
+<v Tim Pritlove>Schlimm, oder?
+
+00:01:06.157 --> 00:01:11.120
+<v Linus Neumann>Mich langweilt das. Ich guck mir lieber hier gleich andere Clowns an.
+
+00:01:11.793 --> 00:01:12.607
+<v Tim Pritlove>Und Artisten.
+
+00:01:12.607 --> 00:01:14.197
+<v Linus Neumann>Die verrenken sich noch mehr als du.
+
+00:01:14.626 --> 00:01:16.747
+<v Tim Pritlove>Ich bin Artist. Guck mal, steht hier drauf?
+
+00:01:16.747 --> 00:01:18.017
+<v Linus Neumann>Nee, da steht Attention drauf.
+
+00:01:18.017 --> 00:01:22.237
+<v Tim Pritlove>Ja, steht drauf, aber du hast gesagt, wenn ich so ein Bändchen trage, bin ich Artist.
+
+00:01:22.353 --> 00:01:24.317
+<v Linus Neumann>Ja, aber du hast bisher kein Rad geschlagen.
+
+00:01:24.317 --> 00:01:28.686
+<v Tim Pritlove>Ja, aber mal gucken, ich schlage, ich gebe dir gleich Rat.
+
+00:01:30.985 --> 00:01:34.397
+<v Tim Pritlove>Ja, wir sind Tim und Linus, wir machen Logbuch Netzpolitik, das ist ein Podcast,
+
+00:01:34.397 --> 00:01:35.397
+<v Tim Pritlove>kann man im Internet hören.
+
+00:01:35.777 --> 00:01:40.407
+<v Tim Pritlove>Und heute haben wir uns gedacht, erzählen wir mal lustige Geschichten und da
+
+00:01:40.407 --> 00:01:42.567
+<v Tim Pritlove>es immer selber nichts einfällt, haben wir uns noch einen Gast eingeladen,
+
+00:01:42.567 --> 00:01:46.117
+<v Tim Pritlove>nämlich Stefan Pelser vom Zentrum für politische Schönheit.
+
+00:01:48.464 --> 00:01:51.482
+<v Stefan Pelzer>Hi. Darf ich dir was sagen?
+
+00:01:52.697 --> 00:01:53.595
+<v Linus Neumann>Wir stellen dich vor.
+
+00:01:53.809 --> 00:01:55.337
+<v Tim Pritlove>Wir stellen dich vor.
+
+00:01:55.337 --> 00:02:00.387
+<v Linus Neumann>Stefan ist der Eskalationsbeauftragte des Zentrums für politische Schönheit.
+
+00:02:00.387 --> 00:02:07.747
+<v Linus Neumann>Er ist der Projektleiter vom Adenauer SRP Plus und er ist stolzer Träger des
+
+00:02:07.747 --> 00:02:15.230
+<v Linus Neumann>Bezirksverdienstkreuzes von Friedrichshain-Kreuzberg, nämlich des Silvio-Meyer-Preises 2026.
+
+00:02:22.457 --> 00:02:26.166
+<v Linus Neumann>Und Stefan ist nicht das erste Mal bei uns in der Sendung. Ich fasse das jetzt
+
+00:02:26.166 --> 00:02:29.406
+<v Linus Neumann>schnell zusammen. Wir hatten schon mal eine Sendung, das war die Logbuch Netzpolitik
+
+00:02:29.406 --> 00:02:31.626
+<v Linus Neumann>516. Man darf alles auf dem Dach haben.
+
+00:02:31.966 --> 00:02:37.426
+<v Linus Neumann>Mal schauen, wie diese Sendung sich gehalten hat, wo wir über euer Projekt gesprochen
+
+00:02:37.426 --> 00:02:39.006
+<v Linus Neumann>haben, den Adenauer SRP+.
+
+00:02:40.156 --> 00:02:44.966
+<v Linus Neumann>Das Fahrzeug wurde mit Spenden finanziert auf dem 38. Chaos Communication Congress.
+
+00:02:44.966 --> 00:02:47.824
+<v Linus Neumann>Das war es noch im Bau. Seitdem ist es im Einsatz.
+
+00:02:49.281 --> 00:02:54.736
+<v Linus Neumann>Von innen spannend ausgestattet mit allerlei Faxgeräten und Hängeregistern und
+
+00:02:54.736 --> 00:02:58.966
+<v Linus Neumann>dort drin sind die ganzen Belege für die Verfassungsfeindlichkeit der AfD aber
+
+00:02:58.966 --> 00:03:03.936
+<v Linus Neumann>auch eine AI-Weide mit der man sich über das Wahlprogramm unterhalten kann.
+
+00:03:03.936 --> 00:03:07.976
+<v Linus Neumann>Das ist wirklich, also wenn ihr mal die Gelegenheit habt, den Adenauer zu besichtigen,
+
+00:03:07.976 --> 00:03:11.676
+<v Linus Neumann>das ist wirklich wunderschön, da sind hinten so Zellen drin und bei einer der
+
+00:03:11.676 --> 00:03:15.326
+<v Linus Neumann>letzten, da guckt man dann so rein und dann ist aber auch direkt so der Hinterkopf
+
+00:03:15.326 --> 00:03:17.964
+<v Linus Neumann>von Alice Weidel, die da mit das ist alles sehr,
+
+00:03:19.106 --> 00:03:23.626
+<v Linus Neumann>ein wirklich tolles Fahrzeug im feinsten BRD-Stil der Bonner Republik, würde ich sagen.
+
+00:03:24.986 --> 00:03:28.756
+<v Linus Neumann>Und hatte eine Sirene auf dem Dach inzwischen nicht mehr, ne?
+
+00:03:28.756 --> 00:03:30.176
+<v Stefan Pelzer>Ne, die haben wir abgebaut.
+
+00:03:30.176 --> 00:03:30.644
+<v Tim Pritlove>Warum?
+
+00:03:30.909 --> 00:03:34.334
+<v Stefan Pelzer>Weil das immer, wir haben, Eskalation ist ja eigentlich was Gutes,
+
+00:03:34.740 --> 00:03:40.116
+<v Stefan Pelzer>aber es war so, dass quasi Sirene an, Polizei schlägt Scheibe ein,
+
+00:03:41.026 --> 00:03:43.316
+<v Stefan Pelzer>aber und dann noch, und Menschen spenden uns Geld.
+
+00:03:43.316 --> 00:03:46.316
+<v Stefan Pelzer>Das war so ein ganz dummer Mechanismus, der war uns aber zu billig.
+
+00:03:46.316 --> 00:03:53.676
+<v Stefan Pelzer>Also Sirene an, Polizei schlägt Tür ein und 10.000 Euro spenden in einem Rutsch.
+
+00:03:53.676 --> 00:03:56.734
+<v Stefan Pelzer>Das kann man dreimal machen, aber dann wird es langweilig.
+
+00:03:56.846 --> 00:04:00.216
+<v Stefan Pelzer>Und das heißt, und dann, ja, also deswegen, die Sirene ist mittlerweile unten,
+
+00:04:00.216 --> 00:04:05.060
+<v Stefan Pelzer>aber wir haben statt der Sirene ja diese wunderbare PA aufs Dach gebaut dann.
+
+00:04:05.396 --> 00:04:09.239
+<v Stefan Pelzer>Die ist wie eine Sirene, aber man kann quasi abspielen, was man möchte.
+
+00:04:09.582 --> 00:04:13.826
+<v Stefan Pelzer>Die ist bekannt geworden im ARD-Sommerkonzert.
+
+00:04:13.826 --> 00:04:15.586
+<v Linus Neumann>Sommerkonzert mit Alice Weide.
+
+00:04:16.046 --> 00:04:16.446
+<v Stefan Pelzer>Applaus.
+
+00:04:20.891 --> 00:04:21.228
+<v Tim Pritlove>Ja.
+
+00:04:22.373 --> 00:04:25.560
+<v Linus Neumann>Und der ist auch ein Anhänger dran manchmal?
+
+00:04:25.956 --> 00:04:28.059
+<v Stefan Pelzer>Genau, wir haben den Bass-Anhänger dann irgendwann gebaut.
+
+00:04:28.599 --> 00:04:29.939
+<v Linus Neumann>Ist ja auch ein kleiner Bus.
+
+00:04:29.939 --> 00:04:32.754
+<v Stefan Pelzer>Genau, ein kleiner Bus. So wenig Bass, brauchst einen Bass-Anhänger.
+
+00:04:35.779 --> 00:04:42.290
+<v Linus Neumann>Und ihr Vater mit seit jetzt weit über einem Jahr auf Demonstrationen,
+
+00:04:43.306 --> 00:04:45.309
+<v Linus Neumann>Aber auch, ihr macht die Schulhof-Tour.
+
+00:04:46.001 --> 00:04:49.243
+<v Stefan Pelzer>Ja, da soll ich was zu sagen, ne? Ja. Genau, also wir machen ja dieses,
+
+00:04:49.243 --> 00:04:52.193
+<v Stefan Pelzer>das haben wir letztes Jahr schon so versucht, aber man muss auch generell sagen,
+
+00:04:52.193 --> 00:04:56.334
+<v Stefan Pelzer>das ist ja immer so, Demonstration, Demonstration, Demonstration, Beschlagnahmt.
+
+00:04:56.630 --> 00:04:59.203
+<v Stefan Pelzer>Demonstration, Demonstration, Demonstration, Beschlagnahmt. Also dass wir immer
+
+00:04:59.203 --> 00:05:00.673
+<v Stefan Pelzer>zwischendurch auch wieder gestoppt wurden.
+
+00:05:01.033 --> 00:05:04.643
+<v Linus Neumann>Ich glaube, du übertreibst so viele Demonstrationen ohne Beschlagnahme, schafft ihr gar nicht.
+
+00:05:06.093 --> 00:05:11.053
+<v Stefan Pelzer>Und dann ist es so, dass wir ja, also generell fährt der Bus rum und das Ziel ist es,
+
+00:05:12.113 --> 00:05:16.228
+<v Stefan Pelzer>neben halt natürlich die AfD zu bekämpfen, wo wir sie treffen,
+
+00:05:17.033 --> 00:05:23.083
+<v Stefan Pelzer>ist es ja auch lokale kleine Initiativen quasi zu boosten, groß zu machen und so weiter.
+
+00:05:23.083 --> 00:05:25.473
+<v Stefan Pelzer>Also wir fahren ja nicht rum und machen die ganze Zeit selber Sachen,
+
+00:05:25.473 --> 00:05:29.043
+<v Stefan Pelzer>sondern wir gucken auch, wo macht irgendwer was, Omas gegen Recht,
+
+00:05:29.043 --> 00:05:32.913
+<v Stefan Pelzer>sonst irgendwas, AfD-Bürger-Dialog. Da sind ja überall kleine Strukturen von
+
+00:05:32.913 --> 00:05:35.116
+<v Stefan Pelzer>kleinen Leuten überall im Land.
+
+00:05:35.302 --> 00:05:37.793
+<v Stefan Pelzer>Jetzt gerade in Sachsen-Anhalt, demnächst auch in Mecklenburg-Vorpommern oder
+
+00:05:37.793 --> 00:05:39.626
+<v Stefan Pelzer>auch jetzt natürlich immer in Mecklenburg-Vorpommern.
+
+00:05:40.973 --> 00:05:48.897
+<v Stefan Pelzer>Und die sind klein, da treffen sich 30 Leute gegenüber vom AfD-Bürger-Dialog um hier ihren Unmut.
+
+00:05:49.344 --> 00:05:52.163
+<v Stefan Pelzer>Und da fahren wir dann hin und machen quasi den kleinen Protest groß.
+
+00:05:52.163 --> 00:05:54.723
+<v Stefan Pelzer>Da kommt dann der Bus hin, dann ist das aber immer in der Presse,
+
+00:05:54.723 --> 00:05:57.227
+<v Stefan Pelzer>in der lokalen, ganz dick und so weiter.
+
+00:05:57.500 --> 00:06:00.513
+<v Stefan Pelzer>Die freuen sich und es kommen auch von überall dann Leute angefahren,
+
+00:06:00.513 --> 00:06:02.492
+<v Stefan Pelzer>weil sie den Bus eh schon immer mal sehen wollten.
+
+00:06:02.904 --> 00:06:11.213
+<v Stefan Pelzer>Genau, nun ist es so, wir sind so wie die Coca-Cola-Weihnachtstour sozusagen, so eine Art in cool.
+
+00:06:12.639 --> 00:06:18.964
+<v Stefan Pelzer>So eine Art Roadshow, ja, die quasi, da ist ein Team von Leuten im Bus,
+
+00:06:19.173 --> 00:06:22.430
+<v Stefan Pelzer>Volunteers, dass die quasi sagen, ich will da mitfahren.
+
+00:06:23.069 --> 00:06:26.353
+<v Stefan Pelzer>Und die fahren dann für ein oder zwei Wochen mit. Aber der Bus kommt nicht nach
+
+00:06:26.353 --> 00:06:28.171
+<v Stefan Pelzer>Hause, der fährt immer weiter und weiter.
+
+00:06:29.693 --> 00:06:33.198
+<v Stefan Pelzer>Und wir haben aber nicht jeden Tag Programm. Also wir haben nicht jeden Tag
+
+00:06:33.552 --> 00:06:36.893
+<v Stefan Pelzer>irgendwas, wo wir zu einer lokalen Aktion hinfahren können.
+
+00:06:37.233 --> 00:06:39.413
+<v Stefan Pelzer>Gerade wenn nicht so die Woche vor der Wahl ist wie jetzt.
+
+00:06:40.033 --> 00:06:42.423
+<v Stefan Pelzer>Was auch der Grund ist, warum er jetzt nicht auf der Attention natürlich ist,
+
+00:06:42.423 --> 00:06:44.843
+<v Stefan Pelzer>weil er ist da, wo er gebraucht wird, in Sachsen-Anhalt.
+
+00:06:48.223 --> 00:06:54.230
+<v Stefan Pelzer>Und dann, nach der Attention, kommt er dann hierher. Weil dann ist ja zwei Wochen
+
+00:06:54.230 --> 00:06:56.158
+<v Stefan Pelzer>bis zur Wahl in Mecklenburg-Vorpommern.
+
+00:06:57.810 --> 00:06:59.720
+<v Stefan Pelzer>Aber weil man nicht jeden Tag was hat, haben wir dann überlegt,
+
+00:06:59.720 --> 00:07:03.530
+<v Stefan Pelzer>was machen wir unter der Woche mit dem Bus? Also was macht man am Dienstag, am Mittwoch?
+
+00:07:03.983 --> 00:07:09.100
+<v Stefan Pelzer>Und da haben wir gesagt, wir machen eine Schultour, weil wir sehr erschreckt
+
+00:07:09.100 --> 00:07:15.801
+<v Stefan Pelzer>davon waren, dass die AfD bei diesen Jugendwahlen so viel Zuspruch hatte.
+
+00:07:16.132 --> 00:07:20.650
+<v Stefan Pelzer>Denn ich weiß nicht, hier kommen ja Leute von überall her oder auch die Hörer
+
+00:07:20.650 --> 00:07:24.648
+<v Stefan Pelzer>kommen von überall her, aber bei mir, als ich noch in der Schule war,
+
+00:07:26.590 --> 00:07:30.320
+<v Stefan Pelzer>war das nicht so, dass die Leute irgendwie 20% NPD, gab es ja damals DVU und
+
+00:07:30.320 --> 00:07:36.350
+<v Stefan Pelzer>so weiter, sondern das war eigentlich nicht vorhanden, weil das total uncool besetzt war.
+
+00:07:36.350 --> 00:07:39.276
+<v Stefan Pelzer>Also es war einfach überhaupt nicht cool, rechts zu sein.
+
+00:07:40.895 --> 00:07:43.660
+<v Stefan Pelzer>Und mal ganz dem Beiberg, es ist auch heute nicht cool.
+
+00:07:43.660 --> 00:07:45.310
+<v Tim Pritlove>Rechts zu sein.
+
+00:07:45.310 --> 00:07:49.710
+<v Stefan Pelzer>Gut, dass du da noch was drauf hingewiesen hast. Aber manche Leute denken,
+
+00:07:49.710 --> 00:07:50.630
+<v Stefan Pelzer>es sei cool, vielleicht.
+
+00:07:52.050 --> 00:07:55.530
+<v Stefan Pelzer>Und das war erschreckend, weil ich glaube, da hat es Zahlen um die 20 Prozent,
+
+00:07:55.530 --> 00:07:57.858
+<v Stefan Pelzer>in manchen Bundesländern mehr, in manchen weniger gegeben.
+
+00:07:58.322 --> 00:08:01.240
+<v Stefan Pelzer>Und wir haben gedacht, hey, wir fahren an die Schulen. Und man konnte sich dann
+
+00:08:01.240 --> 00:08:05.631
+<v Stefan Pelzer>melden. Es wurde sofort überbucht bis zum Gehtnichtmehr, die Anfragen von Schulen,
+
+00:08:06.014 --> 00:08:08.800
+<v Stefan Pelzer>wo uns entweder Schüler bestellen können oder auch die Schule selbst.
+
+00:08:09.253 --> 00:08:13.210
+<v Stefan Pelzer>Und dann gehen wir mit denen in Kontakt, dann sagen Schulen zu und dann kommen
+
+00:08:13.210 --> 00:08:17.054
+<v Stefan Pelzer>wir für einen Tag dorthin. und parken auf dem Schulhof in aller Regel.
+
+00:08:17.727 --> 00:08:22.395
+<v Stefan Pelzer>Und dort gibt es dann einerseits einen Vortrag über quasi, ja,
+
+00:08:22.955 --> 00:08:26.847
+<v Stefan Pelzer>Verfassungsverhältigkeit AfD, rechte Tendenzen, Fake News auch.
+
+00:08:27.236 --> 00:08:30.725
+<v Stefan Pelzer>Und es gibt so verschiedene Stationen, die wir aufbauen, wo es quasi so ein
+
+00:08:30.725 --> 00:08:34.562
+<v Stefan Pelzer>Quiz mit Fake News, also die kriegen Videos gezeigt, ist das echt, ist das nicht echt.
+
+00:08:34.875 --> 00:08:39.235
+<v Stefan Pelzer>Weil ja gerade jetzt in der aktuellen Zeit die Schule das überhaupt nicht hinkriegt,
+
+00:08:39.235 --> 00:08:40.982
+<v Stefan Pelzer>Medienkompetenz richtig zu vermitteln.
+
+00:08:41.995 --> 00:08:47.135
+<v Stefan Pelzer>Allerdings zeigen, meine ich, Studien, dass wenn man 15 Minuten Schulung macht
+
+00:08:47.135 --> 00:08:50.345
+<v Stefan Pelzer>in Medienkompetenz, dann erkennt man schon 80% aller Fake News.
+
+00:08:50.653 --> 00:08:55.255
+<v Stefan Pelzer>Und dass das unsere Schulsystem nicht selbst darstellt, ist wirklich krass.
+
+00:08:55.547 --> 00:08:59.015
+<v Stefan Pelzer>Und das versuchen wir halt jetzt im ganz Kleinen. Das ist eine Schule,
+
+00:08:59.015 --> 00:09:00.748
+<v Stefan Pelzer>in Deutschland gibt es viele Schulen.
+
+00:09:04.179 --> 00:09:07.906
+<v Stefan Pelzer>Aber so nutzen wir unsere Off-Times.
+
+00:09:08.383 --> 00:09:13.545
+<v Tim Pritlove>Wenn du sagst Schule, an welche Klassen geht ihr da ran? An was für Schulen geht ihr ran?
+
+00:09:13.545 --> 00:09:17.755
+<v Stefan Pelzer>Das Programm richtet sich an Sekundarstufe 2 und 3. Das heißt...
+
+00:09:21.595 --> 00:09:24.895
+<v Stefan Pelzer>Das hat sich ja viel verändert mit 12 und 13. Ich denke, es richtet sich ab
+
+00:09:24.895 --> 00:09:29.975
+<v Stefan Pelzer>der 7.8. Klasse bis dann aufwärts. Also an Leute im Alter zwischen 14,
+
+00:09:29.975 --> 00:09:32.663
+<v Stefan Pelzer>15 und halt Ende der Schule.
+
+00:09:32.888 --> 00:09:35.425
+<v Linus Neumann>Kinder, die auch schon ihren Nachnamen tanzen können.
+
+00:09:35.425 --> 00:09:40.885
+<v Stefan Pelzer>Auch, ja genau, das ist für die Waldorfschule, genau, und alle anderen können
+
+00:09:40.885 --> 00:09:46.415
+<v Stefan Pelzer>natürlich auch kommen und gucken, also es gibt dann in den Pausen, gucken alle.
+
+00:09:47.779 --> 00:09:50.355
+<v Stefan Pelzer>Und das ist aber auch, also für die Crews, die da fahren, ist das ein ziemlich
+
+00:09:50.355 --> 00:09:54.615
+<v Stefan Pelzer>cooles Erlebnis, weil viel Wertschätzung da ist, das sind ja nun,
+
+00:09:54.615 --> 00:09:57.804
+<v Stefan Pelzer>es gibt viele Schulen, die sagen, hey, nee, hier Neutralitätsgebot, wir dürfen das nicht.
+
+00:09:58.915 --> 00:10:02.835
+<v Stefan Pelzer>Aber es gibt auch viele Schulleitungen und Lehrer- und Schülervertretungen,
+
+00:10:02.835 --> 00:10:05.765
+<v Stefan Pelzer>die sagen, nee, ihr kommt hierher und die auch dann so einen Druck selbst im
+
+00:10:05.765 --> 00:10:09.406
+<v Stefan Pelzer>Osten, wo die AfD stark ist, aushalten und sagen, nee, nee, hier entscheiden wir das.
+
+00:10:12.115 --> 00:10:15.145
+<v Stefan Pelzer>Und zum Thema Neutralitätsgebot, nur mal ganz, um es anzureißen,
+
+00:10:15.145 --> 00:10:17.915
+<v Stefan Pelzer>ist ein Riesenthema. Es gibt so eine, wie heißt das denn?
+
+00:10:19.515 --> 00:10:24.290
+<v Stefan Pelzer>Beutelsbacher Konsens. Und dort heißt es, man darf Kinder nicht indoktrinieren.
+
+00:10:24.656 --> 00:10:28.635
+<v Stefan Pelzer>Aber was wir machen, ist keine Indoktrination, sondern eigentlich so quasi politische
+
+00:10:28.635 --> 00:10:31.705
+<v Stefan Pelzer>Teilhabe, politische Bildung. Die können ja selber sich entscheiden,
+
+00:10:31.705 --> 00:10:33.114
+<v Stefan Pelzer>wie sie diese Fakten bewerten.
+
+00:10:33.502 --> 00:10:38.831
+<v Stefan Pelzer>Und ich verweise immer gerne auf den Paragraf 1 des Schulgesetzes des Landes Berlin.
+
+00:10:39.284 --> 00:10:43.665
+<v Stefan Pelzer>Das ist nämlich der Auftrag der Schule. Und das ist ähnlich in allen Schulgesetzen.
+
+00:10:43.665 --> 00:10:46.645
+<v Stefan Pelzer>In Berlin ist es sehr, sehr konkret, kommt bestimmt in die Shownotes.
+
+00:10:47.375 --> 00:10:52.215
+<v Stefan Pelzer>Aber die Aufgabe der Schule ist es, solche Menschen heranzuziehen,
+
+00:10:53.779 --> 00:11:00.536
+<v Stefan Pelzer>zu ziehen, die dem Nationalsozialismus und allen verwandten Ideologien entschieden entgegentreten.
+
+00:11:00.823 --> 00:11:04.675
+<v Stefan Pelzer>So, das ist die Aufgabe der Schule. Und...
+
+00:11:06.973 --> 00:11:11.813
+<v Stefan Pelzer>Und da kann man jetzt viel über Beutelsbacher Dialoge, Beutelsbacher Konzert reden.
+
+00:11:12.016 --> 00:11:15.482
+<v Stefan Pelzer>Es ist einfach eine Bemühung von einem völlig sachfremden anderen Thema,
+
+00:11:15.865 --> 00:11:19.249
+<v Stefan Pelzer>um quasi solche Themen aus der Schule rauszuhalten.
+
+00:11:19.385 --> 00:11:23.800
+<v Linus Neumann>Ich glaube, diese juristische Kurzfassung, da gibt es auch einen Vortrag bei
+
+00:11:23.800 --> 00:11:29.290
+<v Linus Neumann>dem CCC-Kongress, den wir verlinken, der sich mit dem sogenannten Neutralitätsgebot
+
+00:11:29.290 --> 00:11:32.185
+<v Linus Neumann>auseinandersetzt, das es in den meisten Fällen einfach überhaupt nicht gibt.
+
+00:11:32.766 --> 00:11:36.580
+<v Linus Neumann>Aber es wird der Schule oder dem Lehrpersonal ist,
+
+00:11:37.560 --> 00:11:43.680
+<v Linus Neumann>streng angehalten die demokratischen Prinzipien zu vertreten und nicht aktiv
+
+00:11:43.680 --> 00:11:49.797
+<v Linus Neumann>gegen einzelne Parteien sich zu äußern also man kann einen Adenauer SRP der
+
+00:11:50.140 --> 00:11:51.360
+<v Linus Neumann>das ist er auch nicht, das ist ein.
+
+00:11:51.360 --> 00:11:53.560
+<v Tim Pritlove>Anderer es kommt hier gerade so ein anderer Demo zum,
+
+00:11:55.620 --> 00:11:58.857
+<v Tim Pritlove>Wahnsinnsfahrzeug aber laut.
+
+00:12:00.520 --> 00:12:01.821
+<v Linus Neumann>Wie viele Schulen habt ihr jetzt schon gemacht?
+
+00:12:02.138 --> 00:12:06.955
+<v Stefan Pelzer>Könnte ich dir nicht sagen. Das ist ja auch so. Das sind zwei bis drei die Woche.
+
+00:12:07.216 --> 00:12:10.000
+<v Stefan Pelzer>Oder manchmal auch vier. Da haben wir gesagt, das ist ganz schön viel.
+
+00:12:12.020 --> 00:12:17.130
+<v Stefan Pelzer>Wenn du da zu so einer Schule fährst, musst du da um 7.30 Uhr sein.
+
+00:12:17.130 --> 00:12:21.200
+<v Linus Neumann>Fürchterliche Einrichtungen. Fürchterliche Einrichtungen. Ich habe schreckliche Erinnerungen.
+
+00:12:22.220 --> 00:12:24.790
+<v Stefan Pelzer>Die sagen dann so, wir wollen in der zweiten Stunde dahin zum Bus.
+
+00:12:24.790 --> 00:12:28.839
+<v Stefan Pelzer>Es sind nur 8.40 Uhr. Und du warst aber vorher, anderthalb Stunden Arbeit aufzuhören.
+
+00:12:29.141 --> 00:12:31.140
+<v Stefan Pelzer>Muss da irgendwie noch hinfahren und so weiter. Das heißt, dann geht so ein
+
+00:12:31.140 --> 00:12:34.366
+<v Stefan Pelzer>Tag um 5 Uhr los und dann sagen die aber in aller Regel auch noch,
+
+00:12:34.633 --> 00:12:37.680
+<v Stefan Pelzer>ja und nach der Schule, so um 14 Uhr ist dann Schule aus oder um 15 Uhr,
+
+00:12:38.060 --> 00:12:41.900
+<v Stefan Pelzer>dann dürfen die Eltern kommen und gucken und dann geht so ein Tag halt mega lang.
+
+00:12:41.900 --> 00:12:44.000
+<v Stefan Pelzer>Deswegen haben wir am Anfang vier gemacht und ich glaube, jetzt sind wir so
+
+00:12:44.000 --> 00:12:49.900
+<v Stefan Pelzer>bei zwei bis drei, die man dann die Woche so anfährt in Zeiten, wo dafür Zeit ist.
+
+00:12:50.740 --> 00:12:52.211
+<v Linus Neumann>Und wenn das Auto nicht beschlagnahmt ist.
+
+00:12:52.442 --> 00:12:54.760
+<v Stefan Pelzer>Genau, wenn es gerade nicht beschlagnahmt ist. Und wie viele,
+
+00:12:54.760 --> 00:12:59.380
+<v Stefan Pelzer>keine Ahnung, wir wären jetzt bei 40 gewesen. Also ich, was auch immer ich hier
+
+00:12:59.380 --> 00:13:01.578
+<v Stefan Pelzer>sage, ich bin inkompetent zur Menge.
+
+00:13:02.680 --> 00:13:05.800
+<v Tim Pritlove>Wie läuft das so konkret ab, wenn ihr dann sozusagen da in den Dialog tritt?
+
+00:13:05.800 --> 00:13:08.380
+<v Tim Pritlove>Macht ihr das dann im Bus oder geht ihr in die Klassen rein,
+
+00:13:08.380 --> 00:13:11.474
+<v Tim Pritlove>redet ihr mit allen oder einzeln Gruppchen, Bildung?
+
+00:13:11.714 --> 00:13:15.880
+<v Stefan Pelzer>Das ist so, dass die Lehrer, das wird in den Unterricht eingebettet,
+
+00:13:15.880 --> 00:13:19.278
+<v Stefan Pelzer>das gibt von uns begleitendes Material, es gibt sogar ein Schulheft dazu von uns,
+
+00:13:20.526 --> 00:13:24.830
+<v Stefan Pelzer>und die Lehrer, die das also angemeldet haben, die Klassen, die ausgewählt sind,
+
+00:13:24.830 --> 00:13:28.580
+<v Stefan Pelzer>das zu machen, die Jahrgänge, die sind angehalten, das vorzubereiten.
+
+00:13:29.320 --> 00:13:30.290
+<v Stefan Pelzer>Hausaufgabe.
+
+00:13:30.290 --> 00:13:31.480
+<v Linus Neumann>Deutsche Schule.
+
+00:13:31.480 --> 00:13:33.460
+<v Tim Pritlove>Nazis raus, Klassenarbeit.
+
+00:13:36.640 --> 00:13:41.550
+<v Stefan Pelzer>Nazis raus, Klassenarbeit, genau. Die sind angehalten, das vorzubereiten,
+
+00:13:41.550 --> 00:13:44.152
+<v Stefan Pelzer>gewissermaßen, was kommt da, um das zu kontextualisieren.
+
+00:13:45.900 --> 00:13:51.230
+<v Stefan Pelzer>Und dann kommen die als Gruppen, manchmal ist auch in der Aula der Vortrag vor
+
+00:13:51.230 --> 00:13:54.490
+<v Stefan Pelzer>ganz vielen, und dann kommen die in Gruppen zum Bus, dürfen sich den Bus angucken
+
+00:13:54.490 --> 00:13:56.620
+<v Stefan Pelzer>und die Stationen machen und dort geht es dann so ins Gespräch,
+
+00:13:56.620 --> 00:13:59.210
+<v Stefan Pelzer>aber das sind dann eher auf Klassenbasis, sag ich jetzt mal.
+
+00:13:59.511 --> 00:14:01.021
+<v Tim Pritlove>Wart ihr auch schon mal an der Waldorfschule?
+
+00:14:01.717 --> 00:14:04.844
+<v Tim Pritlove>Weil die können ja schon seit der ersten Klasse ihren Namen tanzen.
+
+00:14:05.164 --> 00:14:06.634
+<v Tim Pritlove>Da kann man ja ganz früh anfangen.
+
+00:14:06.634 --> 00:14:11.382
+<v Stefan Pelzer>Wie heißt das andere? Montessori waren wir aus Waldorf noch nicht.
+
+00:14:11.964 --> 00:14:16.083
+<v Stefan Pelzer>Aber das ist auch so, die Schulen holen uns.
+
+00:14:16.517 --> 00:14:21.114
+<v Stefan Pelzer>Also die Frage ist viel besser, hat euch schon mal eine Waldorfschule geholt? Also eingeladen.
+
+00:14:21.114 --> 00:14:24.744
+<v Tim Pritlove>Und die Antwort ist nein. Irgendwie bin ich nicht überrascht.
+
+00:14:25.744 --> 00:14:28.941
+<v Stefan Pelzer>Die Vorbereitung wäre dann, dass man Adenauer tanzt.
+
+00:14:32.544 --> 00:14:35.104
+<v Tim Pritlove>Spoiler, man tanzt seinen Namen übrigens gar nicht auf der Schule,
+
+00:14:35.104 --> 00:14:38.804
+<v Tim Pritlove>aber es interessiert weil du da nicht hingegangen bist zu.
+
+00:14:38.804 --> 00:14:39.914
+<v Linus Neumann>Eurythmie oder wie das.
+
+00:14:39.914 --> 00:14:46.074
+<v Tim Pritlove>Heißt das ist Zwangsprogramm da muss jeder, wie stellst du das überhaupt vor ich dachte.
+
+00:14:46.074 --> 00:14:50.984
+<v Linus Neumann>Das würde nicht stattfinden, Namen tanzen gut Tim ist jetzt auch nicht wirklich ein Tanz.
+
+00:14:52.590 --> 00:14:55.998
+<v Tim Pritlove>Das sieht schon ganz gut aus. Nicht so elend wie Linus.
+
+00:14:56.407 --> 00:15:02.162
+<v Linus Neumann>Linus ist, ja. Meine Eltern wollten extra einen Namen, dem man scheiße tanzen kann.
+
+00:15:02.414 --> 00:15:05.847
+<v Tim Pritlove>Naja, auf jeden Fall. Ich hoffe, da melden sich auch noch mal ein paar,
+
+00:15:05.847 --> 00:15:08.107
+<v Tim Pritlove>weil ich glaube, die könnten es auch ganz gut gebrauchen. Die glauben ja auch
+
+00:15:08.107 --> 00:15:12.345
+<v Tim Pritlove>an so Schwurbelkram. Und wer an Schwurbelkram glaubt, ist er eh schon verloren.
+
+00:15:12.345 --> 00:15:13.855
+<v Linus Neumann>Wir sind Nazi-Esoteriker.
+
+00:15:14.503 --> 00:15:17.697
+<v Tim Pritlove>Teilweise. 20 Prozent von denen.
+
+00:15:18.997 --> 00:15:21.517
+<v Stefan Pelzer>Aber 20 Prozent von allen sind Nazi-Esoteriker.
+
+00:15:21.517 --> 00:15:22.235
+<v Tim Pritlove>Naja.
+
+00:15:22.891 --> 00:15:27.327
+<v Linus Neumann>Anyway, kommen wir mal zu diesem Sonderfahrzeug.
+
+00:15:27.327 --> 00:15:33.177
+<v Linus Neumann>Wir haben uns ja sehr viel damit auseinandergesetzt. Der Adenauer ist reichlich
+
+00:15:33.177 --> 00:15:37.017
+<v Linus Neumann>bebaut und auch in der ersten Folge haben wir viel darüber gesprochen,
+
+00:15:37.017 --> 00:15:38.637
+<v Linus Neumann>was dieses Fahrzeug alles ziert.
+
+00:15:38.637 --> 00:15:43.194
+<v Linus Neumann>Aber vielleicht magst du ja mal so die häufigsten Prüfanlässe,
+
+00:15:43.894 --> 00:15:45.353
+<v Linus Neumann>was jetzt so an diesem Fahrzeug,
+
+00:15:48.577 --> 00:15:51.797
+<v Linus Neumann>dem ungeübten Polizisten, der denkt, ich halte jetzt mal so ein Auto an,
+
+00:15:52.058 --> 00:15:54.337
+<v Linus Neumann>was versucht der als erstes zu bemängeln an dem Bus?
+
+00:15:54.877 --> 00:16:00.117
+<v Stefan Pelzer>Ja, der übliche Polizist ist erstmal extrem überfordert, weil der,
+
+00:16:01.457 --> 00:16:06.480
+<v Stefan Pelzer>das habe ich jetzt dann auch gelernt, in der Polizei gibt es die Verkehrsstaffel,
+
+00:16:07.857 --> 00:16:11.097
+<v Stefan Pelzer>die quasi damit befasst ist, den Schwerverkehr zu kontrollieren.
+
+00:16:11.097 --> 00:16:14.218
+<v Stefan Pelzer>Und das ist ja Schwerverkehr, 18 Tonnen Zulassung.
+
+00:16:14.856 --> 00:16:23.377
+<v Stefan Pelzer>Und die Ausbildung dahin ist zweimal acht Stunden Lehrgang. Dann gehörst du
+
+00:16:23.377 --> 00:16:25.793
+<v Stefan Pelzer>zur Verkehrshundertschaft der Polizei.
+
+00:16:26.466 --> 00:16:29.057
+<v Stefan Pelzer>Und damit stehst du dann über...
+
+00:16:31.146 --> 00:16:35.666
+<v Stefan Pelzer>Diplomingenieuren, weil du quasi das bewertest, was andere berechnet haben.
+
+00:16:35.980 --> 00:16:40.396
+<v Stefan Pelzer>Aber aus der Sicht des einzelnen Polizisten macht es dich zu quasi Gott über
+
+00:16:40.396 --> 00:16:44.326
+<v Stefan Pelzer>alles. Du weißt alles besser dann automatisch. Grundregel, wenn du bei der Verkehrshundertschaft bist.
+
+00:16:44.326 --> 00:16:46.086
+<v Linus Neumann>Ich glaube, das ist Grundregel, wenn du bei der Polizei bist.
+
+00:16:46.086 --> 00:16:53.250
+<v Stefan Pelzer>Genau, das stimmt auch. Und dann kommt so ein Polizist und fängt an, Dinge zu benörgeln.
+
+00:16:53.546 --> 00:16:58.705
+<v Stefan Pelzer>Da geht's, der fängt, ja, was bemängeln die? Also bei uns ist es ja vor allem,
+
+00:16:59.366 --> 00:17:00.899
+<v Stefan Pelzer>der Dachaufbau, der bemängelt wird.
+
+00:17:01.178 --> 00:17:03.486
+<v Stefan Pelzer>Dann wird gesagt, das kann doch gar nicht sein. Dann muss man denen immer erst
+
+00:17:03.486 --> 00:17:09.938
+<v Stefan Pelzer>erklären, wo ist denn eigentlich Ladung? Also der Unterschied ist Ladung und Bus.
+
+00:17:10.402 --> 00:17:14.855
+<v Stefan Pelzer>Wo fängt Ladung an? Wo ist Bus? Wie ist das befestigt? Warum ist das Ladung?
+
+00:17:15.139 --> 00:17:19.969
+<v Stefan Pelzer>Sowas ist ein Thema. Wie ist nachgewiesen, dass das hält?
+
+00:17:20.433 --> 00:17:24.146
+<v Stefan Pelzer>Und normalerweise, wenn man, glaube ich, so irgendeine Art von Transport macht,
+
+00:17:24.146 --> 00:17:28.886
+<v Stefan Pelzer>so ein LKW oder sowas und man lädt da Ladung drauf oder man hat einen Anhänger, dann wird man so einmal,
+
+00:17:29.766 --> 00:17:34.636
+<v Stefan Pelzer>alle zwei Millionen Kilometer einer solchen Kontrolle unterzogen und wir halt
+
+00:17:34.636 --> 00:17:35.686
+<v Stefan Pelzer>einmal alle zwei Kilometer.
+
+00:17:38.323 --> 00:17:42.036
+<v Tim Pritlove>Aber was haben die denn da zu bemängeln? Also ich meine, es ist doch bestimmt
+
+00:17:42.036 --> 00:17:43.716
+<v Tim Pritlove>ganz gut untersucht worden, das Fahrzeug.
+
+00:17:43.716 --> 00:17:46.946
+<v Stefan Pelzer>Genau, und dann ist es auch meistens so, diese Kontrollen finden meistens so
+
+00:17:46.946 --> 00:17:49.106
+<v Stefan Pelzer>statt, dass dann irgendwas bemängelt wird. Am Ende heißt es dann,
+
+00:17:49.106 --> 00:17:50.010
+<v Stefan Pelzer>ihr dürft weiterfahren.
+
+00:17:50.282 --> 00:17:53.056
+<v Stefan Pelzer>Dann gibt es da so einen Mängelschein, der geht dann an die Ordnungsbehörde
+
+00:17:53.056 --> 00:17:55.106
+<v Stefan Pelzer>in Berlin und die Ordnungsbehörde in Berlin muss dann sagen,
+
+00:17:55.106 --> 00:17:56.423
+<v Stefan Pelzer>nö, haben wir aber schon überprüft.
+
+00:17:56.881 --> 00:18:02.293
+<v Stefan Pelzer>So, das ist immer das gleiche, für solche Mängelscheine haben wir mittlerweile fast 600. 6?
+
+00:18:02.866 --> 00:18:03.806
+<v Tim Pritlove>Ist das dein Ernst?
+
+00:18:04.109 --> 00:18:07.294
+<v Stefan Pelzer>Nicht ganz, nicht ganz. Okay, ist nicht dein Ernst.
+
+00:18:07.447 --> 00:18:12.036
+<v Stefan Pelzer>Aber ich sag mal, deutlich, also 1,02, aber deutlich über 60 und das Fahrzeug
+
+00:18:12.036 --> 00:18:20.868
+<v Stefan Pelzer>gibt es seit, also letztlich käme man, letztlich käme man, also an manchen Tagen haben wir zwei.
+
+00:18:21.880 --> 00:18:23.150
+<v Tim Pritlove>Scheine, nicht Mängel.
+
+00:18:23.150 --> 00:18:27.820
+<v Stefan Pelzer>Und im Landesamt für Bürger- und Ordnungsangelegenheiten in Berlin ist das quasi
+
+00:18:28.140 --> 00:18:29.680
+<v Stefan Pelzer>eine Person, die das bearbeitet.
+
+00:18:30.940 --> 00:18:31.940
+<v Linus Neumann>Die wirft das immer einfach alles weg.
+
+00:18:31.960 --> 00:18:32.600
+<v Stefan Pelzer>Nicht nur, aber...
+
+00:18:33.960 --> 00:18:35.370
+<v Linus Neumann>Gelesen, gelacht, gelocht, abgeheftet.
+
+00:18:35.370 --> 00:18:38.740
+<v Stefan Pelzer>Gelesen, gelacht, gelocht, nicht gelesen. Da kommen wir auch später noch ein
+
+00:18:38.740 --> 00:18:42.780
+<v Stefan Pelzer>bisschen mehr zu, weil die ja teilweise sich auch so einen impertinenten Drang
+
+00:18:42.780 --> 00:18:47.002
+<v Stefan Pelzer>entwickeln, dann nachzufassen nochmal. Das ist so innerbehördliche Kommunikation,
+
+00:18:47.211 --> 00:18:49.126
+<v Stefan Pelzer>die werden wir ein bisschen beleuchten nachher noch.
+
+00:18:50.136 --> 00:18:52.749
+<v Stefan Pelzer>Innerbehördliche und zwischen Prominenten und Behörden.
+
+00:18:53.409 --> 00:18:55.869
+<v Tim Pritlove>Aber ihr habt doch da bestimmt auch schon ein paar Gutachten gemacht.
+
+00:18:56.021 --> 00:18:56.259
+<v Stefan Pelzer>Ja.
+
+00:18:56.363 --> 00:18:58.470
+<v Tim Pritlove>So, habt ihr die dann nicht ausgedruckt dabei?
+
+00:18:58.470 --> 00:18:58.880
+<v Stefan Pelzer>Doch.
+
+00:18:58.880 --> 00:19:00.550
+<v Tim Pritlove>Deutsche mag doch so ausgedrucktes.
+
+00:19:00.550 --> 00:19:04.067
+<v Stefan Pelzer>Und das ist so, das sind vier so Leitsordner.
+
+00:19:06.160 --> 00:19:10.440
+<v Stefan Pelzer>Weil, so ein Gutachten ist lang. Also wir haben technische Berechnungen,
+
+00:19:10.440 --> 00:19:15.250
+<v Stefan Pelzer>wir haben Statikberechnungen, wir haben eine sogenannte FM-Analyse.
+
+00:19:15.250 --> 00:19:19.230
+<v Stefan Pelzer>Also da geht es darum, dass quasi die Schrauben und die Dinger,
+
+00:19:19.230 --> 00:19:21.238
+<v Stefan Pelzer>mit denen das Dachteil drauf ist, also,
+
+00:19:21.820 --> 00:19:26.050
+<v Stefan Pelzer>die Vierkantrohre und Schrauben und dann wird quasi das in so eine Simulation
+
+00:19:26.050 --> 00:19:29.560
+<v Stefan Pelzer>eingegeben und dann wird berechnet in so Fahrzeugtechnik, wenn das die ganze
+
+00:19:29.560 --> 00:19:32.620
+<v Stefan Pelzer>Zeit so hin und her schwankt, dann gibt es so dynamische Geschichten und wie
+
+00:19:32.620 --> 00:19:34.449
+<v Stefan Pelzer>sehr wird das belastet und hält das das am Ende aus.
+
+00:19:34.781 --> 00:19:39.250
+<v Stefan Pelzer>Sowas ist dann 40 Seiten lang und dann werden diese ganzen Teile so leicht rot-gelb
+
+00:19:39.250 --> 00:19:42.827
+<v Stefan Pelzer>im Laufe der Analyse und die dürfen halt einen bestimmten Wert dann nicht überschreiten.
+
+00:19:45.660 --> 00:19:47.880
+<v Stefan Pelzer>Da haben wir, also wir haben relativ viele Gutachten gemacht,
+
+00:19:48.380 --> 00:19:50.553
+<v Stefan Pelzer>die man nachrechnen kann, wenn man das möchte.
+
+00:19:51.780 --> 00:19:55.090
+<v Linus Neumann>Aber mit acht Stunden Lehrgang kann man das ja kurz nachrechnen.
+
+00:19:55.090 --> 00:19:59.660
+<v Stefan Pelzer>Der Polizist kann das halt genau nicht, sozusagen. Der kann nicht das hokische
+
+00:19:59.660 --> 00:20:01.020
+<v Stefan Pelzer>Gesetz nochmal überprüfen.
+
+00:20:01.824 --> 00:20:06.050
+<v Stefan Pelzer>Nicht? Den dritten Euler-Fall und sowas. Das ist wirklich Physik.
+
+00:20:06.050 --> 00:20:07.118
+<v Tim Pritlove>Was können die eigentlich?
+
+00:20:08.340 --> 00:20:10.400
+<v Stefan Pelzer>Ja, die können vor allem Mängelscheine schreiben.
+
+00:20:11.404 --> 00:20:13.904
+<v Stefan Pelzer>Können sie sehr gut, weil dann teilweise steht dann auch noch,
+
+00:20:13.904 --> 00:20:17.556
+<v Stefan Pelzer>da wird falsch angekreuzt. Also wir könnten das ausstellen, aber man darf es nicht.
+
+00:20:17.869 --> 00:20:23.402
+<v Stefan Pelzer>Aber dann teilweise wird Kreuzen, die können noch nicht mal ihren Mängelschein korrekt ausfüllen.
+
+00:20:23.570 --> 00:20:25.718
+<v Stefan Pelzer>Sie können noch nicht mal richtig beschlagnahmen. Das ist eigentlich das Ding,
+
+00:20:26.049 --> 00:20:29.816
+<v Stefan Pelzer>also ja, die können noch nicht mal richtig beschlagnahmen.
+
+00:20:29.973 --> 00:20:32.829
+<v Stefan Pelzer>Denn als der Bus da beschlagnahmt wurde, in Chemnitz zum Beispiel,
+
+00:20:33.125 --> 00:20:35.054
+<v Stefan Pelzer>wurde das einfach über die falsche Gesetz.
+
+00:20:35.354 --> 00:20:38.594
+<v Stefan Pelzer>Also es war ja sowieso illegal und es wurde vorgetäuscht, es hätte eine richtige...
+
+00:20:38.883 --> 00:20:41.525
+<v Tim Pritlove>Wie geht denn das normalerweise und wie machen die es?
+
+00:20:42.614 --> 00:20:44.324
+<v Stefan Pelzer>Wie darf man normalen Bus beschlagen haben?
+
+00:20:44.324 --> 00:20:47.051
+<v Tim Pritlove>Ja, also was müssten sie eigentlich tun?
+
+00:20:48.092 --> 00:20:48.934
+<v Stefan Pelzer>Döbeln dann jetzt.
+
+00:20:49.796 --> 00:20:53.773
+<v Linus Neumann>Vielleicht erklären wir kurz. Also ihr wart unterwegs zum CSD Döbeln.
+
+00:20:54.374 --> 00:20:55.625
+<v Linus Neumann>Christopher Street Day in Döbeln.
+
+00:20:56.066 --> 00:20:56.574
+<v Stefan Pelzer>Genau.
+
+00:20:56.574 --> 00:20:58.835
+<v Linus Neumann>Eine Demonstration, die ihr unterstützen wolltet.
+
+00:20:58.951 --> 00:20:59.284
+<v Stefan Pelzer>Ja.
+
+00:20:59.284 --> 00:21:01.708
+<v Linus Neumann>Auf dem Weg dorthin wurdet ihr angehalten.
+
+00:21:02.254 --> 00:21:02.744
+<v Stefan Pelzer>Genau.
+
+00:21:02.744 --> 00:21:04.344
+<v Linus Neumann>Um kurz die Dimensionen. Also
+
+00:21:04.344 --> 00:21:07.182
+<v Linus Neumann>wie oft wurde der angehalten? Du hattest mal beim Kongress so ein Video.
+
+00:21:08.074 --> 00:21:10.154
+<v Stefan Pelzer>Ich kann es dir nicht mehr erzählen. Das ist so, wie du fragst,
+
+00:21:10.154 --> 00:21:12.192
+<v Stefan Pelzer>wie viele Zigaretten hast du letzte Woche geraucht?
+
+00:21:14.090 --> 00:21:15.294
+<v Linus Neumann>Aber über 100 Mal?
+
+00:21:15.514 --> 00:21:17.718
+<v Stefan Pelzer>Er wurde oft angehalten. Ja, natürlich, aber das ist ja auch so.
+
+00:21:18.032 --> 00:21:19.274
+<v Stefan Pelzer>Das ist ja ein Unterschied.
+
+00:21:19.489 --> 00:21:22.764
+<v Stefan Pelzer>Angehalten und Stress oder angehalten und okay, wo wollt ihr hin?
+
+00:21:22.764 --> 00:21:25.954
+<v Stefan Pelzer>Wir gleiten jetzt da hin. Aber ich habe keine so eine Strichliste angehalten,
+
+00:21:25.954 --> 00:21:27.151
+<v Stefan Pelzer>ehrlich gesagt. Die habe ich nicht.
+
+00:21:28.336 --> 00:21:33.024
+<v Stefan Pelzer>Wir sind beim CSD Christopher Street Day in Döbeln eingeladen worden,
+
+00:21:33.024 --> 00:21:34.744
+<v Stefan Pelzer>als Lautsprecherwagen mitzufahren.
+
+00:21:35.290 --> 00:21:38.338
+<v Stefan Pelzer>Und wir waren sogar nicht auf dem Weg dahin, sondern wir waren schon da.
+
+00:21:39.301 --> 00:21:43.092
+<v Stefan Pelzer>Wir waren am Ort, wo der CSD in Döbeln startet, am Bahnhof in Döbeln.
+
+00:21:43.463 --> 00:21:47.405
+<v Stefan Pelzer>Und ich bin am Bahnhof in Döbeln ausgestiegen und habe den Polizisten gefragt,
+
+00:21:47.713 --> 00:21:53.595
+<v Stefan Pelzer>ist hier, wir waren eine halbe Stunde, wir waren Erster, ist hier Erster in Döbeln.
+
+00:21:54.642 --> 00:21:56.575
+<v Stefan Pelzer>Genau, nur wer Erster in Döbeln ist, ist es richtig in Döbeln.
+
+00:21:57.440 --> 00:22:01.030
+<v Stefan Pelzer>Dann bin ich zum Polizisten hingegangen und habe gesagt, wir sind vom Adenauer,
+
+00:22:01.470 --> 00:22:03.770
+<v Stefan Pelzer>das konnte er sich auch schon vorstellen, der Bus war ja da,
+
+00:22:04.550 --> 00:22:05.892
+<v Stefan Pelzer>und wir wollen jetzt hier aufbauen.
+
+00:22:06.223 --> 00:22:08.359
+<v Stefan Pelzer>Und dann hat der mir gesagt, nee, das startet aber nicht hier.
+
+00:22:08.550 --> 00:22:10.880
+<v Stefan Pelzer>Und dann habe ich gesagt, hä, aber hier steht Badefügel, nee,
+
+00:22:10.880 --> 00:22:12.643
+<v Stefan Pelzer>aber das ist auch andere Seite, ihr müsst da langfahren.
+
+00:22:12.898 --> 00:22:17.037
+<v Stefan Pelzer>Und dann wurden wir quasi weggeleitet unter Vortäuschung falscher Tatsachen.
+
+00:22:17.920 --> 00:22:21.760
+<v Stefan Pelzer>Gibt Zeitungsfotos, die uns schon am Startpunkt sehen. Und dann wurden wir so,
+
+00:22:21.760 --> 00:22:25.520
+<v Stefan Pelzer>nee, das ist da hinten. So ganz blitt weggeleitet und dann wurden wir von Polizei
+
+00:22:25.520 --> 00:22:29.110
+<v Stefan Pelzer>in den Schlepptau genommen und so ganz noch weiter weggeleitet und dann angehalten
+
+00:22:29.110 --> 00:22:30.255
+<v Stefan Pelzer>mitten auf der Bundesstraße.
+
+00:22:32.090 --> 00:22:36.820
+<v Stefan Pelzer>Und genau, und dort, die Frage war jetzt, wie man es richtig beschlagnahmen
+
+00:22:36.820 --> 00:22:37.668
+<v Stefan Pelzer>würde und wie man es falsch.
+
+00:22:37.877 --> 00:22:41.190
+<v Stefan Pelzer>Also erstmal richtig kannst du ein Fahrzeug, was schon auf einer Demo angekommen
+
+00:22:41.190 --> 00:22:44.750
+<v Stefan Pelzer>ist, es kann ja schon gar keine Gefährst, also es nimmt ja schon gar nicht mehr am Verkehr teil.
+
+00:22:45.810 --> 00:22:48.330
+<v Stefan Pelzer>Wenn der Verantwortliche kommt und sagt, ich bin hier für die Demonstration,
+
+00:22:48.330 --> 00:22:51.990
+<v Stefan Pelzer>ich baue auf, dann nimmt es ja schon gar nicht am Verkehr mehr teil.
+
+00:22:52.310 --> 00:22:55.280
+<v Stefan Pelzer>Also da kannst du schon mal gar nicht mehr. Du kannst es dann gar nicht mehr
+
+00:22:55.280 --> 00:22:58.437
+<v Stefan Pelzer>beschlagnahmen. Du kannst es dann danach wieder vielleicht, nach der Demonstration.
+
+00:22:58.739 --> 00:23:00.890
+<v Stefan Pelzer>Aber während der Demonstration kannst du es nicht beschlagnahmen.
+
+00:23:01.570 --> 00:23:05.410
+<v Stefan Pelzer>Da muss es nicht der STVO entsprechen. Und vor allem gibt es einen Grundsatz,
+
+00:23:05.410 --> 00:23:10.883
+<v Stefan Pelzer>das nennt sich Polizeifestigkeit von Versammlungen. Ist ein Rechtsgrundsatz.
+
+00:23:11.185 --> 00:23:15.394
+<v Stefan Pelzer>Und da geht es darum, dass die Polizei sich in extremer Weise zurückhalten muss,
+
+00:23:15.643 --> 00:23:19.039
+<v Stefan Pelzer>um so eine Versammlungslage nicht zu stören. Da geht es ja um die Grundrechtsausübung.
+
+00:23:19.329 --> 00:23:26.197
+<v Stefan Pelzer>Und da müssen so Sachen wie STVO, STVZO, bla, das muss dem alles nachstehen.
+
+00:23:26.545 --> 00:23:31.276
+<v Stefan Pelzer>Und entweder muss die Polizei sagen, nein, das Fahrzeug ist so gefährlich,
+
+00:23:31.775 --> 00:23:37.450
+<v Stefan Pelzer>dass es jetzt nicht im Schritttempo mit Ordnern drumrum hier mitfahren kann,
+
+00:23:37.450 --> 00:23:39.467
+<v Stefan Pelzer>weil es explodieren wird. So.
+
+00:23:40.727 --> 00:23:44.010
+<v Stefan Pelzer>Dann können sie auch sagen, geht nicht. Aber sonst musst du es eigentlich erst
+
+00:23:44.010 --> 00:23:46.577
+<v Stefan Pelzer>mal mitfahren und dann kannst du deine Maßnahmen nach. Also geht schon mal gar nicht.
+
+00:23:47.082 --> 00:23:49.746
+<v Stefan Pelzer>Richtig beschlagnahmt im Straßenverkehr wäre,
+
+00:23:50.554 --> 00:23:52.853
+<v Stefan Pelzer>Ich halte dich an, ich stelle was fest.
+
+00:23:53.038 --> 00:23:54.139
+<v Tim Pritlove>Also ich, die Polizei.
+
+00:23:54.139 --> 00:23:57.073
+<v Stefan Pelzer>Du, die Polizei hältst mich an, du stellst was fest.
+
+00:23:57.654 --> 00:24:03.836
+<v Stefan Pelzer>Und dann stellt sich die Frage, ist das jetzt Gefahr im Verzug und gibt es keinen Richter und nichts?
+
+00:24:04.469 --> 00:24:09.670
+<v Stefan Pelzer>Dann könntest du sagen, die Gefahr erscheint mir so groß, dass ich das jetzt hier beschlagnahme.
+
+00:24:10.129 --> 00:24:14.209
+<v Stefan Pelzer>Und dann kann der Gegner, also der Bus quasi, dagegen Rechtsmittel am nächsten
+
+00:24:14.209 --> 00:24:15.963
+<v Stefan Pelzer>Tag beim nächsten Gericht einwerfen.
+
+00:24:16.270 --> 00:24:18.366
+<v Stefan Pelzer>Bei so einer Versammlung gibt es Bereitschaftsrichter.
+
+00:24:19.068 --> 00:24:23.939
+<v Stefan Pelzer>Das heißt, du müsstest dann der Richterin sagen, in dem Fall war es eine Richterin,
+
+00:24:23.939 --> 00:24:27.579
+<v Stefan Pelzer>sagen, hab hier einen Bus, ist gefährlich, bitte einmal Beschlagnahmen.
+
+00:24:27.579 --> 00:24:29.459
+<v Stefan Pelzer>Und dann sagt die Richterin, okay, Beschlagnahmen.
+
+00:24:29.594 --> 00:24:30.039
+<v Linus Neumann>Oder?
+
+00:24:30.739 --> 00:24:35.929
+<v Stefan Pelzer>Oder sie sagt halt nein. Und du musst aber der Richterin auch alle Informationen
+
+00:24:35.929 --> 00:24:38.712
+<v Stefan Pelzer>vorlegen. Du kannst also nicht sagen, dein Bus ist ganz gefährlich,
+
+00:24:38.927 --> 00:24:42.131
+<v Stefan Pelzer>aber der Halter hat dir gerade vier Haufen Gutachten bekommen.
+
+00:24:42.410 --> 00:24:45.805
+<v Stefan Pelzer>Eins davon eine Woche alt, wo drauf steht, ohne Mängel.
+
+00:24:46.246 --> 00:24:48.519
+<v Stefan Pelzer>Im Auftrag des Landes Berlin erstellt.
+
+00:24:49.311 --> 00:24:51.629
+<v Stefan Pelzer>Das musst du der Richterin schon auch sagen. Du kannst nicht sagen,
+
+00:24:51.629 --> 00:24:54.519
+<v Stefan Pelzer>hier ist ein Bus, ganz komisch, so ein luftleerer Raum.
+
+00:24:55.039 --> 00:24:58.465
+<v Stefan Pelzer>Sondern du musstest schon sagen, hier ist ein Bus, mir erscheint der nicht verkehrssicher.
+
+00:24:58.837 --> 00:25:03.049
+<v Stefan Pelzer>Aber ich bin nur die Verkehrshundertschaft. Aber vor einer Woche hat die DEKRA-Niederlassung
+
+00:25:03.049 --> 00:25:07.051
+<v Stefan Pelzer>Berlin alles geprüft und hat gesagt, der ist ohne Mängel.
+
+00:25:07.434 --> 00:25:11.409
+<v Stefan Pelzer>Und so zulässig. Und dann muss die Richterin. Und das hat dieser Polizist nicht
+
+00:25:11.409 --> 00:25:13.170
+<v Stefan Pelzer>gemacht. Er hat einfach gesagt, du kannst du verkehrssicher.
+
+00:25:13.617 --> 00:25:17.454
+<v Stefan Pelzer>Wir haben gleichzeitig gesagt, wir hätten gerne ebenfalls Kontakt zu der Richterin,
+
+00:25:18.586 --> 00:25:20.873
+<v Stefan Pelzer>um auch einen Vortrag machen zu können, also um sagen zu können,
+
+00:25:21.186 --> 00:25:23.276
+<v Stefan Pelzer>hier sind nochmal ein bisschen Informationen von uns.
+
+00:25:23.653 --> 00:25:27.989
+<v Stefan Pelzer>Der wurde uns verwehrt und jetzt kommt's, das Schlimme ist, eigentlich dann
+
+00:25:27.989 --> 00:25:31.072
+<v Stefan Pelzer>sagt die Richterin okay, aber in dem Fall hat die Richterin gesagt,
+
+00:25:31.502 --> 00:25:35.304
+<v Stefan Pelzer>nein, du kannst den Bus nicht beschlagnahmen, Ringo.
+
+00:25:37.179 --> 00:25:40.314
+<v Stefan Pelzer>Und dann wurde uns gesagt, ihr kriegt keinen Kontakt zur Richterin,
+
+00:25:40.314 --> 00:25:42.350
+<v Stefan Pelzer>wir wissen auch nicht, wer die ist, aber sie hat es bestätigt.
+
+00:25:43.624 --> 00:25:48.339
+<v Tim Pritlove>Was, die haben sozusagen die Unwahrheit gesagt darüber, was tatsächlich passiert ist.
+
+00:25:48.521 --> 00:25:53.674
+<v Stefan Pelzer>Bis heute behaupten sie, die Richterin Polkowski hätte gesagt,
+
+00:25:53.674 --> 00:25:56.903
+<v Stefan Pelzer>man darf beschlagnahmen, aber die Richterin schreibt in der Akte,
+
+00:25:57.257 --> 00:26:01.623
+<v Stefan Pelzer>ich habe fünfmal zu dem Thema telefoniert, ich habe gesagt, das kann ich so nicht entscheiden.
+
+00:26:01.820 --> 00:26:04.304
+<v Stefan Pelzer>Und beim letzten Gespräch habe ich ausdrücklich gesagt, nein,
+
+00:26:04.304 --> 00:26:06.984
+<v Stefan Pelzer>ihr dürft den Bus nicht beschlagnahmen. Ja doch, genau.
+
+00:26:09.224 --> 00:26:10.484
+<v Stefan Pelzer>Also du hattest ja gefragt, wie man es nicht macht.
+
+00:26:12.004 --> 00:26:15.024
+<v Linus Neumann>Aber das ist ja ganz schön kompliziert. Da bräuchte man eigentlich so eine Handreichung.
+
+00:26:15.404 --> 00:26:18.214
+<v Stefan Pelzer>Ja. So eine Handreichung?
+
+00:26:18.654 --> 00:26:21.294
+<v Linus Neumann>Wir kommen erstmal, jetzt wird die Karre beschlagnahmt.
+
+00:26:21.294 --> 00:26:21.602
+<v Stefan Pelzer>Ja.
+
+00:26:22.484 --> 00:26:23.364
+<v Linus Neumann>Dann wird die abgeschleppt?
+
+00:26:23.744 --> 00:26:28.214
+<v Stefan Pelzer>Genau. Dann wird irgendwann rausgeworfen, nö, das ist ja so gefährlich,
+
+00:26:28.214 --> 00:26:29.562
+<v Stefan Pelzer>das kannst du eigentlich fast gar nicht machen.
+
+00:26:29.794 --> 00:26:32.544
+<v Stefan Pelzer>Aber sie haben ihn halt auf eigener Achse. Ein Abschleppdienst kommt,
+
+00:26:32.544 --> 00:26:33.991
+<v Stefan Pelzer>setzt sie in den Bus und fährt damit.
+
+00:26:34.519 --> 00:26:39.314
+<v Stefan Pelzer>Und zwar 70 in der 50-Zone, 100 in der 80. So gefährlich war das.
+
+00:26:39.314 --> 00:26:42.134
+<v Tim Pritlove>Ich muss noch mal kurz nachfragen. Wusstet ihr zu dem Zeitpunkt,
+
+00:26:42.134 --> 00:26:43.464
+<v Tim Pritlove>dass die Richterin Nein gesagt hat?
+
+00:26:43.704 --> 00:26:46.454
+<v Stefan Pelzer>Nein, das ist alles erst mit der Akte gekommen. Das ist übrigens das Schöne
+
+00:26:46.454 --> 00:26:47.642
+<v Stefan Pelzer>dann doch in Deutschland.
+
+00:26:49.823 --> 00:26:53.213
+<v Stefan Pelzer>Du kriegst dann so Akten und du glaubst gar nicht, was da alles drin steht.
+
+00:26:53.213 --> 00:26:57.513
+<v Stefan Pelzer>Das muss ja alles dokumentiert werden, die muss vollständig sein und da kriegst
+
+00:26:57.513 --> 00:27:00.003
+<v Stefan Pelzer>du diese ganzen Quatsch hin.
+
+00:27:00.463 --> 00:27:03.763
+<v Stefan Pelzer>Die Polizei war sogar so kompetent, dass sie es über die Falsche,
+
+00:27:03.763 --> 00:27:08.283
+<v Stefan Pelzer>sie hätte über den in dem Fall Landkreis Mittelsachsen die Beschlagnahme anordnen
+
+00:27:08.283 --> 00:27:11.193
+<v Stefan Pelzer>müssen, hat es aber über irgendeine Chemnitz-Geschichte gemacht,
+
+00:27:11.193 --> 00:27:13.068
+<v Stefan Pelzer>einfach falscher Behördenweg.
+
+00:27:13.521 --> 00:27:16.702
+<v Stefan Pelzer>Dazu steht in der Akte, dass der Herr Schneider, der Verkehrspolizist,
+
+00:27:17.207 --> 00:27:20.163
+<v Stefan Pelzer>das kritisch reflektieren wird. Das ist ja das Falsche.
+
+00:27:23.983 --> 00:27:24.683
+<v Tim Pritlove>Das ist ja schön.
+
+00:27:24.939 --> 00:27:28.376
+<v Stefan Pelzer>Ja, also er reflektiert kritisch und ich habe keinen Bus mehr.
+
+00:27:28.535 --> 00:27:32.393
+<v Linus Neumann>Und jetzt hat er den beschlagnahmt, dann kam der irgendwie wieder nach Berlin.
+
+00:27:32.393 --> 00:27:35.073
+<v Stefan Pelzer>Ja, dann durften wir den, also erstmal beschlagnahmt, weil es ist ja komplett
+
+00:27:35.073 --> 00:27:36.603
+<v Stefan Pelzer>verkehrs- und sie haben ja gerade schon angetextet.
+
+00:27:37.303 --> 00:27:40.383
+<v Stefan Pelzer>Und dann denkt man, da kommt ein Abschleppdienst, der wird auf so einen Tieflader
+
+00:27:40.383 --> 00:27:43.427
+<v Stefan Pelzer>und gefährlich und dann Polizei drumherum, dass der auch gar nicht explodiert.
+
+00:27:44.543 --> 00:27:47.123
+<v Stefan Pelzer>Und der Fakt ist immer, da kommt ein Absteppdienst, setzt sich vorne rein,
+
+00:27:47.123 --> 00:27:50.062
+<v Stefan Pelzer>macht den Motor an und fährt dann mit 100 Kilometern nach Chemnitz.
+
+00:27:51.763 --> 00:27:57.963
+<v Stefan Pelzer>Wir haben Tracking im Bus, da wo 50 erlaubt ist mit 70, da wo 80 da mit 100.
+
+00:27:57.963 --> 00:28:01.103
+<v Stefan Pelzer>Und das scheint ja wirklich wahnsinnig gefährlich zu sein, das Fahrzeug.
+
+00:28:01.215 --> 00:28:02.953
+<v Tim Pritlove>Ja, deswegen ist er auch so schnell.
+
+00:28:02.953 --> 00:28:08.615
+<v Stefan Pelzer>Aber schnell fahren. Merke, wenn dein Fahrzeug irgendwie komische Sachen macht, gib Gas.
+
+00:28:10.503 --> 00:28:13.613
+<v Stefan Pelzer>Genau. Und dann steht er da in Chemnitz in der Ring und wir durften ihn dann,
+
+00:28:13.613 --> 00:28:18.463
+<v Stefan Pelzer>dann wurde er dort von der Dekra begutachtet von einer sehr voreingenommenen,
+
+00:28:19.505 --> 00:28:22.547
+<v Stefan Pelzer>sehr mittelsächsischen Dekra-Filiale mit entsprechenden Prüfern,
+
+00:28:23.763 --> 00:28:26.320
+<v Stefan Pelzer>die dann alle möglichen Mutmaßungen, die haben nichts wirklich geprüft,
+
+00:28:26.837 --> 00:28:28.990
+<v Stefan Pelzer>aber sie haben halt gesagt, der ist verkehrsunsicher.
+
+00:28:29.269 --> 00:28:32.885
+<v Stefan Pelzer>Und die Fragestellung war die, kann der was auf dem Dach haben?
+
+00:28:33.153 --> 00:28:37.232
+<v Stefan Pelzer>Dann haben die bei Mercedes angerufen und haben gesagt, ja, gibt's eine Dachlast?
+
+00:28:37.627 --> 00:28:40.129
+<v Stefan Pelzer>Und dann hat Mercedes gesagt, das haben wir nicht geprüft.
+
+00:28:41.747 --> 00:28:44.373
+<v Stefan Pelzer>Und daraus ergibt sich dann, alles klar, das ist 0 Kilo dann.
+
+00:28:44.373 --> 00:28:45.846
+<v Stefan Pelzer>Also wenn man es nicht geprüft hat, das ist 0 Kilo.
+
+00:28:46.026 --> 00:28:49.053
+<v Stefan Pelzer>Das heißt, ein Schneeflocke, also eigentlich wäre so eine Dekra,
+
+00:28:49.053 --> 00:28:51.250
+<v Stefan Pelzer>die müsste dann sagen, dann prüfe ich das jetzt.
+
+00:28:52.903 --> 00:28:59.917
+<v Stefan Pelzer>Beziehungsweise, ich lese mal die vier Ordner, weil da ist es ja genau geprüft worden und berechnet.
+
+00:29:00.963 --> 00:29:03.663
+<v Stefan Pelzer>Und man kann nicht nur sagen vom Hersteller, der hat mir angedacht und dann
+
+00:29:03.663 --> 00:29:08.125
+<v Stefan Pelzer>steht da drin, die Dachlast steht in dem Dekra, in der Handreichung, 0 Kilo.
+
+00:29:08.625 --> 00:29:15.469
+<v Stefan Pelzer>Und das heißt wirklich, eine Schneeflocke reicht schon und der Bus wird in sich zusammenstürzen.
+
+00:29:16.664 --> 00:29:18.663
+<v Tim Pritlove>Das passiert täglich auf deutschen Straßen.
+
+00:29:19.503 --> 00:29:21.763
+<v Stefan Pelzer>In Bayern ist das im Winter das häufigste Bustod.
+
+00:29:24.063 --> 00:29:28.698
+<v Stefan Pelzer>Und das Witzige ist, aber nur unser Bus hat 0 Kilo, weil alle anderen Busse
+
+00:29:28.948 --> 00:29:32.733
+<v Stefan Pelzer>müssen per Gesetz so gebaut sein, dass die selber aus 1 Meter Höhe auf ihr eigenes
+
+00:29:32.733 --> 00:29:36.193
+<v Stefan Pelzer>Dach fallen. Ihr kennt ja die Bilder aus Tagesschau, wenn wieder auf der A9
+
+00:29:36.193 --> 00:29:37.603
+<v Stefan Pelzer>ein Doppeldecker umgekippt ist.
+
+00:29:38.643 --> 00:29:43.041
+<v Stefan Pelzer>Also alle anderen Busse schaffen es, ihre eigenen 18 Tonnen auf ihr,
+
+00:29:43.331 --> 00:29:45.473
+<v Stefan Pelzer>wenn man die verkehrt rum hinlegt, zu halten.
+
+00:29:46.518 --> 00:29:48.503
+<v Stefan Pelzer>Aber unsere eine Schneeflocke vorbei.
+
+00:29:48.503 --> 00:29:52.413
+<v Linus Neumann>Jetzt war der in Chemnitz, jetzt haben die Chemnitzer Dekra-Prüfer Pi mal Daumen
+
+00:29:52.413 --> 00:29:56.052
+<v Linus Neumann>geschätzt, 0 Kilo Dachlast. Und dann?
+
+00:29:56.996 --> 00:29:59.040
+<v Stefan Pelzer>Ja, dann durften wir den, dann haben wir dann quasi den Bus,
+
+00:30:00.083 --> 00:30:04.549
+<v Stefan Pelzer>es war so gefährlich mit unserer Dachlast, dass wir den Bus nur ohne Dachlast,
+
+00:30:04.996 --> 00:30:09.453
+<v Stefan Pelzer>auch nur schleppen, also es war so, stillgelegt, wir haben den Fahrzeugschein,
+
+00:30:09.453 --> 00:30:11.625
+<v Stefan Pelzer>das ist auch schon unüblich, zurückbekommen,
+
+00:30:13.023 --> 00:30:16.643
+<v Stefan Pelzer>später von der Zulagungsstelle und der Polizist hatte so quer über den Fahrzeugschein
+
+00:30:16.643 --> 00:30:18.150
+<v Stefan Pelzer>geschrieben, zerstört.
+
+00:30:21.494 --> 00:30:24.694
+<v Stefan Pelzer>Eigentlich muss das ein Stempel drauf entwert. Also zerstört.
+
+00:30:24.694 --> 00:30:25.924
+<v Stefan Pelzer>Stand quer über dem Fahrzeugschein.
+
+00:30:27.491 --> 00:30:29.794
+<v Linus Neumann>Und damit war der dann zerstört worden.
+
+00:30:30.594 --> 00:30:35.645
+<v Stefan Pelzer>Der Bus ist so gefährlich, ihr dürft den nur auf einem Tieflader nach Berlin zurückholen.
+
+00:30:39.157 --> 00:30:42.344
+<v Stefan Pelzer>Aber auch nicht mit dem Dachaufbau, sondern das muss auf einen extra Tieflader.
+
+00:30:43.186 --> 00:30:45.426
+<v Stefan Pelzer>Und dann haben wir den so abgeholt nach Berlin.
+
+00:30:46.523 --> 00:30:50.654
+<v Stefan Pelzer>Dann haben wir ihn zur DEKRA gebracht. Dann haben wir den Dachträger wieder
+
+00:30:50.654 --> 00:30:54.334
+<v Stefan Pelzer>drauf gemacht, neue Papiere gekommen und durften wieder weiterfahren. Das war, genau.
+
+00:30:55.394 --> 00:30:58.074
+<v Linus Neumann>Aber da war ja die Polizei Chemnitz wahrscheinlich gar nicht so happy mit.
+
+00:30:58.074 --> 00:30:59.898
+<v Stefan Pelzer>Überhaupt gar nicht.
+
+00:31:00.127 --> 00:31:00.876
+<v Linus Neumann>Was haben die denn?
+
+00:31:02.780 --> 00:31:05.954
+<v Stefan Pelzer>Das ist das Lustige, was jetzt so aus der Akte kommt, denn die Polizei Chemnitz
+
+00:31:05.954 --> 00:31:11.377
+<v Stefan Pelzer>hat sich dann quasi, sie hat quasi eigentlich so eine richtige Soko gegründet.
+
+00:31:11.662 --> 00:31:15.274
+<v Stefan Pelzer>Wir müssen wissen, hier geht es, die Polizeidirektion Chemnitz ist zuständig
+
+00:31:15.274 --> 00:31:18.253
+<v Stefan Pelzer>für so Mittelsachsen, Erzgebirgskreis und so weiter.
+
+00:31:19.041 --> 00:31:22.454
+<v Stefan Pelzer>Aber die haben so eine neue, so eine deutschlandweite Zuständigkeit für alles
+
+00:31:22.454 --> 00:31:24.670
+<v Stefan Pelzer>entwickelt dann in ihrer Polizeidirektion.
+
+00:31:25.315 --> 00:31:28.184
+<v Stefan Pelzer>Und haben gesagt, wir machen die
+
+00:31:28.184 --> 00:31:33.240
+<v Stefan Pelzer>ganze Zeit Stress bei der Berliner Verkehrsstelle, also beim Berliner Amt.
+
+00:31:33.948 --> 00:31:37.854
+<v Stefan Pelzer>Und haben die ganze Zeit E-Mails dahin geschickt. Jetzt ist der Bus gerade in Gießen beim AfD.
+
+00:31:38.524 --> 00:31:41.954
+<v Stefan Pelzer>Jetzt ist er beim DEKRA. Also richtig so mit unseren Social-Media-Kanälen und
+
+00:31:41.954 --> 00:31:42.813
+<v Stefan Pelzer>immer gesagt, jetzt ist er da.
+
+00:31:43.103 --> 00:31:46.314
+<v Stefan Pelzer>Jetzt müsst ihr den wieder stilllegen. Und dann hat die Zulassungsstelle auch
+
+00:31:46.314 --> 00:31:48.724
+<v Stefan Pelzer>in den E-Mails drin immer so zurückgeschrieben. ja, aber wir haben doch alles
+
+00:31:48.724 --> 00:31:50.106
+<v Stefan Pelzer>geprüft, das ist doch alles in Ordnung.
+
+00:31:50.460 --> 00:31:54.466
+<v Stefan Pelzer>Und dann so, nein, was sollen wir denn machen? Und dann schreibt er zurück,
+
+00:31:55.771 --> 00:31:56.999
+<v Stefan Pelzer>Das hast du, glaube ich, irgendwo, oder?
+
+00:31:57.679 --> 00:32:01.479
+<v Linus Neumann>Die Idee war, dass sie ohne vorherige Anhörung eine Betriebsuntersagung mit
+
+00:32:01.479 --> 00:32:06.069
+<v Linus Neumann>sofortiger Vollziehung erlassen und man den Bus dann vor Abfahrt in Gießen von
+
+00:32:06.069 --> 00:32:07.919
+<v Linus Neumann>Amts wegen außer Betrieb setzt.
+
+00:32:07.919 --> 00:32:09.429
+<v Stefan Pelzer>Ausrufezeichen, Ausrufezeichen.
+
+00:32:09.429 --> 00:32:10.109
+<v Linus Neumann>Das war die Idee.
+
+00:32:10.109 --> 00:32:15.389
+<v Stefan Pelzer>Das war die Idee. Das steht so in der E-Mail von der Polizei Sachsen an die
+
+00:32:15.389 --> 00:32:19.823
+<v Stefan Pelzer>Behörde in Berlin über einen Bus, der in Berlin zugelassen ist und sich in Gießen befindet.
+
+00:32:19.955 --> 00:32:25.493
+<v Linus Neumann>Und die Berliner, der Mitarbeiter der Berliner Zulassungsbehörde sagt,
+
+00:32:26.369 --> 00:32:31.409
+<v Linus Neumann>es mag dabei ihrer Auffassung widersprechen, dennoch ist meine Behörde aufgrund
+
+00:32:31.409 --> 00:32:35.589
+<v Linus Neumann>der vorgelegten Unterlagen zu der Auffassung gelangt, dass sich das Fahrzeug
+
+00:32:35.589 --> 00:32:37.701
+<v Linus Neumann>in einem zulassungsfähigen Zustand befindet.
+
+00:32:39.547 --> 00:32:48.745
+<v Linus Neumann>So, jetzt kämpft also, jetzt kämpft die Berliner Behörde für die Gültigkeit ihrer Zulassung.
+
+00:32:49.935 --> 00:32:55.021
+<v Linus Neumann>Und diese Chemnitzer Polizei, oder ist es hauptsächlich ein Polizist?
+
+00:32:55.845 --> 00:32:59.689
+<v Stefan Pelzer>Ja, also das ist Ringo Schneider, ist in dem Verkehrsthema. Es gibt jetzt mittlerweile
+
+00:32:59.689 --> 00:33:04.735
+<v Stefan Pelzer>noch einen zweiten, der mich persönlich jagt, Manuel Müller.
+
+00:33:05.819 --> 00:33:11.779
+<v Stefan Pelzer>Also der jagt mich wegen dem Verwenden verfassungsfeindlicher oder terroristischer. Komm mal gleich zu.
+
+00:33:11.779 --> 00:33:12.378
+<v Linus Neumann>Komm mal, komm mal.
+
+00:33:13.355 --> 00:33:16.079
+<v Stefan Pelzer>Genau, aber da gibt es zwei mit einer auf der verkehrsrechtlichen Schiene,
+
+00:33:16.079 --> 00:33:20.403
+<v Stefan Pelzer>das ist Ringo Schneider, und der andere auf der strafrechtlichen Schiene gegen mich persönlich.
+
+00:33:20.812 --> 00:33:24.229
+<v Linus Neumann>Und jetzt haben die, hätten sie natürlich sagen können, naja okay,
+
+00:33:24.229 --> 00:33:27.319
+<v Linus Neumann>die Karre ist in Berlin zugelassen worden, gut, kann man nichts machen,
+
+00:33:27.319 --> 00:33:29.822
+<v Linus Neumann>unsere DEKRA-Prüfer haben die Akten nicht gelesen.
+
+00:33:30.129 --> 00:33:35.321
+<v Linus Neumann>Aber nein, denn sie entwickeln tatsächlich eine Handlungsanweisung, ne?
+
+00:33:36.024 --> 00:33:37.619
+<v Stefan Pelzer>Ja, die ist auch in den Akten drin.
+
+00:33:38.219 --> 00:33:40.329
+<v Linus Neumann>Würden wir niemals hier zeigen.
+
+00:33:40.329 --> 00:33:44.209
+<v Stefan Pelzer>Wir dürfen die hier gar nicht zeigen, weil man darf Akteninnahmlich sagen und
+
+00:33:44.209 --> 00:33:46.908
+<v Stefan Pelzer>die ist auch vor allem nur für den Dienstgebrauch.
+
+00:33:49.201 --> 00:33:49.766
+<v Stefan Pelzer>Verschlusssache.
+
+00:33:49.766 --> 00:33:53.278
+<v Linus Neumann>Wir können euch nur daraus berichten, was wir darin sehen.
+
+00:33:54.263 --> 00:33:59.957
+<v Stefan Pelzer>Also was quasi diese Handlungsanleitung ist, ist eine 14-seitige Anleitung,
+
+00:34:00.334 --> 00:34:05.547
+<v Stefan Pelzer>wie aus Sicht von diesen Polizisten in Chemnitz mit unserem Bus umzugehen ist.
+
+00:34:05.814 --> 00:34:10.216
+<v Stefan Pelzer>Es enthält ein Kontrollschema, wo wir angehalten werden sollen,
+
+00:34:10.216 --> 00:34:12.066
+<v Stefan Pelzer>was dann zu untersagen ist.
+
+00:34:13.686 --> 00:34:17.616
+<v Stefan Pelzer>Ist ein richtiger Flowchart drin, also mit so Ja-Nein, so ein Handlungsschema.
+
+00:34:17.616 --> 00:34:18.686
+<v Linus Neumann>Ist der gerade auf einer Demo?
+
+00:34:18.686 --> 00:34:23.513
+<v Stefan Pelzer>Ja, dann noch nicht, sondern dann warten und nach der Demo beschlagnahmen.
+
+00:34:23.862 --> 00:34:28.816
+<v Stefan Pelzer>Und das haben die geschickt an sämtliche Polizeien in Deutschland inklusive
+
+00:34:28.816 --> 00:34:31.234
+<v Stefan Pelzer>der GSG 9 Antiterroreinheit.
+
+00:34:32.737 --> 00:34:36.966
+<v Stefan Pelzer>Jetzt gibt es ein Problem an der ganzen Geschichte,
+
+00:34:37.986 --> 00:34:46.166
+<v Stefan Pelzer>weil die Handlungsanleitung enthält auf Seite 1 ein Bild von unserem Bus,
+
+00:34:46.166 --> 00:34:50.065
+<v Stefan Pelzer>wie er beim AfD-Parteitag in Riesa steht. Das ist das Titelbild.
+
+00:34:50.750 --> 00:34:54.036
+<v Stefan Pelzer>Und das Problem ist, an dem Bild halten wir die ausschließlichen Nutzungsrechte,
+
+00:34:54.036 --> 00:34:55.479
+<v Stefan Pelzer>weil wir es selbst fotografiert haben.
+
+00:34:57.789 --> 00:35:00.769
+<v Stefan Pelzer>Es wurde von unserer Webseite runtergeklaut.
+
+00:35:03.172 --> 00:35:07.019
+<v Stefan Pelzer>Und wir haben ja viele so rechtliche Auseinandersetzungen. Und ich habe jetzt
+
+00:35:07.019 --> 00:35:09.279
+<v Stefan Pelzer>gelernt, das Urheberrecht zu lieben.
+
+00:35:11.509 --> 00:35:14.613
+<v Stefan Pelzer>Weil da sind die Sachen eigentlich klar, da musst du nicht viel diskutieren.
+
+00:35:15.496 --> 00:35:19.269
+<v Stefan Pelzer>Sondern da musst du eine Unterlassungserklärung unterschreiben.
+
+00:35:21.397 --> 00:35:23.589
+<v Linus Neumann>Die wir euch auch nie hier zeigen würden.
+
+00:35:25.620 --> 00:35:30.187
+<v Stefan Pelzer>Die ist unterschrieben vom Polizeipräsident Carsten Kempf aus Chemnitz.
+
+00:35:31.052 --> 00:35:34.849
+<v Stefan Pelzer>Und damit geht ein Herr des Carsten Chemnitz, der hat ja... Carsten Chemnitz,
+
+00:35:34.849 --> 00:35:38.219
+<v Stefan Pelzer>Carsten Kempf. Aber Carsten Chemnitz ist eigentlich gut.
+
+00:35:38.219 --> 00:35:38.409
+<v Tim Pritlove>Oder?
+
+00:35:40.029 --> 00:35:45.749
+<v Stefan Pelzer>Carsten Chemnitz kämpft jetzt, weil Carsten Kempf hat mit so einer Geschichte...
+
+00:35:45.849 --> 00:35:47.632
+<v Stefan Pelzer>Also wenn ihr das seht, also wenn ihr jetzt...
+
+00:35:48.096 --> 00:35:50.331
+<v Stefan Pelzer>Ihr wollt jetzt nicht in der Rolle von Carsten Kempf sein.
+
+00:35:50.801 --> 00:35:55.209
+<v Stefan Pelzer>Weil Carsten Kempf, wenn man einfach Fotos von jemand anderem klaut und in eine
+
+00:35:55.209 --> 00:35:59.095
+<v Stefan Pelzer>eigene interne Handlungsanweisung und die an ganz Deutschland an die Polizei verschickt.
+
+00:35:59.232 --> 00:36:00.229
+<v Linus Neumann>Das ist eine Vervielfältigung.
+
+00:36:00.229 --> 00:36:04.689
+<v Stefan Pelzer>Das ist eine Vervielfältigung. Und das heißt, es gibt verschiedene Fristen,
+
+00:36:04.689 --> 00:36:07.339
+<v Stefan Pelzer>die er jetzt einhalten muss. Das war die erste Frist, die ist erledigt.
+
+00:36:07.339 --> 00:36:08.754
+<v Stefan Pelzer>Hat er unterschrieben? Check.
+
+00:36:09.817 --> 00:36:14.589
+<v Stefan Pelzer>Aber jetzt muss er bis morgen leider uns auch noch berichten,
+
+00:36:14.589 --> 00:36:17.989
+<v Stefan Pelzer>in welcher Art und Weise an wen er sie verschickt hat komplett,
+
+00:36:17.989 --> 00:36:19.284
+<v Stefan Pelzer>an wen die weitergeleitet wurden.
+
+00:36:19.592 --> 00:36:22.495
+<v Stefan Pelzer>Und muss alle, an die er sie weitergeleitet hat, informieren,
+
+00:36:22.855 --> 00:36:27.539
+<v Stefan Pelzer>unter Verweis auf die Rechtswidrigkeit des Ganzen, dass sie das auf keinen Fall
+
+00:36:27.539 --> 00:36:29.949
+<v Stefan Pelzer>weiter verbreiten wird.
+
+00:36:34.312 --> 00:36:39.172
+<v Stefan Pelzer>Außerdem muss Carsten Kempf dafür Sorge tragen, dass das Ding überall gelöscht wird.
+
+00:36:40.432 --> 00:36:44.861
+<v Stefan Pelzer>Genau, dass das Ding überall gelöscht wird. Und dokumentieren,
+
+00:36:44.861 --> 00:36:47.551
+<v Stefan Pelzer>wie es gelöscht ist. Und dann als drittes, er muss ja sagen,
+
+00:36:47.551 --> 00:36:49.748
+<v Stefan Pelzer>wo wurde es verwendet? In welcher Menge wird es gedruckt?
+
+00:36:50.114 --> 00:36:55.081
+<v Stefan Pelzer>Das dient dazu, dass wir dann festlegen können, wie viel er uns bezahlen muss
+
+00:36:55.081 --> 00:36:58.951
+<v Stefan Pelzer>als Lizenzierung für das Bild, weil er hat es ja nun schon, das Kind ist ja im Brunnen.
+
+00:36:58.951 --> 00:36:59.941
+<v Tim Pritlove>Ist schon lizenziert worden im Prinzip.
+
+00:37:00.261 --> 00:37:03.628
+<v Stefan Pelzer>Übrigens, für den Podcast, für den Titel, ihr dürft das benutzen.
+
+00:37:03.810 --> 00:37:04.581
+<v Linus Neumann>Wir haben das schon mal.
+
+00:37:07.241 --> 00:37:10.341
+<v Linus Neumann>Aber wir haben das ja auch, wir haben das vorher angefragt, Wir haben ja die Rechte von euch.
+
+00:37:11.661 --> 00:37:15.621
+<v Stefan Pelzer>Kein Problem, euch räumen wir die gerne ein, aber Carsten Kempf nicht.
+
+00:37:18.221 --> 00:37:18.621
+<v Tim Pritlove>Warum nur?
+
+00:37:18.981 --> 00:37:23.261
+<v Stefan Pelzer>Dazu kommt, er hat jetzt Fristen, die laufen, ich teaser es schon mal an,
+
+00:37:23.261 --> 00:37:26.250
+<v Stefan Pelzer>aber wir haben auch eine schöne Webseite, die heißt heyringo.de,
+
+00:37:27.556 --> 00:37:28.850
+<v Stefan Pelzer>die gibt es seit gestern.
+
+00:37:30.452 --> 00:37:34.186
+<v Stefan Pelzer>Da sind noch mal alle Fristen von Carsten Kempf aufgelistet,
+
+00:37:34.562 --> 00:37:35.741
+<v Stefan Pelzer>wie viele Tage er noch hat.
+
+00:37:36.121 --> 00:37:40.701
+<v Stefan Pelzer>Denn es ist interessant, Und die Polizei ist zusätzlich, also weil der Inhalt
+
+00:37:40.701 --> 00:37:43.501
+<v Stefan Pelzer>der Handlungsanweisung ist dazu noch überholt.
+
+00:37:43.501 --> 00:37:47.629
+<v Stefan Pelzer>Also die lassen, das ist eine tendenziöse Geschichte, die schreiben da einfach
+
+00:37:47.796 --> 00:37:52.551
+<v Stefan Pelzer>nur das Gutachten, also die haben ihre lokalen Prüferchen aus Chemnitz,
+
+00:37:52.551 --> 00:37:54.043
+<v Stefan Pelzer>die haben das und das und das festgestellt.
+
+00:37:54.426 --> 00:37:57.921
+<v Stefan Pelzer>Und seitdem hat es etliche weitere Untersuchungen gegeben, die da völlig klargestellt
+
+00:37:57.921 --> 00:37:59.366
+<v Stefan Pelzer>haben, alles voll in Ordnung.
+
+00:37:59.697 --> 00:38:02.321
+<v Stefan Pelzer>Und die verschicken nun noch gar nicht lange her, es ist keine sechs Wochen
+
+00:38:02.321 --> 00:38:05.931
+<v Stefan Pelzer>her, einfach an alle Polizeien in Deutschland eine Informationslage,
+
+00:38:05.931 --> 00:38:11.127
+<v Stefan Pelzer>die das nicht widerspiegelt, obwohl sie das wissen, sondern machen das selektiv.
+
+00:38:11.521 --> 00:38:14.191
+<v Stefan Pelzer>Und deswegen hat er auch noch weitere, das haben wir dann nachgeschoben,
+
+00:38:14.191 --> 00:38:17.561
+<v Stefan Pelzer>also im ersten Schritt war Urheberrecht. Carsten Kempf muss jetzt erstmal hier,
+
+00:38:18.021 --> 00:38:18.900
+<v Stefan Pelzer>Urheberrechtssachen machen.
+
+00:38:19.289 --> 00:38:21.131
+<v Stefan Pelzer>Und der hat dann sicherlich, weil er hat es ja unterschrieben,
+
+00:38:21.131 --> 00:38:24.601
+<v Stefan Pelzer>er hat sicherlich schon alle informiert, hey, hier ist die Handlungsanweisung
+
+00:38:24.601 --> 00:38:27.131
+<v Stefan Pelzer>jetzt mit neuem Foto, aber inhaltlich ändert sich nichts.
+
+00:38:27.131 --> 00:38:27.951
+<v Linus Neumann>Jetzt kommt die nächste.
+
+00:38:27.951 --> 00:38:29.161
+<v Stefan Pelzer>Aber leider haben wir schon die
+
+00:38:29.161 --> 00:38:32.588
+<v Stefan Pelzer>nächste auf, dann haben wir fünf Tage gewartet, bis er das gemacht hat.
+
+00:38:33.210 --> 00:38:36.029
+<v Stefan Pelzer>Und jetzt hat er eine neue Frist, das ist auch inhaltlich. Jetzt muss er eine
+
+00:38:36.029 --> 00:38:39.859
+<v Stefan Pelzer>neue E-Mail schreiben. Ja, inhaltlich ist es auch nicht, richtig.
+
+00:38:41.479 --> 00:38:44.309
+<v Stefan Pelzer>Also eigentlich müsste es löschen.
+
+00:38:44.704 --> 00:38:45.379
+<v Linus Neumann>Kannst du mal noch kurz...
+
+00:38:45.619 --> 00:38:48.799
+<v Tim Pritlove>Ich habe mal kurz die Webseite aufgerufen, die ist ganz toll hier.
+
+00:38:49.159 --> 00:38:53.942
+<v Tim Pritlove>Hey Ringo, der Bus fährt immer weiter und der Faktencheck macht die Akte heiter.
+
+00:38:54.320 --> 00:38:58.119
+<v Tim Pritlove>Camps Fristenticker ist dann hier unter anderem und ich sehe gerade,
+
+00:38:58.119 --> 00:39:01.251
+<v Tim Pritlove>die nächsten drei Fristen sind ja nur noch in zwei Tagen.
+
+00:39:01.804 --> 00:39:04.959
+<v Stefan Pelzer>Das stimmt, genau. Also der hat jetzt, zwei ist noch nicht nur noch ein Tag,
+
+00:39:04.959 --> 00:39:06.659
+<v Stefan Pelzer>ich glaube eine läuft morgen um zwölf, oder?
+
+00:39:06.659 --> 00:39:11.049
+<v Tim Pritlove>Ne, hier steht Handlungsanleitung, Widerrufen plus Unterlassung noch zwei Tage.
+
+00:39:11.049 --> 00:39:11.999
+<v Stefan Pelzer>Ah ja, hat er noch zwei Tage.
+
+00:39:11.999 --> 00:39:16.799
+<v Tim Pritlove>Foto löschen und Rückruf noch zwei Tage und Auskunft und Nachweise erteilen noch zwei Tage.
+
+00:39:16.799 --> 00:39:18.929
+<v Stefan Pelzer>Ja, die fristen jetzt alle in zwei Tagen. Genau, der hat jetzt,
+
+00:39:18.929 --> 00:39:21.499
+<v Stefan Pelzer>also Carsten Kempf hat echt viel, viel, das steht auch drüber.
+
+00:39:21.499 --> 00:39:23.113
+<v Tim Pritlove>Und vor allem heute ist Donnerstag.
+
+00:39:23.306 --> 00:39:26.739
+<v Stefan Pelzer>Genau. Ja, ja, und Carsten Kempf, das steht glaube ich drüber,
+
+00:39:26.739 --> 00:39:29.919
+<v Stefan Pelzer>Carsten Kempf hat viel zu tun gerade, oder?
+
+00:39:29.919 --> 00:39:31.299
+<v Tim Pritlove>Das ist auf jeden Fall.
+
+00:39:31.299 --> 00:39:34.219
+<v Stefan Pelzer>Genau, das ist auch, Herr Ringo kann nicht nur das, Herr Ringo hat auch übrigens
+
+00:39:34.219 --> 00:39:37.359
+<v Stefan Pelzer>eine KI, da kann man Fragen stellen und Ringo Schneider, der Polizist,
+
+00:39:37.359 --> 00:39:41.019
+<v Stefan Pelzer>antwortet seine Version aufgrund der Akte und dann kommt die Richtigstellung.
+
+00:39:41.459 --> 00:39:46.069
+<v Stefan Pelzer>Außerdem haben wir ein Spiel, wo man Ringo Schneider spielen kann und mit seinem
+
+00:39:46.069 --> 00:39:51.709
+<v Stefan Pelzer>Motorrad den Adenauer jagen, aber es gibt in dem Spiel noch andere Figuren,
+
+00:39:51.709 --> 00:39:55.382
+<v Stefan Pelzer>nämlich es gibt den Staatsanwalt, wenn der kommt, wird der Bus langsamer, weil der hilft ja Ringo.
+
+00:39:55.869 --> 00:40:01.019
+<v Stefan Pelzer>Dann gibt's Justitia die Gerechtigkeit und das Recht an der kommt Ringo halt
+
+00:40:01.019 --> 00:40:06.579
+<v Stefan Pelzer>nicht vorbei das ist das Problem, die schützt also den Bus und es gibt einen
+
+00:40:06.579 --> 00:40:08.031
+<v Stefan Pelzer>Journalist, der kommt dann ins Bild,
+
+00:40:10.044 --> 00:40:14.424
+<v Stefan Pelzer>Und der Journalist jagt Ringo wiederum. Das ist ein wirklich lustiges Spiel,
+
+00:40:14.424 --> 00:40:17.146
+<v Stefan Pelzer>ist ab sofort spielbar. Kann ich nur wirklich allen empfehlen.
+
+00:40:18.201 --> 00:40:21.014
+<v Stefan Pelzer>Genau, selbst, wir haben ja so ein bisschen ein Tracking drin.
+
+00:40:21.014 --> 00:40:23.524
+<v Stefan Pelzer>Und das ist auch sehr beliebt bei der Polizei Sachsen, das Spiel.
+
+00:40:27.024 --> 00:40:30.036
+<v Tim Pritlove>Ein schönes Wer-wild-Millionär-Quiz habt ihr auch noch?
+
+00:40:30.561 --> 00:40:30.974
+<v Stefan Pelzer>Genau.
+
+00:40:30.974 --> 00:40:35.289
+<v Tim Pritlove>Welche Prüforganisation bescheinigte dem Bus am 4.2.25 keine Mängel?
+
+00:40:35.777 --> 00:40:41.364
+<v Tim Pritlove>A, TÜV Nord, B, ADAC, C, Stiftung Warentest, D, Ringos Bauchgefühl.
+
+00:40:42.524 --> 00:40:46.344
+<v Stefan Pelzer>Das sind die, ihr kennt vielleicht, es gibt diese 500 Euro Fragen und dann so
+
+00:40:46.344 --> 00:40:48.704
+<v Stefan Pelzer>weiter, das wird richtig schwierig. Also ihr checkt das aus,
+
+00:40:49.044 --> 00:40:53.104
+<v Stefan Pelzer>wer wird Aktenmillionär, gibt's auch auf heyringo.de. Also heyringo.de,
+
+00:40:55.124 --> 00:40:56.670
+<v Stefan Pelzer>neue, das neue Kika.
+
+00:40:59.005 --> 00:41:03.241
+<v Linus Neumann>Ihr habt jetzt den Bus wieder nach Berlin. Wie kriegst du denn diese Dachlast
+
+00:41:03.241 --> 00:41:08.361
+<v Linus Neumann>geprüft? Du hast mir wunderschöne Fotos mal gezeigt, wo du den Bus mal geprüft hast.
+
+00:41:08.361 --> 00:41:11.849
+<v Stefan Pelzer>Also, wir haben das vorher rechnerisch nachgewiesen.
+
+00:41:12.203 --> 00:41:16.471
+<v Stefan Pelzer>Also, bevor es überhaupt losging, diese alte Adenauer-Version und diese alten
+
+00:41:16.471 --> 00:41:19.371
+<v Stefan Pelzer>Eintragungen, die beruhten auf rechnerischen Nachweisen.
+
+00:41:19.371 --> 00:41:24.821
+<v Stefan Pelzer>Das wird aber auch in der Automotive-Branche so gemacht, weil keiner mehr sein
+
+00:41:24.821 --> 00:41:27.795
+<v Stefan Pelzer>Fahrzeug kaputt machen will, um das zu beweisen.
+
+00:41:28.050 --> 00:41:31.541
+<v Stefan Pelzer>Und dann rechnet man einfach, ja, rechnet man einfach, passt,
+
+00:41:31.541 --> 00:41:33.601
+<v Stefan Pelzer>passt nicht mit einem gewissen Sicherheitsfaktor.
+
+00:41:33.601 --> 00:41:36.677
+<v Stefan Pelzer>Und wir haben dann, nachdem diese Ringo-Beschlagnahme war,
+
+00:41:37.531 --> 00:41:41.348
+<v Stefan Pelzer>einfach um den, quasi, und dieses schlechte Gutachten aus Chemnitz kam,
+
+00:41:41.633 --> 00:41:46.371
+<v Stefan Pelzer>haben wir gesagt, wir beweisen das nochmal ultimativ und haben den Bus in eine
+
+00:41:46.371 --> 00:41:48.751
+<v Stefan Pelzer>Halle gestellt, unter Augen der DEKRA,
+
+00:41:49.271 --> 00:41:54.041
+<v Stefan Pelzer>Unfallanalytikern und so weiter und haben sechs Tonnen aufs Dach geladen.
+
+00:41:54.041 --> 00:41:58.291
+<v Stefan Pelzer>Also wir haben einfach so Wassertanks, IBCs heißen die.
+
+00:41:58.291 --> 00:42:01.064
+<v Linus Neumann>International Balkon Container, Meter mal einen Meter mal einen Meter.
+
+00:42:02.491 --> 00:42:03.871
+<v Stefan Pelzer>Der Bus wurde aufgebockt,
+
+00:42:06.011 --> 00:42:10.019
+<v Stefan Pelzer>dass er nicht mehr auf dem Reifen steht, sondern halt auf so Werkstattböcken.
+
+00:42:10.478 --> 00:42:15.051
+<v Stefan Pelzer>Dann wurden überall so Laserdistanzmessgeräte nach unten,
+
+00:42:15.971 --> 00:42:20.401
+<v Stefan Pelzer>weil man will wissen, hier ist der Bus, ich lade jetzt ein Gewicht oben drauf,
+
+00:42:20.401 --> 00:42:28.901
+<v Stefan Pelzer>Man will wissen, wird der Bus kleiner sozusagen und es gibt dann ne elastische,
+
+00:42:31.051 --> 00:42:34.991
+<v Stefan Pelzer>ne ne dauerhafte, es gibt ne elastische und ne Beule oder Knackfrosch.
+
+00:42:35.551 --> 00:42:39.811
+<v Stefan Pelzer>Und dann lädst du also 6 Tonnen drauf und misst, wie viel kleiner ist der Bus
+
+00:42:39.811 --> 00:42:44.348
+<v Stefan Pelzer>geworden und unser Bus ist ein Millimeter kleiner geworden.
+
+00:42:45.440 --> 00:42:52.546
+<v Stefan Pelzer>Und zwei Millimeter dicker, sozusagen. Und danach wird es dann wieder entladen.
+
+00:42:52.708 --> 00:42:55.425
+<v Stefan Pelzer>Und dann war der Bus wieder ein Millimeter größer.
+
+00:42:55.791 --> 00:42:57.753
+<v Stefan Pelzer>Und wieder zwei Millimeter dünner.
+
+00:42:59.004 --> 00:43:04.724
+<v Stefan Pelzer>Und so wurde quasi nachgewiesen in einem Versuch, dass der Bus sechs Tonnen aushält ohne Problem.
+
+00:43:04.724 --> 00:43:06.104
+<v Linus Neumann>Ja, aber jetzt muss er ja noch fahren und bremsen.
+
+00:43:06.104 --> 00:43:09.464
+<v Stefan Pelzer>Ja, genau. Aber dafür, das ist halt quasi, erstens ist es ein Aufschlag,
+
+00:43:09.464 --> 00:43:14.425
+<v Stefan Pelzer>weil wir haben gar keine sechs Tonnen auf dem Dach, sondern 1,5 plus minus 1,4.
+
+00:43:14.959 --> 00:43:18.087
+<v Stefan Pelzer>Und das heißt, du hast dann einen Sicherheitsfaktor von drei oder vier,
+
+00:43:18.407 --> 00:43:24.560
+<v Stefan Pelzer>was im Fahrzeugbau absolut unüblich ist. Im Fahrzeugbau ist Faktor zwei vielleicht üblich.
+
+00:43:24.786 --> 00:43:29.036
+<v Stefan Pelzer>So, und dann für das Fahren und Bremsen haben wir einen Berge-Lkw kommen lassen,
+
+00:43:29.738 --> 00:43:34.244
+<v Stefan Pelzer>und haben dann an der Dachlast, also an dem Dachträger, nach vorne mit so einem
+
+00:43:34.244 --> 00:43:37.304
+<v Stefan Pelzer>Seilzug mit einer geeichten Waage von der DEKRA gezogen.
+
+00:43:37.304 --> 00:43:42.424
+<v Stefan Pelzer>Und zwar 2G, also zweimal das eigene Gewicht nach vorne und ich glaube 1,5 oder
+
+00:43:42.424 --> 00:43:46.724
+<v Stefan Pelzer>1,2 in jede andere Richtung. Damit ist quasi abgebildet, dass wenn du um eine
+
+00:43:46.724 --> 00:43:51.464
+<v Stefan Pelzer>Kurve fährst, der Bus hält, also der Dach, es ist halt einfach nicht unsicher. Es hält einfach.
+
+00:43:51.964 --> 00:43:53.967
+<v Stefan Pelzer>Es hält einfach, genau, es hält einfach.
+
+00:43:54.573 --> 00:43:57.164
+<v Linus Neumann>Habt ihr jetzt schon überlegt, was ihr mit den weiteren Tonnen Dachlast,
+
+00:43:57.164 --> 00:43:58.747
+<v Linus Neumann>die ihr jetzt habt, anstellen wollt?
+
+00:44:00.782 --> 00:44:04.506
+<v Stefan Pelzer>Wir haben ja jetzt eine wunderbare Lage, weil wir jetzt quasi seit Neuestem,
+
+00:44:04.506 --> 00:44:06.540
+<v Stefan Pelzer>ich weiß nicht, ob ich das überhaupt schon sagen darf, aber es ist jetzt so,
+
+00:44:08.526 --> 00:44:13.268
+<v Stefan Pelzer>dass die Dekra in Berlin jetzt sich dann doch einen Ruck gegeben hat,
+
+00:44:13.576 --> 00:44:16.016
+<v Stefan Pelzer>weil das immer so ein Ding war, wir hatten ein Fahrzeugpapier,
+
+00:44:16.016 --> 00:44:18.246
+<v Stefan Pelzer>da steht halt drin mit Dachreling.
+
+00:44:18.786 --> 00:44:22.026
+<v Stefan Pelzer>Aber da steht nicht drin, bis wie viel Kilo und so weiter. Und wir haben halt
+
+00:44:22.026 --> 00:44:25.111
+<v Stefan Pelzer>einen Bus, der ist umgebaut zum Kunstwerk, so ein Stück weit.
+
+00:44:25.476 --> 00:44:27.903
+<v Stefan Pelzer>Das steht nicht richtig drin, da steht einfach nur Bus drin.
+
+00:44:28.321 --> 00:44:31.576
+<v Stefan Pelzer>Und dann haben die Polizei gesagt dann, hä, aber warum ist hier denn so ein
+
+00:44:31.576 --> 00:44:35.116
+<v Stefan Pelzer>Gefechtsstand drin, warum ist hier ein Radar, warum ist hier irgendwie ein Wasserwerfer
+
+00:44:35.116 --> 00:44:39.906
+<v Stefan Pelzer>angebaut, das ist ja alles nicht in den Dokumenten und das wurde jetzt, letzte Woche,
+
+00:44:40.812 --> 00:44:44.846
+<v Stefan Pelzer>tatsächlich alles in die Dokumente eingetragen, also wir haben jetzt mittlerweile
+
+00:44:44.846 --> 00:44:47.626
+<v Stefan Pelzer>den Bus, deswegen wir haben hier auch ein Stück weit Kraftfahrzeuggeschichte
+
+00:44:47.626 --> 00:44:51.592
+<v Stefan Pelzer>geschrieben jetzt, weil wir haben jetzt einen Bus mit Papieren, das steht drin,
+
+00:44:52.226 --> 00:44:55.446
+<v Stefan Pelzer>sonstiges Kfz zur Personenbeförderung, also kein Kraftfahrzeug,
+
+00:44:55.446 --> 00:45:00.186
+<v Stefan Pelzer>sondern das ist jetzt ein sonstiges Kfz und es steht drin, mit Dachreling und
+
+00:45:00.186 --> 00:45:05.866
+<v Stefan Pelzer>dann eine Prüfnummer mit einer Kilo ist eingetragen für einen Lastenträger und es steht drin,
+
+00:45:07.706 --> 00:45:11.117
+<v Stefan Pelzer>mit Kunstausstellung für politische Bildung und Provokation.
+
+00:45:11.886 --> 00:45:14.386
+<v Linus Neumann>Das ist eingetragen?
+
+00:45:14.746 --> 00:45:16.686
+<v Stefan Pelzer>Da würde ich sagen, da können wir jetzt,
+
+00:45:19.466 --> 00:45:22.286
+<v Stefan Pelzer>in die Serienfertigung gehen, doch endlich, oder?
+
+00:45:24.738 --> 00:45:25.168
+<v Stefan Pelzer>Ja.
+
+00:45:26.995 --> 00:45:31.264
+<v Linus Neumann>Und trotzdem, also diese Prüfnummer,
+
+00:45:32.244 --> 00:45:35.944
+<v Linus Neumann>dieser Fahrzeugschein, Zulassungsbescheinigung Teil 2 oder was das ist?
+
+00:45:36.444 --> 00:45:37.044
+<v Stefan Pelzer>Das ist wie bei Tunern jetzt.
+
+00:45:37.044 --> 00:45:37.944
+<v Linus Neumann>Wie viele Seiten sind das jetzt?
+
+00:45:37.944 --> 00:45:41.674
+<v Stefan Pelzer>Zwei. Also das ist jetzt wie so bei Tunern, also weil das unten nicht ausreicht,
+
+00:45:41.674 --> 00:45:43.029
+<v Stefan Pelzer>weil da steht noch viel mehr drin.
+
+00:45:44.264 --> 00:45:49.024
+<v Stefan Pelzer>Mit hinterer Ausstellung, Multimedial, sonst was, Zellentrakt und so weiter.
+
+00:45:49.407 --> 00:45:51.964
+<v Stefan Pelzer>Und dann wird das so wie beim Tuner, wird dann an den Fahrzeugschein,
+
+00:45:51.964 --> 00:45:55.794
+<v Stefan Pelzer>das steht unten so ganz kurz mit ganz viel Abkürzung. und dann steht so weiter
+
+00:45:55.794 --> 00:45:58.868
+<v Stefan Pelzer>auf Seite 2 und dann hast du so für den Polizisten einen Fahrzeugschein.
+
+00:45:59.066 --> 00:46:00.584
+<v Stefan Pelzer>Bumm, hier hast du deinen Fahrzeugschein.
+
+00:46:01.024 --> 00:46:04.794
+<v Stefan Pelzer>Und dann kann er da durchlesen. Wir haben so Prüfplaketten bekommen von der
+
+00:46:04.794 --> 00:46:08.134
+<v Stefan Pelzer>DEKRA mit einer Seriennummer und die haben wir extra so geklebt,
+
+00:46:08.134 --> 00:46:10.484
+<v Stefan Pelzer>das ist total scheiße, weil die Polizei will jetzt gucken,
+
+00:46:11.124 --> 00:46:16.274
+<v Stefan Pelzer>du stehst hier im Fahrzeugschein, die Nummer und dann haben wir die nicht außen,
+
+00:46:16.274 --> 00:46:17.524
+<v Stefan Pelzer>sondern innen hingeklebt.
+
+00:46:19.027 --> 00:46:22.754
+<v Stefan Pelzer>Genau, damit bei der Kontrolle ein bisschen was zu tun hat.
+
+00:46:22.754 --> 00:46:26.114
+<v Tim Pritlove>Ja, ist ja auch ein Sport mittlerweile. bei der Polizei, habe ich so den Eindruck
+
+00:46:26.114 --> 00:46:27.384
+<v Tim Pritlove>so sehr, wie die sich da reinhängen.
+
+00:46:27.384 --> 00:46:27.747
+<v Stefan Pelzer>Ja.
+
+00:46:28.186 --> 00:46:34.024
+<v Linus Neumann>Also insgesamt diese Bemühungen der Polizei Chemnitz, die finde ich schon so
+
+00:46:34.024 --> 00:46:38.494
+<v Linus Neumann>ein bisschen unheimlich, ja, weil ich meine, spätestens nachdem sie das erste
+
+00:46:38.494 --> 00:46:41.490
+<v Linus Neumann>Mal quasi verloren haben mit dem Ansinnen,
+
+00:46:42.025 --> 00:46:45.924
+<v Linus Neumann>immer wieder zu Leuten zu sagen, der Bus ist jetzt da, beschlagnahmt den hier,
+
+00:46:45.924 --> 00:46:49.134
+<v Linus Neumann>ich habe eine PowerPoint Präsentation gemacht, wie man den Bus beschlagnahmt
+
+00:46:49.134 --> 00:46:51.624
+<v Linus Neumann>und so, und sich da mit den Leuten anzulegen,
+
+00:46:52.404 --> 00:46:58.156
+<v Linus Neumann>dass Ich weiß gar nicht, ob ich denke, dass da so die Steuergelder so sauber investiert sind.
+
+00:46:58.656 --> 00:47:01.364
+<v Linus Neumann>Und ich weiß auch gar nicht, ob da nicht, das klingt so ein bisschen nach so
+
+00:47:01.364 --> 00:47:05.072
+<v Linus Neumann>einer privaten Fede. Jetzt hast du diese Akten.
+
+00:47:05.522 --> 00:47:06.560
+<v Stefan Pelzer>Ja.
+
+00:47:07.036 --> 00:47:09.294
+<v Linus Neumann>Wo sind die denn eigentlich zum ersten Mal aufgetaucht?
+
+00:47:09.294 --> 00:47:12.256
+<v Stefan Pelzer>Die Akten, also du kriegst ja Akteneinsicht. Bei uns ist das so,
+
+00:47:12.633 --> 00:47:16.204
+<v Stefan Pelzer>man kriegt immer wieder. Und das muss ich dazu sagen, das ist auch das,
+
+00:47:16.204 --> 00:47:18.769
+<v Stefan Pelzer>was die Polizisten nicht verstanden haben.
+
+00:47:19.089 --> 00:47:23.442
+<v Stefan Pelzer>Und wo ich sagen muss, da muss ich mich bei unseren Fördermitgliedern eigentlich bedanken.
+
+00:47:25.265 --> 00:47:29.886
+<v Stefan Pelzer>Also, weil wir ja sehr, sehr schlagkräftig mit Anwälten sind.
+
+00:47:30.072 --> 00:47:33.160
+<v Stefan Pelzer>Sonst könnte ich das auch persönlich gar nicht durchhalten.
+
+00:47:33.444 --> 00:47:38.055
+<v Stefan Pelzer>Also, der arme linke Aktivist auf einer Demonstration wird vom Polizisten angerempelt,
+
+00:47:38.835 --> 00:47:41.844
+<v Stefan Pelzer>sagt, der hat mich angerempelt, sagen zehn Polizisten, nee, der hat uns angerempelt.
+
+00:47:43.307 --> 00:47:46.674
+<v Stefan Pelzer>Dann kein Geld, rote Hilfe, Anwalt und so weiter.
+
+00:47:47.028 --> 00:47:51.245
+<v Stefan Pelzer>Und ich würde das nicht durchhalten, auf fünf Ebenen oder sieben gleichzeitig
+
+00:47:51.245 --> 00:47:57.855
+<v Stefan Pelzer>Prozesse zu führen, wenn nicht unsere ganzen Förderer, dass quasi die Sorgen,
+
+00:47:57.855 --> 00:47:58.805
+<v Stefan Pelzer>die finanziellen Sorgen daraus
+
+00:47:58.805 --> 00:48:01.616
+<v Stefan Pelzer>nehmen würden, dass einfach um sich dieses Rechtsthema gekümmert wird.
+
+00:48:03.896 --> 00:48:08.255
+<v Stefan Pelzer>Weil sonst bist du ganz schnell, sodass du das nicht klarstellen kannst.
+
+00:48:08.835 --> 00:48:12.915
+<v Stefan Pelzer>Aber du hast in Deutschland das Ding, es geht gegen dich ein Verfahren,
+
+00:48:12.915 --> 00:48:16.325
+<v Stefan Pelzer>dann kannst du ja sofort, eigentlich kann der Anwalt hinschreiben,
+
+00:48:16.661 --> 00:48:18.945
+<v Stefan Pelzer>hier wegen diesem Anhalten heute, allein schon beim Mängelschein,
+
+00:48:18.945 --> 00:48:20.731
+<v Stefan Pelzer>kannst du sofort einen Brief hinschicken, Akteneinsicht.
+
+00:48:21.363 --> 00:48:24.835
+<v Stefan Pelzer>So, jetzt ist es so, dass in dem Fall hatten wir das, in dem Fall der Beschlagnahme
+
+00:48:24.835 --> 00:48:30.953
+<v Stefan Pelzer>in Döbeln, hatten wir das auch gemacht. Also wir sofort gesagt, bitte Akteneinsicht.
+
+00:48:31.377 --> 00:48:33.715
+<v Stefan Pelzer>Wir haben die Akte aber nicht bekommen, wir haben beim Labo Berlin,
+
+00:48:33.715 --> 00:48:35.951
+<v Stefan Pelzer>also bei der Zulagungsstelle, die hatten auch keine Akte.
+
+00:48:37.115 --> 00:48:41.225
+<v Stefan Pelzer>Und da ging es um das Gutachten aus Chemnitz, was gesagt hat,
+
+00:48:41.225 --> 00:48:42.859
+<v Stefan Pelzer>verkehrsunsicher, das Fahrzeug.
+
+00:48:43.591 --> 00:48:48.281
+<v Stefan Pelzer>Und das hatte niemand. Die DEKRA Berlin konnte nicht reingucken, gesperrt im Computer.
+
+00:48:49.275 --> 00:48:53.495
+<v Stefan Pelzer>Das Landesamt Bürger Ordnungsangelegenheiten, die zuständige Stelle in Berlin, hatten es nicht.
+
+00:48:55.095 --> 00:48:59.995
+<v Stefan Pelzer>Wer es aber sehr wohl hatte, schon, war ein rechtsextremer YouTuber.
+
+00:49:00.497 --> 00:49:02.725
+<v Tim Pritlove>Warte mal, wann ist denn dieses Gutachten erstellt worden?
+
+00:49:02.725 --> 00:49:05.619
+<v Stefan Pelzer>Nach dieser Beschlagnahme, die war ja September bei der Zerstin Döbeln,
+
+00:49:06.130 --> 00:49:10.577
+<v Stefan Pelzer>und dann gab es eine Kurz, also es gab ein Kurzgutachten und ein Langgutachten.
+
+00:49:11.535 --> 00:49:15.085
+<v Stefan Pelzer>Und das Gutachten wurde halt, also wahrscheinlich so in der Woche danach wurde
+
+00:49:15.085 --> 00:49:18.918
+<v Stefan Pelzer>das quasi, wurde der Bus angeschaut von der DEKRA, dann durften wir ihn abholen
+
+00:49:19.290 --> 00:49:23.515
+<v Stefan Pelzer>und nochmal eine Woche später wurde das Gutachten an die Polizei Chemnitz übermittelt,
+
+00:49:23.515 --> 00:49:25.287
+<v Stefan Pelzer>laut heutiger Akteninformationen.
+
+00:49:26.122 --> 00:49:31.092
+<v Stefan Pelzer>Und bis wir das dann hatten als Beschuldigte, oder Betroffene besser gesagt,
+
+00:49:32.509 --> 00:49:34.447
+<v Stefan Pelzer>hat es noch mal mindestens zwei Wochen gedauert.
+
+00:49:34.749 --> 00:49:36.969
+<v Stefan Pelzer>Wir haben einen sehr guten Kontakt zur Zulassungsstelle in Berlin.
+
+00:49:36.969 --> 00:49:39.339
+<v Stefan Pelzer>Die waren auch so, wir haben hier nur diesen Fahrzeugschein,
+
+00:49:39.339 --> 00:49:41.349
+<v Stefan Pelzer>wo zerstört draufsteht. Wir wissen gar nichts.
+
+00:49:42.509 --> 00:49:46.379
+<v Stefan Pelzer>Wir haben nichts. Und dann gab es bei YouTube einen Eintrag,
+
+00:49:46.379 --> 00:49:55.339
+<v Stefan Pelzer>wo der YouTuber Maurice Clark, AfD-Vorfeld, exakt aus dem Gutachten berichten konnte.
+
+00:49:58.102 --> 00:50:01.649
+<v Stefan Pelzer>Und das gleiche hat sich dann nochmal wiederholt übrigens. Also das war das
+
+00:50:01.649 --> 00:50:04.457
+<v Stefan Pelzer>Erste. Und dann gab es ein Langgutachten. Auch das hatte er wieder.
+
+00:50:05.357 --> 00:50:09.349
+<v Stefan Pelzer>Wir haben dagegen Anzeige erstattet, wegen Verrat von Dienstgeheimnissen,
+
+00:50:09.349 --> 00:50:12.779
+<v Stefan Pelzer>gegen die Chemnitzer Polizei und gegen die DEKRA vor Ort. Weil die DEKRA hat
+
+00:50:12.779 --> 00:50:14.129
+<v Stefan Pelzer>gesagt, ne, bei uns nicht.
+
+00:50:14.291 --> 00:50:16.398
+<v Stefan Pelzer>Wir so, super, danke, dann können es ja nur die gewesen sein.
+
+00:50:16.549 --> 00:50:20.009
+<v Stefan Pelzer>Polizei, ja, wer denn jetzt nicht? Wenn es beide nicht waren, haben wir also,
+
+00:50:22.149 --> 00:50:26.406
+<v Stefan Pelzer>Akteneinsicht, weil wir auch betroffen sind. Die wurde uns ewig nicht gewährt.
+
+00:50:28.084 --> 00:50:31.364
+<v Stefan Pelzer>Vor zwei Wochen haben wir Akteneinsicht bekommen in dieser Geschichte.
+
+00:50:31.364 --> 00:50:32.924
+<v Tim Pritlove>Wer musste diese Akteneinsicht geben?
+
+00:50:33.134 --> 00:50:35.864
+<v Stefan Pelzer>Na, unser Anwalt hat dann gesagt, wir sind hier betroffen. Ein Gutachten,
+
+00:50:35.864 --> 00:50:38.134
+<v Stefan Pelzer>was uns betrifft, wurde quasi geleakt.
+
+00:50:38.134 --> 00:50:39.259
+<v Tim Pritlove>An wen wendet man sich da?
+
+00:50:39.954 --> 00:50:40.906
+<v Stefan Pelzer>An die Staatsanwaltschaft.
+
+00:50:41.325 --> 00:50:42.454
+<v Tim Pritlove>In Chemnitz.
+
+00:50:42.454 --> 00:50:45.124
+<v Stefan Pelzer>Genau, weil die müssten ja ermitteln. Wir haben ja gesagt, hey,
+
+00:50:45.124 --> 00:50:48.214
+<v Stefan Pelzer>das Gutachten ist geleakt worden. Das ist Verrat von Dienstgeheimnissen.
+
+00:50:48.214 --> 00:50:51.570
+<v Stefan Pelzer>Das ist ein hochsensibles Dokument. Hat ein rechter YouTuber. Warum?
+
+00:50:53.915 --> 00:50:58.841
+<v Stefan Pelzer>Jetzt haben wir vor zwei Wochen Akteneinsicht bekommen. Habe ich hier irgendeine weiße Seite?
+
+00:51:00.008 --> 00:51:03.468
+<v Stefan Pelzer>Machen wir mal schwarz. Das hier, so, ist die Akte.
+
+00:51:03.700 --> 00:51:07.154
+<v Stefan Pelzer>Das sind die Ermittlungen, die die Polizei Chemnitz zu dieser Angelegenheit
+
+00:51:07.154 --> 00:51:09.256
+<v Stefan Pelzer>erstellt hat. Also einfach gar nichts.
+
+00:51:09.772 --> 00:51:11.594
+<v Stefan Pelzer>Also es wurde niemand befragt.
+
+00:51:12.222 --> 00:51:15.054
+<v Stefan Pelzer>Und du musst wissen, gegen uns wurden...
+
+00:51:15.734 --> 00:51:16.769
+<v Tim Pritlove>Das ist das Gutachten.
+
+00:51:17.254 --> 00:51:17.694
+<v Linus Neumann>Nein, nein.
+
+00:51:17.694 --> 00:51:23.784
+<v Stefan Pelzer>Nein, nein. Das Gutachten nicht. Wir haben Anzeige erstattet wegen Verrat von
+
+00:51:23.784 --> 00:51:25.514
+<v Stefan Pelzer>Dienstgeheimnissen gegen DEKRA und Polizei.
+
+00:51:25.514 --> 00:51:26.704
+<v Tim Pritlove>Und daraufhin haben sie nichts getan.
+
+00:51:26.774 --> 00:51:27.715
+<v Stefan Pelzer>Nicht ermittelt.
+
+00:51:28.096 --> 00:51:31.654
+<v Linus Neumann>Das ist auch immer so erstaunlich, die Polizei ist wahrscheinlich so überarbeitet,
+
+00:51:31.654 --> 00:51:34.434
+<v Linus Neumann>den Adenauer zu suchen, dass sie gar nicht gegen sich selber ermitteln kann.
+
+00:51:34.434 --> 00:51:37.244
+<v Stefan Pelzer>Und wir sind halt Künstler, deswegen haben wir dann, wir haben damals schon
+
+00:51:37.244 --> 00:51:43.104
+<v Stefan Pelzer>anders reagiert und wir haben gesagt, okay, also als dieses Gutachten bei den
+
+00:51:43.104 --> 00:51:48.851
+<v Stefan Pelzer>YouTubern waren, sind wir mit einem Anhänger nach Chemnitz vor das Polizeirevier gefahren,
+
+00:51:50.025 --> 00:51:52.864
+<v Stefan Pelzer>Und haben den dort enthüllt und dort ist halt Ringo Schneider,
+
+00:51:52.864 --> 00:51:57.709
+<v Stefan Pelzer>der Polizist, und Tino Chrupalla drauf zu sehen.
+
+00:51:58.894 --> 00:52:05.124
+<v Stefan Pelzer>Und Tino Chrupalla hebt seine linke Hand zum Gruß und sagt, hey Ringo,
+
+00:52:05.124 --> 00:52:07.009
+<v Stefan Pelzer>ist die Akte schon bei unseren YouTubern?
+
+00:52:07.862 --> 00:52:12.204
+<v Stefan Pelzer>Und dann sagt der Ringo Schneider, klar Tino, Nazis haben bei mir immer Akteneinsicht.
+
+00:52:12.837 --> 00:52:16.434
+<v Stefan Pelzer>Und rechts steht so ein Schild Chemnitz, Willkürhauptstadt Europas,
+
+00:52:16.434 --> 00:52:18.034
+<v Stefan Pelzer>weil das ja die Kulturhauptstadt Europas war.
+
+00:52:18.574 --> 00:52:20.154
+<v Stefan Pelzer>Und das Logo haben wir ganz leicht
+
+00:52:20.154 --> 00:52:24.267
+<v Stefan Pelzer>verfremdet, das ist so ein angedeutetes Swastika quasi ist unter dem.
+
+00:52:25.782 --> 00:52:29.684
+<v Stefan Pelzer>Genau. Und das Ganze ist unter dem so Ringo und Tino, genau,
+
+00:52:29.684 --> 00:52:33.944
+<v Stefan Pelzer>Polizei Sachsen gibt Akte an Rechtsextremisten. Das war quasi unser Protest,
+
+00:52:36.294 --> 00:52:37.154
+<v Stefan Pelzer>gegen die Geschichte.
+
+00:52:40.207 --> 00:52:44.891
+<v Stefan Pelzer>Und seitdem ermittelt, also seitdem, weil das ist ja ein völlig anderer Fall,
+
+00:52:44.891 --> 00:52:48.514
+<v Stefan Pelzer>ich bin hier der Verantwortliche, ich habe es zu verantworten sozusagen, aus Sicht von denen.
+
+00:52:49.042 --> 00:52:51.791
+<v Stefan Pelzer>Und was ich hier mache ist Verwendung
+
+00:52:51.791 --> 00:52:56.895
+<v Stefan Pelzer>von Zeichenterroristischen oder verfassungsfeindlichen Organisationen.
+
+00:52:57.971 --> 00:53:03.414
+<v Stefan Pelzer>Das ist ein Paragraf im Recht, der sicherstellen soll, des Nazis keinen Hitlergruß zeigen.
+
+00:53:03.832 --> 00:53:09.391
+<v Stefan Pelzer>Dass Nazis kein Hakenkreuz sich tätowieren. Darum geht's. Das ist der Grund für diesen Paragraf.
+
+00:53:10.287 --> 00:53:18.071
+<v Stefan Pelzer>Und das ist jetzt jemand von einer, der sich seit 15, 20 Jahren gegen Rechtsextreme
+
+00:53:18.071 --> 00:53:22.303
+<v Stefan Pelzer>engagiert, der davon betroffen ist, dass eine staatliche Stelle eine Akte an Rechtsextreme gibt.
+
+00:53:23.516 --> 00:53:28.891
+<v Stefan Pelzer>Und der protestiert mit einem Kunstplakat in einer Kulturhauptstadt Europas.
+
+00:53:30.411 --> 00:53:34.071
+<v Stefan Pelzer>Und daraufhin werde ich Seitdem werde ich mit allen Mitteln verfolgt.
+
+00:53:34.071 --> 00:53:35.811
+<v Stefan Pelzer>Wirklich. Von der Polizei.
+
+00:53:35.811 --> 00:53:41.111
+<v Linus Neumann>Einmal wegen Verwendung verfassungsfeindlicher Symbole, wobei ich da jetzt gar
+
+00:53:41.111 --> 00:53:44.562
+<v Linus Neumann>nicht so sicher wäre bei diesem Kreuz da bei Europa.
+
+00:53:45.200 --> 00:53:48.931
+<v Linus Neumann>Aber natürlich klar, der Ringo wird das jetzt nicht witzig gefunden haben.
+
+00:53:49.631 --> 00:53:52.161
+<v Stefan Pelzer>Ich bin auch nicht angetreten, damit Ringo irgendwas witzig findet.
+
+00:53:52.161 --> 00:53:54.732
+<v Linus Neumann>Das ist, ich wollte, ich versuche jetzt nur,
+
+00:54:01.209 --> 00:54:04.231
+<v Linus Neumann>So jetzt machen die irgendwie so ein Ermittlungsverfahren, denkt man,
+
+00:54:04.231 --> 00:54:07.271
+<v Linus Neumann>ja gut, komm, das ist ja, also das verläuft ja im Sande, ja.
+
+00:54:07.931 --> 00:54:11.815
+<v Linus Neumann>Ihr habt aber noch so einen Instagram-Post zu dem, äh, zu diesem Poster gemacht.
+
+00:54:11.987 --> 00:54:16.364
+<v Stefan Pelzer>Genau, wir haben, äh, so einen, wir haben halt quasi so ein Wetten-das-Geschichte gemacht.
+
+00:54:16.886 --> 00:54:20.996
+<v Stefan Pelzer>Ähm, ich hab's aber nicht als, äh, als Ding, das wäre dann Tim mit Jingle.
+
+00:54:22.011 --> 00:54:22.566
+<v Tim Pritlove>Ja.
+
+00:55:08.355 --> 00:55:12.317
+<v Stefan Pelzer>Das war so ein Video, da haben wir gesagt, wir machen das so Wetten-das-mäßig
+
+00:55:12.520 --> 00:55:14.372
+<v Stefan Pelzer>und wir haben die Wette natürlich gewonnen.
+
+00:55:15.315 --> 00:55:20.255
+<v Stefan Pelzer>Es wurde enthüllt und es wurde sofort beschlagen mit DNA-Abstrich und allem und so weiter.
+
+00:55:23.835 --> 00:55:27.275
+<v Stefan Pelzer>Und daraus ergab sich dann, das ist ein völlig neuer Fall, eine weitere Verfahrensakte
+
+00:55:27.275 --> 00:55:29.923
+<v Stefan Pelzer>mit mittlerweile 1000 Seiten, die daraus sich ergeben hat.
+
+00:55:31.255 --> 00:55:35.815
+<v Stefan Pelzer>Tausend Seiten ja tausend Seiten wird die locker haben mittlerweile mit,
+
+00:55:36.835 --> 00:55:40.815
+<v Stefan Pelzer>neuen Anfragen an Meta wegen wer hat das Video hochgeladen, die alle abgelehnt
+
+00:55:40.815 --> 00:55:46.145
+<v Stefan Pelzer>wurden, Anfragen an Fluggesellschaften international weil der Dreh- und Angelpunkt
+
+00:55:46.145 --> 00:55:49.792
+<v Stefan Pelzer>ist es wird behauptet, dass ich dieses Plakat enthüllt habe.
+
+00:55:52.495 --> 00:55:58.475
+<v Stefan Pelzer>Problem ist Problem ist ich war halt neuntausend Kilometer weit weg nachweislich,
+
+00:55:59.155 --> 00:56:00.035
+<v Stefan Pelzer>Was heißt hier nachweislich?
+
+00:56:00.075 --> 00:56:03.799
+<v Stefan Pelzer>Nachweislich heißt, ich wurde da beschuldigt, unser Anwalt hat gesagt,
+
+00:56:03.968 --> 00:56:06.899
+<v Stefan Pelzer>das können wir gleich ausräumen, hier ist das Flugticket.
+
+00:56:07.642 --> 00:56:11.545
+<v Stefan Pelzer>Daraufhin wurde gesagt, hey, wurde dir toll kontaktiert, stimmt es,
+
+00:56:11.545 --> 00:56:13.459
+<v Stefan Pelzer>dass der hier in Deutschland in den Flieger gegangen ist.
+
+00:56:14.649 --> 00:56:19.245
+<v Stefan Pelzer>Er sagte, soll, ja, aber wir können nur sagen, hier, der ist nach Amsterdam
+
+00:56:19.245 --> 00:56:21.342
+<v Stefan Pelzer>geflogen, aber wie er dann weitergeflogen ist, können wir nicht sagen.
+
+00:56:21.539 --> 00:56:27.390
+<v Stefan Pelzer>Daraufhin wurde ein KLM eine Anfrage gestellt, ob ich auch in den Folgeflug eingecheckt bin.
+
+00:56:29.045 --> 00:56:32.305
+<v Stefan Pelzer>Und dann hat KLM erst mal gesagt, ihr müsst ja schon erklären,
+
+00:56:32.305 --> 00:56:35.035
+<v Stefan Pelzer>warum ihr das jetzt hier wissen wollt. Und dann wurde der Brief geschrieben,
+
+00:56:35.035 --> 00:56:38.405
+<v Stefan Pelzer>ja, schwerster Verdacht hier, terroristisch verwendet. Das hört sich auch erst
+
+00:56:38.405 --> 00:56:41.201
+<v Stefan Pelzer>mal gut an, Verwendung terroristischer.
+
+00:56:42.089 --> 00:56:43.639
+<v Stefan Pelzer>Und daraufhin hat KLM dann gesagt, ja, klar.
+
+00:56:44.550 --> 00:56:49.988
+<v Stefan Pelzer>Der ist da eingestiegen und hat auf Sitz 4E gesessen.
+
+00:56:51.706 --> 00:56:55.613
+<v Stefan Pelzer>Ist also dann in anderes Land ganz weit weg. Die Chemnitzer, hm.
+
+00:56:57.735 --> 00:57:02.975
+<v Stefan Pelzer>Und die Hypothese war dann, der ist doch mit einem Paddelboot wieder zurück.
+
+00:57:06.255 --> 00:57:09.284
+<v Stefan Pelzer>Es gibt zwar keine Einreise, es gibt keinen erneuten Zoll, der ist nicht wieder eingereist.
+
+00:57:09.696 --> 00:57:14.503
+<v Stefan Pelzer>So, haben die gesagt, aber es war jemand kräftig mit dem Bart. Das war er.
+
+00:57:15.175 --> 00:57:18.955
+<v Stefan Pelzer>Also es gab einen Polizist, der da Zeuge war, der es gesehen hat, ne?
+
+00:57:19.257 --> 00:57:21.875
+<v Stefan Pelzer>Und der wurde an dem Tag gefragt, was war das für einer? Ja,
+
+00:57:22.235 --> 00:57:23.407
+<v Stefan Pelzer>so ein bisschen kräftig und mit Bart.
+
+00:57:24.574 --> 00:57:27.012
+<v Stefan Pelzer>Und dann, fünf Monate später...
+
+00:57:28.208 --> 00:57:33.078
+<v Stefan Pelzer>Wurde derselbe Polizist gefragt, ja, wegen diesem hier Typen,
+
+00:57:33.418 --> 00:57:36.440
+<v Stefan Pelzer>kräftig mit Bart, wenn wir dir ein Foto zeigen würden, würdest du den vielleicht wiedererkennen?
+
+00:57:36.910 --> 00:57:40.308
+<v Stefan Pelzer>Ja, würde ich. Beim ersten Mal dann noch gesagt, mehr kann ich dazu nicht sagen.
+
+00:57:40.308 --> 00:57:42.094
+<v Stefan Pelzer>Beim zweiten Mal gesagt, ja, würde ich wiedererkennen.
+
+00:57:42.773 --> 00:57:46.748
+<v Stefan Pelzer>Und dann nochmal einen Monat später wurde dem Polizisten so ein Foto gezeigt,
+
+00:57:46.951 --> 00:57:49.447
+<v Stefan Pelzer>guck mal hier, das ist Stefan Pelzer, das ist unser Verdächtiger, ist er das?
+
+00:57:51.898 --> 00:57:54.158
+<v Stefan Pelzer>Und eigentlich in Deutschland, es gibt so eine Norm, du musst eigentlich acht
+
+00:57:54.158 --> 00:57:56.001
+<v Stefan Pelzer>Fotos von irgendwelchen Leuten zeigen.
+
+00:57:57.836 --> 00:57:59.878
+<v Stefan Pelzer>Dann sind die also damit zur Staatsanwaltschaft und haben gesagt,
+
+00:57:59.878 --> 00:58:06.944
+<v Stefan Pelzer>Strafbefehl 50 Tagessätze, 2500 Euro und die Richterin Strafbefehl beantragt bei Gericht.
+
+00:58:07.608 --> 00:58:08.641
+<v Tim Pritlove>Alles in Chemnitz noch?
+
+00:58:08.894 --> 00:58:12.238
+<v Stefan Pelzer>In Chemnitz, genau, bei Gericht. Die Richterin hat zurückgeschrieben Das macht aber keinen Sinn,
+
+00:58:15.578 --> 00:58:20.248
+<v Stefan Pelzer>Das macht aber keinen Sinn Also die haben in dem Antrag geschrieben Also was
+
+00:58:20.248 --> 00:58:21.318
+<v Stefan Pelzer>für ein Zweifel Soll ich daran verstehen?
+
+00:58:21.658 --> 00:58:25.914
+<v Stefan Pelzer>Hat die Polizei Chemnitz ihre Richterin nicht unter Kontrolle oder was?
+
+00:58:26.297 --> 00:58:32.058
+<v Stefan Pelzer>Daraufhin klingelt am Fusion Donnerstag um 6 Uhr bei mir die Polizei und beschlagnahmt meinen Computer.
+
+00:58:36.442 --> 00:58:40.472
+<v Stefan Pelzer>Also du hältst gerade deinen Laptop hoch. Ja, den habe ich seit zwei Tagen wieder.
+
+00:58:40.472 --> 00:58:43.102
+<v Tim Pritlove>Lies mal vor, was auf dem Aufzuhörer steht.
+
+00:58:43.102 --> 00:58:48.632
+<v Stefan Pelzer>Da steht Asservat. Und dann steht hier PT Chemnitz, KPI, Dezernat 5,
+
+00:58:48.632 --> 00:58:51.977
+<v Stefan Pelzer>Geschäftszeichen, bla bla jatz. Und dann steht Asservatnummer.
+
+00:58:52.285 --> 00:58:55.292
+<v Stefan Pelzer>Und da war irgendeine andere Asservatnummer drauf. Da ist mit Tippex dann wieder
+
+00:58:55.292 --> 00:58:59.502
+<v Stefan Pelzer>eine andere Asservatnummer. Daran erkennt man, dass das richtig ist.
+
+00:58:59.502 --> 00:59:01.202
+<v Stefan Pelzer>Das ist nur die Nummer 4, Alter.
+
+00:59:01.582 --> 00:59:06.327
+<v Stefan Pelzer>Also 1, 2, 3, 4. Warum brauchst du Tipp-Hacks?
+
+00:59:07.854 --> 00:59:12.471
+<v Stefan Pelzer>Scheiße, ich hab drei geschrieben. Jetzt haben wir zweimal, als er war drei. Naja.
+
+00:59:13.002 --> 00:59:15.062
+<v Linus Neumann>Tipp-Hacks, ich wusste gar nicht, dass das noch gibt.
+
+00:59:15.062 --> 00:59:20.382
+<v Stefan Pelzer>Und auch das war so. Da steht wirklich morgens, das ist eine total asoziale
+
+00:59:20.382 --> 00:59:24.282
+<v Stefan Pelzer>Situation, weil da stehen Polizisten, in dem Fall sogar der Chemnitzer,
+
+00:59:24.282 --> 00:59:27.382
+<v Stefan Pelzer>über den wir gleich noch reden werden, steht in deiner Wohnung morgens.
+
+00:59:27.382 --> 00:59:29.382
+<v Stefan Pelzer>Die Polizei übernimmt die Kontrolle über alles.
+
+00:59:30.882 --> 00:59:34.464
+<v Stefan Pelzer>Und das ist wirklich so, Du bist nicht mehr selbstbestimmt in deinem eigenen Zuhause.
+
+00:59:34.801 --> 00:59:39.764
+<v Stefan Pelzer>Und es geht wirklich hier um das, was ihr hinter... Also es geht um dieses Plakat, um Kunst.
+
+00:59:40.757 --> 00:59:45.729
+<v Stefan Pelzer>Und es geht vor allem um 50 Tagessätze, ah, 50 Euro. Das sind 2500 Euro.
+
+00:59:46.043 --> 00:59:52.762
+<v Stefan Pelzer>Wegen 2500 Euro werden Meta-Neuen-Anfragen gestellt, international durch Suchungen,
+
+00:59:53.102 --> 00:59:55.981
+<v Stefan Pelzer>nicht nur bei mir, bei noch weiteren Leuten, um festzustellen,
+
+00:59:56.498 --> 00:59:59.352
+<v Stefan Pelzer>wie ist der wieder, wie hat er es geschafft, doch wieder in Chemnitz zu sein,
+
+00:59:59.352 --> 01:00:00.736
+<v Stefan Pelzer>obwohl der eigentlich gar nicht da ist.
+
+01:00:01.131 --> 01:00:04.568
+<v Stefan Pelzer>Man kann Verfahren auch einstellen, wenn man keinen Anhaltspunkt hat, so ne?
+
+01:00:05.083 --> 01:00:10.222
+<v Stefan Pelzer>Ähm, und ähm, genau, und dann wurde, dann war die Berliner Polizei gesagt so,
+
+01:00:10.682 --> 01:00:14.282
+<v Stefan Pelzer>ja, hm, also da kam der Anwalt natürlich und dann sagt, ja, kannst du es nicht
+
+01:00:14.282 --> 01:00:15.482
+<v Stefan Pelzer>noch irgendwie ein bisschen mehr beweisen?
+
+01:00:15.482 --> 01:00:18.592
+<v Stefan Pelzer>Die Berliner Polizisten waren nicht so begeistert von dem ganzen Chemnitzer
+
+01:00:18.592 --> 01:00:21.500
+<v Stefan Pelzer>Ding, muss man wirklich schützend dazu sagen.
+
+01:00:22.727 --> 01:00:26.314
+<v Stefan Pelzer>Und dann so, ja, ich könnte ein paar Urlaubsfotos zeigen, habe ich gesagt.
+
+01:00:28.334 --> 01:00:32.294
+<v Stefan Pelzer>Und dann so, ja, okay. Aber dann wurde ausgemacht, das Handy darf nicht beschlagnet,
+
+01:00:32.294 --> 01:00:34.608
+<v Stefan Pelzer>es wird entsperrt, aber ich bin so einen Meter weg und mache so.
+
+01:00:36.688 --> 01:00:40.354
+<v Stefan Pelzer>Guck mal, hier kommt meine Freundin. Guck mal da.
+
+01:00:40.778 --> 01:00:44.614
+<v Stefan Pelzer>Dann so, ja, außerdem habe ich die ganze Zeit mit Karte bezahlt.
+
+01:00:44.614 --> 01:00:48.771
+<v Stefan Pelzer>Wir sagen mal, Bank, guck mal hier, noch mal ein Eis, noch mal ein Hotel.
+
+01:00:49.619 --> 01:00:54.014
+<v Stefan Pelzer>Und dann der Bettener Polizist so zu dem Kämlitzer. Also mir würde das reichen.
+
+01:00:59.383 --> 01:01:04.102
+<v Stefan Pelzer>Und dann war kurz so, okay, darf Computer und Handy behalten.
+
+01:01:05.154 --> 01:01:08.344
+<v Stefan Pelzer>Und man muss dazu sagen, dass ich hier bei der Fusion, weil ich mich ja nicht
+
+01:01:08.344 --> 01:01:10.614
+<v Stefan Pelzer>nur mit dem Bus, sondern ich beschäftige mich generell mit Bussen,
+
+01:01:10.614 --> 01:01:12.334
+<v Stefan Pelzer>auch hier auf der Fusion. Und ich war,
+
+01:01:14.354 --> 01:01:18.834
+<v Stefan Pelzer>gegenüber dem Amt eingetragen als quasi für Schutzräume im Katastrophenfall.
+
+01:01:19.805 --> 01:01:23.973
+<v Stefan Pelzer>Und ich habe gesagt, ey Leute, das ist auch halt mein Computer.
+
+01:01:24.182 --> 01:01:27.206
+<v Stefan Pelzer>Ich bin hier so im Katastrophenschutzkonzept benannt.
+
+01:01:27.880 --> 01:01:32.674
+<v Stefan Pelzer>Und da sind 70.000 Leute auf einer Veranstaltungsfläche. Und wenn hier Schutzräume,
+
+01:01:32.971 --> 01:01:35.641
+<v Stefan Pelzer>dann kann ich nicht richtig arbeiten ohne meinen Computer.
+
+01:01:37.494 --> 01:01:39.794
+<v Stefan Pelzer>Und dann die Berliner Polizisten auch wieder so ein bisschen unruhig.
+
+01:01:41.154 --> 01:01:42.426
+<v Stefan Pelzer>Was machen wir hier gerade?
+
+01:01:42.878 --> 01:01:48.765
+<v Stefan Pelzer>Und am Schluss hat der Chemnitzer Polizist gesagt, nee, den Computer nehmen wir mit.
+
+01:01:49.223 --> 01:01:52.410
+<v Stefan Pelzer>Und das Argument, warum, war, sonst haben wir doch gar nichts hier.
+
+01:01:54.877 --> 01:01:58.645
+<v Stefan Pelzer>Und am selben Abend hat es hier einen Waldbrand gegeben auf dem Festivalgelände.
+
+01:01:59.147 --> 01:02:00.027
+<v Linus Neumann>Ne, außerhalb des Festivals.
+
+01:02:00.027 --> 01:02:02.307
+<v Stefan Pelzer>Da haben wir sehr viel Wert drauf gelegt. Evakuierung und so.
+
+01:02:03.167 --> 01:02:06.517
+<v Stefan Pelzer>Evakuierung und alles. Und ich sag dir, an dem Abend war denen nicht gut zumute,
+
+01:02:06.517 --> 01:02:09.447
+<v Stefan Pelzer>als sie das auf tagesschau.de gelesen haben, dass sie hier dem,
+
+01:02:09.447 --> 01:02:12.180
+<v Stefan Pelzer>der die Schutzräume stellt, seinen Computer morgens weggenommen haben.
+
+01:02:12.345 --> 01:02:14.370
+<v Stefan Pelzer>Wegen 50 Tagessätzen.
+
+01:02:16.019 --> 01:02:21.837
+<v Stefan Pelzer>Und genau. Und jetzt ist dann so, was ist der Effekt? Ich hab ihn ja seit zwei,
+
+01:02:21.837 --> 01:02:23.026
+<v Stefan Pelzer>drei, vier Tagen wieder.
+
+01:02:23.444 --> 01:02:30.057
+<v Stefan Pelzer>Und der steht auch in der Akte, ja, mit den hier, das haben wir den versucht
+
+01:02:30.057 --> 01:02:33.597
+<v Stefan Pelzer>zu erklären, Leute, das ist ein M4 verschlüsseltes MacBook, ihr könnt da nichts
+
+01:02:33.597 --> 01:02:36.505
+<v Stefan Pelzer>mit anfangen, wenn wir euch das Passwort nicht sagen.
+
+01:02:36.898 --> 01:02:40.457
+<v Stefan Pelzer>Ja, egal, nehmen wir mit, an der Akte steht genau das drin, kann mit den hier
+
+01:02:40.457 --> 01:02:42.483
+<v Stefan Pelzer>zur Verfügung stehenden Mitteln nichts gemacht werden.
+
+01:02:42.820 --> 01:02:49.247
+<v Stefan Pelzer>Also, Leute, guter Computer, Verschlüsselung und gutes Passwort.
+
+01:02:51.447 --> 01:02:52.227
+<v Stefan Pelzer>Dann beißt sich die...
+
+01:02:52.227 --> 01:02:52.707
+<v Linus Neumann>Hey, Ringo!
+
+01:02:53.027 --> 01:02:53.407
+<v Stefan Pelzer>Hey Ringo.
+
+01:02:56.577 --> 01:03:01.367
+<v Stefan Pelzer>So, das ist die Schiene, das habe ich wieder. Aber zu Problemen.
+
+01:03:01.727 --> 01:03:05.967
+<v Linus Neumann>Ich will erstmal nochmal wirklich zusammenfassen, wie völlig irrsinnig das ist,
+
+01:03:05.967 --> 01:03:08.050
+<v Linus Neumann>dass jemand einen Beweis liefert,
+
+01:03:08.532 --> 01:03:11.827
+<v Linus Neumann>nicht im Land gewesen zu sein und dann kriegst du eine Hausdurchsuchung mit
+
+01:03:11.827 --> 01:03:15.527
+<v Linus Neumann>Beschlagnahme deines Rechners, weil sie irgendwie beweisen wollen,
+
+01:03:15.527 --> 01:03:17.083
+<v Linus Neumann>wie du doch da gewesen bist. Also,
+
+01:03:20.647 --> 01:03:23.190
+<v Linus Neumann>das... Ich... Stefan und ich haben gestritten,
+
+01:03:28.496 --> 01:03:31.764
+<v Linus Neumann>über die Ankündigung dieser Veranstaltung im Attention-Programm.
+
+01:03:32.263 --> 01:03:37.250
+<v Linus Neumann>Wo gesagt wird, dass wir die Polizei lächerlich machen.
+
+01:03:37.975 --> 01:03:42.307
+<v Linus Neumann>Und ich bin echt der feste Überzeugung, dass die Polizei sich doch hier lächerlich macht.
+
+01:03:44.185 --> 01:03:49.924
+<v Linus Neumann>Also es sind himmelschreiende Rechtsmissbräuche und Willkürhandlungen,
+
+01:03:49.924 --> 01:03:51.941
+<v Linus Neumann>die wir hier von der Polizei Chemnitz sehen.
+
+01:03:52.246 --> 01:03:54.994
+<v Linus Neumann>Ich bin da wirklich erschüttert. Ich finde das lustig, hier drüber zu lachen
+
+01:03:54.994 --> 01:03:59.834
+<v Linus Neumann>und so. Und ich finde das auch wichtig, auch dieses Zeichen zu setzen,
+
+01:03:59.834 --> 01:04:02.724
+<v Linus Neumann>dass man sich davon nicht unterkriegen lässt. Da könnt ihr mal kurz applaudieren
+
+01:04:02.724 --> 01:04:05.381
+<v Linus Neumann>für Stefan und alle SupporterInnen.
+
+01:04:11.184 --> 01:04:11.846
+<v Linus Neumann>Aber das ist...
+
+01:04:14.058 --> 01:04:17.935
+<v Linus Neumann>Wahnsinn. Was erlaube Chemnitz?
+
+01:04:18.977 --> 01:04:19.974
+<v Tim Pritlove>Also was haben...
+
+01:04:19.974 --> 01:04:21.454
+<v Linus Neumann>Was sagt eigentlich Thomas Gottschalk dazu?
+
+01:04:21.814 --> 01:04:26.154
+<v Tim Pritlove>Was treibt... Hast du mal... Hast du wahrscheinlich...
+
+01:04:28.094 --> 01:04:32.884
+<v Tim Pritlove>Was geht denn da ab? Das ist ja alles schon auf einem Level,
+
+01:04:32.884 --> 01:04:33.884
+<v Tim Pritlove>wo man jetzt nicht sagt, das ist
+
+01:04:33.884 --> 01:04:38.414
+<v Tim Pritlove>jetzt pure Inkompetenz und die sind jetzt irrlichternd und die haben alle,
+
+01:04:38.974 --> 01:04:43.674
+<v Tim Pritlove>ihre Ausbildung irgendwie vergessen und sind nicht in der Lage, also das ist ja...
+
+01:04:44.314 --> 01:04:46.994
+<v Stefan Pelzer>Es ist Rechtsmissbrauch, also es ist quasi eine Polizei und da kann,
+
+01:04:46.994 --> 01:04:50.087
+<v Stefan Pelzer>das ist jetzt eine dunkle Vision, die ich da leider für euch hab,
+
+01:04:50.557 --> 01:04:55.230
+<v Stefan Pelzer>weil es ist so, da könnt, wenn ihr das als Geschmack mal, wie Leute quasi sagen,
+
+01:04:55.433 --> 01:04:59.096
+<v Stefan Pelzer>hey, wir haben hier so einen persönlichen Fight, weil sich einer nicht unterkriegen lässt.
+
+01:04:59.416 --> 01:05:02.654
+<v Stefan Pelzer>Also, da ist einer, der gibt mir einfach konstant, statt zu sagen,
+
+01:05:02.654 --> 01:05:05.954
+<v Stefan Pelzer>das ist ja mein negatives Nachtatverhalten, was mir so zur Last gelegt wird.
+
+01:05:06.834 --> 01:05:10.174
+<v Linus Neumann>Das negative Nachtatverhalten, da musst du echt mal dran arbeiten.
+
+01:05:10.174 --> 01:05:15.104
+<v Stefan Pelzer>Stefan. Deswegen würde mein Bußgeld erhöht um 170 Euro, weil ich halt nach dieser
+
+01:05:15.104 --> 01:05:17.454
+<v Stefan Pelzer>Beschlagnahmung, das steht auch in meinem Bußgeldbescheid,
+
+01:05:18.147 --> 01:05:22.614
+<v Stefan Pelzer>steht drin, wegen meinem negativen Nachtatverhalten würde das angemessen von
+
+01:05:22.614 --> 01:05:29.724
+<v Stefan Pelzer>250 auf 390 Euro erhöht, weil ich eine Pappfigur mit dem Polizisten auf Veranstaltungen
+
+01:05:29.724 --> 01:05:33.043
+<v Stefan Pelzer>vorzeige, die Polizeiarbeit lächerlich mache und so weiter und so fort.
+
+01:05:33.378 --> 01:05:36.131
+<v Stefan Pelzer>Aber die sind richtig angepisst davon, dass einer sich nicht unterkriegen lässt,
+
+01:05:36.601 --> 01:05:41.534
+<v Stefan Pelzer>und nutzen dann alle Mittel des Staates, um so eine Geschichte, ihr habt es ja gesehen.
+
+01:05:42.678 --> 01:05:48.458
+<v Stefan Pelzer>Also zeigt doch mal, beim CSD in Bautzen sind Nazis, die zeigen Hitlergruß.
+
+01:05:50.398 --> 01:05:54.898
+<v Stefan Pelzer>In Spiegel TV dokumentiert. Was meint ihr, was für Anstrengungen da unternommen wurden?
+
+01:05:55.618 --> 01:05:58.949
+<v Stefan Pelzer>Meint ihr, da hat es Hausdurchsuchungen gegeben, um richtige Strafverfolgung?
+
+01:05:59.240 --> 01:06:01.588
+<v Stefan Pelzer>Und es geht hier wirklich darum, den verfolgen wir jetzt selektiv,
+
+01:06:01.588 --> 01:06:04.758
+<v Stefan Pelzer>weil der widerspricht uns und macht uns lächerlich.
+
+01:06:05.798 --> 01:06:07.314
+<v Stefan Pelzer>Der verarscht uns eigentlich. ich.
+
+01:06:09.694 --> 01:06:13.188
+<v Stefan Pelzer>Und dort sind Polizisten, die nutzen die gesamte Macht des Staates,
+
+01:06:13.426 --> 01:06:17.478
+<v Stefan Pelzer>die ihnen eigentlich zur Verfügung steht, um Terroristen zu jagen oder in dem Fall Tuner.
+
+01:06:19.794 --> 01:06:25.178
+<v Stefan Pelzer>Aber der Polizei gegeben wurde vom Volk und von unseren demokratischen Institutionen,
+
+01:06:25.178 --> 01:06:30.266
+<v Stefan Pelzer>die haben ja bestimmte Mächte bekommen und mit denen müssen sie vorsichtig umgehen,
+
+01:06:30.545 --> 01:06:33.848
+<v Stefan Pelzer>das mildeste Mittel, Interessen abwägen,
+
+01:06:34.684 --> 01:06:38.532
+<v Stefan Pelzer>das Ganze zum guten Ende führen, Strafen Straftaten verfolgen.
+
+01:06:38.956 --> 01:06:46.061
+<v Stefan Pelzer>Und stattdessen sind die so blind, wütend und nutzen ihr gesamtes Werkzeug,
+
+01:06:47.263 --> 01:06:52.978
+<v Stefan Pelzer>Durchsuchungsbeschlüsse über Bundesländer, Auskunftsersuchen an amerikanische Konzerne, KLM,
+
+01:06:55.318 --> 01:06:58.356
+<v Stefan Pelzer>Flugdatenauskunft, Beschlagnahmung von Laptop und so weiter.
+
+01:06:58.670 --> 01:07:02.488
+<v Stefan Pelzer>Und sammeln auch so, dass alle mich möglichst anzeigen. Die laufen rum und sagen,
+
+01:07:02.488 --> 01:07:03.418
+<v Stefan Pelzer>alle müssen den anzeigen.
+
+01:07:03.646 --> 01:07:08.858
+<v Linus Neumann>Zum Beispiel Thomas Gottschalk. Die haben eine E-Mail an Thomas Gottschalk.
+
+01:07:08.858 --> 01:07:11.198
+<v Linus Neumann>Man schreibt nicht einfach eine E-Mail an Thomas Gottschalk.
+
+01:07:11.198 --> 01:07:14.476
+<v Stefan Pelzer>Also, ja. Wir gucken jetzt alle hier Stirnrunzeln her.
+
+01:07:14.719 --> 01:07:16.598
+<v Stefan Pelzer>Aber dieses Video war ja Thomas Gottschalk. Wir
+
+01:07:16.598 --> 01:07:21.256
+<v Stefan Pelzer>haben also ein Thomas Gottschalk-Wetten-das-Video gemacht. Kunst! Kunst!
+
+01:07:22.185 --> 01:07:26.649
+<v Stefan Pelzer>Und der Polizist, der später dann in meiner Wohnung stand...
+
+01:07:27.736 --> 01:07:28.428
+<v Linus Neumann>Wie hieß der nochmal?
+
+01:07:28.428 --> 01:07:30.628
+<v Stefan Pelzer>Der hieß Manuel Müller.
+
+01:07:30.628 --> 01:07:31.218
+<v Linus Neumann>Manuel Müller.
+
+01:07:31.218 --> 01:07:34.108
+<v Stefan Pelzer>Genau. Und wir dürfen das ja hier überhaupt gar nicht zeigen.
+
+01:07:35.392 --> 01:07:37.519
+<v Linus Neumann>Aber der hat eine E-Mail an den Herrn Gottschalk geschrieben.
+
+01:07:37.519 --> 01:07:41.559
+<v Stefan Pelzer>Genau, und hat gesagt, ich würde ihn dort in der öffentlichen Meinung herabwürdigen
+
+01:07:41.559 --> 01:07:44.255
+<v Stefan Pelzer>mit diesem Video. Und es ist rechtlich gesehen so.
+
+01:07:44.737 --> 01:07:49.091
+<v Stefan Pelzer>Erstens Staatsanwalt. Also wenn es eine Straftat gab, dann darf ein Staatsanwalt,
+
+01:07:49.242 --> 01:07:54.399
+<v Stefan Pelzer>falls die Person, die betroffen ist, das nicht weiß, darf ein Staatsanwalt die informieren.
+
+01:07:54.719 --> 01:07:57.399
+<v Stefan Pelzer>Also euch wurde eine Straftat angetan.
+
+01:07:58.094 --> 01:08:02.227
+<v Stefan Pelzer>Ihr wisst es aber gar nicht. Aber die Polizei hat es aber ermittelt und der Staatsanwalt weiß es.
+
+01:08:02.541 --> 01:08:06.279
+<v Stefan Pelzer>Dann darf der Staatsanwalt euch informieren. hey Tim, gegen dich gibt es hier
+
+01:08:06.279 --> 01:08:09.395
+<v Stefan Pelzer>eine Straftat, dass du weißt, du kannst das anzeigen.
+
+01:08:09.970 --> 01:08:13.935
+<v Stefan Pelzer>So, aber erstens, er ist kein Staatsanwalt, sondern ein Polizist.
+
+01:08:14.521 --> 01:08:16.779
+<v Stefan Pelzer>Also, schau mal, nicht seine Baustelle.
+
+01:08:17.400 --> 01:08:25.189
+<v Tim Pritlove>Zweitens schreibt er, ich bitte Sie daher, umgehend den beiliegenden Strafantrag
+
+01:08:25.189 --> 01:08:28.589
+<v Tim Pritlove>auszufüllen und mir wieder per E-Mail zukommen zu lassen.
+
+01:08:28.589 --> 01:08:34.513
+<v Stefan Pelzer>An Thomas Gottschalk. Ja, aber das Schlimme ist, Thomas Gottschalk reagiert nicht.
+
+01:08:34.787 --> 01:08:38.879
+<v Linus Neumann>Und dann schreibt er eine zweite E-Mail.
+
+01:08:41.473 --> 01:08:47.949
+<v Tim Pritlove>Sehr geehrte Damen und Herren, ich bitte dringend um Bearbeitung meines polizeilichen Ersuchens.
+
+01:08:47.949 --> 01:08:53.944
+<v Linus Neumann>Dringend fett unterstrichen und kursiv. Alle Knöpfe, die das E-Mail-Programm hat.
+
+01:08:55.364 --> 01:08:56.019
+<v Tim Pritlove>Vielen Dank.
+
+01:08:56.019 --> 01:09:00.769
+<v Linus Neumann>Priorität hoch. Meines polizeilichen Ersuchens.
+
+01:09:00.769 --> 01:09:04.559
+<v Stefan Pelzer>Lies mal unten. Was ist das Motto der Polizei Chemnitz?
+
+01:09:04.559 --> 01:09:06.790
+<v Linus Neumann>Professionalität, Toleranz, Verantwortung.
+
+01:09:13.248 --> 01:09:17.931
+<v Linus Neumann>Aber das ist ja auch so ein schönes Spiel mit den Vokabeln. Dringend um Bearbeitung
+
+01:09:17.931 --> 01:09:21.851
+<v Linus Neumann>meines polizeilichen Ersuchens. Alter, du bellst, dass Thomas Gottschalk das
+
+01:09:21.851 --> 01:09:24.136
+<v Linus Neumann>Zentrum für politische Schönheit anzeigt.
+
+01:09:24.356 --> 01:09:27.471
+<v Linus Neumann>Das ist kein polizeiliches Ersuchen, was der bearbeiten muss.
+
+01:09:27.471 --> 01:09:31.134
+<v Stefan Pelzer>Ich kann euch beruhigen, Thomas Gottschalk hat auch darauf nicht geantwortet.
+
+01:09:32.945 --> 01:09:37.401
+<v Stefan Pelzer>Aber da sieht man auch, das ist nicht normale Polizeiarbeit,
+
+01:09:37.401 --> 01:09:39.494
+<v Stefan Pelzer>sondern das ist schwarz auf weiß,
+
+01:09:43.531 --> 01:09:46.121
+<v Stefan Pelzer>Mittel, die überhaupt nicht zulässig sind in einem Strafverband.
+
+01:09:46.121 --> 01:09:49.221
+<v Stefan Pelzer>Das sagt übrigens auch, könnt ihr euch angucken, tagesschau.de hat jetzt gerade
+
+01:09:49.221 --> 01:09:52.538
+<v Stefan Pelzer>berichtet, die sind auch irgendwie an diese Akte gekommen, ich habe keine Ahnung wie.
+
+01:09:54.731 --> 01:09:55.761
+<v Linus Neumann>Von dem YouTuber.
+
+01:09:55.761 --> 01:10:02.098
+<v Stefan Pelzer>Genau, wahrscheinlich vom YouTuber, genau. Und die haben auch dazu die Staatsanwaltschaft angefragt.
+
+01:10:04.131 --> 01:10:08.531
+<v Stefan Pelzer>Was sagen sie dazu, wenn so ein Polizist an Thomas Gottschalk da eine E-Mail
+
+01:10:08.531 --> 01:10:12.826
+<v Stefan Pelzer>schreibt und sagt, er soll jetzt hier dringend den Strafbefehl ausschönen,
+
+01:10:13.041 --> 01:10:14.611
+<v Stefan Pelzer>da haben die darauf geantwortet, das kann ja gar nicht sein,
+
+01:10:14.611 --> 01:10:15.691
+<v Stefan Pelzer>das wäre ja gar nicht zulässig.
+
+01:10:20.771 --> 01:10:22.536
+<v Stefan Pelzer>Ja, so geht's Sächsisch.
+
+01:10:23.405 --> 01:10:32.051
+<v Tim Pritlove>Sag mal, diese, ich meine, hast du den Eindruck, dass all diese ganze Aktivität
+
+01:10:32.051 --> 01:10:37.309
+<v Tim Pritlove>allein aus dem Polizeiapparat herauskommt, weil ich meine, die unterstehen ja auch nochmal Behörden.
+
+01:10:38.469 --> 01:10:42.897
+<v Tim Pritlove>Da ist ja sozusagen noch ein politischer Überbau, der letztlich ja auch die
+
+01:10:42.897 --> 01:10:47.199
+<v Tim Pritlove>Aufgabe hat, die Arbeit der Polizei zu kontrollieren, beziehungsweise deren
+
+01:10:47.506 --> 01:10:49.917
+<v Tim Pritlove>Maßnahmen, Methodik etc.
+
+01:10:50.657 --> 01:10:52.588
+<v Tim Pritlove>In irgendeiner Form auch eine Linie zu geben.
+
+01:10:52.960 --> 01:10:56.467
+<v Stefan Pelzer>Ja, man muss jetzt sagen, da gibt es eigentlich das Parlament.
+
+01:10:56.467 --> 01:11:01.654
+<v Stefan Pelzer>Es gibt auch ein Innenministerium. Ja, Innenminister, das ist der Schuster in Sachsen.
+
+01:11:02.797 --> 01:11:07.337
+<v Stefan Pelzer>Sehr polizeifreundlich, also sehr unkritisch. Und dann gibt es den Landtag,
+
+01:11:07.337 --> 01:11:09.944
+<v Stefan Pelzer>der da Kontrolle ausübt. Es gibt natürlich Ausschüsse und so weiter.
+
+01:11:10.316 --> 01:11:18.813
+<v Stefan Pelzer>Und man muss dazu sagen, jetzt gerade sieht die Polizei Sachsen nicht gut aus in der Angelegenheit.
+
+01:11:19.597 --> 01:11:20.857
+<v Stefan Pelzer>Wirklich? Ja, also jetzt gerade...
+
+01:11:23.528 --> 01:11:26.297
+<v Linus Neumann>Mit der nächsten Beschlagnahme wird das alles in Ordnung kommen.
+
+01:11:27.157 --> 01:11:31.217
+<v Stefan Pelzer>Ja, weil der Fall ist jetzt öffentlich. Aber auch das ist wieder nur,
+
+01:11:31.217 --> 01:11:33.737
+<v Stefan Pelzer>weil wir das halt gegen die durchziehen gerade.
+
+01:11:34.823 --> 01:11:37.707
+<v Stefan Pelzer>Bisher war immer so, ne die Polizei ist unabhängig, die dürfen das so machen
+
+01:11:37.707 --> 01:11:41.317
+<v Stefan Pelzer>und so weiter und das lag ja alles verschlossen, also diese Akten sind bei uns
+
+01:11:41.317 --> 01:11:46.642
+<v Stefan Pelzer>erst vor drei Wochen eingegangen auch, dass man so krass sehen kann was die eigentlich da treiben,
+
+01:11:47.617 --> 01:11:51.117
+<v Stefan Pelzer>und jetzt gerade mit der Berichterstattung der aktuellen Woche glaube ich,
+
+01:11:51.117 --> 01:11:54.977
+<v Stefan Pelzer>dass die Luft gerade relativ, also die Stimmung ist schlecht glaube ich,
+
+01:11:56.677 --> 01:12:00.957
+<v Stefan Pelzer>bei der Polizei, vor allem auch hatten wir in anderen Fällen in ganz anderen
+
+01:12:00.957 --> 01:12:05.659
+<v Stefan Pelzer>Angelegenheiten über Netzwerke und auch Journalisten Kontakt zu,
+
+01:12:06.373 --> 01:12:09.345
+<v Stefan Pelzer>Empfängern dieser Handlungsanleitung, weil wir müssen ja überprüfen,
+
+01:12:09.804 --> 01:12:13.831
+<v Stefan Pelzer>ob Carsten Kempf seinen Pflichten nachkommt und das widerruft alles und so weiter.
+
+01:12:14.510 --> 01:12:18.794
+<v Stefan Pelzer>Und dort wurde, in einem anderen Bundesland, wurde von einem Polizeipräsidenten,
+
+01:12:19.247 --> 01:12:22.337
+<v Stefan Pelzer>bei der AG Einsatz, das ist das, wo diese Handlungsanweisung hinging,
+
+01:12:22.337 --> 01:12:27.637
+<v Stefan Pelzer>die illegale, nachgefragt, ob sie die auch bekommen haben. Hat der AG Einsatz
+
+01:12:27.637 --> 01:12:28.878
+<v Stefan Pelzer>der Leiter da gesagt, ja, haben wir.
+
+01:12:29.812 --> 01:12:32.317
+<v Stefan Pelzer>Dann wurde gefragt, haben wir die weitergeleitet, Um zu klären,
+
+01:12:32.317 --> 01:12:35.188
+<v Stefan Pelzer>müssen wir jetzt auch zurückrufen. Und dann war die Antwort,
+
+01:12:36.209 --> 01:12:39.579
+<v Stefan Pelzer>Nee, haben wir nicht. Die Polizeidirektion Chemnitz nimmt in Sachen Adenauer
+
+01:12:39.579 --> 01:12:40.659
+<v Stefan Pelzer>keiner mehr für voll hier.
+
+01:12:44.919 --> 01:12:46.379
+<v Stefan Pelzer>Also weil die selber so prüfen müssen.
+
+01:12:50.443 --> 01:12:53.485
+<v Stefan Pelzer>Also die sehen nicht gut aus gerade, das muss man sagen.
+
+01:12:53.711 --> 01:12:57.009
+<v Stefan Pelzer>Die sind, wir sagen, das ist ein bisschen sturmreif geschossen auch mit den
+
+01:12:57.009 --> 01:12:58.029
+<v Stefan Pelzer>ganzen Fristen jetzt und so weiter.
+
+01:12:58.029 --> 01:13:02.069
+<v Stefan Pelzer>Aber es ist trotzdem, das ist trotzdem, das ist das Ende, oder vielleicht das
+
+01:13:02.069 --> 01:13:08.918
+<v Stefan Pelzer>Ende, vielleicht auch nicht, einer zermürbenden Auseinandersetzung für uns.
+
+01:13:09.779 --> 01:13:13.409
+<v Stefan Pelzer>Weil wir haben da keinen Bock drauf. Das ist das Ding. Die haben da Bock drauf
+
+01:13:13.409 --> 01:13:17.666
+<v Stefan Pelzer>und die sitzen da mit ihrem, die werden da bezahlt, haben ihr Beamten-Ding und schreiben da.
+
+01:13:17.987 --> 01:13:22.139
+<v Stefan Pelzer>Derselbe Manuel Müller, oder wie er heißt, der Polizeibeamte,
+
+01:13:22.139 --> 01:13:24.179
+<v Stefan Pelzer>der in meiner Wohnung stand und meinen Computer mitgenommen hat,
+
+01:13:24.179 --> 01:13:26.933
+<v Stefan Pelzer>weil sonst haben wir ja sonst nichts. Sonst haben wir ja gar nichts hier.
+
+01:13:27.719 --> 01:13:28.379
+<v Linus Neumann>Die haben ja auch nix.
+
+01:13:28.699 --> 01:13:32.378
+<v Stefan Pelzer>Die haben ja nix. Wir hatten ja nix. Wir hatten ja nix.
+
+01:13:33.021 --> 01:13:38.059
+<v Stefan Pelzer>Der selber hat so eingesammelt, Strafanzeigen gegen mich, von allen möglichen
+
+01:13:38.059 --> 01:13:41.833
+<v Stefan Pelzer>seiner Kollegen, weil wir ein YouTube-Video produziert haben, wo die drauf waren.
+
+01:13:42.065 --> 01:13:45.653
+<v Stefan Pelzer>Und hat dann von allen möglichen Leuten, die da dabei waren in der Situation,
+
+01:13:45.919 --> 01:13:49.429
+<v Stefan Pelzer>einfach so, ich stelle Strafantrag wegen allen möglichen Dingen,
+
+01:13:49.429 --> 01:13:50.372
+<v Stefan Pelzer>die da vorkommen können.
+
+01:13:50.675 --> 01:13:54.731
+<v Stefan Pelzer>Und dann leitet er die weiter mit Smiley dran. Heute kommen noch fünf Smiley.
+
+01:13:56.619 --> 01:14:00.648
+<v Stefan Pelzer>Also es ist ein zermürbender Kampf und jetzt stehen wir quasi so am Ende dieser Auseinandersetzung.
+
+01:14:01.326 --> 01:14:05.246
+<v Tim Pritlove>Hast du auch von anderen beteiligten Behörden da irgendwie Feedback bekommen,
+
+01:14:05.246 --> 01:14:07.686
+<v Tim Pritlove>die müssen sich doch auch alle irgendwie völlig bekloppt vorkommen.
+
+01:14:07.686 --> 01:14:11.816
+<v Tim Pritlove>Beim Labo in Berlin, da bei der Zulassungsbehörde, die kriegen doch irgendwie
+
+01:14:11.816 --> 01:14:14.026
+<v Tim Pritlove>alle naselange immer wieder dieselbe Frage gestellt.
+
+01:14:14.026 --> 01:14:16.856
+<v Stefan Pelzer>Also ich darf nicht aus meinen internen Gesprächen mit dem Labo,
+
+01:14:16.856 --> 01:14:18.556
+<v Stefan Pelzer>aber die Quintessenz ist die Nerven.
+
+01:14:18.556 --> 01:14:18.906
+<v Tim Pritlove>Ja.
+
+01:14:18.906 --> 01:14:24.256
+<v Stefan Pelzer>Also die nerven auch das Labo, das nervt das Labo und die sehen das auch so,
+
+01:14:24.256 --> 01:14:27.866
+<v Stefan Pelzer>die sehen halt so, hey, ihr seid nicht zuständig. Also ihr seid nicht zuständig,
+
+01:14:27.866 --> 01:14:30.008
+<v Stefan Pelzer>wir sind zuständig. Das heißt, wir prüfen.
+
+01:14:30.629 --> 01:14:32.498
+<v Stefan Pelzer>Und wir haben jetzt alles geprüft.
+
+01:14:33.281 --> 01:14:36.966
+<v Stefan Pelzer>Und es ist fertig geprüft auch. Es ist jetzt fertig geprüft.
+
+01:14:38.076 --> 01:14:42.076
+<v Stefan Pelzer>Und das ist die Position des Labo. Wir haben das so formuliert,
+
+01:14:42.076 --> 01:14:45.988
+<v Stefan Pelzer>als wir es nochmal geprüft haben. Haben wir eine gemeinsame Formulierung gefunden.
+
+01:14:46.332 --> 01:14:51.766
+<v Stefan Pelzer>Und die heißt, damit setzen wir einen Schlussstrich unter die zulassungsrechtlichen
+
+01:14:51.766 --> 01:14:55.616
+<v Stefan Pelzer>Fragen rund um diesen Bus. Und dann wurde bestätigt, genau so machen wir das.
+
+01:14:55.616 --> 01:14:58.916
+<v Stefan Pelzer>Und seitdem ist klar, das ist fertig geprüft.
+
+01:14:58.916 --> 01:15:01.106
+<v Tim Pritlove>Und gehst du jetzt davon aus, dass du es nicht mehr beschlagen haben wirst?
+
+01:15:01.106 --> 01:15:01.366
+<v Linus Neumann>Nein.
+
+01:15:01.786 --> 01:15:05.606
+<v Stefan Pelzer>Doch, ich gehe eigentlich davon aus, weil gerade im Moment erstens bin ich Rechtsstaatverliebt
+
+01:15:05.606 --> 01:15:08.626
+<v Stefan Pelzer>sozusagen. Ich glaube an das Gute im Rechtsstaat.
+
+01:15:10.286 --> 01:15:14.766
+<v Stefan Pelzer>Und es ist tatsächlich so, dass im Moment es so ist, also auch wegen der medialen
+
+01:15:14.766 --> 01:15:19.442
+<v Stefan Pelzer>Berichterstattung, aber jetzt gerade hat glaube ich keine Polizei mehr richtig Bock auf das Ding.
+
+01:15:19.743 --> 01:15:23.377
+<v Stefan Pelzer>Das merke ich daran, dass wir in Sachsen-Anhalt angehalten werden von der Polizei.
+
+01:15:24.120 --> 01:15:28.406
+<v Stefan Pelzer>Und die Scheibe runter und dann kommt, keine Sorge, wir wollen euch nicht kontrollieren.
+
+01:15:33.466 --> 01:15:35.686
+<v Stefan Pelzer>Wir bringen euch nur zum Einsatzort.
+
+01:15:39.286 --> 01:15:44.576
+<v Stefan Pelzer>Oh Mann, hast du so weich gespürt. Genau, aber das ist ein extremst langer Weg gewesen dahin.
+
+01:15:44.576 --> 01:15:45.786
+<v Tim Pritlove>Auf jeden Fall.
+
+01:15:49.627 --> 01:15:50.098
+<v Stefan Pelzer>Okay.
+
+01:15:53.993 --> 01:16:00.310
+<v Linus Neumann>Dieser lange Weg hat ja Kosten auf beiden Seiten. Der hat auf eurer Seite Kosten.
+
+01:16:00.739 --> 01:16:06.701
+<v Linus Neumann>Ich gehe davon aus, dass nicht alle Anwaltskanzleien, die beschäftigt werden, jeden Cent abrechnen.
+
+01:16:06.701 --> 01:16:09.741
+<v Stefan Pelzer>Nee, viele laufen pro bono, viele laufen zu sehr günstigen Tarifen.
+
+01:16:10.421 --> 01:16:14.470
+<v Stefan Pelzer>Es ist immer sehr wichtig, dass bei uns echt große Kanzleien,
+
+01:16:14.813 --> 01:16:17.241
+<v Stefan Pelzer>am besten steht Kanzlei des Jahres irgendwo rechts oder sowas,
+
+01:16:17.241 --> 01:16:19.271
+<v Stefan Pelzer>weil das einfach schon den Eindruck gut macht.
+
+01:16:19.678 --> 01:16:23.561
+<v Stefan Pelzer>Aber es verursacht Kosten. Aber auf der Staatsseite, wir haben jetzt geschätzt,
+
+01:16:23.941 --> 01:16:29.941
+<v Stefan Pelzer>dass die Staatsseite bei ungefähr 700.000 Euro ist und wir sind trotzdem auch bei 100.000.
+
+01:16:32.701 --> 01:16:36.251
+<v Stefan Pelzer>Aber das Interessante ist auch für den Staat, das ist nämlich auch so eine Mäßigung
+
+01:16:36.251 --> 01:16:40.698
+<v Stefan Pelzer>dann für den Staat, dass wir ja dreimal irgendwelche Beschlagnahmen oder Gerichtsverfahren hatten.
+
+01:16:41.070 --> 01:16:42.611
+<v Stefan Pelzer>Und dann ist es ganz lustig, weil
+
+01:16:42.611 --> 01:16:45.074
+<v Stefan Pelzer>ihr kriegt dann so einen, ich bin ja der Beschuldigte, ich bin der Halter.
+
+01:16:46.260 --> 01:16:50.309
+<v Stefan Pelzer>Und dann ist das Fahrzeug angeblich verkehrsunsicher. Dann kriegst du einen
+
+01:16:50.309 --> 01:16:54.359
+<v Stefan Pelzer>Bußgeldbescheid und da steht dann so drin, sie erlaubten, dass ein Fahrzeug
+
+01:16:54.359 --> 01:16:57.555
+<v Stefan Pelzer>in Betrieb genommen wurde, das nicht sicher war.
+
+01:16:58.889 --> 01:17:02.930
+<v Stefan Pelzer>Bußgeld 250 Euro, ein Punkt in Flensburg,
+
+01:17:03.749 --> 01:17:08.549
+<v Stefan Pelzer>negatives Nachtatverhalten nochmal 100 oder 150 und dann kommt so,
+
+01:17:08.549 --> 01:17:14.331
+<v Stefan Pelzer>Verfahrensnebenkosten 12.876 Euro. Ja, genau.
+
+01:17:15.189 --> 01:17:19.549
+<v Stefan Pelzer>Weil abschleppen, Begutachtung, pipapo und das ist interessant,
+
+01:17:19.549 --> 01:17:24.049
+<v Stefan Pelzer>weil das landet bei mir, aber wir greifen das ja an und das ist jetzt in Brandenburg
+
+01:17:24.049 --> 01:17:25.539
+<v Stefan Pelzer>einmal passiert, wer hat es bezahlt?
+
+01:17:25.539 --> 01:17:29.619
+<v Stefan Pelzer>Der Brandenburger Steuerzahler am Ende in Berlin einmal passiert, wer hat es bezahlt?
+
+01:17:29.619 --> 01:17:35.149
+<v Stefan Pelzer>Der Berliner Steuerzahler in Berliner Steuerzahler in, genau und jetzt in Sachsen
+
+01:17:35.589 --> 01:17:38.749
+<v Stefan Pelzer>gibt es den ultimativen Showdown zum Thema 18.11.
+
+01:17:38.749 --> 01:17:42.389
+<v Stefan Pelzer>Save the Date weil wir es jetzt das erste Mal vor Gericht schaffen damit,
+
+01:17:42.389 --> 01:17:46.189
+<v Stefan Pelzer>also weil vorher wurde das immer eingestellt einfach dann zu Lasten der Staatskasse,
+
+01:17:46.189 --> 01:17:47.149
+<v Stefan Pelzer>weil die keinen Bock drauf hatten.
+
+01:17:48.430 --> 01:17:51.719
+<v Stefan Pelzer>In Brandenburg wollte es auch schon durchziehen. Die haben so gesagt,
+
+01:17:51.719 --> 01:17:54.047
+<v Stefan Pelzer>hey, wir setzen den Termin an, eine Stunde.
+
+01:17:54.686 --> 01:17:57.789
+<v Stefan Pelzer>Und wir so, wie eine Stunde? Wir haben 15 Zeugen.
+
+01:17:58.429 --> 01:18:02.523
+<v Stefan Pelzer>Und dann so, ja, okay, dann gucken wir mal, dann vielleicht schon um neun.
+
+01:18:03.033 --> 01:18:08.289
+<v Stefan Pelzer>Und dann, nächster Tag rufen da zehn Journalisten an und wollen ihre Presseplätze schon mal abklären.
+
+01:18:10.029 --> 01:18:12.349
+<v Stefan Pelzer>Und dann hörst du, dann nimmst du, was kommt, eingestellt.
+
+01:18:14.209 --> 01:18:19.443
+<v Stefan Pelzer>Und keiner Bock drauf. Und jetzt in ... Genau.
+
+01:18:20.336 --> 01:18:24.726
+<v Stefan Pelzer>In Döbeln, 18. November, wer Bock hat, der Adenauer kommt auch.
+
+01:18:26.519 --> 01:18:31.416
+<v Stefan Pelzer>Am 18. November ist in Döbeln die Verhandlung um diese ganze Beschlagnahme Döbeln,
+
+01:18:31.416 --> 01:18:33.066
+<v Stefan Pelzer>die ja rechtswidrig war und so weiter.
+
+01:18:33.066 --> 01:18:33.716
+<v Tim Pritlove>Oh, geil.
+
+01:18:33.716 --> 01:18:36.506
+<v Stefan Pelzer>Und es ist eine Publikumsgeschichte, deswegen ich lade auch alle Hörer ein,
+
+01:18:36.506 --> 01:18:40.086
+<v Stefan Pelzer>checkt die Seite, kommt alle. Wir machen die Messe alle voll weit.
+
+01:18:41.136 --> 01:18:46.198
+<v Stefan Pelzer>Dort schaffen wir es scheinbar, scheinbar tatsächlich vor Gericht.
+
+01:18:47.081 --> 01:18:52.036
+<v Stefan Pelzer>Und wir laden unsere 10, 12 Zeugen, aber zusätzlich sind auch die Zeugen der
+
+01:18:52.036 --> 01:18:57.841
+<v Stefan Pelzer>Gegenseite also geladen, die DEKRA-Prüfer aus Chemnitz und Ringo, genau.
+
+01:18:58.846 --> 01:19:03.490
+<v Stefan Pelzer>An die habe ich wichtige Fragen. Und das Coole ist,
+
+01:19:04.207 --> 01:19:07.006
+<v Stefan Pelzer>ich habe mir das gerade erst vom Anwalt erklären lassen, zuerst darf die Richterin
+
+01:19:07.006 --> 01:19:11.246
+<v Stefan Pelzer>den Zeugen oder die Zeugin befragen, dann Staatsanwalt, falls überhaupt vor
+
+01:19:11.246 --> 01:19:14.186
+<v Stefan Pelzer>Ort, dann Verteidigungsanwalt und dann ich.
+
+01:19:15.466 --> 01:19:20.893
+<v Stefan Pelzer>So geil! Also, ich darf Ringo Schneider ins Kreuzverhör nehmen.
+
+01:19:24.799 --> 01:19:26.396
+<v Stefan Pelzer>Ja, ist doch heute schon weiter.
+
+01:19:29.879 --> 01:19:34.199
+<v Stefan Pelzer>Es wird in die Geschichte eingehen als das aufwendigste Ordnungswidrigkeitenverfahren.
+
+01:19:34.199 --> 01:19:40.019
+<v Stefan Pelzer>Es geht um 250 Euro und einen Punkt.
+
+01:19:41.379 --> 01:19:42.399
+<v Tim Pritlove>Wie viel Platz ist denn da?
+
+01:19:42.879 --> 01:19:48.259
+<v Stefan Pelzer>Weiß ich nicht, da müssen die sich drum kümmern. Aber wir machen sonst eine Leinwand davor.
+
+01:19:48.899 --> 01:19:53.666
+<v Stefan Pelzer>Mit Livestream. Genau, mit Livestream. Fanmeile.
+
+01:19:53.776 --> 01:19:55.749
+<v Tim Pritlove>Darf man sowas streamen?
+
+01:19:55.749 --> 01:19:59.849
+<v Stefan Pelzer>Das müssen wir jetzt alles klären, aber ich kann empfehlen, 18.
+
+01:19:59.849 --> 01:20:01.479
+<v Stefan Pelzer>November, save the date.
+
+01:20:01.799 --> 01:20:02.639
+<v Tim Pritlove>Livestream wäre geil.
+
+01:20:04.188 --> 01:20:05.269
+<v Linus Neumann>Ich habe noch eine Frage.
+
+01:20:05.269 --> 01:20:07.399
+<v Tim Pritlove>Das kommentieren wir dann noch direkt vorne auf dem Platz.
+
+01:20:08.286 --> 01:20:10.339
+<v Linus Neumann>Im Gerichtssaal sitzen wir einfach und kommentieren live.
+
+01:20:11.079 --> 01:20:12.359
+<v Tim Pritlove>Wie so ein Fußballspiel.
+
+01:20:12.359 --> 01:20:15.749
+<v Stefan Pelzer>Wir können auch mal anfragen, ob wir das nicht auf der Palafel machen können.
+
+01:20:15.749 --> 01:20:17.353
+<v Linus Neumann>Wie viele Verhandlungstage sind angesetzt?
+
+01:20:18.402 --> 01:20:21.779
+<v Stefan Pelzer>Ja, sie war nämlich so, das war genau das Gleiche. Die Richterin meinte 13 Uhr,
+
+01:20:22.299 --> 01:20:25.455
+<v Stefan Pelzer>und dann so, 13 Uhr und um 14 Uhr machst du Färben, das kann ja nicht sein.
+
+01:20:26.519 --> 01:20:29.849
+<v Stefan Pelzer>Und dann hat der Anwalt gesagt, ich glaube nicht, dass wir mit einem Verhandlungstag
+
+01:20:29.849 --> 01:20:31.479
+<v Stefan Pelzer>hinkommen in der Angelegenheit.
+
+01:20:33.519 --> 01:20:38.365
+<v Stefan Pelzer>Und jetzt ist es, sie hat gesagt, hm, okay, sie will es aber schon in einem durchschaffen.
+
+01:20:40.059 --> 01:20:44.399
+<v Stefan Pelzer>Aber jetzt wird es irgendwie morgens angesetzt und wir sind jetzt in Verhandlungen,
+
+01:20:44.399 --> 01:20:51.739
+<v Stefan Pelzer>aber es wird wirklich der ultimative Showdown der Gutachter und Mathematikprofessorinnen,
+
+01:20:52.399 --> 01:20:54.119
+<v Stefan Pelzer>UnfallanalytikerInnen.
+
+01:20:54.599 --> 01:20:59.119
+<v Stefan Pelzer>Das ist wirklich das ultimative Verkehrsordnungswidrigkeitenverfahren.
+
+01:21:01.719 --> 01:21:05.919
+<v Linus Neumann>Glaubst du eigentlich, dass diese Hausdurchsuchung und Beschlagnahme am Fusion
+
+01:21:05.919 --> 01:21:07.983
+<v Linus Neumann>Donnerstag, das ist ja...
+
+01:21:08.839 --> 01:21:11.971
+<v Linus Neumann>Das ist schon ein äußerst ungünstiger Tag.
+
+01:21:13.066 --> 01:21:13.484
+<v Stefan Pelzer>Nein.
+
+01:21:15.546 --> 01:21:18.036
+<v Stefan Pelzer>Also ich glaube nicht, dass das irgendwas mit was hat. Die gucken nicht,
+
+01:21:18.036 --> 01:21:20.124
+<v Stefan Pelzer>was hat der zu tun. Die haben nicht so einen Background-Check und sagen,
+
+01:21:20.369 --> 01:21:21.918
+<v Stefan Pelzer>hey, weil das war wirklich so 6 Uhr.
+
+01:21:22.666 --> 01:21:25.636
+<v Stefan Pelzer>Und wir waren halt tatsächlich seit 5 Uhr wach, weil wir haben da zu tun an
+
+01:21:25.636 --> 01:21:30.539
+<v Stefan Pelzer>dem Tag. Und ich war auf dem Klo, als die reinkamen gerade so.
+
+01:21:32.588 --> 01:21:36.999
+<v Stefan Pelzer>Aber nein, weil der Durchsuchungsbeschluss war schon 4 Wochen alt.
+
+01:21:37.296 --> 01:21:41.846
+<v Stefan Pelzer>Das ist einfach so, deutsche Behörden malen langsam und irgendwann passt dann.
+
+01:21:41.846 --> 01:21:43.936
+<v Linus Neumann>Weil die Wahrscheinlichkeit eigentlich auch relativ gering ist,
+
+01:21:43.936 --> 01:21:48.391
+<v Linus Neumann>dass sie, also ich hätte nicht gedacht, dass man dich am Future Donnerstag noch zu Hause antrifft.
+
+01:21:48.648 --> 01:21:51.163
+<v Stefan Pelzer>20 Minuten später wäre ich weg gewesen, aber das wäre schlimm gewesen,
+
+01:21:51.446 --> 01:21:52.811
+<v Stefan Pelzer>weil die wären ja trotzdem gekommen.
+
+01:21:54.146 --> 01:22:04.403
+<v Stefan Pelzer>Und genau, also das ist, ja, es war wie es war, es war sehr unangenehm und aber es war wie es war.
+
+01:22:05.432 --> 01:22:08.496
+<v Stefan Pelzer>Geiles auch, aber da muss ich noch was dazu sagen. Hier ist ja ein Computer,
+
+01:22:08.496 --> 01:22:11.242
+<v Stefan Pelzer>das ist mein Zweitcomputer und das ist der Computer, der beschlagnahmt wurde.
+
+01:22:12.820 --> 01:22:16.086
+<v Stefan Pelzer>Aber auf dem Computer hier steht vor oben, steht hier Tatwaffe drauf.
+
+01:22:18.186 --> 01:22:19.506
+<v Stefan Pelzer>Glaube ich, oder? Hier steht ja gut Tatwaffe.
+
+01:22:20.166 --> 01:22:21.516
+<v Linus Neumann>Zentrumsaufklebersatz.
+
+01:22:21.516 --> 01:22:22.586
+<v Stefan Pelzer>Haben die nicht mitgenommen.
+
+01:22:23.446 --> 01:22:24.006
+<v Linus Neumann>Tatwaffe.
+
+01:22:28.466 --> 01:22:29.140
+<v Tim Pritlove>Komisch.
+
+01:22:29.714 --> 01:22:30.841
+<v Linus Neumann>Oh Mann.
+
+01:22:31.008 --> 01:22:37.609
+<v Stefan Pelzer>Krasse Durchsuchung. Richtig gut dabei. Die können das alles richtig gut da in Camp.
+
+01:22:38.272 --> 01:22:43.093
+<v Linus Neumann>Also ihr könnt unter Hey Ringo das Computerspiel spielen, wo ihr die Akten möglichst
+
+01:22:43.093 --> 01:22:48.593
+<v Linus Neumann>schnell zu den Neonazis bringen müsst. Vor Justitia flüchten.
+
+01:22:50.421 --> 01:22:54.673
+<v Linus Neumann>Den Adenauer jagen. Die Unterlassungserklärung abgeben.
+
+01:22:54.673 --> 01:22:56.114
+<v Stefan Pelzer>Mit der Akte chatten.
+
+01:22:56.731 --> 01:22:57.593
+<v Linus Neumann>Mit der Akte chatten.
+
+01:22:57.593 --> 01:23:00.403
+<v Stefan Pelzer>Man kann ja so Mitte, es gibt eine Akten-KI, man kann, du kannst sagen,
+
+01:23:00.403 --> 01:23:02.703
+<v Stefan Pelzer>und dann kriegst du gerade eine Fragestellung, dann kommt erst immer Ringos
+
+01:23:02.703 --> 01:23:05.199
+<v Stefan Pelzer>Position und dann kommt unsere Position.
+
+01:23:05.622 --> 01:23:09.773
+<v Stefan Pelzer>Also da kommt die Faktencheck, das ist der Kern der Website.
+
+01:23:10.728 --> 01:23:15.569
+<v Linus Neumann>Ich kann nur sagen, wie viel Spaß es macht, mit diesem Fahrzeug zu fahren.
+
+01:23:16.271 --> 01:23:19.463
+<v Linus Neumann>Das war schon bei unserer ersten Folge, die Fahrt durch Berlin.
+
+01:23:19.463 --> 01:23:23.208
+<v Linus Neumann>An jeder Ampel laufen Leute vorbei und winken.
+
+01:23:24.073 --> 01:23:26.513
+<v Linus Neumann>Zuletzt sind wir am 1. Mai noch ein bisschen damit gefahren.
+
+01:23:26.513 --> 01:23:29.663
+<v Linus Neumann>Das war auch ein... Da wurde die nachher noch kontrolliert, ne?
+
+01:23:29.693 --> 01:23:30.794
+<v Linus Neumann>Da waren wir zum Glück gerade...
+
+01:23:30.990 --> 01:23:33.253
+<v Stefan Pelzer>Ja, da wurde man kontrolliert. Das war dann... Das war so...
+
+01:23:33.833 --> 01:23:35.973
+<v Stefan Pelzer>Da hat sich auch so eine Polizei halt selbstständig gemacht.
+
+01:23:35.973 --> 01:23:37.273
+<v Stefan Pelzer>Also da war eigentlich ein super Tag gehabt.
+
+01:23:37.333 --> 01:23:39.153
+<v Linus Neumann>Weil am 1. Mai wieder Nicht-Berliner in Berlin waren.
+
+01:23:39.153 --> 01:23:41.393
+<v Stefan Pelzer>Nee, das waren Berliner, aber das waren irgendwelche, die waren aggro.
+
+01:23:42.053 --> 01:23:43.412
+<v Stefan Pelzer>Da habe ich auch wieder eine Anzeige kassiert.
+
+01:23:44.593 --> 01:23:45.663
+<v Linus Neumann>Negatives Nachtartverhalten.
+
+01:23:45.663 --> 01:23:48.694
+<v Stefan Pelzer>Nee, ich habe gesagt, ihr benehmt euch hier wie besoffene Union-Hooligans.
+
+01:23:49.326 --> 01:23:50.313
+<v Tim Pritlove>Was soll das denn heißen?
+
+01:23:54.453 --> 01:23:56.173
+<v Linus Neumann>Zwei Bier, sagt der Tim dann.
+
+01:23:56.173 --> 01:23:58.373
+<v Tim Pritlove>Das war bestimmt Herr Tarner.
+
+01:23:58.913 --> 01:24:01.935
+<v Stefan Pelzer>Ja, da sind die uns auf einmal hinterhergefahren. Es war ein toller Tag.
+
+01:24:02.133 --> 01:24:07.673
+<v Stefan Pelzer>Es war übrigens echt lustig, weil wir waren am 1. Mai in Berlin in Grunewald. Bei Mike Runi.
+
+01:24:08.216 --> 01:24:12.616
+<v Stefan Pelzer>Und da zwei Key Takeaways davon, das erste ist,
+
+01:24:13.593 --> 01:24:16.743
+<v Stefan Pelzer>man fährt so an irgendwie, findet einen richtigen Weg, auf einmal klingelt das
+
+01:24:16.743 --> 01:24:20.513
+<v Stefan Pelzer>Telefon, weil die irgendwo meine Nummer von der vorherigen Versammlung haben und sagen,
+
+01:24:21.353 --> 01:24:23.253
+<v Stefan Pelzer>wo sind sie denn, wo sind sie denn, ja wir kommen gerade an,
+
+01:24:23.253 --> 01:24:27.077
+<v Stefan Pelzer>aber wir kennen uns auch nicht aus in Grunewald und dann so,
+
+01:24:27.373 --> 01:24:29.903
+<v Stefan Pelzer>hast du jemanden am Telefon, in dem Moment wirst du von der Polizei angehalten
+
+01:24:29.903 --> 01:24:31.593
+<v Stefan Pelzer>und es sind Chemnitzer Polizisten.
+
+01:24:32.899 --> 01:24:36.730
+<v Stefan Pelzer>Die aber sagen, die sind uns zugeordnet. Das war so der Polizeichef am Telefon.
+
+01:24:36.986 --> 01:24:40.108
+<v Stefan Pelzer>Das ist ein Witz hier gerade, oder? Mit die Chemnitzer Polizeihilfecht zu stehen.
+
+01:24:40.404 --> 01:24:43.193
+<v Stefan Pelzer>Aber die waren in Ordnung. Aber das Lustige ist, dann habe ich gesagt,
+
+01:24:43.193 --> 01:24:45.935
+<v Stefan Pelzer>hier sind Polizisten, ja dann sagen Sie denen doch mal, was jetzt so sein soll.
+
+01:24:46.202 --> 01:24:48.240
+<v Stefan Pelzer>Dann habe ich auf laut gemacht, ich habe euren Chef dran.
+
+01:24:48.518 --> 01:24:51.044
+<v Stefan Pelzer>Und dann hat der das so durch mein Telefon. Und danach habe ich gedacht,
+
+01:24:51.375 --> 01:24:54.373
+<v Stefan Pelzer>ich hätte auch jemanden im Bus hinten drin sitzen haben können.
+
+01:24:55.223 --> 01:24:58.143
+<v Stefan Pelzer>Die hätten diese Hörigkeitsfunktion der Polizisten. Ja, hier,
+
+01:24:58.143 --> 01:25:02.093
+<v Stefan Pelzer>PAK 709. Ihr müsst dann jetzt, ihr fahrt die jetzt rechts, dann zweimal links.
+
+01:25:02.093 --> 01:25:04.017
+<v Stefan Pelzer>Und dann steht ihr auf der A100, da stellt ihr sie quer.
+
+01:25:04.244 --> 01:25:09.123
+<v Stefan Pelzer>Also genau, man hätte das locker geschafft, dass die Polizei einen mitten auf
+
+01:25:09.123 --> 01:25:12.679
+<v Stefan Pelzer>die Autobahn eskortiert und da quer hinstellt, wenn man nur gewollt hätte.
+
+01:25:13.183 --> 01:25:15.863
+<v Stefan Pelzer>Und dann hatten wir einen tollen Tag im Grunewald, Musik gemacht,
+
+01:25:15.863 --> 01:25:19.076
+<v Stefan Pelzer>alles super und alles war total deeskalativ, alles ist gut gelaufen.
+
+01:25:19.680 --> 01:25:22.182
+<v Stefan Pelzer>Gab es sogar eine FDP-Gegendemo gegen uns.
+
+01:25:23.616 --> 01:25:27.325
+<v Stefan Pelzer>Dann hast du einen geilen Tag, wenn die FDP gegen dich demonstriert.
+
+01:25:29.414 --> 01:25:33.453
+<v Stefan Pelzer>Und dann sind wir zurück und auf unser eigenes, da wurde ein Bus abstellt und
+
+01:25:33.453 --> 01:25:36.563
+<v Stefan Pelzer>irgendwie mittendrin hat sich so eine Polizeihundschaft ohne Rücksprache,
+
+01:25:37.023 --> 01:25:40.533
+<v Stefan Pelzer>mit der Polizeiführung einfach an uns rangehangen, dann haben wir geguckt,
+
+01:25:40.533 --> 01:25:43.053
+<v Stefan Pelzer>okay, lassen wir die mal, aber es ist ein Privatgelände und dann sind die uns
+
+01:25:43.053 --> 01:25:44.814
+<v Stefan Pelzer>bis aufs Privatgelände hinterhergefahren,
+
+01:25:45.620 --> 01:25:48.162
+<v Stefan Pelzer>Dann hab ich ausgestiegen und hab gesagt, so Jungs, jetzt reicht's,
+
+01:25:48.354 --> 01:25:53.360
+<v Stefan Pelzer>das ist ein Privatgelände, da ist ein Schild dran, so, unbefugten ist der Zutritt
+
+01:25:53.360 --> 01:25:55.675
+<v Stefan Pelzer>verboten und das seid ihr.
+
+01:25:56.997 --> 01:25:59.290
+<v Stefan Pelzer>Weil das ist so, das ist keine öffentliche Verkehrsweg und dann haben die,
+
+01:25:59.557 --> 01:26:03.888
+<v Stefan Pelzer>wir gehen hier gar nicht weg, total aggressiv, das war kurz vorm Eskalieren,
+
+01:26:05.750 --> 01:26:07.552
+<v Stefan Pelzer>die haben uns da echt blöd angemacht.
+
+01:26:07.922 --> 01:26:11.970
+<v Stefan Pelzer>Und dann standen die so in der Ecke und ich so, ey, ihr müsst abhauen,
+
+01:26:11.970 --> 01:26:16.150
+<v Stefan Pelzer>ihr müsst weg und dann so wir gehen die gar nicht, wir schreiben die Anzeige
+
+01:26:16.150 --> 01:26:18.789
+<v Stefan Pelzer>gegen mich und da hat ich zum Glück einen Parlamentarier am Telefon
+
+01:26:19.085 --> 01:26:23.388
+<v Stefan Pelzer>hab ich denen gesagt, ihr benehmt euch hier wie besoffene Unionhooligans zack,
+
+01:26:24.110 --> 01:26:27.860
+<v Stefan Pelzer>jetzt hab ich sie auch noch beleidigt und so weiter und dann hat der parlamentarische
+
+01:26:27.860 --> 01:26:32.290
+<v Stefan Pelzer>Betreuer die Polizeiführung angerufen, die wussten nichts davon, was machen die?
+
+01:26:32.290 --> 01:26:37.330
+<v Stefan Pelzer>War so die Frage und dann haben die versucht, die über Funk zu erreichen,
+
+01:26:37.330 --> 01:26:41.991
+<v Stefan Pelzer>um wegzudämmen, die abhauen von dem Geräte. Die Waren aber irgendwie nicht mehr zu kriegen.
+
+01:26:43.372 --> 01:26:46.890
+<v Stefan Pelzer>Und dann haben die Zivilpolizisten geschickt, um denen zu sagen, verpisst euch.
+
+01:26:52.347 --> 01:26:55.930
+<v Stefan Pelzer>Es kamen dann so die Polizisten an und ich würde so, ja, wir sind auch nur hergeschickt
+
+01:26:55.930 --> 01:26:59.522
+<v Stefan Pelzer>worden, weil irgendwie eine Polizeihundertschaft durchgedreht ist, haben die so gesagt.
+
+01:27:00.340 --> 01:27:02.890
+<v Stefan Pelzer>Die waren auch cool, das waren so zwei, die waren migrantisch und sowas waren,
+
+01:27:02.890 --> 01:27:05.470
+<v Stefan Pelzer>das waren dann zwei gute Polizisten. Und dann sind die so geschnaufen,
+
+01:27:06.090 --> 01:27:07.070
+<v Stefan Pelzer>mit ihren Autos abgedampft.
+
+01:27:08.032 --> 01:27:10.934
+<v Stefan Pelzer>Genau. Ja.
+
+01:27:12.650 --> 01:27:13.830
+<v Stefan Pelzer>Das Familienfest.
+
+01:27:13.830 --> 01:27:18.440
+<v Linus Neumann>Ja, genau. Wo kann man denn denn, also ihr seid jetzt viel unterwegs in Sachsen-Anhalt
+
+01:27:18.440 --> 01:27:19.560
+<v Linus Neumann>und Magdeburg-Vorpommern.
+
+01:27:19.560 --> 01:27:21.800
+<v Stefan Pelzer>Ja, wir machen lustige Sachen, wir finden auch immer neue Sachen.
+
+01:27:21.800 --> 01:27:27.570
+<v Stefan Pelzer>Jetzt ist ja das Podcast, der wird dann anders veröffentlicht, aber morgen ist in,
+
+01:27:28.506 --> 01:27:34.250
+<v Stefan Pelzer>Sachsen-Anhalt in Magdeburg Familienfest zum Wahlkampfabschluss mit Ulrich Siegmund
+
+01:27:34.250 --> 01:27:35.836
+<v Stefan Pelzer>und Tino Chrupalla und vielen mehr.
+
+01:27:36.905 --> 01:27:40.393
+<v Stefan Pelzer>Und wir haben uns gedacht, wir machen an genau demselben Ort,
+
+01:27:40.980 --> 01:27:43.255
+<v Stefan Pelzer>zu genau derselben Zeit...
+
+01:27:48.748 --> 01:27:51.279
+<v Stefan Pelzer>Ein Antifa-Million-Fest.
+
+01:27:55.238 --> 01:28:00.590
+<v Stefan Pelzer>Zum Wahlkampfabschluss mit Ulrich Siegmund, Tino Chrupalla und dem Adenauer SRP Plus.
+
+01:28:00.910 --> 01:28:02.760
+<v Linus Neumann>Am 4. September, Einlass, 12 Uhr.
+
+01:28:02.760 --> 01:28:06.970
+<v Stefan Pelzer>Beginn 14 Uhr. Also genau das gleiche Programm. Genau, das ist mein Neues.
+
+01:28:06.970 --> 01:28:09.150
+<v Stefan Pelzer>Ich liebe das Antifa-Million-Fest.
+
+01:28:10.730 --> 01:28:16.830
+<v Stefan Pelzer>Ansonsten, genau, wir sind jetzt gerade noch in Magdeburg. wahrscheinlich Veröffentlichung
+
+01:28:16.830 --> 01:28:18.530
+<v Stefan Pelzer>ist nach der Wahlkatastrophe von.
+
+01:28:20.590 --> 01:28:24.065
+<v Stefan Pelzer>Sonntag wahrscheinlich ne,
+
+01:28:25.510 --> 01:28:30.490
+<v Stefan Pelzer>genau das heißt aber es lohnt sich dann immer noch weiter zu kämpfen man kann
+
+01:28:30.490 --> 01:28:33.834
+<v Stefan Pelzer>nicht in die Zukunft in die Vergangenheit kann man gucken in die Zukunft nicht so richtig,
+
+01:28:34.890 --> 01:28:37.680
+<v Stefan Pelzer>und dann die nächsten zwei Wochen ist dann in Mecklenburg-Vorpommern geht es
+
+01:28:37.680 --> 01:28:40.794
+<v Stefan Pelzer>nochmal ums Ganze es geht insgesamt ums Ganze, es geht ja darum,
+
+01:28:42.130 --> 01:28:45.230
+<v Stefan Pelzer>wenn man so ein bisschen progressive Politik oder linke Politik gemacht hat,
+
+01:28:46.036 --> 01:28:47.350
+<v Stefan Pelzer>wundert man sich auf einmal,
+
+01:28:48.330 --> 01:28:51.810
+<v Stefan Pelzer>dass man so hingeht und sagt, wir müssen hier irgendwie um unsere Gesellschaft,
+
+01:28:51.810 --> 01:28:54.053
+<v Stefan Pelzer>wir müssen um unseren Staat kämpfen. Sozusagen.
+
+01:28:55.515 --> 01:28:59.090
+<v Stefan Pelzer>Ist eine komische Situation, aber es geht hier tatsächlich ums Ganze,
+
+01:28:59.090 --> 01:29:02.528
+<v Stefan Pelzer>denn im Fall von Sachsen-Anhalt, es geht ja eigentlich darum,
+
+01:29:03.210 --> 01:29:06.156
+<v Stefan Pelzer>dass solche Polizeiarbeit, wie sie gegen uns durchgeführt wird,
+
+01:29:06.440 --> 01:29:10.080
+<v Stefan Pelzer>wenn ein Bundesland an der AfD-Regierung verfällt, dann steht,
+
+01:29:10.080 --> 01:29:12.460
+<v Stefan Pelzer>diese ganzen Behörden sind alle weisungsgebunden.
+
+01:29:12.658 --> 01:29:18.654
+<v Stefan Pelzer>Das heißt, dann steht der AfD auf einmal die gesamte Power des Staates zur Verfügung.
+
+01:29:19.223 --> 01:29:22.137
+<v Stefan Pelzer>Und dann kann man nur hoffen, dass sich andere Bundesländer sagen,
+
+01:29:22.300 --> 01:29:25.638
+<v Stefan Pelzer>wir machen da nicht mit, denn die können noch selbst prüfen.
+
+01:29:25.887 --> 01:29:28.900
+<v Stefan Pelzer>Aber an und für sich, wenn in Sachsen-Anhalt irgendjemand sagt,
+
+01:29:28.900 --> 01:29:31.930
+<v Stefan Pelzer>hey, gegen den Linus haben wir so und so einen Verdachtsmoment,
+
+01:29:31.930 --> 01:29:35.770
+<v Stefan Pelzer>scheißegal, oder gegen den Tim, weil er besoffen wieder Union gehooligant hat.
+
+01:29:38.510 --> 01:29:43.590
+<v Stefan Pelzer>Und dann ordnet in Sachsen-Anhalt ein Gericht irgendwas gegen irgendjemanden
+
+01:29:43.590 --> 01:29:45.228
+<v Stefan Pelzer>von euch, gegen irgendjemanden von uns an.
+
+01:29:45.889 --> 01:29:49.941
+<v Stefan Pelzer>Dann ist eigentlich Amtshilfe Berlin dafür zuständig, das dann umzusetzen.
+
+01:29:50.138 --> 01:29:54.033
+<v Stefan Pelzer>Dann kommen die, nehmen den Computer weg und der geht dann nach Sachsen-Anhalt.
+
+01:29:55.077 --> 01:29:59.827
+<v Stefan Pelzer>Dann kann auf einmal Sachsen-Anhalt Anfragen an Meta, also diese Behörden dort,
+
+01:30:00.187 --> 01:30:02.997
+<v Stefan Pelzer>die fallen dann auf einmal an die Rechtsextremisten.
+
+01:30:03.717 --> 01:30:07.327
+<v Stefan Pelzer>Und das ist wirklich in dieser ganzen Geschichte, die wir jetzt schon haben
+
+01:30:07.327 --> 01:30:13.417
+<v Stefan Pelzer>mit der AfD und der Geschichte mit rechter Gewalt und der Geschichte mit Nazi-Schläger,
+
+01:30:14.017 --> 01:30:17.077
+<v Stefan Pelzer>Baseball-Schläger-Leuten, das ist eine völlig andere Qualität,
+
+01:30:17.077 --> 01:30:21.648
+<v Stefan Pelzer>wenn auf einmal die staatlichen Mittel an die Nazis fallen.
+
+01:30:23.657 --> 01:30:28.357
+<v Stefan Pelzer>Und das ist was, man kann hoffen, dass es nicht so kommt und es lohnt sich dagegen
+
+01:30:28.357 --> 01:30:30.137
+<v Stefan Pelzer>zu kämpfen. Auf jeden Fall.
+
+01:30:40.178 --> 01:30:42.407
+<v Stefan Pelzer>Und? Haben wir nur ein bisschen überzogen.
+
+01:30:43.217 --> 01:30:46.377
+<v Linus Neumann>Wir haben nur ein bisschen überzogen. Das war Lockbuch Netzpolitik.
+
+01:30:46.377 --> 01:30:48.967
+<v Tim Pritlove>Bisschen überzogen ist. Wette gewonnen, oder?
+
+01:30:48.967 --> 01:30:50.181
+<v Stefan Pelzer>Ja, das Wette gewonnen.
+
+01:30:51.557 --> 01:30:52.817
+<v Tim Pritlove>Lockbuch Netzpolitik.
+
+01:30:53.297 --> 01:30:57.847
+<v Stefan Pelzer>Oh nein, das hast du schon abmoderiert. Danke, Attention.
+
+01:30:57.847 --> 01:30:59.677
+<v Tim Pritlove>Was, ey? Die Wette gewonnen.
+
+01:31:01.349 --> 01:31:03.987
+<v Stefan Pelzer>Weil ich will noch ganz auf den Sitz sagen, wir machen das hier live auf der
+
+01:31:03.987 --> 01:31:05.181
+<v Stefan Pelzer>Tim, das hört ihr im Hintergrund.
+
+01:31:05.344 --> 01:31:08.347
+<v Stefan Pelzer>Man kann nur sagen, danke an alle, die das möglich machen. Danke an die Leute,
+
+01:31:08.347 --> 01:31:11.734
+<v Stefan Pelzer>die die Technik machen. Danke an den Kulturkosmos. Danke an die Gäste.
+
+01:31:12.001 --> 01:31:16.237
+<v Stefan Pelzer>Und ich sag dazu auch noch, danke an die beiden Hosts, danke an Logbuch Netzpolitik.
+
+01:31:16.237 --> 01:31:21.457
+<v Linus Neumann>Und danke an Stefan vom Zentrum und alle, die das möglich machen,
+
+01:31:21.837 --> 01:31:25.167
+<v Linus Neumann>was wir hier als Unterhaltungsprogramm bieten, weil das ist,
+
+01:31:25.167 --> 01:31:28.880
+<v Linus Neumann>glaube ich, auch Knochenjob, aber ist ein geiler. Vielen Dank für alles, was ihr tut.
+
+01:31:29.797 --> 01:31:29.837
+<v Stefan Pelzer>Applaus.

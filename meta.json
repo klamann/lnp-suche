@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "number": 558,
+      "title": "LNP558 Negatives Nachtatverhalten",
+      "url": "https://logbuch-netzpolitik.de/lnp558-negatives-nachtatverhalten",
+      "date": "2026-09-04",
+      "has_transcript": true
+    },
+    {
       "number": 557,
       "title": "LNP557 Vom Unfall zum Normalfall",
       "url": "https://logbuch-netzpolitik.de/lnp557-vom-unfall-zum-normalfall",
@@ -3910,11 +3917,11 @@
   "speakers": [
     {
       "name": "Linus Neumann",
-      "cue_count": 229019
+      "cue_count": 229225
     },
     {
       "name": "Tim Pritlove",
-      "cue_count": 134805
+      "cue_count": 134921
     },
     {
       "name": "Thomas Lohninger",
@@ -3926,7 +3933,7 @@
     },
     {
       "name": "Stefan Pelzer",
-      "cue_count": 2988
+      "cue_count": 4058
     },
     {
       "name": "Constanze Kurz",

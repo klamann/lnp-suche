@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "number": 559,
+      "title": "LNP559 Nur die Liebe zählt",
+      "url": "https://logbuch-netzpolitik.de/lnp559-nur-die-liebe-zaehlt",
+      "date": "2026-09-12",
+      "has_transcript": true
+    },
+    {
       "number": 558,
       "title": "LNP558 Negatives Nachtatverhalten",
       "url": "https://logbuch-netzpolitik.de/lnp558-negatives-nachtatverhalten",
@@ -3917,11 +3924,11 @@
   "speakers": [
     {
       "name": "Linus Neumann",
-      "cue_count": 229225
+      "cue_count": 230089
     },
     {
       "name": "Tim Pritlove",
-      "cue_count": 134921
+      "cue_count": 135345
     },
     {
       "name": "Thomas Lohninger",

@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "number": 560,
+      "title": "LNP560 In die Ecke, Besen, Besen!",
+      "url": "https://logbuch-netzpolitik.de/lnp560-in-die-ecke-besen-besen",
+      "date": "2026-09-16",
+      "has_transcript": true
+    },
+    {
       "number": 559,
       "title": "LNP559 Nur die Liebe zählt",
       "url": "https://logbuch-netzpolitik.de/lnp559-nur-die-liebe-zaehlt",
@@ -3924,11 +3931,11 @@
   "speakers": [
     {
       "name": "Linus Neumann",
-      "cue_count": 230089
+      "cue_count": 230719
     },
     {
       "name": "Tim Pritlove",
-      "cue_count": 135345
+      "cue_count": 135676
     },
     {
       "name": "Thomas Lohninger",

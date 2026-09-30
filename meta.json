@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "number": 561,
+      "title": "LNP561 Zeitmaschinen müssen dringend reguliert werden",
+      "url": "https://logbuch-netzpolitik.de/lnp561-zeitmaschinen-muessen-dringend-reguliert-werden",
+      "date": "2026-09-29",
+      "has_transcript": true
+    },
+    {
       "number": 560,
       "title": "LNP560 In die Ecke, Besen, Besen!",
       "url": "https://logbuch-netzpolitik.de/lnp560-in-die-ecke-besen-besen",
@@ -3931,11 +3938,11 @@
   "speakers": [
     {
       "name": "Linus Neumann",
-      "cue_count": 230719
+      "cue_count": 231650
     },
     {
       "name": "Tim Pritlove",
-      "cue_count": 135676
+      "cue_count": 135981
     },
     {
       "name": "Thomas Lohninger",

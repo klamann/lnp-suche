@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "number": 562,
+      "title": "LNP562 Gipfel der überzogenen Erwartungen",
+      "url": "https://logbuch-netzpolitik.de/lnp562-gipfel-der-ueberzogenen-erwartungen",
+      "date": "2026-10-10",
+      "has_transcript": true
+    },
+    {
       "number": 561,
       "title": "LNP561 Zeitmaschinen müssen dringend reguliert werden",
       "url": "https://logbuch-netzpolitik.de/lnp561-zeitmaschinen-muessen-dringend-reguliert-werden",
@@ -3938,11 +3945,11 @@
   "speakers": [
     {
       "name": "Linus Neumann",
-      "cue_count": 231650
+      "cue_count": 232204
     },
     {
       "name": "Tim Pritlove",
-      "cue_count": 135981
+      "cue_count": 136149
     },
     {
       "name": "Thomas Lohninger",

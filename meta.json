@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "number": 563,
+      "title": "LNP563 Des Kaisers neue Kleider",
+      "url": "https://logbuch-netzpolitik.de/lnp563-des-kaisers-neue-kleider",
+      "date": "2026-10-20",
+      "has_transcript": true
+    },
+    {
       "number": 562,
       "title": "LNP562 Gipfel der überzogenen Erwartungen",
       "url": "https://logbuch-netzpolitik.de/lnp562-gipfel-der-ueberzogenen-erwartungen",
@@ -3945,11 +3952,11 @@
   "speakers": [
     {
       "name": "Linus Neumann",
-      "cue_count": 232204
+      "cue_count": 233263
     },
     {
       "name": "Tim Pritlove",
-      "cue_count": 136149
+      "cue_count": 136933
     },
     {
       "name": "Thomas Lohninger",

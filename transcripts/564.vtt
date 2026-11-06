@@ -1,0 +1,4325 @@
+WEBVTT
+
+NOTE
+Podcast: Logbuch:Netzpolitik
+Episode: LNP564 Im Himmel regiert der liebe Gott
+Publishing Date: 2026-11-05T15:46:28+01:00
+Podcast URL: https://logbuch-netzpolitik.de
+Episode URL: https://logbuch-netzpolitik.de/lnp564-im-himmel-regiert-der-liebe-gott
+
+00:00:00.521 --> 00:00:01.365
+<v Tim Pritlove>Guten Morgen, Linus.
+
+00:00:01.365 --> 00:00:02.170
+<v Linus Neumann>Guten Morgen, Tim.
+
+00:00:02.443 --> 00:00:05.967
+<v Tim Pritlove>Midterms, Midterms, Partytime, exzellent.
+
+00:00:07.569 --> 00:00:10.628
+<v Linus Neumann>Ja, aber bleibt jetzt nichts mehr für mich überall, was ich da noch sagen kann.
+
+00:00:10.738 --> 00:00:12.015
+<v Tim Pritlove>Tja, wo ist das halt?
+
+00:00:32.867 --> 00:00:38.794
+<v Tim Pritlove>Logbuch Netzpolitik Nummer 564 vom 4. November 2026.
+
+00:00:41.093 --> 00:00:43.623
+<v Tim Pritlove>Was geht's los? Die goldenen 20er sind angebrochen. Die goldenen 20er,
+
+00:00:43.623 --> 00:00:45.028
+<v Tim Pritlove>ja. Ich hab's immer gesagt.
+
+00:00:46.733 --> 00:00:50.833
+<v Tim Pritlove>Mir glaubt ja immer keiner, aber am Ende hab ich trotzdem recht. Jetzt nehm ich aus.
+
+00:00:52.213 --> 00:00:57.293
+<v Linus Neumann>54 Senate-Sitze und 231 Haussitze ist der aktuelle Stand.
+
+00:00:57.881 --> 00:01:00.683
+<v Tim Pritlove>Ja, das könnte sogar noch besser werden, wenn ich das richtig sehe, oder?
+
+00:01:02.473 --> 00:01:13.293
+<v Linus Neumann>Ja, das könnte sogar theoretisch bis zu 56 Senate-Sitze werden und die Haussitze
+
+00:01:13.293 --> 00:01:15.453
+<v Linus Neumann>kriege ich gerade nicht ausgerechnet.
+
+00:01:16.972 --> 00:01:19.624
+<v Tim Pritlove>Ja, wir haben Thomas mit dabei. Hallo Thomas.
+
+00:01:20.658 --> 00:01:24.573
+<v Thomas Lohninger>Guten Morgen. Wieder mal nach einer erfolgreichen US-Wahl, das freut mich sehr.
+
+00:01:24.573 --> 00:01:27.380
+<v Tim Pritlove>Wieder einmal, wieso war das letzte Mal auch schon so?
+
+00:01:27.653 --> 00:01:31.783
+<v Thomas Lohninger>Ich erinnere mich noch sehr gut an die Sendung 2020, als Biden gewonnen hat.
+
+00:01:31.783 --> 00:01:34.427
+<v Thomas Lohninger>Das war auch eine schöne Sendung. Das war direkt nach der Wahl.
+
+00:01:34.700 --> 00:01:35.118
+<v Tim Pritlove>Ah ja.
+
+00:01:35.460 --> 00:01:39.646
+<v Linus Neumann>Okay, also müssen wir darauf achten, dass wir dich immer zu den US-Wahlen einladen,
+
+00:01:40.293 --> 00:01:42.833
+<v Linus Neumann>damit da nichts schief geht.
+
+00:01:42.966 --> 00:01:44.087
+<v Tim Pritlove>Nichts anbrennt.
+
+00:01:44.545 --> 00:01:45.642
+<v Thomas Lohninger>Politischer Glücksbringer.
+
+00:01:46.171 --> 00:01:51.313
+<v Tim Pritlove>Ja, naja. Also ich meine, das ist natürlich jetzt ein interessantes Signal,
+
+00:01:51.313 --> 00:01:53.893
+<v Tim Pritlove>denke ich mal. Nicht nur so in den USA, sondern auch weltweit.
+
+00:01:54.853 --> 00:01:59.523
+<v Tim Pritlove>Jetzt muss ich irgendwie auch Alice Weidel überlegen, wie sie das dreht,
+
+00:01:59.523 --> 00:02:02.313
+<v Tim Pritlove>weil jetzt auf einmal so der Faschismus ist auf einmal nicht mehr so,
+
+00:02:03.393 --> 00:02:04.803
+<v Tim Pritlove>weiß ich nicht, kommt irgendwie nicht so gut an.
+
+00:02:06.568 --> 00:02:10.707
+<v Thomas Lohninger>Also Brasilien war auch gut und Israel auch nicht so schlecht.
+
+00:02:11.264 --> 00:02:11.909
+<v Tim Pritlove>Serbien?
+
+00:02:12.547 --> 00:02:13.314
+<v Thomas Lohninger>Ja, genau.
+
+00:02:13.737 --> 00:02:17.633
+<v Tim Pritlove>Kuzic ist auch abgewählt worden, also die letzten zwei Wochen sind wirklich
+
+00:02:17.633 --> 00:02:20.756
+<v Tim Pritlove>ein ziemlicher Homerun. Also ich glaube Bulgarien war jetzt nicht so...
+
+00:02:22.492 --> 00:02:26.607
+<v Tim Pritlove>Nicht so toll, aber so im Großen und Ganzen ein ganz guter Trend.
+
+00:02:26.607 --> 00:02:29.497
+<v Tim Pritlove>Ich meine, es ist halt auch nicht ewig auszuhalten, der ganze Quatsch.
+
+00:02:29.497 --> 00:02:36.923
+<v Linus Neumann>Und das, obwohl Audi ja sogar war ganz... Die Leute, Fieber, Fieber haben die alle.
+
+00:02:37.376 --> 00:02:40.737
+<v Tim Pritlove>Ach, weiß nicht, dieser Audi-Chef, der hat sich da mit Trump auf unsere Veranstaltung,
+
+00:02:41.337 --> 00:02:44.377
+<v Tim Pritlove>gestellt und sich da quasi missbrauchen lassen.
+
+00:02:45.898 --> 00:02:48.537
+<v Tim Pritlove>Naja, late to the party, würde ich sagen.
+
+00:02:50.124 --> 00:02:52.765
+<v Thomas Lohninger>Man wird sich an all diese Milliardäre erinnern.
+
+00:02:54.135 --> 00:02:56.967
+<v Tim Pritlove>Ja und Elon Musk ist natürlich jetzt nochmal Doppelfakt. Also nicht nur,
+
+00:02:56.967 --> 00:03:01.477
+<v Tim Pritlove>dass er irgendwie eine halbe Milliarde US-Dollar in Wahlkämpfe gesteckt hat,
+
+00:03:01.477 --> 00:03:02.742
+<v Tim Pritlove>wo er überall verloren hat.
+
+00:03:03.003 --> 00:03:06.357
+<v Tim Pritlove>Jetzt ist er extra mit seinem Unternehmen vorher nach Texas umgezogen,
+
+00:03:06.357 --> 00:03:10.457
+<v Tim Pritlove>sich irgendwie dem kalifornischen Zugriff zu entziehen und jetzt ist irgendwie
+
+00:03:10.457 --> 00:03:15.367
+<v Tim Pritlove>Texas auch komplett blau mit Gouverneur von den Demokraten und so weiter.
+
+00:03:15.367 --> 00:03:20.257
+<v Linus Neumann>Also Texas und Kansas in demokratischer Hand, das ist glaube ich lange her.
+
+00:03:20.657 --> 00:03:26.147
+<v Linus Neumann>Ich glaube in Kansas 1932 hatten die das letzte Mal.
+
+00:03:26.147 --> 00:03:29.737
+<v Tim Pritlove>Ja und auch South Carolina irgendwie seit 30 Jahren, also es ist einfach auch
+
+00:03:29.737 --> 00:03:32.608
+<v Tim Pritlove>nochmal deutlich mehr gekippt, als es,
+
+00:03:33.857 --> 00:03:39.227
+<v Tim Pritlove>noch vor ein paar Wochen aussah und ja, dass wir jetzt schon 54,
+
+00:03:39.227 --> 00:03:43.937
+<v Tim Pritlove>also wer das nicht auf dem Zeiger hat, also der US-Senat hat ja genau 100 Sitze
+
+00:03:44.237 --> 00:03:45.983
+<v Tim Pritlove>und wenn man dann eine Mehrheit haben will.
+
+00:03:46.459 --> 00:03:49.427
+<v Tim Pritlove>Als Opposition braucht man 51 davon.
+
+00:03:49.427 --> 00:03:51.039
+<v Linus Neumann>Ach so, wieso?
+
+00:03:51.330 --> 00:03:54.132
+<v Tim Pritlove>Weil bei 50-50 entscheidet der Vizepräsident.
+
+00:03:55.623 --> 00:03:58.235
+<v Linus Neumann>Ich freue mich, dass du das nochmal erklärt hast.
+
+00:03:58.438 --> 00:03:59.491
+<v Tim Pritlove>Ja, gerne.
+
+00:04:00.111 --> 00:04:03.344
+<v Linus Neumann>Der Vizepräsident. Der Vance.
+
+00:04:03.843 --> 00:04:05.471
+<v Tim Pritlove>Der Sofa-Fucker.
+
+00:04:05.471 --> 00:04:06.191
+<v Thomas Lohninger>Shady Vance.
+
+00:04:06.191 --> 00:04:07.854
+<v Linus Neumann>Shady Vance.
+
+00:04:08.168 --> 00:04:12.251
+<v Tim Pritlove>Aber das hat jetzt nicht unbedingt jeder so auf dem Zeiger.
+
+00:04:12.251 --> 00:04:17.891
+<v Tim Pritlove>Auf jeden Fall ist die Mehrheit so dermaßen krass jetzt, dass also auch so Independence
+
+00:04:18.271 --> 00:04:23.471
+<v Tim Pritlove>und Abweichler nicht so richtig eine Gefahr werden für die Demokraten.
+
+00:04:23.471 --> 00:04:27.608
+<v Tim Pritlove>Mit anderen Worten, Trump wird jetzt keinerlei Personalien mehr durchbekommen
+
+00:04:28.044 --> 00:04:32.201
+<v Tim Pritlove>und keinerlei Gesetzesverschärfung. Er wird sich natürlich jetzt auf die Hinterbeine
+
+00:04:32.201 --> 00:04:37.024
+<v Tim Pritlove>stellen und Veto, Veto, Veto machen, aber das wird ihm jetzt auch nicht unbedingt weiterhelfen.
+
+00:04:37.320 --> 00:04:38.533
+<v Linus Neumann>Zwei Jahre lang,
+
+00:04:41.231 --> 00:04:48.451
+<v Linus Neumann>also ich würde davon ausgehen, eine noch weitere, noch üblere Verrohung der politischen Kultur.
+
+00:04:48.451 --> 00:04:57.331
+<v Linus Neumann>Das vorherzusagen bei Trump ist jetzt keine Kunst, aber das wird sicherlich
+
+00:04:57.331 --> 00:04:59.842
+<v Linus Neumann>sehr, sehr ekelig, weil sie jetzt...
+
+00:05:01.212 --> 00:05:08.190
+<v Linus Neumann>Die Demokraten natürlich bei jeder Gelegenheit irgendwie blamen werden und was sie alles,
+
+00:05:08.724 --> 00:05:13.670
+<v Linus Neumann>alles was jetzt schief läuft in den USA und wofür man den Präsidenten verantwortlich
+
+00:05:13.670 --> 00:05:18.200
+<v Linus Neumann>machen kann, wird der dann immer sagen, das liegt daran, dass er im Senat und,
+
+00:05:18.820 --> 00:05:20.380
+<v Linus Neumann>im Kongress blockiert wird oder so.
+
+00:05:20.827 --> 00:05:22.970
+<v Linus Neumann>Wir werden da jetzt richtig so ein, also das ist.
+
+00:05:23.570 --> 00:05:27.610
+<v Tim Pritlove>Aber die Botschaft hinter der Botschaft finde ich ist ja, dass ja nicht nur
+
+00:05:27.610 --> 00:05:32.330
+<v Tim Pritlove>jetzt die Demokraten viel gewonnen haben, sondern dass vor allem auch sehr viele linke Demokraten,
+
+00:05:33.830 --> 00:05:41.325
+<v Tim Pritlove>auch Vertreter im demokratischen Establishment, was eher so right leaning war, ersetzt hat.
+
+00:05:41.563 --> 00:05:46.480
+<v Linus Neumann>Und die quasi der Flügel der Demokraten, die sich vor,
+
+00:05:47.660 --> 00:05:52.000
+<v Linus Neumann>ja eigentlich vor drei Jahren oder vor drei, vier Jahren, als es darum ging,
+
+00:05:52.000 --> 00:05:53.720
+<v Linus Neumann>wer läuft sich denn jetzt mal warm, um,
+
+00:05:55.000 --> 00:05:59.940
+<v Linus Neumann>zu kandidieren gegen Trump, die dann da relativ früh aussortiert worden waren,
+
+00:06:00.540 --> 00:06:06.279
+<v Linus Neumann>und gut, das Ergebnis, wer dann da angetreten ist und was wir davon hatten, haben wir ja gesehen.
+
+00:06:06.720 --> 00:06:12.150
+<v Tim Pritlove>Genau und natürlich auch ganz neue Gesichter wie der Abdul Sayed und in Florida
+
+00:06:12.150 --> 00:06:15.538
+<v Tim Pritlove>hätte es auch fast funktioniert. Also es ist schon ziemlich bemerkenswert.
+
+00:06:15.933 --> 00:06:21.270
+<v Tim Pritlove>Und außerdem haben die Demokraten auch das erste Mal die Mehrheit aller Gouverneure,
+
+00:06:21.770 --> 00:06:25.050
+<v Tim Pritlove>in den US-Staaten seit langer, langer Zeit.
+
+00:06:25.390 --> 00:06:29.400
+<v Tim Pritlove>Ich glaube jetzt haben sie irgendwie knapp 30 oder so.
+
+00:06:29.633 --> 00:06:34.430
+<v Linus Neumann>Also genau, das ist glaube ich dann die Message für die Demokraten ist,
+
+00:06:34.770 --> 00:06:40.180
+<v Linus Neumann>jo, hilft tatsächlich Alternativen darzustellen und,
+
+00:06:43.080 --> 00:06:46.212
+<v Linus Neumann>den liberalen Flügel zu stärken statt zu schwächen.
+
+00:06:48.038 --> 00:06:56.856
+<v Linus Neumann>Und ich hoffe, die Message an die Republikaner ist die hoffentlich die hörbarere,
+
+00:06:57.663 --> 00:07:02.178
+<v Linus Neumann>oder die, die dann wahrnehmen, dass sie jetzt sagen, okay, wir müssen diesen Trumpismus beenden.
+
+00:07:02.878 --> 00:07:07.638
+<v Linus Neumann>Weil der hat uns letztendlich in die, also ich würde sagen eines der größten
+
+00:07:07.638 --> 00:07:11.188
+<v Linus Neumann>Desaster dieser Partei, also durch größten,
+
+00:07:12.204 --> 00:07:20.578
+<v Linus Neumann>Rückgänge und Rückschläge für diese Partei seit langem geführt und da würde
+
+00:07:20.578 --> 00:07:21.968
+<v Linus Neumann>Hoffnung bestehen, dass sie,
+
+00:07:22.729 --> 00:07:26.268
+<v Linus Neumann>dass vielleicht, aber das meine ich mit würde Hoffnung bestehen,
+
+00:07:26.268 --> 00:07:27.338
+<v Linus Neumann>ich glaube nicht, dass es passiert.
+
+00:07:27.860 --> 00:07:31.878
+<v Linus Neumann>Aber es könnte natürlich sein, dass einige Leute verstehen, dass es,
+
+00:07:32.678 --> 00:07:36.771
+<v Linus Neumann>sich nicht lohnt, an Trump sich zu klammern, vielleicht sogar,
+
+00:07:37.148 --> 00:07:41.078
+<v Linus Neumann>dass innerhalb der Republikaner eine Welle losgeht, die sagen,
+
+00:07:41.490 --> 00:07:45.089
+<v Linus Neumann>nee, wir machen das jetzt mal wieder ordentlich, wir versuchen jetzt mal hier zu klammern.
+
+00:07:46.243 --> 00:07:53.073
+<v Linus Neumann>Anstand, politische Kultur, Verantwortungsbewusstsein und so weiter hochzuziehen. Aber.
+
+00:07:56.060 --> 00:08:00.133
+<v Linus Neumann>Das wäre auch ein theoretischer Realitätszweig. Ich glaube da nicht so dran.
+
+00:08:02.093 --> 00:08:08.393
+<v Tim Pritlove>Ich glaube schon, Mager ist jetzt durch. Das lässt sich nicht wieder in demselben Maße aktivieren.
+
+00:08:08.393 --> 00:08:13.543
+<v Tim Pritlove>Klar, die werden jetzt nicht von 0 auf 100 verschwinden, aber da setzt jetzt keiner mehr drauf.
+
+00:08:13.543 --> 00:08:19.903
+<v Tim Pritlove>Trump wird eh nicht wiedergewählt werden können und es ist jetzt nicht absehbar,
+
+00:08:19.903 --> 00:08:23.513
+<v Tim Pritlove>dass jetzt irgendjemand in demselben Style sozusagen,
+
+00:08:25.493 --> 00:08:28.193
+<v Tim Pritlove>in diesem Kielwasser in irgendeiner Form Punkte sammeln kann,
+
+00:08:28.193 --> 00:08:32.363
+<v Tim Pritlove>sondern die werden sich alle anders ausrichten, gerade wo jetzt die Demokraten
+
+00:08:32.363 --> 00:08:33.723
+<v Tim Pritlove>so nach links schwingen.
+
+00:08:33.723 --> 00:08:39.858
+<v Linus Neumann>Absolut richtig, ja, da stimme ich zu. Aber okay, wer wird sich jetzt warmlaufen? Rubio, Vance?
+
+00:08:40.317 --> 00:08:41.633
+<v Tim Pritlove>Vance hat keine Chance.
+
+00:08:41.993 --> 00:08:43.330
+<v Thomas Lohninger>Und ja, Vance ist weg, glaube ich.
+
+00:08:43.492 --> 00:08:46.053
+<v Linus Neumann>Meinst du? Also das würde ich, da wäre ich mir halt.
+
+00:08:46.053 --> 00:08:49.906
+<v Tim Pritlove>Der ist so unpopulär, auch bei den Republikanern, keiner mag den.
+
+00:08:50.126 --> 00:08:52.883
+<v Tim Pritlove>Ich meine, der Typ, der kann nicht reden, der hat nichts zu erzählen,
+
+00:08:52.883 --> 00:08:59.008
+<v Tim Pritlove>der ist nichts, der war nie was und der ist einfach nur Trumps little kid und hat nichts gebracht und,
+
+00:09:00.873 --> 00:09:04.973
+<v Tim Pritlove>der ist so unpopulär in den USA, auch im republikanischen Volk,
+
+00:09:04.973 --> 00:09:08.958
+<v Tim Pritlove>das wird nichts mit werden. Sonst niemals wird der Präsident werden.
+
+00:09:09.341 --> 00:09:11.367
+<v Tim Pritlove>Also auch nur Kandidat werden.
+
+00:09:12.266 --> 00:09:15.447
+<v Tim Pritlove>Nee, da werden andere kommen. Ob es Rubio ist, weiß ich nicht, kann sein.
+
+00:09:15.987 --> 00:09:18.993
+<v Tim Pritlove>Kann auch sein, dass sie nochmal ganz jemand anderes auspacken.
+
+00:09:19.313 --> 00:09:22.669
+<v Tim Pritlove>Das ist schwierig vorherzusagen, aber mit Sicherheit kein Fans.
+
+00:09:23.766 --> 00:09:27.763
+<v Linus Neumann>Würdest du, wenn du sagst, Mager ist durch, würdest du damit auch davon ausgehen,
+
+00:09:27.763 --> 00:09:33.338
+<v Linus Neumann>dass quasi auch, sagen wir mal jetzt, jeder, der da groß mitgetanzt hat,
+
+00:09:35.556 --> 00:09:37.964
+<v Linus Neumann>No-Go ist? Also das die gesamte...
+
+00:09:38.564 --> 00:09:41.054
+<v Tim Pritlove>Nö, das würde ich jetzt nicht sagen, weil das sind ja alles Opportunisten.
+
+00:09:41.054 --> 00:09:44.554
+<v Tim Pritlove>Da wird das Fähnchen halt jetzt einfach in den Wind gehängt und ein anderes
+
+00:09:44.554 --> 00:09:49.034
+<v Tim Pritlove>Lied gesungen und bei der Wählerschaft, die merken sich ja nichts,
+
+00:09:49.034 --> 00:09:53.457
+<v Tim Pritlove>was vor zwei Monaten passiert ist. Die nehmen ja auch schon die aktuelle Realität nur so begrenzt wahr.
+
+00:09:53.968 --> 00:09:56.334
+<v Tim Pritlove>Es ist halt nur die Frage, womit du machst. Aber sie haben es halt wieder mit
+
+00:09:56.334 --> 00:09:59.624
+<v Tim Pritlove>Kulturkampf probiert und das hat einfach mal so überhaupt nicht mehr gezogen.
+
+00:09:59.624 --> 00:10:03.154
+<v Tim Pritlove>Die Leute waren einfach nicht bereit, die Wirtschaftssituation,
+
+00:10:03.154 --> 00:10:08.214
+<v Tim Pritlove>die Preiseentwicklung in irgendeiner Form zu akzeptieren und die gesprochenen
+
+00:10:08.214 --> 00:10:09.944
+<v Tim Pritlove>Versprechen so in Bezug auf den Krieg etc.
+
+00:10:10.675 --> 00:10:15.124
+<v Tim Pritlove>Das war dann einfach too much. Da kannst du dann irgendwie mit Transphobia auch
+
+00:10:15.124 --> 00:10:18.394
+<v Tim Pritlove>keine Punkte mehr machen. Und das ist halt eigentlich die Botschaft,
+
+00:10:18.394 --> 00:10:20.538
+<v Tim Pritlove>was ja auch Mamdani in New York jetzt auch schon zeigt.
+
+00:10:20.863 --> 00:10:24.218
+<v Tim Pritlove>Falls man mal so mit der Politik mal sich um die wirklichen Probleme kümmert,
+
+00:10:24.380 --> 00:10:25.494
+<v Tim Pritlove>dann kommt das ganz gut an.
+
+00:10:25.494 --> 00:10:25.984
+<v Linus Neumann>Kommt an.
+
+00:10:28.244 --> 00:10:29.024
+<v Thomas Lohninger>Revolution.
+
+00:10:29.464 --> 00:10:34.084
+<v Tim Pritlove>Lang unterschätzte, lang also wirklich völlig. Das wäre doch mal was ganz In
+
+00:10:34.084 --> 00:10:39.549
+<v Tim Pritlove>Vergessenheit geratene politische Kunst. Einfach mal das Richtige tun.
+
+00:10:39.839 --> 00:10:46.184
+<v Linus Neumann>Ja, da haben wir ja auch bei uns weit und breit keinen, der das machen würde.
+
+00:10:46.244 --> 00:10:48.964
+<v Tim Pritlove>Der ist jetzt nicht so populär, aber vielleicht kommt das ja wieder.
+
+00:10:50.896 --> 00:10:56.234
+<v Linus Neumann>Bevor wir natürlich gleich, wenn wir Thomas da haben, wie immer in Richtung
+
+00:10:56.234 --> 00:10:58.280
+<v Linus Neumann>Europa und Österreich gehen, wollte ich nochmal kurz erwähnen.
+
+00:10:59.296 --> 00:11:01.044
+<v Linus Neumann>Wir machen ja am Sonntag wieder den Salon.
+
+00:11:02.297 --> 00:11:04.834
+<v Linus Neumann>Und Thomas ist dann auch da. Das
+
+00:11:04.834 --> 00:11:11.295
+<v Linus Neumann>heißt, werden wir mit Thomas zusammen den Salon gestalten und mit euch.
+
+00:11:11.405 --> 00:11:15.028
+<v Linus Neumann>Der Link ist in den Shownotes diesmal.
+
+00:11:15.800 --> 00:11:21.314
+<v Linus Neumann>Viele von euch haben ihn gefunden, obwohl er in den Shownotes zur letzten Sendung noch nicht mal drin war.
+
+00:11:21.314 --> 00:11:26.214
+<v Linus Neumann>Keine Ahnung, wo ihr den her hattet, aber die meisten haben sich schon angemeldet.
+
+00:11:26.214 --> 00:11:29.744
+<v Linus Neumann>Einige wenige Möglichkeiten gibt es noch, dabei zu sein und genau diesmal haben
+
+00:11:29.744 --> 00:11:32.644
+<v Linus Neumann>wir den, diesmal wird der Tim den Link auch in die Show lassen.
+
+00:11:32.644 --> 00:11:35.932
+<v Tim Pritlove>Mit Sicherheit, mit Sicherheit. Ja. Sowas würde ich nicht vergessen.
+
+00:11:37.802 --> 00:11:44.017
+<v Linus Neumann>Und dann würde ich gerne, bevor wir über Europa und Österreich und so weiter
+
+00:11:44.017 --> 00:11:49.822
+<v Linus Neumann>sprechen, kurz wenigstens erwähnen, dass eine ganze Menge los war im Cyber.
+
+00:11:51.127 --> 00:11:54.517
+<v Linus Neumann>Es wurde sehr viel gecybert in den letzten Tagen und Wochen.
+
+00:11:54.517 --> 00:11:58.413
+<v Linus Neumann>Es ging los, oder ich glaube, ich gehe es jetzt noch nicht mal der Reihenfolge nach durch.
+
+00:11:59.587 --> 00:12:04.387
+<v Linus Neumann>Also das Thema dieser Woche ist, mehrere Menschen im politischen Berlin,
+
+00:12:04.387 --> 00:12:08.026
+<v Linus Neumann>noch ist nicht öffentlich bekannt, wer es war,
+
+00:12:09.077 --> 00:12:15.491
+<v Linus Neumann>haben von Apple die Meldung bekommen, dass Mercenaries, Spyware,
+
+00:12:16.542 --> 00:12:21.337
+<v Linus Neumann>Infektionen oder Infektionsversuche auf ihre Geräte stattgefunden haben.
+
+00:12:21.796 --> 00:12:26.132
+<v Linus Neumann>Das gibt bei Apple seit einigen Jahren dieses Team.
+
+00:12:26.335 --> 00:12:31.217
+<v Linus Neumann>Claudio Gornieri arbeitet da übrigens drin, der auch vom Kongress bekannt ist
+
+00:12:31.217 --> 00:12:36.517
+<v Linus Neumann>als einer, der früher bei dem Amnesty Lab war, Amnesty Security Lab und hat
+
+00:12:36.517 --> 00:12:39.865
+<v Linus Neumann>großartige Forschung in dem Bereich der Staatstrojaner geleistet hat.
+
+00:12:41.187 --> 00:12:45.334
+<v Linus Neumann>Und Apple hat im Prinzip eine Funktion in diesem Betriebssystem drin, dass sie.
+
+00:12:47.227 --> 00:12:50.117
+<v Linus Neumann>Quasi sagen, wenn bestimmte Dinge in den Loks gefunden wurden,
+
+00:12:50.117 --> 00:12:54.707
+<v Linus Neumann>dann kann dieses Telefon sagen, hey, es gibt hier Indicators of Compromise und
+
+00:12:54.707 --> 00:12:59.556
+<v Linus Neumann>bitte lass dein Telefon mal untersuchen und das machen sie,
+
+00:13:00.937 --> 00:13:05.397
+<v Linus Neumann>absichtlich auch quasi so zeitlich nicht immer korreliert und auch nicht sofort,
+
+00:13:05.397 --> 00:13:11.117
+<v Linus Neumann>damit nicht so ohne weiteres auch die Angreifergruppen wissen,
+
+00:13:11.117 --> 00:13:12.954
+<v Linus Neumann>woran sie es jetzt gerade erkannt haben.
+
+00:13:13.430 --> 00:13:17.107
+<v Linus Neumann>Aber sie haben eben eine solche Warnung und die haben jetzt eben auch mehrere
+
+00:13:17.107 --> 00:13:21.127
+<v Linus Neumann>Leute offenbar aus dem politischen Berlin erhalten.
+
+00:13:21.812 --> 00:13:25.452
+<v Linus Neumann>Und das ist natürlich eine spannende Geschichte.
+
+00:13:25.725 --> 00:13:32.888
+<v Linus Neumann>Ich habe dazu nur ein Radio- Interview gegeben, was ich ganz unterhaltsam fand, weil.
+
+00:13:34.908 --> 00:13:39.358
+<v Linus Neumann>Das war so ein WDR 5, wo dann irgendwie so sinngemäß die Frage war,
+
+00:13:39.358 --> 00:13:45.089
+<v Linus Neumann>ja, was ist eigentlich Spyware und so und kann das irgendwie meine Partnerin,
+
+00:13:45.565 --> 00:13:47.008
+<v Linus Neumann>auf mein Handy machen oder so.
+
+00:13:47.008 --> 00:13:51.318
+<v Linus Neumann>Der Moderator wollte da so ein bisschen drüber scherzen, dass es seine Ex-Freundin
+
+00:13:51.318 --> 00:13:52.791
+<v Linus Neumann>könnte ihm ja Spyware unterschieben.
+
+00:13:53.280 --> 00:13:56.815
+<v Linus Neumann>Das war natürlich eine Steilvorlage, weil ich erstens sagen konnte,
+
+00:13:58.118 --> 00:14:00.528
+<v Linus Neumann>die Sorge müsste sich nur machen, wenn die in deutschen Sicherheitsbehörden
+
+00:14:00.528 --> 00:14:05.578
+<v Linus Neumann>arbeitet, weil die sind ja selber Kunde bei NSO, ja, mit anderen Worten,
+
+00:14:05.578 --> 00:14:07.681
+<v Linus Neumann>das wäre eine Person, die darauf Zugriff hätte,
+
+00:14:08.228 --> 00:14:11.078
+<v Linus Neumann>und im Weiteren haben wir natürlich dann auch noch über Stalkerware gesprochen
+
+00:14:11.078 --> 00:14:14.188
+<v Linus Neumann>und da muss ich natürlich dann auch noch darauf hinweisen, dass er sich da als
+
+00:14:14.188 --> 00:14:17.238
+<v Linus Neumann>Mann eigentlich weniger Sorgen machen muss, weil das hauptsächliche,
+
+00:14:18.378 --> 00:14:20.238
+<v Linus Neumann>Männer auf Frauen ausrollen, das war also.
+
+00:14:22.278 --> 00:14:25.538
+<v Linus Neumann>Eigentlich ganz nett. Wir,
+
+00:14:27.036 --> 00:14:30.379
+<v Linus Neumann>also hier sprechen wir im Zweifelsfall von sehr teuren,
+
+00:14:31.178 --> 00:14:34.618
+<v Linus Neumann>gezielten Überwachungsoperationen und ich würde sagen, so die Software,
+
+00:14:34.618 --> 00:14:39.028
+<v Linus Neumann>die da jetzt in Frage käme, also es gibt auch noch keine, da steht auch nicht,
+
+00:14:39.028 --> 00:14:41.320
+<v Linus Neumann>mit welcher Schadsoftware das Telefon jetzt da,
+
+00:14:42.118 --> 00:14:45.470
+<v Linus Neumann>infiziert wurde oder was der IOC ist, also der Indicator of Compromise,
+
+00:14:45.779 --> 00:14:48.728
+<v Linus Neumann>als käme so wahrscheinlich irgendwie NSO,
+
+00:14:50.249 --> 00:14:53.330
+<v Linus Neumann>in Frage, bei denen, wie gesagt, Deutschland auch Kunde ist.
+
+00:14:53.923 --> 00:14:59.098
+<v Linus Neumann>Das NSO Pegasus wurde gegen Journalisten, Menschenrechtsaktivisten und Oppositionelle
+
+00:14:59.098 --> 00:15:02.996
+<v Linus Neumann>in Mexiko, Saudi-Arabien, Ungarn, Polen,
+
+00:15:03.995 --> 00:15:09.794
+<v Linus Neumann>Spanien gegen die katalanische Separatistenbewegung in Indien und so weiter eingesetzt.
+
+00:15:10.818 --> 00:15:15.495
+<v Linus Neumann>Das wäre also dieses Unternehmen. Dann gibt es noch von dem,
+
+00:15:16.341 --> 00:15:19.668
+<v Linus Neumann>von Intellexa heißen, ich habe einen Schatz auf den Namen, Predator.
+
+00:15:19.668 --> 00:15:25.717
+<v Linus Neumann>Ja, auch da von diesem Unternehmen Intellexa hat die CITES mal 2019 auch Sachen gekauft.
+
+00:15:26.221 --> 00:15:29.717
+<v Linus Neumann>Also auch das mit deutschem Steuergeld.
+
+00:15:32.228 --> 00:15:35.051
+<v Linus Neumann>Oder deutsches Steuergeld versucht da Dienstleistungen zu bekommen.
+
+00:15:35.051 --> 00:15:39.351
+<v Linus Neumann>Das ist die Schadsoftware, die vor allem in Griechenland, da gab es ja einen riesigen,
+
+00:15:39.867 --> 00:15:43.991
+<v Linus Neumann>Skandal, wo dann eben ein Journalist und ein Oppositionsführer das festgestellt
+
+00:15:43.991 --> 00:15:49.161
+<v Linus Neumann>haben und dann im weiteren Verlauf 100 weitere Personen aus Politik, Medien, Wirtschaft und,
+
+00:15:49.821 --> 00:15:51.872
+<v Linus Neumann>Militär als Ziele bekannt wurden.
+
+00:15:52.406 --> 00:15:57.941
+<v Linus Neumann>In Ägypten gegen Journalisten und Oppositionelle eingesetzt.
+
+00:15:59.575 --> 00:16:03.285
+<v Linus Neumann>Das sind immer so lupenreine Demokratietools.
+
+00:16:04.219 --> 00:16:08.971
+<v Linus Neumann>Und dann gibt es halt noch Paragon Graphite, das ist das, was hauptsächlich
+
+00:16:08.971 --> 00:16:18.921
+<v Linus Neumann>dadurch bekannt wurde, dass es in Italien eingesetzt wurde gegen auch wiederum Journalisten.
+
+00:16:22.000 --> 00:16:26.448
+<v Linus Neumann>Und ja, offenbar haben wir ein paar echt gute Oppositionelle in der Bundesregierung,
+
+00:16:27.759 --> 00:16:31.461
+<v Linus Neumann>oder die Bundesregierung setzt jetzt auch gegen Oppositionelle ein.
+
+00:16:31.966 --> 00:16:35.386
+<v Linus Neumann>Es würde natürlich schon eher davon ausgehen, dass wir es hier mit einer,
+
+00:16:37.904 --> 00:16:44.627
+<v Linus Neumann>potenziell Spionageoperation von anderen Ländern zu tun haben.
+
+00:16:44.882 --> 00:16:49.476
+<v Linus Neumann>Aber vielleicht hat Merz auch gedacht, wir kontrollieren mal die Opposition,
+
+00:16:49.476 --> 00:16:51.256
+<v Linus Neumann>das hat bei den anderen ja auch so gut funktioniert.
+
+00:16:52.179 --> 00:16:53.566
+<v Linus Neumann>Ist auf jeden Fall, denke ich, ein sehr,
+
+00:16:55.441 --> 00:17:00.225
+<v Linus Neumann>also dieser gesamte Bereich der Mercenary-Spyware ist ja wirklich ein sehr,
+
+00:17:00.962 --> 00:17:06.236
+<v Linus Neumann>ekeliger und die Betroffenen sollten sich, denke ich mal, am besten an das Amnesty
+
+00:17:06.236 --> 00:17:07.916
+<v Linus Neumann>Security Lab in Berlin wenden.
+
+00:17:09.146 --> 00:17:12.746
+<v Linus Neumann>Und wenn da die Schlange jetzt inzwischen zu lang ist, dann gäbe es halt noch
+
+00:17:12.746 --> 00:17:15.022
+<v Linus Neumann>das Citizen Lab in Toronto.
+
+00:17:15.480 --> 00:17:21.856
+<v Linus Neumann>Das sind so die beiden Organisationen, die mit solchen Fällen zumindest also
+
+00:17:21.856 --> 00:17:25.366
+<v Linus Neumann>im Forschungsbereich einfach die Maßstäbe gesetzt haben.
+
+00:17:27.276 --> 00:17:34.061
+<v Linus Neumann>Das Security Lab von Reporter ohne Grenzen wäre eben nur für Journalistinnen,
+
+00:17:34.531 --> 00:17:37.341
+<v Linus Neumann>und nicht für Politikerinnen noch eine Adresse.
+
+00:17:38.751 --> 00:17:42.420
+<v Thomas Lohninger>Und noch Thema Stalkerware. Wir haben da in Österreich auch ein Projekt mit
+
+00:17:42.420 --> 00:17:46.460
+<v Thomas Lohninger>den Frauenhäusern, wo wir die MitarbeiterInnen von denen trainieren,
+
+00:17:46.460 --> 00:17:51.400
+<v Thomas Lohninger>weil Stalkerware leider ein wirklich großes Problem geworden ist,
+
+00:17:51.400 --> 00:17:52.985
+<v Thomas Lohninger>gerade im Beziehungskontext.
+
+00:17:53.496 --> 00:17:56.671
+<v Thomas Lohninger>Und es gibt ein freies E-Learning von uns, das wir in den Show Notes verlinken,
+
+00:17:57.153 --> 00:18:00.015
+<v Thomas Lohninger>das versucht, Sensibilität für das Thema zu schaffen.
+
+00:18:00.659 --> 00:18:03.840
+<v Thomas Lohninger>Und ja, das Zeug ist leider billig geworden.
+
+00:18:03.840 --> 00:18:06.930
+<v Thomas Lohninger>Nicht natürlich diese Mercenary-Spyware, die du gerade aufgezählt hast,
+
+00:18:06.930 --> 00:18:12.728
+<v Thomas Lohninger>das sind eher Tools, die im partnerschaftlichen Kontext noch nicht so oft vorkommen zum Glück,
+
+00:18:13.308 --> 00:18:17.940
+<v Thomas Lohninger>aber es gibt ja auch andere, die nicht so teuer sind, die dann eben auch in
+
+00:18:17.940 --> 00:18:21.300
+<v Thomas Lohninger>diesem sozialen Nahefeld eingesetzt werden.
+
+00:18:21.300 --> 00:18:24.380
+<v Thomas Lohninger>Aber natürlich genauso eine Grenzüberschreitung für Menschen sein können,
+
+00:18:26.200 --> 00:18:27.200
+<v Thomas Lohninger>wenn du überwacht wirst.
+
+00:18:27.200 --> 00:18:32.130
+<v Thomas Lohninger>Und auch so Wanzen in der Wohnung sind inzwischen leider auch schon viel verbreiteter
+
+00:18:32.130 --> 00:18:35.870
+<v Thomas Lohninger>geworden. Und da hatte ich auch mal einen Fall, dass es wirklich gravierend
+
+00:18:35.870 --> 00:18:40.300
+<v Thomas Lohninger>für die Betroffenen, wenn sie nicht einmal mehr in ihrer eigenen Wohnung sich sicher fühlen können.
+
+00:18:42.593 --> 00:18:50.993
+<v Linus Neumann>Also das Red Flag wäre, der Partner administriert freundlicherweise euer Telefon,
+
+00:18:51.788 --> 00:18:54.860
+<v Linus Neumann>oder kennt das Passwort oder,
+
+00:18:56.049 --> 00:18:58.340
+<v Linus Neumann>hat euch mal ein neues geschenkt, was schon,
+
+00:18:59.920 --> 00:19:01.866
+<v Linus Neumann>freundlicherweise installiert war,
+
+00:19:02.876 --> 00:19:04.890
+<v Linus Neumann>schon mal ein paar Sachen drauf eingerichtet waren.
+
+00:19:06.533 --> 00:19:11.171
+<v Linus Neumann>Das wären so die wichtigsten Flex, die man da haben sollte,
+
+00:19:13.916 --> 00:19:19.415
+<v Linus Neumann>Dann gab es eine wunderschöne Sicherheitslücke, PHP to Shell,
+
+00:19:19.415 --> 00:19:26.025
+<v Linus Neumann>da durften wir alle einmal unsere PHP-Server updaten, das hatte große Wellen geschlagen und,
+
+00:19:26.585 --> 00:19:29.693
+<v Linus Neumann>es gab auch wieder wunderschöne Berichterstattungen bis hin zum,
+
+00:19:30.563 --> 00:19:33.060
+<v Linus Neumann>soll die Bundesregierung PHP verbieten.
+
+00:19:33.477 --> 00:19:37.465
+<v Linus Neumann>Und da hätte ich auch gedacht, das hätten sie halt irgendwie in den 90ern machen sollen, aber,
+
+00:19:39.950 --> 00:19:41.500
+<v Linus Neumann>ja, also eine,
+
+00:19:43.863 --> 00:19:52.005
+<v Linus Neumann>also wirklich auch auf eine Weise peinlich, es war irgendwie eine Speicherverwaltungsfehler in PHP,
+
+00:19:52.599 --> 00:19:59.095
+<v Linus Neumann>der sogar schon bekannt war das war halt vor Jahren schon gefleckt ein Teil davon Aber.
+
+00:19:59.095 --> 00:20:01.845
+<v Tim Pritlove>Da gab es ja keinen Exploitfilm, da muss man ja nichts machen Genau.
+
+00:20:01.845 --> 00:20:05.905
+<v Linus Neumann>Da gab es keinen Exploit, für musste man nichts machen und dann hat halt jetzt
+
+00:20:05.905 --> 00:20:08.495
+<v Linus Neumann>eine KI, ich weiß noch nicht mal welche das war oder irgendjemand mit einer
+
+00:20:08.495 --> 00:20:14.687
+<v Linus Neumann>KI halt dann die Dinger zusammengeknotet und gesagt, hier müsste man mal fixen,
+
+00:20:15.525 --> 00:20:19.755
+<v Linus Neumann>wurde gefixt und durften alle mal updaten.
+
+00:20:20.213 --> 00:20:24.845
+<v Linus Neumann>Und davon gibt es gerade eine ganze Menge und wir haben ja auch hier öfter darüber
+
+00:20:24.845 --> 00:20:27.189
+<v Linus Neumann>gesprochen, dass das...
+
+00:20:29.024 --> 00:20:34.191
+<v Linus Neumann>In Summe positiv ist, wenn Software in ihrer Qualität steigt,
+
+00:20:35.090 --> 00:20:43.133
+<v Linus Neumann>aber jetzt gerade eben kurzfristig oder mittelfristig echt die Betriebskonzepte auf die Probe stellt.
+
+00:20:43.133 --> 00:20:47.753
+<v Linus Neumann>Weil ich hab dann auch erst gedacht, ah ja, cool, dass ich irgendwie so gut
+
+00:20:47.753 --> 00:20:52.058
+<v Linus Neumann>wie kein PHP mehr betreibe, außer irgendwie ein Kontaktformular auf meiner Webseite.
+
+00:20:52.732 --> 00:20:56.443
+<v Linus Neumann>Und dann hab ich mich in meinem Heimnetz umgeschaut und gesehen,
+
+00:20:56.443 --> 00:21:00.133
+<v Linus Neumann>weißt du, auf der scheiß Firewall läuft, PHP-Server und das,
+
+00:21:07.253 --> 00:21:09.953
+<v Linus Neumann>hat eine ganze Menge Leute, eine ganze Menge Arbeit gemacht und es war sicherlich
+
+00:21:09.953 --> 00:21:12.515
+<v Linus Neumann>nicht der letzte dieser Fälle.
+
+00:21:13.427 --> 00:21:15.363
+<v Linus Neumann>Im Linux-Körner hatten wir auch gerade wieder was.
+
+00:21:15.363 --> 00:21:18.973
+<v Tim Pritlove>Die Meta-Ebene musste auch mal eine Nacht ein bisschen Pause machen.
+
+00:21:18.973 --> 00:21:21.541
+<v Linus Neumann>Wieso, waren die Talkings aufgebraucht oder warum?
+
+00:21:23.892 --> 00:21:28.703
+<v Tim Pritlove>Ne, das läuft ja alles unter FreeBSD und FreeBSD hat die Patches nicht so schnell
+
+00:21:28.703 --> 00:21:34.553
+<v Tim Pritlove>bereitgestellt, wie sie unter Linux so verfügbar waren und da das so in die Nachtschicht rein,
+
+00:21:35.345 --> 00:21:38.333
+<v Tim Pritlove>haben wir dann die Büchsen erstmal ausgeschaltet über Nacht,
+
+00:21:38.333 --> 00:21:43.393
+<v Tim Pritlove>die Dienste und das dann halt, als das dann da war am Morgen spielen lassen.
+
+00:21:44.553 --> 00:21:50.235
+<v Linus Neumann>Ich hatte auch tatsächlich vorher dann das PHP abgeschaltet.
+
+00:21:50.833 --> 00:21:52.553
+<v Linus Neumann>Geil, schreiben Sie mir eine E-Mail.
+
+00:21:54.606 --> 00:21:54.931
+<v Linus Neumann>Ja.
+
+00:21:57.183 --> 00:21:58.077
+<v Linus Neumann>Und dann gibt es jetzt,
+
+00:22:00.230 --> 00:22:05.798
+<v Linus Neumann>zunehmende Fälle von Kühltruhen und Kühlräume. Naja, du lachst.
+
+00:22:06.238 --> 00:22:06.798
+<v Tim Pritlove>Ja, natürlich.
+
+00:22:11.138 --> 00:22:13.298
+<v Linus Neumann>Wenn das dein Supermarkt hier an der Ecke ist, lachst du nicht.
+
+00:22:13.538 --> 00:22:16.165
+<v Tim Pritlove>Das war immer der Traum, dass der Kühlschrank im Internet ist.
+
+00:22:16.310 --> 00:22:21.578
+<v Tim Pritlove>Den hast du dich noch? Das war immer so dieses so, ja, IoT, dein Kühlschrank
+
+00:22:21.578 --> 00:22:25.558
+<v Tim Pritlove>im Internet, der weiß dann Bescheid, was du da noch hast und was du kaufen musst.
+
+00:22:26.458 --> 00:22:29.308
+<v Linus Neumann>Aber du weißt, dass das jetzt nicht bei den Leuten in der Wohnung der Kühlschrank
+
+00:22:29.308 --> 00:22:31.368
+<v Linus Neumann>war, ne? Ja, das waren so Unternehmen.
+
+00:22:31.368 --> 00:22:32.220
+<v Tim Pritlove>Aber naja.
+
+00:22:32.938 --> 00:22:34.738
+<v Linus Neumann>Die Unternehmen, die dir das Essen verkaufen.
+
+00:22:34.738 --> 00:22:39.563
+<v Tim Pritlove>Naja, es ist nicht so gut gelaufen, würde ich sagen. Am Ende auch nur ein Kühlschrank.
+
+00:22:42.257 --> 00:22:42.930
+<v Tim Pritlove>Kühlschrank geht.
+
+00:22:43.070 --> 00:22:48.973
+<v Linus Neumann>Ja, genau, das war vor zwei Wochen in Frankreich, jetzt in Belgien.
+
+00:22:51.038 --> 00:22:56.520
+<v Linus Neumann>Ja, ich will mich jetzt nicht in die lange Kaffeesatzleserei begeben,
+
+00:22:56.909 --> 00:22:59.312
+<v Linus Neumann>wer denn wohl hinter so etwas steckt.
+
+00:22:59.666 --> 00:23:08.600
+<v Linus Neumann>Aber es ist sicherlich eher eine staatliche Operation der Sabotage, als es eine,
+
+00:23:10.058 --> 00:23:16.138
+<v Linus Neumann>was weiß ich, irgendein Skriptkid, die hat zu lange gepromptet oder sowas. Das sind schon eher...
+
+00:23:16.178 --> 00:23:18.498
+<v Tim Pritlove>Und so ein veganer Staat, der uns die Schnitzel...
+
+00:23:19.798 --> 00:23:21.921
+<v Linus Neumann>Gerade die veganen Sachen sind in der Tiefkultur.
+
+00:23:22.519 --> 00:23:22.821
+<v Tim Pritlove>Ja?
+
+00:23:23.047 --> 00:23:23.442
+<v Linus Neumann>Ja.
+
+00:23:25.968 --> 00:23:29.428
+<v Linus Neumann>Ich glaube schon, also ich kauf dir veganen Sachen immer in der Tiefkühltruhe.
+
+00:23:30.827 --> 00:23:32.656
+<v Linus Neumann>Und frisch natürlich, Gemüse.
+
+00:23:32.656 --> 00:23:34.176
+<v Tim Pritlove>Naja, das ist doch mein.
+
+00:23:34.298 --> 00:23:37.596
+<v Linus Neumann>Aber die schmecken jetzt so ein Seitan-Bratling oder sowas.
+
+00:23:40.876 --> 00:23:46.123
+<v Linus Neumann>Ne, du hast recht, die sind immer im Kühlschrank, aber ja, die werden ja auch betroffen.
+
+00:23:46.663 --> 00:23:50.406
+<v Linus Neumann>Die darf man nämlich immer nicht einfrieren.
+
+00:23:50.406 --> 00:23:53.666
+<v Tim Pritlove>Das ist wahrscheinlich jemand, der einfach gegen Essen ist, generell.
+
+00:23:53.666 --> 00:23:57.636
+<v Linus Neumann>Gegen Essen? Also, schauen wir mal.
+
+00:23:57.696 --> 00:23:59.126
+<v Tim Pritlove>Also wahrscheinlich Bochum oder so.
+
+00:23:59.962 --> 00:24:01.315
+<v Linus Neumann>Bochum ist gegen Essen.
+
+00:24:04.391 --> 00:24:08.976
+<v Linus Neumann>Haben die denn auch nur das rot-weiße Essen? Da freut der Tim sich.
+
+00:24:10.231 --> 00:24:11.276
+<v Tim Pritlove>Auch mal einen Witz machen hier.
+
+00:24:12.096 --> 00:24:15.726
+<v Linus Neumann>Vielleicht waren das ja auch die eisernen, Tim.
+
+00:24:15.726 --> 00:24:16.551
+<v Tim Pritlove>Ach, bestimmt.
+
+00:24:16.736 --> 00:24:21.056
+<v Linus Neumann>Das ist Eis. Naja. Okay, also schon etwas,
+
+00:24:21.764 --> 00:24:26.860
+<v Linus Neumann>also sagen wir mal, Operationen, die zeigen, wie eben auch unsere Infrastruktur,
+
+00:24:28.504 --> 00:24:31.916
+<v Linus Neumann>vernetzt ist und angreifbar ist und Leute, die das machen.
+
+00:24:35.842 --> 00:24:39.219
+<v Linus Neumann>Also ich lehne mich mal ein bisschen aus dem Fenster und habe häufig gesagt,
+
+00:24:39.683 --> 00:24:43.498
+<v Linus Neumann>es gab halt eigentlich nicht unbedingt das Interesse zu sabotieren.
+
+00:24:45.096 --> 00:24:48.176
+<v Linus Neumann>Es gab nicht so wirklich einen Anlass, aber wenn du Leute echt nerven willst,
+
+00:24:48.176 --> 00:24:51.381
+<v Linus Neumann>machst du halt mal alle Kühlschränke auf 50 Grad,
+
+00:24:52.296 --> 00:24:57.069
+<v Linus Neumann>und richtest damit halt natürlich einen massenhaften Schaden an und auch eine,
+
+00:24:57.516 --> 00:25:04.256
+<v Linus Neumann>Verunsicherung in der Bevölkerung, wenn du auf einmal dir die Finger verbrennst am Heisfach.
+
+00:25:05.022 --> 00:25:06.666
+<v Linus Neumann>Da sind schon massive Schäden, die da
+
+00:25:06.666 --> 00:25:09.724
+<v Linus Neumann>in der Volkswirtschaft entstehen und Verunsicherung in der Gesellschaft.
+
+00:25:10.125 --> 00:25:15.122
+<v Linus Neumann>Das sind schon ernsthafte Operationen, würde ich sagen, ja.
+
+00:25:17.002 --> 00:25:23.799
+<v Linus Neumann>Ähm, letzte staatliche Operation. Binance. 6,3 Milliarden weniger.
+
+00:25:24.217 --> 00:25:29.891
+<v Linus Neumann>Der Bybit-Hack ist nicht mehr. Der größte heißt, ja, ich weiß nicht genau,
+
+00:25:29.891 --> 00:25:32.391
+<v Linus Neumann>wie viel bei Bybit rausgetragen wurde, hab ich schon wieder vergessen.
+
+00:25:32.652 --> 00:25:33.091
+<v Tim Pritlove>Bybit?
+
+00:25:33.431 --> 00:25:38.225
+<v Linus Neumann>Bybit, ja, das war auch so ein Exchange. Das war bis dahin, glaub ich, der größte.
+
+00:25:39.153 --> 00:25:41.742
+<v Tim Pritlove>Naja, auf jeden Fall haben sie wieder so eine Büchse aufgemacht.
+
+00:25:42.462 --> 00:25:50.874
+<v Linus Neumann>Bei Bybit wurde 1,5 Milliarden rausgeholt. 1,5 Milliarden US-Dollar.
+
+00:25:51.710 --> 00:25:55.411
+<v Linus Neumann>Und bei Binance jetzt eben auch.
+
+00:25:56.171 --> 00:26:00.091
+<v Linus Neumann>Man geht wieder davon aus, dass das die, oder zumindest die letzten,
+
+00:26:00.091 --> 00:26:05.235
+<v Linus Neumann>die ich gelesen habe, haben sich überlegt, ob es vielleicht wieder die Nordkoreaner waren.
+
+00:26:07.017 --> 00:26:12.705
+<v Linus Neumann>Die sind ganz gut in sowas. Also die, würde ich sagen, die sind Weltmarktführer im digitalen Bankraub.
+
+00:26:13.384 --> 00:26:13.907
+<v Tim Pritlove>Ja.
+
+00:26:14.023 --> 00:26:14.319
+<v Linus Neumann>Oder?
+
+00:26:14.545 --> 00:26:17.615
+<v Tim Pritlove>Und da sagt nochmal einer, man kann mit Kryptogeld nichts anfangen.
+
+00:26:18.155 --> 00:26:22.245
+<v Tim Pritlove>Also es ist, wir haben ja immer gesagt, es hat gar keine richtige Anwendung.
+
+00:26:22.245 --> 00:26:26.095
+<v Tim Pritlove>Aber so ein Terrorstaat kriegt sich damit einfach ganz gut finanziert.
+
+00:26:27.403 --> 00:26:36.012
+<v Linus Neumann>Ich habe mich gestern mit jemandem unterhalten und sagte, ja hier mit diesem Krypto-Diebstahl.
+
+00:26:36.459 --> 00:26:40.412
+<v Linus Neumann>Das habe ich gar nicht so ganz verstanden, weil ich dachte, das wäre sicher.
+
+00:26:43.275 --> 00:26:43.835
+<v Tim Pritlove>Da krypto drauf.
+
+00:26:43.835 --> 00:26:47.135
+<v Linus Neumann>Da habe ich gesagt, ja, ist auch sicher. Er ist so sicher, dass er das auf gar
+
+00:26:47.135 --> 00:26:48.035
+<v Linus Neumann>keinen Fall zurückkriegt.
+
+00:26:51.335 --> 00:26:55.175
+<v Tim Pritlove>Aber ich meine, das ist so das alte Versprechen. Banking the unbanked.
+
+00:26:57.135 --> 00:26:58.735
+<v Tim Pritlove>Das ist halt auch noch die Nordkoreaner.
+
+00:26:58.735 --> 00:27:03.695
+<v Linus Neumann>Genau, wie ist denn die banked? Also Nordkorea ist ja nun wirklich die banked
+
+00:27:04.095 --> 00:27:06.615
+<v Linus Neumann>und die brauchen Geld. Und dann holen die sich das eben.
+
+00:27:06.615 --> 00:27:08.735
+<v Tim Pritlove>Ja, und schon läuft der Hase.
+
+00:27:09.455 --> 00:27:12.815
+<v Linus Neumann>Ja, we live in interesting times. Also genießen wir die Computer,
+
+00:27:12.815 --> 00:27:16.936
+<v Linus Neumann>solange die noch alle an sind und die Kühlschränke, solange sie noch alle kalt sind.
+
+00:27:17.284 --> 00:27:18.794
+<v Tim Pritlove>Solange man sie noch bezahlen kann.
+
+00:27:19.722 --> 00:27:21.645
+<v Linus Neumann>Aber wieso? So viel RAM brauchen Kühlschranken doch gar nicht.
+
+00:27:21.645 --> 00:27:24.415
+<v Linus Neumann>Also die werden bezahlbar bleiben. Oder meinst du jetzt Computer?
+
+00:27:24.415 --> 00:27:25.167
+<v Tim Pritlove>Computer.
+
+00:27:25.551 --> 00:27:26.175
+<v Linus Neumann>Hast du noch RAM?
+
+00:27:26.555 --> 00:27:28.012
+<v Tim Pritlove>Ich hab mir grad einen gekauft.
+
+00:27:28.755 --> 00:27:33.845
+<v Linus Neumann>Hast du dir so ein MacBook Pro Pro Pro XC A? Pro LED?
+
+00:27:33.845 --> 00:27:34.409
+<v Tim Pritlove>Pro LED?
+
+00:27:34.577 --> 00:27:38.895
+<v Linus Neumann>Prolet, MacBook Prolet Hast du dir ein MacBook Prolet gekauft?
+
+00:27:38.895 --> 00:27:42.809
+<v Tim Pritlove>Das gibt es noch gar nicht Ich habe mir einen ganz kleinen Mac Mini gekauft
+
+00:27:42.983 --> 00:27:44.675
+<v Tim Pritlove>Einen ganz kleinen? Ja, einen ganz süßen.
+
+00:27:44.675 --> 00:27:47.375
+<v Linus Neumann>Mit 64 GB? Nee Noch nicht mal?
+
+00:27:48.753 --> 00:27:50.315
+<v Tim Pritlove>Was denkst du, wie viel Geld ich habe?
+
+00:27:51.628 --> 00:27:54.247
+<v Tim Pritlove>Das kann sich doch keiner mehr erlauben heutzutage.
+
+00:27:54.247 --> 00:27:58.117
+<v Linus Neumann>Ich hätte gerne einen. Meine 32 Gigs sind ein bisschen mager.
+
+00:27:58.117 --> 00:28:02.687
+<v Tim Pritlove>Ja, klar. Man kann nicht genug haben, aber man muss halt ganz ordentlich Scheine
+
+00:28:02.687 --> 00:28:05.997
+<v Tim Pritlove>auf den Tisch blittern für den Kram. Da muss man sich das schon ein paar Mal überlegen.
+
+00:28:06.377 --> 00:28:11.700
+<v Tim Pritlove>Das war jetzt eher so als neuer Heim- und Travel-Computer. Von daher, mal schauen.
+
+00:28:11.984 --> 00:28:14.157
+<v Linus Neumann>Aber da habe ich dich jetzt auch schön in die Falle rennen lassen,
+
+00:28:14.157 --> 00:28:19.090
+<v Linus Neumann>nachdem sich jetzt alle über deinen Apple-Fanboy-Tum beschweren.
+
+00:28:20.077 --> 00:28:24.027
+<v Linus Neumann>Dass du jetzt hier nochmal ganz kurz zugibst, dass du dir einen neuen RAM von Apple gekauft hast.
+
+00:28:24.027 --> 00:28:26.549
+<v Tim Pritlove>Ja klar, richtig, auch mit SSD und so.
+
+00:28:28.717 --> 00:28:31.217
+<v Linus Neumann>Ich glaube, das war so der Kurzüberblick,
+
+00:28:33.463 --> 00:28:35.617
+<v Linus Neumann>was sonst noch passiert ist. Und jetzt,
+
+00:28:37.171 --> 00:28:39.702
+<v Linus Neumann>Geht es um den DNA.
+
+00:28:40.509 --> 00:28:41.789
+<v Tim Pritlove>Um das Eingemachte geht es jetzt.
+
+00:28:41.789 --> 00:28:49.153
+<v Linus Neumann>DNA. Ich dachte erst DMA, wissen wir alle, Direct Memory Access, Digital Market Act.
+
+00:28:49.936 --> 00:28:53.257
+<v Linus Neumann>Aber darum geht es gar nicht, Thomas. Es geht um den DNA.
+
+00:28:54.714 --> 00:28:59.719
+<v Thomas Lohninger>Genau. Und der steht für Dismantling Net Neutrality Again.
+
+00:29:06.139 --> 00:29:09.569
+<v Thomas Lohninger>Es ist natürlich der Digital Networks Act. Es ist das große EU-Gesetz,
+
+00:29:09.569 --> 00:29:11.848
+<v Thomas Lohninger>an dem ich gerade arbeite.
+
+00:29:13.359 --> 00:29:19.360
+<v Thomas Lohninger>Das ist die Reform von allen Telekommunikationsgesetzen in Europa.
+
+00:29:20.419 --> 00:29:23.709
+<v Thomas Lohninger>Bisher war das ja eine Richtlinie, deswegen gab es Umsetzungsspielraum für die
+
+00:29:23.709 --> 00:29:28.532
+<v Thomas Lohninger>Mitgliedstaaten, aus dem entstanden dann unsere DKGs, die wir alle haben und vielleicht mögen.
+
+00:29:29.321 --> 00:29:34.349
+<v Thomas Lohninger>Und nun wird das zu einer Verordnung. Das heißt, dieses eine EU-Gesetz gilt
+
+00:29:34.349 --> 00:29:39.416
+<v Thomas Lohninger>dann für alle Länder direkt und damit werden die nationalen Gesetze überflüssiger.
+
+00:29:39.625 --> 00:29:42.889
+<v Linus Neumann>Du hast gerade gesagt, du arbeitest daran. Wir haben, glaube ich,
+
+00:29:42.889 --> 00:29:46.409
+<v Linus Neumann>dich gerade, also in dem Kontext sollte man ganz kurz wissen,
+
+00:29:46.409 --> 00:29:49.087
+<v Linus Neumann>wer du bist, dass du die Gesetze in der EU schreibst.
+
+00:29:50.666 --> 00:29:55.009
+<v Thomas Lohninger>Also mit ich meine ich dann natürlich wir, nämlich nicht das königliche Wir,
+
+00:29:55.009 --> 00:30:00.029
+<v Thomas Lohninger>sondern wir bei Epicenter Works, also die NGO, Deren Geschäftsführer ich bin
+
+00:30:00.029 --> 00:30:03.733
+<v Thomas Lohninger>und die ja sehr gerne mal so an EU-Gesetzen arbeitet.
+
+00:30:04.430 --> 00:30:09.322
+<v Thomas Lohninger>Netzneutralität war auch das erste Thema eigentlich, was mich aufs europäische Parkett geführt hat.
+
+00:30:09.914 --> 00:30:14.309
+<v Thomas Lohninger>Insofern nehme ich es Ihnen auch wirklich persönlich übel, dass Sie das jetzt
+
+00:30:14.309 --> 00:30:15.504
+<v Thomas Lohninger>versuchen aufzuweichen.
+
+00:30:17.066 --> 00:30:21.903
+<v Thomas Lohninger>Ja, weil dieser Digital Networks Act, der am 21. Jänner 2026 vorgestellt wurde
+
+00:30:21.903 --> 00:30:23.863
+<v Thomas Lohninger>von der EU-Kommission, der hat es in sich.
+
+00:30:23.863 --> 00:30:31.253
+<v Thomas Lohninger>Das ist eine Gesamtreform, die an ganz vielen Stellschrauben dreht und das Gesetz
+
+00:30:31.253 --> 00:30:36.356
+<v Thomas Lohninger>ist jetzt im Verhandlungsprozess schon so die ersten, sagen wir mal 30 Prozent durch.
+
+00:30:37.223 --> 00:30:41.763
+<v Thomas Lohninger>Wir haben schon zwei sogenannte Opinion-Committees, die nur ihre Meinung abgeben.
+
+00:30:41.763 --> 00:30:43.182
+<v Thomas Lohninger>Die sind schon fast fertig.
+
+00:30:43.757 --> 00:30:48.043
+<v Thomas Lohninger>Und jetzt kommen wir zum federführenden Ausschuss. Das ist der Industrieausschuss.
+
+00:30:48.043 --> 00:30:49.863
+<v Linus Neumann>Gibt es das immer, diese Opinion-Committees?
+
+00:30:51.188 --> 00:30:54.703
+<v Thomas Lohninger>Das gibt es eigentlich immer, ja. Manchmal hast du auch Shared Competency.
+
+00:30:54.703 --> 00:30:57.483
+<v Thomas Lohninger>Dann sind sogar zwei Ausschüsse zuständig für ein Gesetz.
+
+00:30:58.963 --> 00:31:03.443
+<v Thomas Lohninger>Zum Beispiel beim Digital Omnibus, der die DSGVO reformiert,
+
+00:31:03.443 --> 00:31:09.863
+<v Thomas Lohninger>sind, glaube ich, Imko und Liebe geteilt zuständig und dann müssen die beiden
+
+00:31:09.863 --> 00:31:11.473
+<v Thomas Lohninger>Ausschüsse auch gemeinsam abstimmen.
+
+00:31:11.473 --> 00:31:17.503
+<v Thomas Lohninger>Du hast zwei BerichterstatterInnen und hier ist es aber so, dass nur ein Ausschuss
+
+00:31:17.503 --> 00:31:23.413
+<v Thomas Lohninger>federführend ist und die anderen geben was ab, das man in Betracht ziehen kann,
+
+00:31:23.413 --> 00:31:25.691
+<v Thomas Lohninger>aber das hat mehr nur politisches Gewicht, nicht formal.
+
+00:31:27.203 --> 00:31:30.903
+<v Thomas Lohninger>Das heißt, dieser federführende Ausschuss, da wo wirklich der relevante Text
+
+00:31:30.903 --> 00:31:34.724
+<v Thomas Lohninger>verhandelt wird, da sind wir jetzt an der kritischen Stelle.
+
+00:31:35.380 --> 00:31:42.273
+<v Thomas Lohninger>Wir haben nämlich vor ungefähr drei Wochen, zwei Wochen den Draft Report bekommen
+
+00:31:42.273 --> 00:31:46.763
+<v Thomas Lohninger>des Berichterstatters Michal Koposko aus Polen von den Liberalen.
+
+00:31:47.419 --> 00:31:48.737
+<v Thomas Lohninger>Der Mann wird noch wichtig werden.
+
+00:31:49.521 --> 00:31:54.243
+<v Thomas Lohninger>Und jetzt wissen wir sozusagen, was ist denn wirklich die Agenda der Telekom-Industrie?
+
+00:31:54.243 --> 00:31:56.458
+<v Thomas Lohninger>Was ist wirklich das, womit wir rechnen müssen?
+
+00:31:57.230 --> 00:32:01.463
+<v Thomas Lohninger>Und der Kommissionsvorschlag hat ja schon ein paar Sachen aufgeweicht,
+
+00:32:01.463 --> 00:32:04.613
+<v Thomas Lohninger>aber jetzt sehen wir halt wirklich, wohin das Ganze führen soll.
+
+00:32:04.613 --> 00:32:10.643
+<v Thomas Lohninger>Und da würde ich gerne mal die Analyse, die wir am Freitag letzte Woche veröffentlicht
+
+00:32:10.643 --> 00:32:14.899
+<v Thomas Lohninger>haben, zusammenfassen, was droht uns denn, wenn dieses Gesetz so kommt?
+
+00:32:15.845 --> 00:32:20.181
+<v Thomas Lohninger>Natürlich geht es um Netzseutralität. Also wir haben mal ein...
+
+00:32:21.110 --> 00:32:24.990
+<v Thomas Lohninger>Fangen wir mit dem Charmantesten an. Es gibt eigentlich in der Netzneutralität
+
+00:32:24.990 --> 00:32:29.460
+<v Thomas Lohninger>diese Bestimmung, dass du kein Verkehrsmanagement machen darfst,
+
+00:32:29.460 --> 00:32:32.059
+<v Thomas Lohninger>basierend auf irgendwelchen kommerziellen Erwägungen.
+
+00:32:32.355 --> 00:32:35.140
+<v Thomas Lohninger>Du musst Daten durchleiten und ob du die magst, ob die vielleicht von einem
+
+00:32:35.140 --> 00:32:39.948
+<v Thomas Lohninger>Konkurrenten sind, ist egal. Du musst neutral sein als Internetanbieter.
+
+00:32:40.592 --> 00:32:45.190
+<v Thomas Lohninger>Und da gibt es einen schönen Text. And shall not be based on commercial considerations.
+
+00:32:45.932 --> 00:32:49.330
+<v Thomas Lohninger>Ja, und der schöne Berichterstatter Michael Koboesko fügt dann einfach das kleine
+
+00:32:49.330 --> 00:32:55.560
+<v Thomas Lohninger>Wort purely based on commercial considerations ein.
+
+00:32:56.680 --> 00:32:58.200
+<v Linus Neumann>Das ist gut. Das ist gut.
+
+00:33:00.800 --> 00:33:05.257
+<v Linus Neumann>Nicht nur ums Geld. Da muss auch noch was noch.
+
+00:33:07.068 --> 00:33:12.988
+<v Thomas Lohninger>Das lässt er offen, aber das Purely genau an der einen Stelle ist eine große
+
+00:33:12.988 --> 00:33:16.669
+<v Thomas Lohninger>Bedeutungsänderung, obwohl es nur ein Wort ist. So funktioniert das bei der Logistik.
+
+00:33:17.546 --> 00:33:21.748
+<v Thomas Lohninger>Und wir haben in Sachen Netzseutralität ganz viele Verschlechterungen.
+
+00:33:21.748 --> 00:33:27.748
+<v Thomas Lohninger>Es soll ermöglicht werden, dass du klassenbasiert Dinge anders bewerten kannst.
+
+00:33:27.748 --> 00:33:30.778
+<v Thomas Lohninger>Also was eine Klasse ist, ob was zeitkritisch ist oder nicht,
+
+00:33:30.778 --> 00:33:33.492
+<v Thomas Lohninger>entscheidet aber der Telekom-Anbieter, nicht der User.
+
+00:33:34.628 --> 00:33:39.024
+<v Thomas Lohninger>Die Spezialdienste, an die wir uns noch erinnern vom lieben Günther Oettinger,
+
+00:33:39.360 --> 00:33:43.744
+<v Thomas Lohninger>als wir die 2015 diskutiert haben, die kommen jetzt auch wieder.
+
+00:33:44.474 --> 00:33:50.192
+<v Thomas Lohninger>Und da gibt es ja im Moment diese Regel, dass du diese Spezialdienste nur dann
+
+00:33:50.355 --> 00:33:55.063
+<v Thomas Lohninger>anbieten darfst, wenn der Inhalt oder Dienst wirklich eine Optimierung braucht.
+
+00:33:55.487 --> 00:33:58.301
+<v Thomas Lohninger>Wenn du irgendwas findest, was einem neutralen Internet nicht geht,
+
+00:33:58.713 --> 00:34:04.038
+<v Thomas Lohninger>passt, mach einen Spezialdienst dafür, will er abschaffen, sodass du jeden beliebigen
+
+00:34:04.038 --> 00:34:06.851
+<v Thomas Lohninger>Dienst als Spezialdienst reklassifizieren kannst.
+
+00:34:07.246 --> 00:34:10.474
+<v Thomas Lohninger>Das heißt in der Konsequenz eine bezahlte Überholspur,
+
+00:34:11.228 --> 00:34:15.855
+<v Thomas Lohninger>weil sobald du dir diese Ausnahme von der Netzseutralität kaufst beim Internetanbieter,
+
+00:34:16.517 --> 00:34:20.808
+<v Thomas Lohninger>kannst du priorisiert werden und jede Priorisierung ist natürlich eine Benachteiligung
+
+00:34:20.808 --> 00:34:25.491
+<v Thomas Lohninger>von allen anderen Datenpaketen, die dann eben nicht auf der Überholspur sind.
+
+00:34:26.275 --> 00:34:31.748
+<v Thomas Lohninger>Und wir haben an vielen Stellen Abschwächungen im Detail und auch eine Abschwächung,
+
+00:34:31.748 --> 00:34:35.948
+<v Thomas Lohninger>was die Transparenzpflichten betrifft, die Durchsetzung dieser Rechte durch
+
+00:34:35.948 --> 00:34:37.124
+<v Thomas Lohninger>die Regulierungsbehörden.
+
+00:34:37.618 --> 00:34:42.047
+<v Thomas Lohninger>Die Kommission kriegt eine viel stärkere Rolle bei der Auslegung des Gesetzes.
+
+00:34:43.448 --> 00:34:47.958
+<v Thomas Lohninger>Das ist dann mittels einem Implementing Act, also da entscheidet die Kommission
+
+00:34:47.958 --> 00:34:51.167
+<v Thomas Lohninger>unilateral, wie diese Regeln auszuschauen haben.
+
+00:34:51.765 --> 00:34:54.725
+<v Thomas Lohninger>Die Mitgliedstaaten müssen zwar noch zustimmen oder nicht dagegen sein,
+
+00:34:55.259 --> 00:34:57.249
+<v Thomas Lohninger>aber das Parlament hat da gar nichts mehr zu melden.
+
+00:34:58.311 --> 00:35:02.048
+<v Thomas Lohninger>Und das ist halt bei so ganz kritischen Fragen, wo es um die Grenzziehung eines
+
+00:35:02.048 --> 00:35:05.214
+<v Thomas Lohninger>Grundrechts geht, ganz besorgniserregend.
+
+00:35:06.328 --> 00:35:11.796
+<v Thomas Lohninger>Dann ist das große Thema Netzgebühren, Fair Share, wie es die Telcos nennen, hier auch drinnen.
+
+00:35:12.301 --> 00:35:16.643
+<v Thomas Lohninger>Und zwar ganz konkret, alle Inhalte, Anbieter oder Netzwerke,
+
+00:35:16.643 --> 00:35:20.783
+<v Thomas Lohninger>die mehr als zwei Prozent oder mindestens zwei Prozent des Internetaufkommens
+
+00:35:20.783 --> 00:35:24.196
+<v Thomas Lohninger>in Europa ausmachen, sollen zur Kasse gebeten werden.
+
+00:35:24.782 --> 00:35:28.763
+<v Thomas Lohninger>Da gibt es dann eine Verhandlungspflicht und die müssen sich dann hinsetzen
+
+00:35:28.763 --> 00:35:32.623
+<v Thomas Lohninger>mit der Deutschen Telekom und darüber verhandeln, wie viel sie ihr zahlen wollen
+
+00:35:32.623 --> 00:35:37.501
+<v Thomas Lohninger>dafür, dass sie die Daten ins Internet, ins Netz der Telekom liefern dürfen.
+
+00:35:38.673 --> 00:35:43.294
+<v Thomas Lohninger>De facto funktioniert die Internetleitung dann nur noch, wenn an beiden Enden Geld gezahlt wird.
+
+00:35:43.793 --> 00:35:49.073
+<v Thomas Lohninger>Und auch wenn wir für unseren Internetzugang zahlen, um global beliebige Daten
+
+00:35:49.073 --> 00:35:53.113
+<v Thomas Lohninger>abzurufen oder zur Verfügung zu stellen, funktioniert das Internet dann in Europa
+
+00:35:53.113 --> 00:35:55.634
+<v Thomas Lohninger>nur noch, wenn an beiden Enden auch gezahlt wird.
+
+00:35:56.389 --> 00:36:01.063
+<v Thomas Lohninger>Und die zwei Prozent, die hat er sich halt ausgedacht, wenn man sich aber anschaut.
+
+00:36:01.063 --> 00:36:07.423
+<v Thomas Lohninger>Wie das ist mit Medienunternehmen, also gerade auch wenn du Cloud-Anbieter hinzurechnest,
+
+00:36:07.423 --> 00:36:09.373
+<v Thomas Lohninger>werden da viele Medien davon betroffen sein.
+
+00:36:09.373 --> 00:36:13.233
+<v Thomas Lohninger>Also die Öffentlich-Rechtlichen in Deutschland hosten zum Teil auf der Google
+
+00:36:13.233 --> 00:36:15.186
+<v Thomas Lohninger>Cloud. Die wird dann natürlich teurer.
+
+00:36:15.749 --> 00:36:19.592
+<v Thomas Lohninger>Auch große Cloud-Anbieter in Europa könnten da drunter fallen, CDNs sowieso.
+
+00:36:20.693 --> 00:36:26.103
+<v Thomas Lohninger>Und da fallen auf einmal halt eine große Umverteilung der gesamten Gesellschaft
+
+00:36:26.103 --> 00:36:27.910
+<v Thomas Lohninger>in Richtung der Telekom-Industrie.
+
+00:36:30.174 --> 00:36:32.163
+<v Thomas Lohninger>Wir haben Verschlechterungen.
+
+00:36:32.163 --> 00:36:38.104
+<v Linus Neumann>Das muss man, glaube ich, nochmal kurz in Ruhe erklären. Ja.
+
+00:36:39.287 --> 00:36:44.268
+<v Linus Neumann>Die Idee ist, die Cloud-Anbieter pumpen ja viel in dieses Netz rein.
+
+00:36:44.622 --> 00:36:45.833
+<v Linus Neumann>Das heißt, der größere Teil,
+
+00:36:47.873 --> 00:36:49.382
+<v Linus Neumann>dessen, was die Telekom,
+
+00:36:51.533 --> 00:36:58.423
+<v Linus Neumann>oder dein Internetprovider an Leistungen erbringt, wird belastet durch diese Cloud-Anbieter.
+
+00:36:58.423 --> 00:37:02.616
+<v Linus Neumann>Oder wahlweise dient diesen Cloud-Anbietern,
+
+00:37:03.138 --> 00:37:14.168
+<v Linus Neumann>Weil sie quasi Hauptnutznießerinnen des Anschlusses sind, für den du bei deinem Provider bezahlst.
+
+00:37:14.499 --> 00:37:20.478
+<v Linus Neumann>Und die Idee ist dann zu sagen, jo, dann müssen die eben mehr bezahlen.
+
+00:37:20.629 --> 00:37:30.123
+<v Linus Neumann>Oder dein Internetanbieter darf nicht purely, aber schon einfach dir mehr Geld
+
+00:37:30.123 --> 00:37:32.784
+<v Linus Neumann>abnehmen und sagen, pass auf, du zahlst dir übrigens Wegzoll.
+
+00:37:33.150 --> 00:37:38.235
+<v Linus Neumann>Und dann denkt man irgendwie so, ah ja cool, dann schröpfen wir die großen Cloud-Anbieter,
+
+00:37:39.420 --> 00:37:41.422
+<v Linus Neumann>vergessen dabei einerseits.
+
+00:37:43.713 --> 00:37:46.723
+<v Linus Neumann>Dass sie große Cloud-Anbieter auch deshalb heißen, weil sehr,
+
+00:37:46.723 --> 00:37:50.482
+<v Linus Neumann>sehr viele dort hosten und die werden natürlich diese,
+
+00:37:51.736 --> 00:37:57.819
+<v Linus Neumann>Marktmacht, die sie haben, einfach nur, also wenn man denen jetzt extra Kosten,
+
+00:37:59.021 --> 00:38:02.928
+<v Linus Neumann>auferlegt, werden sie das natürlich willkommen nutzen.
+
+00:38:03.473 --> 00:38:08.007
+<v Linus Neumann>Um diese für eine Preiserhöhung zu nutzen, um ihre Marge zu retten.
+
+00:38:08.280 --> 00:38:12.413
+<v Linus Neumann>Und das heißt, am Ende sind dann zumindest, glaube ich, muss man schon auch
+
+00:38:12.413 --> 00:38:17.113
+<v Linus Neumann>ehrlich sein, die deutschen oder die europäischen Unternehmen,
+
+00:38:17.113 --> 00:38:19.821
+<v Linus Neumann>die dann diese Cloud Services nutzen,
+
+00:38:21.679 --> 00:38:23.083
+<v Linus Neumann>Die müssen ja eben auch mehr zahlen.
+
+00:38:24.436 --> 00:38:24.948
+<v Thomas Lohninger>Absolut.
+
+00:38:25.448 --> 00:38:34.316
+<v Linus Neumann>Aber man muss auch sagen, dass natürlich sehr viele US-Unternehmen diese Cloud-Services nutzen,
+
+00:38:35.564 --> 00:38:38.648
+<v Linus Neumann>und ob die dann mehr zahlen müssten oder nicht, sei dahingestellt,
+
+00:38:38.648 --> 00:38:45.050
+<v Linus Neumann>aber zumindest dieser Teil würde jetzt nicht unmittelbar der europäischen Wirtschaft schaden.
+
+00:38:46.390 --> 00:38:49.967
+<v Thomas Lohninger>Ja, also auf der einen Seite ist es wichtig herauszustreichen,
+
+00:38:49.967 --> 00:38:55.828
+<v Thomas Lohninger>dass die Nachfrage nach irgendeinem Inhalt im Internet ja von uns als Kundinnen kommt.
+
+00:38:55.991 --> 00:39:03.415
+<v Thomas Lohninger>Und wir auf Netflix auf ein Video klicken und erst dann wird das ins Netz der Telekom geschickt.
+
+00:39:04.170 --> 00:39:08.471
+<v Thomas Lohninger>Und dadurch ist schon mal diese Kausalität zu hinterfragen.
+
+00:39:09.677 --> 00:39:13.267
+<v Thomas Lohninger>Zweitens ist es so, dass das Internet eigentlich immer schon so funktioniert
+
+00:39:13.267 --> 00:39:17.521
+<v Thomas Lohninger>hat, dass Zusammenschaltung, wenn es jetzt nicht um Transit geht,
+
+00:39:17.754 --> 00:39:20.801
+<v Thomas Lohninger>nicht kommerzialisiert ist. Sondern dass da immer.
+
+00:39:23.937 --> 00:39:29.247
+<v Thomas Lohninger>Das große, ganze globale Kollektivität zu erzeugen, einfach wichtiger war,
+
+00:39:29.247 --> 00:39:34.635
+<v Thomas Lohninger>als jetzt für die Durch- oder Einleitung von Daten nochmal die Hand aufzuhalten.
+
+00:39:35.128 --> 00:39:38.913
+<v Thomas Lohninger>Also wenn es um Peering geht, um das auf Augenhöhe zusammenschalten von Netzen,
+
+00:39:39.797 --> 00:39:48.966
+<v Thomas Lohninger>gibt es Zahlen des 2021, dass 99,9996 Prozent aller Vereinbarungen ohne Bezahlung sind.
+
+00:39:49.088 --> 00:39:52.170
+<v Thomas Lohninger>Das heißt, das war immer ein nicht kommerzieller Bereich.
+
+00:39:52.600 --> 00:39:56.094
+<v Thomas Lohninger>Nur ganz wenige große Internetanbieter, wie eben die Telekom in Deutschland,
+
+00:39:57.057 --> 00:40:00.287
+<v Thomas Lohninger>verlangen überhaupt Geld dafür, sich zusammenzuschalten. Wodafone macht das
+
+00:40:00.287 --> 00:40:04.967
+<v Thomas Lohninger>jetzt auch, haben sie vor einem Jahr angekündigt, dass sie auch gerne dafür
+
+00:40:04.967 --> 00:40:06.996
+<v Thomas Lohninger>bezahlt werden würden, Daten zuzustellen.
+
+00:40:07.548 --> 00:40:10.560
+<v Thomas Lohninger>Aber das machen bisher nur die ganz Großen mit ihrer Marktmacht.
+
+00:40:11.170 --> 00:40:17.567
+<v Thomas Lohninger>Wir wissen auch aus der Netzbremsekampagne, dass die Telekom hier den Big Tech
+
+00:40:17.567 --> 00:40:21.973
+<v Thomas Lohninger>Firmen einen Mengenrabatt gibt. Die zahlen also weniger für die Kapazität als,
+
+00:40:22.478 --> 00:40:24.382
+<v Thomas Lohninger>irgendein europäisches Unternehmen.
+
+00:40:25.531 --> 00:40:30.685
+<v Thomas Lohninger>Und über diese Regelung würde natürlich diese Praxis, dass man für Zusammenschaltungen
+
+00:40:30.685 --> 00:40:34.657
+<v Thomas Lohninger>überhaupt Geld verlangt, erst so richtig Schule machen und in die Breite kommen.
+
+00:40:35.133 --> 00:40:39.527
+<v Thomas Lohninger>Und da riskieren wir natürlich schon die globale Konnektivität auf Augenhöhe.
+
+00:40:39.951 --> 00:40:44.821
+<v Thomas Lohninger>Und das, was das Internet ganz und als Level-Plainfield ausmacht,
+
+00:40:45.355 --> 00:40:47.711
+<v Thomas Lohninger>das droht hier schon unter die Räder zu kommen.
+
+00:40:48.448 --> 00:40:52.195
+<v Thomas Lohninger>Gerade eben, weil dieser Text auch diese Verhandlungspflicht und das Einschreiten
+
+00:40:52.195 --> 00:40:53.690
+<v Thomas Lohninger>der Regulierungsbehörde vorsieht,
+
+00:40:54.276 --> 00:40:58.325
+<v Thomas Lohninger>kann man davon ausgehen, dass die Netzgebühren damit Realität würden.
+
+00:40:58.325 --> 00:41:01.845
+<v Thomas Lohninger>Und das ist immer so gemunkelt worden, dass das doch der Plan ist.
+
+00:41:01.845 --> 00:41:06.589
+<v Thomas Lohninger>Das haben wir immer gesagt, hey, das droht uns und jetzt liegt es halt schwarz auf weiß am Tisch.
+
+00:41:08.335 --> 00:41:12.375
+<v Thomas Lohninger>Und wir haben zum Glück da eine große Koalition, weil auch die Öffentlich-Rechtlichen,
+
+00:41:12.375 --> 00:41:15.935
+<v Thomas Lohninger>die Privatmedien, die Urheberrechtsindustrie, Wikimedia und Creative Commons,
+
+00:41:16.312 --> 00:41:18.866
+<v Thomas Lohninger>da sind sich eigentlich alle einig, dass sie das nicht wollen.
+
+00:41:19.679 --> 00:41:24.271
+<v Thomas Lohninger>Aber der Berichterstatter, der sehr viel Macht hat in dem Prozess, der will das halt.
+
+00:41:25.855 --> 00:41:33.507
+<v Thomas Lohninger>Und dadurch droht uns das jetzt. Und ich befürchte ja eh, dass wir gerade bei dem Thema,
+
+00:41:34.795 --> 00:41:37.655
+<v Thomas Lohninger>gibt es so eine Verschiebung, dass man sagt, ja, aber die verdienen so viel
+
+00:41:37.655 --> 00:41:41.889
+<v Thomas Lohninger>Geld, sollte man sie dazu nicht zur Kasse bitten. Das ist immer wichtig rauszustreichen.
+
+00:41:42.481 --> 00:41:46.205
+<v Thomas Lohninger>Videostreaming ist nicht das profitable Geschäftsmodell im Netz,
+
+00:41:46.205 --> 00:41:51.795
+<v Thomas Lohninger>sondern das ist eher E-Commerce und Suche und inzwischen wahrscheinlich auch schon KI zum Teilen.
+
+00:41:52.475 --> 00:41:57.745
+<v Thomas Lohninger>Aber die Menge an Bandbreite, die du für einen Videostreaming-Dienst ausrufst,
+
+00:41:57.745 --> 00:42:02.725
+<v Thomas Lohninger>ist halt um Welten größer als das, was der Revenue ist, wohingegen viele andere
+
+00:42:02.725 --> 00:42:07.455
+<v Thomas Lohninger>Dienste fast keine Daten verbrauchen, aber mehr Geld einnehmen.
+
+00:42:07.455 --> 00:42:11.360
+<v Thomas Lohninger>Und da wäre halt eine Umsatzbesteuerung viel klüger gewesen und auch zielgerichteter.
+
+00:42:13.106 --> 00:42:13.541
+<v Linus Neumann>Mhm.
+
+00:42:16.922 --> 00:42:18.802
+<v Tim Pritlove>Welchem Stand ist denn der Prozess jetzt?
+
+00:42:19.742 --> 00:42:25.122
+<v Thomas Lohninger>Also wir sind jetzt gerade an dem Punkt, wo der Berichterstatter hat seinen
+
+00:42:25.522 --> 00:42:26.551
+<v Thomas Lohninger>Draft Report vorgelegt.
+
+00:42:26.726 --> 00:42:30.392
+<v Thomas Lohninger>Jetzt ist Deadline für Amendments noch bis zum 12. November,
+
+00:42:30.392 --> 00:42:33.279
+<v Thomas Lohninger>also Donnerstag nächste Woche zum Mittag.
+
+00:42:34.063 --> 00:42:39.595
+<v Thomas Lohninger>Und dann liegt alles am Tisch, was vom Parlament als Position eingebracht wird.
+
+00:42:40.176 --> 00:42:47.424
+<v Thomas Lohninger>All diese Texte, also wir haben dieser, der Bericht des Berichterstatters hat 336 Seiten.
+
+00:42:48.196 --> 00:42:51.582
+<v Thomas Lohninger>Den haben wir schon reduziert auf die relevanten 60 Seiten von dem,
+
+00:42:51.582 --> 00:42:55.818
+<v Thomas Lohninger>was aus Menschenrechts- und Konsumentinnenperspektive wichtig ist.
+
+00:42:56.683 --> 00:43:00.706
+<v Thomas Lohninger>Und wir rechnen damit, dass jetzt über die anderen Fraktionen im Parlament noch,
+
+00:43:01.305 --> 00:43:06.192
+<v Thomas Lohninger>1000 bis 3000 Seiten an Änderungsanträgen dazukommen werden.
+
+00:43:06.917 --> 00:43:10.272
+<v Thomas Lohninger>Das ist so das Overton-Window. Alles, was da jetzt eingebracht wird,
+
+00:43:10.272 --> 00:43:12.369
+<v Thomas Lohninger>definiert, worüber nachher verhandelt wird.
+
+00:43:12.873 --> 00:43:18.202
+<v Thomas Lohninger>Je später es ist im Gesetzgebungsverfahren in Europa, umso spitzer ist die Pyramide
+
+00:43:18.202 --> 00:43:19.142
+<v Thomas Lohninger>des Möglichkeitsraums.
+
+00:43:20.122 --> 00:43:23.762
+<v Thomas Lohninger>Jetzt ist noch der Zeitpunkt, neue Ideen einzubringen. Da haben wir auch ein
+
+00:43:23.762 --> 00:43:25.110
+<v Thomas Lohninger>paar, zu denen komme ich noch.
+
+00:43:26.143 --> 00:43:28.812
+<v Thomas Lohninger>Aber zuerst, was steht in dem Bericht noch drinnen? Wir haben Verschlechterungen
+
+00:43:28.812 --> 00:43:30.362
+<v Thomas Lohninger>beim Datenschutz. Bisher war
+
+00:43:30.362 --> 00:43:34.073
+<v Thomas Lohninger>es so, dass ein Telekom-Anbieter nicht deine Verkehrsdaten anschauen darf.
+
+00:43:35.342 --> 00:43:38.552
+<v Thomas Lohninger>Das verhindert die Privacy-Richtlinie, die das Briefgeheimnis,
+
+00:43:38.552 --> 00:43:40.138
+<v Thomas Lohninger>das Fernmeldegeheimnis regelt.
+
+00:43:40.672 --> 00:43:44.683
+<v Thomas Lohninger>Das will er abschaffen und für Fraud Prevention, also Betrugsbekämpfung,
+
+00:43:45.089 --> 00:43:50.343
+<v Thomas Lohninger>sollen Internetanbieter dann die Metadaten in ihrem Internet überwachen dürfen.
+
+00:43:51.102 --> 00:43:53.792
+<v Thomas Lohninger>Und da wissen wir auch, sobald die verarbeitet werden, fallen sie unter die
+
+00:43:53.792 --> 00:43:58.382
+<v Thomas Lohninger>Vorratsdatenspeicherung oder unter Zugriff der Strafverfolgungsbehörden,
+
+00:43:58.382 --> 00:44:02.742
+<v Thomas Lohninger>weil die dürfen auf alles zugreifen, was aus betrieblichen Zwecken vorhanden ist.
+
+00:44:04.380 --> 00:44:07.072
+<v Thomas Lohninger>Wir haben massive Verschlechterungen beim Konsumentinnenschutzrecht.
+
+00:44:08.300 --> 00:44:13.829
+<v Thomas Lohninger>Zum Beispiel wird auch die maximale Vertragslaufzeit abgeschafft.
+
+00:44:14.241 --> 00:44:18.890
+<v Thomas Lohninger>Bisher ist es so in Europa, dass du keinen Internetvertrag anbieten darfst,
+
+00:44:18.890 --> 00:44:24.063
+<v Thomas Lohninger>der eine Mindestvertragslaufzeit von mehr als 24 Monaten, also zwei Jahren hat.
+
+00:44:24.887 --> 00:44:27.170
+<v Thomas Lohninger>Und das ist auch gut, weil ich meine, wenn du einen Vertrag abschließt und da
+
+00:44:27.170 --> 00:44:29.439
+<v Thomas Lohninger>bist du fünf Jahre gebunden, das wäre doch ein Wahnsinn.
+
+00:44:30.251 --> 00:44:34.620
+<v Thomas Lohninger>Noch dazu ist es verboten, Termination Fees zu verlangen. Also du willst raus
+
+00:44:34.620 --> 00:44:36.851
+<v Thomas Lohninger>aus dem Vertrag, musst du extra zahlen.
+
+00:44:37.940 --> 00:44:42.640
+<v Thomas Lohninger>Das will er beides abschaffen. Dass du Verträge mit potenziell unendlicher Laufzeit
+
+00:44:42.640 --> 00:44:44.931
+<v Thomas Lohninger>hast und wenn du raus bist, musst du noch extra zahlen.
+
+00:44:45.447 --> 00:44:50.480
+<v Thomas Lohninger>Das hilft natürlich nur den schlimmsten Internetanbietern, vor denen die Kunden weglaufen wollen.
+
+00:44:51.194 --> 00:44:56.160
+<v Thomas Lohninger>Und da gibt es auch zig Studien von Regulierungsbehörden, was den Markt lebendig
+
+00:44:56.160 --> 00:45:00.320
+<v Thomas Lohninger>hält und Wettbewerb fördert ist, wenn Leute mit ihren Füßen abstimmen können
+
+00:45:00.320 --> 00:45:04.465
+<v Thomas Lohninger>und von schlechten Anbietern auch wieder wegkommen, will er abschaffen.
+
+00:45:05.900 --> 00:45:10.650
+<v Thomas Lohninger>Es gibt ja immer dieses große Thema vom Funkspektren, also die Frequenzbänder,
+
+00:45:10.650 --> 00:45:14.112
+<v Thomas Lohninger>über die Mobilfunk funktioniert, die werden um viel Geld versteigert.
+
+00:45:14.722 --> 00:45:19.640
+<v Thomas Lohninger>Und da gibt es auch maximale Jahre, in die die vergeben werden dürfen.
+
+00:45:19.640 --> 00:45:22.540
+<v Thomas Lohninger>Das sind oft Dekaden, in denen die vergeben werden. Will er auch abschaffen,
+
+00:45:22.540 --> 00:45:25.659
+<v Thomas Lohninger>sodass du bis zu 100 Jahre lang ein Spektrum hast.
+
+00:45:26.378 --> 00:45:29.970
+<v Thomas Lohninger>Das bedeutet dann halt auch, dass du, klassisches Rent-Seeking,
+
+00:45:29.970 --> 00:45:33.520
+<v Thomas Lohninger>ja, du hast das Spektrum einmal gekauft, egal wie der Markt oder die Situation
+
+00:45:33.520 --> 00:45:36.320
+<v Thomas Lohninger>sich verändert, gehört dir, kannst du immer zu Geld machen.
+
+00:45:38.400 --> 00:45:42.350
+<v Thomas Lohninger>Es gibt noch zwei Bereiche, wo es ein bisschen besser ist. Das ist einerseits
+
+00:45:42.350 --> 00:45:45.226
+<v Thomas Lohninger>die Unabhängigkeit der Regulierungsbehörden, da gibt es ein paar,
+
+00:45:46.346 --> 00:45:48.203
+<v Thomas Lohninger>Graue oder schwarze Schafe in Europa,
+
+00:45:48.593 --> 00:45:52.262
+<v Thomas Lohninger>da hat er sogar Verbesserungen vorgeschlagen, auch wenn er Barrack.
+
+00:45:54.353 --> 00:45:57.943
+<v Thomas Lohninger>Barrack ist so der Zusammenschluss der Bundesnetzagentur und der Telekom-Regierungsbehörde
+
+00:45:57.943 --> 00:46:02.095
+<v Thomas Lohninger>RTR in Österreich, da will es verschlechtern, aber national will es verstärken,
+
+00:46:02.989 --> 00:46:06.792
+<v Thomas Lohninger>und Routerfreiheit soll es endlich auch in ganz Europa geben.
+
+00:46:07.353 --> 00:46:11.703
+<v Thomas Lohninger>Das ist ein Thema, was uns auch wichtig ist und zuletzt noch Carrier Neutrality,
+
+00:46:11.703 --> 00:46:14.683
+<v Thomas Lohninger>also dass du, wenn du dir zum Beispiel eine Apple Watch kaufst,
+
+00:46:14.683 --> 00:46:19.736
+<v Thomas Lohninger>kannst du ja nur gewisse E-Sims da reinladen und nicht zum Beispiel von irgendeinem,
+
+00:46:21.048 --> 00:46:24.950
+<v Thomas Lohninger>kleinen virtuellen Mobilfunker. Ist das so?
+
+00:46:25.129 --> 00:46:30.273
+<v Thomas Lohninger>Ja, das ist so leider, weil die APN-Profile von dem Hersteller unterstützt werden
+
+00:46:30.273 --> 00:46:35.123
+<v Thomas Lohninger>müssen. Und das ist vor allem für die billigen Mobilfunkanbieter in vielen Ländern
+
+00:46:35.123 --> 00:46:38.984
+<v Thomas Lohninger>ein Ausschlusskriterium. Die funktionieren dann nicht mit diesen Wearable Gadgets.
+
+00:46:40.053 --> 00:46:44.133
+<v Thomas Lohninger>Das ist eine Idee, die kommt von einem österreichischen Carrier und die haben
+
+00:46:44.133 --> 00:46:45.781
+<v Thomas Lohninger>es geschafft, dass sie das da rein sneaken.
+
+00:46:47.349 --> 00:46:53.908
+<v Thomas Lohninger>Also das ist so grob in a nutshell, was in diesen 336 Seiten,
+
+00:46:54.431 --> 00:46:56.113
+<v Thomas Lohninger>Ist das so? Draft Report drinnen steht.
+
+00:46:59.373 --> 00:47:00.013
+<v Linus Neumann>Das ist,
+
+00:47:02.813 --> 00:47:08.573
+<v Linus Neumann>nicht mein Hauptfachgebiet, aber ich erinnere mich, dass die Mobilfunknetze,
+
+00:47:09.653 --> 00:47:18.371
+<v Linus Neumann>irgendetwas haben müssen, um diese Carrier oder SIM-Profiles für Apple-Geräte signieren zu können.
+
+00:47:18.841 --> 00:47:22.649
+<v Linus Neumann>Ich kann mir nur nicht, also ausstellen zu können. Also da steht ein,
+
+00:47:23.833 --> 00:47:27.573
+<v Linus Neumann>da ist was im Architektur-Diagramm und das ist, das sorgt dafür,
+
+00:47:27.573 --> 00:47:31.281
+<v Linus Neumann>dass wir E-Sims auf Apple-Geräte machen können.
+
+00:47:31.933 --> 00:47:34.033
+<v Linus Neumann>Das stimmt schon. Ja.
+
+00:47:35.489 --> 00:47:36.356
+<v Linus Neumann>Ich wusste nur,
+
+00:47:39.216 --> 00:47:43.088
+<v Linus Neumann>nicht, dass das nicht alle kaufen können.
+
+00:47:44.096 --> 00:47:49.136
+<v Thomas Lohninger>Ja, also das ist scheinbar eine Marketingfrage für Apple, wem sie erlauben,
+
+00:47:49.136 --> 00:47:51.755
+<v Thomas Lohninger>Internet zu ihren Wearables anzubieten.
+
+00:47:53.116 --> 00:47:58.276
+<v Thomas Lohninger>Bei Telefon gibt es ja einfach die entsperrte Variante, aber bei den eSIMs dürfte
+
+00:47:58.276 --> 00:48:01.946
+<v Thomas Lohninger>das kein so entkoppelter Markt sein. Und da ist es natürlich gut,
+
+00:48:01.946 --> 00:48:03.301
+<v Thomas Lohninger>wenn wir die Wahlfreiheit haben.
+
+00:48:03.545 --> 00:48:08.066
+<v Thomas Lohninger>Es ist dieselbe Logik wie bei Routerfreiheit, dass du deinen Internetanschluss
+
+00:48:08.066 --> 00:48:10.476
+<v Thomas Lohninger>mit einem beliebigen Gerät verwenden darfst.
+
+00:48:11.132 --> 00:48:15.386
+<v Thomas Lohninger>Und das sind so grob die Themen, die jetzt schon mal in dem Bericht da sind.
+
+00:48:15.386 --> 00:48:18.911
+<v Thomas Lohninger>Und dann gibt es aber noch zwei, die wir dem Ganzen hinzufügen wollen,
+
+00:48:19.474 --> 00:48:22.457
+<v Thomas Lohninger>neben dem Erhalt der Netzentralität und dem Verhindern von all dem Bösen.
+
+00:48:23.166 --> 00:48:26.144
+<v Thomas Lohninger>Es ist nämlich auch Vorratsdatenspeicherung in diesem Gesetz drinnen.
+
+00:48:26.300 --> 00:48:30.306
+<v Linus Neumann>Oh nein. Und zwar. Lassen Sie doch nichts Neues einfallen. Doch,
+
+00:48:30.306 --> 00:48:33.796
+<v Linus Neumann>haben Sie. Videoüberwachung mit Gesichtern. Das war was Neues.
+
+00:48:35.390 --> 00:48:39.306
+<v Linus Neumann>Das gab es früher nicht, aber da werden Sie irgendwann auch sagen,
+
+00:48:39.306 --> 00:48:46.746
+<v Linus Neumann>da machen wir jetzt Vorratsdatenspeicherung. Weißt du? Da ist mal so die Innovation, die ist da nicht.
+
+00:48:46.746 --> 00:48:50.076
+<v Tim Pritlove>Ich bitte dich, die Politiker sind alt. Die sind es gewohnt.
+
+00:48:50.076 --> 00:48:53.019
+<v Tim Pritlove>Die können sich nicht die ganze Zeit mit neuen Sachen beschäftigen.
+
+00:48:54.291 --> 00:49:00.496
+<v Thomas Lohninger>Also Hintergrund bei der Vorratsdatenspeicherung ist gar nicht so unspannend. Satelliteninternet.
+
+00:49:02.174 --> 00:49:03.316
+<v Thomas Lohninger>Normalerweise ist es so.
+
+00:49:03.316 --> 00:49:06.359
+<v Linus Neumann>Telekomnetze… Thomas, das ist ja ein Weltraum.
+
+00:49:08.419 --> 00:49:10.509
+<v Thomas Lohninger>Und deswegen hält er sich nicht an Landesgrenzen.
+
+00:49:10.642 --> 00:49:14.607
+<v Linus Neumann>Genau, Weltraumtheorie, das hat das im NSA-Untersuchungsausschuss.
+
+00:49:14.607 --> 00:49:15.707
+<v Thomas Lohninger>Ah ja, der BND war das.
+
+00:49:15.707 --> 00:49:22.490
+<v Linus Neumann>Ja, ja. Im Weltraum, da gelten die Gesetze nicht mehr. Im Himmel regiert der liebe Gott.
+
+00:49:24.447 --> 00:49:28.510
+<v Thomas Lohninger>Also laut den Plänen der EU-Kommission regiert die EU-Kommission im Himmel.
+
+00:49:29.827 --> 00:49:33.267
+<v Thomas Lohninger>Weil da sollen nicht mehr die Regulierungsbehörden der Mitgliedstaaten zuständig
+
+00:49:33.267 --> 00:49:37.637
+<v Thomas Lohninger>sein, sondern Satelliteninternet, da macht die Autorisierung,
+
+00:49:37.637 --> 00:49:39.487
+<v Thomas Lohninger>Und alles dann die EU-Kommission.
+
+00:49:40.107 --> 00:49:44.707
+<v Thomas Lohninger>Und die vergibt die Lizenzen auch. Da gibt es zwei Gesetze in den DNA und die
+
+00:49:44.707 --> 00:49:47.602
+<v Thomas Lohninger>MSS, Mobile Satellite Services Act.
+
+00:49:48.607 --> 00:49:51.880
+<v Thomas Lohninger>Und in beiden gibt es eine ganz lustige Bestimmung, die nämlich sagt,
+
+00:49:53.007 --> 00:49:57.907
+<v Thomas Lohninger>ja, also weil die Kommission entscheidet, wer so ein Satelliteninternet betreiben
+
+00:49:57.907 --> 00:50:01.452
+<v Thomas Lohninger>darf, muss sie ja Autorisierungen feststellen.
+
+00:50:02.447 --> 00:50:05.807
+<v Linus Neumann>Das kann man ja nicht den Mitgliedstaaten überlassen. Die entscheiden,
+
+00:50:05.807 --> 00:50:07.762
+<v Linus Neumann>wer ein Satelliten-Internet betreiben darf?
+
+00:50:08.418 --> 00:50:12.177
+<v Thomas Lohninger>Also die Autorisierung, ob du ein öffentliches Kommunikationsnetzwerk anbieten
+
+00:50:12.177 --> 00:50:16.167
+<v Thomas Lohninger>darfst in Europa, liegt hier bei der EU-Kommission. Die macht die Autorisierung,
+
+00:50:16.167 --> 00:50:17.660
+<v Thomas Lohninger>so ein Netz betreiben zu dürfen.
+
+00:50:19.227 --> 00:50:23.267
+<v Linus Neumann>Das heißt, wenn Elon Musk uns irgendwann mit den KI-Drohnen angreift,
+
+00:50:23.267 --> 00:50:27.742
+<v Linus Neumann>dann sagen wir einfach, du darfst ja gar kein Internet machen. Und dann?
+
+00:50:29.953 --> 00:50:34.633
+<v Tim Pritlove>Das hat ja auch was mit Frequenzräumen und so weiter zu tun, das macht schon Sinn.
+
+00:50:36.014 --> 00:50:39.893
+<v Thomas Lohninger>Also es gibt da Frequenzbänder, die mit Ende dieses Jahres auslaufen.
+
+00:50:39.893 --> 00:50:43.233
+<v Thomas Lohninger>Deswegen ist das auch ein separates Gesetz, weil man die schneller verhandeln
+
+00:50:43.233 --> 00:50:45.493
+<v Thomas Lohninger>muss, damit die Lizenzen nicht auslaufen.
+
+00:50:46.260 --> 00:50:50.893
+<v Thomas Lohninger>Und ja, da geht es vor allem auch um Starlink, weil im Moment hat Starlink fast
+
+00:50:50.893 --> 00:50:54.463
+<v Thomas Lohninger>das komplette Spektrum. Und da will man, finde ich auch gar nicht so aus einem
+
+00:50:54.463 --> 00:50:57.103
+<v Thomas Lohninger>schlechten Grund sagen, aber wir hätten da gerne auch ein paar Frequenzbänder
+
+00:50:57.103 --> 00:50:58.212
+<v Thomas Lohninger>für europäische Anbieter.
+
+00:50:58.531 --> 00:51:01.846
+<v Linus Neumann>Okay, und man sollte natürlich auch sagen, das ist nicht im Weltraum,
+
+00:51:02.206 --> 00:51:06.283
+<v Linus Neumann>das Internet kommt immer noch vom Boden und gerade auch bei Starlink von Bodenstationen,
+
+00:51:06.283 --> 00:51:11.239
+<v Linus Neumann>die werden mit Sicherheit auch in Europa stehen, wenn sie hier das Internet hinbringen.
+
+00:51:12.193 --> 00:51:15.459
+<v Tim Pritlove>Aber nachdem bald auch ohne das funktionieren.
+
+00:51:16.719 --> 00:51:17.735
+<v Linus Neumann>Ohne Bodenstation?
+
+00:51:17.735 --> 00:51:20.965
+<v Tim Pritlove>Ja, also zumindest ohne Bodenstation in Europa funktionieren.
+
+00:51:20.965 --> 00:51:25.285
+<v Linus Neumann>Achso, ja, ja, klar, natürlich. Die müssen sich ja souverän,
+
+00:51:25.285 --> 00:51:26.776
+<v Linus Neumann>die brauchen ein souveränes Starlink.
+
+00:51:26.992 --> 00:51:31.045
+<v Tim Pritlove>Nee, das ist halt einfach, ich glaube, es sind noch nicht alle Satelliten auf
+
+00:51:31.045 --> 00:51:37.065
+<v Tim Pritlove>dem neuesten Stand. Die Mesh-Satelliten. Genau, die machen das Routing direkt im All.
+
+00:51:38.045 --> 00:51:40.965
+<v Linus Neumann>Ja, da wäre ich auch vorsichtig, dass ich mir hier kein, also da musst du auf
+
+00:51:40.965 --> 00:51:42.757
+<v Linus Neumann>deine nationale Souveränität achten.
+
+00:51:43.332 --> 00:51:46.045
+<v Linus Neumann>Wenn du da mit irgendwelchen Europäern zu tun hast, dass sie da mit irgendwelchen
+
+00:51:46.045 --> 00:51:48.580
+<v Linus Neumann>Regeln kommen und so. Da will ich auch sofort sagen, Mesh-Routing.
+
+00:51:49.265 --> 00:51:53.545
+<v Tim Pritlove>Also ich meine, das ist schon, Starlink ist schon eine interessante Strategie,
+
+00:51:53.545 --> 00:51:56.318
+<v Tim Pritlove>um wirklich auch das Internet irgendwann zu ownen.
+
+00:51:58.159 --> 00:52:00.405
+<v Linus Neumann>No shit! No shit!
+
+00:52:00.405 --> 00:52:00.625
+<v Thomas Lohninger>Ja.
+
+00:52:02.849 --> 00:52:07.225
+<v Thomas Lohninger>Also genau deswegen will die Kommission ja auch sich selber die Macht geben,
+
+00:52:07.225 --> 00:52:12.475
+<v Thomas Lohninger>mit dem Implementing Act festzulegen, wie lange und wie genau die Vorratsdatenspeicherung
+
+00:52:12.475 --> 00:52:14.760
+<v Thomas Lohninger>dort auszuschauen hat und auch der
+
+00:52:15.097 --> 00:52:17.908
+<v Thomas Lohninger>Zugriff von Strafverfolgungsbehörden, also Law Enforcement Access.
+
+00:52:18.464 --> 00:52:24.155
+<v Thomas Lohninger>Und das als Implementing Act zu machen, ist ein Wahnsinn, weil so eine Speicherverpflichtung
+
+00:52:24.155 --> 00:52:29.435
+<v Thomas Lohninger>ist ja aus gutem Grund von zig höchstgerichtlichen Entscheidungen als verfassungswidrig
+
+00:52:29.435 --> 00:52:30.605
+<v Thomas Lohninger>zurückgewiesen worden.
+
+00:52:30.605 --> 00:52:34.165
+<v Thomas Lohninger>Zuallererst 2014 mit unserem Urteil, damals noch als wir AK Vorrat waren.
+
+00:52:34.685 --> 00:52:38.845
+<v Thomas Lohninger>Und das jetzt hier als Implementing Act für Satelliteninternet zu machen,
+
+00:52:38.845 --> 00:52:39.796
+<v Thomas Lohninger>geht natürlich gar nicht.
+
+00:52:40.825 --> 00:52:46.725
+<v Thomas Lohninger>Das versuchen wir zu verhindern. und MSS ist eben schon fortgeschrittener und
+
+00:52:46.725 --> 00:52:50.216
+<v Thomas Lohninger>hat Zeitdruck, DNA hat fast Copy-Paste dieselben Bestimmungen,
+
+00:52:51.225 --> 00:52:52.825
+<v Thomas Lohninger>also selbes Problem in zwei Gesetzen,
+
+00:52:53.465 --> 00:52:56.485
+<v Thomas Lohninger>und natürlich muss man hier die Vorratsdatenspeicherung verhindern.
+
+00:52:57.685 --> 00:53:01.205
+<v Thomas Lohninger>Da gibt es auch gerade schon eine Mobilisierung innerhalb von E-Dreh dagegen,
+
+00:53:01.634 --> 00:53:05.117
+<v Thomas Lohninger>also wir schauen, dass wir verhindern, dass das kommt,
+
+00:53:06.349 --> 00:53:11.195
+<v Thomas Lohninger>Ja, und dann habe ich noch eine andere Technologie, über die ich hier kurz reden
+
+00:53:11.195 --> 00:53:14.279
+<v Thomas Lohninger>muss. Und das ist ein Thema, das wir einbringen werden bei dem Digital Networks Act.
+
+00:53:15.312 --> 00:53:21.425
+<v Thomas Lohninger>Nämlich, Dinos, hast du schon mal gehört von 6G Sensing? Integrated Sensing
+
+00:53:21.425 --> 00:53:23.176
+<v Thomas Lohninger>and Communication, ISAC.
+
+00:53:27.530 --> 00:53:32.464
+<v Linus Neumann>Ich überlege gerade, was das sein kann. 6G-Sensing. Also 6G ist wahrscheinlich,
+
+00:53:32.958 --> 00:53:35.500
+<v Linus Neumann>die nächste Generation Mobilfunk.
+
+00:53:36.168 --> 00:53:36.575
+<v Thomas Lohninger>Korrekt.
+
+00:53:36.575 --> 00:53:36.923
+<v Linus Neumann>Und,
+
+00:53:38.954 --> 00:53:44.458
+<v Linus Neumann>Sensing, warum nicht? Also ich würde ja Reasoning reinmachen. Reasoning?
+
+00:53:45.497 --> 00:53:47.198
+<v Tim Pritlove>Wir wollen heute nicht über AI reden.
+
+00:53:47.935 --> 00:53:51.415
+<v Linus Neumann>Du hast jetzt über AI geredet. Ich habe über Reasoning geredet.
+
+00:53:51.415 --> 00:53:52.927
+<v Tim Pritlove>Ich habe nicht über AI geredet.
+
+00:53:53.380 --> 00:53:58.767
+<v Linus Neumann>Und die wollen, also Sensing und, also das, was könnte das heißen?
+
+00:53:59.249 --> 00:54:04.825
+<v Linus Neumann>Das wird ja dann noch, das wird ja wahrscheinlich noch mehr Funkantennen haben,
+
+00:54:04.825 --> 00:54:09.035
+<v Linus Neumann>die sind dann smart und die werden dann wahrscheinlich über,
+
+00:54:10.135 --> 00:54:13.205
+<v Linus Neumann>soll das Mobilfunknetz auch nochmal irgendwie über seinen Zustand,
+
+00:54:13.205 --> 00:54:14.928
+<v Linus Neumann>was weiß ich, wo Menschen sind.
+
+00:54:16.440 --> 00:54:17.690
+<v Thomas Lohninger>Geht in die richtige Richtung, ja.
+
+00:54:18.160 --> 00:54:22.530
+<v Linus Neumann>Und das Ganze wahrscheinlich als API in Richtung der Endgeräte oder sowas und
+
+00:54:22.530 --> 00:54:23.459
+<v Linus Neumann>kostet dann Geld oder so?
+
+00:54:24.740 --> 00:54:30.950
+<v Thomas Lohninger>Ja, man will damit Geld verdienen, ist mandantenfähig und was das Netzwerk nach
+
+00:54:30.950 --> 00:54:33.728
+<v Thomas Lohninger>diesem Standard können soll, ist, dass es
+
+00:54:34.094 --> 00:54:40.250
+<v Thomas Lohninger>Dinge lokalisiert in der dreidimensionalen Welt, unabhängig davon, ob das Endgeräte sind.
+
+00:54:40.250 --> 00:54:47.370
+<v Thomas Lohninger>Du kannst damit erkennen, ob Vögel in der Einflugschneise über deinem Flughafen
+
+00:54:47.370 --> 00:54:49.860
+<v Thomas Lohninger>sind, ob irgendwas auf den Gleisen liegt.
+
+00:54:51.555 --> 00:54:54.410
+<v Thomas Lohninger>Nimm mal die legitimen Use Cases. Das war ein Erdbeben. Du wirst schauen,
+
+00:54:54.410 --> 00:54:56.478
+<v Thomas Lohninger>sind unter dem Geröll noch Menschen verschüttet.
+
+00:54:58.040 --> 00:55:04.440
+<v Thomas Lohninger>Du kannst damit mehr oder weniger in der kompletten Zelle den Standort,
+
+00:55:04.440 --> 00:55:09.382
+<v Thomas Lohninger>die Umfänge von Objekten und eben auch Personen vermessen.
+
+00:55:09.847 --> 00:55:14.317
+<v Thomas Lohninger>Das Ganze ist extrem detailliert und kann auch,
+
+00:55:15.385 --> 00:55:19.383
+<v Thomas Lohninger>nicht nur die Höhe, die Lokalisierung, wie schnell sich jemand bewegt,
+
+00:55:19.661 --> 00:55:25.110
+<v Thomas Lohninger>die Richtung, sondern auch Facial Features, also welchen Gesichtsausdruck machst
+
+00:55:25.110 --> 00:55:29.937
+<v Thomas Lohninger>du gerade, deinen Herzschlag, deine Atemfrequenz vermessen?
+
+00:55:31.765 --> 00:55:37.160
+<v Thomas Lohninger>Das sind alles konkrete Features, die das Ding kann, nicht nur theoretisch,
+
+00:55:37.160 --> 00:55:43.250
+<v Thomas Lohninger>sondern es gibt schon Tech-Demos von Ericsson unter anderem und diese Technik
+
+00:55:43.250 --> 00:55:45.964
+<v Thomas Lohninger>ist das absolute Panopticon,
+
+00:55:47.200 --> 00:55:54.170
+<v Thomas Lohninger>potenziell, weil es natürlich absolut außerhalb von allen bestehenden Datenschutzrichtlinien
+
+00:55:54.170 --> 00:55:58.590
+<v Thomas Lohninger>ist, weil du damit kannst dein Handy zu Hause lassen, so viel du willst.
+
+00:55:58.590 --> 00:56:00.308
+<v Thomas Lohninger>Du wirst trotzdem auf der Demo getrackt.
+
+00:56:00.999 --> 00:56:06.240
+<v Tim Pritlove>Also es ist sozusagen verteiltes Face-ID oder sagen wir mal auch vernetztes Radar.
+
+00:56:06.600 --> 00:56:14.330
+<v Tim Pritlove>Also die Technik ist mittlerweile so weit, dass um überhaupt hohe Datenraten
+
+00:56:14.330 --> 00:56:19.231
+<v Tim Pritlove>und dieses ganze Multiplexing zu erzielen, man immer feiner in diese
+
+00:56:19.667 --> 00:56:22.700
+<v Tim Pritlove>Funktechnik hineinfühlen muss und,
+
+00:56:23.300 --> 00:56:24.970
+<v Tim Pritlove>auf alles mögliche reagieren muss.
+
+00:56:24.970 --> 00:56:32.690
+<v Tim Pritlove>Und die Abtastgenauigkeit ist jetzt so gut geworden, dass man eben die Reflexion
+
+00:56:32.690 --> 00:56:35.640
+<v Tim Pritlove>von allem mit im Protokoll hat.
+
+00:56:35.640 --> 00:56:40.360
+<v Tim Pritlove>Es gab ja schon vor einigen Jahren so erste Experimente, dass Leute so über
+
+00:56:40.360 --> 00:56:45.284
+<v Tim Pritlove>WLAN, Personentracking gemacht haben und so weiter. Das war alles noch so Forschungsergebnisse.
+
+00:56:47.339 --> 00:56:53.670
+<v Tim Pritlove>Einzelne Studien, ein paar Experimente und jetzt sehen wir uns quasi einer technologischen
+
+00:56:53.670 --> 00:56:59.170
+<v Tim Pritlove>Entwicklung gegenüber, wo eben unser Mobilfunkstandard das generell kann, einfach,
+
+00:57:00.840 --> 00:57:04.610
+<v Tim Pritlove>weil er so gebaut ist, weil er sozusagen diese Technik mitbringt,
+
+00:57:04.610 --> 00:57:06.298
+<v Tim Pritlove>um die eigentlichen Ziele,
+
+00:57:06.809 --> 00:57:08.660
+<v Tim Pritlove>Datenübertragung, Telefonieren etc.
+
+00:57:09.375 --> 00:57:13.282
+<v Tim Pritlove>Zu erreichen, hast du das als Nebeneffekt und das wird natürlich jetzt entdeckt.
+
+00:57:13.624 --> 00:57:19.560
+<v Tim Pritlove>Und gesagt so, ach super, naja, wenn wir jetzt auch die Vögel erkennen können,
+
+00:57:19.560 --> 00:57:21.547
+<v Tim Pritlove>dann ist das ja auch eine geile Dienstleistung.
+
+00:57:21.843 --> 00:57:27.886
+<v Tim Pritlove>Also Mobilfunkbetreiber werden jetzt quasi zu einem universellen Radarbetreiber.
+
+00:57:28.860 --> 00:57:33.278
+<v Tim Pritlove>Und können im Prinzip alles sensen. Das ist ganz schön scary.
+
+00:57:34.131 --> 00:57:37.672
+<v Linus Neumann>Alter, jetzt kommt der Tim mir vor, als hätte er den falschen Pilz gegessen,
+
+00:57:38.543 --> 00:57:41.439
+<v Linus Neumann>und sitzt irgendwie im Wald mit so einem Aluhut.
+
+00:57:42.252 --> 00:57:46.307
+<v Tim Pritlove>Naja, aber ich meine, das ist halt das, was es ist. Ich meine,
+
+00:57:48.387 --> 00:57:52.587
+<v Tim Pritlove>bei 5G habe ich auch noch geschmunzelt. Aber bei 6G wird die Sachen lang.
+
+00:57:52.587 --> 00:57:57.677
+<v Linus Neumann>6G ist halt auch. Die ganze 5G-Ludis, Alter, 6G.
+
+00:57:57.677 --> 00:57:59.121
+<v Tim Pritlove>Das ist ein ganzes G mehr.
+
+00:58:01.827 --> 00:58:03.687
+<v Tim Pritlove>Das ist jetzt kein Pappenstiel.
+
+00:58:03.687 --> 00:58:06.027
+<v Linus Neumann>Der Mensch ist doch nicht für 6 Gs gemacht.
+
+00:58:06.027 --> 00:58:09.083
+<v Tim Pritlove>Ja, das ist einfach bei 5, das war alles noch okay.
+
+00:58:09.847 --> 00:58:14.120
+<v Linus Neumann>5 Gs sind Milch, aber 6 G?
+
+00:58:14.242 --> 00:58:16.616
+<v Tim Pritlove>Tja, also so ist es nun mal.
+
+00:58:18.729 --> 00:58:24.969
+<v Thomas Lohninger>Das Ganze ist noch in der Standardisierung bei 3GPP, die die Mobilfunkstandards festlegen.
+
+00:58:25.709 --> 00:58:29.589
+<v Thomas Lohninger>Die läuft auch noch bis 2029, aber das ist eine eigene Working Group.
+
+00:58:30.369 --> 00:58:35.689
+<v Thomas Lohninger>Es gibt das Ganze auch natürlich auf 5G-Netzwerken, kann man nachrüsten.
+
+00:58:35.689 --> 00:58:40.365
+<v Thomas Lohninger>Man muss jetzt nicht bis 6G warten, um das in einem Netzwerk zu bekommen.
+
+00:58:42.049 --> 00:58:47.199
+<v Thomas Lohninger>Es gibt jetzt auch schon Studien dazu, vor allem aus der Türkei,
+
+00:58:47.199 --> 00:58:50.065
+<v Thomas Lohninger>zu Crowdkontrolle, wie akkurat das Ganze ist.
+
+00:58:51.349 --> 00:58:54.726
+<v Thomas Lohninger>Die haben eine sehr hohe Akkurat, was sie da sozusagen erkennen.
+
+00:58:55.446 --> 00:58:59.369
+<v Thomas Lohninger>Ist jetzt mal nur gedacht, damit die Bank weiß, wo man vielleicht einen Geldautomaten
+
+00:58:59.369 --> 00:59:01.332
+<v Thomas Lohninger>hinstellt oder vielleicht bei der nächsten Demo.
+
+00:59:02.849 --> 00:59:07.909
+<v Thomas Lohninger>Und das hat eine enorme Gefahr, eben gerade weil es mandantenfähig ist,
+
+00:59:07.909 --> 00:59:12.399
+<v Thomas Lohninger>weil du diese Sensing Capability dann als beliebiges Unternehmen oder vielleicht
+
+00:59:12.399 --> 00:59:14.333
+<v Thomas Lohninger>auch staatliche Stelle dir kaufen kannst.
+
+00:59:14.868 --> 00:59:18.989
+<v Thomas Lohninger>Und dadurch kriegst du auch komplett außerhalb von allen Regularien,
+
+00:59:18.989 --> 00:59:22.189
+<v Thomas Lohninger>weil die E-Privacy-Richtlinie, die wir schon angesprochen haben,
+
+00:59:22.189 --> 00:59:25.583
+<v Thomas Lohninger>die die Vertraulichkeit von Telekommunikationsnetzen festlegt,
+
+00:59:26.025 --> 00:59:30.095
+<v Thomas Lohninger>bezieht sich auf Kommunikation und Endgeräte. Beides haben wir hier nicht.
+
+00:59:30.593 --> 00:59:34.906
+<v Thomas Lohninger>Dadurch fallen diese Daten gar nicht unter Location oder Verkehrsdaten.
+
+00:59:35.988 --> 00:59:40.022
+<v Thomas Lohninger>Und bei der DSGVO, ja, wenn man damit Menschen sensen würde,
+
+00:59:40.347 --> 00:59:43.676
+<v Thomas Lohninger>bräuchte man eigentlich eine Rechtsgrundlage, aber da wissen wir auch,
+
+00:59:43.676 --> 00:59:48.474
+<v Thomas Lohninger>wie Mobilfunknetze heute schon mit Location-Daten umgehen, das ist zumindest mal ein Graubereich.
+
+00:59:49.455 --> 00:59:55.846
+<v Thomas Lohninger>Und weil das Ganze eben bis 2030 schon operational sein soll und mit der Nachrüstung
+
+00:59:55.846 --> 01:00:01.884
+<v Thomas Lohninger>in 5G, who knows when, ist die Gefahr schon groß, dass das eine massive Verschiebung,
+
+01:00:02.876 --> 01:00:06.545
+<v Thomas Lohninger>der Überwachungsmöglichkeiten in unserem Alltag bringen könnte.
+
+01:00:07.039 --> 01:00:11.166
+<v Thomas Lohninger>Und deswegen sagen wir, es braucht jetzt beim DNA ein gesetzliches Korsett,
+
+01:00:11.166 --> 01:00:15.895
+<v Thomas Lohninger>um diese Technik grundrechtskonform hinzubekommen.
+
+01:00:16.237 --> 01:00:19.756
+<v Thomas Lohninger>Am liebsten wäre uns ein Verbot, dass man einfach sagt, diese Technik soll es
+
+01:00:19.756 --> 01:00:23.136
+<v Thomas Lohninger>nicht geben oder zumindest muss sie verhindern, dass sie gegen Menschen oder
+
+01:00:23.136 --> 01:00:25.544
+<v Thomas Lohninger>zum Erkennen von natürlichen Personen eingesetzt wird.
+
+01:00:26.274 --> 01:00:30.556
+<v Thomas Lohninger>Und denkbar wären natürlich auch Legal Authorization Regimes,
+
+01:00:30.556 --> 01:00:35.707
+<v Thomas Lohninger>die einfach sagen, es braucht dafür eine Rechtsgrundlage und gewisse Dinge sind ausgeschlossen.
+
+01:00:36.984 --> 01:00:41.315
+<v Thomas Lohninger>Der Bitkom zum Beispiel fordert 6G Sensing schon für Werbung,
+
+01:00:41.837 --> 01:00:45.233
+<v Thomas Lohninger>wo es natürlich auch enorme Möglichkeiten hätte,
+
+01:00:46.136 --> 01:00:52.006
+<v Thomas Lohninger>dass du sozusagen für dein Werbetracking diese Daten heranziehen kannst.
+
+01:00:52.006 --> 01:00:55.686
+<v Tim Pritlove>Also wie viele Leute gehen jetzt hier rein und raus und stehen vor ein paar
+
+01:00:55.686 --> 01:00:59.436
+<v Tim Pritlove>Plakate und alles mögliche. Ja, meine Totalüberwachung passt natürlich super
+
+01:00:59.436 --> 01:01:03.476
+<v Tim Pritlove>zum Werbemarkt. Das ist ja nichts Neues. Also eigentlich, was sie hier planen,
+
+01:01:03.476 --> 01:01:05.314
+<v Tim Pritlove>ist Spionage as a Service.
+
+01:01:06.388 --> 01:01:11.250
+<v Tim Pritlove>Und das ist wirklich knifflig, weil,
+
+01:01:13.001 --> 01:01:20.441
+<v Tim Pritlove>Weil es ja nur so ein Beifang einer technologischen Entwicklung ist und das,
+
+01:01:21.583 --> 01:01:28.171
+<v Tim Pritlove>wird schon schwierig sein, das überhaupt verboten zu bekommen oder reguliert zu bekommen,
+
+01:01:28.688 --> 01:01:30.971
+<v Tim Pritlove>weil die Technik eben da ist.
+
+01:01:30.971 --> 01:01:34.841
+<v Tim Pritlove>Du musst es ja dann sozusagen auch nachweisen, dass das dann auch definitiv
+
+01:01:34.841 --> 01:01:39.811
+<v Tim Pritlove>nicht geschieht, aber du kannst kaum erwirken, dass es nicht geschehen kann,
+
+01:01:39.811 --> 01:01:43.386
+<v Tim Pritlove>weil es ja sozusagen nur ein Abfallprodukt ist dessen, was du sowieso machst.
+
+01:01:44.901 --> 01:01:48.355
+<v Thomas Lohninger>Ich glaube, dass vor allem eben bei regulierten Mobilfunknetzen,
+
+01:01:48.651 --> 01:01:53.971
+<v Thomas Lohninger>die auch von Staaten ausgegebene Funkfrequenzen verwenden, da haben wir einen
+
+01:01:53.971 --> 01:01:59.269
+<v Thomas Lohninger>Hebel, den Geist in der Flasche zu lassen und das auf die legitimen Anwendungen zu begrenzen.
+
+01:02:00.255 --> 01:02:04.081
+<v Thomas Lohninger>Und wenn wir das nicht tun, dann wird das ein ähnlicher Wild West wie andere
+
+01:02:04.081 --> 01:02:05.521
+<v Thomas Lohninger>Formen der Massenüberwachung.
+
+01:02:06.325 --> 01:02:11.231
+<v Thomas Lohninger>Aber halt ebenso, da kann man vielleicht noch im Wald ins Funkloch gehen,
+
+01:02:11.231 --> 01:02:13.535
+<v Thomas Lohninger>das ist vielleicht ein Standortvorteil für Deutschland auf einmal.
+
+01:02:14.162 --> 01:02:20.553
+<v Thomas Lohninger>Aber ansonsten sehe ich wenig Chancen da, außer im Faradayischen Käfig davon wegzukommen.
+
+01:02:20.942 --> 01:02:23.851
+<v Thomas Lohninger>Vor allem eben, weil du ja nicht weißt, wann wird es eingeschaltet oder nicht.
+
+01:02:23.851 --> 01:02:28.994
+<v Thomas Lohninger>Es gibt auch Etsy-Dokumente, die dann diskutieren, wie man Transparenz da reinbringen könnte.
+
+01:02:29.394 --> 01:02:33.751
+<v Thomas Lohninger>Und das ist alles nicht so einfach. Also im Moment haben auch die technischen
+
+01:02:33.751 --> 01:02:36.477
+<v Thomas Lohninger>Standardisierungen mehr Fragen als Antworten.
+
+01:02:37.260 --> 01:02:43.021
+<v Thomas Lohninger>Und angesichts der Schwere, glaube ich, ist es gut, da jetzt mal das in die
+
+01:02:43.021 --> 01:02:45.672
+<v Thomas Lohninger>Regulierung einzuführen, bevor Fakten geschaffen werden.
+
+01:02:45.962 --> 01:02:49.441
+<v Thomas Lohninger>Und ich glaube auch, dass die Standardisierung davon profitieren würde,
+
+01:02:49.441 --> 01:02:55.499
+<v Thomas Lohninger>wenn sie klar mal aufgezeigt bekommen, wo ist die gesellschaftliche Grenze,
+
+01:02:55.668 --> 01:02:58.367
+<v Thomas Lohninger>außerhalb derer man so eine Technik einfach nicht akzeptieren will.
+
+01:03:00.178 --> 01:03:05.001
+<v Thomas Lohninger>Das ist für die Telcos natürlich ein enormes Potenzial, mehr Geld zu verdienen.
+
+01:03:05.709 --> 01:03:10.351
+<v Thomas Lohninger>Damit ist der Betrieb eines Mobilfunknetzwerks auf einmal nochmal ganz anders
+
+01:03:10.351 --> 01:03:12.513
+<v Thomas Lohninger>zu monetarisieren, als das bisher möglich war.
+
+01:03:13.470 --> 01:03:17.070
+<v Thomas Lohninger>Aber die gesellschaftlichen Kosten wären halt eben enorm.
+
+01:03:18.755 --> 01:03:24.053
+<v Thomas Lohninger>Deswegen, aus all diesen genannten Gründen, gibt es eine neue safetyinternet.eu.
+
+01:03:24.662 --> 01:03:29.794
+<v Thomas Lohninger>Wir haben die alte Kampagne reaktiviert nach zehn Jahren, Tornröschenschlaf,
+
+01:03:30.735 --> 01:03:34.605
+<v Thomas Lohninger>gibt es auf dieser Domain wieder etwas zu sehen und eine Koalition,
+
+01:03:34.605 --> 01:03:38.855
+<v Thomas Lohninger>die wir jetzt gerade zimmern, um dieses Gesetz, den Digital Networks Act zu
+
+01:03:38.855 --> 01:03:43.365
+<v Thomas Lohninger>begleiten und da Netzneutralität zu erhalten, einen Datenschutz zu erhalten
+
+01:03:43.365 --> 01:03:45.537
+<v Thomas Lohninger>und endlich Routerfreiheit in Europa durchzusetzen.
+
+01:03:46.373 --> 01:03:50.135
+<v Thomas Lohninger>Und es gibt schon ein paar Organisationen, die das unterstützen,
+
+01:03:50.332 --> 01:03:52.045
+<v Thomas Lohninger>unter anderem der Chaos Computer Club,
+
+01:03:53.035 --> 01:03:58.715
+<v Thomas Lohninger>BOEG, der Dachverband der Konsumentenschutzorganisationen auf EU-Ebene und Homo
+
+01:03:58.715 --> 01:04:01.623
+<v Thomas Lohninger>Digitales in Griechenland und hoffentlich bald auch noch einige mehr.
+
+01:04:02.306 --> 01:04:08.128
+<v Thomas Lohninger>Und ja, wir verlinken all das und auch die Analysen, aus denen ich zitiert habe.
+
+01:04:09.315 --> 01:04:12.622
+<v Thomas Lohninger>Das ist in der Nutzung der Digital Network Sekt.
+
+01:04:17.250 --> 01:04:18.671
+<v Tim Pritlove>Für eine neue Welt, würde ich sagen.
+
+01:04:20.627 --> 01:04:26.480
+<v Linus Neumann>Was glaubst du, wie ist der Ausblick? Also was, wie sind die Aussichten?
+
+01:04:26.694 --> 01:04:32.456
+<v Linus Neumann>Also was, wie ist das politische Feld, was man da noch unterbringen kann oder
+
+01:04:32.456 --> 01:04:35.059
+<v Linus Neumann>wo du erkennst, da sind sie einfach determined?
+
+01:04:38.299 --> 01:04:42.926
+<v Thomas Lohninger>Also ich bin ja viel in Brüssel, ich bin auch nächste Woche wieder dort und
+
+01:04:42.926 --> 01:04:49.856
+<v Thomas Lohninger>ich höre schon von fast allen Fraktionen, dass man mit der Richtung gerade nicht happy ist.
+
+01:04:50.180 --> 01:04:53.606
+<v Thomas Lohninger>Es gibt aber einen gewissen Kreis, der halt einfach sehr telco-hörig ist und
+
+01:04:53.606 --> 01:04:55.190
+<v Thomas Lohninger>der hat leider sehr viel Macht.
+
+01:04:56.516 --> 01:05:02.718
+<v Thomas Lohninger>Du kannst fast in Brüssel jede Woche auf ein Schnittchen-Event der Telekom-Industrie gehen.
+
+01:05:03.444 --> 01:05:08.488
+<v Thomas Lohninger>Und da haben sie schon gut Vorfeldarbeit geleistet über die letzten Jahre.
+
+01:05:10.073 --> 01:05:14.165
+<v Thomas Lohninger>Ich glaube, die Landing-Zones werden hart umkämpft sein.
+
+01:05:15.924 --> 01:05:19.356
+<v Thomas Lohninger>Wir haben die komische Situation, dass das Parlament halt überhaupt nicht mehr
+
+01:05:19.356 --> 01:05:21.863
+<v Thomas Lohninger>so bürgerrechtsfreundlich ist, wie das früher der Fall war.
+
+01:05:23.569 --> 01:05:29.126
+<v Thomas Lohninger>Und es wird ziemlich sicher im Trilog dann nächstes Jahr oder übernächstes Jahr
+
+01:05:29.126 --> 01:05:30.866
+<v Thomas Lohninger>zu einigen sehr unschönen Deals kommen.
+
+01:05:31.563 --> 01:05:38.239
+<v Thomas Lohninger>Aber von der Ausgangslage her, der Bericht von Michael Kobosko war so desaströs,
+
+01:05:38.384 --> 01:05:41.925
+<v Thomas Lohninger>dass jetzt viele Leute aufwachen und sagen, okay, shit is real,
+
+01:05:43.016 --> 01:05:47.326
+<v Thomas Lohninger>we need to do something und daraus hoffe ich, dass wir es schaffen,
+
+01:05:47.326 --> 01:05:52.466
+<v Thomas Lohninger>ordentlich zu mobilisieren und jetzt mal mit einer guten Parlamentsposition
+
+01:05:52.466 --> 01:05:53.674
+<v Thomas Lohninger>in die Verhandlungen zu gehen.
+
+01:05:54.996 --> 01:06:01.684
+<v Thomas Lohninger>Also das ist wie fast alle netzpolitischen Kämpfe auf EU-Ebene nie ausgemacht und nie einfach,
+
+01:06:02.328 --> 01:06:08.737
+<v Thomas Lohninger>aber ich kann mir durchaus vorstellen, dass wir ein Großteil von diesen Themen,
+
+01:06:09.716 --> 01:06:11.564
+<v Thomas Lohninger>in eine gute Richtung noch drehen können.
+
+01:06:15.539 --> 01:06:18.889
+<v Thomas Lohninger>Aber das hängt auch natürlich davon ab, wie viele Leute sich dem Ganzen anschließen.
+
+01:06:20.183 --> 01:06:24.594
+<v Thomas Lohninger>Maybe a good time to say, Epicenter Works fehlen noch 214 Fördermitglieder,
+
+01:06:24.594 --> 01:06:26.963
+<v Thomas Lohninger>damit wir diese Arbeit machen können.
+
+01:06:27.564 --> 01:06:29.320
+<v Thomas Lohninger>Ansonsten wird es ziemlich eng.
+
+01:06:30.464 --> 01:06:34.594
+<v Thomas Lohninger>Und das wäre auch cool, wenn jemandem dieses Thema wichtig ist oder er sagt
+
+01:06:34.594 --> 01:06:38.370
+<v Thomas Lohninger>oder sie natürlich genauso, dass man da was tun muss.
+
+01:06:39.304 --> 01:06:42.788
+<v Thomas Lohninger>Auch KMUs, die zum Beispiel von der Telekom zur Kasse gebeten werden,
+
+01:06:43.884 --> 01:06:45.423
+<v Thomas Lohninger>freuen wir uns, wenn die uns spenden.
+
+01:06:46.864 --> 01:06:52.924
+<v Thomas Lohninger>Wir helfen mit, dass sie keine Erpressungsgelder mehr zahlen müssen und alle,
+
+01:06:52.924 --> 01:06:56.395
+<v Thomas Lohninger>denen freie Netze wichtig sind und die nicht überwacht werden wollen,
+
+01:06:56.707 --> 01:07:00.224
+<v Thomas Lohninger>Die sollten sich überlegen, ob sie da nicht sich bei der Kampagne engagieren.
+
+01:07:00.964 --> 01:07:05.204
+<v Thomas Lohninger>Am 40c3 wird es sicherlich auch Treffen dazu geben.
+
+01:07:05.764 --> 01:07:10.534
+<v Thomas Lohninger>Also die Hoffnung ist, dass man mit genügend Wucht dem noch was entgegensetzen kann.
+
+01:07:11.069 --> 01:07:16.184
+<v Thomas Lohninger>Und ich mache das jetzt auch schon lang genug, um zu sagen, ich sehe eine reale
+
+01:07:16.184 --> 01:07:19.341
+<v Thomas Lohninger>Chance, dass wir das noch gewinnen können, wenn genügend Leute mitmachen.
+
+01:07:22.853 --> 01:07:25.388
+<v Linus Neumann>Dir wird da wahrscheinlich entgegengehalten werden, ja okay,
+
+01:07:25.388 --> 01:07:31.018
+<v Linus Neumann>aber das am Ende, also wenn man sich das anschaut, also ich habe den Eindruck dieser,
+
+01:07:33.578 --> 01:07:39.318
+<v Linus Neumann>also die Angriffe auf Net Neutrality werden immer mehr geframed als wir,
+
+01:07:40.262 --> 01:07:45.713
+<v Linus Neumann>die Netze gehören uns, Europa, ja, und wir verteidigen die gerade gegen Big Tech.
+
+01:07:46.183 --> 01:07:49.788
+<v Linus Neumann>Wie würdest du diesen Angle,
+
+01:07:53.698 --> 01:07:55.301
+<v Linus Neumann>wie tritt man dem sinnvoll entgegen?
+
+01:07:56.938 --> 01:08:00.848
+<v Thomas Lohninger>Ganz einfach mit Daten. Also wenn wir jetzt wieder Diskriminierung im Netzwerk
+
+01:08:00.848 --> 01:08:02.650
+<v Thomas Lohninger>erlauben, wer wird davon profitieren?
+
+01:08:03.452 --> 01:08:06.569
+<v Thomas Lohninger>Diejenigen, die es sich leisten können, die Überholspur zu kaufen.
+
+01:08:07.289 --> 01:08:11.118
+<v Thomas Lohninger>Und die Daten haben wir in Europa und weltweit. Also bei,
+
+01:08:11.918 --> 01:08:16.778
+<v Thomas Lohninger>Zero-Rating in Europa haben wir eine Vollerhebung gemacht und von den Top 20
+
+01:08:16.778 --> 01:08:22.108
+<v Thomas Lohninger>Zero-Rated Apps waren nur drei aus Europa und unter den Top 10 waren allein
+
+01:08:22.108 --> 01:08:24.425
+<v Thomas Lohninger>vier von Meta von Facebook.
+
+01:08:26.050 --> 01:08:29.818
+<v Thomas Lohninger>Die App, die am meisten von Zero-Rating profitiert weltweit ist WhatsApp.
+
+01:08:30.258 --> 01:08:34.316
+<v Thomas Lohninger>Gerade im globalen Süden haben mehr Leute einen WhatsApp-Account als eine E-Mail-Adresse.
+
+01:08:34.996 --> 01:08:38.572
+<v Thomas Lohninger>E-Government, Customer Service, alles über WhatsApp, nicht mehr über E-Mail.
+
+01:08:39.228 --> 01:08:41.683
+<v Thomas Lohninger>Die haben sich zur neuen Infrastruktur gemacht.
+
+01:08:42.449 --> 01:08:48.338
+<v Thomas Lohninger>Und natürlich wird es das auch in Europa spielen. Bei den Spezialdiensten,
+
+01:08:48.338 --> 01:08:51.438
+<v Thomas Lohninger>die jetzt erlaubt werden. Die E-Mail ist ja abgeschaltet.
+
+01:08:51.438 --> 01:08:52.838
+<v Linus Neumann>Dann müssen wir jetzt über WhatsApp machen.
+
+01:08:55.340 --> 01:09:00.998
+<v Thomas Lohninger>Also es geht alles in dieselbe Richtung, dass natürlich, wenn du eine Ungleichbehandlung
+
+01:09:00.998 --> 01:09:04.958
+<v Thomas Lohninger>erlaubst, diejenigen, die überhaupt die Vertragsbeziehungen aufrechterhalten,
+
+01:09:04.958 --> 01:09:06.236
+<v Thomas Lohninger>überleg dir mal, du musst bei,
+
+01:09:07.404 --> 01:09:11.750
+<v Thomas Lohninger>Im EU-Binnenmarkt tausenden Internetanbietern dich darum kümmern,
+
+01:09:11.750 --> 01:09:14.962
+<v Thomas Lohninger>dass dein Dienst diese Spezialisierung und Vorfahrt bekommt.
+
+01:09:15.815 --> 01:09:20.170
+<v Thomas Lohninger>Das schafft kein KMU. Das schafft auch kein Konkurrent. Und wir haben ja mit
+
+01:09:20.170 --> 01:09:24.990
+<v Thomas Lohninger>Vimeo geredet, die ja mit YouTube lange konkurriert haben, bevor sie endlich
+
+01:09:24.990 --> 01:09:26.717
+<v Thomas Lohninger>dann K.O. gegeben haben.
+
+01:09:27.257 --> 01:09:31.611
+<v Thomas Lohninger>Und die waren halt auch bei diesen ganzen YouTube Zero-Rated-Angeboten.
+
+01:09:32.041 --> 01:09:36.336
+<v Thomas Lohninger>Die hätten es nicht mal administrativ hinbekommen, geschweige denn vom Geldbeutel her.
+
+01:09:37.230 --> 01:09:40.835
+<v Thomas Lohninger>Dass sie all diese Vertragsbeziehungen mit allen möglichen Telcos unterhalten.
+
+01:09:42.090 --> 01:09:47.460
+<v Thomas Lohninger>Google kann das. Und wir schaffen damit einfach nur eine Ungleichbehandlung,
+
+01:09:47.460 --> 01:09:53.850
+<v Thomas Lohninger>die am Ende die Wettbewerbsfähigkeit reduziert und die dominante Marktposition heute zementiert.
+
+01:09:54.430 --> 01:09:58.200
+<v Thomas Lohninger>Das war bei Netflix so. Die waren lange klein, mussten fürchten,
+
+01:09:58.200 --> 01:09:59.363
+<v Thomas Lohninger>waren für Netzseutralität.
+
+01:09:59.822 --> 01:10:04.071
+<v Thomas Lohninger>Als Donald Trump 2016 ins Amt kam und klar war, der wird Netzseutralität abschaffen.
+
+01:10:04.704 --> 01:10:09.410
+<v Thomas Lohninger>Im Dezember 2016 wurde der CEO von Netflix gefragt, was bedeutet das jetzt für
+
+01:10:09.410 --> 01:10:12.059
+<v Thomas Lohninger>das Unternehmen und hat gesagt, keine Sorge, wir sind groß genug,
+
+01:10:12.331 --> 01:10:14.352
+<v Thomas Lohninger>Netflix gets the deal it wants.
+
+01:10:15.450 --> 01:10:20.370
+<v Thomas Lohninger>Cloudflare, selbes Beispiel, Cloudflare, lange Verfechter der Netzzentralität,
+
+01:10:21.490 --> 01:10:27.710
+<v Thomas Lohninger>bekannte CDN, ist jetzt aufgrund des KI-Booms und dem ganzen Scraping noch viel
+
+01:10:27.710 --> 01:10:31.790
+<v Thomas Lohninger>wichtiger geworden, sind jetzt finanzstark genug, jetzt haben sie auf einmal
+
+01:10:31.790 --> 01:10:34.570
+<v Thomas Lohninger>einen Deal mit der Deutschen Telekom. Jetzt können sie es sich leisten.
+
+01:10:35.630 --> 01:10:39.783
+<v Thomas Lohninger>Netzneutralität beschützt immer die kleinen, die dezentralen Akteure,
+
+01:10:39.986 --> 01:10:45.193
+<v Thomas Lohninger>die Teile des Internets, die noch wild unterhaltsam und schützenswert sind.
+
+01:10:45.774 --> 01:10:51.270
+<v Thomas Lohninger>Und dieses, ja, aber wir müssen jetzt Big Tech, hat halt ganz oft genau den
+
+01:10:51.270 --> 01:10:54.405
+<v Thomas Lohninger>gegenteiligen Effekt. Ist ja beim Kids Act genau dasselbe.
+
+01:10:55.330 --> 01:11:00.117
+<v Thomas Lohninger>Man hat Angst, dass Facebook schlecht für die Kinder ist und tötet halt das Fediverse nebenher.
+
+01:11:05.863 --> 01:11:09.003
+<v Linus Neumann>Ja, du hast recht, das ist ein wiederkehrendes Pattern. Würdest du sagen,
+
+01:11:09.474 --> 01:11:14.895
+<v Linus Neumann>dass, also eine der Erklärungen dafür wäre, diese Regeln kommen immer zu spät,
+
+01:11:15.766 --> 01:11:20.212
+<v Linus Neumann>aber im Zweifelsfall auch dann nicht.
+
+01:11:20.212 --> 01:11:26.562
+<v Linus Neumann>Also selbst wenn sie früh genug da sind, haben ja die großen oder mit viel Geld
+
+01:11:26.562 --> 01:11:30.459
+<v Linus Neumann>ausgestatteten Player immer die Möglichkeit, sich,
+
+01:11:31.991 --> 01:11:38.352
+<v Linus Neumann>ja letztendlich Compliance zu leisten und am Ende davon zu profitieren.
+
+01:11:41.373 --> 01:11:47.890
+<v Linus Neumann>Die Markteintrittsbarrieren problemlos hinter sich zu bringen und sich darüber
+
+01:11:47.890 --> 01:11:53.387
+<v Linus Neumann>zu freuen, dass die Konkurrenz im Keim dadurch erstickt wird.
+
+01:11:55.315 --> 01:11:55.750
+<v Thomas Lohninger>Ja.
+
+01:11:56.300 --> 01:11:57.580
+<v Linus Neumann>Oder die Innovation,
+
+01:11:59.920 --> 01:12:04.440
+<v Linus Neumann>von einer Konkurrenz stammende Innovation dadurch sehr stark gebremst wird.
+
+01:12:05.165 --> 01:12:10.180
+<v Thomas Lohninger>Diese ganze Denke, dass man jetzt Innovation über Spezialdienste erst möglich machen muss.
+
+01:12:10.180 --> 01:12:14.130
+<v Thomas Lohninger>Also wir haben Jahrzehnte an Daten, die zeigen, ein offenes,
+
+01:12:14.130 --> 01:12:18.860
+<v Thomas Lohninger>neutrales Internet, das interoperabel ist, wo du einfach nur einen Server ans
+
+01:12:18.860 --> 01:12:21.235
+<v Thomas Lohninger>Netz bringst und du bist gleich gut verfügbar wie die anderen.
+
+01:12:21.721 --> 01:12:24.455
+<v Thomas Lohninger>So ermöglichst du Innovation und Wettbewerb.
+
+01:12:25.025 --> 01:12:30.040
+<v Thomas Lohninger>Aber dieses stell dich hinten an, zieh eine Nummer und dann kriegst du vielleicht
+
+01:12:30.040 --> 01:12:34.451
+<v Thomas Lohninger>Zugang zu dem Deal, den wir hier haben, ist halt Großkonzerndenke.
+
+01:12:34.846 --> 01:12:38.143
+<v Thomas Lohninger>Das ist nicht, wie Innovation im Internet funktioniert.
+
+01:12:38.719 --> 01:12:44.700
+<v Thomas Lohninger>Und da sehe ich auch jetzt bei diesen Spezialdiensten die große Gefahr,
+
+01:12:44.700 --> 01:12:48.630
+<v Thomas Lohninger>dass natürlich dann, wenn man das für Gaming öffnet, ja, dann werden es die
+
+01:12:48.630 --> 01:12:51.160
+<v Thomas Lohninger>großen Studios sein, die sich das vielleicht leisten können,
+
+01:12:51.160 --> 01:12:53.570
+<v Thomas Lohninger>aber die kleineren Anbieter, die eben nicht.
+
+01:12:53.570 --> 01:12:59.340
+<v Thomas Lohninger>Und da kann dann auf einmal dieses Ruckeln schon den Unterschied machen,
+
+01:12:59.340 --> 01:13:03.150
+<v Thomas Lohninger>ob deine Plattform noch ein konkurrenzfähiges Angebot für Leute ist.
+
+01:13:03.847 --> 01:13:09.620
+<v Thomas Lohninger>Also diese ganze Metaverse-Sache hat eher nicht so gezündet für Gaming,
+
+01:13:09.620 --> 01:13:13.361
+<v Thomas Lohninger>aber wäre das der Fall gewesen, da hätte man es dann wirklich gesehen.
+
+01:13:14.080 --> 01:13:21.622
+<v Thomas Lohninger>Wenn jetzt wirklich so stark latenzsensible Dienste wirklich in der Breite genutzt würden.
+
+01:13:22.289 --> 01:13:27.908
+<v Thomas Lohninger>Und das 5G-Gaming-Angebot der Telekom ist ja auch so ein Beispiel eigentlich.
+
+01:13:28.286 --> 01:13:32.199
+<v Thomas Lohninger>Wir haben ja noch nicht darüber geredet, aber das ist auch so eine Netzentralitätsverletzung,
+
+01:13:32.500 --> 01:13:37.452
+<v Thomas Lohninger>gegen die die Kolleginnen von der Verbraucherzentrale Bundesverband auch gerade vorgehen.
+
+01:13:38.560 --> 01:13:42.509
+<v Thomas Lohninger>Und es ist auch wieder so, dass halt die Partner Hand verlesen werden.
+
+01:13:42.509 --> 01:13:45.399
+<v Thomas Lohninger>Die Telekom ist dann immer gut, da zu balancieren. Da haben wir ein paar deutsche
+
+01:13:45.399 --> 01:13:48.804
+<v Thomas Lohninger>Unternehmen und dann ein paar amerikanische.
+
+01:13:49.379 --> 01:13:52.798
+<v Thomas Lohninger>Aus einer europäischen Binnenmarktperspektive ist das auch wieder Kacke.
+
+01:13:53.251 --> 01:13:57.709
+<v Thomas Lohninger>Also weil da haben wir halt einfach sehr viele Telcos und der Wettbewerb ist
+
+01:13:57.709 --> 01:14:00.484
+<v Thomas Lohninger>ja auch gut. Wir wollen ja keine amerikanischen Zustände in Europa.
+
+01:14:04.048 --> 01:14:05.406
+<v Tim Pritlove>Auf gar keinen Fall.
+
+01:14:08.036 --> 01:14:13.259
+<v Tim Pritlove>Ja, haben wir das abgearbeitet jetzt, den DNA-Teil? Ich denke schon.
+
+01:14:13.259 --> 01:14:14.602
+<v Thomas Lohninger>Ich glaube, ja.
+
+01:14:16.053 --> 01:14:19.193
+<v Linus Neumann>Du hast gesagt, in zwei, drei Jahren. Das heißt, wir werden da noch öfter drüber reden.
+
+01:14:20.489 --> 01:14:21.119
+<v Thomas Lohninger>Ich befürchte.
+
+01:14:21.119 --> 01:14:24.499
+<v Tim Pritlove>Wenn da Vorratsdatenspeicherung mit drin ist, dann werden wir da noch ewig drüber reden.
+
+01:14:26.751 --> 01:14:32.382
+<v Tim Pritlove>So, kommen wir hier zu der wohlbenannten Anwendung.
+
+01:14:35.709 --> 01:14:43.503
+<v Tim Pritlove>Wir hatten es ja nur in der letzten Sendung schon. Deju, bestimmt weiß keiner, was Sache ist. Deju.
+
+01:14:46.261 --> 01:14:51.566
+<v Tim Pritlove>Also ich fand schon EU, die Wallet, hat mir nichts gesagt und DEU sagt mir noch weniger.
+
+01:14:52.280 --> 01:14:58.157
+<v Tim Pritlove>Also wir reden halt hier von dieser App, mit der man sich angeblich für alles
+
+01:14:58.157 --> 01:15:02.085
+<v Tim Pritlove>mögliche ausweisen können möchte in Europa.
+
+01:15:03.629 --> 01:15:06.947
+<v Thomas Lohninger>Genau, das ist auf Basis von der AIDAS-Verordnung, die hier schon ganz auf Thema
+
+01:15:06.947 --> 01:15:08.616
+<v Thomas Lohninger>war. Ist ja auch so ein Steckenpferd.
+
+01:15:09.243 --> 01:15:13.829
+<v Thomas Lohninger>Und nur eine kurze Rückschau nochmal auf das Hearing im Bundestag.
+
+01:15:14.807 --> 01:15:19.017
+<v Thomas Lohninger>Ich dürfte da ja Sachverständiger gemeinsam mit Bianca Kastl und Lina Ehrig
+
+01:15:19.017 --> 01:15:24.927
+<v Thomas Lohninger>und Tiska Auskunft geben aus Konsumentinnen- und Bürgerrechtssicht und ja,
+
+01:15:24.927 --> 01:15:27.337
+<v Thomas Lohninger>das Gesetz ist inzwischen beschlossen,
+
+01:15:28.347 --> 01:15:32.910
+<v Thomas Lohninger>die digitale Brieftasche in Deutschland wird DIU heißen.
+
+01:15:35.342 --> 01:15:38.436
+<v Thomas Lohninger>Irgendwer muss jetzt den Witz machen, wie das in Frankreich heißt.
+
+01:15:41.627 --> 01:15:42.527
+<v Linus Neumann>Wie heißt es in Frankreich?
+
+01:15:45.127 --> 01:15:51.127
+<v Thomas Lohninger>Ich habe es ja vorher rausgesucht. France Digital Identité, glaube ich.
+
+01:15:52.067 --> 01:15:54.143
+<v Tim Pritlove>Ja, digital bestimmt nicht, das heißt ja Numerik.
+
+01:15:55.379 --> 01:16:01.133
+<v Thomas Lohninger>Ja und da wollte ich nochmal danken dem Zentrum Digitalrechte von Markus Beckertal,
+
+01:16:01.133 --> 01:16:04.483
+<v Thomas Lohninger>die haben mir sehr geholfen mit dem ganzen Prozess.
+
+01:16:05.423 --> 01:16:09.843
+<v Thomas Lohninger>Ich war doch irgendwie zehn Jahre nicht mehr im Bundestag und eine Stellungnahme
+
+01:16:09.843 --> 01:16:13.416
+<v Thomas Lohninger>abgegeben, die verlinken wir auch noch, die war sehr detailliert mit ganz vielen,
+
+01:16:14.423 --> 01:16:16.673
+<v Thomas Lohninger>auch konkreten Änderungsvorschlägen.
+
+01:16:16.673 --> 01:16:18.813
+<v Thomas Lohninger>Das wusste ich auch vorher nicht. Wenn man im Bundestag ist,
+
+01:16:18.813 --> 01:16:23.103
+<v Thomas Lohninger>ein Sachverständiger und die Fraktion will dann irgendwie vom Ministerium wissen,
+
+01:16:23.103 --> 01:16:27.843
+<v Thomas Lohninger>was man zu dieser Stellungnahme hält, hilft es, wenn man die einzelnen Vorschläge
+
+01:16:27.843 --> 01:16:29.507
+<v Thomas Lohninger>mit Gesetzestexten ausarbeitet.
+
+01:16:29.757 --> 01:16:34.633
+<v Thomas Lohninger>Da muss das Ministerium sich nämlich zu den jeweiligen Punkten äußern und nicht
+
+01:16:34.633 --> 01:16:38.443
+<v Thomas Lohninger>nur einmal pauschal zu der gesamten Stellungnahme. War mir vorher auch nicht bekannt.
+
+01:16:40.314 --> 01:16:43.123
+<v Thomas Lohninger>Die ganzen guten Ideen sind aber eh nicht angenommen worden.
+
+01:16:45.123 --> 01:16:46.619
+<v Linus Neumann>Das wusste sie aber schon vorher.
+
+01:16:48.323 --> 01:16:52.563
+<v Thomas Lohninger>Naja, es gab die Hoffnung, es gab auch Gespräche danach und sie haben bei einzelnen
+
+01:16:52.563 --> 01:16:57.763
+<v Thomas Lohninger>Punkten nachgebessert. Die Biometrie, da gibt es jetzt ein Opt-out und es gibt
+
+01:16:57.763 --> 01:17:03.117
+<v Thomas Lohninger>einen nicht bindenden Entschließungsantrag ohne Datum, wann es Pseudonyme nachgeliefert werden sollten.
+
+01:17:03.552 --> 01:17:09.113
+<v Thomas Lohninger>Aber der Kern bleibt problematisch. Es gibt kein risikobasiertes Management,
+
+01:17:09.113 --> 01:17:11.016
+<v Thomas Lohninger>welche Use Cases hier zugelassen werden.
+
+01:17:11.983 --> 01:17:17.903
+<v Thomas Lohninger>Dadurch ist es weiterhin möglich, eigentlich alles von dieser Wallet abzufragen
+
+01:17:17.903 --> 01:17:20.313
+<v Thomas Lohninger>und vielleicht kommt man im Nachhinein
+
+01:17:20.313 --> 01:17:25.803
+<v Thomas Lohninger>drauf, dass irgendein Use Case betrügerisch war oder zu weit geht.
+
+01:17:26.151 --> 01:17:31.003
+<v Thomas Lohninger>Wirklich kontrolliert wird das nicht. Das ist meiner Meinung nach ein großer Fehler.
+
+01:17:32.383 --> 01:17:36.983
+<v Thomas Lohninger>Man baut hier auf Transparenz und sagt einfach so, ja, aber die Daten sind öffentlich einsehbar.
+
+01:17:36.983 --> 01:17:40.513
+<v Thomas Lohninger>Das stimmt. Da gibt es ja auch dieses Who Identifies Me Projekt,
+
+01:17:40.513 --> 01:17:46.640
+<v Thomas Lohninger>wo wir versuchen, diese Ökosystemtransparenz für die Leute zu öffnen,
+
+01:17:46.901 --> 01:17:49.963
+<v Thomas Lohninger>dass man einfach suchen kann, wer will jetzt was wissen in diesem Ökosystem?
+
+01:17:49.963 --> 01:17:53.893
+<v Thomas Lohninger>Wer ist da berechtigt, mir eine Frage zu stellen? Und welche Daten dürfen die
+
+01:17:53.893 --> 01:17:55.255
+<v Thomas Lohninger>zu welchem Zweck von mir abfragen?
+
+01:17:56.179 --> 01:18:00.224
+<v Thomas Lohninger>Aber all das ist eigentlich ein Projekt der Zivilgesellschaft und nichts staatliches.
+
+01:18:00.224 --> 01:18:06.484
+<v Thomas Lohninger>Es gibt keine Kompetenz des Beauftragten für Datenschutz und Informationsfreiheit,
+
+01:18:06.484 --> 01:18:10.944
+<v Thomas Lohninger>vielleicht da drüber zu schauen und zu sagen, hey, den Anwendungsfall wollen
+
+01:18:10.944 --> 01:18:13.304
+<v Thomas Lohninger>wir gar nicht zulassen oder den müssen wir da rauskicken.
+
+01:18:14.042 --> 01:18:17.303
+<v Thomas Lohninger>Und das wird, glaube ich, eine Sollbruchstelle sein.
+
+01:18:18.156 --> 01:18:21.407
+<v Thomas Lohninger>Es gibt auch keine Anlaufstelle für Betroffene von digitalem Ausweiszwang.
+
+01:18:21.751 --> 01:18:24.424
+<v Thomas Lohninger>Wenn man gezwungen wird, die digitale Brieftasche zu verwenden,
+
+01:18:24.424 --> 01:18:26.074
+<v Thomas Lohninger>ist ja verboten laut Gesetz.
+
+01:18:26.604 --> 01:18:29.332
+<v Thomas Lohninger>Aber wie man dann zu seinem Recht kommt, ist komplett offen.
+
+01:18:30.290 --> 01:18:33.974
+<v Thomas Lohninger>Und dann eh die viel zu oft schon diskutierten Probleme von wegen Unbeobachtbarkeit,
+
+01:18:33.974 --> 01:18:37.323
+<v Thomas Lohninger>fehlende Zero-Knowledge und Unlinkability.
+
+01:18:38.444 --> 01:18:43.192
+<v Thomas Lohninger>All das fehlt halt einfach. Aber trotzdem, das Ding wird am 2. Jänner launchen.
+
+01:18:43.657 --> 01:18:48.164
+<v Thomas Lohninger>Ich weiß auch schon, dass wir das auf dem Chaos Communication Kongress behandeln
+
+01:18:48.164 --> 01:18:56.282
+<v Thomas Lohninger>werden und ja, das Ganze ist hoffentlich ein Projekt, das,
+
+01:18:57.060 --> 01:18:59.114
+<v Thomas Lohninger>ja, das wäre gar nicht, was ich mir wünschen soll.
+
+01:18:59.114 --> 01:19:02.859
+<v Thomas Lohninger>Ich hätte eigentlich mehr Hoffnung gehabt, dass es Deutschland besser macht,
+
+01:19:03.365 --> 01:19:06.627
+<v Thomas Lohninger>weil Deutschland nimmt das Thema zumindest ernst. Die meisten anderen EU-Länder,
+
+01:19:06.784 --> 01:19:10.139
+<v Thomas Lohninger>muss man auch sagen, ignorieren die IDAS-Verordnung, sehr geflüssentlich.
+
+01:19:10.789 --> 01:19:15.567
+<v Thomas Lohninger>Also mehr als die Hälfte der EU-Staaten werden gar nichts tun bis Ende des Jahres,
+
+01:19:16.292 --> 01:19:18.846
+<v Thomas Lohninger>und viele werden irgendwas machen.
+
+01:19:19.468 --> 01:19:24.574
+<v Thomas Lohninger>Also das Ganze steht zwar im Gesetz und ist verpflichtend, aber scheinbar kümmert
+
+01:19:24.574 --> 01:19:26.114
+<v Thomas Lohninger>das die Staaten jetzt noch nicht.
+
+01:19:27.844 --> 01:19:30.694
+<v Thomas Lohninger>Und deswegen werden wir weiter ein Auge darauf halten.
+
+01:19:40.584 --> 01:19:42.566
+<v Tim Pritlove>Wo waren denn nochmal die guten Nachrichten jetzt hier?
+
+01:19:44.446 --> 01:19:47.786
+<v Thomas Lohninger>Die kommen dann als übernächstes. Als nächstes wird das Gesetz zum digitalen
+
+01:19:47.786 --> 01:19:50.539
+<v Thomas Lohninger>Ausweiszwang. Also das ist ein bisschen eine gute Nachricht.
+
+01:19:52.798 --> 01:19:58.098
+<v Linus Neumann>Also digitaler Ausweiszwang, also ich verstehe das,
+
+01:20:00.750 --> 01:20:02.039
+<v Linus Neumann>als Idee.
+
+01:20:05.847 --> 01:20:08.732
+<v Tim Pritlove>Aber… Nicht wirklich.
+
+01:20:11.908 --> 01:20:13.388
+<v Tim Pritlove>Erklär doch erstmal, worum geht's.
+
+01:20:13.777 --> 01:20:22.436
+<v Thomas Lohninger>Ja, also es geht um das Social Media Mindestalter, das ja in einigen Ländern schon existiert.
+
+01:20:22.436 --> 01:20:28.056
+<v Thomas Lohninger>Australien war das erste und in Europa sind Frankreich und Griechenland durchgekommen
+
+01:20:28.056 --> 01:20:34.639
+<v Thomas Lohninger>mit ihren nationalen Gesetzen, denen halten sie fest, die werden gerade verhandelt.
+
+01:20:35.866 --> 01:20:39.676
+<v Thomas Lohninger>Und Österreich hat auch versucht, so ein Gesetz zu machen, sechs andere Länder
+
+01:20:39.676 --> 01:20:44.112
+<v Thomas Lohninger>ebenso, um einfach zu sagen, Social Media erst ab, Alter XY.
+
+01:20:45.046 --> 01:20:50.626
+<v Thomas Lohninger>Nur Österreich wurde verboten, so ein Gesetz zu machen mit dem Argument der
+
+01:20:50.626 --> 01:20:55.293
+<v Thomas Lohninger>EU-Kommission, es gibt jetzt den Kids Act und deswegen wartet mal ab,
+
+01:20:55.473 --> 01:20:58.457
+<v Thomas Lohninger>liebe Mitgliedstaaten, der Kids Act wird das regeln.
+
+01:20:58.590 --> 01:21:03.986
+<v Thomas Lohninger>Wir verbieten den Kindern und Jugendlichen jetzt auf EU-Ebene Noch am Internet
+
+01:21:03.986 --> 01:21:07.346
+<v Thomas Lohninger>teilzunehmen und allen anderen Menschen, die verpflichten wir dazu,
+
+01:21:07.346 --> 01:21:10.067
+<v Thomas Lohninger>sich künftig digital auszuweisen und ihr Alter,
+
+01:21:11.066 --> 01:21:13.695
+<v Thomas Lohninger>mittels einer App zu verifizieren.
+
+01:21:14.229 --> 01:21:19.056
+<v Thomas Lohninger>Und deswegen ist hier der Binnenmarkt gefährdet und es darf keine nationalen
+
+01:21:19.056 --> 01:21:20.243
+<v Thomas Lohninger>Gesetze mehr dazu geben.
+
+01:21:21.651 --> 01:21:24.891
+<v Thomas Lohninger>Ist für uns ein gutes Signal, weil das heißt, es ist kein Zwei-Fronten-Quierik
+
+01:21:24.891 --> 01:21:30.011
+<v Thomas Lohninger>mit nationalem und EU-Gesetz, aber es heißt auch, dieses EU-Gesetz,
+
+01:21:30.011 --> 01:21:31.875
+<v Thomas Lohninger>der Kitz-Act wird jetzt umso.
+
+01:21:34.031 --> 01:21:39.841
+<v Thomas Lohninger>Schneller weiterverhandelt werden. Normalerweise trifft man sich im Rat so alle
+
+01:21:39.841 --> 01:21:43.229
+<v Thomas Lohninger>zwei, drei Wochen, meistens einmal im Monat, um so Gesetze zu verhandeln.
+
+01:21:43.839 --> 01:21:49.650
+<v Thomas Lohninger>Hier ist die Rede von vier Verhandlungsrunden pro Woche, um den Kids Act weiterzutreiben.
+
+01:21:50.311 --> 01:21:55.251
+<v Thomas Lohninger>Auch im Parlament, im zuständigen Imko-Ausschuss, die die Federführung hat,
+
+01:21:55.931 --> 01:21:58.282
+<v Thomas Lohninger>wird mit Hochdruck dran verhandelt.
+
+01:21:58.996 --> 01:22:03.686
+<v Thomas Lohninger>Also dieses Gesetz, das erst vor wenigen Wochen vorgestellt wurde im September,
+
+01:22:04.751 --> 01:22:08.461
+<v Thomas Lohninger>ist mit einer sehr hohen Geschwindigkeit unterwegs und deswegen wollte ich nur
+
+01:22:08.461 --> 01:22:13.345
+<v Thomas Lohninger>einfach sagen, da ist die Gefahr gerade enorm, dass wir wirklich die Architektur
+
+01:22:13.769 --> 01:22:16.251
+<v Thomas Lohninger>des freien Internets grundlegend ändern.
+
+01:22:16.791 --> 01:22:21.293
+<v Thomas Lohninger>Also für mich ist der Kids Act in einer Linie mit Upload-Filtern und mit,
+
+01:22:23.531 --> 01:22:29.591
+<v Thomas Lohninger>der Chat-Kontrolle, weil es wirklich diese Grundannahme, wo Kontrolle überhaupt,
+
+01:22:30.151 --> 01:22:36.911
+<v Thomas Lohninger>eingebaut sein muss im Internet, verändert und dadurch wir eine viel stärkere,
+
+01:22:37.671 --> 01:22:41.061
+<v Thomas Lohninger>Überwachung und Kontrollinfrastruktur in der Fläche ausrollen,
+
+01:22:41.061 --> 01:22:42.473
+<v Thomas Lohninger>als das bisher jemals der Fall war.
+
+01:22:45.399 --> 01:22:48.475
+<v Tim Pritlove>Ja, das ist auf jeden Fall keine gute Idee.
+
+01:22:51.477 --> 01:22:58.821
+<v Thomas Lohninger>Ja, also ist etwas, das noch bis zum 26. November in Begutachtung ist.
+
+01:22:58.821 --> 01:23:04.328
+<v Thomas Lohninger>Wir verlinken auch noch die Begutachtung auf der Have You Say Seite der EU.
+
+01:23:04.781 --> 01:23:08.875
+<v Thomas Lohninger>Da können sich auch alle Leute mit einem kurzen Kommentar nur zu Wort melden,
+
+01:23:10.121 --> 01:23:13.738
+<v Thomas Lohninger>und einfach sagen, zum Ausdruck bringen, was sie von diesem Gesetz halten.
+
+01:23:14.701 --> 01:23:17.931
+<v Thomas Lohninger>Es gibt ja auch schon Positionierungen vom Chaos Computer Club,
+
+01:23:17.931 --> 01:23:22.781
+<v Thomas Lohninger>von IFF, von Epicenter Works, die alle durchwegs extrem kritisch sind.
+
+01:23:23.561 --> 01:23:28.186
+<v Thomas Lohninger>Auch Jugendschutz- und Kinderschutzorganisationen sagen, das ist eigentlich nicht, was es braucht.
+
+01:23:29.521 --> 01:23:33.701
+<v Thomas Lohninger>Wir hätten viel lieber etwas, das wirklich alle Menschen schützt und nicht einfach
+
+01:23:33.701 --> 01:23:37.416
+<v Thomas Lohninger>so eine Verifizierungspflicht für alle Netzwerke etabliert.
+
+01:23:38.472 --> 01:23:42.558
+<v Thomas Lohninger>Und ich glaube, es ist trotzdem noch wichtig, jetzt einfach on record zu gehen
+
+01:23:42.558 --> 01:23:47.127
+<v Thomas Lohninger>mit der Meinung, es wird auch noch juristische Stellungnahmen von den NGOs geben zu dem Thema.
+
+01:23:47.778 --> 01:23:52.677
+<v Thomas Lohninger>Aber jetzt ist noch das Fenster, dass man es offiziell in der Begutachtung sagt.
+
+01:23:53.438 --> 01:23:57.078
+<v Thomas Lohninger>Vielleicht interessiert das ja die eine oder andere Person. Ich kann nur sagen,
+
+01:23:57.078 --> 01:24:02.493
+<v Thomas Lohninger>wir kriegen wirklich ganz drastische Zuschriften auch von betroffenen Jugendlichen.
+
+01:24:04.432 --> 01:24:08.598
+<v Thomas Lohninger>Ganz oft aus dem ländlichen Umfeld, wo Internet noch viel wichtiger ist,
+
+01:24:08.598 --> 01:24:14.938
+<v Thomas Lohninger>um sozialen Anschluss zu finden von queeren Jugendlichen, gibt es zig Zuschriften,
+
+01:24:14.938 --> 01:24:17.168
+<v Thomas Lohninger>die bei uns ankommen, die halt echt Panik haben.
+
+01:24:18.158 --> 01:24:22.868
+<v Thomas Lohninger>Weil man muss sich das mal auf der Zunge zergehen lassen. Also du bist komplett
+
+01:24:22.868 --> 01:24:24.221
+<v Thomas Lohninger>aus dem Netz ausgeschlossen.
+
+01:24:25.398 --> 01:24:30.208
+<v Thomas Lohninger>Wenn du unter 13 bist, dann gibt es diese eingeschränkten Accounts,
+
+01:24:30.208 --> 01:24:34.710
+<v Thomas Lohninger>wo die Eltern alles kontrollieren können müssen von 13 bis 15.
+
+01:24:35.678 --> 01:24:41.798
+<v Thomas Lohninger>Es gibt ein Verbot von Livestreams. Also wenn doch mal so eine Jugendklimabewegung
+
+01:24:41.798 --> 01:24:46.428
+<v Thomas Lohninger>oder Greta Thunberg sich da Reichweite verschaffen wollen, good luck.
+
+01:24:46.428 --> 01:24:50.668
+<v Thomas Lohninger>Es gibt auch ein künstlicher Drossel, dass du auch als Kids-Account gar nicht
+
+01:24:50.668 --> 01:24:53.646
+<v Thomas Lohninger>zu viel Reichweite haben darfst auf diesen Netzwerken.
+
+01:24:54.267 --> 01:24:59.938
+<v Thomas Lohninger>Also da werden einfach gerade junge Leute auch in einer Art und Weise aus dem
+
+01:24:59.938 --> 01:25:01.858
+<v Thomas Lohninger>demokratischen Diskurs ausgeschlossen.
+
+01:25:01.858 --> 01:25:03.247
+<v Linus Neumann>Kann ich mir gar nicht vorstellen.
+
+01:25:05.698 --> 01:25:07.098
+<v Linus Neumann>Warum würde man denn sowas tun?
+
+01:25:10.155 --> 01:25:11.920
+<v Linus Neumann>Dabei wollen die doch gerade Regeln.
+
+01:25:14.009 --> 01:25:16.756
+<v Linus Neumann>Ja. Könnte das damit zusammenhängen?
+
+01:25:18.256 --> 01:25:21.916
+<v Thomas Lohninger>Kann gut sein. Also ich würde mir ja wünschen, eine Koalition aus den jungen
+
+01:25:21.916 --> 01:25:25.223
+<v Thomas Lohninger>Menschen, die hier mundtot gemacht werden sollen und den ganzen alten Menschen,
+
+01:25:25.752 --> 01:25:30.100
+<v Thomas Lohninger>die de facto es nicht schaffen werden, sich hier noch online zu beteiligen.
+
+01:25:30.674 --> 01:25:34.854
+<v Thomas Lohninger>Also ich musste irgendwie schon meiner Mutter helfen mit der digitalen Identität.
+
+01:25:35.996 --> 01:25:40.216
+<v Thomas Lohninger>Und wie ist das dann bei den Omas? Omas gegen rechts, die können dann nichts
+
+01:25:40.216 --> 01:25:43.866
+<v Thomas Lohninger>mehr posten, weil sie es nicht schaffen, die Altersverifikation zu machen oder
+
+01:25:43.866 --> 01:25:45.036
+<v Thomas Lohninger>vielleicht kein Smartphone haben.
+
+01:25:47.656 --> 01:25:50.066
+<v Thomas Lohninger>Und da reden wir noch nicht mal von den Menschen, die vielleicht keinen Pass
+
+01:25:50.066 --> 01:25:51.955
+<v Thomas Lohninger>haben und deswegen ausgeschlossen sein werden.
+
+01:25:53.756 --> 01:25:56.836
+<v Thomas Lohninger>Also ich halte das wirklich für ein hochgradig problematisches Gesetz.
+
+01:25:57.456 --> 01:26:01.005
+<v Thomas Lohninger>Und gleichzeitig, es gibt eine Koalition, mit der wir es zu veralberen können.
+
+01:26:02.747 --> 01:26:05.316
+<v Thomas Lohninger>Das ist noch in den ersten Zügen.
+
+01:26:05.316 --> 01:26:08.981
+<v Linus Neumann>Aber es ist wichtig zu sagen. Das ist aber nicht veralberrechtlich. Sorry.
+
+01:26:10.380 --> 01:26:16.456
+<v Thomas Lohninger>In Österreich Wahl ab 16. Also du darfst wählen gehen, aber darfst irgendwie
+
+01:26:16.456 --> 01:26:18.796
+<v Thomas Lohninger>keinen Livestream machen. Ist auch eine lustige Kombi, oder?
+
+01:26:20.085 --> 01:26:21.786
+<v Linus Neumann>Wie, ab 16 auch nicht?
+
+01:26:23.893 --> 01:26:27.006
+<v Thomas Lohninger>Da bin ich mir jetzt gerade nicht so sicher. Bei meiner Kollegin Aja liegt das
+
+01:26:27.006 --> 01:26:34.550
+<v Thomas Lohninger>Thema hauptsächlich. Ich glaube, 13 bis 15 ist die eine Kategorie und dann eben 15 bis 17 oder 18.
+
+01:26:37.556 --> 01:26:39.996
+<v Linus Neumann>Du hast das gerade nur so ein bisschen am Rande gesagt, mit dem,
+
+01:26:41.056 --> 01:26:47.336
+<v Linus Neumann>also queere Personen, alle Formen von...
+
+01:26:50.822 --> 01:27:04.028
+<v Linus Neumann>Von Besonderheit, Ausgeschlossenheit, menschlicher Diversität und Varianz und Blüten, die wir haben,
+
+01:27:04.591 --> 01:27:12.549
+<v Linus Neumann>die eben in so engen sozialen Kontexten auch gerne mal eingestutzt werden und
+
+01:27:12.549 --> 01:27:14.773
+<v Linus Neumann>nicht sie selber sein können und nicht,
+
+01:27:16.689 --> 01:27:22.667
+<v Linus Neumann>sich alleine fühlen müssen auf diesem Planeten, obwohl sie es nicht sind,
+
+01:27:23.311 --> 01:27:26.086
+<v Linus Neumann>denen die Möglichkeit zu nehmen,
+
+01:27:28.588 --> 01:27:37.260
+<v Linus Neumann>Gleichgesinnte zu finden. Das ist die eine Sache, die an sozialen Netzwerken gut ist.
+
+01:27:40.087 --> 01:27:43.709
+<v Linus Neumann>Sogar potenziell an diesen großen Netzwerken.
+
+01:27:44.709 --> 01:27:54.129
+<v Linus Neumann>Was ist das für eine Erleichterung von Menschen, die vielleicht heute Jugendliche
+
+01:27:54.469 --> 01:27:57.349
+<v Linus Neumann>sind und feststellen, Achso, gibt es so ein paar Sachen,
+
+01:27:59.836 --> 01:28:03.249
+<v Linus Neumann>da finde ich jetzt irgendwie niemanden bei mir in der Klasse.
+
+01:28:03.592 --> 01:28:08.119
+<v Linus Neumann>Und der Letzte, der mit lackierten Fingernägeln kam, hat einen Kinnhaken gekriegt oder so.
+
+01:28:08.119 --> 01:28:18.387
+<v Linus Neumann>Was mache ich denn jetzt so? Also was habe ich in meiner Kindheit und Jugend da für Dinge erlebt,
+
+01:28:19.212 --> 01:28:23.749
+<v Linus Neumann>die dadurch nicht weggehen, dass man jetzt vielleicht Internet hat,
+
+01:28:23.749 --> 01:28:29.639
+<v Linus Neumann>aber zumindest das Internet vielleicht der Anker ist, der einen dann noch ein
+
+01:28:29.639 --> 01:28:33.277
+<v Linus Neumann>bisschen sane hält und nicht in die völlige...
+
+01:28:35.915 --> 01:28:39.075
+<v Linus Neumann>Ins völlige Loch rutschen lässt, das den Kindern wegzunehmen.
+
+01:28:39.635 --> 01:28:48.155
+<v Linus Neumann>Gibt es da eigentlich Forschung zu oder Zahlen zu, was das eben marginalisierten,
+
+01:28:49.782 --> 01:28:52.435
+<v Linus Neumann>unterdrückten, ausgegrenzten.
+
+01:28:57.155 --> 01:29:03.085
+<v Linus Neumann>Personengruppen ist, glaube ich, der richtige Begriff, auch für eine positive
+
+01:29:03.085 --> 01:29:05.891
+<v Linus Neumann>Effekte gegeben hat, das Internet Insbesondere im Jugendalter?
+
+01:29:06.506 --> 01:29:11.852
+<v Linus Neumann>Ist wahrscheinlich nicht mehr. Man redet nur noch davon, wie doof die Kinder geworden sind.
+
+01:29:12.607 --> 01:29:16.525
+<v Thomas Lohninger>Also ich glaube, dass wir das auch in Australien sehen werden.
+
+01:29:16.525 --> 01:29:21.115
+<v Thomas Lohninger>Ich meine, natürlich, wenn Jugendliche ein bisschen technisch sich ins Zeug
+
+01:29:21.115 --> 01:29:25.895
+<v Thomas Lohninger>legen, das schafft jede Zwölfjährige, diese Schranken ja auch zu übergehen.
+
+01:29:25.895 --> 01:29:27.896
+<v Thomas Lohninger>VPNs werden halt enorm profitieren davon.
+
+01:29:28.662 --> 01:29:32.995
+<v Thomas Lohninger>Aber ich glaube, da wird es immer noch viele Leute geben, die dann am Ende trotzdem
+
+01:29:32.995 --> 01:29:35.657
+<v Thomas Lohninger>den Weg nicht finden werden, wenn man es ihnen schwerer macht.
+
+01:29:36.355 --> 01:29:40.667
+<v Thomas Lohninger>Und ich habe keine Zahlen dazu, aber ich meine, ich kann meine eigene Geschichte erzählen. Also,
+
+01:29:42.722 --> 01:29:45.795
+<v Thomas Lohninger>ich glaube, ich habe es noch nie erzählt, aber als ich das erste Mal vor einem
+
+01:29:45.795 --> 01:29:50.725
+<v Thomas Lohninger>Gerät saß, das Internet hatte, im Informatikunterricht mit 13 Jahren,
+
+01:29:50.725 --> 01:29:55.975
+<v Thomas Lohninger>war das erste, was ich gemacht habe, irgendwie eine LGBT-Jugendgruppe zu finden.
+
+01:29:55.975 --> 01:30:00.855
+<v Thomas Lohninger>Und das war dann die Telefonnummer, über die ich zu einem meiner wichtigsten
+
+01:30:00.855 --> 01:30:04.445
+<v Thomas Lohninger>Freunde im Jugendalter gekommen bin, der da halt gerade irgendwie in dem Café,
+
+01:30:04.445 --> 01:30:07.120
+<v Thomas Lohninger>wo ich aufgewachsen bin, die Jugendgruppe ins Leben gerufen hat.
+
+01:30:07.706 --> 01:30:12.502
+<v Thomas Lohninger>And that was my, literally my first hour on the internet was finding people.
+
+01:30:13.475 --> 01:30:18.365
+<v Thomas Lohninger>They're close-minded. Also, ich habe keine Zahlen, aber meine Biografie.
+
+01:30:18.365 --> 01:30:20.885
+<v Linus Neumann>Similar-minded, close-minded, von denen hast du genug.
+
+01:30:20.885 --> 01:30:21.265
+<v Thomas Lohninger>Ja, ja, ja.
+
+01:30:22.205 --> 01:30:24.165
+<v Linus Neumann>Die findest du überall, dafür brauchst du wirklich kein Internet.
+
+01:30:24.685 --> 01:30:30.025
+<v Thomas Lohninger>Das ist Internet heute. Und, also, das muss man sich nur vorstellen.
+
+01:30:30.025 --> 01:30:34.535
+<v Thomas Lohninger>Like-minded, genau. Auch diese Idee, ja, die Eltern dürfen dann aber kontrollieren,
+
+01:30:34.535 --> 01:30:38.105
+<v Thomas Lohninger>was die Kinder machen, alles einsehen, ja, keine Privatsphäre,
+
+01:30:38.105 --> 01:30:42.754
+<v Thomas Lohninger>das normalisiert Überwachung in einem Maße für eine junge Generation.
+
+01:30:43.505 --> 01:30:47.365
+<v Thomas Lohninger>Und klar, wenn es jetzt wirklich kleine Kinder sind, dann mag das ja voll legitim
+
+01:30:47.365 --> 01:30:50.745
+<v Thomas Lohninger>sein, aber so im Teenageralter gibt es da einfach auch einen Bereich,
+
+01:30:50.745 --> 01:30:55.515
+<v Thomas Lohninger>wo es echt problematisch wird, gerade wenn jetzt weltanschauliche Unterschiede
+
+01:30:55.515 --> 01:30:57.284
+<v Thomas Lohninger>zwischen Kind und Eltern sind.
+
+01:30:58.184 --> 01:31:02.166
+<v Thomas Lohninger>Und dann ist auch die Frage, was ist denn ein Elternteil? Also sind das jetzt
+
+01:31:02.497 --> 01:31:05.422
+<v Thomas Lohninger>die Erziehungsberechtigten, wie die EU sich es sich vorstellt?
+
+01:31:06.283 --> 01:31:07.200
+<v Thomas Lohninger>Da muss man auch mal sagen.
+
+01:31:08.726 --> 01:31:14.252
+<v Thomas Lohninger>Das ist nicht immer realitätsentsprechend. Es gibt Regenbogenfamilien,
+
+01:31:14.252 --> 01:31:15.510
+<v Thomas Lohninger>es gibt Patchworkfamilien,
+
+01:31:16.452 --> 01:31:20.622
+<v Thomas Lohninger>es gibt Menschen, die Verantwortung für Kinder übernehmen und dann gibt es was
+
+01:31:20.622 --> 01:31:24.676
+<v Thomas Lohninger>auf dem Stück Papier, wo es rechtlich so ist. Das ist nicht immer deckungsgleich.
+
+01:31:25.094 --> 01:31:33.111
+<v Thomas Lohninger>Aber gerade dieses rechtliche am Geburtenregister, am Fürsorgeregister aufgehangene
+
+01:31:33.285 --> 01:31:39.026
+<v Thomas Lohninger>rechtliche Verhältnis dann an Big Tech weiterzugeben, das hat sich ja auch noch keiner überlegt.
+
+01:31:39.340 --> 01:31:44.512
+<v Thomas Lohninger>Wie willst du denn überhaupt dann Facebook nachweisen, dass das dein Kind ist?
+
+01:31:44.812 --> 01:31:49.295
+<v Thomas Lohninger>Also da reden sie im Gesetz von irgendeinem Zero-Knowledge-Proof-Voodoo,
+
+01:31:49.835 --> 01:31:54.276
+<v Thomas Lohninger>der nicht durchdacht ist, nicht existiert bisher.
+
+01:31:54.862 --> 01:31:58.892
+<v Thomas Lohninger>Theoretisch ist es skriptografisch denkbar, so etwas in der Wallet zu berechnen,
+
+01:31:58.892 --> 01:32:02.262
+<v Thomas Lohninger>wenn die Wallet Zugriff hat auf die staatlichen Register und dann nur den Beweis
+
+01:32:02.262 --> 01:32:03.802
+<v Thomas Lohninger>an das soziale Netzwerk.
+
+01:32:04.034 --> 01:32:07.215
+<v Thomas Lohninger>Ist aber ein Zwang, die Wolle zu verwenden für die Eltern und die Kinder.
+
+01:32:08.516 --> 01:32:13.042
+<v Thomas Lohninger>Und es ist in der Praxis wahrscheinlich einfach nur ein Zugriff auf staatliche
+
+01:32:13.042 --> 01:32:14.883
+<v Thomas Lohninger>Geburtenregister für Big Tech.
+
+01:32:16.090 --> 01:32:20.762
+<v Thomas Lohninger>Und das krankt an so vielen Ecken und ist nicht zu Ende gedacht.
+
+01:32:20.762 --> 01:32:25.582
+<v Thomas Lohninger>Das Gesetz ist desaströs geschrieben, aber dann auch, wohin uns das führt.
+
+01:32:25.582 --> 01:32:31.152
+<v Thomas Lohninger>Also eine Infrastruktur, die wir bei jedem Besuch eines Online-Angebots,
+
+01:32:31.152 --> 01:32:35.902
+<v Thomas Lohninger>das sind ja nicht nur soziale Netzwerke, auch KI-Agenten, Spiele,
+
+01:32:36.832 --> 01:32:40.992
+<v Thomas Lohninger>you name it, Video-Streaming-Plattformen und überall da kontrollieren wir jetzt
+
+01:32:40.992 --> 01:32:43.257
+<v Thomas Lohninger>anhand demografischer Merkmale Zugang.
+
+01:32:44.169 --> 01:32:50.194
+<v Thomas Lohninger>Heute ist das Alter. Technisch spricht nichts dagegen, da auch Religion oder
+
+01:32:50.194 --> 01:32:53.770
+<v Thomas Lohninger>Herkunft oder beliebige andere Merkmale mit reinzunehmen.
+
+01:32:54.159 --> 01:32:57.894
+<v Thomas Lohninger>Also ich sehe da einfach viel Gänsehaut.
+
+01:32:59.454 --> 01:33:01.183
+<v Thomas Lohninger>Aber vielleicht kommen wir mal zu den guten Nachrichten.
+
+01:33:01.618 --> 01:33:03.154
+<v Tim Pritlove>Genau, das wollte ich jetzt auch vorschlagen.
+
+01:33:03.154 --> 01:33:06.874
+<v Linus Neumann>Ja, was war das? Haben wir noch eine gute Nachricht? Ich dachte,
+
+01:33:06.874 --> 01:33:09.684
+<v Linus Neumann>wir hatten schon die mit den Midterms, also wollen jetzt auch nicht die Leute
+
+01:33:09.684 --> 01:33:14.094
+<v Linus Neumann>hier verunsichern, sonst denken die nachher noch die goldenen 20er würden anbrechen.
+
+01:33:14.094 --> 01:33:16.194
+<v Tim Pritlove>Ich bin geschockt von so vielen guten Nachrichten.
+
+01:33:17.034 --> 01:33:19.314
+<v Linus Neumann>Das vertragen unsere Hörerinnen nicht so gut.
+
+01:33:20.704 --> 01:33:21.644
+<v Tim Pritlove>Was gibt es denn Schönes?
+
+01:33:23.142 --> 01:33:26.538
+<v Thomas Lohninger>Also wir haben mal einerseits, ich ziehe das dann nach oben,
+
+01:33:27.850 --> 01:33:31.112
+<v Thomas Lohninger>gerade eine große Debatte in Österreich über MetaSmartGlass ist.
+
+01:33:31.275 --> 01:33:39.834
+<v Thomas Lohninger>Und diese Metabrillen, die sind wirklich eine Technik, die einem heute immer öfter begegnet.
+
+01:33:39.834 --> 01:33:44.725
+<v Thomas Lohninger>Menschen, die sowas am Kopf tragen und dann potenziell auch aufnehmen,
+
+01:33:45.137 --> 01:33:47.034
+<v Thomas Lohninger>auch an Orten, wo das wirklich nicht okay ist.
+
+01:33:47.034 --> 01:33:48.374
+<v Tim Pritlove>Glass-Holes nennt man das.
+
+01:33:48.994 --> 01:33:56.434
+<v Thomas Lohninger>Ja, genau. Und das ist in Österreich jetzt eine große Debatte geworden,
+
+01:33:56.434 --> 01:34:01.409
+<v Thomas Lohninger>weil ein Schüler das Ding aufgehabt hat im Unterricht und zwar die ganze Zeit.
+
+01:34:01.565 --> 01:34:06.418
+<v Thomas Lohninger>Und da waren Menschen immer unwohler dabei, vor allem MitschülerInnen und auch LehrerInnen.
+
+01:34:06.790 --> 01:34:10.524
+<v Thomas Lohninger>Und man ist deswegen an ihn herangetreten, hat gebeten, kannst du das Ding vielleicht
+
+01:34:10.524 --> 01:34:11.646
+<v Thomas Lohninger>nicht in die Schule mitnehmen.
+
+01:34:12.507 --> 01:34:16.662
+<v Thomas Lohninger>Hat er sich geweigert. Dann hat er sich wieder geweigert. Dann wurde er suspendiert,
+
+01:34:17.447 --> 01:34:20.274
+<v Thomas Lohninger>und gegen diese Suspendierung... Was ist das denn für ein Schüler.
+
+01:34:20.274 --> 01:34:20.779
+<v Linus Neumann>Alter?
+
+01:34:21.585 --> 01:34:24.744
+<v Thomas Lohninger>Ja, der Papa ist reich und der Papa hat es geschafft.
+
+01:34:24.744 --> 01:34:27.864
+<v Linus Neumann>Deswegen wird er nicht in der 5-Minuten-Pause kurz mit der Tischkante geklärt,
+
+01:34:27.864 --> 01:34:29.183
+<v Linus Neumann>weil das geht doch eigentlich ganz schnell.
+
+01:34:29.463 --> 01:34:33.054
+<v Linus Neumann>Also bei uns ging das immer ganz schnell. Also vor allem mit mir.
+
+01:34:38.554 --> 01:34:41.014
+<v Tim Pritlove>Hast du mir so ein gutes Faden ausgetragen?
+
+01:34:44.673 --> 01:34:49.364
+<v Thomas Lohninger>Wurde leider nicht so gelöst ist vor Gericht gelöst worden und das Gericht hat
+
+01:34:49.364 --> 01:34:55.575
+<v Thomas Lohninger>entschieden definiere Glasshole also wirklich naja.
+
+01:34:56.660 --> 01:34:57.628
+<v Tim Pritlove>Was ist jetzt passiert?
+
+01:34:59.068 --> 01:35:03.948
+<v Thomas Lohninger>Das Gericht hat entschieden, die Schule lag im Unrecht mit dem Ausschluss und
+
+01:35:03.948 --> 01:35:06.991
+<v Thomas Lohninger>man weiß ja nicht, ob er wirklich aufgenommen hat und deswegen,
+
+01:35:07.555 --> 01:35:11.369
+<v Thomas Lohninger>ja ja, die fühlen sich alle überwacht, aber wurden sie wirklich überwacht, wissen wir nicht.
+
+01:35:11.764 --> 01:35:15.171
+<v Thomas Lohninger>Deswegen muss der Schüler wieder zurück an die Schule kommen,
+
+01:35:15.833 --> 01:35:18.636
+<v Thomas Lohninger>hat das Bundesverwaltungsgericht in Wien entschieden.
+
+01:35:19.264 --> 01:35:25.788
+<v Thomas Lohninger>Und dadurch ist eine große Debatte entbrannt über diese Metaglasses an Schulen,
+
+01:35:25.788 --> 01:35:27.350
+<v Thomas Lohninger>in Schwimmbädern, in Amtsgebäuden.
+
+01:35:28.328 --> 01:35:32.081
+<v Thomas Lohninger>Wir haben eine Petition gemacht, gemeinsam mit Aufstehen, die 30.000 Unterschriften hat.
+
+01:35:32.662 --> 01:35:38.068
+<v Thomas Lohninger>Und inzwischen hat die Regierung reagiert. Und unser für Digitalisierung zuständiger
+
+01:35:38.068 --> 01:35:43.448
+<v Thomas Lohninger>Staatssekretär Pröll hat gesagt, ja, da müssen wir was tun. Und hier ist ein
+
+01:35:43.448 --> 01:35:46.842
+<v Thomas Lohninger>Drei-Stufen-Modell. In Schulen sind sie verboten, in Schwimmbädern auch.
+
+01:35:47.476 --> 01:35:50.756
+<v Thomas Lohninger>Wenn es um Urheberrecht geht, also Kinos, darfst du sie auch nicht aufsetzen.
+
+01:35:51.232 --> 01:35:54.059
+<v Thomas Lohninger>Und im öffentlichen Raum muss es eine Kennzeichnungspflicht geben.
+
+01:35:54.783 --> 01:35:59.338
+<v Thomas Lohninger>Also das Ding ist innerhalb von anderthalb Monaten jetzt glaube ich so weit
+
+01:35:59.338 --> 01:36:01.018
+<v Thomas Lohninger>eskaliert, dass wir eine Zusage auf
+
+01:36:01.018 --> 01:36:04.483
+<v Thomas Lohninger>eine parlamentarische Enquete und eine gesetzliche Festschreibung haben.
+
+01:36:05.588 --> 01:36:10.138
+<v Thomas Lohninger>Die Petition kann man immer noch unterschreiben und wir freuen uns mal über
+
+01:36:10.138 --> 01:36:12.656
+<v Thomas Lohninger>den ersten Etappensieg, aber natürlich bleiben wir dran.
+
+01:36:13.207 --> 01:36:20.098
+<v Thomas Lohninger>Und wer solche Brillen in seinem Umfeld sieht und vielleicht in seinem Arbeitsplatz,
+
+01:36:20.098 --> 01:36:25.778
+<v Thomas Lohninger>in seiner Schule, in seinem Verein oder in der Sauna oder wo auch immer gerne nicht überwacht wird.
+
+01:36:25.778 --> 01:36:29.418
+<v Thomas Lohninger>Wir haben auch so Hinweisschilder mal bei uns auf der Webseite,
+
+01:36:29.418 --> 01:36:31.725
+<v Thomas Lohninger>weil mit Hausrecht kann man die Dinge heute schon verbieten.
+
+01:36:32.259 --> 01:36:37.508
+<v Thomas Lohninger>Da muss man gar nicht auf die Regierung warten, ist vielleicht präventiv ein
+
+01:36:37.508 --> 01:36:41.158
+<v Thomas Lohninger>gutes Signal, weil Tim hat vorher ein richtiges Wort gesagt, Glasholes.
+
+01:36:41.518 --> 01:36:46.401
+<v Thomas Lohninger>Wir haben Google Glass 2015 beerdigt, einfach nur durch soziale Ächtung.
+
+01:36:46.801 --> 01:36:50.063
+<v Thomas Lohninger>Ich glaube, daran sollten wir uns jetzt wieder ein Beispiel nehmen bei Meta.
+
+01:36:52.549 --> 01:36:52.839
+<v Thomas Lohninger>Ja.
+
+01:36:56.599 --> 01:37:00.431
+<v Thomas Lohninger>Und gleich das nächste gute Thema ist der Staatstrojaner in Österreich.
+
+01:37:01.396 --> 01:37:05.096
+<v Thomas Lohninger>Da wollte ich nur seit der letzten Sendung gab es eine mündliche Verhandlung
+
+01:37:05.096 --> 01:37:06.873
+<v Thomas Lohninger>beim Verfassungsgerichtshof in Österreich.
+
+01:37:07.419 --> 01:37:13.206
+<v Thomas Lohninger>Wir haben da ja Klage eingereicht gemeinsam mit der Opposition und die mündliche
+
+01:37:13.206 --> 01:37:17.653
+<v Thomas Lohninger>Verhandlung war wirklich bemerkenswert. Das war fast ein ganzer Tag.
+
+01:37:18.791 --> 01:37:24.433
+<v Thomas Lohninger>Und die RichterInnen haben extrem technisch gefragt, wo die Probleme sind mit,
+
+01:37:25.588 --> 01:37:29.406
+<v Thomas Lohninger>Trojanern, wie das ist mit dem Ausnutzen von Sicherheitslücken.
+
+01:37:29.406 --> 01:37:31.364
+<v Thomas Lohninger>Wer hat dann wirklich Zugriff auf was?
+
+01:37:31.782 --> 01:37:36.571
+<v Thomas Lohninger>Diese ganzen Hersteller, haben die nicht Menschenrechtsverletzungen begangen in anderen Ländern?
+
+01:37:37.094 --> 01:37:40.879
+<v Thomas Lohninger>Wie sichert man die Beweiskette von gehackten Geräten aus?
+
+01:37:42.371 --> 01:37:46.216
+<v Thomas Lohninger>Und wie schaut das mit dem Rechtsschutz aus? Weil der Rechtsschutzbeauftragte
+
+01:37:46.216 --> 01:37:50.796
+<v Thomas Lohninger>in Österreich muss vom Inlandsgeheimdienst sicherheitsüberprüft werden.
+
+01:37:50.796 --> 01:37:55.954
+<v Thomas Lohninger>Das heißt, das Kontrollorgan des Inlandsgeheimdienstes unterliegt einem Veto
+
+01:37:56.233 --> 01:37:59.431
+<v Thomas Lohninger>jeder Person, die dort arbeite, durch den Inlandsgeheimdienst.
+
+01:38:01.520 --> 01:38:05.866
+<v Thomas Lohninger>Das war sehr unterhaltsam und ist jetzt immer noch bei Gericht anhängig.
+
+01:38:05.866 --> 01:38:10.344
+<v Thomas Lohninger>Wir hoffen, dass das auch jetzt dieses Jahr noch entschieden wird.
+
+01:38:11.176 --> 01:38:15.666
+<v Thomas Lohninger>Eigentlich sollte das nicht so lange dauern, aber man hat sich das Thema auf
+
+01:38:15.666 --> 01:38:19.896
+<v Thomas Lohninger>jeden Fall sehr angenommen, das wäre der fünfte Versuch, also ist der fünfte
+
+01:38:19.896 --> 01:38:23.080
+<v Thomas Lohninger>Versuch, einen Bundestrojaner in Österreich zu legalisieren.
+
+01:38:24.116 --> 01:38:26.598
+<v Thomas Lohninger>Bundestrojaner ist so der Begriff statt Staatstrojaner dazu,
+
+01:38:26.998 --> 01:38:31.976
+<v Thomas Lohninger>es hat historische Gründe und ja, die anderen vier konnten wir beerdigen,
+
+01:38:31.976 --> 01:38:37.366
+<v Thomas Lohninger>das ist jetzt der fünfte Anlauf und da steht noch ein Urteil aus.
+
+01:38:38.179 --> 01:38:41.867
+<v Thomas Lohninger>Und die letzte gute Nachricht, auf die ich noch kommen wollte,
+
+01:38:41.867 --> 01:38:47.020
+<v Thomas Lohninger>ist, dass Gesichtserkennung aktuell in Österreich auch gerade verboten wurde.
+
+01:38:47.587 --> 01:38:50.677
+<v Thomas Lohninger>Gesichtserkennung, die die Polizei eingesetzt hat auf Klimademos.
+
+01:38:51.060 --> 01:38:55.457
+<v Thomas Lohninger>Da sind wir mit einem betroffenen Klimaaktivisten vor Gericht gezogen,
+
+01:38:55.457 --> 01:38:58.967
+<v Thomas Lohninger>also vor die Datenschutzbehörde gezogen. Die hat uns Recht gegeben und jetzt
+
+01:38:58.967 --> 01:39:00.898
+<v Thomas Lohninger>im November wird das vor Gericht verhandelt.
+
+01:39:01.281 --> 01:39:05.345
+<v Thomas Lohninger>Aber aktuell gibt es keine Rechtsgrundlage für Gesichtserkennung.
+
+01:39:07.967 --> 01:39:11.317
+<v Thomas Lohninger>Das Sicherheitspolizeigesetz, was da bisher herangezogen wurde,
+
+01:39:11.317 --> 01:39:12.787
+<v Thomas Lohninger>taugt einfach nicht dazu.
+
+01:39:13.419 --> 01:39:16.927
+<v Thomas Lohninger>Also wir rechnen auch damit, dass es jetzt bald zu gesetzlichen Nachschärfungen kommt.
+
+01:39:16.927 --> 01:39:20.207
+<v Linus Neumann>Ja, das würde ich gerade sagen. Herzlichen Glückwunsch, dann wird das Gesetz
+
+01:39:20.207 --> 01:39:23.027
+<v Linus Neumann>jetzt geregelt, klar gemacht.
+
+01:39:23.027 --> 01:39:27.707
+<v Linus Neumann>Aber das heißt, es hat ein Einsatz stattgefunden, es gab keine Rechtsgrundlage
+
+01:39:27.707 --> 01:39:29.007
+<v Linus Neumann>dafür und ihr habt das bei der,
+
+01:39:30.367 --> 01:39:34.977
+<v Linus Neumann>Datenschutzbehörde angezeigt und ihr geht davon aus, dass jetzt auch das Gericht
+
+01:39:34.977 --> 01:39:38.247
+<v Linus Neumann>dann dieses Vorgehen als rechtswidrig,
+
+01:39:39.977 --> 01:39:40.627
+<v Linus Neumann>urteilen wird.
+
+01:39:41.365 --> 01:39:43.657
+<v Thomas Lohninger>Genau, weil es ist die Rechtsgrundlage, auf die sie sich berufen,
+
+01:39:43.657 --> 01:39:46.057
+<v Thomas Lohninger>ist dieselbe, mit der du Fingerabdrücke von Leuten abnimmst.
+
+01:39:46.057 --> 01:39:47.127
+<v Thomas Lohninger>Das ist halt erkennungsdienstlich.
+
+01:39:48.147 --> 01:39:49.039
+<v Linus Neumann>Von einer Demo.
+
+01:39:49.547 --> 01:39:56.907
+<v Thomas Lohninger>Ja, das ist was anderes. Deswegen der Fall ist auch, wir verlinken die Details,
+
+01:39:56.907 --> 01:39:59.858
+<v Thomas Lohninger>ist noch anhängig, aber das ist auch Popcorn.
+
+01:40:01.122 --> 01:40:05.430
+<v Thomas Lohninger>Genau. Und ich habe noch viel mehr Kreinkrams, aber ich weiß gar nicht,
+
+01:40:05.430 --> 01:40:06.790
+<v Thomas Lohninger>ob das jetzt noch so interessant ist.
+
+01:40:06.790 --> 01:40:10.960
+<v Thomas Lohninger>Ich wollte noch den Begutachtungsmonitor.at erwähnen. Das ist nämlich so ein
+
+01:40:10.960 --> 01:40:15.070
+<v Thomas Lohninger>schönes freies Softwareprojekt von einem ehrenamtlichen Menschen,
+
+01:40:15.070 --> 01:40:19.940
+<v Thomas Lohninger>der damit in Österreich das, was der Bundestagsanzeiger heißt,
+
+01:40:19.940 --> 01:40:21.758
+<v Thomas Lohninger>das glaube ich, in Deutschland.
+
+01:40:22.019 --> 01:40:25.473
+<v Thomas Lohninger>Das ist so die abgespeckte Variante davon für Österreich.
+
+01:40:25.886 --> 01:40:30.920
+<v Thomas Lohninger>Wer mit Gesetzgebungsverfahren in Österreich auf dem Laufenden bleiben will,
+
+01:40:30.920 --> 01:40:32.306
+<v Thomas Lohninger>also wer denselben Kink hat wie ich,
+
+01:40:33.370 --> 01:40:36.387
+<v Thomas Lohninger>der würde sich da freuen, weil das macht es wirklich sehr einfach,
+
+01:40:36.683 --> 01:40:42.070
+<v Thomas Lohninger>diese Dinge zu verfolgen und da auf dem Laufenden zu bleiben und sich eben auch
+
+01:40:42.070 --> 01:40:44.930
+<v Thomas Lohninger>einzubringen, wenn gerade eine Begutachtung läuft.
+
+01:40:44.930 --> 01:40:46.847
+<v Linus Neumann>Meinst du den Bundestagszusammenfasser?
+
+01:40:47.370 --> 01:40:48.530
+<v Thomas Lohninger>Danke sehr, das meinte ich.
+
+01:40:48.890 --> 01:40:51.944
+<v Linus Neumann>Genau, wir haben einen Bundesanzeiger.
+
+01:40:52.990 --> 01:40:56.751
+<v Linus Neumann>Das ist etwas anderes. Wir haben einen Bundestag.
+
+01:40:57.186 --> 01:41:05.774
+<v Tim Pritlove>Der Anzeiger ist das offizielle Outlet für das Gesetz. Wenn es da veröffentlicht ist, dann gilt es.
+
+01:41:06.534 --> 01:41:07.054
+<v Thomas Lohninger>Euer Journal.
+
+01:41:07.594 --> 01:41:14.214
+<v Linus Neumann>Und der Bundestagszusammenfasser das Projekt von Sabrina,
+
+01:41:14.874 --> 01:41:20.664
+<v Linus Neumann>die auch mit der Parlamentsrevue und der Landtagsrevue Podcast hat,
+
+01:41:20.664 --> 01:41:25.184
+<v Linus Neumann>um diese ganzen Gesetzesvorhaben zu begleiten, die hat sich da ja wirklich was
+
+01:41:25.184 --> 01:41:28.533
+<v Linus Neumann>fürchterliches angetan und macht das großartig.
+
+01:41:28.713 --> 01:41:29.996
+<v Tim Pritlove>Total toll macht sie das.
+
+01:41:30.907 --> 01:41:36.264
+<v Thomas Lohninger>Ja, ich finde ja Parlamente toll. Viele Leute in Berlin kennen vielleicht den
+
+01:41:36.264 --> 01:41:39.313
+<v Thomas Lohninger>netzpolitischen Abend. Das gibt es in Österreich auch.
+
+01:41:40.374 --> 01:41:44.357
+<v Thomas Lohninger>Und der vorletzte davon hat sogar im Parlament stattgefunden.
+
+01:41:44.781 --> 01:41:49.297
+<v Thomas Lohninger>Auf Einladung von Regierung und Opposition, Liberalen und Grünen zu Ethical Hacking.
+
+01:41:50.454 --> 01:41:55.066
+<v Thomas Lohninger>Wir haben nämlich auch das Problem mit dem Hackerparagrafen in Österreich, der viel zu weit geht.
+
+01:41:55.467 --> 01:42:01.034
+<v Thomas Lohninger>Ihr erinnert euch, ich war ja selber schon mal wegen Hacking als Beschuldigter geführt.
+
+01:42:04.034 --> 01:42:07.477
+<v Linus Neumann>Erzähl doch mal genau, was war da? Ich erinnere mich nur dunkel.
+
+01:42:08.075 --> 01:42:11.384
+<v Thomas Lohninger>Ich habe halt Sicherheitslücken gemeldet ans Gesundheitsministerium,
+
+01:42:11.384 --> 01:42:16.278
+<v Thomas Lohninger>weil das epidemiologische Meldesystem, wo jede HIV und Corona-Erkrankung eingemeldet wird,
+
+01:42:17.537 --> 01:42:22.874
+<v Thomas Lohninger>offen war und du konntest halt Read-Write-Access auf alles Und dann haben wir
+
+01:42:22.874 --> 01:42:25.705
+<v Thomas Lohninger>ihnen mit dem Standard gemeinsam der Tageszeitung das gemeldet,
+
+01:42:26.297 --> 01:42:29.274
+<v Thomas Lohninger>weil eigentlich war ich nur der Experte, die eine Standard zugezogen hat,
+
+01:42:29.274 --> 01:42:31.736
+<v Thomas Lohninger>um das zu verifizieren, dass das wirklich stimmt.
+
+01:42:32.462 --> 01:42:37.385
+<v Thomas Lohninger>Und nach dem Responsible Disclosure gab es kein Danke, sondern eine Anzeige.
+
+01:42:38.180 --> 01:42:38.623
+<v Thomas Lohninger>Also.
+
+01:42:41.923 --> 01:42:45.043
+<v Thomas Lohninger>Zwei Jahre Ermittlungsverfahren, zu einer Anklage kam es nicht,
+
+01:42:45.043 --> 01:42:50.863
+<v Thomas Lohninger>aber trotzdem glaube ich 12.000 Euro Anwaltskosten und am Ende musste sich der,
+
+01:42:51.363 --> 01:42:53.144
+<v Thomas Lohninger>Gesundheitsminister entschuldigen bei uns.
+
+01:42:54.123 --> 01:42:59.263
+<v Thomas Lohninger>Aber das zeigt einfach, wir haben da einen Gesetzesbestand, der eindeutig das
+
+01:42:59.263 --> 01:43:03.303
+<v Thomas Lohninger>Falsche bestraft und unter Strafe stellt, wenn du das Richtige tust,
+
+01:43:03.303 --> 01:43:04.446
+<v Thomas Lohninger>nämlich wenn du die Lücke meldest.
+
+01:43:04.899 --> 01:43:09.543
+<v Thomas Lohninger>Und das muss sich ändern. Und da gibt es einen Entschließungsantrag,
+
+01:43:09.543 --> 01:43:13.993
+<v Thomas Lohninger>der mit Verfassungsmehrheit in Österreich verabschiedet wurde.
+
+01:43:13.993 --> 01:43:18.918
+<v Thomas Lohninger>Also die Verfassungsmehrheit heißt zwei Drittel der Stimmen.
+
+01:43:19.690 --> 01:43:24.443
+<v Thomas Lohninger>Also die Sozialdemokraten, Konservativen, Liberalen und Grünen haben sich da
+
+01:43:24.443 --> 01:43:30.323
+<v Thomas Lohninger>zusammengetan und beschlossen, dass man hier Rechtssicherheit für Ethical Hacking machen muss.
+
+01:43:31.343 --> 01:43:34.453
+<v Thomas Lohninger>Passiert es noch nichts, deswegen dieser netzpolitische Abend im Parlament,
+
+01:43:34.453 --> 01:43:39.247
+<v Thomas Lohninger>um mal nachzufragen nach neun Monaten, was denn schon passiert ist.
+
+01:43:40.383 --> 01:43:41.293
+<v Thomas Lohninger>Auch hier bleiben wir dran.
+
+01:43:41.293 --> 01:43:45.563
+<v Tim Pritlove>Was heißt denn im Parlament? Also jetzt so richtig im richtigen eigentlichen
+
+01:43:45.923 --> 01:43:47.862
+<v Tim Pritlove>Parlament da, wo normalerweise...
+
+01:43:48.547 --> 01:43:51.515
+<v Thomas Lohninger>Ja, also die Fotos kann man sich anschauen.
+
+01:43:52.995 --> 01:43:57.455
+<v Thomas Lohninger>Also nicht im Plenumssitzungssaal, aber so in einem der, das ist schon richtig
+
+01:43:57.455 --> 01:44:04.462
+<v Thomas Lohninger>Marmor und echt schön, da tagt ansonsten der Bundesrat früher vor der Renovierung.
+
+01:44:04.846 --> 01:44:06.715
+<v Thomas Lohninger>Also schon so einer dieser Säulensäle.
+
+01:44:07.995 --> 01:44:11.388
+<v Thomas Lohninger>Das ist relativ pomp, ja. Also das Parlament kommt bei uns ja noch aus der Monarchie,
+
+01:44:12.061 --> 01:44:13.955
+<v Thomas Lohninger>und deswegen gibt es da schöne Räumlichkeiten.
+
+01:44:15.300 --> 01:44:17.815
+<v Linus Neumann>Die Monarchie hat immer die schönsten Parlamente gehabt.
+
+01:44:18.335 --> 01:44:19.875
+<v Tim Pritlove>Und hast du da eine Rede gehalten?
+
+01:44:20.995 --> 01:44:23.295
+<v Thomas Lohninger>Nee, nee, nee, das war mein Kollege Sebastian, der am Panel war.
+
+01:44:23.875 --> 01:44:25.875
+<v Thomas Lohninger>Ich habe nur mitgeholfen, das zu organisieren.
+
+01:44:27.395 --> 01:44:31.501
+<v Tim Pritlove>Habt ihr euch dann auch ordentlich gekleidet? Habt ihr dann auch so Perücken auf?
+
+01:44:32.415 --> 01:44:34.075
+<v Thomas Lohninger>Wir sind ja nicht im Großbritannienteam.
+
+01:44:34.075 --> 01:44:38.175
+<v Tim Pritlove>Naja, ich meine, hätte man ja mal ein bisschen historisieren können.
+
+01:44:39.395 --> 01:44:44.375
+<v Thomas Lohninger>Nee, nee, also unsere Parlaments, wir haben ja auch kein Oberhaus gehabt.
+
+01:44:44.375 --> 01:44:48.475
+<v Thomas Lohninger>Wir hatten sozusagen zwar zwei Kammern, aber das war ja noch viel Völkerstaat
+
+01:44:48.475 --> 01:44:50.871
+<v Thomas Lohninger>und Perücken gab es da glaube ich nicht.
+
+01:44:52.615 --> 01:44:56.115
+<v Tim Pritlove>Okay, ja. Hätte ja die Situation ein bisschen auflockern können.
+
+01:44:59.735 --> 01:45:01.076
+<v Thomas Lohninger>Gut, das war's von mir.
+
+01:45:02.051 --> 01:45:07.908
+<v Linus Neumann>Thomas, Mensch. Immer wieder irre, weil du alles machst, Junge.
+
+01:45:08.570 --> 01:45:10.590
+<v Tim Pritlove>Ja, schläfst du auch mal? Nee, ne?
+
+01:45:11.246 --> 01:45:11.867
+<v Thomas Lohninger>Zu wenig.
+
+01:45:12.204 --> 01:45:14.752
+<v Linus Neumann>Ja, gestern haben wir noch sehr spät abends telefoniert.
+
+01:45:17.039 --> 01:45:21.161
+<v Linus Neumann>Du wirst am Sonntag, wie gesagt, beim Salon sein noch.
+
+01:45:22.824 --> 01:45:25.584
+<v Linus Neumann>Salon diesmal auch ein bisschen früher. Wie haben wir denn?
+
+01:45:26.144 --> 01:45:26.768
+<v Tim Pritlove>15 Uhr.
+
+01:45:26.890 --> 01:45:31.575
+<v Linus Neumann>15 Uhr anfangen oder da sein? Anfang.
+
+01:45:32.086 --> 01:45:32.852
+<v Tim Pritlove>Ui.
+
+01:45:35.104 --> 01:45:35.664
+<v Tim Pritlove>So fängt es an.
+
+01:45:36.004 --> 01:45:40.236
+<v Linus Neumann>So geht es los. Am Sonntag. Gottlos.
+
+01:45:41.764 --> 01:45:45.364
+<v Tim Pritlove>Naja, ich meine, es wird ja langsam Winter, dass man noch ein bisschen was hat,
+
+01:45:46.084 --> 01:45:48.501
+<v Tim Pritlove>auch von der Helligkeit, dass man da nicht im Dunkeln sitzt.
+
+01:45:49.587 --> 01:45:50.661
+<v Tim Pritlove>Bei Kerzenlicht.
+
+01:45:51.317 --> 01:45:56.535
+<v Linus Neumann>Einlass 14.30 Uhr. Ende 21 Uhr.
+
+01:45:56.715 --> 01:45:59.995
+<v Linus Neumann>Aber früher wahrscheinlich schon. Also 21 Uhr letzte Runde.
+
+01:46:01.324 --> 01:46:02.776
+<v Linus Neumann>Hast du das? Du hast das hier gemacht.
+
+01:46:04.164 --> 01:46:05.384
+<v Linus Neumann>Sechs Stunden.
+
+01:46:05.944 --> 01:46:07.684
+<v Tim Pritlove>Dann habe ich das Enddatum nicht.
+
+01:46:10.544 --> 01:46:13.404
+<v Tim Pritlove>Nein, so lange bestimmt nicht. Ich meine, wir hatten jetzt nicht wirklich,
+
+01:46:14.124 --> 01:46:16.384
+<v Tim Pritlove>letztes Mal haben wir so drei Stunden gequatscht, das fand ich schon.
+
+01:46:17.024 --> 01:46:17.894
+<v Linus Neumann>Haben wir lange gequatscht?
+
+01:46:17.894 --> 01:46:20.254
+<v Tim Pritlove>Ja, ja, das war, also ich will.
+
+01:46:20.254 --> 01:46:22.264
+<v Linus Neumann>21 Uhr muss der Thomas am Flughafen sein.
+
+01:46:22.264 --> 01:46:23.224
+<v Tim Pritlove>Wir reden so lange, bis.
+
+01:46:23.224 --> 01:46:24.284
+<v Thomas Lohninger>Ich muss gleich weiter nach Brüssel.
+
+01:46:24.284 --> 01:46:28.672
+<v Tim Pritlove>Ja, genau. Also wir reden so lange, wie es interessant ist. und bis ich umfalle.
+
+01:46:29.113 --> 01:46:34.355
+<v Linus Neumann>In der Fulda Straße 46 in der MMM-Stube.
+
+01:46:36.604 --> 01:46:38.819
+<v Tim Pritlove>Nicht an der Ecke. Nicht an der Ecke.
+
+01:46:39.173 --> 01:46:43.943
+<v Linus Neumann>Ein paar Meter weiter ist ein Pfeil dran. Drei große Ems. Wir freuen uns.
+
+01:46:44.181 --> 01:46:47.455
+<v Tim Pritlove>Genau, wir freuen uns. Thomas, vielen Dank. Wir sehen uns am Sonntag.
+
+01:46:48.285 --> 01:46:53.944
+<v Tim Pritlove>Und ja, ich hoffe, ein paar von euch sehen wir auch am Sonntag und dann warst
+
+01:46:53.944 --> 01:46:56.650
+<v Tim Pritlove>du jetzt erstmal wieder von uns. Ich würde sagen, tschüss und bis bald.
+
+01:46:57.121 --> 01:46:57.939
+<v Linus Neumann>Ciao, ciao.

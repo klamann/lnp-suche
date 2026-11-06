@@ -7,7 +7,7 @@
     <title>Logbuch:Netzpolitik</title>
     <link>https://logbuch-netzpolitik.de</link>
     <description><![CDATA[Einblicke und Ausblicke in das netzpolitische Geschehen]]></description>
-    <lastBuildDate>Tue, 20 Oct 2026 11:48:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:46:30 +0000</lastBuildDate>
     <image>
       <url>https://media.metaebene.me/media/lnp/lnp-logo-600x600.jpg</url>
       <title>Logbuch:Netzpolitik</title>
@@ -38,6 +38,288 @@
     <itunes:explicit>false</itunes:explicit>
     <podcast:funding url="https://metaebene.me/support">Spenden für die Metaebene</podcast:funding>
     <podcast:license url="http://creativecommons.org/licenses/by-nc-sa/3.0/de/deed.en">cc-by-nc-sa-3.0-de</podcast:license>
+    <item>
+      <title>LNP564 Im Himmel regiert der liebe Gott</title>
+      <link>https://logbuch-netzpolitik.de/lnp564-im-himmel-regiert-der-liebe-gott</link>
+      <pubDate>Thu, 05 Nov 2026 14:46:28 +0000</pubDate>
+      <guid isPermaLink="false">44c4a604-9d1b-43a6-a7eb-20ee6bc00ccb</guid>
+      <description><![CDATA[Wir feiern die Ergebnisse der US Midterm Wahlen und passend zum Wahlerfolg haben wir uns Thomas dazugeholt, der diese Momente irgendwie immer perfekt abpasst. Nach ein paar Meldungen aus dem Cyberreich besprechen wir vor allem ausführlich die Pläne zum Digital Networks Act und beleuchten außerdem noch die potentiellen Gefahren, die vom neuen 6G Sensing Standard ausgehen (Spoiler: it's bad). Dazu gibt es eine Reihe von Updates aus Österreich zum Staatstrojaner, einer Petition gegen SmartGlasses, dem Verbot von Gesichtserkennung für die österreichische Polizei und noch ein paar andere Kleinigkeiten und Lobpreisungen.]]></description>
+      <atom:link rel="http://podlove.org/deep-link" href="https://logbuch-netzpolitik.de/lnp564-im-himmel-regiert-der-liebe-gott#"/>
+      <enclosure url="https://logbuch-netzpolitik.de/podlove/file/9118/s/feed/c/mp3/lnp564-im-himmel-regiert-der-liebe-gott.mp3" length="65144631" type="audio/mpeg"/>
+      <itunes:duration>01:48:30</itunes:duration>
+      <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
+      <itunes:subtitle>Midterms — Cyber Cyber — Digital Networks Act — d-you — Ausweiszwang — SmartGlasses Verbot — Staatstrojaner AT — Gesichtserkennung — Begutachtungs-Monitor</itunes:subtitle>
+      <itunes:episode>564</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary><![CDATA[Wir feiern die Ergebnisse der US Midterm Wahlen und passend zum Wahlerfolg haben wir uns Thomas dazugeholt, der diese Momente irgendwie immer perfekt abpasst. Nach ein paar Meldungen aus dem Cyberreich besprechen wir vor allem ausführlich die Pläne zum Digital Networks Act und beleuchten außerdem noch die potentiellen Gefahren, die vom neuen 6G Sensing Standard ausgehen (Spoiler: it&#039;s bad). Dazu gibt es eine Reihe von Updates aus Österreich zum Staatstrojaner, einer Petition gegen SmartGlasses, dem Verbot von Gesichtserkennung für die österreichische Polizei und noch ein paar andere Kleinigkeiten und Lobpreisungen.]]></itunes:summary>
+      <itunes:image href="https://media.metaebene.me/media/lnp/lnp564-im-himmel-regiert-der-liebe-gott.jpg"/>
+      <content:encoded><![CDATA[
+
+<p>Feedback zur Sendung?<br/>
+<strong><a href="https://logbuch-netzpolitik.de/lnp564-im-himmel-regiert-der-liebe-gott#comments">Schreibe uns einen Kommentar</a></strong></p>
+
+
+
+<p><strong>Midterms — Cyber Cyber — Digital Networks Act — d-you — Ausweiszwang — SmartGlasses Verbot — Staatstrojaner AT — Gesichtserkennung — Begutachtungs-Monitor</strong></p>
+
+<a href="https://media.metaebene.me/media/lnp/lnp564-im-himmel-regiert-der-liebe-gott.jpg">
+<img decoding="async" width="600" src="https://logbuch-netzpolitik.de/wp-content/cache/podlove/d0/77a4cc52546585092c9f88c69763bd/lnp564-im-himmel-regiert-der-liebe-gott_600x.jpg" srcset="https://logbuch-netzpolitik.de/wp-content/cache/podlove/d0/77a4cc52546585092c9f88c69763bd/lnp564-im-himmel-regiert-der-liebe-gott_600x.jpg 1x, https://logbuch-netzpolitik.de/wp-content/cache/podlove/d0/77a4cc52546585092c9f88c69763bd/lnp564-im-himmel-regiert-der-liebe-gott_1200x.jpg 2x"/>
+</a>
+
+<p class="episode-summary">Wir feiern die Ergebnisse der US Midterm Wahlen und passend zum Wahlerfolg haben wir uns Thomas dazugeholt, der diese Momente irgendwie immer perfekt abpasst. Nach ein paar Meldungen aus dem Cyberreich besprechen wir vor allem ausführlich die Pläne zum Digital Networks Act und beleuchten außerdem noch die potentiellen Gefahren, die vom neuen 6G Sensing Standard ausgehen (Spoiler: it&#039;s bad). Dazu gibt es eine Reihe von Updates aus Österreich zum Staatstrojaner, einer Petition gegen SmartGlasses, dem Verbot von Gesichtserkennung für die österreichische Polizei und noch ein paar andere Kleinigkeiten und Lobpreisungen.</p>
+
+
+<div>
+
+<ul>
+<li>
+<strong>Linus Neumann</strong>
+<ul>
+<li>
+<a href="https://linus-neumann.de/">linus-neumann.de</a>
+</li>
+<li>
+<a href="https://23.social/@linuzifer">@linuzifer@23.social</a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/Linuzifer">@linuzifer@youtube.com</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/in/linus-neumann/">Linus Neumann</a>
+</li>
+<li>
+<a href="https://twitter.com/linuzifer">@linuzifer@twitter.com</a>
+</li>
+<li>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#038;hosted_button_id=5U2Z7B6A8MHCE">Paypal</a>
+</li>
+<li>
+<a href="https://amzn.to/3r2hVqc">Amazon Wishlist</a>
+</li>
+</ul>
+</li>
+<li>
+<strong>Tim Pritlove</strong>
+<ul>
+<li>
+<a href="https://twitter.com/timpritlove">Twitter</a>
+</li>
+<li>
+<a href="https://mastodon.social/@timpritlove">Mastodon</a>
+</li>
+<li>
+<a href="https://metaebene.me">Website</a>
+</li>
+<li>
+<a href="https://liberapay.com/timpritlove">Liberapay</a>
+</li>
+<li>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#038;hosted_button_id=BQTHPPWX5VQDW">Paypal</a>
+</li>
+</ul>
+</li>
+</ul>
+
+
+</div>
+
+    <hr/>
+
+    <div style="display: flex; margin-right: 20px">
+        <div class="transcript-logo">
+                    </div>
+        <div class="transcript-text" style="flex: 1; margin-left: 20px;">
+            <p>
+                Für diese Episode von Logbuch:Netzpolitik liegt auch ein <strong>vollständiges Transkript</strong>
+                mit Zeitmarken und Sprecheridentifikation vor.
+            </p>
+            <p>
+                Bitte beachten: das Transkript wurde automatisiert erzeugt und wurde nicht nachträglich gegengelesen oder korrigiert.
+                Dieser Prozess ist nicht sonderlich genau und das Ergebnis enthält daher mit Sicherheit eine Reihe von Fehlern.
+                Im Zweifel gilt immer das in der Sendung aufgezeichnete gesprochene Wort.
+                Formate:
+                <a href="https://logbuch-netzpolitik.de/lnp564-im-himmel-regiert-der-liebe-gott?podlove_template_page=episode-transcript-html" download="lnp564-im-himmel-regiert-der-liebe-gott.transcript.html">HTML</a>,
+                <a href="https://logbuch-netzpolitik.de/lnp564-im-himmel-regiert-der-liebe-gott?podlove_transcript=webvtt" download="lnp564-im-himmel-regiert-der-liebe-gott.transcript.vtt">WEBVTT</a>.
+            </p>
+        </div>
+    </div>
+
+    
+
+    <hr/>
+    
+
+
+
+
+
+
+
+<h1>Shownotes</h1>
+
+<div class="outline-document">
+  <div class="outline-chapter">
+  <h2>Prolog</h2>
+  <ul>
+    <li class="outline-link"><span class="outline-site">pretix.eu:</span> <a href="https://pretix.eu/lnp/salon2/" target="_blank" rel="noopener noreferrer" title="So, 8. November 2026">LNP Salon</a></li>
+  </ul>
+</div>
+
+<div class="outline-chapter">
+  <h2>CYBER!</h2>
+  <ul>
+    <div class="outline-chapter">
+  <h3>Mercernary Spyware auf Parlamentarier</h3>
+  <ul>
+    <li class="outline-link"><span class="outline-site">Mediathek:</span> <a href="https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/audio-wie-leicht-sind-smartphones-und-co-auszuspionieren-100.html" target="_blank" rel="noopener noreferrer" title="Auf mobile Endgeräte von Bundespolitiker:innen scheint es einen Hackerangriff mit Spähsoftware gegeben zu haben. Linus Neumann vom Chaos Computer Club erklärt, wie man sich auch als Privatperson in solch einem Fall schützen kann.">Wie leicht sind Smartphones und Co. auszuspionieren?</a></li>
+<li class="outline-link"><span class="outline-site">tagesschau.de:</span> <a href="https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html" target="_blank" rel="noopener noreferrer" title="Nach Informationen der ARD hat es möglicherweise einen Hackerangriff auf Bundestagsabgeordnete und Mitglieder der Bundesregierung gegeben. Im Bericht aus Berlin bestätigte Digitalminister Wildberger den Einsatz von Spyware. Details nannte er nicht.">Wildberger bestätigt ARD-Bericht zu Hackerangriff</a></li>
+<li class="outline-link"><span class="outline-site">ZDFheute:</span> <a href="https://www.zdfheute.de/politik/deutschland/hackerangriff-regierung-wildberger-100.html" target="_blank" rel="noopener noreferrer" title="Digitalminister Wildberger hat einen Medienbericht bestätigt, nach dem Geräte von Regierungsmitgliedern von einer Spy-Software befallen wurden.">Hackerangriff mit Spyware: iPhones von deutschen Regierungsmitgliedern betroffen</a></li>
+<li class="outline-link"><span class="outline-site">Apple Support:</span> <a href="https://support.apple.com/en-us/102174" target="_blank" rel="noopener noreferrer" title="Apple threat notifications are designed to inform and assist users who may have been individually targeted by mercenary spyware attacks.">About Apple threat notifications and protecting against mercenary spyware</a></li>
+<li class="outline-link"><span class="outline-site">Security:</span> <a href="https://www.heise.de/news/BSI-Warnung-vor-Spaehsoftware-auf-Politiker-Handys-11507404.html" target="_blank" rel="noopener noreferrer" title="Müssen sich Bundespolitiker Sorgen machen, dass sich auf ihren iPhones Schadsoftware befindet? Der Digitalminister bestätigt einen amtlichen Hinweis.">Apple meldet Kompromittierung von Geräten durch Spyware</a></li>
+<li class="outline-link"><span class="outline-site">epicenter.academy:</span> <a href="https://epicenter.academy/e-learning/gewaltschutz" target="_blank" rel="noopener noreferrer" title="Schütze dich vor digitaler Überwachung aus deinem Umfeld. E-Learning mit praxisnahen Tipps zu Kontozugriff, Ortung, Stalkerware, Kameras &amp; mehr.">E-Learning &#8211; Gewaltschutz</a></li>
+  </ul>
+</div>
+
+<div class="outline-chapter">
+  <h3>PHP2shell</h3>
+  <ul>
+    <li class="outline-link"><span class="outline-site">ZDFheute:</span> <a href="https://www.zdfheute.de/politik/php-sicherheitsluecke-faq-websites-internet-100.html" target="_blank" rel="noopener noreferrer" title="Die Programmiersprache PHP steht im Fokus einer weltweiten Sicherheitskrise. Antworten auf die wichtigsten Fragen lesen Sie hier.">Was die PHP-Krise für das Internet bedeutet</a></li>
+<li class="outline-link"><span class="outline-site">ZDFheute:</span> <a href="https://www.zdfheute.de/video/zdf-mittagsmagazin/php-sicherheit-it-ki-100.html" target="_blank" rel="noopener noreferrer" title="KI hat die Sicherheitslücke in PHP entdeckt. IT-Sicherheitsberater Linus Neumann sieht darin langfristig eine Chance, kurzfristig aber ein Risiko für Angriffe.">PHP: &quot;Die Sicherheitslücke war jahrelang da&quot;</a></li>
+<li class="outline-link"><span class="outline-site">Deutschlandfunk:</span> <a href="https://www.deutschlandfunk.de/sicherheitsluecken-im-internet-welche-risiken-gibt-es-int-linus-neumann-ccc-100.html" target="_blank" rel="noopener noreferrer" title="KI entdeckt immer schneller und immer mehr Schwachstellen in Doftwäre. Warum Unternehmen ihre Update-Strategien jetzt grundlegend ändern müssen.">Hacker haben einen Vorsprung: Das Problem hinter der PHP-Lücke</a></li>
+<li class="outline-link"><span class="outline-site">www.sueddeutsche.de:</span> <a href="https://www.sueddeutsche.de/wirtschaft/php2shell-sicherheitsluecke-cybersicherheit-hackerangriff-ki-faq-li.3567251" target="_blank" rel="noopener noreferrer">www.sueddeutsche.de</a></li>
+  </ul>
+</div>
+
+<div class="outline-chapter">
+  <h3>Kontrolliert Eure Kühltruhen!</h3>
+  <ul>
+    <li class="outline-link"><span class="outline-site">Security:</span> <a href="https://www.heise.de/news/Cyberangriffe-auf-Kuehlschraenke-Erste-deutsche-Faelle-in-Bayern-und-NRW-11508922.html" target="_blank" rel="noopener noreferrer" title="Bei einer Welle von Cyberangriffen auf Kühlschränke verdarben Unmengen an Lebensmitteln. Aus Bayern und NRW wurden jetzt erste Fälle in Deutschland bekannt.">Cyberangriffe auf Kühlschränke: Erste deutsche Fälle in Bayern und NRW</a></li>
+<li class="outline-link"><span class="outline-site">tagesschau.de:</span> <a href="https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html" target="_blank" rel="noopener noreferrer" title="Statt fünf waren es plötzlich 50 Grad: In der Nacht haben Hacker in mehreren Supermärkten in Deutschland die Kühlanlagen umgestellt. Große Mengen an Lebensmitteln mussten entsorgt werden. Ähnliche Cyberangriffe gab es auch im Ausland.">Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten</a></li>
+<li class="outline-link"><span class="outline-site">ndr.de:</span> <a href="https://www.ndr.de/nachrichten/niedersachsen/cyberangriffe-auf-supermaerkte-so-gehen-die-hacker-vor,hackerangriff-160.html" target="_blank" rel="noopener noreferrer" title="Wie können Hacker die Temperatur von Supermarkt-Kühlanlagen manipulieren? Ein Digitalexperte erklärt im Interview, wie die Angriffe funktionieren.">Cyberangriffe auf Kühlregale von Supermärkte: So gehen die Hacker vor</a></li>
+  </ul>
+</div>
+
+<div class="outline-chapter">
+  <h3>Binance-Hack</h3>
+  <ul>
+    <li class="outline-link"><span class="outline-site">DER SPIEGEL:</span> <a href="https://www.spiegel.de/netzwelt/binance-hacker-erbeuten-6-3-milliarden-dollar-in-digitalwaehrungen-a-ef295845-9c6f-46fb-acba-20d98b45c5b4" target="_blank" rel="noopener noreferrer" title="Experten sprechen von der bisher größten Hackerattacke auf die größte Börse für Digitalwährungen. Binance setzte nach dem Diebstahl von mehreren Milliarden Dollar Auszahlungen aus. Erste Spuren führen nach Nordkorea.">Binance: Hacker erbeuten 6,3 Milliarden Dollar von größter Kryptobörse</a></li>
+<li class="outline-link"><span class="outline-site">heise online:</span> <a href="https://www.heise.de/news/6-3-Milliarden-US-Dollar-Neuer-groesster-Krypto-Coup-aller-Zeiten-trifft-Binance-11505601.html" target="_blank" rel="noopener noreferrer" title="Bei Binance haben Unbefugte mehr als sechs Milliarden US-Dollar abgegriffen, die Hälfte davon konnte eingefroren werden. Trotzdem ist es der größte Diebstahl.
+">Neuer größter Diebstahl: Über 6 Milliarden US-Dollar bei Binance abgegriffen</a></li>
+<li class="outline-link"><span class="outline-site">heise online:</span> <a href="https://www.heise.de/news/Dem-Rekorddiebstahl-bei-Binance-gingen-monatelange-Vorbereitungen-voraus-11510806.html" target="_blank" rel="noopener noreferrer" title="Der milliardenschwere Diebstahl bei Binance wurde nicht nur durch einen kompromittierten Laptop ermöglicht. Die Verantwortlichen haben Monate daran gearbeitet. ">Rekorddiebstahl bei Binance: Falsches Bewerbungsgespräch als Einfallstor</a></li>
+  </ul>
+</div>
+
+  </ul>
+</div>
+
+<div class="outline-chapter">
+  <h2>Digital Networks Act</h2>
+  <ul>
+    <li class="outline-link"><span class="outline-site">savetheinternet.eu:</span> <a href="https://savetheinternet.eu/" target="_blank" rel="noopener noreferrer" title="We’re back: the EU’s Digital Networks Act (DNA) puts net neutrality, privacy and router freedom at risk. We saved the internet once. We can do it again.">Save The Internet</a></li>
+<li class="outline-link"><span class="outline-site">epicenter.works:</span> <a href="https://epicenter.works/content/dna-analysis-itre-draft-report" target="_blank" rel="noopener noreferrer">DNA: Analysis ITRE Draft Report</a></li>
+<li class="outline-link"><span class="outline-site">epicenter.works:</span> <a href="https://epicenter.works/en/content/dna-the-eu-is-selling-our-internet-to-the-highest-bidder" target="_blank" rel="noopener noreferrer" title="The Digital Networks Act (DNA) will decide how Europeans use the internet for the next decade. The first draft in the European Parliament reads like a wish list of a handful of big telecom companies. We explain what is at stake and how we can still turn this around.">DNA: The EU Is Selling Our Internet To The Highest Bidder</a></li>
+<li class="outline-link"><span class="outline-site">www.europarl.europa.eu:</span> <a href="https://www.europarl.europa.eu/meps/de/257037/MICHAL_KOBOSKO/home" target="_blank" rel="noopener noreferrer" title="Profilseite – Michał KOBOSKO - Home">Home | Michał KOBOSKO | Abgeordnete | Europäisches Parlament</a></li>
+<li class="outline-link"><span class="outline-site">www.etsi.org:</span> <a href="https://www.etsi.org/deliver/etsi_gr/ISC/001_099/004/01.01.01_60/gr_ISC004v010101p.pdf" target="_blank" rel="noopener noreferrer" title="Dieses Dokument bietet eine umfassende Untersuchung zu Sicherheits-, Datenschutz-, Vertrauenswürdigkeits- und Nachhaltigkeitsaspekten im Kontext von integrierten Sensorik- und Kommunikationssystemen (ISAC). Es identifiziert 19 zentrale Themen, die technische und nicht-technische Anforderungen umfassen.">ETSI GR ISC 004 V1.1.1 (2026-02) GROUP REPORT Integrated Sensing And Communications (ISAC); Security, Privacy, Trustworthiness and Sustainability [PDF]</a></li>
+<li class="outline-link"><span class="outline-site">epicenter.works:</span> <a href="https://epicenter.works/unterstuetzung" target="_blank" rel="noopener noreferrer">Fördermitgliedschaft</a></li>
+  </ul>
+</div>
+
+<div class="outline-chapter">
+  <h2>d-you: EUDI Wallet in Deutschland</h2>
+  <ul>
+    <li class="outline-link"><span class="outline-site">Deutscher Bundestag:</span> <a href="https://www.bundestag.de/ausschuesse/a23_digitales_staatsmodernisierung/anhoerungen/1216764-1216764" target="_blank" rel="noopener noreferrer" title="Gesetzentwurf der Bundesregierung „Entwurf eines Gesetzes zur Durchführung der unionsrechtlichen Vorschriften über die Europäische Brieftasche für die Digitale Identität sowie zur Änderung...">Deutscher Bundestag &#8211; Anhörung zum Gesetzesentwurf &#39;Digitale Identitätengesetz (DIdG)&#39;</a></li>
+<li class="outline-link"><span class="outline-site">YouTube:</span> <a href="https://www.youtube.com/watch?v=SI8CqMRbdCI" target="_blank" rel="noopener noreferrer" title="Quelle: Deutscher Bundestag">Anhörung zu #eIDAS im Deutschen Bundestag 6.10.2026</a></li>
+<li class="outline-link"><span class="outline-site">epicenter.works:</span> <a href="https://epicenter.works/content/stellungnahme-zur-eidas-umsetzung-in-deutschland-digitales-identitaetengesetz" target="_blank" rel="noopener noreferrer">Stellungnahme zur eIDAS Umsetzung in Deutschland (Digitales Identitätengesetz)</a></li>
+  </ul>
+</div>
+
+<div class="outline-chapter">
+  <h2>Gesetze zum Digitalen Ausweiszwang</h2>
+  <ul>
+    <li class="outline-link"><span class="outline-site">oeil.europarl.europa.eu:</span> <a href="https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0286(COD)" target="_blank" rel="noopener noreferrer" title="European Parliament Legislative Observatory Procedure">Procedure File: 2026/0286(COD) | Legislative Observatory | European Parliament</a></li>
+<li class="outline-link"><span class="outline-site">epicenter.works:</span> <a href="https://epicenter.works/content/zwei-fronten-ein-irrweg-warum-digitaler-ausweiszwang-niemanden-schuetzt" target="_blank" rel="noopener noreferrer" title="Nach Österreich, legt jetzt auch die EU mit ihrem „KIDS Act“ die Weichen für einen generellen digitalen Ausweiszwang, weitreichende Kontroll- und Überwachungsstruktur und den Ausschluss breiter Teile der Bevölkerung aus dem digitalen Leben. Nur noch schlimmer.">Zwei Fronten, ein Irrweg. Warum digitaler Ausweiszwang niemanden schützt</a></li>
+<li class="outline-link"><span class="outline-site">epicenter.works:</span> <a href="https://epicenter.works/content/digitaler-ausweiszwang-statt-kinderschutz" target="_blank" rel="noopener noreferrer" title="Der Gesetzesentwurf zum Social-Media-Verbot bestätigt genau das, wovor wir seit Monaten gewarnt haben. Statt Kinder zu schützen, verlangt er von der gesamten Bevölkerung einen digitalen Ausweis. Wir zeigen, was der Entwurf wirklich vorsieht, warum er die falschen Adressaten trifft und welche Alternativen es gegeben hätte. ">Digitaler Ausweiszwang statt Kinderschutz</a></li>
+<li class="outline-link"><span class="outline-site">Chaos Computer Club:</span> <a href="https://www.ccc.de/updates/2026/kids-act" target="_blank" rel="noopener noreferrer" title="Die EU-Kommission hat einen Entwurf zum „EU Kids Act“ vorgestellt. Er bedeutet nichts Gutes für die Zukunft des freien und fairen Internet: Anstatt Kinder wirklich zu schützen, bedeutet er das Ende...">Schlimmer als Stoppschilder fürs Internet: Der EU Kids Act</a></li>
+<li class="outline-link"><span class="outline-site">Electronic Frontier Foundation:</span> <a href="https://www.eff.org/deeplinks/2026/09/eu-kids-act-wont-keep-internet-accountable-and-trustworthy" target="_blank" rel="noopener noreferrer" title="The EU Commission draft law to restrict young people’s access to the internet that it presented last week will come at a high cost: it will put online services behind age gates, expand the use of intrusive age verification, and undermine the privacy of all users. The EU Kids Act aims to protect...">EU Kids Act Won&#39;t Keep the Internet Accountable and Trustworthy</a></li>
+<li class="outline-link"><span class="outline-site">European Commission &#8211; Have your say:</span> <a href="https://ec.europa.eu/info/law/better-regulation/" target="_blank" rel="noopener noreferrer" title="European Commission - Have your say">European Commission &#8211; Have your say</a></li>
+  </ul>
+</div>
+
+<div class="outline-chapter">
+  <h2>AT: Meta SmartGlasses Petition für Verbot</h2>
+  <ul>
+    <li class="outline-link"><span class="outline-site">aktion.aufstehn.at:</span> <a href="https://aktion.aufstehn.at/andere/smartglasses/petition" target="_blank" rel="noopener noreferrer" title="Bundeskanzler Stocker und Staatssekretär Pröll: Stoppen Sie die heimliche Überwachung mit Smartglasses!">Jetzt Petition unterzeichnen: Smartglasses stoppen!</a></li>
+<li class="outline-link"><span class="outline-site">epicenter.works:</span> <a href="https://epicenter.works/content/erster-erfolg-gegen-meta-smart-glasses-regierung-kuendigt-regeln-fuer-smartglasses-an" target="_blank" rel="noopener noreferrer" title="Auf den ersten Blick kann man Smartglasses nicht von einer normalen Brille unterscheiden und trotzdem kann man gefilmt werden, ohne es zu wissen. Damit zieht Überwachung in den Alltag und den öffentlichen Raum ein und viele sozialen Situationen können damit gefilmt und ins Netz gestellt werden. Nicht mit uns! Nach nur wenigen Wochen und über 29.000 Unterschriften hat die Bundesregierung auf unsere gemeinsame Petition mit #aufstehn reagiert!">Erster Erfolg gegen Meta Smart Glasses – Regierung kündigt Regulierung an!</a></li>
+<li class="outline-link"><span class="outline-site">DER STANDARD:</span> <a href="https://www.derstandard.at/story/3000000341251/schueler-muss-smartbrille-von-meta-nicht-absetzen-trotz-empoerung-in-seiner-schule" target="_blank" rel="noopener noreferrer" title="Ein Bub will seine Smartbrille auch in der Schule tragen. Lehrer und Schüler fühlen sich überwacht. Die Eltern des Buben zogen vor Gericht, das ihnen recht gab. Das Bildungsministerium prüft nun ein allgemeines Verbot von Smartglasses an Schulen">Schüler muss Smartbrille von Meta nicht absetzen – trotz Empörung in seiner Schule</a></li>
+  </ul>
+</div>
+
+<div class="outline-chapter">
+  <h2>AT: Staatstrojaner in Österreich vor dem Verfassungsgerichtshof</h2>
+  <ul>
+    <li class="outline-link"><span class="outline-site">epicenter.works:</span> <a href="https://epicenter.works/content/bundestrojaner-beschlossen-und-jetzt" target="_blank" rel="noopener noreferrer" title="Der Bundestrojaner ist zurück - Am 9. Juli beschließt der österreichische Nationalrat (erneut) den Bundestrojaner, mit den Stimmen von zwei Parteien, die mit uns noch das erste Gesetz zur Spionagesoftware zu Fall gebracht haben. Aber was genau heißt das jetzt für uns?">Bundestrojaner beschlossen – und jetzt?</a></li>
+<li class="outline-link"><span class="outline-site">DER STANDARD:</span> <a href="https://www.derstandard.at/story/3000000327652/messenger-ueberwachung-vfgh-laesst-sich-oevp-prestigeprojekt-in-oeffentlicher-sitzung-ganz-genau-erklaeren" target="_blank" rel="noopener noreferrer" title="Der Verfassungsgerichtshof beschäftigt sich wegen eines Antrags der Freiheitlichen und der Grünen mit dem schwarz-rot-pinken Gesetzesbeschluss – und hält eine seiner seltenen mündlichen Verhandlungen ab">Messenger-Überwachung: VfGH lässt sich ÖVP-Prestigeprojekt in öffentlicher Sitzung ganz genau erklären</a></li>
+<li class="outline-link"><span class="outline-site">DER STANDARD:</span> <a href="https://www.derstandard.at/jetzt/livebericht/3000000327654/dsn-chefin-zu-messenger-ueberwachung-sicherheitsluecken-wuerden-nicht-zwingend-ausgenutzt" target="_blank" rel="noopener noreferrer" title="Der Verfassungsgerichtshof beschäftigt sich mit dem schwarz-rot-pinken Gesetz. FPÖ und Grüne hatten sich an das Höchstgericht gewandt. Ein IT-Experte soll zentrale Fragen zu dem Gesetz klären">Informatiker zu Messenger-Überwachung: &quot;Man muss dem Hersteller der Software vertrauen&quot;</a></li>
+  </ul>
+</div>
+
+<div class="outline-chapter">
+  <h2>AT: Gesichtserkennung für österreichische Polizei verboten</h2>
+  <ul>
+    <li class="outline-link"><span class="outline-site">epicenter.works:</span> <a href="https://epicenter.works/content/dsb-erklaert-einsatz-von-gesichtserkennung-durch-polizei-fuer-rechtswidrig" target="_blank" rel="noopener noreferrer" title="Ein Foto von einer Demo, ein automatisierter Abgleich mit einer Datenbank von über 600.000 Gesichtern, ein Ermittlungsverfahren gegen eine unschuldige Person. Wir haben Beschwerde eingereicht und die DSB hat entschieden: Das war rechtswidrig. Und diese Entscheidung reicht weit über den Einzelfall hinaus.">DSB erklärt Einsatz von Gesichtserkennung durch Polizei für rechtswidrig</a></li>
+  </ul>
+</div>
+
+<div class="outline-chapter">
+  <h2>AT: Begutachtungs-Monitor.at</h2>
+  <ul>
+    <li class="outline-link"><span class="outline-site">Begutachtungs-Monitor:</span> <a href="https://begutachtungs-monitor.at/" target="_blank" rel="noopener noreferrer" title="Laufende Begutachtungen des Bundes und der Länder: Fristen und Stellungnahmen – und was danach aus jedem Entwurf wurde: Regierungsvorlage, Beschluss, Gesetzblatt.">Begutachtungs-Monitor</a></li>
+<li class="outline-link"><span class="outline-site">bundestagszusammenfasser.de:</span> <a href="https://bundestagszusammenfasser.de/" target="_blank" rel="noopener noreferrer">Bundestagszusammenfasser</a></li>
+  </ul>
+</div>
+
+<div class="outline-chapter">
+  <h2>AT: Netzpolitischer Abend im Parlament zu Ethical Hacking</h2>
+  <ul>
+    <li class="outline-link"><span class="outline-site">epicenter.works:</span> <a href="https://epicenter.works/content/ethical-hacking-im-parlament-78-netzpolitischer-abend-am-22102026" target="_blank" rel="noopener noreferrer" title="Podiumsdiskussion im Parlament zur rechtlichen Absicherung von Ethical Hacking in Österreich, im Rahmen unseres traditionellen Netzpolitischen Abends (NetzPAT). Ihr seid alle willkommen!">Ethical Hacking im Parlament. 77. Netzpolitischer Abend am 22.10.2026</a></li>
+<li class="outline-link"><span class="outline-site">epicenter.works:</span> <a href="https://epicenter.works/content/gute-hacker-schlechtes-recht" target="_blank" rel="noopener noreferrer" title="Wer Sicherheitslücken findet und meldet, macht uns alle sicherer und riskiert in Österreich trotzdem eine Anzeige. Ethical Hacking braucht dringend rechtliche Absicherung und wir deine Erfahrungen.">Gute Hacker, schlechtes Recht</a></li>
+  </ul>
+</div>
+
+</div>
+]]></content:encoded>
+      <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+        <psc:chapter start="00:00:00.000" title="Intro"/>
+        <psc:chapter start="00:00:32.479" title="Prolog"/>
+        <psc:chapter start="00:10:53.561" title="LNP Salon 2"/>
+        <psc:chapter start="00:11:37.046" title="Cyber: Mercenary Spyware auf Parlamentarier"/>
+        <psc:chapter start="00:19:12.452" title="Cyber: php2shell"/>
+        <psc:chapter start="00:21:56.650" title="Cyber: Kühltruhengate"/>
+        <psc:chapter start="00:25:18.245" title="Cyber: Binance Hack"/>
+        <psc:chapter start="00:28:34.903" title="Digital Networks Act"/>
+        <psc:chapter start="01:14:27.415" title="d-you im Bundestag"/>
+        <psc:chapter start="01:19:40.531" title="Gesetz zum digitalem Ausweiszwang"/>
+        <psc:chapter start="01:32:59.076" title="AT: Meta SmartGlasses Petition für Verbot"/>
+        <psc:chapter start="01:36:54.262" title="AT: Staatstrojaner in Österreich"/>
+        <psc:chapter start="01:38:39.455" title="AT: Gesichtserkennung für österreichische Polizei verboten"/>
+        <psc:chapter start="01:40:01.975" title="AT: Begutachtungs-Monitor.at"/>
+        <psc:chapter start="01:41:30.702" title="AT: Netzpolitischer Abend im Parlament zu Ethical Hacking"/>
+        <psc:chapter start="01:44:58.374" title="Epilog"/>
+      </psc:chapters>
+      <podcast:chapters url="https://logbuch-netzpolitik.de/lnp564-im-himmel-regiert-der-liebe-gott?chapters_format=pijson" type="application/json+chapters"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp564-im-himmel-regiert-der-liebe-gott?podlove_transcript=webvtt" type="text/vtt"/>
+      <podcast:transcript url="https://logbuch-netzpolitik.de/lnp564-im-himmel-regiert-der-liebe-gott?podlove_transcript=json_podcastindex" type="application/json"/>
+      <atom:contributor>
+        <atom:name>Linus Neumann</atom:name>
+        <atom:uri>http://www.linus-neumann.de/</atom:uri>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>Tim Pritlove</atom:name>
+        <atom:uri>http://tim.pritlove.org/</atom:uri>
+      </atom:contributor>
+      <podcast:person img="https://media.metaebene.me/media/metaebene/contributors/linus-neumann.jpg">Linus Neumann</podcast:person>
+      <podcast:person img="https://logbuch-netzpolitik.de/files/2020/11/IMG_4799.jpeg">Tim Pritlove</podcast:person>
+    </item>
     <item>
       <title>LNP563 Des Kaisers neue Kleider</title>
       <link>https://logbuch-netzpolitik.de/lnp563-des-kaisers-neue-kleider</link>

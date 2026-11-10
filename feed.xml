@@ -7,7 +7,7 @@
     <title>Logbuch:Netzpolitik</title>
     <link>https://logbuch-netzpolitik.de</link>
     <description><![CDATA[Einblicke und Ausblicke in das netzpolitische Geschehen]]></description>
-    <lastBuildDate>Thu, 05 Nov 2026 14:46:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 10:41:32 +0000</lastBuildDate>
     <image>
       <url>https://media.metaebene.me/media/lnp/lnp-logo-600x600.jpg</url>
       <title>Logbuch:Netzpolitik</title>
@@ -115,6 +115,26 @@
 </li>
 <li>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#038;hosted_button_id=BQTHPPWX5VQDW">Paypal</a>
+</li>
+</ul>
+</li>
+<li>
+<strong>Thomas Lohninger</strong>
+<ul>
+<li>
+<a href="https://twitter.com/socialhack">Twitter</a>
+</li>
+<li>
+<a href="https://chaos.social/@socialhack">Mastodon</a>
+</li>
+<li>
+<a href="http://socialhack.eu">Website</a>
+</li>
+<li>
+<a href="https://amzn.to/2NCvxeo">Amazon Wishlist</a>
+</li>
+<li>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#038;hosted_button_id=P37GLNRCZGMMC">Paypal</a>
 </li>
 </ul>
 </li>
@@ -317,8 +337,12 @@
         <atom:name>Tim Pritlove</atom:name>
         <atom:uri>http://tim.pritlove.org/</atom:uri>
       </atom:contributor>
+      <atom:contributor>
+        <atom:name>Thomas Lohninger</atom:name>
+      </atom:contributor>
       <podcast:person img="https://media.metaebene.me/media/metaebene/contributors/linus-neumann.jpg">Linus Neumann</podcast:person>
       <podcast:person img="https://logbuch-netzpolitik.de/files/2020/11/IMG_4799.jpeg">Tim Pritlove</podcast:person>
+      <podcast:person img="https://media.metaebene.me/media/metaebene/contributors/thomas-lohninger.jpg">Thomas Lohninger</podcast:person>
     </item>
     <item>
       <title>LNP563 Des Kaisers neue Kleider</title>
